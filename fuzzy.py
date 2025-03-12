@@ -11,6 +11,7 @@ def fuzzy_lookup(drugs, statuses, pdl_date, state_input):
     final_pdl_drugs = []
     final_statuses = []
     final_scores = []
+    asdfsdfsad
 
     for drug in drugs['Drugs']:
         result_stats = []
