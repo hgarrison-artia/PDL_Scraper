@@ -4,7 +4,7 @@ import tabula
 A = 176.328
 B = 52.128
 C = 498.87
-D = 544.33
+D = 544.33asAs
 
 tables = tabula.read_pdf('GA.pdf', area=[A,B,A+D,B+C], pages='all')
 
