@@ -1,7 +1,8 @@
 import pandas as pd
 import docx
+import os
 
-doc_path = 'CO.docx'
+doc_path = '/Users/hgarrison/Documents/PDL Checker/CO/CO.docx'
 
 doc = docx.Document(doc_path)
 all_tables = []
@@ -83,4 +84,4 @@ for table in doc.tables:
 
 final_df = pd.concat(all_tables)
 
-final_df.to_csv('../CO_PDL.csv', index=False)
+final_df.to_csv('CO_PDL.csv', index=False)

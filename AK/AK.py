@@ -13,4 +13,4 @@ df.columns = ['Group', 'Market Basket', 'Product', 'Type', 'GNN', 'Strength', 'P
 
 print(df)
 
-df.to_csv('../AK_PDL.csv', index=False)
+df.to_csv('AK_PDL.csv', index=False)

@@ -13,4 +13,4 @@ df.columns = ['Drug', 'Preferred', 'Non-Preferred', 'PA', 'QLL']
 
 print(df)
 
-df.to_csv('../GA_PDL.csv', index=False)
+df.to_csv('GA_PDL.csv', index=False)
