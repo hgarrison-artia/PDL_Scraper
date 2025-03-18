@@ -74,7 +74,7 @@ for row in ws.iter_rows(min_row=header_row + 1, values_only=True):
         extracted_row[3] = "Error"  # Set invalid values to "Error"
     if extracted_row[4] and not validate_numeric(extracted_row[4]):
         extracted_row[4] = "Error"  # Set invalid values to "Error"
-    if extracted_row[5] and not validate_yes_no(extracted_row[5]):
+    if extracted_row[5] and not validate_text(extracted_row[5]):
         extracted_row[5] = "Error"  # Set invalid values to "Error"
 
     # Ensure Therapeutic Category is filled down
