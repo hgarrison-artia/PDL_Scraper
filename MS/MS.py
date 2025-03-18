@@ -52,4 +52,4 @@ for table in doc.tables:
 
 final_df = pd.concat(all_tables).reset_index(drop=True)
 print(final_df)
-final_df.to_csv('../MS_PDL.csv', index=False)
+final_df.to_csv('MS_PDL.csv', index=False)
