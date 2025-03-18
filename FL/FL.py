@@ -31,7 +31,7 @@ if not header_row or not column_indices:
     raise ValueError("Header row not found or required columns are missing. Please check the file structure.")
 
 # Define the output CSV column headers
-column_headers = ["Therapeutic Category", "Brand Name", "Generic Name", "Min Age", "Max Age", "PA Required"]
+column_headers = ["Therapeutic Category", "Label Name", "Generic Name", "Min Age", "Max Age", "PA Required"]
 
 # Initialize data list
 data = [column_headers]

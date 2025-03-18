@@ -109,6 +109,9 @@ elif state_input == 'AK':
         'Non-Preferred': non_preferred_drugs
     })
 
+elif state_input == 'FL':
+    None
+
 
 completed_df, non_pdl_df, skipped_df = fuzzy_lookup(drugs, statuses, pdl_date, state_input)
 
