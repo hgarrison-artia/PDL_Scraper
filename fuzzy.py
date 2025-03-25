@@ -67,7 +67,7 @@ def fuzzy_lookup(drugs, statuses, pdl_date, state_input):
 
 drugs = pd.read_csv('drugs.csv')
 state_input = input('What state would you like to test? ')
-pdl_date = input('What is the date of the PDL? (mmddyyyy) ')
+pdl_date = input('What is the effective date of the PDL? (mmddyyyy) ')
 
 if state_input == 'MS':
     statuses = pd.read_csv('MS_PDL.csv')
@@ -110,8 +110,55 @@ elif state_input == 'AK':
     })
 
 elif state_input == 'FL':
-    None
+    # FL has a different structure for the PDL
 
+    statuses = pd.read_csv('FL_PDL.csv')
+
+    preferred_drugs = statuses.loc[statuses['Generic Name'].notna(), 'Generic Name'].reset_index(drop=True)
+
+    non_preferred_drugs = pd.Series(dtype='object')
+
+    max_len = max(len(preferred_drugs), len(non_preferred_drugs))
+
+    preferred_drugs = preferred_drugs.reindex(range(max_len), fill_value=None)
+    non_preferred_drugs = non_preferred_drugs.reindex(range(max_len), fill_value=None)
+
+    statuses = pd.DataFrame({
+        'Preferred': preferred_drugs,
+        'Non-Preferred': non_preferred_drugs
+    })
+
+elif state_input == 'IA':
+    statuses = pd.read_csv('IA_PDL.csv')
+
+    preferred_drugs = statuses.loc[statuses['Preferred, Non-Preferred, Reviewed, Non-Reviewed'] == 'P', 'Drug Name'].reset_index(drop=True)
+
+    non_preferred_drugs = statuses.loc[statuses['Preferred, Non-Preferred, Reviewed, Non-Reviewed'] == 'NP', 'Drug Name'].reset_index(drop=True)
+
+    max_len = max(len(preferred_drugs), len(non_preferred_drugs))
+    preferred_drugs = preferred_drugs.reindex(range(max_len))
+    non_preferred_drugs = non_preferred_drugs.reindex(range(max_len))
+
+    statuses = pd.DataFrame({
+        'Preferred': preferred_drugs,
+        'Non-Preferred': non_preferred_drugs
+    })
+
+elif state_input == 'IL':
+    statuses = pd.read_csv('IL_PDL.csv')
+
+    preferred_drugs = statuses.loc[(statuses['Status'] == 'PREFERRED') | (statuses['Status'] == 'PREFERRED_WITH_PA'), 'Drug Name'].reset_index(drop=True)
+
+    non_preferred_drugs = statuses.loc[statuses['Status'] == 'NON_PREFERRED', 'Drug Name'].reset_index(drop=True)
+
+    max_len = max(len(preferred_drugs), len(non_preferred_drugs))
+    preferred_drugs = preferred_drugs.reindex(range(max_len))
+    non_preferred_drugs = non_preferred_drugs.reindex(range(max_len))
+
+    statuses = pd.DataFrame({
+        'Preferred': preferred_drugs,
+        'Non-Preferred': non_preferred_drugs
+    })
 
 completed_df, non_pdl_df, skipped_df = fuzzy_lookup(drugs, statuses, pdl_date, state_input)
 
