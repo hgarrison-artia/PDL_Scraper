@@ -4,52 +4,48 @@ import docx
 doc_path = 'LA.docx'
 
 doc = docx.Document(doc_path)
+
+# Change the style of all text in table cells to "Normal"
+for table in doc.tables:
+    for row in table.rows:
+        for cell in row.cells:
+            for paragraph in cell.paragraphs:
+                if paragraph.style.name != "Normal":
+                    paragraph.style = doc.styles["Normal"]
+
 all_tables = []
-
-def get_first_two_unique_columns(df):
-    # Ensure there are at least two columns
-    if df.shape[1] < 2:
-        raise ValueError("DataFrame must have at least two columns")
-    
-    first_col = df.iloc[:, 0]  # Always take the first column
-    selected_columns = [first_col]
-    
-    # Iterate through remaining columns to find a unique second column
-    for i in range(1, df.shape[1]):
-        candidate_col = df.iloc[:, i]
-        
-        # Ignore the first 3 rows when checking for uniqueness
-        if not first_col.iloc[3:].equals(candidate_col.iloc[3:]):
-            selected_columns.append(candidate_col)
-            break
-    
-    # If we couldn't find a second unique column, raise an error
-    if len(selected_columns) < 2:
-        raise ValueError("Could not find two unique columns in the DataFrame")
-    
-    # Create new DataFrame with selected columns
-    return pd.DataFrame({"Col1": selected_columns[0], "Col2": selected_columns[1]})
-
 
 for table in doc.tables:
     data = []
+
     for row in table.rows:
+        # Remove unnecessary texts from the table: these do not translate well when converted to csv file
+        for cell in row.cells:
+            if '®' in cell.text:
+                cell.text = cell.text.replace('®', '')
+            if '™' in cell.text:
+                cell.text = cell.text.replace('™', '')
+            if '*Request Form' in cell.text:
+                cell.text = cell.text.replace('*Request Form', '')
+            if '*Criteria' in cell.text:
+                cell.text = cell.text.replace('*Criteria', '')
+            if '*POS Edits' in cell.text:
+                cell.text = cell.text.replace('*POS Edits', '')
+
         data.append([cell.text.strip() for cell in row.cells])  # Extract text from each cell
 
-    df = pd.DataFrame(data)  # Convert to DataFrame
-    df.columns = df.iloc[0]
-    df = df[1:]
+    if data:  # Proceed only if the table has non-empty rows
+        df = pd.DataFrame(data)  # Convert to DataFrame
+        df.columns = df.iloc[0]
+        df = df[1:]
 
-    new_df = get_first_two_unique_columns(df)
+        # Remove rows where all columns are empty
+        df = df.dropna(how='all')
 
-    new_df.columns = ['PREFERRED AGENTS', 'NON-PREFERRED AGENTS']
-
-
-    same_value_rows = new_df[new_df.apply(lambda x: x.nunique() == 1, axis=1)]
-    df_filtered = new_df.drop(same_value_rows.index).reset_index(drop=True)
-
-    all_tables.append(df_filtered)
+        if "Drugs on PDL" in df.columns and "Drugs on NPDL which Require Prior Authorization (PA)" in df.columns:
+            df = df.rename(columns={"Drugs on PDL": "Preferred", "Drugs on NPDL which Require Prior Authorization (PA)": "Non-Preferred"})
+            all_tables.append(df)
 
 final_df = pd.concat(all_tables).reset_index(drop=True)
 print(final_df)
-final_df.to_csv('../LA_PDL.csv', index=False)
+final_df.to_csv('../LA_PDL.csv', index=False, encoding='utf-8-sig')  # Use utf-8-sig to avoid BOM character
