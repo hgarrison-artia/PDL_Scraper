@@ -75,7 +75,7 @@ for row in ws.iter_rows(min_row=header_row + 1, values_only=True):
     data.append(extracted_row)
 
 # Export data to CSV
-csv_file_path = "../IL_PDL.csv" 
+csv_file_path = "IL_PDL.csv" 
 with open(csv_file_path, mode="w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
     writer.writerows(data)

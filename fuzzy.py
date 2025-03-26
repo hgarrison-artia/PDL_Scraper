@@ -69,16 +69,18 @@ drugs = pd.read_csv('drugs.csv')
 state_input = input('What state would you like to test? ')
 pdl_date = input('What is the effective date of the PDL? (mmddyyyy) ')
 
+statuses = pd.read_csv(f'{state_input}/{state_input}_PDL.csv')
+
 if state_input == 'MS':
-    statuses = pd.read_csv('MS_PDL.csv')
+    #statuses = pd.read_csv('MS_PDL.csv')
     statuses.columns = ['Preferred', 'Non-Preferred']
 
 elif state_input == 'CO':
-    statuses = pd.read_csv('CO_PDL.csv')
+    #statuses = pd.read_csv('CO_PDL.csv')
     statuses.columns = ['Preferred', 'Non-Preferred']
 
 elif state_input == 'GA':
-    statuses = pd.read_csv('GA_PDL.csv')
+    #statuses = pd.read_csv('GA_PDL.csv')
 
     preferred_drugs = statuses.loc[statuses['Preferred'] == 'P', 'Drug'].reset_index(drop=True)
 
@@ -94,7 +96,7 @@ elif state_input == 'GA':
     })
 
 elif state_input == 'AK':
-    statuses = pd.read_csv('AK_PDL.csv')
+    #statuses = pd.read_csv('AK_PDL.csv')
 
     preferred_drugs = statuses.loc[statuses['PDL Status'] == 'ON', 'Product'].reset_index(drop=True)
 
@@ -112,7 +114,7 @@ elif state_input == 'AK':
 elif state_input == 'FL':
     # FL has a different structure for the PDL
 
-    statuses = pd.read_csv('FL_PDL.csv')
+    #statuses = pd.read_csv('FL_PDL.csv')
 
     preferred_drugs = statuses.loc[statuses['Generic Name'].notna(), 'Generic Name'].reset_index(drop=True)
 
@@ -129,7 +131,7 @@ elif state_input == 'FL':
     })
 
 elif state_input == 'IA':
-    statuses = pd.read_csv('IA_PDL.csv')
+    #statuses = pd.read_csv('IA_PDL.csv')
 
     preferred_drugs = statuses.loc[statuses['Preferred, Non-Preferred, Reviewed, Non-Reviewed'] == 'P', 'Drug Name'].reset_index(drop=True)
 
@@ -145,7 +147,7 @@ elif state_input == 'IA':
     })
 
 elif state_input == 'IL':
-    statuses = pd.read_csv('IL_PDL.csv')
+    #statuses = pd.read_csv('IL_PDL.csv')
 
     preferred_drugs = statuses.loc[(statuses['Status'] == 'PREFERRED') | (statuses['Status'] == 'PREFERRED_WITH_PA'), 'Drug Name'].reset_index(drop=True)
 
@@ -162,6 +164,6 @@ elif state_input == 'IL':
 
 completed_df, non_pdl_df, skipped_df = fuzzy_lookup(drugs, statuses, pdl_date, state_input)
 
-completed_df.to_excel(f'{state_input}_completed_output.xlsx', index=False)
-non_pdl_df.to_excel(f'{state_input}_non_pdl_output.xlsx', index=False)
-skipped_df.to_excel(f'{state_input}_skipped_output.xlsx', index=False)
+completed_df.to_excel(f'{state_input}/{state_input}_completed_output.xlsx', index=False)
+non_pdl_df.to_excel(f'{state_input}/{state_input}_non_pdl_output.xlsx', index=False)
+skipped_df.to_excel(f'{state_input}/{state_input}_skipped_output.xlsx', index=False)

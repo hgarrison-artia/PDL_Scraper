@@ -83,4 +83,4 @@ for table in doc.tables:
 
 final_df = pd.concat(all_tables)
 
-final_df.to_csv('../CO_PDL.csv', index=False)
+final_df.to_csv('CO_PDL.csv', index=False)
