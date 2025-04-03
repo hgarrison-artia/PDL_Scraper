@@ -1,11 +1,23 @@
 import pandas as pd
+import os
+import sys
+from utils import resource_path
+
+
+def get_base_dir():
+    if getattr(sys, 'frozen', False):
+        # When bundled with PyInstaller, the executable’s directory is used.
+        return os.path.dirname(sys.executable)
+    else:
+        # When running as a script, use the directory of the script.
+        return os.path.dirname(os.path.abspath(__file__))
 
 class DataManager:
     def __init__(self, state):
         self.state = state
-        self.pdl_df = pd.read_csv(f'{state}/{state}_PDL.csv')
-        self.capsule_df = pd.read_csv('drugs.csv')
-        self.state_data = pd.read_csv(f'{state}/{state}_data.csv')
+        self.pdl_df = pd.read_csv(resource_path(f'{state}/{state}_PDL.csv'))
+        self.capsule_df = pd.read_csv(resource_path('drugs.csv'))
+        self.state_data = pd.read_csv(resource_path(f'{state}/{state}_data.csv'))
         self.in_data = []
         self.not_in_data = []
         self.statuses = []
@@ -75,7 +87,21 @@ class DataManager:
     def save_dataframes(self):
         output_df = pd.DataFrame(self.statuses)
         skipped_df = pd.DataFrame(self.skipped_drugs)
-        output_df.to_csv(f'{self.state}/{self.state}_output_data.csv', index=False)
-        skipped_df.to_csv(f'{self.state}/{self.state}_skipped_data.csv', index=False)
-        self.state_data.to_csv(f'{self.state}/{self.state}_data.csv', index=False)
+
+        base_dir = get_base_dir()  # Use the base directory of the executable or script
+        output_dir = os.path.join(base_dir, self.state)
+        os.makedirs(output_dir, exist_ok=True)  # Ensure the directory exists
+
+        # Save state data
+        output_path = os.path.join(output_dir, f'{self.state}_data.csv')
+        self.state_data.to_csv(output_path, index=False)
+
+        # Save output data
+        output_path = os.path.join(output_dir, f'{self.state}_output_data.csv')
+        output_df.to_csv(output_path, index=False)
+
+        # Save skipped data
+        output_path = os.path.join(output_dir, f'{self.state}_skipped_data.csv')
+        skipped_df.to_csv(output_path, index=False)
+
         print("Dataframes saved successfully.")
