@@ -6,6 +6,9 @@ class DataManager:
         self.pdl_df = pd.read_csv(f'{state}/{state}_PDL.csv')
         self.capsule_df = pd.read_csv('drugs.csv')
         self.state_data = pd.read_csv(f'{state}/{state}_data.csv')
+        self.pdl_df = pd.read_csv(f'{state}/{state}_PDL.csv')
+        self.capsule_df = pd.read_csv('drugs.csv')
+        self.state_data = pd.read_csv(f'{state}/{state}_data.csv')
         self.in_data = []
         self.not_in_data = []
         self.statuses = []
@@ -74,8 +77,19 @@ class DataManager:
         
     def save_dataframes(self):
         output_df = pd.DataFrame(self.statuses)
+        skipped_df = pd.DataFrame(self.skipped_drugs).drop_duplicates()
+        output_df.to_csv(f'{self.state}/{self.state}_output_data.csv', index=False)
+        skipped_df.to_csv(f'{self.state}/{self.state}_skipped_data.csv', index=False)
+        self.state_data.sort_values('capsule_name').to_csv(f'{self.state}/{self.state}_data.csv', index=False)
         skipped_df = pd.DataFrame(self.skipped_drugs)
         output_df.to_csv(f'{self.state}/{self.state}_output_data.csv', index=False)
         skipped_df.to_csv(f'{self.state}/{self.state}_skipped_data.csv', index=False)
         self.state_data.to_csv(f'{self.state}/{self.state}_data.csv', index=False)
         print("Dataframes saved successfully.")
+
+    def remove_last_assignment(self):
+        """Remove the last assignment from statuses and state_data."""
+        if self.statuses:
+            self.statuses.pop()
+        if not self.state_data.empty:
+            self.state_data = self.state_data.iloc[:-1]

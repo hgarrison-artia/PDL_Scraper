@@ -60,6 +60,11 @@ class DrugMatcherApp:
             self.data_manager.save_dataframes()
             self.root.destroy()
             
-        # Create a Toplevel window rather than a new Tk() instance
-        selector = DrugSelectorGUI(self.root, drug, matches, save_callback, skip_callback, exit_callback)
+        def back_callback():
+            if self.current_index > 0:
+                self.data_manager.remove_last_assignment()
+                self.current_index -= 1
+            self.process_next(self.current_index)
+            
+        selector = DrugSelectorGUI(self.root, drug, matches, save_callback, skip_callback, exit_callback, back_callback)
         selector.grab_set()  # Makes the window modal
