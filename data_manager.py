@@ -52,6 +52,9 @@ class DataManager:
                     })
             else:
                 # If the pdl_name isn’t found in the PDL dataframe, add to not_in_data for manual processing
+                self.state_data = self.state_data[(self.state_data['therapeutic_class']!=entry['therapeutic_class']) & 
+                                                  (self.state_data['capsule_name']!=entry['capsule_name']) & 
+                                                  (self.state_data['pdl_name']!=entry['pdl_name'])]
                 self.not_in_data.append(entry['capsule_name'])
                 
     def add_status(self, therapeutic_class, capsule_name, pdl_name, status):
@@ -78,13 +81,13 @@ class DataManager:
     def save_dataframes(self):
         output_df = pd.DataFrame(self.statuses)
         skipped_df = pd.DataFrame(self.skipped_drugs).drop_duplicates()
-        output_df.to_csv(f'{self.state}/{self.state}_output_data.csv', index=False)
+        output_df.sort_values('capsule_name').to_csv(f'{self.state}/{self.state}_output_data.csv', index=False)
         skipped_df.to_csv(f'{self.state}/{self.state}_skipped_data.csv', index=False)
         self.state_data.sort_values('capsule_name').to_csv(f'{self.state}/{self.state}_data.csv', index=False)
         skipped_df = pd.DataFrame(self.skipped_drugs)
-        output_df.to_csv(f'{self.state}/{self.state}_output_data.csv', index=False)
-        skipped_df.to_csv(f'{self.state}/{self.state}_skipped_data.csv', index=False)
-        self.state_data.to_csv(f'{self.state}/{self.state}_data.csv', index=False)
+        #output_df.to_csv(f'{self.state}/{self.state}_output_data.csv', index=False)
+        #skipped_df.to_csv(f'{self.state}/{self.state}_skipped_data.csv', index=False)
+        #self.state_data.to_csv(f'{self.state}/{self.state}_data.csv', index=False)
         print("Dataframes saved successfully.")
 
     def remove_last_assignment(self):

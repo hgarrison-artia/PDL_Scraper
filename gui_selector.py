@@ -41,6 +41,8 @@ class DrugSelectorGUI(Toplevel):
         # Use a Tkinter Listbox for the match list with larger font and increased size
         self.listbox = tk.Listbox(self, width=80, height=15, font=("Helvetica", 14))
         self.listbox.grid(row=1, column=0, columnspan=3, padx=10, pady=10)
+        
+        self.listbox.bind("<Double-Button-1>", self.on_double_click)
 
         # Populate the listbox with the match options
         for _, row in self.matches.iterrows():
@@ -65,22 +67,38 @@ class DrugSelectorGUI(Toplevel):
         self.columnconfigure(1, weight=1)
         self.columnconfigure(2, weight=1)
 
+    def on_double_click(self, event):
+        """Handler for double-click events in the listbox to trigger save functionality."""
+        self.save_selection()
+
     def save_selection(self):
         selected_index = self.listbox.curselection()
         if selected_index:
             selected_text = self.listbox.get(selected_index[0])
             selected_drug = selected_text.split(" | ")[0]  # Extract pdl_name
             self.save_callback(selected_drug)
-        self.destroy()
+        try:
+            self.destroy()
+        except tk.TclError:
+            None
 
     def skip_drug(self):
         self.skip_callback()
-        self.destroy()
+        try:
+            self.destroy()
+        except tk.TclError:
+            None
 
     def exit_program(self):
         self.exit_callback()
-        self.destroy()
+        try:
+            self.destroy()
+        except tk.TclError:
+            None
 
     def back(self):
         self.back_callback()
-        self.destroy()
+        try:
+            self.destroy()
+        except tk.TclError:
+            None
