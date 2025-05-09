@@ -1,14 +1,7 @@
 import pandas as pd
-import tabula
 
-A = 55.008
-B = 51.48
-C = 499.64
-D = 682.03
+df = pd.read_excel('AK.xlsx')
 
-tables = tabula.read_pdf('AK.pdf', area=[A,B,A+D,B+C], pages='all')
-
-df = pd.concat(tables).reset_index(drop=True)
 df.columns = ['Group', 'therapeutic_class', 'pdl_name', 'Type', 'GNN', 'Strength', 'status', 'PDL Status Effective Date', 'Status Change from Previous']
 
 df = df[['therapeutic_class', 'pdl_name', 'status']]

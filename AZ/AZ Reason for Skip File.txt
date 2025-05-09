@@ -1,0 +1,3 @@
+AZ Reason for Skip File
+
+After speaking with Sara Stolfus, we have decided to forego the code creation for Arizona. This is due to the PDL for Arizona listing brands purely as reference and not necessarily as drugs on the PDL. If a generic is not on market, then it's brand equivalent will be preferred, but its not 100% which brand will be preferred. 

@@ -1,0 +1,1 @@
+The Arkansas PDL can be converted into a word document or Excel sheet to preserve tables, however the PDL positioning is not maintained in a conventional column of a table, and instead all PDL positioned drugs are placed in the same column. Perhaps looking at the underlined words could be beneficial but there are so many edge cases that it may be improbable.

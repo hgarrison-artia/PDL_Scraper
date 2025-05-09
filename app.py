@@ -66,5 +66,15 @@ class DrugMatcherApp:
                 self.current_index -= 1
             self.process_next(self.current_index)
             
-        selector = DrugSelectorGUI(self.root, drug, matches, save_callback, skip_callback, exit_callback, back_callback)
+        selector = DrugSelectorGUI(
+            self.root, 
+            drug, 
+            matches, 
+            save_callback, 
+            skip_callback, 
+            exit_callback, 
+            back_callback,
+            self.current_index,
+            len(self.not_in_data)
+        )
         selector.grab_set()  # Makes the window modal

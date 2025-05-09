@@ -3,7 +3,7 @@ from tkinter import Toplevel
 from tkinter import ttk
 
 class DrugSelectorGUI(Toplevel):
-    def __init__(self, master, drug, matches, save_callback, skip_callback, exit_callback, back_callback):
+    def __init__(self, master, drug, matches, save_callback, skip_callback, exit_callback, back_callback, current_index, total_drugs):
         super().__init__(master)
         self.title(f"Select Match for {drug}")
         self.configure(bg="#f0f0f0")  # Light gray background
@@ -14,6 +14,8 @@ class DrugSelectorGUI(Toplevel):
         self.skip_callback = skip_callback
         self.exit_callback = exit_callback
         self.back_callback = back_callback
+        self.current_index = current_index
+        self.total_drugs = total_drugs
 
         self.center_window(900, 600)  # Set window size to 900x600 and center it
         self.create_widgets()
@@ -38,9 +40,14 @@ class DrugSelectorGUI(Toplevel):
         label = ttk.Label(self, text=f"Select a match for: {self.drug}", background="#f0f0f0")
         label.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
 
+        # Add progress label
+        remaining = self.total_drugs - self.current_index
+        progress_label = ttk.Label(self, text=f"Remaining drugs to process: {remaining}", background="#f0f0f0")
+        progress_label.grid(row=1, column=0, columnspan=3, padx=10, pady=5)
+
         # Use a Tkinter Listbox for the match list with larger font and increased size
         self.listbox = tk.Listbox(self, width=80, height=15, font=("Helvetica", 14))
-        self.listbox.grid(row=1, column=0, columnspan=3, padx=10, pady=10)
+        self.listbox.grid(row=2, column=0, columnspan=3, padx=10, pady=10)
         
         self.listbox.bind("<Double-Button-1>", self.on_double_click)
 
@@ -48,19 +55,19 @@ class DrugSelectorGUI(Toplevel):
         for _, row in self.matches.iterrows():
             self.listbox.insert(tk.END, f"{row['pdl_name']} | {row['therapeutic_class']} | {row['status']}")
 
-        # Add the Back button on row 2 spanning all columns
+        # Add the Back button on row 3 spanning all columns
         btn_back = ttk.Button(self, text="Back", command=self.back)
-        btn_back.grid(row=2, column=0, columnspan=3, padx=10, pady=10, sticky="ew")
+        btn_back.grid(row=3, column=0, columnspan=3, padx=10, pady=10, sticky="ew")
 
-        # Save, Skip, and Exit buttons on row 3
+        # Save, Skip, and Exit buttons on row 4
         btn_save = ttk.Button(self, text="Save", command=self.save_selection)
-        btn_save.grid(row=3, column=0, padx=10, pady=10, sticky="ew")
+        btn_save.grid(row=4, column=0, padx=10, pady=10, sticky="ew")
 
         btn_skip = ttk.Button(self, text="Skip", command=self.skip_drug)
-        btn_skip.grid(row=3, column=1, padx=10, pady=10, sticky="ew")
+        btn_skip.grid(row=4, column=1, padx=10, pady=10, sticky="ew")
 
         btn_exit = ttk.Button(self, text="Exit and Save", command=self.exit_program)
-        btn_exit.grid(row=3, column=2, padx=10, pady=10, sticky="ew")
+        btn_exit.grid(row=4, column=2, padx=10, pady=10, sticky="ew")
 
         # Ensure the columns expand evenly
         self.columnconfigure(0, weight=1)

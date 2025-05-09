@@ -1,0 +1,3 @@
+CA Reason for Skip File
+
+California has been skipped due to its lack of a standard PDL and instead the use of it's CDL and drug lookup. Drugs must be searched on the drug lookup and then found on the cdl and there may be specific labelers it applies to. There is not a large database that houses this information and instead requires the analyst to read through textual information.
