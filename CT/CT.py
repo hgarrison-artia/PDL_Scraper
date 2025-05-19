@@ -27,7 +27,10 @@ for col in range(1, ws.max_column + 1):
         elif current_class:
             records.append((current_class, value, status))
 
-
 df = pd.DataFrame(records, columns=['therapeutic_class', 'pdl_name', 'status'])
+
+# Filter out rows where any column contains text surrounded by asterisks
+mask = ~df.apply(lambda x: x.astype(str).str.contains('\*\*\*.*\*\*\*').any(), axis=1)
+df = df[mask]
 
 df.to_csv("CT_PDL.csv", index=False)

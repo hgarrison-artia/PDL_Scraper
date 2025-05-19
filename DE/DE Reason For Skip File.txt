@@ -1,0 +1,1 @@
+DE shows very inconsistent newline characters that make it impossible to use docx to distinguish between different products.

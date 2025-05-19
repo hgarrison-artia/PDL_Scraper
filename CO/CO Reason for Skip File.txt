@@ -1,0 +1,3 @@
+Colorado’s PDL is created with Microsoft Word for Microsoft 365 and the author’s name is not available. This pdf file can be converted into different formats, including .docx and .xlsx through Adobe. 
+The converted Word document doesn’t seem to have a consistent pattern between drug names, i.e. ‘\n’ or \t’ characters, so it is difficult to distinguish each drug name. 
+We would have to research more on the application used (Microsoft Word for Microsoft 365) and see if retrieving the original Word document is possible.

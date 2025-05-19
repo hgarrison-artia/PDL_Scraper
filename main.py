@@ -19,7 +19,7 @@ def select_state():
     state_var = tk.StringVar(value="AK")
     
     # List of available states
-    states = ["AK", "AL", "CO", "FL", "GA", "IA", "IL", "LA", "MS", "TN"]
+    states = ["AK", "AL", "CT", "CO", "FL", "GA", "IA", "IL", "LA", "MS", "TN"]
     
     # Create radio buttons for each state
     for st in states:
