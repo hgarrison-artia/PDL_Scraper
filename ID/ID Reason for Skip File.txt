@@ -1,0 +1,3 @@
+Idaho's PDL is created with Microsoft Word for Microsoft 365 and the author’s name is not available. This pdf file can be converted into different formats, including .docx and .xlsx through Adobe Desktop App. 
+The converted Word document puts every Preferred/Non-Preferred drug in a class in one cell, so it doesn't seem to be code-able.
+The converted Excel document also puts Preferred/Non-Preferred drug in one cell, with the exception of highlighted cells, and the PDL is splitted into multiple sheets with seemingly irregular pattern.
