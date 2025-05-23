@@ -5,79 +5,78 @@ file_path = "IL.xlsx"
 wb = openpyxl.load_workbook(file_path)
 ws = wb.active
 
-# Unmerge all merged cells
 for merged_range in list(ws.merged_cells.ranges):
+    merged_cell = merged_range.start_cell
+    value = merged_cell.value
     ws.unmerge_cells(str(merged_range))
+    for row_col_indices in merged_range.cells:
+        ws.cell(*row_col_indices).value = value
 
-# Keywords to identify the header row
-header_keywords = {"Drug Class", "Drug Name", "Dosage Form", "Preferred", "Preferred With PA", "Non-Preferred"}
+# Converging abbreviations to full names
+conversion_wb = openpyxl.load_workbook("dosage_form_conversion.xlsx", data_only=True)
+conversion_ws = conversion_wb.active
+conversion_dict = {}
+for row in conversion_ws.iter_rows(min_row=2, values_only=True):
+    abbr, full = row
+    if abbr and full:
+        conversion_dict[str(abbr).strip()] = str(full).strip()
 
-# Find the row index where the headers appear
+header_keywords = {"Drug Class", "Drug Name", "Dosage Form", "PDL Status"}
 header_row = None
-column_indices = {}
+column_indices = {"PDL Status": []}
 
-# Find the header row and identify column indices for the relevant headers
-for idx, row in enumerate(ws.iter_rows(min_row=1, max_row=ws.max_row, values_only=True), start=1):
-    if row and any(cell in header_keywords for cell in row if cell):  # Ignore empty cells
+for idx, row in enumerate(ws.iter_rows(values_only=True), start=1):
+    if any(cell in header_keywords for cell in row if cell):
         header_row = idx
-        # Identify the column index of each required header
         for col_idx, cell in enumerate(row, start=1):
-            if cell in header_keywords:
+            if cell == "PDL Status":
+                column_indices["PDL Status"].append(col_idx)
+            elif cell in {"Drug Class", "Drug Name", "Dosage Form"}:
                 column_indices[cell] = col_idx
         break
 
-if not header_row or not column_indices:
-    raise ValueError("Header row not found or required columns are missing. Please check the file structure.")
+if not header_row or not column_indices["PDL Status"]:
+    raise ValueError("Header row not found or required columns are missing.")
 
-# Define the output CSV column headers
-column_headers = ["Therapeutic Class", "Drug Name", "Dosage Form", "Status"]
+output = [["therapeutic_class", "pdl_name", "status"]]
+last_therapeutic_class = None
 
-# Initialize data list
-data = [column_headers]
+def get_cell(row, col_name):
+    idx = column_indices.get(col_name)
+    return str(row[idx - 1]).strip() if idx and row[idx - 1] else ""
 
-# Validation functions
-def validate_text(value):
-    return isinstance(value, str) and bool(value.strip())  # Ensure it's a non-empty string
-
-last_category = None  # To track the last seen Therapeutic Category
-
-# Extract data from the relevant columns based on dynamic header detection
 for row in ws.iter_rows(min_row=header_row + 1, values_only=True):
-    # Extract the relevant columns based on the header
-    drug_class_idx = column_indices.get("Drug Class")
-    drug_name_idx = column_indices.get("Drug Name")
-    dosage_form_idx = column_indices.get("Dosage Form")
-    preferred_idx = column_indices.get("Preferred")
-    preferred_with_pa_idx = column_indices.get("Preferred With PA")
-    non_preferred_idx = column_indices.get("Non-Preferred")
-
-    therapeutic_class = row[drug_class_idx - 1] if drug_class_idx and row[drug_class_idx - 1] else None
+    therapeutic_class = get_cell(row, "Drug Class") or last_therapeutic_class
     if therapeutic_class:
-        last_category = therapeutic_class
+        last_therapeutic_class = therapeutic_class
     else:
-        therapeutic_class = last_category
+        continue
 
-    extracted_row = [
-        therapeutic_class,
-        row[drug_name_idx - 1] if drug_name_idx else None,
-        row[dosage_form_idx - 1] if dosage_form_idx else None,
-        # Concatenate the "Preferred", "Preferred With PA", and "Non-Preferred" column values
-        f"{row[preferred_idx - 1] if preferred_idx else ''} {row[preferred_with_pa_idx - 1] if preferred_with_pa_idx else ''} {row[non_preferred_idx - 1] if non_preferred_idx else ''}".strip()
-    ]
-    
-    # Validate each column before assigning
-    for i in range(len(extracted_row)):
-        if extracted_row[i] is not None and not validate_text(extracted_row[i]):
-            extracted_row[i] = "Error"
-        elif extracted_row[i] is None:
-            extracted_row[i] = "Error"
+    drug_name = get_cell(row, "Drug Name")
+    dosage_abbr = get_cell(row, "Dosage Form")
+    dosage_full = conversion_dict.get(dosage_abbr, dosage_abbr)
 
-    data.append(extracted_row)
+    status = ""
+    for col_idx in column_indices["PDL Status"]:
+        value = row[col_idx - 1]
+        if isinstance(value, str) and value.strip():
+            normalized = value.strip().lower()
+            if normalized in {"preferred", "preferred_with_pa"}:
+                status = "Preferred"
+            elif normalized == "non_preferred":
+                status = "Non-Preferred"
+            else:
+                status = value.strip()
+            break
 
-# Export data to CSV
-csv_file_path = "IL_PDL.csv" 
-with open(csv_file_path, mode="w", newline="", encoding="utf-8") as file:
-    writer = csv.writer(file)
-    writer.writerows(data)
+    pdl_name = f"{drug_name} {dosage_full}".strip()
 
-print(f"Data successfully exported to {csv_file_path}")
+    output.append([
+        therapeutic_class if therapeutic_class else "Error",
+        pdl_name if pdl_name else "Error",
+        status if status else "Error"
+    ])
+
+with open("IL_PDL.csv", "w", newline='', encoding="utf-8") as f:
+    writer = csv.writer(f)
+    writer.writerows(output)
