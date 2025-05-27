@@ -8,7 +8,7 @@ def select_state():
     root.title("Select State")
     
     # Force the window to appear on top and grab focus
-    root.attributes('-topmost', True)
+    root.attributes('-topmost', True)5
     root.update()
     # Turn off topmost after a short delay so it doesn't interfere later
     root.after(100, lambda: root.attributes('-topmost', False))
