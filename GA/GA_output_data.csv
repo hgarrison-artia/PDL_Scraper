@@ -3,9 +3,36 @@ AUTONOMIC AND CNS MEDICATIONS,Abilify Asimtufii,ABILIFY ASIMTUFII,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Abilify Maintena,ABILIFY MAINTENA,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Abilify MyCite,ABILIFY MYCITE,Non-Preferred
 GASTROINTESTINAL MEDICATIONS,Aciphex,ACIPHEX SPRINKLES,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra ACTPen, Giant Cell Arteritis",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra ACTPen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra ACTPen, Rheumatoid Arthritis",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Actemra Cytokine Release Syndrome,ACTEMRA,Non-Preferred
 MUSCULOSKELETAL MEDICATIONS,Actemra prefilled syringe,ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Cytokine Release Syndrome",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Giant Cell Arteritis",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Rheumatoid Arthritis",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Actemra syringe/vial,ACTEMRA,Non-Preferred
 MUSCULOSKELETAL MEDICATIONS,Actemra vial,ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Coronavirus Disease 2019",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Cytokine Release Syndrome",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Giant Cell Arteritis",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Rheumatoid Arthritis",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Adbry,ADBRY,Preferred
+IMMUNOSUPPRESSANT DRUGS,Adbry Atopic Dermatitis (adult),ADBRY,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Adbry Atopic Dermatitis (adult), auto-injector",ADBRY,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Adbry Atopic Dermatitis (adult), prefilled syringe",ADBRY,Preferred
+IMMUNOSUPPRESSANT DRUGS,Adbry Atopic Dermatitis (pediatric),ADBRY,Preferred
+IMMUNOSUPPRESSANT DRUGS,Adbry auto-injector,ADBRY,Preferred
+IMMUNOSUPPRESSANT DRUGS,Adbry prefilled syringe,ADBRY,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Adbry prefilled syringe, Atopic Dermatitis (pediatric)",ADBRY,Preferred
+CARDIOVASCULAR MEDICATIONS,Adcirca,tadalafil (generic Adcirca),Preferred
 CARDIOVASCULAR MEDICATIONS,Adempas,ADEMPAS,Non-Preferred
 ENDOCRINE MEDICATIONS,Adlyxin,ADLYXIN,Non-Preferred
 RESPIRATORY MEDICATIONS,Advair Diskus,ADVAIR DISKUS,Preferred
@@ -17,8 +44,10 @@ AUTONOMIC AND CNS MEDICATIONS,Aimovig,AIMOVIG,Preferred
 RESPIRATORY MEDICATIONS,Airduo Respiclick,AIRDUO RESPICLICK,Non-Preferred
 RESPIRATORY MEDICATIONS,Airsupra HFA,AIRSUPRA,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Ajovy,AJOVY,Preferred
+IMMUNOSUPPRESSANT DRUGS,Akeega,AKEEGA,Preferred
 IMMUNOSUPPRESSANT DRUGS,Alecensa,ALECENSA,Preferred
-OPHTHALMIC MEDICATIONS,Alphagan P 0.001,ALPHAGAN-P 0.1%,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Almotriptan,almotriptan generic,Non-Preferred
+OPHTHALMIC MEDICATIONS,Alphagan P 0.1%,ALPHAGAN-P 0.1%,Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Alprolix,ALPROLIX,Non-Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Altuviiio,ALTUVIIIO,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Alunbrig,ALUNBRIG,Preferred
@@ -26,9 +55,117 @@ RESPIRATORY MEDICATIONS,Alvesco,ALVESCO,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Ambien,AMBIEN,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Ambien CR,AMBIEN,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Ambrisentan,ambrisentan generic,Preferred
-IMMUNOSUPPRESSANT DRUGS,Amjevita,AMJEVITA,Non-Preferred
-IMMUNOSUPPRESSANT DRUGS,Amjevita High,AMJEVITA,Non-Preferred
-IMMUNOSUPPRESSANT DRUGS,Amjevita Low,AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Ankylosing Spondylitis,AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ankylosing Spondylitis, 100 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ankylosing Spondylitis, 10mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ankylosing Spondylitis, 20mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ankylosing Spondylitis, 20mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ankylosing Spondylitis, 40mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ankylosing Spondylitis, 40mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ankylosing Spondylitis, 50 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ankylosing Spondylitis, 80mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ankylosing Spondylitis, Amgen 55513 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ankylosing Spondylitis, Amgen 72511 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Crohn's Disease (adult),AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (adult), 100 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (adult), 10mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (adult), 20mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (adult), 20mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (adult), 40mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (adult), 40mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (adult), 50 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (adult), 80mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (adult), Amgen 55513 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (adult), Amgen 72511 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Crohn's Disease (pediatric),AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (pediatric), 100 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (pediatric), 10mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (pediatric), 20mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (pediatric), 20mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (pediatric), 40mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (pediatric), 40mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (pediatric), 50 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (pediatric), 80mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (pediatric), Amgen 55513 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Crohn's Disease (pediatric), Amgen 72511 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Hidradenitis Suppurativa,AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Hidradenitis Suppurativa, 100 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Hidradenitis Suppurativa, 10mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Hidradenitis Suppurativa, 20mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Hidradenitis Suppurativa, 20mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Hidradenitis Suppurativa, 40mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Hidradenitis Suppurativa, 40mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Hidradenitis Suppurativa, 50 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Hidradenitis Suppurativa, 80mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Hidradenitis Suppurativa, Amgen 55513 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Hidradenitis Suppurativa, Amgen 72511 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Plaque Psoriasis (adult),AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Plaque Psoriasis (adult), 100 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Plaque Psoriasis (adult), 10mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Plaque Psoriasis (adult), 20mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Plaque Psoriasis (adult), 20mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Plaque Psoriasis (adult), 40mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Plaque Psoriasis (adult), 40mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Plaque Psoriasis (adult), 50 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Plaque Psoriasis (adult), 80mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Plaque Psoriasis (adult), Amgen 55513 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Plaque Psoriasis (adult), Amgen 72511 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA),AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 100 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 10mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 20mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 20mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 40mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 40mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 50 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 80mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), Amgen 55513 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), Amgen 72511 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Psoriatic Arthritis (adult),AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Psoriatic Arthritis (adult), 100 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Psoriatic Arthritis (adult), 10mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Psoriatic Arthritis (adult), 20mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Psoriatic Arthritis (adult), 20mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Psoriatic Arthritis (adult), 40mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Psoriatic Arthritis (adult), 40mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Psoriatic Arthritis (adult), 50 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Psoriatic Arthritis (adult), 80mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Psoriatic Arthritis (adult), Amgen 55513 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Psoriatic Arthritis (adult), Amgen 72511 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Rheumatoid Arthritis,AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Rheumatoid Arthritis, 100 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Rheumatoid Arthritis, 10mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Rheumatoid Arthritis, 20mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Rheumatoid Arthritis, 20mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Rheumatoid Arthritis, 40mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Rheumatoid Arthritis, 40mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Rheumatoid Arthritis, 50 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Rheumatoid Arthritis, 80mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Rheumatoid Arthritis, Amgen 55513 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Rheumatoid Arthritis, Amgen 72511 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Ulcerative Colitis (adult),AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ulcerative Colitis (adult), 100 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ulcerative Colitis (adult), 10mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ulcerative Colitis (adult), 20mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ulcerative Colitis (adult), 20mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ulcerative Colitis (adult), 40mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ulcerative Colitis (adult), 40mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ulcerative Colitis (adult), 50 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ulcerative Colitis (adult), 80mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ulcerative Colitis (adult), Amgen 55513 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Ulcerative Colitis (adult), Amgen 72511 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Uveitis (adult),AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Uveitis (adult), 100 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Uveitis (adult), 10mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Uveitis (adult), 20mg/0.2mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Uveitis (adult), 20mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Uveitis (adult), 40mg/0.4mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Uveitis (adult), 40mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Uveitis (adult), 50 mg/mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Uveitis (adult), 80mg/0.8mL",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Uveitis (adult), Amgen 55513 labeler",AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Amjevita Uveitis (adult), Amgen 72511 labeler",AMJEVITA,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Amlodipine Besylate tablet,amlodipine,Preferred
 MUSCULOSKELETAL MEDICATIONS,Amrix,AMRIX,Non-Preferred
 OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Annovera,ANNOVERA,Non-Preferred
 RESPIRATORY MEDICATIONS,Anoro Ellipta,ANORO ELLIPTA,Preferred
@@ -36,7 +173,18 @@ ENDOCRINE MEDICATIONS,Apidra,APIDRA,Preferred
 ENDOCRINE MEDICATIONS,Apidra SoloStar,APIDRA SOLOSTAR,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Aplenzin,APLENZIN,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Aptiom,APTIOM,Preferred
+ANTIINFECTIVES,Aptivus,APTIVUS,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Aqneursa oral suspension,AQNEURSA,Preferred
+IMMUNOLOGICALS,Aranesp,ARANESP,Non-Preferred
+IMMUNOLOGICALS,Aranesp Anemia associated with chemotherapy,ARANESP,Non-Preferred
+IMMUNOLOGICALS,Aranesp Anemia associated with chronic kidney disease if patient is not on dialysis,ARANESP,Non-Preferred
+IMMUNOLOGICALS,Aranesp Anemia associated with chronic kidney disease if patient is on dialysis,ARANESP,Non-Preferred
+IMMUNOLOGICALS,Aranesp syringe,ARANESP,Non-Preferred
+IMMUNOLOGICALS,Aranesp vial,ARANESP,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Arcalyst,ARCALYST,Preferred
+IMMUNOSUPPRESSANT DRUGS,Arcalyst Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),ARCALYST,Preferred
+IMMUNOSUPPRESSANT DRUGS,Arcalyst Deficiency of Interleukin-1 Receptor Antagonist (DIRA),ARCALYST,Preferred
+IMMUNOSUPPRESSANT DRUGS,Arcalyst Recurrent Pericarditis (RP),ARCALYST,Preferred
 ANTIINFECTIVES,Arikayce,ARIKAYCE,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Aripiprazole ODT,aripiprazole odt generic,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Aripiprazole oral solution,aripiprazole oral soln. generic,Preferred
@@ -46,12 +194,23 @@ AUTONOMIC AND CNS MEDICATIONS,Aristada Initio,ARISTADA INITIO,Preferred
 ENDOCRINE MEDICATIONS,Armour Thyroid,ARMOUR THYROID,Preferred
 RESPIRATORY MEDICATIONS,Arnuity Ellipta,ARNUITY ELLIPTA,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Asenapine,asenapine sl tabs generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Asenapine sublingual tablet,asenapine sl tabs generic,Preferred
 RESPIRATORY MEDICATIONS,Asmanex HFA,ASMANEX HFA,Preferred
 RESPIRATORY MEDICATIONS,Asmanex Twisthaler,ASMANEX TWISTHALER,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Aspirin / Dipyridamole,aspirin/dipyridamole generic,Preferred
+IMMUNOSUPPRESSANT DRUGS,Astagraf XL ER capsule,ASTAGRAF XL,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Augtyro capsule,AUGTYRO,Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Auryxia,AURYXIA,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Austedo,"AUSTEDO, TITRATION KITS, -XR",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Austedo Huntington's Disease,"AUSTEDO, TITRATION KITS, -XR",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Austedo Tardive Dyskinesia,"AUSTEDO, TITRATION KITS, -XR",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Austedo Tourette's Syndrome/Tics,"AUSTEDO, TITRATION KITS, -XR",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Austedo Unspecified Hyperkinetic Movement Disorder,"AUSTEDO, TITRATION KITS, -XR",Preferred
 AUTONOMIC AND CNS MEDICATIONS,Austedo XR,"AUSTEDO, TITRATION KITS, -XR",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Austedo XR Huntington's Disease,"AUSTEDO, TITRATION KITS, -XR",Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Austedo XR Huntington's Disease, titration pack","AUSTEDO, TITRATION KITS, -XR",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Austedo XR Tardive Dyskinesia,"AUSTEDO, TITRATION KITS, -XR",Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Austedo XR Tardive Dyskinesia, titration pack","AUSTEDO, TITRATION KITS, -XR",Preferred
 AUTONOMIC AND CNS MEDICATIONS,Austedo XR titration pack,"AUSTEDO, TITRATION KITS, -XR",Preferred
 AUTONOMIC AND CNS MEDICATIONS,Auvelity,AUVELITY,Non-Preferred
 RESPIRATORY MEDICATIONS,Auvi-Q 0.1 mg,AUVI-Q,Non-Preferred
@@ -60,46 +219,111 @@ RESPIRATORY MEDICATIONS,Auvi-Q 0.3 mg,AUVI-Q,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Avonex auto-injector,AVONEX,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Avonex prefilled syringe,AVONEX,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Azstarys,AZSTARYS,Non-Preferred
-MUSCULOSKELETAL MEDICATIONS,Baclofen solution,baclofen solution generic,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Baclofen 10 mg,"baclofen 10mg, 20mg generic",Preferred
+MUSCULOSKELETAL MEDICATIONS,Baclofen 20 mg,"baclofen 10mg, 20mg generic",Preferred
+MUSCULOSKELETAL MEDICATIONS,Baclofen oral solution,baclofen solution generic,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Baclofen oral suspension,baclofen suspension 25mg/5ml generic,Non-Preferred
 MUSCULOSKELETAL MEDICATIONS,Baclofen tablet,"baclofen 10mg, 20mg generic",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Baclofen tablet, 10 mg","baclofen 10mg, 20mg generic",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Baclofen tablet, 20 mg","baclofen 10mg, 20mg generic",Preferred
 AUTONOMIC AND CNS MEDICATIONS,Bafiertam,BAFIERTAM,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Balversa,BALVERSA,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Banzel oral suspension,BANZEL SUSPENSION,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Banzel tablet,BANZEL TABS,Non-Preferred
 ANTIINFECTIVES,Baraclude,BARACLUDE SOLN.,Preferred
+ANTIINFECTIVES,Baraclude oral solution,BARACLUDE SOLN.,Preferred
 ENDOCRINE MEDICATIONS,Basaglar Kwikpen,BASAGLAR KWIKPEN,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Benazepril,benazepril generic,Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Benefix,BENEFIX,Preferred
 IMMUNOLOGICALS,Benlysta,BENLYSTA SUBCUTANEOUS SOLN.,Preferred
+IMMUNOLOGICALS,Benlysta Lupus nephritis,BENLYSTA SUBCUTANEOUS SOLN.,Preferred
+IMMUNOLOGICALS,Benlysta Systemic lupus erythematosus,BENLYSTA SUBCUTANEOUS SOLN.,Preferred
+IMMUNOLOGICALS,Benlysta auto-injector,BENLYSTA SUBCUTANEOUS SOLN.,Preferred
+IMMUNOLOGICALS,"Benlysta auto-injector, prefilled syringe",BENLYSTA SUBCUTANEOUS SOLN.,Preferred
+IMMUNOLOGICALS,Benlysta prefilled syringe,BENLYSTA SUBCUTANEOUS SOLN.,Preferred
+IMMUNOLOGICALS,Benlysta vial,BENLYSTA SUBCUTANEOUS SOLN.,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Berinert,BERINERT,Preferred
 ANTIINFECTIVES,Bethkis,BETHKIS,Preferred
+ANTIINFECTIVES,Bethkis 300 mg/4 ml ampule,BETHKIS,Preferred
 RESPIRATORY MEDICATIONS,Bevespi Aerosphere,BEVESPI,Non-Preferred
 ANTIINFECTIVES,Biktarvy,BIKTARVY,Preferred
 IMMUNOSUPPRESSANT DRUGS,Bimzelx,BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Bimzelx Anklyosing Spondylitis,BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Bimzelx Hidradenitis Suppurativa,BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Bimzelx Non-Radiographic Axial Spondyloarthritis,BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Bimzelx Plaque Psoriasis (adult),BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Bimzelx Plaque Psoriasis (adult), auto-injector",BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Bimzelx Plaque Psoriasis (adult), prefilled syringe",BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Bimzelx Psoriatic Arthritis (adult),BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Bimzelx auto-injector,BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Bimzelx auto-injector, Anklyosing Spondylitis",BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Bimzelx auto-injector, Non-Radiographic Axial Spondyloarthritis",BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Bimzelx auto-injector, Psoriatic Arthritis (adult)",BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Bimzelx prefilled syringe,BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Bimzelx prefilled syringe, Anklyosing Spondylitis",BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Bimzelx prefilled syringe, Non-Radiographic Axial Spondyloarthritis",BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Bimzelx prefilled syringe, Psoriatic Arthritis (adult)",BIMZELX,Non-Preferred
 RESPIRATORY MEDICATIONS,Breo Ellipta,BREO ELLIPTA,Non-Preferred
 RESPIRATORY MEDICATIONS,Breztri Aerosphere,BREZTRI,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Brilinta,BRILINTA,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Briviact,BRIVIACT,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Briviact oral solution,BRIVIACT,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Briviact tablet,BRIVIACT,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Briviact vial,BRIVIACT,Preferred
 IMMUNOSUPPRESSANT DRUGS,Brukinsa,BRUKINSA,Preferred
 RESPIRATORY MEDICATIONS,Budesonide respules (inhalation suspension),budesonide inhalation susp,Preferred
+RESPIRATORY MEDICATIONS,"Budesonide respules (inhalation suspension), 0.25 mg",budesonide inhalation susp,Preferred
+RESPIRATORY MEDICATIONS,"Budesonide respules (inhalation suspension), 0.25 mg, 0.5 mg",budesonide inhalation susp,Preferred
+RESPIRATORY MEDICATIONS,"Budesonide respules (inhalation suspension), 0.5 mg",budesonide inhalation susp,Preferred
+RESPIRATORY MEDICATIONS,"Budesonide respules (inhalation suspension), 1 mg",budesonide inhalation susp,Preferred
 ENDOCRINE MEDICATIONS,Buphenyl powder,BUPHENYL,Preferred
 ENDOCRINE MEDICATIONS,Buphenyl tablet,BUPHENYL,Preferred
 ENDOCRINE MEDICATIONS,Bydureon Bcise,BYDUREON BCISE,Non-Preferred
 ENDOCRINE MEDICATIONS,Bydureon Pen,BYDUREON BCISE,Non-Preferred
 ENDOCRINE MEDICATIONS,Byetta,BYETTA,Preferred
 GASTROINTESTINAL MEDICATIONS,Bylvay,BYLVAY,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Bylvay Alagille Syndrome (ALGS),BYLVAY,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Bylvay Progressive Familial Intrahepatic Cholestatis (PFIC),BYLVAY,Non-Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Cablivi,CABLIVI,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Calquence,CALQUENCE TABS,Preferred
 CARDIOVASCULAR MEDICATIONS,Camzyos,CAMZYOS,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Candesartan,candesartan generic,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Caplyta,CAPLYTA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Caplyta Bipolar depression,CAPLYTA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Caplyta Schizophrenia/schizoaffective disorder,CAPLYTA,Preferred
 IMMUNOSUPPRESSANT DRUGS,Caprelsa,CAPRELSA,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Captopril,captopril generic,Preferred
 ANTIINFECTIVES,Cayston,CAYSTON,Preferred
 OPHTHALMIC MEDICATIONS,Cequa,CEQUA,Non-Preferred
 ENDOCRINE MEDICATIONS,Cerdelga,CERDELGA,Preferred
 ENDOCRINE MEDICATIONS,Cerezyme 400 Units,CEREZYME,Preferred
-GASTROINTESTINAL MEDICATIONS,Chenodal (Chenodiol) tablet,CHENODAL,Non-Preferred
-GASTROINTESTINAL MEDICATIONS,Cholbam (Cholic Acid) capsule,CHOLBAM,Preferred
+GASTROINTESTINAL MEDICATIONS,Chenodal tablet,CHENODAL,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Cholbam capsule,CHOLBAM,Preferred
 IMMUNOSUPPRESSANT DRUGS,Cibinqo,CIBINQO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cibinqo Atopic Dermatitis (adult),CIBINQO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cibinqo Atopic Dermatitis (pediatric),CIBINQO,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Cimzia,CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cimzia Ankylosing Spondylitis,CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cimzia Ankylosing Spondylitis, prefilled syringe",CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cimzia Ankylosing Spondylitis, subcutaneous vial",CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cimzia Crohn's Disease (adult),CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cimzia Crohn's Disease (adult), prefilled syringe",CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cimzia Crohn's Disease (adult), subcutaneous vial",CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cimzia Non-Radiographic Axial Spondyloarthritis,CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cimzia Non-Radiographic Axial Spondyloarthritis, prefilled syringe",CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cimzia Non-Radiographic Axial Spondyloarthritis, subcutaneous vial",CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cimzia Plaque Psoriasis (adult),CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cimzia Plaque Psoriasis (adult), prefilled syringe",CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cimzia Plaque Psoriasis (adult), subcutaneous vial",CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cimzia Psoriatic Arthritis (adult),CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cimzia Psoriatic Arthritis (adult), prefilled syringe",CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cimzia Psoriatic Arthritis (adult), subcutaneous vial",CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cimzia Rheumatoid Arthritis,CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cimzia Rheumatoid Arthritis, prefilled syringe",CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cimzia Rheumatoid Arthritis, subcutaneous vial",CIMZIA,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Cinryze,CINRYZE,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Clenpiq,CLENPIQ,Non-Preferred
 OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Cleocin Ovules / vaginal suppository,CLEOCIN SUPPOSITORY,Preferred
 OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Clindesse 2% prefilled applicator cream,CLINDESSE,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Clobazam oral suspension,clobazam suspension generic,Non-Preferred
@@ -107,96 +331,1330 @@ AUTONOMIC AND CNS MEDICATIONS,Clobazam tablet,clobazam tabs generic,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Clozapine ODT,clozapine odt generic,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Clozapine tablet,clozapine generic,Preferred
 OPHTHALMIC MEDICATIONS,Combigan,COMBIGAN 5ml,Preferred
+OPHTHALMIC MEDICATIONS,Combigan 10 ml,COMBIGAN 10ml,Non-Preferred
+OPHTHALMIC MEDICATIONS,Combigan 5 ml,COMBIGAN 5ml,Preferred
 RESPIRATORY MEDICATIONS,Combivent Respimat (Ipratropium/Albuterol) inhalation aerosol solution,COMBIVENT RESPIMAT,Non-Preferred
 ANTIINFECTIVES,Complera,COMPLERA,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Copaxone (Glatiramer Acetate) 20 mg,COPAXONE KIT 20MG/ML,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Copaxone (Glatiramer Acetate) 40 mg,COPAXONE 40MG/ML,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Cosentyx,"COSENTYX, -UNO",Non-Preferred
-GASTROINTESTINAL MEDICATIONS,Creon,CREON,Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Ankylosing Spondylitis,"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Ankylosing Spondylitis, UnoReady","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Ankylosing Spondylitis, prefilled syringe","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Ankylosing Spondylitis, vial","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Enthesitis-Related Arthritis (pediatric),"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Enthesitis-Related Arthritis (pediatric), UnoReady","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Enthesitis-Related Arthritis (pediatric), prefilled syringe","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Enthesitis-Related Arthritis (pediatric), vial","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Hidradenitis Suppurativa,"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Hidradenitis Suppurativa, UnoReady","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Hidradenitis Suppurativa, prefilled syringe","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Hidradenitis Suppurativa, vial","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Non-Radiographic Axial Spondyloarthritis,"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Non-Radiographic Axial Spondyloarthritis, UnoReady","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Non-Radiographic Axial Spondyloarthritis, prefilled syringe","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Non-Radiographic Axial Spondyloarthritis, vial","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Plaque Psoriasis (adult),"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Plaque Psoriasis (adult), UnoReady","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Plaque Psoriasis (adult), prefilled syringe","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Plaque Psoriasis (adult), vial","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Plaque Psoriasis (pediatric),"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Plaque Psoriasis (pediatric), UnoReady","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Plaque Psoriasis (pediatric), prefilled syringe","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Plaque Psoriasis (pediatric), vial","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Psoriatic Arthritis (adult),"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Psoriatic Arthritis (adult), UnoReady","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Psoriatic Arthritis (adult), prefilled syringe","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Psoriatic Arthritis (adult), vial","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Psoriatic Arthritis (pediatric),"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Psoriatic Arthritis (pediatric), UnoReady","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Psoriatic Arthritis (pediatric), prefilled syringe","COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Cosentyx Psoriatic Arthritis (pediatric), vial","COSENTYX, -UNO",Non-Preferred
 ENDOCRINE MEDICATIONS,Crysvita,CRYSVITA,Non-Preferred
+IMMUNOLOGICALS,Cuvitru,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru All other indications,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,"Cuvitru Asthma (severe, persistent, high-dose steroid-dependent)",CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Autoimmune Bullous Disease,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Bone Marrow Transplant (BMT),CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Chronic Inflammatory Demyelinating Polyneuropathy,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Dermatomyositis or polymyositis,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Diabetes Mellitus,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Feto-neonatal Alloimmune Thrombocytopenia (AIT),CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Graves' ophthalmopathy Guillain-BarrÃ© syndrome (GBS),CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Immune thrombocytopenia [Idiopathic thrombocytopenic purpura (ITP)],CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Kawasaki Disease,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Lambert-Eaton Myasthenic Syndrome (LEMS),CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Lennox Gastaut Syndrome,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Multifocal Motor Neuropathy (MMN),CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Myasthenia Gravis - Exacerbation,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Neuromyelitis Optica,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Post B-Cell Targeted Therapies,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Posttransfusion Purpura,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Prevention of bacterial infection in pediatric HIV,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Prevention of infection in B-cell Chronic Lymphocytic Leukemia (CLL),CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Prevention of infection in Multiple Myeloma,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Primary Immunodeficiency Syndromes,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Rasmussen Syndrome,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Refractory Myasthenia Gravis,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Relapsing Multiple Sclerosis,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,Cuvitru Stiff-Person Syndrome,CUVITRU,Non-Preferred
+IMMUNOLOGICALS,"Cuvitru Thrombocytopenia, secondary to Hepatitis C Virus (HCV), Human Immunodeficiency Virus (HIV), or pregnancy",CUVITRU,Non-Preferred
 ANTIINFECTIVES,Descovy,DESCOVY,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Diacomit capsule,DIACOMIT,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Diacomit packet for oral suspension,DIACOMIT,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Diazepam rectal gel,diazepam rectal gel,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Dimethyl Fumarate,dimethyl fumarate generic,Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Dojolvi,DOJOLVI,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Donepezil ODT,"donepezil, -ODT generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Donepezil ODT, 10 mg","donepezil, -ODT generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Donepezil ODT, 5 mg","donepezil, -ODT generic",Preferred
 AUTONOMIC AND CNS MEDICATIONS,Donepezil tablet,"donepezil, -ODT generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Donepezil tablet, 23 mg",donepezil 23mg generic,Preferred
 IMMUNOLOGICALS,Doptelet,DOPTELET,Preferred
+IMMUNOLOGICALS,Doptelet Chronic immune (idiopathic) thrombocytopenia,DOPTELET,Preferred
+IMMUNOLOGICALS,Doptelet Thrombocytopenia in adult patients with chronic liver disease who are scheduled to undergo a procedure,DOPTELET,Preferred
 RESPIRATORY MEDICATIONS,Duaklir Pressair,DUAKLIR,Non-Preferred
 RESPIRATORY MEDICATIONS,Dulera,DULERA (except 50-5mcg),Preferred
+RESPIRATORY MEDICATIONS,Dulera 100 mcg / 5 mcg,DULERA (except 50-5mcg),Preferred
+RESPIRATORY MEDICATIONS,Dulera 200 mcg / 5 mcg,DULERA (except 50-5mcg),Preferred
 AUTONOMIC AND CNS MEDICATIONS,Duloxetine,"duloxetine 20mg, 30mg, 60mg generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Duloxetine 20 mg,"duloxetine 20mg, 30mg, 60mg generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Duloxetine 20 mg, Major Depressive Disorder / Generalized Anxiety Disorder","duloxetine 20mg, 30mg, 60mg generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Duloxetine 20 mg, Neuropathic Pain","duloxetine 20mg, 30mg, 60mg generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Duloxetine 30 mg,"duloxetine 20mg, 30mg, 60mg generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Duloxetine 30 mg, Major Depressive Disorder / Generalized Anxiety Disorder","duloxetine 20mg, 30mg, 60mg generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Duloxetine 30 mg, Neuropathic Pain","duloxetine 20mg, 30mg, 60mg generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Duloxetine 40 mg,duloxetine 40mg generic,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Duloxetine 40 mg, Major Depressive Disorder / Generalized Anxiety Disorder",duloxetine 40mg generic,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Duloxetine 40 mg, Neuropathic Pain",duloxetine 40mg generic,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Duloxetine 40 mg, generic Irenka, Neuropathic Pain",duloxetine 40mg generic,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Duloxetine 60 mg,"duloxetine 20mg, 30mg, 60mg generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Duloxetine 60 mg, Major Depressive Disorder / Generalized Anxiety Disorder","duloxetine 20mg, 30mg, 60mg generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Duloxetine 60 mg, Neuropathic Pain","duloxetine 20mg, 30mg, 60mg generic",Preferred
 IMMUNOSUPPRESSANT DRUGS,Dupixent,DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Asthma (adult),DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Asthma (pediatric),DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Atopic Dermatitis (adult),DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent Atopic Dermatitis (adult), pen",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent Atopic Dermatitis (adult), prefilled syringe",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Atopic Dermatitis (pediatric),DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Chronic obstructive pulmonary disease (COPD),DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Eosinophilic Esophagitis,DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Eosinophilic or Corticosteroid-Dependent Asthma,DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Prurigo Nodularis,DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent pen, Asthma (adult)",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent pen, Asthma (pediatric)",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent pen, Atopic Dermatitis (pediatric)",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent pen, Chronic Rhinosinusitis with Nasal Polyposis",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent pen, Chronic obstructive pulmonary disease (COPD)",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent pen, Eosinophilic Esophagitis",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent pen, Eosinophilic or Corticosteroid-Dependent Asthma",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent pen, Prurigo Nodularis",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent prefilled syringe, Asthma (adult)",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent prefilled syringe, Asthma (pediatric)",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent prefilled syringe, Atopic Dermatitis (pediatric)",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent prefilled syringe, Chronic obstructive pulmonary disease (COPD)",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent prefilled syringe, Eosinophilic Esophagitis",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent prefilled syringe, Eosinophilic or Corticosteroid-Dependent Asthma",DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Dupixent prefilled syringe, Prurigo Nodularis",DUPIXENT,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Duvyzat oral suspension,DUVYZAT,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Dyanavel XR,"DYANAVEL XR SUSP., -CHEW TABS",Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Dyanavel XR oral suspension,"DYANAVEL XR SUSP., -CHEW TABS",Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Dyanavel XR tablet,"DYANAVEL XR SUSP., -CHEW TABS",Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Edarbi,EDARBI,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Edarbyclor,EDARBYCLOR,Non-Preferred
+ANTIINFECTIVES,Edurant,EDURANT,Preferred
 ENDOCRINE MEDICATIONS,Elelyso,ELELYSO,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Eletriptan,eletriptan generic,Non-Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Eliquis,ELIQUIS,Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Eloctate,ELOCTATE,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Elyxyb,ELYXYB,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Emcyt,EMCYT,Preferred
+ENDOCRINE MEDICATIONS,Emflaza Duchenne Muscular Dystrophy,EMFLAZA,Non-Preferred
 ENDOCRINE MEDICATIONS,Emflaza oral suspension,EMFLAZA,Non-Preferred
 ENDOCRINE MEDICATIONS,Emflaza tablet,EMFLAZA,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Emgality 100 mg,EMGALITY 100mg/ml,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Emgality 100 mg, Episodic Cluster Headache",EMGALITY 100mg/ml,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Emgality 100 mg, Migraine Prophylaxis",EMGALITY 100mg/ml,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Emgality 120 mg,EMGALITY 120mg/ml,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Emgality 120 mg, Episodic Cluster Headache",EMGALITY 120mg/ml,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Emgality 120 mg, Migraine Prophylaxis",EMGALITY 120mg/ml,Non-Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Empaveli,EMPAVELI,Non-Preferred
 ANTIINFECTIVES,Emtriva capsule,EMTRIVA,Preferred
 ANTIINFECTIVES,Emtriva oral solution,EMTRIVA,Preferred
 CARDIOVASCULAR MEDICATIONS,Enalapril,enalapril generic,Preferred
+CARDIOVASCULAR MEDICATIONS,Enalapril oral solution,enalapril soln. generic,Preferred
+CARDIOVASCULAR MEDICATIONS,Enalapril tablet,enalapril generic,Preferred
 IMMUNOSUPPRESSANT DRUGS,Enbrel,ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enbrel Ankylosing Spondylitis,ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Ankylosing Spondylitis, Mini cartridge",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Ankylosing Spondylitis, SureClick",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Ankylosing Spondylitis, prefilled syringe",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Ankylosing Spondylitis, vial",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enbrel Plaque Psoriasis (adult),ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Plaque Psoriasis (adult), Mini cartridge",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Plaque Psoriasis (adult), SureClick",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Plaque Psoriasis (adult), prefilled syringe",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Plaque Psoriasis (adult), vial",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enbrel Plaque Psoriasis (pediatric),ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Plaque Psoriasis (pediatric), Mini cartridge",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Plaque Psoriasis (pediatric), SureClick",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Plaque Psoriasis (pediatric), prefilled syringe",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Plaque Psoriasis (pediatric), vial",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA),ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), Mini cartridge",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), SureClick",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), vial",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enbrel Psoriatic Arthritis (adult),ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Psoriatic Arthritis (adult), Mini cartridge",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Psoriatic Arthritis (adult), SureClick",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Psoriatic Arthritis (adult), prefilled syringe",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Psoriatic Arthritis (adult), vial",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enbrel Psoriatic Arthritis (pediatric),ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Psoriatic Arthritis (pediatric), Mini cartridge",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Psoriatic Arthritis (pediatric), SureClick",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Psoriatic Arthritis (pediatric), prefilled syringe",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Psoriatic Arthritis (pediatric), vial",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enbrel Rheumatoid Arthritis,ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Rheumatoid Arthritis, Mini cartridge",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Rheumatoid Arthritis, SureClick",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Rheumatoid Arthritis, prefilled syringe",ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Enbrel Rheumatoid Arthritis, vial",ENBREL,Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Endari,ENDARI,Preferred
 IMMUNOSUPPRESSANT DRUGS,Enspryng,ENSPRYNG,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Enspryng Neuromyelitis Optica Spectrum Disorder (NMOSD),ENSPRYNG,Non-Preferred
 ANTIINFECTIVES,Entecavir,entecavir generic,Preferred
 IMMUNOSUPPRESSANT DRUGS,Entyvio,ENTYVIO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Entyvio Crohn's Disease (adult),ENTYVIO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Entyvio Crohn's Disease (adult), prefilled syringe",ENTYVIO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Entyvio Crohn's Disease (adult), vial",ENTYVIO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Entyvio Ulcerative Colitis (adult),ENTYVIO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Entyvio Ulcerative Colitis (adult), prefilled syringe",ENTYVIO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Entyvio Ulcerative Colitis (adult), vial",ENTYVIO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Entyvio prefilled pen,ENTYVIO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Entyvio prefilled pen, Crohn's Disease (adult)",ENTYVIO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Entyvio prefilled pen, Ulcerative Colitis (adult)",ENTYVIO,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Envarsus XR,ENVARSUS XR,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Eohilia oral suspension,EOHILIA,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,"Eohilia oral suspension, Eosinophilic Esophagitis",EOHILIA,Non-Preferred
 ANTIINFECTIVES,Epclusa,EPCLUSA PAK,Non-Preferred
+ANTIINFECTIVES,Epclusa pellet packet,EPCLUSA PAK,Non-Preferred
+ANTIINFECTIVES,"Epclusa pellet packet, 150 mg - 37.5 mg",EPCLUSA PAK,Non-Preferred
+ANTIINFECTIVES,"Epclusa pellet packet, 200 mg - 50 mg",EPCLUSA PAK,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Epidiolex,EPIDIOLEX,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Epidiolex Dravet Syndrome,EPIDIOLEX,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Epidiolex Lennox-Gastaut Syndrome,EPIDIOLEX,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Epidiolex Refractory Epilepsy,EPIDIOLEX,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Epidiolex Tuberous Sclerosis Complex (TSC),EPIDIOLEX,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Epidiolex Tuberous Sclerosis Complex (TSC), Dravet Syndrome, Lennox-Gastaut Syndrome",EPIDIOLEX,Preferred
 RESPIRATORY MEDICATIONS,Epipen,"EPIPEN, -JR.",Preferred
 RESPIRATORY MEDICATIONS,Epipen Jr.,"EPIPEN, -JR.",Preferred
+ANTIINFECTIVES,Epivir,EPIVIR SOLN,Preferred
 ANTIINFECTIVES,Epivir HBV oral solution,EPIVIR SOLN,Preferred
+ANTIINFECTIVES,Epivir oral solution,EPIVIR SOLN,Preferred
 IMMUNOLOGICALS,Epogen,EPOGEN,Preferred
+IMMUNOLOGICALS,Epogen Anemia associated with chemotherapy,EPOGEN,Preferred
+IMMUNOLOGICALS,Epogen Anemia associated with chronic kidney disease if patient is not on dialysis,EPOGEN,Preferred
+IMMUNOLOGICALS,Epogen Anemia associated with chronic kidney disease if patient is on dialysis,EPOGEN,Preferred
+IMMUNOLOGICALS,Epogen Anemia associated with zidovudine in HIV therapy,EPOGEN,Preferred
+IMMUNOLOGICALS,"Epogen To reduce the need for allogenic blood transfusions in anemic patients scheduled to undergo elective, non-cardiac, nonvascular surgery",EPOGEN,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Eprontia,EPRONTIA,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Equetro,EQUETRO,Preferred
+IMMUNOSUPPRESSANT DRUGS,Erleada,ERLEADA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Erlotinib,erlotinib generic,Preferred
 GASTROINTESTINAL MEDICATIONS,Esomeprazole,esomeprazole inj. generic,Non-Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Esperoct,ESPEROCT,Non-Preferred
 DERMATOLOGICAL MEDICATIONS,Eucrisa,EUCRISA,Preferred
+ANTIINFECTIVES,Evotaz,EVOTAZ,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Evrysdi,EVRYSDI,Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Fabhalta,FABHALTA,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Fanapt,FANAPT,Preferred
 ENDOCRINE MEDICATIONS,Farxiga,FARXIGA,Preferred
+RESPIRATORY MEDICATIONS,Fasenra Asthma (adult),FASENRA PEN,Preferred
+RESPIRATORY MEDICATIONS,Fasenra Asthma (pediatric),FASENRA PEN,Preferred
+RESPIRATORY MEDICATIONS,Fasenra Eosinophilic Granulomatosis with Polyangitis (EGPA),FASENRA PEN,Preferred
 RESPIRATORY MEDICATIONS,Fasenra auto-injector,FASENRA PEN,Preferred
+RESPIRATORY MEDICATIONS,"Fasenra auto-injector, Asthma (adult)",FASENRA PEN,Preferred
+RESPIRATORY MEDICATIONS,"Fasenra auto-injector, Asthma (pediatric)",FASENRA PEN,Preferred
+RESPIRATORY MEDICATIONS,"Fasenra auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",FASENRA PEN,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Felbatol tablet,FELBATOL TABS,Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Femlyv,FEMLYV,Non-Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Femlyv ODT,FEMLYV,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Fensolvi,FENSOLVI,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Fetzima,FETZIMA,Non-Preferred
 MUSCULOSKELETAL MEDICATIONS,Fexmid,FEXMID,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Fexmid 7.5mg,FEXMID,Non-Preferred
 ENDOCRINE MEDICATIONS,Fiasp,FIASP,Non-Preferred
 ENDOCRINE MEDICATIONS,Fiasp FlexTouch,FIASP,Non-Preferred
+ENDOCRINE MEDICATIONS,Fiasp PenFill,FIASP,Non-Preferred
+ENDOCRINE MEDICATIONS,Fiasp PumpCart,FIASP,Non-Preferred
+ENDOCRINE MEDICATIONS,Fiasp vial,FIASP,Non-Preferred
 UROLOGICAL/RENAL MEDICATIONS,Filspari,FILSPARI,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Fingolimod capsule,fingolimod 0.5mg generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Fingolimod capsule, 0.5 mg",fingolimod 0.5mg generic,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Fintepla,FINTEPLA,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Fintepla Dravet Syndrome,FINTEPLA,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Fintepla Lennox-Gastaut syndrome,FINTEPLA,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Firazyr,FIRAZYR,Preferred
 ENDOCRINE MEDICATIONS,Forteo,FORTEO,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Fosinopril,fosinopril generic,Preferred
 DIABETIC SUPPLIES,Freestyle Libre,"FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred
 DIABETIC SUPPLIES,Freestyle Libre 2,"FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred
 DIABETIC SUPPLIES,Freestyle Libre 3,"FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Frova,FROVA,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Fruzaqla,FRUZAQLA,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Fruzaqla capsule, 5 mg",FRUZAQLA,Preferred
 IMMUNOLOGICALS,Fulphila,FULPHILA,Non-Preferred
+ANTIINFECTIVES,Fuzeon,FUZEON,Non-Preferred
 IMMUNOLOGICALS,Fylnetra,FYLNETRA,Preferred
 ENDOCRINE MEDICATIONS,Galafold,GALAFOLD,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Galantamine ER,"galantamine tabs, -er caps generic",Preferred
 AUTONOMIC AND CNS MEDICATIONS,Galantamine oral solution,galantamine soln. generic,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Galantamine tablet,"galantamine tabs, -er caps generic",Preferred
+IMMUNOLOGICALS,Gammagard,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard All other indications,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,"Gammagard Asthma (severe, persistent, high-dose steroid-dependent)",GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Autoimmune Bullous Disease,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Bone Marrow Transplant (BMT),GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Chronic Inflammatory Demyelinating Polyneuropathy,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Dermatomyositis or polymyositis,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Diabetes Mellitus,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Feto-neonatal Alloimmune Thrombocytopenia (AIT),GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Graves' ophthalmopathy Guillain-BarrÃ© syndrome (GBS),GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard IV S/D,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard IV/SubQ Liquid,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Immune thrombocytopenia [Idiopathic thrombocytopenic purpura (ITP)],GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Kawasaki Disease,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Lambert-Eaton Myasthenic Syndrome (LEMS),GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Lennox Gastaut Syndrome,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Multifocal Motor Neuropathy (MMN),GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Myasthenia Gravis - Exacerbation,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Neuromyelitis Optica,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Post B-Cell Targeted Therapies,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Posttransfusion Purpura,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Prevention of bacterial infection in pediatric HIV,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Prevention of infection in B-cell Chronic Lymphocytic Leukemia (CLL),GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Prevention of infection in Multiple Myeloma,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Primary Immunodeficiency Syndromes,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Rasmussen Syndrome,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Refractory Myasthenia Gravis,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Relapsing Multiple Sclerosis,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,Gammagard Stiff-Person Syndrome,GAMMAGARD/SD,Preferred
+IMMUNOLOGICALS,"Gammagard Thrombocytopenia, secondary to Hepatitis C Virus (HCV), Human Immunodeficiency Virus (HIV), or pregnancy",GAMMAGARD/SD,Preferred
+GASTROINTESTINAL MEDICATIONS,Gattex vial,GATTEX,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Gavreto,GAVRETO,Preferred
 IMMUNOLOGICALS,Genotropin,GENOTROPIN,Preferred
+IMMUNOLOGICALS,Genotropin MiniQuick,GENOTROPIN,Preferred
+IMMUNOLOGICALS,Genotropin cartridge,GENOTROPIN,Preferred
 ANTIINFECTIVES,Genvoya,GENVOYA,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Geodon,GEODON inj,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Geodon IM injection,GEODON inj,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Geodon capsule,GEODON inj,Preferred
 IMMUNOSUPPRESSANT DRUGS,Gilotrif,GILOTRIF,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Glatopa (Glatiramer Acetate) prefilled syringe,GLATOPA,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Glatopa (Glatiramer Acetate) prefilled syringe, 20 mg",GLATOPA,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Glatopa (Glatiramer Acetate) prefilled syringe, 40 mg",GLATOPA,Non-Preferred
+ENDOCRINE MEDICATIONS,Glyxambi,GLYXAMBI,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Golytely,GOLYTELY,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Gralise,GRALISE,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Gralise 450 mg,GRALISE,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Gralise 750 mg,GRALISE,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Gralise 900 mg,GRALISE,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Gralise Post-herpetic Neuralgia,GRALISE,Non-Preferred
+IMMUNOLOGICALS,Granix,"GRANIX 300mcg/0.5ml, 480mcg/0.8ml syringes (nonneedle guard)",Non-Preferred
+IMMUNOLOGICALS,Granix prefilled syringe,"GRANIX 300mcg/0.5ml, 480mcg/0.8ml syringes (nonneedle guard)",Non-Preferred
+IMMUNOLOGICALS,Granix vial,"GRANIX 300mcg/0.5ml, 480mcg/0.8ml syringes (nonneedle guard)",Non-Preferred
 RESPIRATORY MEDICATIONS,Grastek,GRASTEK,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Haegarda,HAEGARDA,Preferred
 ANTIINFECTIVES,Harvoni,"HARVONI PAK, 45-200MG TAB",Non-Preferred
+ANTIINFECTIVES,"Harvoni 45 mg/200 mg, pellet packet","HARVONI PAK, 45-200MG TAB",Non-Preferred
+ANTIINFECTIVES,"Harvoni 45 mg/200 mg, tablet","HARVONI PAK, 45-200MG TAB",Non-Preferred
+ANTIINFECTIVES,Harvoni pellet packet,"HARVONI PAK, 45-200MG TAB",Non-Preferred
+ANTIINFECTIVES,Harvoni tablet,"HARVONI PAK, 45-200MG TAB",Non-Preferred
 GASTROINTESTINAL MEDICATIONS,Helidac,HELIDAC,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Hemangeol,HEMANGEOL (covered 5 weeks-12 months old),Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Hemlibra,HEMLIBRA,Preferred
 ANTIINFECTIVES,Hepsera,HEPSERA,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Horizant,HORIZANT,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Horizant Postherpetic Neuralgia (PHN),HORIZANT,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Horizant Restless Legs Syndrome (RLS),HORIZANT,Non-Preferred
+ENDOCRINE MEDICATIONS,"Humalog KwikPen, U-100",HUMALOG KWIKPEN and cartridges,Preferred
+ENDOCRINE MEDICATIONS,"Humalog KwikPen, U-200",HUMALOG KWIKPEN 200 units/ml,Non-Preferred
+ENDOCRINE MEDICATIONS,Humalog cartridge,HUMALOG KWIKPEN and cartridges,Preferred
 ENDOCRINE MEDICATIONS,Humalog vial,HUMALOG vial,Preferred
+ENDOCRINE MEDICATIONS,"Humalog vial, U-100",HUMALOG vial,Preferred
+IMMUNOLOGICALS,Humatrope,HUMATROPE,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Ankylosing Spondylitis,HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Crohn's Disease (adult),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Crohn's Disease (pediatric),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Hidradenitis Suppurativa,HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Plaque Psoriasis (adult),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Polyarticular Juvenile Idiopathic Arthritis (PJIA),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Psoriatic Arthritis (adult),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Rheumatoid Arthritis,HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Ulcerative Colitis (adult),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Ulcerative Colitis (pediatric),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Uveitis (adult),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Uveitis (pediatric),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Hycamtin capsule,HYCAMTIN,Preferred
+IMMUNOSUPPRESSANT DRUGS,Hycamtin vial,HYCAMTIN,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ibrance,IBRANCE CAPS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ibrance capsule,IBRANCE CAPS,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Icatibant,icatibant generic,Preferred
+IMMUNOSUPPRESSANT DRUGS,Iclusig,ICLUSIG,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Iclusig 10 mg, tablet",ICLUSIG,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Iclusig 15 mg, tablet",ICLUSIG,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Iclusig 30 mg, tablet",ICLUSIG,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Iclusig 45 mg, tablet",ICLUSIG,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Idelvion,IDELVION,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Idhifa,IDHIFA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ilaris,ILARIS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ilaris Adult-Onset Still's Disease,ILARIS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ilaris Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),ILARIS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ilaris Familial Mediterranean Fever (FMF),ILARIS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ilaris Gout Flares,ILARIS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ilaris Hyperimmunoglobulin D Syndrome (HIDS)/Mevalonate Kinase Deficiency (MKD),ILARIS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ilaris Systemic-Onset Juvenile Idiopathic Arthritis (SJIA),ILARIS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ilaris Tumor Necrosis Factor Receptor Associated Periodic Syndrome (TRAPS),ILARIS,Preferred
+OPHTHALMIC MEDICATIONS,Ilevro ophthalmic suspension,ILEVRO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Imatinib,imatinib generic,Preferred
+IMMUNOSUPPRESSANT DRUGS,Imbruvica,IMBRUVICA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Imbruvica capsule,IMBRUVICA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Imbruvica tablet,IMBRUVICA,Preferred
+RESPIRATORY MEDICATIONS,Incruse Ellipta,INCRUSE ELLIPTA,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Ingrezza,INGREZZA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Ingrezza Huntington's Disease,INGREZZA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Ingrezza Huntington's Disease, sprinkle capsule",INGREZZA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Ingrezza Huntington's Disease, titration pack",INGREZZA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Ingrezza Tardive Dyskinesia,INGREZZA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Ingrezza Tardive Dyskinesia, sprinkle capsule",INGREZZA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Ingrezza Tardive Dyskinesia, titration pack",INGREZZA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Ingrezza Tourette's Syndrome/Tics,INGREZZA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Ingrezza Unspecified Hyperkinetic Movement Disorder,INGREZZA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Ingrezza capsule,INGREZZA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Ingrezza sprinkle capsule,INGREZZA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Ingrezza titration pack,INGREZZA,Preferred
+ENDOCRINE MEDICATIONS,Insulin Lispro,insulin lispro vial generic,Preferred
+ENDOCRINE MEDICATIONS,"Insulin Lispro 100 unit/ml, pen",insulin lispro pens generic,Preferred
+ENDOCRINE MEDICATIONS,"Insulin Lispro 100 unit/ml, vial",insulin lispro vial generic,Preferred
+ENDOCRINE MEDICATIONS,Insulin Lispro pen,insulin lispro pens generic,Preferred
+ENDOCRINE MEDICATIONS,Insulin Lispro vial,insulin lispro vial generic,Preferred
+ANTIINFECTIVES,Intelence,INTELENCE,Non-Preferred
+ANTIINFECTIVES,Intelence 100 mg,INTELENCE,Non-Preferred
+ANTIINFECTIVES,Intelence 200 mg,INTELENCE,Non-Preferred
+ANTIINFECTIVES,Intelence 25 mg,INTELENCE,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Invega Hafyera,"INVEGA SUSTENNA, -TRINZA, -HAFYERA",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Invega Sustenna,"INVEGA SUSTENNA, -TRINZA, -HAFYERA",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Invega Trinza,"INVEGA SUSTENNA, -TRINZA, -HAFYERA",Preferred
+ANTIINFECTIVES,Invirase,INVIRASE,Non-Preferred
+ENDOCRINE MEDICATIONS,Invokamet,INVOKAMET,Non-Preferred
+ENDOCRINE MEDICATIONS,Invokamet XR,INVOKAMET XR,Non-Preferred
+ENDOCRINE MEDICATIONS,Invokana,INVOKANA,Non-Preferred
+ENDOCRINE MEDICATIONS,Invokana Chronic Kidney Disease,INVOKANA,Non-Preferred
+ENDOCRINE MEDICATIONS,Invokana Type 2 Diabetes,INVOKANA,Non-Preferred
+OPHTHALMIC MEDICATIONS,Iopidine ophthalmic solution,IOPIDINE 1%,Preferred
+GASTROINTESTINAL MEDICATIONS,Iqirvo,IQIRVO,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Iqirvo tablet,IQIRVO,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Irbesartan,irbesartan generic,Preferred
+IMMUNOSUPPRESSANT DRUGS,Iressa,IRESSA,Preferred
+ANTIINFECTIVES,Isentress,"ISENTRESS, -HD",Preferred
+ANTIINFECTIVES,Isentress chewable tablet,"ISENTRESS, -HD",Preferred
+ANTIINFECTIVES,Isentress packet,"ISENTRESS, -HD",Preferred
+ANTIINFECTIVES,Isentress tablet,"ISENTRESS, -HD",Preferred
+IMMUNOSUPPRESSANT DRUGS,Iwilfin,IWILFIN,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Ixinity,IXINITY,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Jakafi,JAKAFI,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Jakafi Intermediate or high-risk PMF, post-PV MF, or post-ET MF",JAKAFI,Preferred
+IMMUNOSUPPRESSANT DRUGS,Jakafi acute graft versus host disease (aGVHD) or chronic graft versus host disease (cGVHD),JAKAFI,Preferred
+IMMUNOSUPPRESSANT DRUGS,Jakafi polycythemia vera (PV),JAKAFI,Preferred
+ENDOCRINE MEDICATIONS,Janumet,JANUMET,Preferred
+ENDOCRINE MEDICATIONS,Januvia,JANUVIA,Preferred
+ENDOCRINE MEDICATIONS,Jardiance,JARDIANCE,Preferred
+ENDOCRINE MEDICATIONS,Jardiance Chronic Kidney Disease,JARDIANCE,Preferred
+ENDOCRINE MEDICATIONS,Jardiance Type 2 Diabetes,JARDIANCE,Preferred
+ENDOCRINE MEDICATIONS,Jentadueto,JENTADUETO,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Jivi,JIVI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Joenja,JOENJA,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Jornay PM,JORNAY PM,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Kalbitor,KALBITOR,Non-Preferred
+RESPIRATORY MEDICATIONS,Kalydeco,KALYDECO,Preferred
+ENDOCRINE MEDICATIONS,Kerendia,KERENDIA,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Kesimpta,KESIMPTA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),KEVZARA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Kevzara Polymyalgia Rheumatica (PMR),KEVZARA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Kevzara Rheumatoid Arthritis,KEVZARA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Kevzara prefilled pen,KEVZARA,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Kevzara prefilled pen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",KEVZARA,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Kevzara prefilled pen, Polymyalgia Rheumatica (PMR)",KEVZARA,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Kevzara prefilled pen, Rheumatoid Arthritis",KEVZARA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Kevzara prefilled syringe,KEVZARA,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Kevzara prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",KEVZARA,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Kevzara prefilled syringe, Polymyalgia Rheumatica (PMR)",KEVZARA,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Kevzara prefilled syringe, Rheumatoid Arthritis",KEVZARA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Kineret,KINERET,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Kineret Deficiency of Interleukin-1 Receptor Antagonist (DIRA),KINERET,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Kineret Neonatal-Onset Multisystem Inflammatory Disease (NOMID),KINERET,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Kineret Rheumatoid Arthritis,KINERET,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Kisqali,KISQALI,Preferred
+IMMUNOSUPPRESSANT DRUGS,Kisqali tablet,KISQALI,Preferred
+ANTIINFECTIVES,Kitabis Pak,KITABIS PAK,Preferred
+ANTIINFECTIVES,Kitabis Pak 300 mg/5 ml,KITABIS PAK,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Kloxxado,KLOXXADO SPRAY,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Kogenate FS,KOGENATE FS,Preferred
+GASTROINTESTINAL MEDICATIONS,Konvomep,KONVOMEP,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Koselugo,KOSELUGO,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Kovaltry,KOVALTRY,Preferred
+IMMUNOSUPPRESSANT DRUGS,Krazati,KRAZATI,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lamictal ODT,"LAMICTAL ODT TABS, KITS",Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lamictal tablet,"LAMICTAL ODT TABS, KITS",Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lamotrigine,lamotrigine tabs generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lamotrigine ER,lamotrigine er tabs generic,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lamotrigine IR,lamotrigine tabs generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lamotrigine ODT,lamotrigine odt generic,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lamotrigine chewable tablet,lamotrigine chewable dispersable tab generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lamotrigine tablet,lamotrigine tabs generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Lamotrigine tablet, ER",lamotrigine er tabs generic,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Lansoprazole,lansoprazole generic,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Lansoprazole / Amoxicillin / Clarithromycin,lansoprazole/amoxicillin/clarithromycin generic,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Lansoprazole DR capsule,lansoprazole generic,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Lansoprazole ODT,lansoprazole generic,Non-Preferred
+ENDOCRINE MEDICATIONS,Lantus SoloStar,LANTUS SOLOSTAR,Preferred
+ENDOCRINE MEDICATIONS,Lantus vial,LANTUS,Preferred
+OPHTHALMIC MEDICATIONS,Lastacaft,LASTACAFT,Non-Preferred
+ANTIINFECTIVES,Ledipasvir / Sofosbuvir,ledipasvir-sofosbuvir tab generic,Non-Preferred
+ANTIINFECTIVES,"Ledipasvir / Sofosbuvir 90 mg/400 mg, tablet",ledipasvir-sofosbuvir tab generic,Non-Preferred
+IMMUNOLOGICALS,Leukine,LEUKINE,Preferred
+RESPIRATORY MEDICATIONS,Levalbuterol Tartrate inhalation aerosol solution,levalbuterol neb generic,Non-Preferred
+ANTIINFECTIVES,Lexiva,LEXIVA,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Libervant buccal film,LIBERVANT,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Linzess,LINZESS,Preferred
+GASTROINTESTINAL MEDICATIONS,Linzess 145 mcg,LINZESS,Preferred
+GASTROINTESTINAL MEDICATIONS,Linzess 290 mcg,LINZESS,Preferred
+GASTROINTESTINAL MEDICATIONS,Linzess 72 mcg,LINZESS,Preferred
+CARDIOVASCULAR MEDICATIONS,Lisinopril,lisinopril generic,Preferred
+IMMUNOSUPPRESSANT DRUGS,Litfulo,LITFULO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Litfulo Alopecia Areata,LITFULO,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Livdelzi capsule,LIVDELZI,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Livmarli,LIVMARLI,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Livmarli Alagille Syndrome (ALGS),LIVMARLI,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Livmarli Progressive Familial Intrahepatic Cholestasis (PFIC),LIVMARLI,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Lokelma,LOKELMA,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Lokelma unit dose,LOKELMA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Lorbrena,LORBRENA,Preferred
+CARDIOVASCULAR MEDICATIONS,Losartan,losartan generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lucemyra,LUCEMYRA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Lumakras,LUMAKRAS,Non-Preferred
+OPHTHALMIC MEDICATIONS,Lumigan 2.5 mL,LUMIGAN,Preferred
+OPHTHALMIC MEDICATIONS,Lumigan 5 mL,LUMIGAN,Preferred
+OPHTHALMIC MEDICATIONS,Lumigan 7.5 mL,LUMIGAN,Preferred
+IMMUNOSUPPRESSANT DRUGS,Lupkynis,LUPKYNIS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Lupron Depot-Ped 1-Month,"LUPRON DEPOT PEDIATRIC 7.5MG, 15MG",Preferred
+IMMUNOSUPPRESSANT DRUGS,Lupron Depot-Ped 1-Month Prefilled Syringe Kit,"LUPRON DEPOT PEDIATRIC 7.5MG, 15MG",Preferred
+IMMUNOSUPPRESSANT DRUGS,Lupron Depot-Ped 1-Month Vial Kit,"LUPRON DEPOT PEDIATRIC 7.5MG, 15MG",Preferred
+IMMUNOSUPPRESSANT DRUGS,Lupron Depot-Ped 3-Month,"LUPRON DEPOT PEDIATRIC 11.25MG, 30MG",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Lupron Depot-Ped 3-Month Prefilled Syringe Kit,"LUPRON DEPOT PEDIATRIC 11.25MG, 30MG",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Lupron Depot-Ped 3-Month Vial Kit,"LUPRON DEPOT PEDIATRIC 11.25MG, 30MG",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Lupron Depot-Ped 6-Month,"LUPRON DEPOT PEDIATRIC 11.25MG, 30MG",Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lurasidone,lurasidone generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lybalvi,LYBALVI,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lybalvi Bipolar I Disorder,LYBALVI,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lybalvi Schizophrenia,LYBALVI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Lynparza,LYNPARZA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Lynparza Breast cancer,LYNPARZA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Lynparza Ovarian cancer,LYNPARZA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Lynparza Pancreatic cancer,LYNPARZA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Lynparza Prostate cancer,LYNPARZA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lyrica,LYRICA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lyrica ER tablet,LYRICA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lyrica capsule,LYRICA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Lyrica oral solution,LYRICA,Preferred
+ENDOCRINE MEDICATIONS,"Lyumjev KwikPen, U-100","LYUMJEV KWIKPEN, -VIAL",Non-Preferred
+ENDOCRINE MEDICATIONS,"Lyumjev KwikPen, U-200","LYUMJEV KWIKPEN, -VIAL",Non-Preferred
+ENDOCRINE MEDICATIONS,Lyumjev U-100,"LYUMJEV KWIKPEN, -VIAL",Non-Preferred
+ENDOCRINE MEDICATIONS,Lyumjev U-200,"LYUMJEV KWIKPEN, -VIAL",Non-Preferred
+ENDOCRINE MEDICATIONS,Lyumjev vial,"LYUMJEV KWIKPEN, -VIAL",Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Lyvispah,LYVISPAH,Non-Preferred
+ANTIINFECTIVES,Mavyret,MAVYRET,Preferred
+ANTIINFECTIVES,Mavyret pellet packet,MAVYRET,Preferred
+ANTIINFECTIVES,Mavyret tablet,MAVYRET,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Memantine XR,memantine er caps generic,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Memantine oral solution,memantine soln. generic,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Memantine tablet,"memantine tabs, titration pak generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Memantine titration pack,"memantine tabs, titration pak generic",Preferred
+MUSCULOSKELETAL MEDICATIONS,Metaxalone,metaxalone generic,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Metaxalone 640 mg,metaxalone generic,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Metaxalone 800 mg,metaxalone generic,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Metaxalone 800 mg, 400 mg",metaxalone generic,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Metoprolol Succinate ER tablet,metoprolol succinate ER generic,Preferred
+OPHTHALMIC MEDICATIONS,Miebo,MIEBO,Non-Preferred
+ENDOCRINE MEDICATIONS,Miglustat capsule,miglustat (Patriot generic only),Preferred
+AUTONOMIC AND CNS MEDICATIONS,Miplyffa capsule,MIPLYFFA,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Moexipril,moexipril generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Motpoly XR,MOTPOLY XR,Non-Preferred
+ENDOCRINE MEDICATIONS,Mounjaro,MOUNJARO,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Moviprep,MOVIPREP,Preferred
+IMMUNOLOGICALS,Mozobil,MOZOBIL,Preferred
+IMMUNOLOGICALS,Mulpleta,MULPLETA,Preferred
+ENDOCRINE MEDICATIONS,NP Thyroid,"np thyroid 30mg, 60mg 90mg tab generic",Preferred
+ENDOCRINE MEDICATIONS,"NP Thyroid 30 mg, Tablet","np thyroid 30mg, 60mg 90mg tab generic",Preferred
+ENDOCRINE MEDICATIONS,"NP Thyroid 60 mg, Tablet","np thyroid 30mg, 60mg 90mg tab generic",Preferred
+ENDOCRINE MEDICATIONS,"NP Thyroid 90 mg, Tablet","np thyroid 30mg, 60mg 90mg tab generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Naloxone 10 mg, auto-injector",naloxone nasal spray OTC,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Naloxone nasal spray,naloxone nasal spray OTC,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Naloxone prefilled syringe,naloxone injection generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Naloxone prefilled syringe, 0.4 mg/mL",naloxone injection generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Naloxone prefilled syringe, 2 mg/2mL",naloxone injection generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Naloxone syringe,naloxone injection generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Naloxone vial,naloxone injection generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Naloxone vial, 0.4 mg/mL",naloxone injection generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Naloxone vial, 4 mg/10mL",naloxone injection generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Namzaric,NAMZARIC,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Naratriptan,naratriptan generic,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Narcan,NARCAN SPRAY OTC,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Narcan nasal spray,NARCAN SPRAY OTC,Preferred
+OPHTHALMIC MEDICATIONS,Natacyn (Natamycin) ophthalmic suspension,NATACYN,Non-Preferred
+DERMATOLOGICAL MEDICATIONS,Natroba,NATROBA,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Nayzilam,NAYZILAM,Preferred
+IMMUNOLOGICALS,Neulasta,NEULASTA,Non-Preferred
+IMMUNOLOGICALS,Neulasta Onpro,NEULASTA,Non-Preferred
+IMMUNOLOGICALS,Neupogen,NEUPOGEN,Preferred
+IMMUNOLOGICALS,Neupogen prefilled syringe,NEUPOGEN,Preferred
+IMMUNOLOGICALS,Neupogen vial,NEUPOGEN,Preferred
+OPHTHALMIC MEDICATIONS,Nevanac ophthalmic suspension,NEVANAC,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Nexavar,NEXAVAR,Preferred
+GASTROINTESTINAL MEDICATIONS,Nexium DR packet for oral suspension,NEXIUM GRANULES/SUSPENSION,Preferred
+GASTROINTESTINAL MEDICATIONS,"Nexium DR packet for oral suspension, 10 mg",NEXIUM GRANULES/SUSPENSION,Preferred
+GASTROINTESTINAL MEDICATIONS,"Nexium DR packet for oral suspension, 2.5 mg, 5 mg",NEXIUM GRANULES/SUSPENSION,Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Nextstellis,NEXTSTELLIS,Non-Preferred
+IMMUNOLOGICALS,Ngenla,NGENLA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Ninlaro,NINLARO,Preferred
+IMMUNOLOGICALS,Nivestym,NIVESTYM,Non-Preferred
+IMMUNOLOGICALS,Norditropin,NORDITROPIN,Preferred
+MUSCULOSKELETAL MEDICATIONS,Norgesic Forte,NORGESIC FORTE,Non-Preferred
+ANTIINFECTIVES,Norvir,NORVIR SOLN,Non-Preferred
+ANTIINFECTIVES,Norvir oral solution,NORVIR SOLN,Non-Preferred
+ANTIINFECTIVES,Norvir packet,NORVIR POWDER PACKETS,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Novoeight,NOVOEIGHT,Preferred
+ENDOCRINE MEDICATIONS,Novolin 70/30,NOVOLIN 70/30 FLEXPEN,Non-Preferred
+ENDOCRINE MEDICATIONS,Novolin 70/30 Flexpen OTC,NOVOLIN 70/30 FLEXPEN,Non-Preferred
+ENDOCRINE MEDICATIONS,Novolin N,"NOVOLIN N, -R FLEXPEN",Preferred
+ENDOCRINE MEDICATIONS,Novolin N FlexPen,"NOVOLIN N, -R FLEXPEN",Preferred
+ENDOCRINE MEDICATIONS,"Novolin N FlexPen, U-100","NOVOLIN N, -R FLEXPEN",Preferred
+ENDOCRINE MEDICATIONS,Novolin R,"NOVOLIN N, -R FLEXPEN",Preferred
+ENDOCRINE MEDICATIONS,Novolin R FlexPen,"NOVOLIN N, -R FLEXPEN",Preferred
+ENDOCRINE MEDICATIONS,"Novolin R FlexPen, U-100","NOVOLIN N, -R FLEXPEN",Preferred
+ENDOCRINE MEDICATIONS,Novolog,NOVOLOG,Preferred
+ENDOCRINE MEDICATIONS,Novolog 70/30,NOVOLOG MIX pen,Preferred
+ENDOCRINE MEDICATIONS,Novolog 70/30 FlexPen,NOVOLOG MIX pen,Preferred
+ENDOCRINE MEDICATIONS,Novolog FlexPen,NOVOLOG pens and cartridges,Preferred
+ENDOCRINE MEDICATIONS,"Novolog FlexPen, 100 unit/ml",NOVOLOG pens and cartridges,Preferred
+ENDOCRINE MEDICATIONS,Novolog cartridge,NOVOLOG pens and cartridges,Preferred
+ENDOCRINE MEDICATIONS,Novolog vial,NOVOLOG,Preferred
+ENDOCRINE MEDICATIONS,"Novolog vial, 100 unit/ml",NOVOLOG,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Novoseven RT,NOVOSEVEN RT,Non-Preferred
+IMMUNOLOGICALS,Nplate,NPLATE,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Nubeqa,NUBEQA,Preferred
+RESPIRATORY MEDICATIONS,Nucala,NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,Nucala Asthma (adult),NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,Nucala Asthma (pediatric),NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,Nucala Chronic Rhinosinusitis with Nasal Polyposis,NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,Nucala Hypereosinophilic Syndrome (HES),NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,Nucala auto-injector,NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,"Nucala auto-injector, Asthma (adult)",NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,"Nucala auto-injector, Asthma (pediatric)",NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,"Nucala auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,"Nucala auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,"Nucala auto-injector, Hypereosinophilic Syndrome (HES)",NUCALA AUTO-INJECTOR,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Nuplazid,NUPLAZID,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Nuplazid capsule,NUPLAZID,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Nuplazid tablet,NUPLAZID,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Nurtec ODT,NURTEC ODT,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Nurtec ODT Acute Treatment,NURTEC ODT,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Nurtec ODT Migraine Prophylaxis,NURTEC ODT,Preferred
+IMMUNOLOGICALS,Nutropin AQ,NUTROPIN AQ,Non-Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Nuvaring,NUVARING,Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Nuvessa,NUVESSA,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Nuwiq,NUWIQ,Preferred
+IMMUNOLOGICALS,Nyvepria,NYVEPRIA,Preferred
+RESPIRATORY MEDICATIONS,Odactra,ODACTRA,Non-Preferred
+ANTIINFECTIVES,Odefsey,ODEFSEY,Preferred
+RESPIRATORY MEDICATIONS,Ofev,OFEV,Non-Preferred
+RESPIRATORY MEDICATIONS,Ofev Chronic Fibrosing Interstitial Lung Diseases,OFEV,Non-Preferred
+RESPIRATORY MEDICATIONS,Ofev Idiopathic Pulmonary Fibrosis,OFEV,Non-Preferred
+RESPIRATORY MEDICATIONS,Ofev Systemic Sclerosis-Associated Interstitial Lung Disease,OFEV,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Ogsiveo,OGSIVEO,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ojemda,OJEMDA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Olanzapine And Fluoxetine,olanzapine/fluoxetine generic,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Olanzapine ODT,"olanzapine, -odt generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Olanzapine tablet,"olanzapine, -odt generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Olanzapine vial,olanzapine inj. (short-acting) generic,Preferred
+CARDIOVASCULAR MEDICATIONS,Olmesartan,olmesartan generic,Preferred
+ENDOCRINE MEDICATIONS,Olpruva,OLPRUVA PAK,Preferred
+MUSCULOSKELETAL MEDICATIONS,Olumiant,OLUMIANT,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Olumiant Alopecia Areata,OLUMIANT,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Olumiant Coronavirus Disease 2019,OLUMIANT,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Olumiant Rheumatoid Arthritis,OLUMIANT,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Omeclamox-Pak,OMECLAMOX-PAK,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Omeprazole capsule,omeprazole generic,Preferred
+GASTROINTESTINAL MEDICATIONS,"Omeprazole capsule, 10 mg",omeprazole generic,Preferred
+GASTROINTESTINAL MEDICATIONS,"Omeprazole capsule, 20 mg",omeprazole generic,Preferred
+GASTROINTESTINAL MEDICATIONS,"Omeprazole capsule, 40 mg",omeprazole generic,Preferred
+GASTROINTESTINAL MEDICATIONS,Omeprazole tablet,omeprazole generic,Preferred
+DIABETIC SUPPLIES,Omnipod,"OMNIPOD DASH, -5 (covered 2 - 21 yrs old)",Preferred
+DIABETIC SUPPLIES,Omnipod 5,"OMNIPOD DASH, -5 (covered 2 - 21 yrs old)",Preferred
+DIABETIC SUPPLIES,Omnipod Classic,"OMNIPOD DASH, -5 (covered 2 - 21 yrs old)",Preferred
+DIABETIC SUPPLIES,Omnipod Dash,"OMNIPOD DASH, -5 (covered 2 - 21 yrs old)",Preferred
+DIABETIC SUPPLIES,Omnipod Go,"OMNIPOD DASH, -5 (covered 2 - 21 yrs old)",Preferred
+IMMUNOLOGICALS,Omnitrope,OMNITROPE,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Onureg,ONUREG,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Onzetra,ONZETRA XSAIL,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Opsumit,OPSUMIT,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Opvee (Nalmefene),OPVEE SPRAY,Non-Preferred
+DERMATOLOGICAL MEDICATIONS,Opzelura,OPZELURA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia ClickJect, Acute Graft Versus Host Disease (aGVHD)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia ClickJect, Psoriatic Arthritis (adult)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia ClickJect, Psoriatic Arthritis (pediatric)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia ClickJect, Rheumatoid Arthritis","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Orencia Polyarticular Juvenile Idiopathic Arthritis (PJIA),"ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Orencia Psoriatic Arthritis (adult),"ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Orencia Rheumatoid Arthritis,"ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Orencia prefilled syringe,"ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Acute Graft Versus Host Disease (aGVHD)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Psoriatic Arthritis (adult)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Rheumatoid Arthritis","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Orencia vial,"ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia vial, Acute Graft Versus Host Disease (aGVHD)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia vial, Psoriatic Arthritis (adult)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia vial, Psoriatic Arthritis (pediatric)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia vial, Rheumatoid Arthritis","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Orenitram ER,ORENITRAM,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Orenitram ER tablet,ORENITRAM,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Orenitram ER titration kit,ORENITRAM TITRATION PAK,Non-Preferred
+ENDOCRINE MEDICATIONS,Orfadin,ORFADIN SUSP.,Preferred
+ENDOCRINE MEDICATIONS,Orfadin oral suspension,ORFADIN SUSP.,Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Oriahnn,ORIAHNN,Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Orilissa,ORILISSA,Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Orilissa 150mg,ORILISSA,Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Orilissa 200mg,ORILISSA,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Orladeyo,ORLADEYO,Preferred
+MUSCULOSKELETAL MEDICATIONS,Orphenadrine ER,orphenadrine generic,Preferred
+ANTIINFECTIVES,Oseltamivir,oseltamivir generic,Preferred
+MUSCULOSKELETAL MEDICATIONS,Otezla,OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,Otezla 20 mg,OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,Otezla 30 mg,OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,Otezla Behcet's Disease,OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Behcet's Disease, 20 mg",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Behcet's Disease, 20 mg, tablet",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Behcet's Disease, 30 mg",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Behcet's Disease, 30 mg, tablet",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Behcet's Disease, starter pack",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Behcet's Disease, tablet",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,Otezla Plaque Psoriasis (adult),OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Plaque Psoriasis (adult), 20 mg",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Plaque Psoriasis (adult), 20 mg, tablet",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Plaque Psoriasis (adult), 30 mg",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Plaque Psoriasis (adult), 30 mg, tablet",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Plaque Psoriasis (adult), starter pack",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Plaque Psoriasis (adult), tablet",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,Otezla Plaque Psoriasis (pediatric),OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Plaque Psoriasis (pediatric), 20 mg",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Plaque Psoriasis (pediatric), 20 mg, tablet",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Plaque Psoriasis (pediatric), 30 mg",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Plaque Psoriasis (pediatric), 30 mg, tablet",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Plaque Psoriasis (pediatric), starter pack",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Plaque Psoriasis (pediatric), tablet",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,Otezla Psoriatic Arthritis (adult),OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Psoriatic Arthritis (adult), 20 mg",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Psoriatic Arthritis (adult), 20 mg, tablet",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Psoriatic Arthritis (adult), 30 mg",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Psoriatic Arthritis (adult), 30 mg, tablet",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Psoriatic Arthritis (adult), starter pack",OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,"Otezla Psoriatic Arthritis (adult), tablet",OTEZLA,Preferred
+ENDOCRINE MEDICATIONS,Ozempic,OZEMPIC,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Paliperidone ER,paliperidone er generic,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Palynziq,PALYNZIQ,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Palynziq prefilled syringe,PALYNZIQ,Preferred
+GASTROINTESTINAL MEDICATIONS,Pantoprazole DR packet for oral suspension,pantoprazole generic,Preferred
+GASTROINTESTINAL MEDICATIONS,Pantoprazole tablet,pantoprazole generic,Preferred
+CARDIOVASCULAR MEDICATIONS,Perindopril,perindopril generic,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Perseris,PERSERIS,Preferred
+ENDOCRINE MEDICATIONS,Pheburane,PHEBURANE,Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Phexxi,PHEXXI GEL,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Ponvory starter pack,PONVORY,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Ponvory tablet,PONVORY,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Pradaxa,PRADAXA,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Pradaxa capsule,PRADAXA,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Pradaxa packet,PRADAXA PAK,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Praluent,PRALUENT,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Praluent Cardiovascular disease (CVD) Prevention,PRALUENT,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Praluent Heterozygous familial hypercholesterolemia (HeFH) or homozygous familial hypercholesterolemia (HoFH),PRALUENT,Non-Preferred
+ENDOCRINE MEDICATIONS,Prednisone,prednisone generic,Preferred
+GASTROINTESTINAL MEDICATIONS,Prevacid SoluTab,PREVACID SOLUTAB,Non-Preferred
+ANTIINFECTIVES,Prezcobix,PREZCOBIX,Preferred
+ANTIINFECTIVES,Prezista 150 mg,"PREZISTA 75mg, 150mg, suspension",Preferred
+ANTIINFECTIVES,Prezista 75 mg,"PREZISTA 75mg, 150mg, suspension",Preferred
+ANTIINFECTIVES,Prezista oral suspension,"PREZISTA 75mg, 150mg, suspension",Preferred
+ANTIINFECTIVES,"Prezista tablet, 150 mg","PREZISTA 75mg, 150mg, suspension",Preferred
+ANTIINFECTIVES,"Prezista tablet, 75 mg","PREZISTA 75mg, 150mg, suspension",Preferred
+IMMUNOLOGICALS,Procrit,PROCRIT,Non-Preferred
+IMMUNOLOGICALS,Procrit Anemia associated with chemotherapy,PROCRIT,Non-Preferred
+IMMUNOLOGICALS,Procrit Anemia associated with chronic kidney disease if patient is not on dialysis,PROCRIT,Non-Preferred
+IMMUNOLOGICALS,Procrit Anemia associated with chronic kidney disease if patient is on dialysis,PROCRIT,Non-Preferred
+IMMUNOLOGICALS,Procrit Anemia associated with zidovudine in HIV therapy,PROCRIT,Non-Preferred
+IMMUNOLOGICALS,"Procrit To reduce the need for allogenic blood transfusions in anemic patients scheduled to undergo elective, non-cardiac, nonvascular surgery",PROCRIT,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Prograf packet for oral suspension,PROGRAF GRANULES,Non-Preferred
+IMMUNOLOGICALS,Promacta Chronic hepatitis-c associated thrombocytopenia,PROMACTA,Preferred
+IMMUNOLOGICALS,Promacta Chronic immune (idiopathic) thrombocytopenia,PROMACTA,Preferred
+IMMUNOLOGICALS,Promacta Severa aplastic anemia,PROMACTA,Preferred
+IMMUNOLOGICALS,Promacta oral suspension,PROMACTA,Preferred
+IMMUNOLOGICALS,Promacta tablet,PROMACTA,Preferred
+GASTROINTESTINAL MEDICATIONS,Protonix DR packet oral suspension,PROTONIX PAK,Non-Preferred
+RESPIRATORY MEDICATIONS,Pulmicort Flexhaler,PULMICORT FLEXHALER,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Pylera,PYLERA,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Pyrukynd tablet,PYRUKYND,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Qelbree,QELBREE,Preferred
+ENDOCRINE MEDICATIONS,Qtern,QTERN,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Quetiapine 150 mg,"quetiapine generic 100mg, 150mg, 200mg, 300mg, 400mg",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Quetiapine ER,quetiapine er generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Quillichew XR,QUILLICHEW ER,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Quillivant XR,QUILLIVANT SUSP XR,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Quillivant XR ER oral suspension,QUILLIVANT SUSP XR,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Quinapril,quinapril generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Qulipta,QULIPTA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Qulipta Chronic Migraine,QULIPTA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Qulipta Episodic Migraine,QULIPTA,Preferred
+RESPIRATORY MEDICATIONS,Qvar,QVAR REDIHALER,Preferred
+GASTROINTESTINAL MEDICATIONS,Rabeprazole,rabeprazole tabs generic,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Rabeprazole tablet,rabeprazole tabs generic,Non-Preferred
+RESPIRATORY MEDICATIONS,Ragwitek,RAGWITEK,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Ramipril,ramipril caps generic,Preferred
+ENDOCRINE MEDICATIONS,Ravicti,RAVICTI,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Rebif (Interferon Beta-1a) prefilled syringe,"REBIF, REBIDOSE",Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Rebinyn,REBINYN,Preferred
+GASTROINTESTINAL MEDICATIONS,Rebyota,REBYOTA,Non-Preferred
+IMMUNOLOGICALS,Releuko,RELEUKO,Non-Preferred
+IMMUNOLOGICALS,Releuko prefilled syringe,RELEUKO,Non-Preferred
+IMMUNOLOGICALS,Releuko vial,RELEUKO,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Relyvrio,RELYVRIO,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Repatha,REPATHA,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Repatha Cardiovascular disease (CVD) Prevention,REPATHA,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Repatha Heterozygous familial hypercholesterolemia (HeFH) or homozygous familial hypercholesterolemia (HoFH),REPATHA,Non-Preferred
+OPHTHALMIC MEDICATIONS,Restasis,RESTASIS single dose vials,Preferred
+OPHTHALMIC MEDICATIONS,Restasis MultiDose,RESTASIS MULTIDOSE,Non-Preferred
+OPHTHALMIC MEDICATIONS,Restasis droperette,RESTASIS single dose vials,Preferred
+OPHTHALMIC MEDICATIONS,Restasis single dose,RESTASIS single dose vials,Preferred
+IMMUNOSUPPRESSANT DRUGS,Retevmo,RETEVMO,Preferred
+IMMUNOSUPPRESSANT DRUGS,Retevmo capsule,RETEVMO,Preferred
+IMMUNOSUPPRESSANT DRUGS,Retevmo tablet,RETEVMO,Preferred
+IMMUNOSUPPRESSANT DRUGS,Revlimid,REVLIMID,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Rexulti,REXULTI,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Rexulti Adjunct treatment of major depressive disorder,REXULTI,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Rexulti Schizophrenia,REXULTI,Preferred
+ANTIINFECTIVES,Reyataz,REYATAZ POWDER PACKET,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Reyvow,REYVOW,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Rezdiffra,REZDIFFRA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Rezlidhia,REZLIDHIA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Rinvoq,RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,Rinvoq Ankylosing Spondylitis,RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Ankylosing Spondylitis, ER tablet",RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Ankylosing Spondylitis, LQ",RINVOQ LQ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Atopic Dermatitis (adult), ER tablet",RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Atopic Dermatitis (adult), LQ",RINVOQ LQ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Crohn's Disease (adult), ER tablet",RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Crohn's Disease (adult), LQ",RINVOQ LQ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Non-Radiographic Axial Spondyloarthritis, ER tablet",RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Non-Radiographic Axial Spondyloarthritis, LQ",RINVOQ LQ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA), ER tablet",RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA), LQ",RINVOQ LQ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Psoriatic Arthritis (adult), ER tablet",RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Psoriatic Arthritis (adult), LQ",RINVOQ LQ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Psoriatic Arthritis (pediatric), ER tablet",RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Psoriatic Arthritis (pediatric), LQ",RINVOQ LQ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Rheumatoid Arthritis, ER tablet",RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Rheumatoid Arthritis, LQ",RINVOQ LQ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Rinvoq Ulcerative Colitis (adult), ER tablet",RINVOQ ER,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Risperidone ODT,risperidone orally disintegrating tab generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Risperidone oral solution,risperidone generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Risperidone tablet,risperidone generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Rivastigmine capsule,"rivastigmine caps, -patches generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Rivastigmine patch,"rivastigmine caps, -patches generic",Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Rixubis,RIXUBIS,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Rizatriptan,rizatriptan tab generic,Preferred
+IMMUNOLOGICALS,Rolvedon prefilled syringe,ROLVEDON,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Rozlytrek (Entrectinib) capsule,ROZLYTREK,Preferred
+IMMUNOSUPPRESSANT DRUGS,Rozlytrek (Entrectinib) pellet packet,ROZLYTREK,Preferred
+IMMUNOSUPPRESSANT DRUGS,Rubraca,RUBRACA,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Ruconest,RUCONEST,Non-Preferred
+ENDOCRINE MEDICATIONS,Rybelsus,RYBELSUS,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Rydapt,RYDAPT,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Rykindo,RYKINDO,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Rystiggo,RYSTIGGO,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Rystiggo Acetylcholine Receptor (AChR) Antibody Positive,RYSTIGGO,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Rystiggo Muscle Specific Kinase (MuSK) Positive,RYSTIGGO,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Sabril Infantile spasms,SABRIL,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Sabril Refractory complex partial seizures,SABRIL,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Sabril packet for oral solution,SABRIL,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Sabril packet for oral solution, 500 mg",SABRIL,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Sabril tablet,SABRIL,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Sabril tablet, 500 mg",SABRIL,Non-Preferred
+IMMUNOLOGICALS,Saizen,SAIZEN,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Sapropterin dihydrochloride tablet,sapropterin tabs generic,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Savaysa,SAVAYSA,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Saxenda,SAXENDA,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Secuado,SECUADO,Non-Preferred
+ENDOCRINE MEDICATIONS,Segluromet,SEGLUROMET,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Select-Ob + Dha,SELECT-OB + DHA,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Select-Ob Tab Chew,SELECT-OB + DHA,Preferred
+ANTIINFECTIVES,Selzentry,SELZENTRY,Non-Preferred
+ANTIINFECTIVES,Selzentry oral solution,SELZENTRY,Non-Preferred
+ANTIINFECTIVES,Selzentry tablet,SELZENTRY,Non-Preferred
+ANTIINFECTIVES,"Selzentry tablet, 150 mg",SELZENTRY,Non-Preferred
+ANTIINFECTIVES,"Selzentry tablet, 25 mg",SELZENTRY,Non-Preferred
+ANTIINFECTIVES,"Selzentry tablet, 300 mg",SELZENTRY,Non-Preferred
+ANTIINFECTIVES,"Selzentry tablet, 75 mg",SELZENTRY,Non-Preferred
+ENDOCRINE MEDICATIONS,Semglee,SEMGLEE vials and pens,Non-Preferred
+ENDOCRINE MEDICATIONS,Semglee auto-injector,SEMGLEE vials and pens,Non-Preferred
+ENDOCRINE MEDICATIONS,Semglee vial,SEMGLEE vials and pens,Non-Preferred
+IMMUNOLOGICALS,Serostim,SEROSTIM,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Sevelamer carbonate tablets,sevelamer carbonate tabs generic,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,"Sevelamer hydrochloride tablets, 400mg",sevelamer 400mg generic,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,SevenFACT,SEVENFACT,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Sildenafil 20 mg,sildenafil tabs generic,Preferred
+CARDIOVASCULAR MEDICATIONS,Sildenafil oral suspension,sildenafil suspension generic,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,"Sildenafil oral suspension, labeler 59762",sildenafil suspension generic,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Sildenafil tablet,sildenafil tabs generic,Preferred
+IMMUNOSUPPRESSANT DRUGS,Siliq,SILIQ,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Siliq Plaque Psoriasis (adult),SILIQ,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Simponi,SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Ankylosing Spondylitis, Aria",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Ankylosing Spondylitis, SmartJect",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Ankylosing Spondylitis, prefilled syringe",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Aria, Psoriatic Arthritis (pediatric)",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Psoriatic Arthritis (adult), Aria",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Psoriatic Arthritis (adult), SmartJect",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Psoriatic Arthritis (adult), prefilled syringe",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Simponi Rheumatoid Arthritis,SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Rheumatoid Arthritis, Aria",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Rheumatoid Arthritis, SmartJect",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Rheumatoid Arthritis, prefilled syringe",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Ulcerative Colitis (adult), SmartJect",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Ulcerative Colitis (adult), prefilled syringe",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",SIMPONI,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Skyclarys,SKYCLARYS,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Skyrizi,"SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Skyrizi Crohn's Disease (adult),"SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Crohn's Disease (adult), prefilled cartridge","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Crohn's Disease (adult), prefilled pen","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Crohn's Disease (adult), prefilled syringe","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Crohn's Disease (adult), vial","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Skyrizi Plaque Psoriasis (adult),"SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Plaque Psoriasis (adult), prefilled cartridge","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Plaque Psoriasis (adult), prefilled pen","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Plaque Psoriasis (adult), prefilled syringe","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Plaque Psoriasis (adult), vial","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Skyrizi Psoriatic Arthritis (adult),"SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Psoriatic Arthritis (adult), prefilled cartridge","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Psoriatic Arthritis (adult), prefilled pen","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Psoriatic Arthritis (adult), prefilled syringe","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Psoriatic Arthritis (adult), vial","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Skyrizi Ulcerative Colitis (adult),"SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), prefilled cartridge","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), prefilled pen","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), prefilled syringe","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), vial","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOLOGICALS,Skytrofa,SKYTROFA,Non-Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Slynd,SLYND,Non-Preferred
+ENDOCRINE MEDICATIONS,Sodium Phenylbutyrate powder,sodium phenylbutyrate generic,Non-Preferred
+ENDOCRINE MEDICATIONS,Sodium Phenylbutyrate tablet,sodium phenylbutyrate generic,Non-Preferred
+ANTIINFECTIVES,Sofosbuvir / Velpatasvir,sofosbuvir-velpatasvir 400-100mg generic,Preferred
+ANTIINFECTIVES,Sofosbuvir / Velpatasvir 400 mg/100 mg,sofosbuvir-velpatasvir 400-100mg generic,Preferred
+IMMUNOLOGICALS,Sogroya,SOGROYA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Sohonos,SOHONOS,Non-Preferred
+ENDOCRINE MEDICATIONS,Soliqua,SOLIQUA,Non-Preferred
+ANTIINFECTIVES,Solosec,SOLOSEC,Non-Preferred
+ANTIINFECTIVES,Solosec Bacterial Vaginosis,SOLOSEC,Non-Preferred
+ANTIINFECTIVES,Solosec Trichomoniasis,SOLOSEC,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Sotyktu Plaque Psoriasis (adult),SOTYKTU,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Sotyktu tablet,SOTYKTU,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Sotyktu tablet, Plaque Psoriasis (adult)",SOTYKTU,Non-Preferred
+ANTIINFECTIVES,Sovaldi,SOVALDI,Non-Preferred
+ANTIINFECTIVES,"Sovaldi 200 mg, tablet",SOVALDI,Non-Preferred
+ANTIINFECTIVES,"Sovaldi 400 mg, tablet",SOVALDI,Non-Preferred
+ANTIINFECTIVES,Sovaldi pellet packet,SOVALDI,Non-Preferred
+ANTIINFECTIVES,Sovaldi tablet,SOVALDI,Non-Preferred
+DERMATOLOGICAL MEDICATIONS,Spinosad topical suspension,spinosad generic,Non-Preferred
+RESPIRATORY MEDICATIONS,Spiriva Handihaler (Tiotropium Bromide) inhalation capsule,SPIRIVA HANDIHALER,Preferred
+RESPIRATORY MEDICATIONS,Spiriva Respimat (Tiotropium Bromide) 1.25 mcg,SPIRIVA RESPIMAT,Non-Preferred
+RESPIRATORY MEDICATIONS,Spiriva Respimat (Tiotropium Bromide) 2.5 mcg,SPIRIVA RESPIMAT,Non-Preferred
+RESPIRATORY MEDICATIONS,Spiriva Respimat (Tiotropium Bromide) inhalation aerosol solution,SPIRIVA RESPIMAT,Non-Preferred
+RESPIRATORY MEDICATIONS,"Spiriva Respimat (Tiotropium Bromide) inhalation aerosol solution, 1.25 mcg",SPIRIVA RESPIMAT,Non-Preferred
+RESPIRATORY MEDICATIONS,"Spiriva Respimat (Tiotropium Bromide) inhalation aerosol solution, 2.5 mcg",SPIRIVA RESPIMAT,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Spravato,SPRAVATO,Non-Preferred
+ENDOCRINE MEDICATIONS,Steglatro,STEGLATRO,Non-Preferred
+ENDOCRINE MEDICATIONS,Steglujan,STEGLUJAN,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Stelara,STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Stelara Crohn's Disease (adult),STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Crohn's Disease (adult), intravenous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Crohn's Disease (adult), prefilled syringe",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Crohn's Disease (adult), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Stelara Plaque Psoriasis (adult),STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Plaque Psoriasis (adult), prefilled syringe",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Plaque Psoriasis (adult), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Stelara Plaque Psoriasis (pediatric),STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Plaque Psoriasis (pediatric), prefilled syringe",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Stelara Psoriatic Arthritis (adult),STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (adult), prefilled syringe",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (adult), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Stelara Psoriatic Arthritis (pediatric),STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (pediatric), prefilled syringe",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Stelara Ulcerative Colitis (adult),STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Ulcerative Colitis (adult), intravenous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Ulcerative Colitis (adult), prefilled syringe",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Ulcerative Colitis (adult), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOLOGICALS,Stimufend prefilled syringe,STIMUFEND,Non-Preferred
+IMMUNOLOGICALS,"Stimufend prefilled syringe, Hematopoietic Syndrome of Acute Radiation Syndrome",STIMUFEND,Non-Preferred
+IMMUNOLOGICALS,"Stimufend prefilled syringe, Primary Prophylaxis of Chemotherapy-Induced Febrile Neutropenia (FN)",STIMUFEND,Non-Preferred
+IMMUNOLOGICALS,"Stimufend prefilled syringe, Secondary Prophylaxis of Febrile Neutropenia (FN)",STIMUFEND,Non-Preferred
+IMMUNOLOGICALS,"Stimufend prefilled syringe, Treatment of Febrile Neutropenia (FN) (off-label)",STIMUFEND,Non-Preferred
+RESPIRATORY MEDICATIONS,Stiolto Respimat,STIOLTO RESPIMAT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Stivarga,STIVARGA,Preferred
+ANTIINFECTIVES,Stribild,STRIBILD,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Suboxone,SUBOXONE,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Sumatriptan,sumatriptan tabs generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Sunosi,SUNOSI,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Sunosi Narcolepsy,SUNOSI,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Sunosi Obstructive Sleep Apnea,SUNOSI,Non-Preferred
+ANTIINFECTIVES,Sustiva,SUSTIVA CAPS,Preferred
+RESPIRATORY MEDICATIONS,Symbicort,SYMBICORT,Preferred
+RESPIRATORY MEDICATIONS,Symjepi 0.15 mg,SYMJEPI,Non-Preferred
+RESPIRATORY MEDICATIONS,Symjepi 0.3 mg,SYMJEPI,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Sympazan oral film,SYMPAZAN,Non-Preferred
+ANTIINFECTIVES,Symtuza,SYMTUZA,Preferred
+IMMUNOLOGICALS,Synagis,SYNAGIS,Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Synarel,SYNAREL,Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Synarel Endometriosis,SYNAREL,Preferred
+ENDOCRINE MEDICATIONS,Synjardy,"SYNJARDY, -XR",Non-Preferred
+ENDOCRINE MEDICATIONS,Synjardy XR,"SYNJARDY, -XR",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Tabrecta,TABRECTA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Tacrolimus capsule,tacrolimus generic,Preferred
+CARDIOVASCULAR MEDICATIONS,Tadalafil,tadalafil (generic Adcirca),Preferred
+CARDIOVASCULAR MEDICATIONS,Tadalafil 20 mg,tadalafil (generic Adcirca),Preferred
+CARDIOVASCULAR MEDICATIONS,Tadliq,TADLIQ,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Tagrisso,TAGRISSO,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Takhzyro,TAKHZYRO,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Takhzyro prefilled syringe,TAKHZYRO,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Takhzyro vial,TAKHZYRO,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Talicia,TALICIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Taltz,TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,Taltz 20 mg,TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,Taltz 40 mg,TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,Taltz 80 mg,TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,Taltz Ankylosing Spondylitis,TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Ankylosing Spondylitis, 80 mg, prefilled syringe",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Ankylosing Spondylitis, auto-injector",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Ankylosing Spondylitis, prefilled syringe",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,Taltz Non-Radiographic Axial Spondyloarthritis,TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Non-Radiographic Axial Spondyloarthritis, 80 mg, prefilled syringe",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Non-Radiographic Axial Spondyloarthritis, auto-injector",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Non-Radiographic Axial Spondyloarthritis, prefilled syringe",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,Taltz Plaque Psoriasis (adult),TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Plaque Psoriasis (adult), 80 mg, prefilled syringe",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Plaque Psoriasis (adult), auto-injector",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Plaque Psoriasis (adult), prefilled syringe",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,Taltz Plaque Psoriasis (pediatric),TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Plaque Psoriasis (pediatric), 20 mg, prefilled syringe",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Plaque Psoriasis (pediatric), 40 mg, prefilled syringe",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Plaque Psoriasis (pediatric), auto-injector",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Plaque Psoriasis (pediatric), prefilled syringe",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,Taltz Psoriatic Arthritis (adult),TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Psoriatic Arthritis (adult), 80 mg, prefilled syringe",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Psoriatic Arthritis (adult), auto-injector",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Taltz Psoriatic Arthritis (adult), prefilled syringe",TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,Talzenna,TALZENNA,Preferred
+ENDOCRINE MEDICATIONS,Tarpeyo,TARPEYO,Non-Preferred
+IMMUNOLOGICALS,Tavalisse,TAVALISSE,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Tavneos,TAVNEOS,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Telmisartan,telmisartan generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Teriflunomide,teriflunomide generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Tetrabenazine,tetrabenazine generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Tetrabenazine 12.5 mg,tetrabenazine generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Tetrabenazine 25 mg,tetrabenazine generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Tetrabenazine Huntington's Disease,tetrabenazine generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Tetrabenazine Tardive Dyskinesia,tetrabenazine generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Tetrabenazine Tourette's Syndrome/Tics,tetrabenazine generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Tetrabenazine Unspecified Hyperkinetic Movement Disorder,tetrabenazine generic,Preferred
+RESPIRATORY MEDICATIONS,Tezspire,TEZSPIRE PEN,Non-Preferred
+RESPIRATORY MEDICATIONS,Tezspire Asthma (adult),TEZSPIRE PEN,Non-Preferred
+RESPIRATORY MEDICATIONS,Tezspire Asthma (pediatric),TEZSPIRE PEN,Non-Preferred
+RESPIRATORY MEDICATIONS,Tezspire auto-injector,TEZSPIRE PEN,Non-Preferred
+RESPIRATORY MEDICATIONS,"Tezspire auto-injector, Asthma (adult)",TEZSPIRE PEN,Non-Preferred
+RESPIRATORY MEDICATIONS,"Tezspire auto-injector, Asthma (pediatric)",TEZSPIRE PEN,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Tibsovo,TIBSOVO,Preferred
+ANTIINFECTIVES,Tivicay,TIVICAY,Preferred
+ANTIINFECTIVES,Tobi,TOBI PODHALER,Non-Preferred
+ANTIINFECTIVES,Tobi Podhaler,TOBI PODHALER,Non-Preferred
+ANTIINFECTIVES,"Tobi Podhaler, 28 mg",TOBI PODHALER,Non-Preferred
+ANTIINFECTIVES,Tobi nebulized solution,TOBI PODHALER,Non-Preferred
+OPHTHALMIC MEDICATIONS,Tobradex ST ophthalmic suspension,TOBRADEX ST,Non-Preferred
+ANTIINFECTIVES,Tobramycin 300 mg/5 mL,tobramycin nebulizer 300mg/5ml generic,Preferred
+OPHTHALMIC MEDICATIONS,Tobramycin generic Bethkis,tobramycin ophthalmic generic,Preferred
+OPHTHALMIC MEDICATIONS,"Tobramycin generic Bethkis, 300 mg/4 mL",tobramycin ophthalmic generic,Preferred
+OPHTHALMIC MEDICATIONS,Tobramycin generic Kitabis,tobramycin ophthalmic generic,Preferred
+OPHTHALMIC MEDICATIONS,Tobramycin generic Tobi,tobramycin ophthalmic generic,Preferred
+ANTIINFECTIVES,"Tobramycin generic Tobi, 300 mg/5 mL",tobramycin nebulizer 300mg/5ml generic,Preferred
+ANTIINFECTIVES,Tobramycin nebulized solution,tobramycin nebulizer 300mg/5ml generic,Preferred
+ANTIINFECTIVES,"Tobramycin nebulized solution, 300 mg/5 mL",tobramycin nebulizer 300mg/5ml generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Topiramate tablet,topiramate tabs generic,Preferred
+ENDOCRINE MEDICATIONS,Toujeo Max Solostar,TOUJEO,Preferred
+ENDOCRINE MEDICATIONS,Toujeo Solostar,TOUJEO,Preferred
+CARDIOVASCULAR MEDICATIONS,Tracleer,TRACLEER,Preferred
+CARDIOVASCULAR MEDICATIONS,Tracleer tablet,TRACLEER,Preferred
+CARDIOVASCULAR MEDICATIONS,Tracleer tablet for oral suspension,TRACLEER 32mg TAB FOR ORAL SUSP,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,"Tracleer tablet for oral suspension, 32 mg",TRACLEER 32mg TAB FOR ORAL SUSP,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,"Tracleer tablet, 125 mg",TRACLEER,Preferred
+CARDIOVASCULAR MEDICATIONS,"Tracleer tablet, 62.5 mg",TRACLEER,Preferred
+ENDOCRINE MEDICATIONS,Tradjenta,TRADJENTA,Preferred
+CARDIOVASCULAR MEDICATIONS,Trandolapril,trandolapril generic,Preferred
+RESPIRATORY MEDICATIONS,Trelegy Ellipta,TRELEGY ELLIPTA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Tremfya,TREMFYA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Tremfya 100 mg/mL,TREMFYA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Tremfya 200mg/2mL,TREMFYA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Tremfya Plaque Psoriasis (adult),TREMFYA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Tremfya Plaque Psoriasis (adult), prefilled syringe",TREMFYA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Tremfya Psoriatic Arthritis (adult),TREMFYA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Tremfya Psoriatic Arthritis (adult), prefilled syringe",TREMFYA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Tremfya Ulcerative Colitis (adult),TREMFYA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Tremfya prefilled syringe, Ulcerative Colitis (adult)",TREMFYA,Non-Preferred
+ENDOCRINE MEDICATIONS,"Tresiba FlexTouch, U-100","TRESIBA FLEX,  -INJ.",Non-Preferred
+ENDOCRINE MEDICATIONS,"Tresiba FlexTouch, U-200","TRESIBA FLEX,  -INJ.",Non-Preferred
+ENDOCRINE MEDICATIONS,Tresiba vial,"TRESIBA FLEX,  -INJ.",Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Tretten,TRETTEN,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Treximet,TREXIMET,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Trintellix,TRINTELLIX,Preferred
+ANTIINFECTIVES,Triumeq,"TRIUMEQ, -PD",Preferred
+ANTIINFECTIVES,Trizivir,TRIZIVIR,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Trokendi XR ER capsule,TROKENDI XR,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Trokendi XR ER capsule, Lennon-Gastaut Syndrome",TROKENDI XR,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Trokendi XR ER capsule, Migraine Prophylaxis",TROKENDI XR,Non-Preferred
+ENDOCRINE MEDICATIONS,Trulicity,TRULICITY,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Truqap,TRUQAP,Preferred
+RESPIRATORY MEDICATIONS,Tudorza Pressair,TUDORZA,Non-Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Twirla,TWIRLA,Non-Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Tyblume,TYBLUME,Non-Preferred
+ANTIINFECTIVES,Tybost,TYBOST,Preferred
+CARDIOVASCULAR MEDICATIONS,Tyvaso DPI,"TYVASO, -DPI",Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Tyvaso inhalation solution,"TYVASO, -DPI",Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Tyvaso starter kit,"TYVASO, -DPI",Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Ubrelvy,UBRELVY,Preferred
+IMMUNOLOGICALS,Udenyca,UDENYCA,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Uptravi tablet,UPTRAVI,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Uptravi vial,UPTRAVI,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Uzedy,UZEDY,Preferred
+DERMATOLOGICAL MEDICATIONS,Valchlor,VALCHLOR GEL,Preferred
+CARDIOVASCULAR MEDICATIONS,Valsartan,valsartan tabs generic,Preferred
+CARDIOVASCULAR MEDICATIONS,Valsartan oral solution,valsartan soln. generic,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Valsartan tablet,valsartan tabs generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Valtoco,VALTOCO,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Valtoco 2-dose pack,VALTOCO,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Valtoco 5-dose pack,VALTOCO,Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Vandazole,VANDAZOLE GEL,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Vanflyta,VANFLYTA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Velsipity (Etrasimod) Ulcerative Colitis (adult),VELSIPITY,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Velsipity (Etrasimod) tablet,VELSIPITY,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Velsipity (Etrasimod) tablet, Ulcerative Colitis (adult)",VELSIPITY,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Veltassa,VELTASSA,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,"Veltassa 16.8 g, powder pack",VELTASSA,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,"Veltassa 25.2 g, powder pack",VELTASSA,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,"Veltassa 8.4 g, powder pack",VELTASSA,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,"Veltassa powder pack, 1 g",VELTASSA,Preferred
+ANTIINFECTIVES,Vemlidy,VEMLIDY,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Venclexta,VENCLEXTA,Preferred
+CARDIOVASCULAR MEDICATIONS,Ventavis,VENTAVIS,Preferred
+RESPIRATORY MEDICATIONS,Ventolin HFA,VENTOLIN HFA,Preferred
+OPHTHALMIC MEDICATIONS,Verkazia,VERKAZIA,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Versacloz,VERSACLOZ SUSPENSION,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Verzenio,VERZENIO,Preferred
+IMMUNOSUPPRESSANT DRUGS,Verzenio tablet,VERZENIO,Preferred
+OPHTHALMIC MEDICATIONS,Vevye ophthalmic solution,VEVYE,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Viberzi,VIBERZI,Non-Preferred
+ENDOCRINE MEDICATIONS,Victoza,VICTOZA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Vigafyde oral solution,VIGAFYDE,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Viibryd,VIIBRYD,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vijoice oral packet,VIJOICE,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vijoice tablet therapy pack,VIJOICE,Preferred
+ENDOCRINE MEDICATIONS,Vimizim vial,VIMIZIM,Preferred
+ANTIINFECTIVES,Viracept,VIRACEPT,Non-Preferred
+ANTIINFECTIVES,Viread,"VIREAD POWDER, 150mg, 200mg, 250mg TABS",Preferred
+ANTIINFECTIVES,Viread powder,"VIREAD POWDER, 150mg, 200mg, 250mg TABS",Preferred
+ANTIINFECTIVES,Viread tablet,"VIREAD POWDER, 150mg, 200mg, 250mg TABS",Preferred
+ANTIINFECTIVES,"Viread tablet, 150 mg","VIREAD POWDER, 150mg, 200mg, 250mg TABS",Preferred
+ANTIINFECTIVES,"Viread tablet, 200 mg","VIREAD POWDER, 150mg, 200mg, 250mg TABS",Preferred
+ANTIINFECTIVES,"Viread tablet, 250 mg","VIREAD POWDER, 150mg, 200mg, 250mg TABS",Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol Fe+,VITAFOL FE+,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol Nano,VITAFOL NANO,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol Tab Chew,VITAFOL TAB CHEW,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol Ultra,VITAFOL ULTRA,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol-Ob,VITAFOL-OB,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol-One,VITAFOL-ONE,Preferred
+IMMUNOSUPPRESSANT DRUGS,Vitrakvi capsule,VITRAKVI,Preferred
+IMMUNOSUPPRESSANT DRUGS,Vitrakvi oral solution,VITRAKVI,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Vivitrol,VIVITROL,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Vivitrol Alcohol Use Disorder,VIVITROL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Vizimpro,VIZIMPRO,Preferred
+GASTROINTESTINAL MEDICATIONS,Voquezna,VOQUEZNA,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Voquezna Dual Pak,VOQUEZNA,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Voquezna Erosive Esophagitis,VOQUEZNA,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Voquezna H. pylori infection,VOQUEZNA,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Voquezna Triple Pak,VOQUEZNA,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,"Voquezna tablet, Erosive Esophagitis, 10mg",VOQUEZNA,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,"Voquezna tablet, Erosive Esophagitis, 20mg",VOQUEZNA,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,"Voquezna tablet, H. pylori infection, 20mg",VOQUEZNA,Non-Preferred
+ANTIINFECTIVES,Vosevi,VOSEVI,Preferred
+IMMUNOSUPPRESSANT DRUGS,Votrient,VOTRIENT,Preferred
+IMMUNOLOGICALS,Voxzogo,VOXZOGO,Preferred
+ENDOCRINE MEDICATIONS,Vpriv,VPRIV,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Vraylar,VRAYLAR,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Vraylar Adjunct treatment of major depression disorder,VRAYLAR,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Vraylar Bipolar 1 disorder,VRAYLAR,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Vraylar Bipolar I Disorder, acute mixed or manic episodes",VRAYLAR,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Vraylar Depressed Bipolar I Disorder,VRAYLAR,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Vraylar Schizophrenia / Schizoaffective disorder,VRAYLAR,Preferred
+DERMATOLOGICAL MEDICATIONS,Vtama Atopic Dermatitis,VTAMA,Non-Preferred
+DERMATOLOGICAL MEDICATIONS,Vtama Plaque Psoriasis,VTAMA,Non-Preferred
+DERMATOLOGICAL MEDICATIONS,Vyjuvek,VYJUVEK GEL,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Vyndamax,VYNDAMAX,Preferred
+CARDIOVASCULAR MEDICATIONS,Vyndaqel capsule,VYNDAQEL,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Vyvanse capsule,VYVANSE CAPS,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Wainua,WAINUA,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Wakix,WAKIX,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Wakix Cataplexy,WAKIX,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Wakix Excessive Daytime Sleepiness,WAKIX,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Wakix Idiopathic Hypersomnia,WAKIX,Non-Preferred
+DERMATOLOGICAL MEDICATIONS,Winlevi,WINLEVI,Non-Preferred
+CARDIOVASCULAR MEDICATIONS,Winrevair vial,WINREVAIR,Non-Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Xaciato,XACIATO GEL,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Xalkori capsule,XALKORI,Preferred
+IMMUNOSUPPRESSANT DRUGS,Xalkori sprinkle capsule,XALKORI,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Xarelto,XARELTO TABS,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Xarelto 10 mg,XARELTO TABS,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Xarelto 15 mg,XARELTO TABS,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Xarelto 2.5 mg,XARELTO TABS,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Xarelto 20 mg,XARELTO TABS,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Xarelto oral suspension,XARELTO SUSPENSION,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Xarelto starter pack,XARELTO SUSPENSION,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Xcopri,"XCOPRI TABS, PAK",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Xcopri dose pack,"XCOPRI TABS, PAK",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Xcopri tablet,"XCOPRI TABS, PAK",Preferred
+OPHTHALMIC MEDICATIONS,Xdemvy,XDEMVY,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Xeljanz,"XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,Xeljanz Ankylosing Spondylitis,"XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Ankylosing Spondylitis, 10 mg, IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Ankylosing Spondylitis, 5 mg, IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Ankylosing Spondylitis, IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Ankylosing Spondylitis, oral solution",XELJANZ SOLN,Preferred
+MUSCULOSKELETAL MEDICATIONS,Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA),"XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), 10 mg, IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), 5 mg, IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), oral solution",XELJANZ SOLN,Preferred
+MUSCULOSKELETAL MEDICATIONS,Xeljanz Psoriatic Arthritis (adult),"XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Psoriatic Arthritis (adult), 10 mg, IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Psoriatic Arthritis (adult), 5 mg, IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Psoriatic Arthritis (adult), IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Psoriatic Arthritis (adult), oral solution",XELJANZ SOLN,Preferred
+MUSCULOSKELETAL MEDICATIONS,Xeljanz Rheumatoid Arthritis,"XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Rheumatoid Arthritis, 10 mg, IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Rheumatoid Arthritis, 5 mg, IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Rheumatoid Arthritis, IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Rheumatoid Arthritis, oral solution",XELJANZ SOLN,Preferred
+MUSCULOSKELETAL MEDICATIONS,Xeljanz Ulcerative Colitis (adult),"XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Ulcerative Colitis (adult), 10 mg, IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Ulcerative Colitis (adult), 5 mg, IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Ulcerative Colitis (adult), IR tablet","XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,"Xeljanz Ulcerative Colitis (adult), oral solution",XELJANZ SOLN,Preferred
+ENDOCRINE MEDICATIONS,Xigduo XR,XIGDUO XR,Preferred
+ENDOCRINE MEDICATIONS,Xigduo XR 10 mg/1000 mg,XIGDUO XR,Preferred
+ENDOCRINE MEDICATIONS,Xigduo XR 10 mg/500 mg,XIGDUO XR,Preferred
+ENDOCRINE MEDICATIONS,Xigduo XR 2.5 mg/1000 mg,XIGDUO XR,Preferred
+ENDOCRINE MEDICATIONS,Xigduo XR 5 mg/1000 mg,XIGDUO XR,Preferred
+ENDOCRINE MEDICATIONS,Xigduo XR 5 mg/500 mg,XIGDUO XR,Preferred
+ANTIINFECTIVES,Xofluza,XOFLUZA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Xolair Asthma (adult),XOLAIR auto-injector,Preferred
+IMMUNOSUPPRESSANT DRUGS,Xolair Asthma (pediatric),XOLAIR auto-injector,Preferred
+IMMUNOSUPPRESSANT DRUGS,Xolair Chronic Rhinosinusitis with Nasal Polyposis,XOLAIR auto-injector,Preferred
+IMMUNOSUPPRESSANT DRUGS,Xolair Chronic Spontaneous Urticaria (CSU),XOLAIR auto-injector,Preferred
+IMMUNOSUPPRESSANT DRUGS,Xolair IgE-Mediated Food Allergy,XOLAIR auto-injector,Preferred
+IMMUNOSUPPRESSANT DRUGS,Xolair auto-injector,XOLAIR auto-injector,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Xolair auto-injector, IgE-Mediated Food Allergy",XOLAIR auto-injector,Preferred
+RESPIRATORY MEDICATIONS,Xopenex HFA,XOPENEX HFA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Xtandi,XTANDI CAPS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Xtandi capsule,XTANDI CAPS,Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Xulane,xulane (norelgestromin-ethinyl estradiol) generic,Non-Preferred
+ENDOCRINE MEDICATIONS,Xultophy,XULTOPHY,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Xyntha,XYNTHA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Xyrem,XYREM,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Xyrem Cataplexy,XYREM,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Xyrem Excessive Daytime Sleepiness,XYREM,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Xyrem Idiopathic Hypersomnia,XYREM,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Xywav,XYWAV,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Xywav Cataplexy,XYWAV,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Xywav Cataplexy, Excessive Daytime Sleepiness",XYWAV,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Xywav Excessive Daytime Sleepiness,XYWAV,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Xywav Idiopathic Hypersomnia,XYWAV,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Yorvipath,YORVIPATH,Non-Preferred
+RESPIRATORY MEDICATIONS,Yupelri,YUPELRI,Non-Preferred
+RESPIRATORY MEDICATIONS,Yupelri inhalation solution,YUPELRI,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Zanaflex capsule,ZANAFLEX CAPS,Non-Preferred
+IMMUNOLOGICALS,Zarxio,ZARXIO,Non-Preferred
+ENDOCRINE MEDICATIONS,Zavesca,ZAVESCA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zavzpret,ZAVZPRET,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Zegerid,ZEGERID POWDER,Non-Preferred
+GASTROINTESTINAL MEDICATIONS,Zegerid packet,ZEGERID POWDER,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Zejula,ZEJULA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Zejula Tablet,ZEJULA,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zembrace,ZEMBRACE SYMTOUCH INJ.,Non-Preferred
+ANTIINFECTIVES,Zepatier,ZEPATIER,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zeposia,ZEPOSIA STARTER KIT/PACK,Non-Preferred
+OPHTHALMIC MEDICATIONS,Zerviate (Cetirizine) ophthalmic solution,ZERVIATE,Non-Preferred
+IMMUNOLOGICALS,Ziextenzo,ZIEXTENZO,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zilbrysq,ZILBRYSQ,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Ziprasidone,ziprasidone caps generic,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Zokinvy,ZOKINVY,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zolmitriptan,"zolmitriptan, -odt generic",Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zolpidem,zolpidem generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zolpidem 10 mg,zolpidem generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Zolpidem 10 mg, tablet",zolpidem generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zolpidem 5 mg,zolpidem generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Zolpidem 5 mg, tablet",zolpidem generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zolpidem 7.5 mg,zolpidem generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zolpidem CR,zolpidem generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zolpidem IR capsule,zolpidem generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zolpidem IR tablet,zolpidem generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Zolpidem IR tablet, 10 mg",zolpidem generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Zolpidem IR tablet, 5 mg",zolpidem generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,"Zolpidem IR tablet, IR capsule",zolpidem generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zolpidem capsule,zolpidem generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zolpidem tablet,zolpidem generic,Preferred
+IMMUNOLOGICALS,Zomacton,ZOMACTON,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zonisade,ZONISADE,Non-Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Zontivity,ZONTIVITY,Non-Preferred
+DERMATOLOGICAL MEDICATIONS,"Zoryve cream, 0.15%, Atopic Dermatitis",ZORYVE,Non-Preferred
+DERMATOLOGICAL MEDICATIONS,"Zoryve cream, 0.3%, Plaque Psoriasis",ZORYVE,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Ztalmy,ZTALMY,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zurzuvae,ZURZUVAE,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Zydelig,ZYDELIG,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zyprexa Relprevv,ZYPREXA RELPREVV,Preferred
+IMMUNOSUPPRESSANT DRUGS,Zytiga,ZYTIGA 250mg,Preferred
+IMMUNOSUPPRESSANT DRUGS,Zytiga 250 mg,ZYTIGA 250mg,Preferred
+IMMUNOSUPPRESSANT DRUGS,Zytiga 500 mg,ZYTIGA 500mg,Non-Preferred

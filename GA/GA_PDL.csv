@@ -47,8 +47,7 @@ DIFICID,Non-Preferred,ANTIINFECTIVES
 "doxycycline hyclate 20mg, 100mg generic",Preferred,ANTIINFECTIVES
 "doxycycline hyclate 75mg, 150mg generic",Non-Preferred,ANTIINFECTIVES
 doxycycline hyclate delayed release tabs,Non-Preferred,ANTIINFECTIVES
-"doxycycline monohydrate 50mg, 100mg caps, 75mg, 
-100mg, 150mg tabs generic",Preferred,ANTIINFECTIVES
+"doxycycline monohydrate 50mg, 100mg caps, 75mg, 100mg, 150mg tabs generic",Preferred,ANTIINFECTIVES
 generic,Non-Preferred,ANTIINFECTIVES
 doxycycline suspension generic,Preferred,ANTIINFECTIVES
 DYNAPEN SUSP,Preferred,ANTIINFECTIVES
@@ -90,8 +89,7 @@ SOLOSEC,Non-Preferred,ANTIINFECTIVES
 SPECTRACEF,Non-Preferred,ANTIINFECTIVES
 streptomycin inj. generic,Preferred,ANTIINFECTIVES
 sulfadiazine tab generic,Non-Preferred,ANTIINFECTIVES
-"sulfamethoxazole-trimethoprim susp. 200mg-
-40mg/5ml generic (except 00121-0853-**)",Preferred,ANTIINFECTIVES
+sulfamethoxazole-trimethoprim susp. 200mg40mg/5ml generic (except 00121-0853-**),Preferred,ANTIINFECTIVES
 tetracycline caps generic,Preferred,ANTIINFECTIVES
 TOBI PODHALER,Non-Preferred,ANTIINFECTIVES
 tobramycin 40mg/ml inj. generic,Preferred,ANTIINFECTIVES
@@ -381,6 +379,7 @@ INQOVI,Preferred,IMMUNOSUPPRESSANT DRUGS
 INREBIC,Preferred,IMMUNOSUPPRESSANT DRUGS
 INLYTA,Preferred,IMMUNOSUPPRESSANT DRUGS
 IRESSA,Preferred,IMMUNOSUPPRESSANT DRUGS
+ITOVEBI,Preferred,IMMUNOSUPPRESSANT DRUGS
 IWILFIN,Preferred,IMMUNOSUPPRESSANT DRUGS
 JAKAFI,Preferred,IMMUNOSUPPRESSANT DRUGS
 JAYPIRCA,Preferred,IMMUNOSUPPRESSANT DRUGS
@@ -433,8 +432,7 @@ OJJAARA,Preferred,IMMUNOSUPPRESSANT DRUGS
 "OMVOH (auto-injector, prefilled syringe)",Non-Preferred,IMMUNOSUPPRESSANT DRUGS
 ONUREG,Preferred,IMMUNOSUPPRESSANT DRUGS
 ORSERDU,Preferred,IMMUNOSUPPRESSANT DRUGS
-"ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, 
-CLICKJECT",Non-Preferred,IMMUNOSUPPRESSANT DRUGS
+"ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred,IMMUNOSUPPRESSANT DRUGS
 ORGOVYX,Preferred,IMMUNOSUPPRESSANT DRUGS
 PEMAZYRE,Preferred,IMMUNOSUPPRESSANT DRUGS
 PHESGO,Preferred,IMMUNOSUPPRESSANT DRUGS
@@ -522,8 +520,7 @@ amlodipine,Preferred,CARDIOVASCULAR MEDICATIONS
 CARDIZEM LA 120mg,Preferred,CARDIOVASCULAR MEDICATIONS
 diltiazem (generic Cardizem),Preferred,CARDIOVASCULAR MEDICATIONS
 diltiazem cd/er 360mg (generic Cardizem CD),Non-Preferred,CARDIOVASCULAR MEDICATIONS
-"diltiazem cd/er,cartia xt, dilt-cd (generic Cardizem 
-CD-all strengths except 360mg)",Preferred,CARDIOVASCULAR MEDICATIONS
+"diltiazem cd/er,cartia xt, dilt-cd (generic Cardizem CD-all strengths except 360mg)",Preferred,CARDIOVASCULAR MEDICATIONS
 "diltiazem er,diltzac,taztia xt caps (generic Tiazac)",Preferred,CARDIOVASCULAR MEDICATIONS
 "diltiazem er, dilt-xr (generic Dilacor XR)",Preferred,CARDIOVASCULAR MEDICATIONS
 felodipine er generic,Preferred,CARDIOVASCULAR MEDICATIONS
@@ -540,8 +537,7 @@ NORLIQVA,Non-Preferred,CARDIOVASCULAR MEDICATIONS
 NYMALIZE,Non-Preferred,CARDIOVASCULAR MEDICATIONS
 nisoldipine sr generic,Non-Preferred,CARDIOVASCULAR MEDICATIONS
 verapamil generic,Preferred,CARDIOVASCULAR MEDICATIONS
-"verapamil er caps 100mg, 200mg, 300mg (generic 
-Verelan PM)",Non-Preferred,CARDIOVASCULAR MEDICATIONS
+"verapamil er caps 100mg, 200mg, 300mg (generic Verelan PM)",Non-Preferred,CARDIOVASCULAR MEDICATIONS
 verapamil sr caps 360mg (generic Verelan SR),Non-Preferred,CARDIOVASCULAR MEDICATIONS
 digoxin 0.0625MG generic,Non-Preferred,CARDIOVASCULAR MEDICATIONS
 digoxin 0.125MG generic,Preferred,CARDIOVASCULAR MEDICATIONS
@@ -718,8 +714,7 @@ codeine tab generic,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 (acetaminophen/caffeine/dihydrocodeine) generic",Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 DILAUDID 1mg/ml,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 fentanyl citrate generic (generic Actiq),Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
-"fentanyl patch generic (generic Duragesic)-12-, 25-, 
-50-, 75-, 100 mcg/hr",Preferred,AUTONOMIC AND CNS MEDICATIONS
+"fentanyl patch generic (generic Duragesic)-12-, 25-, 50-, 75-, 100 mcg/hr",Preferred,AUTONOMIC AND CNS MEDICATIONS
 "fentanyl patch generic (generic Duragesic)- 37.5-, 
 62.5-, 87.5 mcg/hr",Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 FENTORA,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
@@ -729,8 +724,7 @@ generic",Preferred,AUTONOMIC AND CNS MEDICATIONS
 "hydrocodone-APAP 10mg/325mg/15mL soln. 
 generic",Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 "hydrocodone-APAP 5-300mg, 10-300mg, 7.5-300mg tab generic",Preferred,AUTONOMIC AND CNS MEDICATIONS
-"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
-200mg generic",Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
+"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10200mg generic",Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 hydrocodone/ibuprofen 7.5-200mg generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 hydromorphone er tabs generic,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 hydromorphone ir tabs generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
@@ -928,7 +922,7 @@ paroxetine generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 paroxetine er,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 PAXIL SUSP.,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 PEXEVA,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
-sertraline generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
+sertraline tabs generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 desvenlafaxine er tabs (generic Khedezla),Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 desvenlafaxine succinate er tabs (generic Pristiq),Preferred,AUTONOMIC AND CNS MEDICATIONS
 DRIZALMA,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
@@ -1008,6 +1002,7 @@ ropinirole er generic,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 RYTARY,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 selegiline generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 tolcapone generic,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
+VYALEV,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 XADAGO,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 ZELAPAR,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 ABILIFY MYCITE,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
@@ -1028,8 +1023,7 @@ olanzapine inj. (short-acting) generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 olanzapine/fluoxetine generic,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 paliperidone er generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 "quetiapine generic 25mg, 50mg",Preferred,AUTONOMIC AND CNS MEDICATIONS
-"quetiapine generic 100mg, 150mg, 200mg, 300mg, 
-400mg",Preferred,AUTONOMIC AND CNS MEDICATIONS
+"quetiapine generic 100mg, 150mg, 200mg, 300mg, 400mg",Preferred,AUTONOMIC AND CNS MEDICATIONS
 quetiapine er generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 REXULTI,Preferred,AUTONOMIC AND CNS MEDICATIONS
 risperidone generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
@@ -1076,15 +1070,14 @@ methylphenidate generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 methylphenidate cd generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 methylphenidate chew tabs generic,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 methylphenidate 10mg er (generic for Metadate ER),Preferred,AUTONOMIC AND CNS MEDICATIONS
-"methylphenidate/metadate 20mg er/sr (generic for 
-Ritalin SR)",Preferred,AUTONOMIC AND CNS MEDICATIONS
-"methylphenidate er (generic for Ritalin LA; except 
-10mg)",Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
+methylphenidate/metadate 20mg er/sr (generic for Ritalin SR),Preferred,AUTONOMIC AND CNS MEDICATIONS
+methylphenidate er (generic for Ritalin LA; except 10mg),Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 methylphenidate sa osm (generic for Concerta),Preferred,AUTONOMIC AND CNS MEDICATIONS
 "methylphenidate osm 45mg, 63mg, 72mg (generic for Relexxii)",Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 methylphenidate solution generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 modafinil generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 MYDAYIS,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
+ONYDA XR SUSPENSION,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 QELBREE,Preferred,AUTONOMIC AND CNS MEDICATIONS
 QUILLICHEW ER,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 QUILLIVANT SUSP XR,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
@@ -1095,6 +1088,7 @@ WAKIX,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 XELSTRYM,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 XYWAV,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 "ZENZEDI 2.5mg, 7.5mg, 15mg, 20mg, 30mg",Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
+AQNEURSA,Preferred,AUTONOMIC AND CNS MEDICATIONS
 "buprenorphine sl tabs, inj., generic",Preferred,AUTONOMIC AND CNS MEDICATIONS
 buprenorphine/naloxone sl tabs generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 caffeine citrate injection 60mg/3ml generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
@@ -1104,6 +1098,7 @@ guanfacine er generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 HORIZANT,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 KLOXXADO SPRAY,Preferred,AUTONOMIC AND CNS MEDICATIONS
 MESTINON,Preferred,AUTONOMIC AND CNS MEDICATIONS
+MIPLYFFA,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 naloxone injection generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 naloxone nasal spray OTC,Preferred,AUTONOMIC AND CNS MEDICATIONS
 NARCAN SPRAY OTC,Preferred,AUTONOMIC AND CNS MEDICATIONS
@@ -1228,8 +1223,7 @@ ULTRAVATE LOTION,Non-Preferred,DERMATOLOGICAL MEDICATIONS
 ACANYA GEL,Non-Preferred,DERMATOLOGICAL MEDICATIONS
 ACZONE GEL 7.5%,Non-Preferred,DERMATOLOGICAL MEDICATIONS
 "adapalene 0.3% gel, cream generic",Non-Preferred,DERMATOLOGICAL MEDICATIONS
-"adapalene/benzoyl peroxide 0.1-2.5% (generic 
-Epiduo)",Non-Preferred,DERMATOLOGICAL MEDICATIONS
+adapalene/benzoyl peroxide 0.1-2.5% (generic Epiduo),Non-Preferred,DERMATOLOGICAL MEDICATIONS
 AKLIEF,Non-Preferred,DERMATOLOGICAL MEDICATIONS
 AMZEEQ,Non-Preferred,DERMATOLOGICAL MEDICATIONS
 ALTRENO LOTION,Non-Preferred,DERMATOLOGICAL MEDICATIONS
@@ -1241,16 +1235,13 @@ CLINDACIN KIT PAC 1%,Non-Preferred,DERMATOLOGICAL MEDICATIONS
 clindamycin aer 1% generic,Non-Preferred,DERMATOLOGICAL MEDICATIONS
 "clindamycin 1% gel, lotion, topical solution generic",Preferred,DERMATOLOGICAL MEDICATIONS
 clindamycin pads/swabs generic,Preferred,DERMATOLOGICAL MEDICATIONS
-"clindamycin-benzoyl peroxide gel 1-5% (generic for 
-Benzaclin)",Non-Preferred,DERMATOLOGICAL MEDICATIONS
-"clindamycin-benzoyl peroxide gel 1.2-5% (generic for 
-Duac)",Preferred,DERMATOLOGICAL MEDICATIONS
+clindamycin-benzoyl peroxide gel 1-5% (generic for Benzaclin),Non-Preferred,DERMATOLOGICAL MEDICATIONS
+clindamycin-benzoyl peroxide gel 1.2-5% (generic for Duac),Preferred,DERMATOLOGICAL MEDICATIONS
 dapsone gel 5% generic,Non-Preferred,DERMATOLOGICAL MEDICATIONS
 EPIDUO FORTE,Preferred,DERMATOLOGICAL MEDICATIONS
 EPSOLAY,Non-Preferred,DERMATOLOGICAL MEDICATIONS
 ERY PAD 2%,Non-Preferred,DERMATOLOGICAL MEDICATIONS
-"erythromycin/benzoyl peroxide gel (generic 
-Benzamycin)",Non-Preferred,DERMATOLOGICAL MEDICATIONS
+erythromycin/benzoyl peroxide gel (generic Benzamycin),Non-Preferred,DERMATOLOGICAL MEDICATIONS
 EVOCLIN,Non-Preferred,DERMATOLOGICAL MEDICATIONS
 FABIOR AER 0.1%,Non-Preferred,DERMATOLOGICAL MEDICATIONS
 FINACEA,Preferred,DERMATOLOGICAL MEDICATIONS
@@ -1312,6 +1303,7 @@ QBREXZA,Non-Preferred,DERMATOLOGICAL MEDICATIONS
 REGRANEX,Preferred,DERMATOLOGICAL MEDICATIONS
 SALEX SHAMPOO 6%,Non-Preferred,DERMATOLOGICAL MEDICATIONS
 "salicylic acid aerosol/foam, gel 6% generic",Non-Preferred,DERMATOLOGICAL MEDICATIONS
+SOFDRA GEL,Non-Preferred,DERMATOLOGICAL MEDICATIONS
 tacrolimus ointment generic,Preferred,DERMATOLOGICAL MEDICATIONS
 urea cream/lotion 40% generic,Preferred,DERMATOLOGICAL MEDICATIONS
 urea cream 41% generic,Non-Preferred,DERMATOLOGICAL MEDICATIONS
@@ -1493,6 +1485,7 @@ KERENDIA,Non-Preferred,ENDOCRINE MEDICATIONS
 KORLYM,Preferred,ENDOCRINE MEDICATIONS
 MEDROL 2mg,Preferred,ENDOCRINE MEDICATIONS
 methylprednisolone generic,Preferred,ENDOCRINE MEDICATIONS
+miglustat (Patriot generic only),Preferred,ENDOCRINE MEDICATIONS
 MILLIPRED ORAL SOLN.,Non-Preferred,ENDOCRINE MEDICATIONS
 MYALEPT,Preferred,ENDOCRINE MEDICATIONS
 NATPARA,Non-Preferred,ENDOCRINE MEDICATIONS
@@ -1562,7 +1555,7 @@ chlordiazepoxide-clidinium generic,Non-Preferred,GASTROINTESTINAL MEDICATIONS
 CHOLBAM,Preferred,GASTROINTESTINAL MEDICATIONS
 CLENPIQ,Non-Preferred,GASTROINTESTINAL MEDICATIONS
 CORTIFOAM,Preferred,GASTROINTESTINAL MEDICATIONS
-CREON,Preferred,GASTROINTESTINAL MEDICATIONS
+DIPENTUM,Non-Preferred,GASTROINTESTINAL MEDICATIONS
 cromolyn sodium oral conc. 100mg/5ml generic,Preferred,GASTROINTESTINAL MEDICATIONS
 DARTISLA ODT,Non-Preferred,GASTROINTESTINAL MEDICATIONS
 DELZICOL,Preferred,GASTROINTESTINAL MEDICATIONS
@@ -1654,7 +1647,7 @@ GAMMAGARD/SD,Preferred,IMMUNOLOGICALS
 GAMMAKED,Non-Preferred,IMMUNOLOGICALS
 GAMMAPLEX,Non-Preferred,IMMUNOLOGICALS
 GAMUNEX-C,Preferred,IMMUNOLOGICALS
-"GRANIX 300mcg/0.5ml, 480mcg/0.8ml syringes (non needle guard)",Non-Preferred,IMMUNOLOGICALS
+"GRANIX 300mcg/0.5ml, 480mcg/0.8ml syringes (nonneedle guard)",Non-Preferred,IMMUNOLOGICALS
 HEPAGAM B,Non-Preferred,IMMUNOLOGICALS
 HIZENTRA,Preferred,IMMUNOLOGICALS
 HYQVIA,Non-Preferred,IMMUNOLOGICALS
@@ -1827,6 +1820,7 @@ VELPHORO,Non-Preferred,NUTRITION / BLOOD MODIFIERS / ELECTROLYTES
 VENOFER,Preferred,NUTRITION / BLOOD MODIFIERS / ELECTROLYTES
 vitamin B complex generic,Preferred,NUTRITION / BLOOD MODIFIERS / ELECTROLYTES
 vitamin B-12 injection generic,Preferred,NUTRITION / BLOOD MODIFIERS / ELECTROLYTES
+YORVIPATH,Non-Preferred,NUTRITION / BLOOD MODIFIERS / ELECTROLYTES
 ELIQUIS,Preferred,NUTRITION / BLOOD MODIFIERS / ELECTROLYTES
 phytonadione generic,Preferred,NUTRITION / BLOOD MODIFIERS / ELECTROLYTES
 PRADAXA,Preferred,NUTRITION / BLOOD MODIFIERS / ELECTROLYTES
@@ -2020,6 +2014,7 @@ BALCOLTRA,Non-Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
 DEPO-SQ PROVERA 104,Non-Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
 drospirenone/ethinyl estradiol/levomefolate generic,Non-Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
 ELLA,Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
+FEMLYV,Non-Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
 gildess 24 fe generic,Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
 gianvi (drospirenone/ethinyl estradiol) generic,Non-Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
 jolessa generic,Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
@@ -2027,8 +2022,7 @@ junel fe 24 generic,Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
 larin 24 fe generic,Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
 leena (generic Tri-Norinyl),Non-Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
 levonorgestrel 1.5mg generics (covered < 17 yrs old),Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
-"levonorgestrel/ethinyl estradiol (generic 
-Seasonique/LoSeasonique)",Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
+levonorgestrel/ethinyl estradiol (generic Seasonique/LoSeasonique),Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
 LO LOESTRIN FE,Non-Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
 lomedia 24 fe generic,Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
 LO MINASTRIN FE,Non-Preferred,OBSTETRICAL & GYNECOLOGICAL MEDICATIONS
@@ -2066,10 +2060,8 @@ CILOXAN ophth. oint.,Preferred,OPHTHALMIC MEDICATIONS
 ciprofloxacin HCL drops,Preferred,OPHTHALMIC MEDICATIONS
 gatifloxacin ophth. soln. generic,Non-Preferred,OPHTHALMIC MEDICATIONS
 levofloxacin 0.5% ophth generic,Non-Preferred,OPHTHALMIC MEDICATIONS
-"moxifloxacin ophthalmic soln. 0.5% (generic for 
-Moxeza)",Non-Preferred,OPHTHALMIC MEDICATIONS
-"moxifloxacin ophthalmic soln. 0.5% (generic for 
-Vigamox)",Preferred,OPHTHALMIC MEDICATIONS
+moxifloxacin ophthalmic soln. 0.5% (generic for Moxeza),Non-Preferred,OPHTHALMIC MEDICATIONS
+moxifloxacin ophthalmic soln. 0.5% (generic for Vigamox),Preferred,OPHTHALMIC MEDICATIONS
 ofloxacin drops generic,Preferred,OPHTHALMIC MEDICATIONS
 ZYMAXID,Non-Preferred,OPHTHALMIC MEDICATIONS
 ALREX,Preferred,OPHTHALMIC MEDICATIONS
@@ -2299,4 +2291,4 @@ RAPAFLO,Non-Preferred,UROLOGICAL/RENAL MEDICATIONS
 tamsulosin generic,Preferred,UROLOGICAL/RENAL MEDICATIONS
 "FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred,DIABETIC SUPPLIES
 "OMNIPOD DASH, -5 (covered 2 - 21 yrs old)",Preferred,DIABETIC SUPPLIES
-"For a complete list of covered vaccines, please refer to www.mmis.georgia.gov → Pharmacy → Other Documents → Covered Vaccines",Non-Preferred,VACCINES
+"For a complete list of covered vaccines, please refer to www.mmis.georgia.gov → Pharmacy → Pharmacy Notices",Non-Preferred,VACCINES
