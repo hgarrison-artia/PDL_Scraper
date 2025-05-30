@@ -51,7 +51,7 @@ class DataManager:
                         'status': 'Non-Preferred'
                     })
             else:
-                # If the pdl_name isn’t found in the PDL dataframe, add to not_in_data for manual processing
+                # If the pdl_name isn't found in the PDL dataframe, add to not_in_data for manual processing
                 self.state_data = self.state_data[(self.state_data['therapeutic_class']!=entry['therapeutic_class']) & 
                                                   (self.state_data['capsule_name']!=entry['capsule_name']) & 
                                                   (self.state_data['pdl_name']!=entry['pdl_name'])]
@@ -85,14 +85,24 @@ class DataManager:
         skipped_df.to_csv(f'{self.state}/{self.state}_skipped_data.csv', index=False)
         self.state_data.sort_values('capsule_name').to_csv(f'{self.state}/{self.state}_data.csv', index=False)
         skipped_df = pd.DataFrame(self.skipped_drugs)
-        #output_df.to_csv(f'{self.state}/{self.state}_output_data.csv', index=False)
-        #skipped_df.to_csv(f'{self.state}/{self.state}_skipped_data.csv', index=False)
-        #self.state_data.to_csv(f'{self.state}/{self.state}_data.csv', index=False)
         print("Dataframes saved successfully.")
 
     def remove_last_assignment(self):
-        """Remove the last assignment from statuses and state_data."""
+        """Remove the last assignment from statuses and state_data, and add the drug back to not_in_data."""
         if self.statuses:
-            self.statuses.pop()
-        if not self.state_data.empty:
-            self.state_data = self.state_data.iloc[:-1]
+            last_status = self.statuses.pop()
+            capsule_name = last_status['capsule_name']
+            
+            # Remove from state_data
+            if not self.state_data.empty:
+                self.state_data = self.state_data[
+                    ~((self.state_data['capsule_name'] == capsule_name) & 
+                      (self.state_data['pdl_name'] == last_status['pdl_name']))
+                ]
+            
+            # Add back to not_in_data if it's not already there
+            if capsule_name not in self.not_in_data:
+                self.not_in_data.append(capsule_name)
+            
+            return capsule_name
+        return None

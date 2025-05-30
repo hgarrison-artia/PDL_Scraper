@@ -1,1 +1,1892 @@
 therapeutic_class,capsule_name,pdl_name
+ANTIPSYCHOTICS : ORAL,Abilify,ABILIFY (aripiprazole)
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Abilify Asimtufii,ABILIFY ASIMTUFII (aripiprazole)
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Abilify Maintena,ABILIFY MAINTENA (aripiprazole)
+ANTIPSYCHOTICS : ORAL,Abilify MyCite,ABILIFY MYCITE (aripiprazole)
+ANTIPSYCHOTICS : ORAL,Abilify tablet,ABILIFY (aripiprazole)
+CYTOKINE & CAM ANTAGONISTS,Abrilada Ankylosing Spondylitis,ABRILADA (adalimumab-afzb)
+CYTOKINE & CAM ANTAGONISTS,Abrilada Crohn's Disease (adult),ABRILADA (adalimumab-afzb)
+CYTOKINE & CAM ANTAGONISTS,Abrilada Crohn's Disease (pediatric),ABRILADA (adalimumab-afzb)
+CYTOKINE & CAM ANTAGONISTS,Abrilada Hidradenitis Suppurativa,ABRILADA (adalimumab-afzb)
+CYTOKINE & CAM ANTAGONISTS,Abrilada Plaque Psoriasis (adult),ABRILADA (adalimumab-afzb)
+CYTOKINE & CAM ANTAGONISTS,Abrilada Polyarticular Juvenile Idiopathic Arthritis (PJIA),ABRILADA (adalimumab-afzb)
+CYTOKINE & CAM ANTAGONISTS,Abrilada Psoriatic Arthritis (adult),ABRILADA (adalimumab-afzb)
+CYTOKINE & CAM ANTAGONISTS,Abrilada Rheumatoid Arthritis,ABRILADA (adalimumab-afzb)
+CYTOKINE & CAM ANTAGONISTS,Abrilada Ulcerative Colitis (adult),ABRILADA (adalimumab-afzb)
+CYTOKINE & CAM ANTAGONISTS,Abrilada Uveitis (adult),ABRILADA (adalimumab-afzb)
+CYTOKINE & CAM ANTAGONISTS,"Actemra ACTPen, Giant Cell Arteritis",ACTEMRA ACTPEN (tocilizumab)
+CYTOKINE & CAM ANTAGONISTS,"Actemra ACTPen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA ACTPEN (tocilizumab)
+CYTOKINE & CAM ANTAGONISTS,"Actemra ACTPen, Rheumatoid Arthritis",ACTEMRA ACTPEN (tocilizumab)
+CYTOKINE & CAM ANTAGONISTS,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",ACTEMRA ACTPEN (tocilizumab)
+CYTOKINE & CAM ANTAGONISTS,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA ACTPEN (tocilizumab)
+CYTOKINE & CAM ANTAGONISTS,Actemra Cytokine Release Syndrome,"ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,Actemra prefilled syringe,"ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,"Actemra prefilled syringe, Cytokine Release Syndrome","ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,"Actemra prefilled syringe, Giant Cell Arteritis","ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,"Actemra prefilled syringe, Rheumatoid Arthritis","ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)","ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,Actemra syringe/vial,"ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,Actemra vial,"ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,"Actemra vial, Coronavirus Disease 2019","ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,"Actemra vial, Cytokine Release Syndrome","ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,"Actemra vial, Giant Cell Arteritis","ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,"Actemra vial, Rheumatoid Arthritis","ACTEMRA (tocilizumab) syringe, vial"
+CYTOKINE & CAM ANTAGONISTS,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","ACTEMRA (tocilizumab) syringe, vial"
+SICKLE CELL AGENTS,Adakveo,ADAKVEO (crizanlizumab-tmca)
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adaz Ankylosing Spondylitis,adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Ankylosing Spondylitis, auto-injector",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Ankylosing Spondylitis, prefilled syringe",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adaz Crohn's Disease (adult),adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Crohn's Disease (adult), auto-injector",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Crohn's Disease (adult), prefilled syringe",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adaz Crohn's Disease (pediatric),adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Crohn's Disease (pediatric), auto-injector",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Crohn's Disease (pediatric), prefilled syringe",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adaz Hidradenitis Suppurativa,adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Hidradenitis Suppurativa, auto-injector",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Hidradenitis Suppurativa, prefilled syringe",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adaz Plaque Psoriasis (adult),adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Plaque Psoriasis (adult), auto-injector",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Plaque Psoriasis (adult), prefilled syringe",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA),adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adaz Psoriatic Arthritis (adult),adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Psoriatic Arthritis (adult), auto-injector",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Psoriatic Arthritis (adult), prefilled syringe",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adaz Rheumatoid Arthritis,adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Rheumatoid Arthritis, auto-injector",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Rheumatoid Arthritis, prefilled syringe",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adaz Ulcerative Colitis (adult),adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Ulcerative Colitis (adult), auto-injector",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Ulcerative Colitis (adult), prefilled syringe",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adaz Uveitis (adult),adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Uveitis (adult), auto-injector",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adaz Uveitis (adult), prefilled syringe",adalimumab-adaz
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adbm Ankylosing Spondylitis,adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Ankylosing Spondylitis, Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Ankylosing Spondylitis, Non Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Ankylosing Spondylitis, Non Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Ankylosing Spondylitis, Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adbm Crohn's Disease (adult),adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (adult), Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (adult), Non Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (adult), Non Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (adult), Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adbm Crohn's Disease (pediatric),adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (pediatric), Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (pediatric), Non Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (pediatric), Non Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (pediatric), Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adbm Hidradenitis Suppurativa,adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Hidradenitis Suppurativa, Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Hidradenitis Suppurativa, Non Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Hidradenitis Suppurativa, Non Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Hidradenitis Suppurativa, Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adbm Plaque Psoriasis (adult),adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Plaque Psoriasis (adult), Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Plaque Psoriasis (adult), Non Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Plaque Psoriasis (adult), Non Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Plaque Psoriasis (adult), Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA),adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Non Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Non Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adbm Psoriatic Arthritis (adult),adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Psoriatic Arthritis (adult), Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Psoriatic Arthritis (adult), Non Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Psoriatic Arthritis (adult), Non Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Psoriatic Arthritis (adult), Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adbm Rheumatoid Arthritis,adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Rheumatoid Arthritis, Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Rheumatoid Arthritis, Non Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Rheumatoid Arthritis, Non Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Rheumatoid Arthritis, Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adbm Ulcerative Colitis (adult),adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Ulcerative Colitis (adult), Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Ulcerative Colitis (adult), Non Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Ulcerative Colitis (adult), Non Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Ulcerative Colitis (adult), Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-adbm Uveitis (adult),adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Uveitis (adult), Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Uveitis (adult), Non Boehringer 00597 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Uveitis (adult), Non Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,"Adalimumab-adbm Uveitis (adult), Quallent 82009 labeler",adalimumab-adbm
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-fkjp Ankylosing Spondylitis,adalimumab-fkjp
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-fkjp Crohn's Disease (adult),adalimumab-fkjp
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-fkjp Crohn's Disease (pediatric),adalimumab-fkjp
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-fkjp Hidradenitis Suppurativa,adalimumab-fkjp
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-fkjp Plaque Psoriasis (adult),adalimumab-fkjp
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-fkjp Polyarticular Juvenile Idiopathic Arthritis (PJIA),adalimumab-fkjp
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-fkjp Psoriatic Arthritis (adult),adalimumab-fkjp
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-fkjp Rheumatoid Arthritis,adalimumab-fkjp
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-fkjp Ulcerative Colitis (adult),adalimumab-fkjp
+CYTOKINE & CAM ANTAGONISTS,Adalimumab-fkjp Uveitis (adult),adalimumab-fkjp
+ATOPIC DERMATITIS,Adbry,ADBRY (tralokinumab-ldrm)
+ATOPIC DERMATITIS,Adbry Atopic Dermatitis (adult),ADBRY (tralokinumab-ldrm)
+ATOPIC DERMATITIS,"Adbry Atopic Dermatitis (adult), auto-injector",ADBRY Autoinjector (tralokinumab-ldrm)
+ATOPIC DERMATITIS,"Adbry Atopic Dermatitis (adult), prefilled syringe",ADBRY (tralokinumab-ldrm)
+ATOPIC DERMATITIS,Adbry Atopic Dermatitis (pediatric),ADBRY (tralokinumab-ldrm)
+ATOPIC DERMATITIS,Adbry auto-injector,ADBRY Autoinjector (tralokinumab-ldrm)
+ATOPIC DERMATITIS,Adbry prefilled syringe,ADBRY (tralokinumab-ldrm)
+ATOPIC DERMATITIS,"Adbry prefilled syringe, Atopic Dermatitis (pediatric)",ADBRY (tralokinumab-ldrm)
+PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,Adcirca,ADCIRCA (tadalafil)
+STIMULANTS AND RELATED AGENTS : LONG-ACTING,Adderall XR ER capsule,ADDERALL XR (dextroamphetamine/amphetamine)
+PULMONARY ANTIHYPERTENSIVE AGENTS: SOLUABLE GUANYLATE CYCLASE STIMULATORS,Adempas,ADEMPAS (riociguat)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Admelog,ADMELOG (insulin lispro)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Admelog SoloStar,ADMELOG (insulin lispro)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Advair Diskus,ADVAIR DISKUS (fluticasone/salmeterol)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Advair HFA,ADVAIR HFA (fluticasone/salmeterol)
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES",Aimovig,AIMOVIG Autoinjector (erenumab-aooe) DUR+
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Airduo Digihaler,AIRDUO DIGIHALER (fluticasone/salmeterol)
+"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, SHORT ACTING",Airsupra HFA,AIRSUPRA (albuterol/budesonide)
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES",Ajovy,AJOVY Syringe (fremanezumab-vfrm) DUR+
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Akeega,AKEEGA (niraparib/abiraterone)
+"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, SHORT ACTING",Albuterol HFA Sandoz labeler code 00781,albuterol HFA
+"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, SHORT ACTING",Albuterol HFA Teva labeler code 00093,albuterol HFA
+"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, SHORT ACTING",Albuterol HFA generic PROAIR,albuterol HFA
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Alecensa,ALECENSA (alectinib)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",Almotriptan,almotriptan
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Alunbrig,ALUNBRIG (brigatinib)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Alvesco,ALVESCO (ciclesonide)
+PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,Alyq,ALYQ (tadalafil)
+PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,Alyq 20 mg,ALYQ (tadalafil)
+SEDATIVE HYPNOTIC AGENTS: OTHERS,Ambien,AMBIEN (zolpidem)
+SEDATIVE HYPNOTIC AGENTS: OTHERS,Ambien CR,AMBIEN CR (zolpidem)
+PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,Ambrisentan,ambrisentan
+CYTOKINE & CAM ANTAGONISTS,Amjevita Ankylosing Spondylitis,AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 100 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 10mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 20mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 20mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 40mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 40mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 50 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 80mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, Amgen 55513 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, Amgen 72511 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,Amjevita Crohn's Disease (adult),AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 100 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 10mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 20mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 20mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 40mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 40mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 50 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 80mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), Amgen 55513 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), Amgen 72511 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,Amjevita Crohn's Disease (pediatric),AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 100 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 10mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 20mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 20mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 40mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 40mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 50 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 80mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), Amgen 55513 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), Amgen 72511 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,Amjevita Hidradenitis Suppurativa,AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 100 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 10mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 20mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 20mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 40mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 40mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 50 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 80mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, Amgen 55513 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, Amgen 72511 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,Amjevita Plaque Psoriasis (adult),AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 100 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 10mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 20mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 20mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 40mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 40mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 50 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 80mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), Amgen 55513 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), Amgen 72511 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA),AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 100 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 10mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 20mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 20mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 40mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 40mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 50 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 80mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), Amgen 55513 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), Amgen 72511 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,Amjevita Psoriatic Arthritis (adult),AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 100 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 10mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 20mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 20mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 40mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 40mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 50 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 80mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), Amgen 55513 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), Amgen 72511 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,Amjevita Rheumatoid Arthritis,AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 100 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 10mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 20mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 20mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 40mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 40mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 50 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 80mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, Amgen 55513 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, Amgen 72511 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,Amjevita Ulcerative Colitis (adult),AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 100 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 10mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 20mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 20mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 40mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 40mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 50 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 80mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), Amgen 55513 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), Amgen 72511 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,Amjevita Uveitis (adult),AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Uveitis (adult), 100 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Uveitis (adult), 10mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Uveitis (adult), 20mg/0.2mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Uveitis (adult), 20mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Uveitis (adult), 40mg/0.4mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Uveitis (adult), 40mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Uveitis (adult), 50 mg/mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Uveitis (adult), 80mg/0.8mL",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Uveitis (adult), Amgen 55513 labeler",AMJEVITA (adalimumab-atto)
+CYTOKINE & CAM ANTAGONISTS,"Amjevita Uveitis (adult), Amgen 72511 labeler",AMJEVITA (adalimumab-atto)
+CALCIUM CHANNEL BLOCKERS : LONG-ACTING,Amlodipine Besylate tablet,amlodipine
+MUSCULAR DYSTROPHY AGENTS,Amondys 45,AMONDYS-45 (casimersen)
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,Anoro Ellipta,ANORO ELLIPTA (umeclidinium/vilanterol)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Apidra,APIDRA (insulin glulisine)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Apidra SoloStar,APIDRA (insulin glulisine)
+"ANTIDEPRESSANTS, OTHER",Aplenzin,APLENZIN (bupropion)
+ANTICONVULSANTS : ADJUVANTS,Aptiom,APTIOM (eslicarbazepine acetate)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (NON-PEPTIDIC),Aptivus,APTIVUS (tipranavir)
+CYTOKINE & CAM ANTAGONISTS,Arcalyst,ARCALYST (rilonacept)
+CYTOKINE & CAM ANTAGONISTS,Arcalyst Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),ARCALYST (rilonacept)
+CYTOKINE & CAM ANTAGONISTS,Arcalyst Deficiency of Interleukin-1 Receptor Antagonist (DIRA),ARCALYST (rilonacept)
+CYTOKINE & CAM ANTAGONISTS,Arcalyst Recurrent Pericarditis (RP),ARCALYST (rilonacept)
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Aricept,ARICEPT (donepezil)
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Aricept 23 mg,ARICEPT (donepezil)
+ANTIPSYCHOTICS : ORAL,Aripiprazole ODT,"aripiprazole ODT, solution"
+ANTIPSYCHOTICS : ORAL,Aripiprazole oral solution,"aripiprazole ODT, solution"
+ANTIPSYCHOTICS : ORAL,Aripiprazole tablet,aripiprazole tablet
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Aristada,"ARISTADA, ARISTADA INITIO (aripiprazole lauroxil)"
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Aristada Initio,"ARISTADA, ARISTADA INITIO (aripiprazole lauroxil)"
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Armonair Digihaler,ARMONAIR DIGIHALER (fluticasone)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Arnuity Ellipta,ARNUITY ELLIPTA (fluticasone)
+ANTIPSYCHOTICS : ORAL,Asenapine,asenapine
+ANTIPSYCHOTICS : ORAL,Asenapine sublingual tablet,asenapine
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Asmanex HFA,ASMANEX HFA (mometasone)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Asmanex Twisthaler,ASMANEX (mometasone)
+"IMMUNOSUPPRESSIVE AGENTS, ORAL",Astagraf XL ER capsule,ASTAGRAF XL (tacrolimus)
+ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON- NUCLEOSIDE RTIs,Atripla,ATRIPLA (efavirenz/emtricitabine/tenofovir)
+MULTIPLE SCLEROSIS AGENTS,Aubagio tablet,AUBAGIO (teriflunomide)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Augtyro capsule,AUGTYRO (repotrectinib)
+MOVEMENT DISORDER AGENTS,Austedo,AUSTEDO (deutetrabenazine)
+MOVEMENT DISORDER AGENTS,Austedo Huntington's Disease,AUSTEDO (deutetrabenazine)
+MOVEMENT DISORDER AGENTS,Austedo Tardive Dyskinesia,AUSTEDO (deutetrabenazine)
+MOVEMENT DISORDER AGENTS,Austedo Tourette's Syndrome/Tics,AUSTEDO (deutetrabenazine)
+MOVEMENT DISORDER AGENTS,Austedo Unspecified Hyperkinetic Movement Disorder,AUSTEDO (deutetrabenazine)
+MOVEMENT DISORDER AGENTS,Austedo XR,AUSTEDO (deutetrabenazine)
+MOVEMENT DISORDER AGENTS,Austedo XR Huntington's Disease,AUSTEDO (deutetrabenazine)
+MOVEMENT DISORDER AGENTS,"Austedo XR Huntington's Disease, titration pack",AUSTEDO (deutetrabenazine)
+MOVEMENT DISORDER AGENTS,Austedo XR Tardive Dyskinesia,AUSTEDO (deutetrabenazine)
+MOVEMENT DISORDER AGENTS,"Austedo XR Tardive Dyskinesia, titration pack",AUSTEDO (deutetrabenazine)
+MOVEMENT DISORDER AGENTS,Austedo XR titration pack,AUSTEDO (deutetrabenazine)
+"ANTIDEPRESSANTS, OTHER",Auvelity,AUVELITY (bupropion/dextromethorphan)
+MISCELLANEOUS BRAND/GENERIC,Auvi-Q 0.1 mg,AUVI-Q (epinephrine)
+MISCELLANEOUS BRAND/GENERIC,Auvi-Q 0.15 mg,AUVI-Q (epinephrine)
+MISCELLANEOUS BRAND/GENERIC,Auvi-Q 0.3 mg,AUVI-Q (epinephrine)
+MULTIPLE SCLEROSIS AGENTS,Avonex auto-injector,AVONEX (interferon beta-1a)
+MULTIPLE SCLEROSIS AGENTS,Avonex prefilled syringe,AVONEX (interferon beta-1a)
+STIMULANTS AND RELATED AGENTS : LONG-ACTING,Azstarys,AZSTARYS (serdexmethylphenidate/dexmethylphenidate)
+,Baclofen 10 mg,"baclofen 5 mg, 10 mg, 20 mg tablet"
+,Baclofen 20 mg,"baclofen 5 mg, 10 mg, 20 mg tablet"
+,Baclofen 5 mg,"baclofen 5 mg, 10 mg, 20 mg tablet"
+,"Baclofen 5mg, 10mg, 20mg","baclofen 5 mg, 10 mg, 20 mg tablet"
+,Baclofen tablet,"baclofen 5 mg, 10 mg, 20 mg tablet"
+,"Baclofen tablet, 10 mg","baclofen 5 mg, 10 mg, 20 mg tablet"
+,"Baclofen tablet, 20 mg","baclofen 5 mg, 10 mg, 20 mg tablet"
+,"Baclofen tablet, 5 mg","baclofen 5 mg, 10 mg, 20 mg tablet"
+,"Baclofen tablet, 5mg, 10mg, 20mg","baclofen 5 mg, 10 mg, 20 mg tablet"
+MULTIPLE SCLEROSIS AGENTS,Bafiertam,BAFIERTAM (monomethyl fumarate)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Balversa,BALVERSA (erdafitinib)
+ANTICONVULSANTS : ADJUVANTS,Banzel oral suspension,BANZEL (rufinamide)
+ANTICONVULSANTS : ADJUVANTS,Banzel tablet,BANZEL (rufinamide)
+HEPATITIS B TREATMENTS,Baraclude,BARACLUDE (entecavir)
+HEPATITIS B TREATMENTS,Baraclude oral solution,BARACLUDE (entecavir)
+HEPATITIS B TREATMENTS,Baraclude tablet,BARACLUDE (entecavir)
+ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Benazepril,benazepril
+"BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : BETA-BLOCKERS",Betapace,BETAPACE (sotalol)
+"BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : BETA-BLOCKERS",Betapace AF,BETAPACE AF (sotalol)
+"BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : BETA-BLOCKERS",Betapace AF tablet,BETAPACE AF (sotalol)
+"BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : BETA-BLOCKERS",Betapace tablet,BETAPACE (sotalol)
+CYSTIC FIBROSIS AGENTS,Bethkis,BETHKIS (tobramycin)
+CYSTIC FIBROSIS AGENTS,Bethkis 300 mg/4 ml ampule,BETHKIS (tobramycin)
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,Bevespi Aerosphere,BEVESPI AEROSPHERE (glycopyrrolate/formoterol)
+ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,Biktarvy,BIKTARVY (bictegravir/emtricitabine/tenofovir)
+CYTOKINE & CAM ANTAGONISTS,Bimzelx,BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,Bimzelx Anklyosing Spondylitis,BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,Bimzelx Hidradenitis Suppurativa,BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,Bimzelx Non-Radiographic Axial Spondyloarthritis,BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,Bimzelx Plaque Psoriasis (adult),BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,"Bimzelx Plaque Psoriasis (adult), auto-injector",BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,"Bimzelx Plaque Psoriasis (adult), prefilled syringe",BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,Bimzelx Psoriatic Arthritis (adult),BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,Bimzelx auto-injector,BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,"Bimzelx auto-injector, Anklyosing Spondylitis",BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,"Bimzelx auto-injector, Non-Radiographic Axial Spondyloarthritis",BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,"Bimzelx auto-injector, Psoriatic Arthritis (adult)",BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,Bimzelx prefilled syringe,BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,"Bimzelx prefilled syringe, Anklyosing Spondylitis",BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,"Bimzelx prefilled syringe, Non-Radiographic Axial Spondyloarthritis",BIMZELX (bimekizumab-bkzx)
+CYTOKINE & CAM ANTAGONISTS,"Bimzelx prefilled syringe, Psoriatic Arthritis (adult)",BIMZELX (bimekizumab-bkzx)
+PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,Bosentan,bosentan
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Breo Ellipta,BREO ELLIPTA (fluticasone/vilanterol)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Breyna,BREYNA (budesonide/formoterol)
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BATA AGONIST-GLUCOCORTICOIDS COMBINATIONS,Breztri Aerosphere,"BREZTRI AEROSPHERE 
+(budesonide/glycopyrrolate/formoterol) DUR+"
+MULTIPLE SCLEROSIS AGENTS,Briumvi,BRIUMVI (ublituximab-xiiy)
+ANTICONVULSANTS : ADJUVANTS,Briviact,BRIVIACT (brivaracetam)
+ANTICONVULSANTS : ADJUVANTS,Briviact oral solution,BRIVIACT (brivaracetam)
+ANTICONVULSANTS : ADJUVANTS,Briviact tablet,BRIVIACT (brivaracetam)
+ANTICONVULSANTS : ADJUVANTS,Briviact vial,BRIVIACT (brivaracetam)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Brukinsa,BRUKINSA (zanubrutinib)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Budesonide / Formoterol authorized generic Symbicort,budesonide/formoterol
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Budesonide 0.25 mg,budesonide 0.25 mg and 0.5 mg
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,"Budesonide 0.25 mg, 0.5 mg",budesonide 0.25 mg and 0.5 mg
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Budesonide 0.5 mg,budesonide 0.25 mg and 0.5 mg
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Budesonide 1 mg,budesonide 1 mg
+UREA CYCLE DISORDER AGENTS,Buphenyl powder,BUPHENYL (sodium phenylbutyrate)
+UREA CYCLE DISORDER AGENTS,Buphenyl tablet,BUPHENYL (sodium phenylbutyrate)
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Bydureon Bcise,BYDUREON (exenatide)
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Bydureon Pen,BYDUREON (exenatide)
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Byetta,BYETTA (exenatide)
+BILE SALTS,Bylvay,BYLVAY (odevixibat)
+BILE SALTS,Bylvay Alagille Syndrome (ALGS),BYLVAY (odevixibat)
+BILE SALTS,Bylvay Progressive Familial Intrahepatic Cholestatis (PFIC),BYLVAY (odevixibat)
+IMMUNE GLOBULINS,Cablivi,CABLIVI
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Calquence,CALQUENCE (acalabrutinib)
+MISCELLANEOUS BRAND/GENERIC,Camzyos,CAMZYOS (mavacamten)
+ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Candesartan,candesartan
+ANTIPSYCHOTICS : ORAL,Caplyta,CAPLYTA (lumateperone)
+ANTIPSYCHOTICS : ORAL,Caplyta Bipolar depression,CAPLYTA (lumateperone)
+ANTIPSYCHOTICS : ORAL,Caplyta Schizophrenia/schizoaffective disorder,CAPLYTA (lumateperone)
+ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Captopril,captopril
+SICKLE CELL AGENTS,Casgevy intravenous suspension,CASGEVY (exagamglogene autotemcel)
+SICKLE CELL AGENTS,"Casgevy intravenous suspension, Sickle Cell Disease",CASGEVY (exagamglogene autotemcel)
+SICKLE CELL AGENTS,"Casgevy intravenous suspension, Transfusion-Dependent Beta Thalassemia",CASGEVY (exagamglogene autotemcel)
+CYSTIC FIBROSIS AGENTS,Cayston,CAYSTON (aztreonam)
+BILE SALTS,Chenodal tablet,CHENODAL (chenodiol)
+ATOPIC DERMATITIS,Cibinqo,CIBINQO (abrocitinib)
+ATOPIC DERMATITIS,Cibinqo Atopic Dermatitis (adult),CIBINQO (abrocitinib)
+ATOPIC DERMATITIS,Cibinqo Atopic Dermatitis (pediatric),CIBINQO (abrocitinib)
+CYTOKINE & CAM ANTAGONISTS,Cimzia,CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,Cimzia Ankylosing Spondylitis,CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,"Cimzia Ankylosing Spondylitis, prefilled syringe",CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,"Cimzia Ankylosing Spondylitis, subcutaneous vial",CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,Cimzia Crohn's Disease (adult),CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,"Cimzia Crohn's Disease (adult), prefilled syringe",CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,"Cimzia Crohn's Disease (adult), subcutaneous vial",CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,Cimzia Non-Radiographic Axial Spondyloarthritis,CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,"Cimzia Non-Radiographic Axial Spondyloarthritis, prefilled syringe",CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,"Cimzia Non-Radiographic Axial Spondyloarthritis, subcutaneous vial",CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,Cimzia Plaque Psoriasis (adult),CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,"Cimzia Plaque Psoriasis (adult), prefilled syringe",CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,"Cimzia Plaque Psoriasis (adult), subcutaneous vial",CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,Cimzia Psoriatic Arthritis (adult),CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,"Cimzia Psoriatic Arthritis (adult), prefilled syringe",CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,"Cimzia Psoriatic Arthritis (adult), subcutaneous vial",CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,Cimzia Rheumatoid Arthritis,CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,"Cimzia Rheumatoid Arthritis, prefilled syringe",CIMZIA (certolizumab)
+CYTOKINE & CAM ANTAGONISTS,"Cimzia Rheumatoid Arthritis, subcutaneous vial",CIMZIA (certolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Cinqair,CINQAIR (reslizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Cinqair Asthma (adult),CINQAIR (reslizumab)
+ANTIBIOTICS (MISCELLANEOUS): LINCOSAMIDE ANTIBIOTICS,Cleocin 2% cream,CLEOCIN (clindamycin)
+ANTIBIOTICS (MISCELLANEOUS): LINCOSAMIDE ANTIBIOTICS,Cleocin Ovules / vaginal suppository,CLEOCIN (clindamycin)
+ANTIBIOTICS (VAGINAL),Clindamycin 2% Cream,clindamycin phosphate
+ANTIBIOTICS (VAGINAL),Clindesse 2% prefilled applicator cream,CLINDESSE (clindamycin)
+ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Clobazam oral suspension,clobazam
+ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Clobazam tablet,clobazam
+ANTIPSYCHOTICS : ORAL,Clozapine ODT,clozapine ODT
+ANTIPSYCHOTICS : ORAL,Clozapine tablet,clozapine tablet
+ANTIPSYCHOTICS : ORAL,Clozaril,CLOZARIL (clozapine)
+ANTIPSYCHOTICS : ORAL,Clozaril tablet,CLOZARIL (clozapine)
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,Combivent Respimat (Ipratropium/Albuterol) inhalation aerosol solution,COMBIVENT RESPIMAT (ipratropium/albuterol)
+ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON- NUCLEOSIDE RTIs,Complera,COMPLERA (emtricitabine/rilpivirine/tenofovir)
+STIMULANTS AND RELATED AGENTS : LONG-ACTING,Concerta ER,CONCERTA (methylphenidate)
+MULTIPLE SCLEROSIS AGENTS,Copaxone (Glatiramer Acetate) 20 mg,COPAXONE (glatiramer) 20 mg
+MULTIPLE SCLEROSIS AGENTS,Copaxone (Glatiramer Acetate) 40 mg,COPAXONE (glatiramer) 40 mg
+CYTOKINE & CAM ANTAGONISTS (continued),Cosentyx,COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Cosentyx Ankylosing Spondylitis,COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Ankylosing Spondylitis, Sensoready",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Ankylosing Spondylitis, UnoReady",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Ankylosing Spondylitis, prefilled syringe",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Ankylosing Spondylitis, vial",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Cosentyx Enthesitis-Related Arthritis (pediatric),COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Enthesitis-Related Arthritis (pediatric), Sensoready",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Enthesitis-Related Arthritis (pediatric), UnoReady",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Enthesitis-Related Arthritis (pediatric), prefilled syringe",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Enthesitis-Related Arthritis (pediatric), vial",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Cosentyx Hidradenitis Suppurativa,COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Hidradenitis Suppurativa, Sensoready",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Hidradenitis Suppurativa, UnoReady",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Hidradenitis Suppurativa, prefilled syringe",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Hidradenitis Suppurativa, vial",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Cosentyx Non-Radiographic Axial Spondyloarthritis,COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Non-Radiographic Axial Spondyloarthritis, Sensoready",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Non-Radiographic Axial Spondyloarthritis, UnoReady",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Non-Radiographic Axial Spondyloarthritis, prefilled syringe",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Non-Radiographic Axial Spondyloarthritis, vial",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Cosentyx Plaque Psoriasis (adult),COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Plaque Psoriasis (adult), Sensoready",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Plaque Psoriasis (adult), UnoReady",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Plaque Psoriasis (adult), prefilled syringe",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Plaque Psoriasis (adult), vial",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Cosentyx Plaque Psoriasis (pediatric),COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Plaque Psoriasis (pediatric), Sensoready",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Plaque Psoriasis (pediatric), UnoReady",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Plaque Psoriasis (pediatric), prefilled syringe",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Plaque Psoriasis (pediatric), vial",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Cosentyx Psoriatic Arthritis (adult),COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Psoriatic Arthritis (adult), Sensoready",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Psoriatic Arthritis (adult), UnoReady",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Psoriatic Arthritis (adult), prefilled syringe",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Psoriatic Arthritis (adult), vial",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Cosentyx Psoriatic Arthritis (pediatric),COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Psoriatic Arthritis (pediatric), Sensoready",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Psoriatic Arthritis (pediatric), UnoReady",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Psoriatic Arthritis (pediatric), prefilled syringe",COSENTYX (secukinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Psoriatic Arthritis (pediatric), vial",COSENTYX (secukinumab)
+MISCELLANEOUS BRAND/GENERIC,Crenessity capsule,CRENESSITY (crinecerfont)NR
+MISCELLANEOUS BRAND/GENERIC,Crenessity oral solution,CRENESSITY (crinecerfont)NR
+PANCREATIC ENZYMES,Creon,CREON (lipase/protease/amylase)
+IMMUNE GLOBULINS,Cuvitru,CUVITRU
+IMMUNE GLOBULINS,Cuvitru All other indications,CUVITRU
+IMMUNE GLOBULINS,"Cuvitru Asthma (severe, persistent, high-dose steroid-dependent)",CUVITRU
+IMMUNE GLOBULINS,Cuvitru Autoimmune Bullous Disease,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Bone Marrow Transplant (BMT),CUVITRU
+IMMUNE GLOBULINS,Cuvitru Chronic Inflammatory Demyelinating Polyneuropathy,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Dermatomyositis or polymyositis,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Diabetes Mellitus,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Feto-neonatal Alloimmune Thrombocytopenia (AIT),CUVITRU
+IMMUNE GLOBULINS,Cuvitru Graves' ophthalmopathy Guillain-BarrÃ© syndrome (GBS),CUVITRU
+IMMUNE GLOBULINS,Cuvitru Immune thrombocytopenia [Idiopathic thrombocytopenic purpura (ITP)],CUVITRU
+IMMUNE GLOBULINS,Cuvitru Kawasaki Disease,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Lambert-Eaton Myasthenic Syndrome (LEMS),CUVITRU
+IMMUNE GLOBULINS,Cuvitru Lennox Gastaut Syndrome,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Multifocal Motor Neuropathy (MMN),CUVITRU
+IMMUNE GLOBULINS,Cuvitru Myasthenia Gravis - Exacerbation,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Neuromyelitis Optica,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Post B-Cell Targeted Therapies,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Posttransfusion Purpura,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Prevention of bacterial infection in pediatric HIV,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Prevention of infection in B-cell Chronic Lymphocytic Leukemia (CLL),CUVITRU
+IMMUNE GLOBULINS,Cuvitru Prevention of infection in Multiple Myeloma,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Primary Immunodeficiency Syndromes,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Rasmussen Syndrome,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Refractory Myasthenia Gravis,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Relapsing Multiple Sclerosis,CUVITRU
+IMMUNE GLOBULINS,Cuvitru Stiff-Person Syndrome,CUVITRU
+IMMUNE GLOBULINS,"Cuvitru Thrombocytopenia, secondary to Hepatitis C Virus (HCV), Human Immunodeficiency Virus (HIV), or pregnancy",CUVITRU
+CYTOKINE & CAM ANTAGONISTS (continued),Cyltezo Ankylosing Spondylitis,CYLTEZO (adalimumab-adbm)
+CYTOKINE & CAM ANTAGONISTS (continued),Cyltezo Crohn's Disease (adult),CYLTEZO (adalimumab-adbm)
+CYTOKINE & CAM ANTAGONISTS (continued),Cyltezo Crohn's Disease (pediatric),CYLTEZO (adalimumab-adbm)
+CYTOKINE & CAM ANTAGONISTS (continued),Cyltezo Hidradenitis Suppurativa,CYLTEZO (adalimumab-adbm)
+CYTOKINE & CAM ANTAGONISTS (continued),Cyltezo Plaque Psoriasis (adult),CYLTEZO (adalimumab-adbm)
+CYTOKINE & CAM ANTAGONISTS (continued),Cyltezo Polyarticular Juvenile Idiopathic Arthritis (PJIA),CYLTEZO (adalimumab-adbm)
+CYTOKINE & CAM ANTAGONISTS (continued),Cyltezo Psoriatic Arthritis (adult),CYLTEZO (adalimumab-adbm)
+CYTOKINE & CAM ANTAGONISTS (continued),Cyltezo Rheumatoid Arthritis,CYLTEZO (adalimumab-adbm)
+CYTOKINE & CAM ANTAGONISTS (continued),Cyltezo Ulcerative Colitis (adult),CYLTEZO (adalimumab-adbm)
+CYTOKINE & CAM ANTAGONISTS (continued),Cyltezo Uveitis (adult),CYLTEZO (adalimumab-adbm)
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,Daliresp,DALIRESP (roflumilast)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITORS",Dapagliflozin,dapagliflozin
+MUSCULAR DYSTROPHY AGENTS,Deflazacort,deflazacort
+ANTICONVULSANTS : ADJUVANTS,Depakote,DEPAKOTE (divalproex)
+ANTICONVULSANTS : ADJUVANTS,Depakote DR sprinkle capsule,DEPAKOTE SPRINKLE (divalproex)
+ANTICONVULSANTS : ADJUVANTS,Depakote DR tablet,DEPAKOTE (divalproex)
+ANTICONVULSANTS : ADJUVANTS,Depakote ER tablet,DEPAKOTE ER (divalproex)
+ANTICONVULSANTS : ADJUVANTS,Depakote tablet,DEPAKOTE (divalproex)
+ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG RTIs,Descovy,DESCOVY (emtricitabine/tenofovir alafenamide)
+ANTICONVULSANTS : ADJUVANTS,Diacomit capsule,DIACOMIT (stiripentol)
+ANTICONVULSANTS : ADJUVANTS,Diacomit packet for oral suspension,DIACOMIT (stiripentol)
+ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Diastat,DIASTAT (diazepam) rectal gel
+ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Diazepam rectal gel,diazepam rectal gel
+MULTIPLE SCLEROSIS AGENTS,Dimethyl Fumarate,dimethyl fumarate
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Donepezil 10 mg,"donepezil 5 mg, 10 mg ODT, tablets"
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Donepezil 23 mg,donepezil 23 mg tablet
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Donepezil 5 mg,"donepezil 5 mg, 10 mg ODT, tablets"
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Donepezil ODT,"donepezil 5 mg, 10 mg ODT, tablets"
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,"Donepezil ODT, 10 mg","donepezil 5 mg, 10 mg ODT, tablets"
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,"Donepezil ODT, 5 mg","donepezil 5 mg, 10 mg ODT, tablets"
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Donepezil tablet,"donepezil 5 mg, 10 mg ODT, tablets"
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,"Donepezil tablet, 10 mg","donepezil 5 mg, 10 mg ODT, tablets"
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,"Donepezil tablet, 23 mg",donepezil 23 mg tablet
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,"Donepezil tablet, 5 mg","donepezil 5 mg, 10 mg ODT, tablets"
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,Duaklir Pressair,DUAKLIR PRESSAIR (aclidinium/formoterol)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Dulera,DULERA (mometasone/formoterol)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Dulera 100 mcg / 5 mcg,DULERA (mometasone/formoterol)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Dulera 200 mcg / 5 mcg,DULERA (mometasone/formoterol)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Dulera 50 mcg / 5 mcg,DULERA (mometasone/formoterol)
+ATOPIC DERMATITIS,Dupixent,DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,Dupixent Asthma (adult),DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,Dupixent Asthma (pediatric),DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,Dupixent Atopic Dermatitis (adult),DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent Atopic Dermatitis (adult), pen",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent Atopic Dermatitis (adult), prefilled syringe",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,Dupixent Atopic Dermatitis (pediatric),DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,Dupixent Chronic obstructive pulmonary disease (COPD),DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,Dupixent Eosinophilic Esophagitis,DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,Dupixent Eosinophilic or Corticosteroid-Dependent Asthma,DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,Dupixent Prurigo Nodularis,DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent pen, Asthma (adult)",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent pen, Asthma (pediatric)",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent pen, Atopic Dermatitis (pediatric)",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent pen, Chronic Rhinosinusitis with Nasal Polyposis",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent pen, Chronic obstructive pulmonary disease (COPD)",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent pen, Eosinophilic Esophagitis",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent pen, Eosinophilic or Corticosteroid-Dependent Asthma",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent pen, Prurigo Nodularis",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent prefilled syringe, Asthma (adult)",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent prefilled syringe, Asthma (pediatric)",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent prefilled syringe, Atopic Dermatitis (pediatric)",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent prefilled syringe, Chronic obstructive pulmonary disease (COPD)",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent prefilled syringe, Eosinophilic Esophagitis",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent prefilled syringe, Eosinophilic or Corticosteroid-Dependent Asthma",DUPIXENT (dupilumab) DUR+
+ATOPIC DERMATITIS,"Dupixent prefilled syringe, Prurigo Nodularis",DUPIXENT (dupilumab) DUR+
+STIMULANTS AND RELATED AGENTS : LONG-ACTING,Dyanavel XR,DYANAVEL XR (amphetamine) tablets
+STIMULANTS AND RELATED AGENTS : LONG-ACTING,Dyanavel XR oral suspension,DYANAVEL XR (amphetamine) suspension
+STIMULANTS AND RELATED AGENTS : LONG-ACTING,Dyanavel XR tablet,DYANAVEL XR (amphetamine) tablets
+ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Edarbi,EDARBI (azilsartan)
+ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,Edarbyclor,EDARBYCLOR (azilsartan/chlorthalidone)
+ANTIRETROVIRALS : NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),Edurant,EDURANT (rilpivirine)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",Eletriptan,eletriptan
+MUSCULAR DYSTROPHY AGENTS,Elevidys intravenous infusion kit,ELEVIDYS (delandistrogene moxeparvovec-rokl)
+ANTICOAGULANTS: ORAL,Eliquis,ELIQUIS (apixaban)
+NSAIDS: COX II SELECTIVE,Elyxyb,ELYXYB (celecoxib)
+MUSCULAR DYSTROPHY AGENTS,Emflaza Duchenne Muscular Dystrophy,EMFLAZA (deflazacort)
+MUSCULAR DYSTROPHY AGENTS,Emflaza oral suspension,EMFLAZA (deflazacort)
+MUSCULAR DYSTROPHY AGENTS,Emflaza tablet,EMFLAZA (deflazacort)
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES",Emgality 100 mg,EMGALITY Pen (galcanezumab-gnlm) DUR+
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES","Emgality 100 mg, Episodic Cluster Headache",EMGALITY Pen (galcanezumab-gnlm) DUR+
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES","Emgality 100 mg, Migraine Prophylaxis",EMGALITY Pen (galcanezumab-gnlm) DUR+
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES",Emgality 120 mg,EMGALITY Syringe (galcanezumab-gnlm) 120 mg/mL DUR+
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES","Emgality 120 mg, Episodic Cluster Headache",EMGALITY Syringe (galcanezumab-gnlm) 120 mg/mL DUR+
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES","Emgality 120 mg, Migraine Prophylaxis",EMGALITY Syringe (galcanezumab-gnlm) 120 mg/mL DUR+
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Emtriva capsule,EMTRIVA (emtricitabine)
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Emtriva oral solution,EMTRIVA (emtricitabine)
+ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Enalapril,enalapril
+ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Enalapril oral solution,enalapril
+ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Enalapril oral suspension,enalapril
+ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Enalapril tablet,enalapril
+CYTOKINE & CAM ANTAGONISTS,Enbrel,ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,Enbrel Ankylosing Spondylitis,ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Ankylosing Spondylitis, Mini cartridge",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Ankylosing Spondylitis, SureClick",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Ankylosing Spondylitis, prefilled syringe",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Ankylosing Spondylitis, vial",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,Enbrel Plaque Psoriasis (adult),ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (adult), Mini cartridge",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (adult), SureClick",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (adult), prefilled syringe",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (adult), vial",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,Enbrel Plaque Psoriasis (pediatric),ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (pediatric), Mini cartridge",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (pediatric), SureClick",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (pediatric), prefilled syringe",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (pediatric), vial",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA),ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), Mini cartridge",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), SureClick",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), vial",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,Enbrel Psoriatic Arthritis (adult),ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (adult), Mini cartridge",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (adult), SureClick",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (adult), prefilled syringe",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (adult), vial",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,Enbrel Psoriatic Arthritis (pediatric),ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (pediatric), Mini cartridge",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (pediatric), SureClick",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (pediatric), prefilled syringe",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (pediatric), vial",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,Enbrel Rheumatoid Arthritis,ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Rheumatoid Arthritis, Mini cartridge",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Rheumatoid Arthritis, SureClick",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Rheumatoid Arthritis, prefilled syringe",ENBREL (etanercept)
+CYTOKINE & CAM ANTAGONISTS,"Enbrel Rheumatoid Arthritis, vial",ENBREL (etanercept)
+SICKLE CELL AGENTS,Endari,ENDARI (glutamine)
+HEPATITIS B TREATMENTS,Entecavir,entecavir
+CYTOKINE & CAM ANTAGONISTS (continued),Entyvio,ENTYVIO (vedolizumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Entyvio Crohn's Disease (adult),ENTYVIO (vedolizumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Entyvio Crohn's Disease (adult), prefilled syringe",ENTYVIO (vedolizumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Entyvio Crohn's Disease (adult), vial",ENTYVIO (vedolizumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Entyvio Ulcerative Colitis (adult),ENTYVIO (vedolizumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Entyvio Ulcerative Colitis (adult), prefilled syringe",ENTYVIO (vedolizumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Entyvio Ulcerative Colitis (adult), vial",ENTYVIO (vedolizumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Entyvio prefilled pen,ENTYVIO (vedolizumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Entyvio prefilled pen, Crohn's Disease (adult)",ENTYVIO (vedolizumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Entyvio prefilled pen, Ulcerative Colitis (adult)",ENTYVIO (vedolizumab)
+"IMMUNOSUPPRESSIVE AGENTS, ORAL",Envarsus XR,ENVARSUS XR (tacrolimus)
+ANTICONVULSANTS : ADJUVANTS,Epidiolex,EPIDIOLEX (cannabidiol)
+ANTICONVULSANTS : ADJUVANTS,Epidiolex Dravet Syndrome,EPIDIOLEX (cannabidiol)
+ANTICONVULSANTS : ADJUVANTS,Epidiolex Lennox-Gastaut Syndrome,EPIDIOLEX (cannabidiol)
+ANTICONVULSANTS : ADJUVANTS,Epidiolex Refractory Epilepsy,EPIDIOLEX (cannabidiol)
+ANTICONVULSANTS : ADJUVANTS,Epidiolex Tuberous Sclerosis Complex (TSC),EPIDIOLEX (cannabidiol)
+ANTICONVULSANTS : ADJUVANTS,"Epidiolex Tuberous Sclerosis Complex (TSC), Dravet Syndrome, Lennox-Gastaut Syndrome",EPIDIOLEX (cannabidiol)
+MISCELLANEOUS BRAND/GENERIC,Epinephrine (Generic Adrenaclick) 0.15mg,epinephrine (all other manufacturers)
+MISCELLANEOUS BRAND/GENERIC,Epinephrine (Generic Adrenaclick) 0.3mg,epinephrine (all other manufacturers)
+MISCELLANEOUS BRAND/GENERIC,Epinephrine (Mylan Ag Epipen And Jr) 0.15mg Mylan's EpiPen Jr AG,epinephrine (Mylan)
+MISCELLANEOUS BRAND/GENERIC,Epinephrine (Mylan Ag Epipen And Jr) 0.3mg Mylan's EpiPen AG,epinephrine (Mylan)
+MISCELLANEOUS BRAND/GENERIC,Epipen,EPIPEN (epinephrine)
+MISCELLANEOUS BRAND/GENERIC,Epipen Jr.,EPIPEN JR (epinephrine)
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Epivir,EPIVIR (lamivudine)
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Epivir HBV,EPIVIR (lamivudine)
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Epivir HBV oral solution,EPIVIR (lamivudine)
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Epivir HBV tablet,EPIVIR (lamivudine)
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Epivir oral solution,EPIVIR (lamivudine)
+ANTICONVULSANTS : ADJUVANTS,Eprontia,EPRONTIA (topiramate)
+ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Eprosartan,eprosartan
+ANTIRETROVIRALS : COMBINATION PRODUCTS – NRTIs,Epzicom,EPZICOM (abacavir/lamivudine)
+ANTICONVULSANTS : ADJUVANTS,Equetro,EQUETRO (carbamazepine)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Erleada,ERLEADA (apalutamide)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Erlotinib,erlotinib
+IDIOPATHIC PULMONARY FIBROSIS,Esbriet,ESBRIET (pirfenidone)
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Esomeprazole,esomeprazole capsule
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,"Esomeprazole 2.5 mg, 5 mg",esomeprazole capsule
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,"Esomeprazole 20 mg, 40 mg, 10 mg",esomeprazole capsule
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Esomeprazole Capsule,esomeprazole capsule
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,"Esomeprazole Capsule, 20 mg",esomeprazole capsule
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,"Esomeprazole Capsule, 40 mg",esomeprazole capsule
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Esomeprazole DR capsule,esomeprazole capsule
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Esomeprazole Packet,esomeprazole packet
+ATOPIC DERMATITIS,Eucrisa,EUCRISA (crisaborole) DUR+
+BONE RESORPTION SUPPRESSION AND RELATED AGENTS : OTHERS,Evenity,EVENITY (romosozumab-aqqg)
+"LIPOTROPICS, OTHER (NON-STATINS): ACL INHIBITORS AND COMBINATIONS",Evkeeza,EVKEEZA (evinacumab-dgnb)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (PEPTIDIC),Evotaz,EVOTAZ (atazanavir/cobicistat)
+MISCELLANEOUS BRAND/GENERIC,Evrysdi,EVRYSDI (risdiplam)
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Exelon,EXELON (rivastigmine)
+MUSCULAR DYSTROPHY AGENTS,Exondys 51,EXONDYS-51 (eteplirsen)
+ANTIPSYCHOTICS : ORAL,Fanapt,FANAPT (iloperidone)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITORS",Farxiga,FARXIGA (dapagliflozin)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Fasenra Asthma (adult),FASENRA (benralizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Fasenra Asthma (pediatric),FASENRA (benralizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Fasenra Eosinophilic Granulomatosis with Polyangitis (EGPA),FASENRA (benralizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Fasenra auto-injector,FASENRA (benralizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Fasenra auto-injector, Asthma (adult)",FASENRA (benralizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Fasenra auto-injector, Asthma (pediatric)",FASENRA (benralizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Fasenra auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",FASENRA (benralizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Fasenra prefilled syringe,FASENRA (benralizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Fasenra prefilled syringe, Asthma (adult)",FASENRA (benralizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Fasenra prefilled syringe, Asthma (pediatric)",FASENRA (benralizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Fasenra prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",FASENRA (benralizumab)
+ANTICONVULSANTS : ADJUVANTS,Felbatol oral suspension,FELBATOL (felbamate)
+ANTICONVULSANTS : ADJUVANTS,Felbatol tablet,FELBATOL (felbamate)
+"ANTIDEPRESSANTS, OTHER",Fetzima,FETZIMA (levomilnacipran)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Fiasp,FIASP (insulin aspart/niacinamide)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Fiasp FlexTouch,FIASP (insulin aspart/niacinamide)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Fiasp PenFill,FIASP (insulin aspart/niacinamide)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Fiasp PumpCart,FIASP (insulin aspart/niacinamide)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Fiasp vial,FIASP (insulin aspart/niacinamide)
+MULTIPLE SCLEROSIS AGENTS,Fingolimod capsule,fingolimod
+MULTIPLE SCLEROSIS AGENTS,"Fingolimod capsule, 0.5 mg",fingolimod
+ANTICONVULSANTS : ADJUVANTS,Fintepla,FINTEPLA (fenfluramine)
+ANTICONVULSANTS : ADJUVANTS,Fintepla Dravet Syndrome,FINTEPLA (fenfluramine)
+ANTICONVULSANTS : ADJUVANTS,Fintepla Lennox-Gastaut syndrome,FINTEPLA (fenfluramine)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Flovent Diskus,FLOVENT DISKUS (fluticasone)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Flovent HFA,FLOVENT HFA (fluticasone)
+BONE RESORPTION SUPPRESSION AND RELATED AGENTS : OTHERS,Forteo,FORTEO (teriparatide)
+ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Fosinopril,fosinopril
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",Frova,FROVA (frovatriptan)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",Frovatriptan,frovatriptan
+COLONY STIMULATING FACTORS,Fulphila,FULPHILA (pegfilgrastim-jmdb)
+ANTIRETROVIRALS : ENTRY INHIBITORS – FUSION INHIBITORS,Fuzeon,FUZEON (enfuvirtide)
+COLONY STIMULATING FACTORS,Fylnetra,FYLNETRA (pegfilgrastim-pbbk)
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Galantamine ER,galantamine ER
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Galantamine oral solution,galantamine
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Galantamine tablet,galantamine
+IMMUNE GLOBULINS,Gammagard,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard All other indications,GAMMAGARD
+IMMUNE GLOBULINS,"Gammagard Asthma (severe, persistent, high-dose steroid-dependent)",GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Autoimmune Bullous Disease,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Bone Marrow Transplant (BMT),GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Chronic Inflammatory Demyelinating Polyneuropathy,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Dermatomyositis or polymyositis,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Diabetes Mellitus,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Feto-neonatal Alloimmune Thrombocytopenia (AIT),GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Graves' ophthalmopathy Guillain-BarrÃ© syndrome (GBS),GAMMAGARD
+IMMUNE GLOBULINS,Gammagard IV S/D,GAMMAGARD S-D
+IMMUNE GLOBULINS,Gammagard IV/SubQ Liquid,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Immune thrombocytopenia [Idiopathic thrombocytopenic purpura (ITP)],GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Kawasaki Disease,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Lambert-Eaton Myasthenic Syndrome (LEMS),GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Lennox Gastaut Syndrome,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Multifocal Motor Neuropathy (MMN),GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Myasthenia Gravis - Exacerbation,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Neuromyelitis Optica,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Post B-Cell Targeted Therapies,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Posttransfusion Purpura,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Prevention of bacterial infection in pediatric HIV,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Prevention of infection in B-cell Chronic Lymphocytic Leukemia (CLL),GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Prevention of infection in Multiple Myeloma,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Primary Immunodeficiency Syndromes,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Rasmussen Syndrome,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Refractory Myasthenia Gravis,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Relapsing Multiple Sclerosis,GAMMAGARD
+IMMUNE GLOBULINS,Gammagard Stiff-Person Syndrome,GAMMAGARD
+IMMUNE GLOBULINS,"Gammagard Thrombocytopenia, secondary to Hepatitis C Virus (HCV), Human Immunodeficiency Virus (HIV), or pregnancy",GAMMAGARD
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Gavreto,GAVRETO (pralsetinib)
+GROWTH HORMONES,Genotropin,GENOTROPIN (somatropin)
+GROWTH HORMONES,Genotropin MiniQuick,GENOTROPIN (somatropin)
+GROWTH HORMONES,Genotropin cartridge,GENOTROPIN (somatropin)
+ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,Genvoya,GENVOYA (elvitegravir/cobicistat/emtricitabine/ tenofovir alafenamide)
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Geodon,GEODON (ziprasidone)
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Geodon IM injection,GEODON (ziprasidone)
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Geodon capsule,GEODON (ziprasidone)
+MULTIPLE SCLEROSIS AGENTS,Gilenya capsule,GILENYA (fingolimod)
+MULTIPLE SCLEROSIS AGENTS,"Gilenya capsule, 0.25 mg",GILENYA (fingolimod)
+MULTIPLE SCLEROSIS AGENTS,"Gilenya capsule, 0.5 mg",GILENYA (fingolimod)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Gilotrif,GILOTRIF (afatinib)
+MULTIPLE SCLEROSIS AGENTS,Glatiramer Acetate 20 mg/ml,glatiramer
+MULTIPLE SCLEROSIS AGENTS,Glatiramer Acetate prefilled syringe,glatiramer
+MULTIPLE SCLEROSIS AGENTS,"Glatiramer Acetate prefilled syringe, 20 mg/ml",glatiramer
+MULTIPLE SCLEROSIS AGENTS,"Glatiramer Acetate prefilled syringe, 40 mg/ml",glatiramer
+MULTIPLE SCLEROSIS AGENTS,Glatopa (Glatiramer Acetate) prefilled syringe,GLATOPA (glatiramer)
+MULTIPLE SCLEROSIS AGENTS,"Glatopa (Glatiramer Acetate) prefilled syringe, 20 mg",GLATOPA (glatiramer)
+MULTIPLE SCLEROSIS AGENTS,"Glatopa (Glatiramer Acetate) prefilled syringe, 40 mg",GLATOPA (glatiramer)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Gleevec,GLEEVEC (imatinib)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Glyxambi,GLYXAMBI (empagliflozin/linagliptin)
+COLONY STIMULATING FACTORS,Granix,GRANIX (tbo-filgrastim)
+COLONY STIMULATING FACTORS,Granix prefilled syringe,GRANIX (tbo-filgrastim)
+COLONY STIMULATING FACTORS,Granix vial,GRANIX (tbo-filgrastim)
+MISCELLANEOUS BRAND/GENERIC,Grastek,GRASTEK
+CYTOKINE & CAM ANTAGONISTS (continued),Hadlima Ankylosing Spondylitis,HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Ankylosing Spondylitis, PushTouch",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Ankylosing Spondylitis, prefilled syringe",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),Hadlima Crohn's Disease (adult),HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Crohn's Disease (adult), PushTouch",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Crohn's Disease (adult), prefilled syringe",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),Hadlima Crohn's Disease (pediatric),HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Crohn's Disease (pediatric), PushTouch",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Crohn's Disease (pediatric), prefilled syringe",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),Hadlima Hidradenitis Suppurativa,HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Hidradenitis Suppurativa, PushTouch",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Hidradenitis Suppurativa, prefilled syringe",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),Hadlima Plaque Psoriasis (adult),HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Plaque Psoriasis (adult), PushTouch",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Plaque Psoriasis (adult), prefilled syringe",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA),HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA), PushTouch",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),Hadlima Psoriatic Arthritis (adult),HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Psoriatic Arthritis (adult), PushTouch",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Psoriatic Arthritis (adult), prefilled syringe",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),Hadlima Rheumatoid Arthritis,HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Rheumatoid Arthritis, PushTouch",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Rheumatoid Arthritis, prefilled syringe",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),Hadlima Ulcerative Colitis (adult),HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Ulcerative Colitis (adult), PushTouch",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Ulcerative Colitis (adult), prefilled syringe",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),Hadlima Uveitis (adult),HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Uveitis (adult), PushTouch",HADLIMA (adalimumab-bwwd)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hadlima Uveitis (adult), prefilled syringe",HADLIMA (adalimumab-bwwd)
+"BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : BETA-BLOCKERS",Hemangeol,HEMANGEOL (propranolol)
+CYTOKINE & CAM ANTAGONISTS (continued),Hulio Ankylosing Spondylitis,HULIO (adalimumab-fkjp)
+CYTOKINE & CAM ANTAGONISTS (continued),Hulio Crohn's Disease (adult),HULIO (adalimumab-fkjp)
+CYTOKINE & CAM ANTAGONISTS (continued),Hulio Crohn's Disease (pediatric),HULIO (adalimumab-fkjp)
+CYTOKINE & CAM ANTAGONISTS (continued),Hulio Hidradenitis Suppurativa,HULIO (adalimumab-fkjp)
+CYTOKINE & CAM ANTAGONISTS (continued),Hulio Plaque Psoriasis (adult),HULIO (adalimumab-fkjp)
+CYTOKINE & CAM ANTAGONISTS (continued),Hulio Polyarticular Juvenile Idiopathic Arthritis (PJIA),HULIO (adalimumab-fkjp)
+CYTOKINE & CAM ANTAGONISTS (continued),Hulio Psoriatic Arthritis (adult),HULIO (adalimumab-fkjp)
+CYTOKINE & CAM ANTAGONISTS (continued),Hulio Rheumatoid Arthritis,HULIO (adalimumab-fkjp)
+CYTOKINE & CAM ANTAGONISTS (continued),Hulio Ulcerative Colitis (adult),HULIO (adalimumab-fkjp)
+CYTOKINE & CAM ANTAGONISTS (continued),Hulio Uveitis (adult),HULIO (adalimumab-fkjp)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Humalog Junior KwikPen,"HUMALOG; HUMALOG JUNIOR, KWIKPEN, TEMPO 
+PEN (insulin lispro)"
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Humalog Junior KwikPen, U-100","HUMALOG; HUMALOG JUNIOR, KWIKPEN, TEMPO 
+PEN (insulin lispro)"
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Humalog KwikPen, U-100","HUMALOG; HUMALOG JUNIOR, KWIKPEN, TEMPO 
+PEN (insulin lispro)"
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Humalog KwikPen, U-200","HUMALOG; HUMALOG JUNIOR, KWIKPEN, TEMPO 
+PEN (insulin lispro)"
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Humalog U-100, cartridge","HUMALOG; HUMALOG JUNIOR, KWIKPEN, TEMPO 
+PEN (insulin lispro)"
+GROWTH HORMONES,Humatrope,HUMATROPE (somatropin)
+CYTOKINE & CAM ANTAGONISTS,Humira Ankylosing Spondylitis,HUMIRA (adalimumab)
+CYTOKINE & CAM ANTAGONISTS,Humira Crohn's Disease (adult),HUMIRA (adalimumab)
+CYTOKINE & CAM ANTAGONISTS,Humira Crohn's Disease (pediatric),HUMIRA (adalimumab)
+CYTOKINE & CAM ANTAGONISTS,Humira Hidradenitis Suppurativa,HUMIRA (adalimumab)
+CYTOKINE & CAM ANTAGONISTS,Humira Plaque Psoriasis (adult),HUMIRA (adalimumab)
+CYTOKINE & CAM ANTAGONISTS,Humira Polyarticular Juvenile Idiopathic Arthritis (PJIA),HUMIRA (adalimumab)
+CYTOKINE & CAM ANTAGONISTS,Humira Psoriatic Arthritis (adult),HUMIRA (adalimumab)
+CYTOKINE & CAM ANTAGONISTS,Humira Rheumatoid Arthritis,HUMIRA (adalimumab)
+CYTOKINE & CAM ANTAGONISTS,Humira Ulcerative Colitis (adult),HUMIRA (adalimumab)
+CYTOKINE & CAM ANTAGONISTS,Humira Ulcerative Colitis (pediatric),HUMIRA (adalimumab)
+CYTOKINE & CAM ANTAGONISTS,Humira Uveitis (adult),HUMIRA (adalimumab)
+CYTOKINE & CAM ANTAGONISTS,Humira Uveitis (pediatric),HUMIRA (adalimumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Hyrimoz Ankylosing Spondylitis,HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Ankylosing Spondylitis, auto-injector",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Ankylosing Spondylitis, prefilled syringe",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),Hyrimoz Crohn's Disease (adult),HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Crohn's Disease (adult), auto-injector",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Crohn's Disease (adult), prefilled syringe",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),Hyrimoz Crohn's Disease (pediatric),HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Crohn's Disease (pediatric), auto-injector",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Crohn's Disease (pediatric), prefilled syringe",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),Hyrimoz Hidradenitis Suppurativa,HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Hidradenitis Suppurativa, auto-injector",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Hidradenitis Suppurativa, prefilled syringe",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),Hyrimoz Plaque Psoriasis (adult),HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Plaque Psoriasis (adult), auto-injector",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Plaque Psoriasis (adult), prefilled syringe",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA),HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),Hyrimoz Psoriatic Arthritis (adult),HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Psoriatic Arthritis (adult), auto-injector",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Psoriatic Arthritis (adult), prefilled syringe",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),Hyrimoz Rheumatoid Arthritis,HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Rheumatoid Arthritis, auto-injector",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Rheumatoid Arthritis, prefilled syringe",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),Hyrimoz Ulcerative Colitis (adult),HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Ulcerative Colitis (adult), auto-injector",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Ulcerative Colitis (adult), prefilled syringe",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),Hyrimoz Uveitis (adult),HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Uveitis (adult), auto-injector",HYRIMOZ (adalimumab-adaz)
+CYTOKINE & CAM ANTAGONISTS (continued),"Hyrimoz Uveitis (adult), prefilled syringe",HYRIMOZ (adalimumab-adaz)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Ibrance,IBRANCE (palbociclib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Ibrance capsule,IBRANCE (palbociclib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Ibrance tablet,IBRANCE (palbociclib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Iclusig,ICLUSIG (ponatinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,"Iclusig 10 mg, tablet",ICLUSIG (ponatinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,"Iclusig 15 mg, tablet",ICLUSIG (ponatinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,"Iclusig 30 mg, tablet",ICLUSIG (ponatinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,"Iclusig 45 mg, tablet",ICLUSIG (ponatinib)
+CYTOKINE & CAM ANTAGONISTS (continued),Idacio Ankylosing Spondylitis,IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Ankylosing Spondylitis, auto-injector",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Ankylosing Spondylitis, prefilled syringe",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),Idacio Crohn's Disease (adult),IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Crohn's Disease (adult), auto-injector",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Crohn's Disease (adult), prefilled syringe",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),Idacio Crohn's Disease (pediatric),IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Crohn's Disease (pediatric), auto-injector",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Crohn's Disease (pediatric), prefilled syringe",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),Idacio Hidradenitis Suppurativa,IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Hidradenitis Suppurativa, auto-injector",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Hidradenitis Suppurativa, prefilled syringe",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),Idacio Plaque Psoriasis (adult),IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Plaque Psoriasis (adult), auto-injector",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Plaque Psoriasis (adult), prefilled syringe",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA),IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),Idacio Psoriatic Arthritis (adult),IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Psoriatic Arthritis (adult), auto-injector",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Psoriatic Arthritis (adult), prefilled syringe",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),Idacio Rheumatoid Arthritis,IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Rheumatoid Arthritis, auto-injector",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Rheumatoid Arthritis, prefilled syringe",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),Idacio Ulcerative Colitis (adult),IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Ulcerative Colitis (adult), auto-injector",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Ulcerative Colitis (adult), prefilled syringe",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),Idacio Uveitis (adult),IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Uveitis (adult), auto-injector",IDACIO (adalimumab-aacf)
+CYTOKINE & CAM ANTAGONISTS (continued),"Idacio Uveitis (adult), prefilled syringe",IDACIO (adalimumab-aacf)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Idhifa,IDHIFA (enasidenib)
+CYTOKINE & CAM ANTAGONISTS (continued),Ilaris,ILARIS (canakinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Ilaris Adult-Onset Still's Disease,ILARIS (canakinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Ilaris Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),ILARIS (canakinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Ilaris Familial Mediterranean Fever (FMF),ILARIS (canakinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Ilaris Gout Flares,ILARIS (canakinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Ilaris Hyperimmunoglobulin D Syndrome (HIDS)/Mevalonate Kinase Deficiency (MKD),ILARIS (canakinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Ilaris Systemic-Onset Juvenile Idiopathic Arthritis (SJIA),ILARIS (canakinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Ilaris Tumor Necrosis Factor Receptor Associated Periodic Syndrome (TRAPS),ILARIS (canakinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Ilumya,ILUMYA (tildrakizumab-asmn)
+CYTOKINE & CAM ANTAGONISTS (continued),Ilumya Plaque Psoriasis (adult),ILUMYA (tildrakizumab-asmn)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Imatinib,imatinib
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Imbruvica,IMBRUVICA (ibrutinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Imbruvica capsule,IMBRUVICA (ibrutinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Imbruvica tablet,IMBRUVICA (ibrutinib)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: INJECTABLES",Imitrex,IMITREX (sumatriptan)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: INJECTABLES",Imitrex STATdose,IMITREX (sumatriptan)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: INJECTABLES",Imitrex STATdose cartridge,IMITREX (sumatriptan)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: INJECTABLES","Imitrex STATdose cartridge, STATdose, tablet, vial",IMITREX (sumatriptan)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: INJECTABLES",Imitrex nasal spray,IMITREX (sumatriptan)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: INJECTABLES",Imitrex tablet,IMITREX (sumatriptan)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: INJECTABLES",Imitrex vial,IMITREX (sumatriptan)
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,Incruse Ellipta,INCRUSE ELLIPTA (umeclidinium)
+CYTOKINE & CAM ANTAGONISTS (continued),Inflectra,INFLECTRA (infliximab-dyyb)
+CYTOKINE & CAM ANTAGONISTS (continued),Inflectra Ankylosing Spondylitis,INFLECTRA (infliximab-dyyb)
+CYTOKINE & CAM ANTAGONISTS (continued),Inflectra Crohn's Disease (adult),INFLECTRA (infliximab-dyyb)
+CYTOKINE & CAM ANTAGONISTS (continued),Inflectra Crohn's Disease (pediatric),INFLECTRA (infliximab-dyyb)
+CYTOKINE & CAM ANTAGONISTS (continued),Inflectra Plaque Psoriasis (adult),INFLECTRA (infliximab-dyyb)
+CYTOKINE & CAM ANTAGONISTS (continued),Inflectra Psoriatic Arthritis (adult),INFLECTRA (infliximab-dyyb)
+CYTOKINE & CAM ANTAGONISTS (continued),Inflectra Rheumatoid Arthritis,INFLECTRA (infliximab-dyyb)
+CYTOKINE & CAM ANTAGONISTS (continued),Inflectra Ulcerative Colitis (adult),INFLECTRA (infliximab-dyyb)
+CYTOKINE & CAM ANTAGONISTS (continued),Inflectra Ulcerative Colitis (pediatric),INFLECTRA (infliximab-dyyb)
+MOVEMENT DISORDER AGENTS,Ingrezza,INGREZZA (valbenazine)
+MOVEMENT DISORDER AGENTS,Ingrezza Huntington's Disease,INGREZZA (valbenazine)
+MOVEMENT DISORDER AGENTS,"Ingrezza Huntington's Disease, sprinkle capsule",INGREZZA SPRINKLE (valbenazine)
+MOVEMENT DISORDER AGENTS,"Ingrezza Huntington's Disease, titration pack",INGREZZA INITIATION PACK (valbenazine)
+MOVEMENT DISORDER AGENTS,Ingrezza Tardive Dyskinesia,INGREZZA (valbenazine)
+MOVEMENT DISORDER AGENTS,"Ingrezza Tardive Dyskinesia, sprinkle capsule",INGREZZA SPRINKLE (valbenazine)
+MOVEMENT DISORDER AGENTS,"Ingrezza Tardive Dyskinesia, titration pack",INGREZZA INITIATION PACK (valbenazine)
+MOVEMENT DISORDER AGENTS,Ingrezza Tourette's Syndrome/Tics,INGREZZA (valbenazine)
+MOVEMENT DISORDER AGENTS,Ingrezza Unspecified Hyperkinetic Movement Disorder,INGREZZA (valbenazine)
+MOVEMENT DISORDER AGENTS,Ingrezza capsule,INGREZZA (valbenazine)
+MOVEMENT DISORDER AGENTS,Ingrezza sprinkle capsule,INGREZZA SPRINKLE (valbenazine)
+MOVEMENT DISORDER AGENTS,Ingrezza titration pack,INGREZZA INITIATION PACK (valbenazine)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Insulin Glargine,insulin glargine
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Insulin Glargine 300 units/mL, generic Toujeo",insulin glargine
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Insulin Glargine U-100, generic Lantus",insulin glargine
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Insulin Glargine U-100, generic Toujeo",insulin glargine
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Insulin Lispro,insulin lispro
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Insulin Lispro 100 unit/ml, pen",insulin lispro
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Insulin Lispro 100 unit/ml, vial",insulin lispro
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Insulin Lispro pen,insulin lispro
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Insulin Lispro vial,insulin lispro
+ANTIRETROVIRALS : NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),Intelence,INTELENCE (etravirine)
+ANTIRETROVIRALS : NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),Intelence 100 mg,INTELENCE (etravirine)
+ANTIRETROVIRALS : NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),Intelence 200 mg,INTELENCE (etravirine)
+ANTIRETROVIRALS : NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),Intelence 25 mg,INTELENCE (etravirine)
+ANTIPSYCHOTICS : ORAL,Invega ER,INVEGA (paliperidone)
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Invega Hafyera,INVEGA HAFYERA (paliperidone)
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Invega Sustenna,INVEGA SUSTENNA (paliperidone palmitate)
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Invega Trinza,INVEGA TRINZA (paliperidone)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Invokamet,INVOKAMET (canagliflozin/metformin)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Invokamet XR,INVOKAMET XR (canagliflozin/metformin)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITORS",Invokana,INVOKANA (canagliflozin)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITORS",Invokana Chronic Kidney Disease,INVOKANA (canagliflozin)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITORS",Invokana Type 2 Diabetes,INVOKANA (canagliflozin)
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,Ipratropium/Albuterol nebulized solution,ipratropium/albuterol
+BILE SALTS,Iqirvo,IQIRVO (elafibranor)
+BILE SALTS,Iqirvo tablet,IQIRVO (elafibranor)
+ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Irbesartan,irbesartan
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Iressa,IRESSA (gefitinib)
+ANTIRETROVIRALS : INTEGRASE STRAND TRANSFER INHIBITORS,Isentress,ISENTRESS (raltegravir)
+ANTIRETROVIRALS : INTEGRASE STRAND TRANSFER INHIBITORS,Isentress chewable tablet,ISENTRESS (raltegravir)
+ANTIRETROVIRALS : INTEGRASE STRAND TRANSFER INHIBITORS,Isentress packet,ISENTRESS (raltegravir)
+ANTIRETROVIRALS : INTEGRASE STRAND TRANSFER INHIBITORS,Isentress tablet,ISENTRESS (raltegravir)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Iwilfin,IWILFIN (eflornithine)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Jakafi,JAKAFI (ruxolitinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,"Jakafi Intermediate or high-risk PMF, post-PV MF, or post-ET MF",JAKAFI (ruxolitinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Jakafi acute graft versus host disease (aGVHD) or chronic graft versus host disease (cGVHD),JAKAFI (ruxolitinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Jakafi polycythemia vera (PV),JAKAFI (ruxolitinib)
+"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",Janumet,JANUMET (sitagliptin/metformin)
+"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",Januvia,JANUVIA (sitagliptin)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITORS",Jardiance,JARDIANCE (empagliflozin)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITORS",Jardiance Chronic Kidney Disease,JARDIANCE (empagliflozin)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITORS",Jardiance Type 2 Diabetes,JARDIANCE (empagliflozin)
+"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",Jentadueto,JENTADUETO (linagliptin/metformin)
+STIMULANTS AND RELATED AGENTS : LONG-ACTING,Jornay PM,JORNAY PM (methylphenidate)
+ANTIRETROVIRALS : COMBINATION PRODUCTS – PROTEASE INHIBITORS,Kaletra,KALETRA (lopinavir/ritonavir)
+CYSTIC FIBROSIS AGENTS,Kalydeco,KALYDECO (ivacaftor)
+ANTICONVULSANTS : ADJUVANTS,Keppra XR,KEPPRA XR (levetiracetam)
+ANTICONVULSANTS : ADJUVANTS,Keppra oral solution,KEPPRA (levetiracetam)
+ANTICONVULSANTS : ADJUVANTS,Keppra tablet,KEPPRA (levetiracetam)
+MULTIPLE SCLEROSIS AGENTS,Kesimpta,KESIMPTA PEN (ofatumumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),KEVZARA (sarilumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Kevzara Polymyalgia Rheumatica (PMR),KEVZARA (sarilumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Kevzara Rheumatoid Arthritis,KEVZARA (sarilumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Kevzara prefilled pen,KEVZARA (sarilumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Kevzara prefilled pen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",KEVZARA (sarilumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Kevzara prefilled pen, Polymyalgia Rheumatica (PMR)",KEVZARA (sarilumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Kevzara prefilled pen, Rheumatoid Arthritis",KEVZARA (sarilumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Kevzara prefilled syringe,KEVZARA (sarilumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Kevzara prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",KEVZARA (sarilumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Kevzara prefilled syringe, Polymyalgia Rheumatica (PMR)",KEVZARA (sarilumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Kevzara prefilled syringe, Rheumatoid Arthritis",KEVZARA (sarilumab)
+CYTOKINE & CAM ANTAGONISTS,Kineret,KINERET (anakinra)
+CYTOKINE & CAM ANTAGONISTS,Kineret Deficiency of Interleukin-1 Receptor Antagonist (DIRA),KINERET (anakinra)
+CYTOKINE & CAM ANTAGONISTS,Kineret Neonatal-Onset Multisystem Inflammatory Disease (NOMID),KINERET (anakinra)
+CYTOKINE & CAM ANTAGONISTS,Kineret Rheumatoid Arthritis,KINERET (anakinra)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Kisqali,KISQALI (ribociclib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Kisqali tablet,KISQALI (ribociclib)
+CYSTIC FIBROSIS AGENTS,Kitabis Pak,KITABIS (tobramycin)
+CYSTIC FIBROSIS AGENTS,Kitabis Pak 300 mg/5 ml,KITABIS (tobramycin)
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,Kloxxado,KLOXXADO (naloxone)
+"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",Kombiglyze XR,KOMBIGLYZE XR (saxagliptin/metformin)
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Konvomep,KONVOMEP (omeprazole/sodium bicarbonate)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Koselugo,KOSELUGO (selumetinib/vitamin E)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Krazati,KRAZATI (adagrasib)
+ANTICONVULSANTS : ADJUVANTS,Lamictal ODT,LAMICTAL (lamotrigine)
+ANTICONVULSANTS : ADJUVANTS,Lamictal tablet,LAMICTAL (lamotrigine)
+ANTICONVULSANTS : ADJUVANTS,Lamotrigine,lamotrigine
+ANTICONVULSANTS : ADJUVANTS,Lamotrigine ER,lamotrigine ER
+ANTICONVULSANTS : ADJUVANTS,Lamotrigine IR,lamotrigine
+ANTICONVULSANTS : ADJUVANTS,Lamotrigine ODT,lamotrigine ODT
+ANTICONVULSANTS : ADJUVANTS,Lamotrigine chewable tablet,lamotrigine
+ANTICONVULSANTS : ADJUVANTS,Lamotrigine tablet,lamotrigine
+ANTICONVULSANTS : ADJUVANTS,"Lamotrigine tablet, ER",lamotrigine ER
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Lansoprazole,lansoprazole Rx
+H. PYLORI COMBINATION TREATMENTS,Lansoprazole / Amoxicillin / Clarithromycin,lansoprazole/amoxicillin/clarithromycin
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Lansoprazole DR capsule,lansoprazole Rx
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Lansoprazole ODT,lansoprazole Rx
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Lantus SoloStar,LANTUS (insulin glargine)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Lantus vial,LANTUS (insulin glargine)
+ANTIPSYCHOTICS : ORAL,Latuda,LATUDA (lurasidone)
+PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,Letairis,LETAIRIS (ambrisentan)
+COLONY STIMULATING FACTORS,Leukine,LEUKINE (sargramostim)
+"BRONCHODILATORS, BETA AGONISTS: INHALATION SOLUTION",Levalbuterol Tartrate inhalation aerosol solution,levalbuterol
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Levemir FlexTouch,LEVEMIR (insulin detemir)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Levemir vial,LEVEMIR (insulin detemir)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (PEPTIDIC),Lexiva,LEXIVA (fosamprenavir)
+ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Libervant buccal film,LIBERVANT (diazepam)
+PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,Liqrev,LIQREV (sildenafil)
+ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Lisinopril,lisinopril
+CYTOKINE & CAM ANTAGONISTS (continued),Litfulo,LITFULO (ritlecitinib)
+CYTOKINE & CAM ANTAGONISTS (continued),Litfulo Alopecia Areata,LITFULO (ritlecitinib)
+BILE SALTS,Livdelzi capsule,LIVDELZI (seladelpar)
+BILE SALTS,Livmarli,LIVMARLI (maralixibat)
+BILE SALTS,Livmarli Alagille Syndrome (ALGS),LIVMARLI (maralixibat)
+BILE SALTS,Livmarli Progressive Familial Intrahepatic Cholestasis (PFIC),LIVMARLI (maralixibat)
+ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Losartan,losartan
+OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,Lucemyra,LUCEMYRA (lofexidine)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Lumakras,LUMAKRAS (sotorasib)
+ANTIPSYCHOTICS : ORAL,Lurasidone,lurasidone
+ANTIPSYCHOTICS : ORAL,Lybalvi,LYBALVI (olanzapine/samidorphan)
+ANTIPSYCHOTICS : ORAL,Lybalvi Bipolar I Disorder,LYBALVI (olanzapine/samidorphan)
+ANTIPSYCHOTICS : ORAL,Lybalvi Schizophrenia,LYBALVI (olanzapine/samidorphan)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Lynparza,LYNPARZA (olaparib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Lynparza Breast cancer,LYNPARZA (olaparib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Lynparza Ovarian cancer,LYNPARZA (olaparib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Lynparza Pancreatic cancer,LYNPARZA (olaparib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Lynparza Prostate cancer,LYNPARZA (olaparib)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Lyumjev KwikPen, U-100",LYUMJEV (insulin lispro-aabc)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Lyumjev KwikPen, U-200",LYUMJEV (insulin lispro-aabc)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Lyumjev U-100,LYUMJEV (insulin lispro-aabc)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Lyumjev U-200,LYUMJEV (insulin lispro-aabc)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Lyumjev vial,LYUMJEV (insulin lispro-aabc)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",Maxalt,MAXALT (rizatriptan)
+ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,Memantine XR,memantine ER
+ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,Memantine oral solution,memantine
+ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,Memantine tablet,memantine
+ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,Memantine titration pack,memantine
+"BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : BETA-BLOCKERS",Metoprolol Succinate ER tablet,metoprolol succinate
+ROSACEA TREATMENTS,Metrogel 0.75%,METROGEL (metronidazole)
+ROSACEA TREATMENTS,Metronidazole 0.75% Gel,metronidazole
+ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Moexipril,moexipril
+ANTICONVULSANTS : ADJUVANTS,Motpoly XR,MOTPOLY XR (lacosamide)
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Mounjaro,MOUNJARO (tirzepatide)
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,"Naloxone 10 mg, auto-injector",naloxone
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,Naloxone carpuject,naloxone
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,"Naloxone carpuject, 0.4 mg/mL",naloxone
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,Naloxone nasal spray,naloxone
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,Naloxone prefilled syringe,naloxone
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,"Naloxone prefilled syringe, 0.4 mg/mL",naloxone
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,"Naloxone prefilled syringe, 2 mg/2mL",naloxone
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,Naloxone syringe,naloxone
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,Naloxone vial,naloxone
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,"Naloxone vial, 0.4 mg/mL",naloxone
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,"Naloxone vial, 4 mg/10mL",naloxone
+ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,Namenda,NAMENDA (memantine)
+ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,Namenda XR,NAMENDA XR (memantine ER)
+ALZHEIMER’S AGENTS : COMBINATION AGENTS,Namzaric,NAMZARIC (memantine/donepezil)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",Naratriptan,naratriptan
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,Narcan,NARCAN (naloxone)
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,Narcan nasal spray,NARCAN (naloxone)
+ANTIPARASITICS (TOPICAL) : PEDICULICIDES,Natroba,NATROBA (spinosad)
+ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Nayzilam,NAYZILAM (midazolam)
+COLONY STIMULATING FACTORS,Neulasta,"NEULASTA, NEULASTA ONPRO (pegfilgrastim)"
+COLONY STIMULATING FACTORS,Neulasta Onpro,"NEULASTA, NEULASTA ONPRO (pegfilgrastim)"
+COLONY STIMULATING FACTORS,Neupogen,NEUPOGEN (filgrastim)
+COLONY STIMULATING FACTORS,Neupogen prefilled syringe,NEUPOGEN (filgrastim)
+COLONY STIMULATING FACTORS,Neupogen vial,NEUPOGEN (filgrastim)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Nexavar,NEXAVAR (sorafenib)
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Nexium DR capsule,NEXIUM (esomeprazole) capsule
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Nexium DR packet for oral suspension,NEXIUM (esomeprazole) packet
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,"Nexium DR packet for oral suspension, 10 mg",NEXIUM (esomeprazole) packet
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,"Nexium DR packet for oral suspension, 2.5 mg, 5 mg",NEXIUM (esomeprazole) packet
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,Nextstellis,NEXTSTELLIS (drospirenone/estetrol)
+GROWTH HORMONES,Ngenla,NGENLA (somatrogon-ghla)
+COLONY STIMULATING FACTORS,Nivestym,NIVESTYM (filgrastim-aafi)
+GROWTH HORMONES,Norditropin,NORDITROPIN FLEXPRO (somatropin)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolin 70/30,NOVOLIN 70/30 (insulin NPH/regular)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolin 70/30 Flexpen OTC,NOVOLIN 70/30 (insulin NPH/regular)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolin R,NOVOLIN R (insulin regular)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolin R FlexPen,NOVOLIN R (insulin regular)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Novolin R FlexPen, U-100",NOVOLIN R (insulin regular)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolin R vial,NOVOLIN R (insulin regular)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Novolin R vial, U-100",NOVOLIN R (insulin regular)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolog,NOVOLOG (insulin aspart)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolog 70/30,NOVOLOG MIX 70/30 (insulin aspart/aspart protamine)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolog 70/30 FlexPen,NOVOLOG MIX 70/30 (insulin aspart/aspart protamine)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolog FlexPen,NOVOLOG (insulin aspart)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Novolog FlexPen, 100 unit/ml",NOVOLOG (insulin aspart)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolog cartridge,NOVOLOG (insulin aspart)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolog vial,NOVOLOG (insulin aspart)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Novolog vial, 100 unit/ml",NOVOLOG (insulin aspart)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Nubeqa,NUBEQA (darolutamide)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Nucala,NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala 100 mg, prefilled syringe, Asthma (adult)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala 100 mg, prefilled syringe, Asthma (pediatric)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala 100 mg, prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala 100 mg, prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala 100 mg, prefilled syringe, Hypereosinophilic Syndrome (HES)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala 40 mg, prefilled syringe, Asthma (adult)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala 40 mg, prefilled syringe, Asthma (pediatric)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala 40 mg, prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala 40 mg, prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala 40 mg, prefilled syringe, Hypereosinophilic Syndrome (HES)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Nucala Asthma (adult),NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Nucala Asthma (pediatric),NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Nucala Chronic Rhinosinusitis with Nasal Polyposis,NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Nucala Hypereosinophilic Syndrome (HES),NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Nucala auto-injector,NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala auto-injector, Asthma (adult)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala auto-injector, Asthma (pediatric)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala auto-injector, Hypereosinophilic Syndrome (HES)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Nucala prefilled syringe,NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala prefilled syringe, Asthma (adult)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala prefilled syringe, Asthma (pediatric)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala prefilled syringe, Hypereosinophilic Syndrome (HES)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Nucala vial,NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala vial, Asthma (adult)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala vial, Asthma (pediatric)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala vial, Chronic Rhinosinusitis with Nasal Polyposis",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala vial, Eosinophilic Granulomatosis with Polyangitis (EGPA)",NUCALA (mepolizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Nucala vial, Hypereosinophilic Syndrome (HES)",NUCALA (mepolizumab)
+ANTIPSYCHOTICS : ORAL,Nuplazid,NUPLAZID (pimavanserin)
+ANTIPSYCHOTICS : ORAL,Nuplazid capsule,NUPLAZID (pimavanserin)
+ANTIPSYCHOTICS : ORAL,Nuplazid tablet,NUPLAZID (pimavanserin)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: CGRP ORAL AND NASAL",Nurtec ODT,NURTEC ODT (rimegepant)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: CGRP ORAL AND NASAL",Nurtec ODT Acute Treatment,NURTEC ODT (rimegepant)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: CGRP ORAL AND NASAL",Nurtec ODT Migraine Prophylaxis,NURTEC ODT (rimegepant)
+ANTIBIOTICS (VAGINAL),Nuvessa,NUVESSA (metronidazole)
+COLONY STIMULATING FACTORS,Nyvepria,NYVEPRIA (pegfilgrastim-apgf)
+MULTIPLE SCLEROSIS AGENTS,Ocrevus,OCREVUS (ocrelizumab)
+MULTIPLE SCLEROSIS AGENTS,Ocrevus Zunovo subcutaneous vial,OCREVUS (ocrelizumab)
+ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON- NUCLEOSIDE RTIs,Odefsey,ODEFSEY (emtricitabine/rilpivirine/tenofovir)
+IDIOPATHIC PULMONARY FIBROSIS,Ofev,OFEV (nintedanib)
+IDIOPATHIC PULMONARY FIBROSIS,Ofev Chronic Fibrosing Interstitial Lung Diseases,OFEV (nintedanib)
+IDIOPATHIC PULMONARY FIBROSIS,Ofev Idiopathic Pulmonary Fibrosis,OFEV (nintedanib)
+IDIOPATHIC PULMONARY FIBROSIS,Ofev Systemic Sclerosis-Associated Interstitial Lung Disease,OFEV (nintedanib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Ogsiveo,OGSIVEO (nirogacestat)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Ojemda,OJEMDA (tovorafenib)
+ANTIPSYCHOTICS : ORAL,Olanzapine And Fluoxetine,olanzapine/fluoxetine
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Olanzapine ODT,olanzapine
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Olanzapine tablet,olanzapine
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Olanzapine vial,olanzapine
+ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Olmesartan,olmesartan
+UREA CYCLE DISORDER AGENTS,Olpruva,OLPRUVA (sodium phenylbutyrate)
+CYTOKINE & CAM ANTAGONISTS,Olumiant,OLUMIANT (baricitinib)
+CYTOKINE & CAM ANTAGONISTS,Olumiant Alopecia Areata,OLUMIANT (baricitinib)
+CYTOKINE & CAM ANTAGONISTS,Olumiant Coronavirus Disease 2019,OLUMIANT (baricitinib)
+CYTOKINE & CAM ANTAGONISTS,Olumiant Rheumatoid Arthritis,OLUMIANT (baricitinib)
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Omeprazole capsule,esomeprazole capsule
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,"Omeprazole capsule, 10 mg",esomeprazole capsule
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,"Omeprazole capsule, 20 mg",esomeprazole capsule
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,"Omeprazole capsule, 40 mg",esomeprazole capsule
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Omeprazole tablet,omeprazole
+GROWTH HORMONES,Omnitrope,OMNITROPE (somatropin)
+ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Onfi oral suspension,ONFI (clobazam)
+ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Onfi tablet,ONFI (clobazam)
+"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",Onglyza,ONGLYZA (saxagliptin)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Onureg,ONUREG (azacitidine)
+PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,Opsumit,OPSUMIT (macitentan)
+PULMONARY ANTIHYPERTENSIVE AGENTS: COMBINATION AGENTS,Opsynvi tablet,OPSYNVI (macitentan/tadalafil)
+OPIATE DEPENDENCE TREATMENTS: TREATMENT,Opvee (Nalmefene),OPVEE (nalmefene)
+ATOPIC DERMATITIS,Opzelura,OPZELURA (ruxolitinib)
+MISCELLANEOUS BRAND/GENERIC,Oralair,ORALAIR
+CYTOKINE & CAM ANTAGONISTS (continued),Orencia Acute Graft Versus Host Disease (aGVHD),ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia ClickJect, Acute Graft Versus Host Disease (aGVHD)",ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia ClickJect, Psoriatic Arthritis (adult)",ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia ClickJect, Psoriatic Arthritis (pediatric)",ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia ClickJect, Rheumatoid Arthritis",ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),Orencia Polyarticular Juvenile Idiopathic Arthritis (PJIA),ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),Orencia Psoriatic Arthritis (adult),ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),Orencia Rheumatoid Arthritis,ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),Orencia prefilled syringe,ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia prefilled syringe, Acute Graft Versus Host Disease (aGVHD)",ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia prefilled syringe, Psoriatic Arthritis (adult)",ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)",ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia prefilled syringe, Rheumatoid Arthritis",ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),Orencia vial,ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia vial, Acute Graft Versus Host Disease (aGVHD)",ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia vial, Psoriatic Arthritis (adult)",ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia vial, Psoriatic Arthritis (pediatric)",ORENCIA (abatacept)
+CYTOKINE & CAM ANTAGONISTS (continued),"Orencia vial, Rheumatoid Arthritis",ORENCIA (abatacept)
+PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,Orenitram ER,ORENITRAM ER (treprostinil)
+PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,Orenitram ER tablet,ORENITRAM ER (treprostinil)
+PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,Orenitram ER titration kit,ORENITRAM TITRATION PAK (treprostinil)
+"ANTIVIRALS, ORAL (continued): ANTI-INFLUENZA AGENTS",Oseltamivir,oseltamivir
+CYTOKINE & CAM ANTAGONISTS,Otezla,OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,Otezla 20 mg,OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,Otezla 30 mg,OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,Otezla Behcet's Disease,OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Behcet's Disease, 20 mg",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Behcet's Disease, 20 mg, tablet",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Behcet's Disease, 30 mg",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Behcet's Disease, 30 mg, tablet",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Behcet's Disease, starter pack",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Behcet's Disease, tablet",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,Otezla Plaque Psoriasis (adult),OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Plaque Psoriasis (adult), 20 mg",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Plaque Psoriasis (adult), 20 mg, tablet",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Plaque Psoriasis (adult), 30 mg",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Plaque Psoriasis (adult), 30 mg, tablet",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Plaque Psoriasis (adult), starter pack",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Plaque Psoriasis (adult), tablet",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,Otezla Plaque Psoriasis (pediatric),OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Plaque Psoriasis (pediatric), 20 mg",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Plaque Psoriasis (pediatric), 20 mg, tablet",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Plaque Psoriasis (pediatric), 30 mg",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Plaque Psoriasis (pediatric), 30 mg, tablet",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Plaque Psoriasis (pediatric), starter pack",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Plaque Psoriasis (pediatric), tablet",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,Otezla Psoriatic Arthritis (adult),OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Psoriatic Arthritis (adult), 20 mg",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Psoriatic Arthritis (adult), 20 mg, tablet",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Psoriatic Arthritis (adult), 30 mg",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Psoriatic Arthritis (adult), 30 mg, tablet",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Psoriatic Arthritis (adult), starter pack",OTEZLA (apremilast)
+CYTOKINE & CAM ANTAGONISTS,"Otezla Psoriatic Arthritis (adult), tablet",OTEZLA (apremilast)
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Ozempic,OZEMPIC (semaglutide)
+ANTIPSYCHOTICS : ORAL,Paliperidone ER,paliperidone ER
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Pantoprazole DR packet for oral suspension,pantoprazole
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Pantoprazole tablet,pantoprazole
+ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Perindopril,perindopril
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Perseris,PERSERIS (risperidone)
+UREA CYCLE DISORDER AGENTS,Pheburane,PHEBURANE (sodium phenylbutyrate)
+SELECT CONTRACEPTIVE PRODUCTS: INTRAVAGINAL CONTRACEPTIVES,Phexxi,PHEXXI (lactic acid/citric acid/potassium bitartrate)
+MULTIPLE SCLEROSIS AGENTS,Ponvory starter pack,PONVORY (ponesimod)
+MULTIPLE SCLEROSIS AGENTS,Ponvory tablet,PONVORY (ponesimod)
+ANTICOAGULANTS: ORAL,Pradaxa,PRADAXA (dabigatran) capsule
+ANTICOAGULANTS: ORAL,Pradaxa capsule,PRADAXA (dabigatran) capsule
+ANTICOAGULANTS: ORAL,Pradaxa packet,PRADAXA (dabigatran) pellet pack
+"LIPOTROPICS, OTHER (NON-STATINS): PCSK-9 INHIBITORS",Praluent,PRALUENT (alirocumab)
+"LIPOTROPICS, OTHER (NON-STATINS): PCSK-9 INHIBITORS",Praluent Cardiovascular disease (CVD) Prevention,PRALUENT (alirocumab)
+"LIPOTROPICS, OTHER (NON-STATINS): PCSK-9 INHIBITORS",Praluent Heterozygous familial hypercholesterolemia (HeFH) or homozygous familial hypercholesterolemia (HoFH),PRALUENT (alirocumab)
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Prevacid SoluTab,PREVACID (lansoprazole)
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Prevacid capsule,PREVACID (lansoprazole)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (NON-PEPTIDIC),Prezcobix,PREZCOBIX (darunavir/cobicistat)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (NON-PEPTIDIC),Prezista 150 mg,PREZISTA (darunavir)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (NON-PEPTIDIC),Prezista 600 mg,PREZISTA (darunavir)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (NON-PEPTIDIC),Prezista 75 mg,PREZISTA (darunavir)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (NON-PEPTIDIC),Prezista 800 mg,PREZISTA (darunavir)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (NON-PEPTIDIC),Prezista oral suspension,PREZISTA (darunavir)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (NON-PEPTIDIC),Prezista tablet,PREZISTA (darunavir)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (NON-PEPTIDIC),"Prezista tablet, 150 mg",PREZISTA (darunavir)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (NON-PEPTIDIC),"Prezista tablet, 600 mg",PREZISTA (darunavir)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (NON-PEPTIDIC),"Prezista tablet, 75 mg",PREZISTA (darunavir)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (NON-PEPTIDIC),"Prezista tablet, 800 mg",PREZISTA (darunavir)
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Prilosec DR capsule,PRILOSEC (omeprazole) packet
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Prilosec DR packet for oral suspension,PRILOSEC (omeprazole) packet
+"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, SHORT ACTING",Proair Digihaler,PROAIR DIGIHALER (albuterol)
+"IMMUNOSUPPRESSIVE AGENTS, ORAL",Prograf capsule,PROGRAF (tacrolimus)
+"IMMUNOSUPPRESSIVE AGENTS, ORAL",Prograf packet for oral suspension,PROGRAF (tacrolimus)
+"IMMUNOSUPPRESSIVE AGENTS, ORAL",Prograf vial,PROGRAF (tacrolimus)
+"BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : BETA-BLOCKERS",Propranolol oral solution,propranolol
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Protonix DR packet oral suspension,PROTONIX (pantoprazole)
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Protonix DR tablet,PROTONIX (pantoprazole)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Pulmicort Flexhaler,PULMICORT FLEXHALER (budesonide)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Pulmicort Respules 0.25 mg,PULMICORT (budesonide) nebulizer solution
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,"Pulmicort Respules 0.25 mg, 0.5 mg",PULMICORT (budesonide) nebulizer solution
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Pulmicort Respules 0.5 mg,PULMICORT (budesonide) nebulizer solution
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Pulmicort Respules 1 mg,PULMICORT (budesonide) nebulizer solution
+H. PYLORI COMBINATION TREATMENTS,Pylera,PYLERA (bismuth subcitrate potassium/metronidazole/ tetracycline)
+STIMULANTS AND RELATED AGENTS : NON-STIMULANTS,Qelbree,QELBREE (viloxazine)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Qtern,QTERN (dapagliflozin/saxagliptin)
+ANTIPSYCHOTICS : ORAL,Quetiapine,quetiapine
+ANTIPSYCHOTICS : ORAL,Quetiapine 150 mg,quetiapine
+ANTIPSYCHOTICS : ORAL,Quetiapine ER,quetiapine ER
+STIMULANTS AND RELATED AGENTS : LONG-ACTING,Quillichew XR,QUILLICHEW ER (methylphenidate)
+STIMULANTS AND RELATED AGENTS : LONG-ACTING,Quillivant XR,QUILLIVANT XR (methylphenidate)
+STIMULANTS AND RELATED AGENTS : LONG-ACTING,Quillivant XR ER oral suspension,QUILLIVANT XR (methylphenidate)
+ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Quinapril,quinapril
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: ORAL",Qulipta,QULIPTA (atogepant)
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: ORAL",Qulipta Chronic Migraine,QULIPTA (atogepant)
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: ORAL",Qulipta Episodic Migraine,QULIPTA (atogepant)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Qvar,QVAR REDIHALER (beclomethasone)
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Rabeprazole,rabeprazole
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Rabeprazole sprinkle capsule,rabeprazole
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Rabeprazole tablet,rabeprazole
+MISCELLANEOUS BRAND/GENERIC,Ragwitek,RAGWITEK
+ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Ramipril,ramipril
+UREA CYCLE DISORDER AGENTS,Ravicti,RAVICTI (glycerol phenylbutyrate)
+MULTIPLE SCLEROSIS AGENTS,Rebif (Interferon Beta-1a) prefilled syringe,REBIF (interferon beta-1b)
+ANTIBIOTICS (GI) & RELATED AGENTS,Rebyota,"REBYOTA (fecal microbiota, live-jslm)"
+COLONY STIMULATING FACTORS,Releuko,RELEUKO (filgrastim-ayow)
+COLONY STIMULATING FACTORS,Releuko prefilled syringe,RELEUKO (filgrastim-ayow)
+COLONY STIMULATING FACTORS,Releuko vial,RELEUKO (filgrastim-ayow)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",Relpax,RELPAX (eletriptan)
+CYTOKINE & CAM ANTAGONISTS (continued),Remicade,REMICADE (infliximab)
+CYTOKINE & CAM ANTAGONISTS (continued),Remicade Ankylosing Spondylitis,REMICADE (infliximab)
+CYTOKINE & CAM ANTAGONISTS (continued),Remicade Crohn's Disease (adult),REMICADE (infliximab)
+CYTOKINE & CAM ANTAGONISTS (continued),Remicade Crohn's Disease (pediatric),REMICADE (infliximab)
+CYTOKINE & CAM ANTAGONISTS (continued),Remicade Plaque Psoriasis (adult),REMICADE (infliximab)
+CYTOKINE & CAM ANTAGONISTS (continued),Remicade Psoriatic Arthritis (adult),REMICADE (infliximab)
+CYTOKINE & CAM ANTAGONISTS (continued),Remicade Rheumatoid Arthritis,REMICADE (infliximab)
+CYTOKINE & CAM ANTAGONISTS (continued),Remicade Ulcerative Colitis (adult),REMICADE (infliximab)
+CYTOKINE & CAM ANTAGONISTS (continued),Remicade Ulcerative Colitis (pediatric),REMICADE (infliximab)
+CYTOKINE & CAM ANTAGONISTS (continued),Renflexis,RENFLEXIS (infliximab-abda)
+CYTOKINE & CAM ANTAGONISTS (continued),Renflexis Ankylosing Spondylitis,RENFLEXIS (infliximab-abda)
+CYTOKINE & CAM ANTAGONISTS (continued),Renflexis Crohn's Disease (adult),RENFLEXIS (infliximab-abda)
+CYTOKINE & CAM ANTAGONISTS (continued),Renflexis Crohn's Disease (pediatric),RENFLEXIS (infliximab-abda)
+CYTOKINE & CAM ANTAGONISTS (continued),Renflexis Plaque Psoriasis (adult),RENFLEXIS (infliximab-abda)
+CYTOKINE & CAM ANTAGONISTS (continued),Renflexis Psoriatic Arthritis (adult),RENFLEXIS (infliximab-abda)
+CYTOKINE & CAM ANTAGONISTS (continued),Renflexis Rheumatoid Arthritis,RENFLEXIS (infliximab-abda)
+CYTOKINE & CAM ANTAGONISTS (continued),Renflexis Ulcerative Colitis (adult),RENFLEXIS (infliximab-abda)
+CYTOKINE & CAM ANTAGONISTS (continued),Renflexis Ulcerative Colitis (pediatric),RENFLEXIS (infliximab-abda)
+"LIPOTROPICS, OTHER (NON-STATINS): PCSK-9 INHIBITORS",Repatha,REPATHA (evolocumab)
+"LIPOTROPICS, OTHER (NON-STATINS): PCSK-9 INHIBITORS",Repatha Cardiovascular disease (CVD) Prevention,REPATHA (evolocumab)
+"LIPOTROPICS, OTHER (NON-STATINS): PCSK-9 INHIBITORS",Repatha Heterozygous familial hypercholesterolemia (HeFH) or homozygous familial hypercholesterolemia (HoFH),REPATHA (evolocumab)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Retevmo,RETEVMO (selpercatinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Retevmo capsule,RETEVMO (selpercatinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Retevmo tablet,RETEVMO (selpercatinib)
+PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,Revatio oral suspension,REVATIO (sildenafil)
+PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,Revatio tablet,REVATIO (sildenafil)
+MISCELLANEOUS BRAND/GENERIC,Revlimid,REVLIMID (lenalidomide)
+ANTIPSYCHOTICS : ORAL,Rexulti,REXULTI (brexpiprazole)
+ANTIPSYCHOTICS : ORAL,Rexulti Adjunct treatment of major depressive disorder,REXULTI (brexpiprazole)
+ANTIPSYCHOTICS : ORAL,Rexulti Schizophrenia,REXULTI (brexpiprazole)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (PEPTIDIC),Reyataz,REYATAZ (atazanavir)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (PEPTIDIC),Reyataz capsule,REYATAZ (atazanavir)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (PEPTIDIC),Reyataz powder packet,REYATAZ (atazanavir)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",Reyvow,REYVOW (lasmiditan)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Rezlidhia,REZLIDHIA (olutasidenib)
+"IMMUNOSUPPRESSIVE AGENTS, ORAL",Rezurock,REZUROCK (belumosudil)
+CYTOKINE & CAM ANTAGONISTS,Rinvoq,RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,Rinvoq Ankylosing Spondylitis,RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Ankylosing Spondylitis, ER tablet",RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Ankylosing Spondylitis, LQ",RINVOQ LQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,Rinvoq Atopic Dermatitis (adult),RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Atopic Dermatitis (adult), ER tablet",RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Atopic Dermatitis (adult), LQ",RINVOQ LQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,Rinvoq Crohn's Disease (adult),RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Crohn's Disease (adult), ER tablet",RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Crohn's Disease (adult), LQ",RINVOQ LQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,Rinvoq Non-Radiographic Axial Spondyloarthritis,RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Non-Radiographic Axial Spondyloarthritis, ER tablet",RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Non-Radiographic Axial Spondyloarthritis, LQ",RINVOQ LQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA),RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA), ER tablet",RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA), LQ",RINVOQ LQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,Rinvoq Psoriatic Arthritis (adult),RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Psoriatic Arthritis (adult), ER tablet",RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Psoriatic Arthritis (adult), LQ",RINVOQ LQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,Rinvoq Psoriatic Arthritis (pediatric),RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Psoriatic Arthritis (pediatric), ER tablet",RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Psoriatic Arthritis (pediatric), LQ",RINVOQ LQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,Rinvoq Rheumatoid Arthritis,RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Rheumatoid Arthritis, ER tablet",RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Rheumatoid Arthritis, LQ",RINVOQ LQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,Rinvoq Ulcerative Colitis (adult),RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Ulcerative Colitis (adult), ER tablet",RINVOQ (upadacitinib)
+CYTOKINE & CAM ANTAGONISTS,"Rinvoq Ulcerative Colitis (adult), LQ",RINVOQ LQ (upadacitinib)
+ANTIPSYCHOTICS : ORAL,Risperdal Consta,RISPERDAL (risperidone)
+ANTIPSYCHOTICS : ORAL,Risperdal oral solution,RISPERDAL (risperidone)
+ANTIPSYCHOTICS : ORAL,Risperdal tablet,RISPERDAL (risperidone)
+ANTIPSYCHOTICS : ORAL,Risperidone ODT,risperidone
+ANTIPSYCHOTICS : ORAL,Risperidone oral solution,risperidone
+ANTIPSYCHOTICS : ORAL,Risperidone tablet,risperidone
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Rivastigmine capsule,rivastigmine
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Rivastigmine oral solution,rivastigmine
+ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Rivastigmine patch,rivastigmine
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",Rizatriptan,rizatriptan
+COLONY STIMULATING FACTORS,Rolvedon prefilled syringe,ROLVEDON (eflapegrastim-xnst)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Rozlytrek (Entrectinib) capsule,ROZLYTREK (entrectinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Rozlytrek (Entrectinib) pellet packet,ROZLYTREK (entrectinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Rubraca,RUBRACA (rucaparib)
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Rybelsus,RYBELSUS (semaglutide)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Rydapt,RYDAPT (midostaurin)
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Rykindo,RYKINDO (risperidone)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Sabril Infantile spasms,SABRIL (vigabatrin)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Sabril Refractory complex partial seizures,SABRIL (vigabatrin)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Sabril packet for oral solution,SABRIL (vigabatrin)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),"Sabril packet for oral solution, 500 mg",SABRIL (vigabatrin)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Sabril tablet,SABRIL (vigabatrin)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),"Sabril tablet, 500 mg",SABRIL (vigabatrin)
+ANTIPSYCHOTICS : ORAL,Saphris,SAPHRIS (asenapine)
+ANTIPSYCHOTICS : ORAL,Saphris 10 mg,SAPHRIS (asenapine)
+ANTIPSYCHOTICS : ORAL,Saphris 2.5 mg,SAPHRIS (asenapine)
+ANTIPSYCHOTICS : ORAL,Saphris 5 mg,SAPHRIS (asenapine)
+ANTICOAGULANTS: ORAL,Savaysa,SAVAYSA (edoxaban)
+ANTIOBESITY SELECT AGENTS,Saxenda,SAXENDA (liraglutide)
+"ANTIPSYCHOTICS : TRANSDERMAL, ATYPICALS",Secuado,SECUADO (asenapine)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Segluromet,SEGLUROMET (ertugliflozin/metformin)
+ANTIRETROVIRALS : ENTRY INHIBITORS – CCR5 CO-RECEPTOR ANTAGONISTS,Selzentry,SELZENTRY (maraviroc)
+ANTIRETROVIRALS : ENTRY INHIBITORS – CCR5 CO-RECEPTOR ANTAGONISTS,Selzentry oral solution,SELZENTRY (maraviroc)
+ANTIRETROVIRALS : ENTRY INHIBITORS – CCR5 CO-RECEPTOR ANTAGONISTS,Selzentry tablet,SELZENTRY (maraviroc)
+ANTIRETROVIRALS : ENTRY INHIBITORS – CCR5 CO-RECEPTOR ANTAGONISTS,"Selzentry tablet, 150 mg",SELZENTRY (maraviroc)
+ANTIRETROVIRALS : ENTRY INHIBITORS – CCR5 CO-RECEPTOR ANTAGONISTS,"Selzentry tablet, 25 mg",SELZENTRY (maraviroc)
+ANTIRETROVIRALS : ENTRY INHIBITORS – CCR5 CO-RECEPTOR ANTAGONISTS,"Selzentry tablet, 300 mg",SELZENTRY (maraviroc)
+ANTIRETROVIRALS : ENTRY INHIBITORS – CCR5 CO-RECEPTOR ANTAGONISTS,"Selzentry tablet, 75 mg",SELZENTRY (maraviroc)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Semglee,SEMGLEE (insulin glargine-yfgn)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Semglee auto-injector,SEMGLEE (insulin glargine-yfgn)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Semglee vial,SEMGLEE (insulin glargine-yfgn)
+ANTIPSYCHOTICS : ORAL,Seroquel,SEROQUEL (quetiapine)
+ANTIPSYCHOTICS : ORAL,Seroquel XR,SEROQUEL XR (quetiapine ER)
+GROWTH HORMONES,Serostim,SEROSTIM (somatropin)
+PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,Sildenafil 20 mg,sildenafil (generic REVATIO) tablet
+PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,Sildenafil oral suspension,sildenafil (generic REVATIO) suspension
+PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,"Sildenafil oral suspension, labeler 59762",sildenafil (generic REVATIO) suspension
+PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,Sildenafil tablet,sildenafil (generic REVATIO) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),Siliq,SILIQ (brodalumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Siliq Plaque Psoriasis (adult),SILIQ (brodalumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Simlandi Ankylosing Spondylitis,SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Ankylosing Spondylitis, Teva 51759 labeler",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Ankylosing Spondylitis, prefilled syringe",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),Simlandi Crohn's Disease (adult),SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Crohn's Disease (adult), Teva 51759 labeler",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Crohn's Disease (adult), prefilled syringe",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),Simlandi Crohn's Disease (pediatric),SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Crohn's Disease (pediatric), Teva 51759 labeler",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Crohn's Disease (pediatric), prefilled syringe",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),Simlandi Hidradenitis Suppurativa,SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Hidradenitis Suppurativa, Teva 51759 labeler",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Hidradenitis Suppurativa, prefilled syringe",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),Simlandi Plaque Psoriasis (adult),SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Plaque Psoriasis (adult), Teva 51759 labeler",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Plaque Psoriasis (adult), prefilled syringe",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA),SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA), Teva 51759 labeler",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),Simlandi Psoriatic Arthritis (adult),SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Psoriatic Arthritis (adult), Teva 51759 labeler",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Psoriatic Arthritis (adult), prefilled syringe",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),Simlandi Rheumatoid Arthritis,SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Rheumatoid Arthritis, Teva 51759 labeler",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Rheumatoid Arthritis, prefilled syringe",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),Simlandi Ulcerative Colitis (adult),SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Ulcerative Colitis (adult), Teva 51759 labeler",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Ulcerative Colitis (adult), prefilled syringe",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),Simlandi Uveitis (adult),SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Uveitis (adult), Teva 51759 labeler",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi Uveitis (adult), prefilled syringe",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi auto-injector, Ankylosing Spondylitis",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi auto-injector, Crohn's Disease (adult)",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi auto-injector, Crohn's Disease (pediatric)",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi auto-injector, Hidradenitis Suppurativa",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi auto-injector, Plaque Psoriasis (adult)",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi auto-injector, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi auto-injector, Psoriatic Arthritis (adult)",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi auto-injector, Rheumatoid Arthritis",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi auto-injector, Ulcerative Colitis (adult)",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simlandi auto-injector, Uveitis (adult)",SIMLANDI (adalimumab-ryvk)
+CYTOKINE & CAM ANTAGONISTS,Simponi,SIMPONI (golimumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simponi Ankylosing Spondylitis, Aria",SIMPONI ARIA (golimumab)
+CYTOKINE & CAM ANTAGONISTS,"Simponi Ankylosing Spondylitis, SmartJect",SIMPONI (golimumab)
+CYTOKINE & CAM ANTAGONISTS,"Simponi Ankylosing Spondylitis, prefilled syringe",SIMPONI (golimumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",SIMPONI ARIA (golimumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simponi Aria, Psoriatic Arthritis (pediatric)",SIMPONI ARIA (golimumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simponi Psoriatic Arthritis (adult), Aria",SIMPONI ARIA (golimumab)
+CYTOKINE & CAM ANTAGONISTS,"Simponi Psoriatic Arthritis (adult), SmartJect",SIMPONI (golimumab)
+CYTOKINE & CAM ANTAGONISTS,"Simponi Psoriatic Arthritis (adult), prefilled syringe",SIMPONI (golimumab)
+CYTOKINE & CAM ANTAGONISTS,Simponi Rheumatoid Arthritis,SIMPONI (golimumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Simponi Rheumatoid Arthritis, Aria",SIMPONI ARIA (golimumab)
+CYTOKINE & CAM ANTAGONISTS,"Simponi Rheumatoid Arthritis, SmartJect",SIMPONI (golimumab)
+CYTOKINE & CAM ANTAGONISTS,"Simponi Rheumatoid Arthritis, prefilled syringe",SIMPONI (golimumab)
+CYTOKINE & CAM ANTAGONISTS,"Simponi Ulcerative Colitis (adult), SmartJect",SIMPONI (golimumab)
+CYTOKINE & CAM ANTAGONISTS,"Simponi Ulcerative Colitis (adult), prefilled syringe",SIMPONI (golimumab)
+CYTOKINE & CAM ANTAGONISTS,"Simponi prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",SIMPONI (golimumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Skyrizi,SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),Skyrizi Crohn's Disease (adult),SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Crohn's Disease (adult), prefilled cartridge",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Crohn's Disease (adult), prefilled pen",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Crohn's Disease (adult), prefilled syringe",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Crohn's Disease (adult), vial",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),Skyrizi Plaque Psoriasis (adult),SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Plaque Psoriasis (adult), prefilled cartridge",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Plaque Psoriasis (adult), prefilled pen",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Plaque Psoriasis (adult), prefilled syringe",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Plaque Psoriasis (adult), vial",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),Skyrizi Psoriatic Arthritis (adult),SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Psoriatic Arthritis (adult), prefilled cartridge",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Psoriatic Arthritis (adult), prefilled pen",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Psoriatic Arthritis (adult), prefilled syringe",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Psoriatic Arthritis (adult), vial",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),Skyrizi Ulcerative Colitis (adult),SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Ulcerative Colitis (adult), prefilled cartridge",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Ulcerative Colitis (adult), prefilled pen",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Ulcerative Colitis (adult), prefilled syringe",SKYRIZI (risankizumab-rzaa)
+CYTOKINE & CAM ANTAGONISTS (continued),"Skyrizi Ulcerative Colitis (adult), vial",SKYRIZI (risankizumab-rzaa)
+GROWTH HORMONES,Skytrofa,SKYTROFA (lonapegsomatropin-tcgd)
+GROWTH HORMONES,Sogroya,SOGROYA (somapacitan-beco)
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Soliqua,SOLIQUA (insulin glargine/lixisenatide)
+ANTIBIOTICS (VAGINAL),Solosec,SOLOSEC (secnidazole)
+ANTIBIOTICS (VAGINAL),Solosec Bacterial Vaginosis,SOLOSEC (secnidazole)
+ANTIBIOTICS (VAGINAL),Solosec Trichomoniasis,SOLOSEC (secnidazole)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Sorafenib,sorafenib
+"BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : BETA-BLOCKERS",Sorine,SORINE (sotalol)
+CYTOKINE & CAM ANTAGONISTS (continued),Sotyktu Plaque Psoriasis (adult),SOTYKTU (deucravacitinib)
+CYTOKINE & CAM ANTAGONISTS (continued),Sotyktu tablet,SOTYKTU (deucravacitinib)
+CYTOKINE & CAM ANTAGONISTS (continued),"Sotyktu tablet, Plaque Psoriasis (adult)",SOTYKTU (deucravacitinib)
+ANTIPARASITICS (TOPICAL) : PEDICULICIDES,Spinosad topical suspension,spinosad
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,Spiriva Handihaler (Tiotropium Bromide) inhalation capsule,SPIRIVA HANDIHALER (tiotropium)
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,Spiriva Respimat (Tiotropium Bromide) 1.25 mcg,SPIRIVA RESPIMAT (tiotropium) DUR+
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,Spiriva Respimat (Tiotropium Bromide) 2.5 mcg,SPIRIVA RESPIMAT (tiotropium) DUR+
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,Spiriva Respimat (Tiotropium Bromide) inhalation aerosol solution,SPIRIVA RESPIMAT (tiotropium) DUR+
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,"Spiriva Respimat (Tiotropium Bromide) inhalation aerosol solution, 1.25 mcg",SPIRIVA RESPIMAT (tiotropium) DUR+
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,"Spiriva Respimat (Tiotropium Bromide) inhalation aerosol solution, 2.5 mcg",SPIRIVA RESPIMAT (tiotropium) DUR+
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITORS",Steglatro,STEGLATRO (ertugliflozin)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Steglujan,STEGLUJAN (ertugliflozin/sitagliptin)
+CYTOKINE & CAM ANTAGONISTS (continued),Stelara,STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Stelara Crohn's Disease (adult),STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Stelara Crohn's Disease (adult), intravenous vial",STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Stelara Crohn's Disease (adult), prefilled syringe",STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Stelara Crohn's Disease (adult), subcutaneous vial",STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Stelara Plaque Psoriasis (adult),STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Stelara Plaque Psoriasis (adult), prefilled syringe",STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Stelara Plaque Psoriasis (adult), subcutaneous vial",STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Stelara Plaque Psoriasis (pediatric),STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Stelara Plaque Psoriasis (pediatric), prefilled syringe",STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Stelara Plaque Psoriasis (pediatric), subcutaneous vial",STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Stelara Psoriatic Arthritis (adult),STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Stelara Psoriatic Arthritis (adult), prefilled syringe",STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Stelara Psoriatic Arthritis (adult), subcutaneous vial",STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Stelara Psoriatic Arthritis (pediatric),STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Stelara Psoriatic Arthritis (pediatric), prefilled syringe",STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),Stelara Ulcerative Colitis (adult),STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Stelara Ulcerative Colitis (adult), intravenous vial",STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Stelara Ulcerative Colitis (adult), prefilled syringe",STELARA (ustekinumab)
+CYTOKINE & CAM ANTAGONISTS (continued),"Stelara Ulcerative Colitis (adult), subcutaneous vial",STELARA (ustekinumab)
+COLONY STIMULATING FACTORS,Stimufend prefilled syringe,STIMUFEND (pegfilgrastim-fpgk)
+COLONY STIMULATING FACTORS,"Stimufend prefilled syringe, Hematopoietic Syndrome of Acute Radiation Syndrome",STIMUFEND (pegfilgrastim-fpgk)
+COLONY STIMULATING FACTORS,"Stimufend prefilled syringe, Primary Prophylaxis of Chemotherapy-Induced Febrile Neutropenia (FN)",STIMUFEND (pegfilgrastim-fpgk)
+COLONY STIMULATING FACTORS,"Stimufend prefilled syringe, Secondary Prophylaxis of Febrile Neutropenia (FN)",STIMUFEND (pegfilgrastim-fpgk)
+COLONY STIMULATING FACTORS,"Stimufend prefilled syringe, Treatment of Febrile Neutropenia (FN) (off-label)",STIMUFEND (pegfilgrastim-fpgk)
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,Stiolto Respimat,STIOLTO RESPIMAT (tiotropium/olodaterol)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Stivarga,STIVARGA (regorafenib)
+ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,Stribild,STRIBILD (elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate)
+OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,Sublocade,SUBLOCADE (buprenorphine)
+OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,Suboxone,SUBOXONE (buprenorphine/naloxone)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: INJECTABLES",Sumatriptan,sumatriptan
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",Sumatriptan / Naproxen sodium,sumatriptan/naproxen
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Sunosi,SUNOSI (solriamfetol)
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Sunosi Narcolepsy,SUNOSI (solriamfetol)
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Sunosi Obstructive Sleep Apnea,SUNOSI (solriamfetol)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Symbicort,SYMBICORT (budesonide/formoterol)
+ANTIPSYCHOTICS : ORAL,Symbyax,SYMBYAX (olanzapine/fluoxetine)
+ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Sympazan oral film,SYMPAZAN (clobazam)
+ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,Symtuza,SYMTUZA (darunavir/cobicistat/emtricitabine/tenofovir alafenamide)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Synjardy,SYNJARDY (empagliflozin/metformin)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Synjardy XR,SYNJARDY XR (empagliflozin/metformin)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Tabrecta,TABRECTA (capmatinib)
+ATOPIC DERMATITIS,Tacrolimus capsule,tacrolimus
+BPH AGENTS : PHOSPHODIESTERASE TYPE 5 (PDE5) INHIBITORS,Tadalafil,tadalafil
+BPH AGENTS : PHOSPHODIESTERASE TYPE 5 (PDE5) INHIBITORS,Tadalafil 20 mg,tadalafil
+PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,Tadliq,TADLIQ (tadalafil)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Tagrisso,TAGRISSO (osimertinib)
+H. PYLORI COMBINATION TREATMENTS,Talicia,TALICIA (omeprazole/amoxicillin/rifabutin)
+CYTOKINE & CAM ANTAGONISTS,Taltz,TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,Taltz 20 mg,TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,Taltz 40 mg,TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,Taltz 80 mg,TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,Taltz Ankylosing Spondylitis,TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Ankylosing Spondylitis, 80 mg, prefilled syringe",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Ankylosing Spondylitis, auto-injector",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Ankylosing Spondylitis, prefilled syringe",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,Taltz Non-Radiographic Axial Spondyloarthritis,TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Non-Radiographic Axial Spondyloarthritis, 80 mg, prefilled syringe",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Non-Radiographic Axial Spondyloarthritis, auto-injector",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Non-Radiographic Axial Spondyloarthritis, prefilled syringe",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,Taltz Plaque Psoriasis (adult),TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Plaque Psoriasis (adult), 80 mg, prefilled syringe",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Plaque Psoriasis (adult), auto-injector",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Plaque Psoriasis (adult), prefilled syringe",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,Taltz Plaque Psoriasis (pediatric),TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Plaque Psoriasis (pediatric), 20 mg, prefilled syringe",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Plaque Psoriasis (pediatric), 40 mg, prefilled syringe",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Plaque Psoriasis (pediatric), auto-injector",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Plaque Psoriasis (pediatric), prefilled syringe",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,Taltz Psoriatic Arthritis (adult),TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Psoriatic Arthritis (adult), 80 mg, prefilled syringe",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Psoriatic Arthritis (adult), auto-injector",TALTZ (ixekizumab)
+CYTOKINE & CAM ANTAGONISTS,"Taltz Psoriatic Arthritis (adult), prefilled syringe",TALTZ (ixekizumab)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Talzenna,TALZENNA (talazoparib)
+"ANTIVIRALS, ORAL (continued): ANTI-INFLUENZA AGENTS",Tamiflu,TAMIFLU (oseltamivir)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Tarceva,TARCEVA (erlotinib)
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,Taytulla,TAYTULLA (norethindrone/ethinyl estradiol/iron)
+MULTIPLE SCLEROSIS AGENTS,Tecfidera (Dimethyl Fumarate) DR capsule,TECFIDERA (dimethyl fumarate)
+ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Telmisartan,telmisartan
+MULTIPLE SCLEROSIS AGENTS,Teriflunomide,teriflunomide
+BONE RESORPTION SUPPRESSION AND RELATED AGENTS : OTHERS,Teriparatide,teriparatide
+MOVEMENT DISORDER AGENTS,Tetrabenazine,tetrabenazine
+MOVEMENT DISORDER AGENTS,Tetrabenazine 12.5 mg,tetrabenazine
+MOVEMENT DISORDER AGENTS,Tetrabenazine 25 mg,tetrabenazine
+MOVEMENT DISORDER AGENTS,Tetrabenazine Huntington's Disease,tetrabenazine
+MOVEMENT DISORDER AGENTS,Tetrabenazine Tardive Dyskinesia,tetrabenazine
+MOVEMENT DISORDER AGENTS,Tetrabenazine Tourette's Syndrome/Tics,tetrabenazine
+MOVEMENT DISORDER AGENTS,Tetrabenazine Unspecified Hyperkinetic Movement Disorder,tetrabenazine
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Tezspire,TEZSPIRE (tezepelumab-ekko)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Tezspire Asthma (adult),TEZSPIRE (tezepelumab-ekko)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Tezspire Asthma (adult), vial",TEZSPIRE (tezepelumab-ekko)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Tezspire Asthma (pediatric),TEZSPIRE (tezepelumab-ekko)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Tezspire auto-injector,TEZSPIRE (tezepelumab-ekko)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Tezspire auto-injector, Asthma (adult)",TEZSPIRE (tezepelumab-ekko)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Tezspire auto-injector, Asthma (pediatric)",TEZSPIRE (tezepelumab-ekko)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Tezspire prefilled syringe,TEZSPIRE (tezepelumab-ekko)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Tezspire prefilled syringe, Asthma (adult)",TEZSPIRE (tezepelumab-ekko)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Tezspire prefilled syringe, Asthma (pediatric)",TEZSPIRE (tezepelumab-ekko)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Tezspire vial,TEZSPIRE (tezepelumab-ekko)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Tezspire vial, Asthma (pediatric)",TEZSPIRE (tezepelumab-ekko)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Tibsovo,TIBSOVO (ivosidenib)
+ANTIRETROVIRALS : INTEGRASE STRAND TRANSFER INHIBITORS,Tivicay,"TIVICAY, TIVICAY PD (dolutegravir)"
+CYSTIC FIBROSIS AGENTS,Tobi,TOBI (tobramycin)
+CYSTIC FIBROSIS AGENTS,Tobi Podhaler,TOBI PODHALER (tobramycin)
+CYSTIC FIBROSIS AGENTS,"Tobi Podhaler, 28 mg",TOBI PODHALER (tobramycin)
+CYSTIC FIBROSIS AGENTS,Tobi nebulized solution,TOBI (tobramycin)
+CYSTIC FIBROSIS AGENTS,Tobramycin,tobramycin (generic TOBI)
+CYSTIC FIBROSIS AGENTS,Tobramycin 300 mg/4 mL,tobramycin (generic TOBI)
+CYSTIC FIBROSIS AGENTS,Tobramycin 300 mg/5 mL,tobramycin (generic TOBI)
+CYSTIC FIBROSIS AGENTS,Tobramycin generic Bethkis,tobramycin (generic BETHKIS & KITABIS)
+CYSTIC FIBROSIS AGENTS,"Tobramycin generic Bethkis, 300 mg/4 mL",tobramycin (generic BETHKIS & KITABIS)
+CYSTIC FIBROSIS AGENTS,Tobramycin generic Kitabis,tobramycin (generic BETHKIS & KITABIS)
+CYSTIC FIBROSIS AGENTS,Tobramycin generic Tobi,tobramycin (generic TOBI)
+CYSTIC FIBROSIS AGENTS,"Tobramycin generic Tobi, 300 mg/5 mL",tobramycin (generic TOBI)
+CYSTIC FIBROSIS AGENTS,Tobramycin nebulized solution,tobramycin (generic TOBI)
+CYSTIC FIBROSIS AGENTS,"Tobramycin nebulized solution, 300 mg/4 mL",tobramycin (generic TOBI)
+CYSTIC FIBROSIS AGENTS,"Tobramycin nebulized solution, 300 mg/5 mL",tobramycin (generic TOBI)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Topamax Sprinkle,TOPAMAX (topiramate)
+ANTICONVULSANTS : ADJUVANTS,Topiramate tablet,topiramate
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Toujeo Max Solostar,TOUJEO MAX (insulin glargine)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Toujeo Solostar,TOUJEO (insulin glargine)
+PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,Tracleer,TRACLEER (bosentan)
+PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,Tracleer tablet,TRACLEER (bosentan)
+PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,Tracleer tablet for oral suspension,TRACLEER (bosentan)
+PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,"Tracleer tablet for oral suspension, 32 mg",TRACLEER (bosentan)
+PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,"Tracleer tablet, 125 mg",TRACLEER (bosentan)
+PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,"Tracleer tablet, 62.5 mg",TRACLEER (bosentan)
+"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",Tradjenta,TRADJENTA (linagliptin)
+ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Trandolapril,trandolapril
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BATA AGONIST-GLUCOCORTICOIDS COMBINATIONS,Trelegy Ellipta,TRELEGY ELLIPTA (fluticasone/umeclidinium/vilanterol)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Tresiba FlexTouch, U-100",TRESIBA (insulin degludec)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Tresiba FlexTouch, U-200",TRESIBA (insulin degludec)
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Tresiba vial,TRESIBA (insulin degludec)
+"ANTIDEPRESSANTS, OTHER",Trintellix,TRINTELLIX (vortioxetine)
+ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,Triumeq,TRIUMEQ (abacavir/dolutegravir/lamivudine)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Trokendi XR ER capsule,TROKENDI XR (topiramate)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),"Trokendi XR ER capsule, Lennon-Gastaut Syndrome",TROKENDI XR (topiramate)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),"Trokendi XR ER capsule, Migraine Prophylaxis",TROKENDI XR (topiramate)
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Trulicity,TRULICITY (dulaglutide)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Truqap,TRUQAP (capivasertib)
+ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG RTIs,Truvada,TRUVADA (emtricitabine/tenofovir)
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,Tudorza Pressair,TUDORZA PRESSAIR (aclidinium)
+SELECT CONTRACEPTIVE PRODUCTS: TRANSDERMAL CONTRACEPTIVES,Twirla,TWIRLA (levonorgestrel/ethinyl estradiol)
+ANTIRETROVIRALS (continued): PHARMACOENHANCER – CYTOCHROME P450 INHIBITORS,Tybost,TYBOST (cobicistat)
+MULTIPLE SCLEROSIS AGENTS,Tysabri,TYSABRI (natalizumab)
+PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,Tyvaso DPI,TYVASO (treprostinil)
+PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,Tyvaso inhalation solution,TYVASO (treprostinil)
+PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,Tyvaso starter kit,TYVASO (treprostinil)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: CGRP ORAL AND NASAL",Ubrelvy,UBRELVY (ubrogepant)
+COLONY STIMULATING FACTORS,Udenyca,"UDENYCA, UDENYCA ONBODY (pegfilgrastim-cbqv)"
+PULMONARY ANTIHYPERTENSIVE AGENTS: SELECTIVE PROSTACYCLINE RECEPTOR AGONISTS,Uptravi tablet,UPTRAVI (selexipag)
+PULMONARY ANTIHYPERTENSIVE AGENTS: SELECTIVE PROSTACYCLINE RECEPTOR AGONISTS,Uptravi vial,UPTRAVI (selexipag)
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Uzedy,UZEDY (risperidone)
+ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Valsartan,valsartan tablet
+ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Valsartan oral solution,valsartan solution
+ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Valsartan tablet,valsartan tablet
+ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Valtoco,VALTOCO (diazepam)
+ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Valtoco 2-dose pack,VALTOCO (diazepam)
+ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Valtoco 5-dose pack,VALTOCO (diazepam)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Vanflyta,VANFLYTA (quizartinib)
+ULCERATIVE COLITIS & CROHN’S AGENTS : ORAL,Velsipity (Etrasimod) Ulcerative Colitis (adult),VELSIPITY (etrasimod)
+ULCERATIVE COLITIS & CROHN’S AGENTS : ORAL,Velsipity (Etrasimod) tablet,VELSIPITY (etrasimod)
+ULCERATIVE COLITIS & CROHN’S AGENTS : ORAL,"Velsipity (Etrasimod) tablet, Ulcerative Colitis (adult)",VELSIPITY (etrasimod)
+HEPATITIS B TREATMENTS,Vemlidy,VEMLIDY (tenofovir alafenamide)
+PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,Ventavis,VENTAVIS (iloprost)
+"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, SHORT ACTING",Ventolin HFA,VENTOLIN HFA (albuterol)
+ANTIPSYCHOTICS : ORAL,Versacloz,VERSACLOZ (clozapine)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Verzenio,VERZENIO (abemaciclib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Verzenio tablet,VERZENIO (abemaciclib)
+IRRITABLE BOWEL SYNDROME/SHORT BOWEL SYNDROME AGENTS/SELECTED AGENTS (continued): IRRITABLE BOWEL SYNDROME – DIARRHEA,Viberzi,"VIBERZI [New starts require clinical review] o Documented diagnosis of IBS – D in the past year and 1 claim for Viberzi in the past 105 days 
+LOTRONEX 
+o 1 claim for LOTRONEX in the past 105 days OR o New starts require clinical review – MANUAL PA 
+• XIFAXAN – (see Antibiotics, GI)"
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Victoza,VICTOZA (liraglutide)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Vigabatrin Infantile spasms,vigabatrin
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Vigabatrin Refractory complex partial seizures,vigabatrin
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Vigabatrin packet for oral solution,vigabatrin
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Vigabatrin tablet,vigabatrin
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Vigafyde oral solution,VIGAFYDE (vigabatrin)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Vigpoder,VIGPODER (vigabatrin)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Vigpoder Infantile Spasms,VIGPODER (vigabatrin)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Vigpoder Refractory Complex Partial Seizures,VIGPODER (vigabatrin)
+"ANTIDEPRESSANTS, OTHER",Viibryd,VIIBRYD (vilazodone)
+MUSCULAR DYSTROPHY AGENTS,Viltepso,VILTEPSO (viltolarsen)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Vimpat,VIMPAT (lacosamide)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Vimpat oral solution,VIMPAT (lacosamide)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Vimpat tablet,VIMPAT (lacosamide)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Vimpat titration pack,VIMPAT (lacosamide)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Vimpat vial,VIMPAT (lacosamide)
+ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (PEPTIDIC),Viracept,VIRACEPT (nelfinavir)
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Viread,VIREAD (tenofovir disoproxil fumarate)
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Viread 300 mg,VIREAD (tenofovir disoproxil fumarate)
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),"Viread 300 mg, tablet",VIREAD (tenofovir disoproxil fumarate)
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Viread powder,VIREAD (tenofovir disoproxil fumarate)
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Viread tablet,VIREAD (tenofovir disoproxil fumarate)
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),"Viread tablet, 150 mg",VIREAD (tenofovir disoproxil fumarate)
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),"Viread tablet, 200 mg",VIREAD (tenofovir disoproxil fumarate)
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),"Viread tablet, 250 mg",VIREAD (tenofovir disoproxil fumarate)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Vitrakvi capsule,VITRAKVI (larotrectinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Vitrakvi oral solution,VITRAKVI (larotrectinib)
+OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,Vivitrol,VIVITROL (naltrexone)
+OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,Vivitrol Alcohol Use Disorder,VIVITROL (naltrexone)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Vizimpro,VIZIMPRO (dacomitinib)
+GI ULCER THERAPIES: OTHERS,Voquezna,VOQUEZNA (vonoprazan)
+H. PYLORI COMBINATION TREATMENTS,Voquezna Dual Pak,VOQUEZNA DUAL PAK (vonoprazan/amoxicillin)
+GI ULCER THERAPIES: OTHERS,Voquezna Erosive Esophagitis,VOQUEZNA (vonoprazan)
+GI ULCER THERAPIES: OTHERS,Voquezna H. pylori infection,VOQUEZNA (vonoprazan)
+H. PYLORI COMBINATION TREATMENTS,Voquezna Triple Pak,"VOQUEZNA TRIPLE PAK 
+(vonoprazan/amoxicillin/clarithromycin)"
+GI ULCER THERAPIES: OTHERS,"Voquezna tablet, Erosive Esophagitis, 10mg",VOQUEZNA (vonoprazan)
+GI ULCER THERAPIES: OTHERS,"Voquezna tablet, Erosive Esophagitis, 20mg",VOQUEZNA (vonoprazan)
+GI ULCER THERAPIES: OTHERS,"Voquezna tablet, H. pylori infection, 20mg",VOQUEZNA (vonoprazan)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Votrient,VOTRIENT (pazopanib)
+GROWTH HORMONES,Voxzogo,VOXZOGO (vosoritide)
+ANTIPSYCHOTICS : ORAL,Vraylar,VRAYLAR (cariprazine)
+ANTIPSYCHOTICS : ORAL,Vraylar Adjunct treatment of major depression disorder,VRAYLAR (cariprazine)
+ANTIPSYCHOTICS : ORAL,Vraylar Bipolar 1 disorder,VRAYLAR (cariprazine)
+ANTIPSYCHOTICS : ORAL,"Vraylar Bipolar I Disorder, acute mixed or manic episodes",VRAYLAR (cariprazine)
+ANTIPSYCHOTICS : ORAL,Vraylar Depressed Bipolar I Disorder,VRAYLAR (cariprazine)
+ANTIPSYCHOTICS : ORAL,Vraylar Schizophrenia / Schizoaffective disorder,VRAYLAR (cariprazine)
+ANTIPSORIATICS (TOPICAL),Vtama Atopic Dermatitis,VTAMA (tapinarof)
+ANTIPSORIATICS (TOPICAL),Vtama Plaque Psoriasis,VTAMA (tapinarof)
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES",Vyepti,VYEPTI (eptinezumab-jjmr)
+MUSCULAR DYSTROPHY AGENTS,Vyondys 53,VYONDYS-53 (golodirsen)
+STIMULANTS AND RELATED AGENTS : LONG-ACTING,Vyvanse capsule,VYVANSE (lisdexamfetamine) capsules
+STIMULANTS AND RELATED AGENTS : LONG-ACTING,Vyvanse chewable tablet,VYVANSE (lisdexamfetamine) chewable tablets
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Wakix,WAKIX (pitolisant)
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Wakix Cataplexy,WAKIX (pitolisant)
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Wakix Excessive Daytime Sleepiness,WAKIX (pitolisant)
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Wakix Idiopathic Hypersomnia,WAKIX (pitolisant)
+ANTIOBESITY SELECT AGENTS,Wegovy,WEGOVY (semaglutide)
+ACNE AGENTS: ANTI-INFECTIVES,Winlevi,WINLEVI (clascoterone) cream
+PULMONARY ANTIHYPERTENSIVE AGENTS: ACTIVIN SIGNALING INHIBITORS,Winrevair vial,WINREVAIR (sotatercept-csrk)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Wixela,WIXELA INHUB (fluticasone/salmeterol)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Wixela 100-50 mcg,WIXELA INHUB (fluticasone/salmeterol)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Wixela 250-50 mcg,WIXELA INHUB (fluticasone/salmeterol)
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Wixela 500-50 mcg,WIXELA INHUB (fluticasone/salmeterol)
+ANTIBIOTICS (VAGINAL),Xaciato,XACIATO (clindamycin)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Xalkori capsule,XALKORI (crizotinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Xalkori sprinkle capsule,XALKORI (crizotinib)
+ANTICOAGULANTS: ORAL,Xarelto,XARELTO (rivaroxaban)
+ANTICOAGULANTS: ORAL,Xarelto 10 mg,XARELTO (rivaroxaban)
+ANTICOAGULANTS: ORAL,Xarelto 15 mg,XARELTO (rivaroxaban)
+ANTICOAGULANTS: ORAL,Xarelto 2.5 mg,XARELTO (rivaroxaban)
+ANTICOAGULANTS: ORAL,Xarelto 20 mg,XARELTO (rivaroxaban)
+ANTICOAGULANTS: ORAL,Xarelto oral suspension,XARELTO (rivaroxaban)
+ANTICOAGULANTS: ORAL,Xarelto starter pack,XARELTO (rivaroxaban)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Xcopri,XCOPRI (cenobamate)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Xcopri dose pack,XCOPRI (cenobamate)
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Xcopri tablet,XCOPRI (cenobamate)
+CYTOKINE & CAM ANTAGONISTS (continued),Xeljanz,XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),Xeljanz Ankylosing Spondylitis,XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Ankylosing Spondylitis, 10 mg, IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Ankylosing Spondylitis, 5 mg, IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Ankylosing Spondylitis, IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Ankylosing Spondylitis, oral solution",XELJANZ (tofacitinib) solution
+CYTOKINE & CAM ANTAGONISTS (continued),Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA),XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), 10 mg, IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), 5 mg, IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), oral solution",XELJANZ (tofacitinib) solution
+CYTOKINE & CAM ANTAGONISTS (continued),Xeljanz Psoriatic Arthritis (adult),XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Psoriatic Arthritis (adult), 10 mg, IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Psoriatic Arthritis (adult), 5 mg, IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Psoriatic Arthritis (adult), IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Psoriatic Arthritis (adult), oral solution",XELJANZ (tofacitinib) solution
+CYTOKINE & CAM ANTAGONISTS (continued),Xeljanz Rheumatoid Arthritis,XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Rheumatoid Arthritis, 10 mg, IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Rheumatoid Arthritis, 5 mg, IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Rheumatoid Arthritis, IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Rheumatoid Arthritis, oral solution",XELJANZ (tofacitinib) solution
+CYTOKINE & CAM ANTAGONISTS (continued),Xeljanz Ulcerative Colitis (adult),XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Ulcerative Colitis (adult), 10 mg, IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Ulcerative Colitis (adult), 5 mg, IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Ulcerative Colitis (adult), IR tablet",XELJANZ (tofacitinib) tablet
+CYTOKINE & CAM ANTAGONISTS (continued),"Xeljanz Ulcerative Colitis (adult), oral solution",XELJANZ (tofacitinib) solution
+MOVEMENT DISORDER AGENTS,Xenazine,XENAZINE (tetrabenazine)
+MOVEMENT DISORDER AGENTS,Xenazine Huntington's Disease,XENAZINE (tetrabenazine)
+MOVEMENT DISORDER AGENTS,Xenazine Tardive Dyskinesia,XENAZINE (tetrabenazine)
+MOVEMENT DISORDER AGENTS,Xenazine Tourette's syndrome,XENAZINE (tetrabenazine)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Xigduo XR,XIGDUO XR (dapagliflozin/metformin)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Xigduo XR 10 mg/1000 mg,XIGDUO XR (dapagliflozin/metformin)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Xigduo XR 10 mg/500 mg,XIGDUO XR (dapagliflozin/metformin)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Xigduo XR 2.5 mg/1000 mg,XIGDUO XR (dapagliflozin/metformin)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Xigduo XR 5 mg/1000 mg,XIGDUO XR (dapagliflozin/metformin)
+"HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Xigduo XR 5 mg/500 mg,XIGDUO XR (dapagliflozin/metformin)
+"ANTIVIRALS, ORAL (continued): ANTI-INFLUENZA AGENTS",Xofluza,XOFLUZA (baloxavir)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Xolair Asthma (adult),XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Xolair Asthma (pediatric),XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Xolair Chronic Rhinosinusitis with Nasal Polyposis,XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Xolair Chronic Spontaneous Urticaria (CSU),XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Xolair IgE-Mediated Food Allergy,XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,Xolair auto-injector,XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair auto-injector, Asthma (adult)",XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair auto-injector, Asthma (pediatric)",XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair auto-injector, Chronic Spontaneous Urticaria (CSU)",XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair auto-injector, IgE-Mediated Food Allergy",XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair prefilled syringe, Asthma (adult)",XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair prefilled syringe, Asthma (pediatric)",XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair prefilled syringe, Chronic Spontaneous Urticaria (CSU)",XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair prefilled syringe, IgE-Mediated Food Allergy",XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair vial, Asthma (adult)",XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair vial, Asthma (pediatric)",XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair vial, Chronic Rhinosinusitis with Nasal Polyposis",XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair vial, Chronic Spontaneous Urticaria (CSU)",XOLAIR (omalizumab)
+IMMUNOLOGIC THERAPIES FOR ASTHMA,"Xolair vial, IgE-Mediated Food Allergy",XOLAIR (omalizumab)
+"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, SHORT ACTING",Xopenex HFA,XOPENEX HFA (levalbuterol)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Xtandi,XTANDI (enzalutamide)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Xtandi capsule,XTANDI (enzalutamide)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Xtandi tablet,XTANDI (enzalutamide)
+SELECT CONTRACEPTIVE PRODUCTS: TRANSDERMAL CONTRACEPTIVES,Xulane,XULANE (norelgestromin/ethinyl estradiol)
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Xultophy,XULTOPHY (insulin degludec/liraglutide)
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Xyrem,XYREM (sodium oxybate)
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Xyrem Cataplexy,XYREM (sodium oxybate)
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Xyrem Excessive Daytime Sleepiness,XYREM (sodium oxybate)
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Xyrem Idiopathic Hypersomnia,XYREM (sodium oxybate)
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Xywav,XYWAV (calcium/magnesium/potassium/sodium oxybate)
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Xywav Cataplexy,XYWAV (calcium/magnesium/potassium/sodium oxybate)
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,"Xywav Cataplexy, Excessive Daytime Sleepiness",XYWAV (calcium/magnesium/potassium/sodium oxybate)
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Xywav Excessive Daytime Sleepiness,XYWAV (calcium/magnesium/potassium/sodium oxybate)
+STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Xywav Idiopathic Hypersomnia,XYWAV (calcium/magnesium/potassium/sodium oxybate)
+CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Ankylosing Spondylitis,YUSIMRY (adalimumab-aqvh)
+CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Crohn's Disease (adult),YUSIMRY (adalimumab-aqvh)
+CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Crohn's Disease (pediatric),YUSIMRY (adalimumab-aqvh)
+CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Hidradenitis Suppurativa,YUSIMRY (adalimumab-aqvh)
+CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Plaque Psoriasis (adult),YUSIMRY (adalimumab-aqvh)
+CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Polyarticular Juvenile Idiopathic Arthritis (PJIA),YUSIMRY (adalimumab-aqvh)
+CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Psoriatic Arthritis (adult),YUSIMRY (adalimumab-aqvh)
+CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Rheumatoid Arthritis,YUSIMRY (adalimumab-aqvh)
+CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Ulcerative Colitis (adult),YUSIMRY (adalimumab-aqvh)
+CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Uveitis (adult),YUSIMRY (adalimumab-aqvh)
+SELECT CONTRACEPTIVE PRODUCTS: TRANSDERMAL CONTRACEPTIVES,Zafemy,ZAFEMY (norelgestromin/ethinyl estradiol)
+COLONY STIMULATING FACTORS,Zarxio,ZARXIO (filgrastim-sndz)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: CGRP ORAL AND NASAL",Zavzpret,ZAVZPRET (zavegepant)
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Zegerid,ZEGERID (omeprazole/sodium bicarbonate)
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Zegerid capsule,ZEGERID (omeprazole/sodium bicarbonate)
+GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Zegerid packet,ZEGERID (omeprazole/sodium bicarbonate)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Zejula,ZEJULA (niraparib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Zejula Tablet,ZEJULA (niraparib)
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: INJECTABLES",Zembrace,ZEMBRACE SYMTOUCH (sumatriptan)
