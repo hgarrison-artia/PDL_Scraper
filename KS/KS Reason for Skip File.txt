@@ -1,0 +1,3 @@
+Kansas's PDL is created with Microsoft Word for Microsoft 365 by Nicole Ellermeier. This pdf file can be converted into different formats, including .docx and .xlsx through Adobe Desktop App. 
+The Word version places all drugs in a class into one cell, with no pattern i.e. '\n' or '\t'
+The Excel version merges multiple columns and also puts everything in one cell, so it seems difficult to code.
