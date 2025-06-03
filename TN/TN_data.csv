@@ -1,2 +1,172 @@
 therapeutic_class,capsule_name,pdl_name
 CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Abilify,Abilify tablets
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Abilify Asimtufii,Abilify Asimtufii
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Abilify Maintena,Abilify Maintena
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Abilify MyCite,Abilify MyCite
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Abilify tablet,Abilify tablets
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra ACTPen, Giant Cell Arteritis","Actemra, Actemra ACTPen"
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra ACTPen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Actemra, Actemra ACTPen"
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra ACTPen, Rheumatoid Arthritis","Actemra, Actemra ACTPen"
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)","Actemra, Actemra ACTPen"
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","Actemra, Actemra ACTPen"
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Adbry,Adbry
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Adcirca,Adcirca
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Adempas,Adempas
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Admelog SoloStar,Admelog SoloStar
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Advair Diskus,Advair Diskus
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Advair HFA,Advair Diskus
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Aimovig,Aimovig
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Airduo Respiclick,AirDuo RespiClick
+ONCOLOGY AGENTS : Hormonal Agents: Anti-Androgens Second Generation,Akeega,Akeega
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Albuterol HFA Sandoz labeler code 00781,albuterol HFA
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Albuterol HFA Teva labeler code 00093,albuterol HFA
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Albuterol HFA generic PROAIR,albuterol HFA
+OPHTHALMICS : Ophthalmic Alpha-2 Agonists,Alphagan P 0.1%,Alphagan P
+RESPIRATORY : Inhaled: Steroids,Alvesco,Alvesco
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Alyq,Alyq
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Alyq 20 mg,Alyq
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Ambien,Ambien
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Ambien CR,Ambien CR
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Ambrisentan,ambrisentan
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Ankylosing Spondylitis,Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ankylosing Spondylitis, 100 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ankylosing Spondylitis, 10mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ankylosing Spondylitis, 20mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ankylosing Spondylitis, 20mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ankylosing Spondylitis, 40mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ankylosing Spondylitis, 40mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ankylosing Spondylitis, 50 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ankylosing Spondylitis, 80mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ankylosing Spondylitis, Amgen 55513 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ankylosing Spondylitis, Amgen 72511 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Crohn's Disease (adult),Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (adult), 100 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (adult), 10mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (adult), 20mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (adult), 20mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (adult), 40mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (adult), 40mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (adult), 50 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (adult), 80mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (adult), Amgen 55513 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (adult), Amgen 72511 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Crohn's Disease (pediatric),Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (pediatric), 100 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (pediatric), 10mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (pediatric), 20mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (pediatric), 20mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (pediatric), 40mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (pediatric), 40mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (pediatric), 50 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (pediatric), 80mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (pediatric), Amgen 55513 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Crohn's Disease (pediatric), Amgen 72511 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Hidradenitis Suppurativa,Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Hidradenitis Suppurativa, 100 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Hidradenitis Suppurativa, 10mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Hidradenitis Suppurativa, 20mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Hidradenitis Suppurativa, 20mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Hidradenitis Suppurativa, 40mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Hidradenitis Suppurativa, 40mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Hidradenitis Suppurativa, 50 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Hidradenitis Suppurativa, 80mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Hidradenitis Suppurativa, Amgen 55513 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Hidradenitis Suppurativa, Amgen 72511 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Plaque Psoriasis (adult),Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Plaque Psoriasis (adult), 100 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Plaque Psoriasis (adult), 10mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Plaque Psoriasis (adult), 20mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Plaque Psoriasis (adult), 20mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Plaque Psoriasis (adult), 40mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Plaque Psoriasis (adult), 40mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Plaque Psoriasis (adult), 50 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Plaque Psoriasis (adult), 80mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Plaque Psoriasis (adult), Amgen 55513 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Plaque Psoriasis (adult), Amgen 72511 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA),Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 100 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 10mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 20mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 20mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 40mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 40mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 50 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 80mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), Amgen 55513 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), Amgen 72511 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Psoriatic Arthritis (adult),Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Psoriatic Arthritis (adult), 100 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Psoriatic Arthritis (adult), 10mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Psoriatic Arthritis (adult), 20mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Psoriatic Arthritis (adult), 20mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Psoriatic Arthritis (adult), 40mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Psoriatic Arthritis (adult), 40mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Psoriatic Arthritis (adult), 50 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Psoriatic Arthritis (adult), 80mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Psoriatic Arthritis (adult), Amgen 55513 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Psoriatic Arthritis (adult), Amgen 72511 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Rheumatoid Arthritis,Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Rheumatoid Arthritis, 100 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Rheumatoid Arthritis, 10mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Rheumatoid Arthritis, 20mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Rheumatoid Arthritis, 20mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Rheumatoid Arthritis, 40mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Rheumatoid Arthritis, 40mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Rheumatoid Arthritis, 50 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Rheumatoid Arthritis, 80mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Rheumatoid Arthritis, Amgen 55513 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Rheumatoid Arthritis, Amgen 72511 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Ulcerative Colitis (adult),Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ulcerative Colitis (adult), 100 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ulcerative Colitis (adult), 10mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ulcerative Colitis (adult), 20mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ulcerative Colitis (adult), 20mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ulcerative Colitis (adult), 40mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ulcerative Colitis (adult), 40mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ulcerative Colitis (adult), 50 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ulcerative Colitis (adult), 80mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ulcerative Colitis (adult), Amgen 55513 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Ulcerative Colitis (adult), Amgen 72511 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Uveitis (adult),Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Uveitis (adult), 100 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Uveitis (adult), 10mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Uveitis (adult), 20mg/0.2mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Uveitis (adult), 20mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Uveitis (adult), 40mg/0.4mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Uveitis (adult), 40mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Uveitis (adult), 50 mg/mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Uveitis (adult), 80mg/0.8mL",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Uveitis (adult), Amgen 55513 labeler",Amjevita
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Amjevita Uveitis (adult), Amgen 72511 labeler",Amjevita
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Amrix,Amrix 
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Annovera,Annovera
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Anoro Ellipta,Anoro Ellipta
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Apidra SoloStar,Apidra SoloStar
+CENTRAL NERVOUS SYSTEM : Antidepressants: New Generation,Aplenzin,Aplenzin
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Aptiom,Aptiom
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Aptivus,Aptivus
+RARE CONDITIONS : Lysosomal Storage Disease,Aqneursa oral suspension,Aqneursa
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,Aranesp,Aranesp
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Arcalyst,Arcalyst
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Aricept,Aricept
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Aricept 23 mg,Aricept 23 mg
+"ANTI-INFECTIVES : Antibiotics: Aminoglycosides, Oral",Arikayce,Arikayce
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Aripiprazole ODT,aripiprazole ODT
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Aripiprazole oral solution,aripiprazole solution
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Aripiprazole tablet,aripiprazole tablets
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Aristada,Aristada
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Aristada Initio,Aristada Initio
+RESPIRATORY : Inhaled: Steroids,Arnuity Ellipta,Arnuity Ellipta
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Asenapine,asenapine
+RESPIRATORY : Inhaled: Steroids,Asmanex HFA,Asmanex HFA
+RESPIRATORY : Inhaled: Steroids,Asmanex Twisthaler,Asmanex Twisthaler
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Aubagio tablet,Aubagio
+RENAL AND GENITOURINARY : Phosphorus Depletors,Auryxia,Auryxia
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Austedo,Austedo
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Austedo XR,Austedo XR
+CENTRAL NERVOUS SYSTEM : Antidepressants: New Generation,Auvelity,Auvelity
+RESPIRATORY : Anaphylaxis Therapy Agents,Auvi-Q 0.1 mg,Auvi-Q
+RESPIRATORY : Anaphylaxis Therapy Agents,Auvi-Q 0.15 mg,Auvi-Q
+RESPIRATORY : Anaphylaxis Therapy Agents,Auvi-Q 0.3 mg,Auvi-Q
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",Avonex auto-injector,Avonex
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Azstarys,Azstarys
