@@ -1,7 +1,7 @@
 import pandas as pd
 import openpyxl
 
-state = input("Choose a State")
+state = input("Choose a State!: ")
 
 # Load workbook and sheet
 wb = openpyxl.load_workbook(f"{state}/{state}_output_data.xlsx")
