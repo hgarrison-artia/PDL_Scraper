@@ -1,0 +1,1905 @@
+therapeutic_class,capsule_name,pdl_name,status
+ANTIPSYCHOTICS - ATYPICAL,Abilify,ABILIFY TABLET (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Abilify Asimtufii,ABILIFY ASIMTUFII (INTRAMUSC),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Abilify Maintena,ABILIFY MAINTENA (INTRAMUSC.),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Abilify MyCite,ABILIFY MYCITE (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Abilify tablet,ABILIFY TABLET (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Abrilada Ankylosing Spondylitis,ABRILADA KIT (INJECTION) (CF) 50 MG/ ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Abrilada Crohn's Disease (adult),ABRILADA KIT (INJECTION) (CF) 50 MG/ ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Abrilada Crohn's Disease (pediatric),ABRILADA KIT (INJECTION) (CF) 50 MG/ ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Abrilada Hidradenitis Suppurativa,ABRILADA KIT (INJECTION) (CF) 50 MG/ ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Abrilada Plaque Psoriasis (adult),ABRILADA KIT (INJECTION) (CF) 50 MG/ ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Abrilada Polyarticular Juvenile Idiopathic Arthritis (PJIA),ABRILADA KIT (INJECTION) (CF) 50 MG/ ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Abrilada Psoriatic Arthritis (adult),ABRILADA KIT (INJECTION) (CF) 50 MG/ ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Abrilada Rheumatoid Arthritis,ABRILADA KIT (INJECTION) (CF) 50 MG/ ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Abrilada Ulcerative Colitis (adult),ABRILADA KIT (INJECTION) (CF) 50 MG/ ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Abrilada Uveitis (adult),ABRILADA KIT (INJECTION) (CF) 50 MG/ ML,Non-Preferred
+PROTON PUMP INHIBITORS,Aciphex,ACIPHEX TABLETS (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra ACTPen, Giant Cell Arteritis",ACTEMRA PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra ACTPen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra ACTPen, Rheumatoid Arthritis",ACTEMRA PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",ACTEMRA PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Actemra Cytokine Release Syndrome,ACTEMRA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Actemra prefilled syringe,ACTEMRA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra prefilled syringe, Cytokine Release Syndrome",ACTEMRA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra prefilled syringe, Giant Cell Arteritis",ACTEMRA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra prefilled syringe, Rheumatoid Arthritis",ACTEMRA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",ACTEMRA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Actemra syringe/vial,ACTEMRA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Actemra vial,ACTEMRA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra vial, Coronavirus Disease 2019",ACTEMRA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra vial, Cytokine Release Syndrome",ACTEMRA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra vial, Giant Cell Arteritis",ACTEMRA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra vial, Rheumatoid Arthritis",ACTEMRA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adaz Ankylosing Spondylitis,ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Ankylosing Spondylitis, auto-injector",ADALIMUMAB-ADAZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Ankylosing Spondylitis, prefilled syringe",ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adaz Crohn's Disease (adult),ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Crohn's Disease (adult), auto-injector",ADALIMUMAB-ADAZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Crohn's Disease (adult), prefilled syringe",ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adaz Crohn's Disease (pediatric),ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Crohn's Disease (pediatric), auto-injector",ADALIMUMAB-ADAZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Crohn's Disease (pediatric), prefilled syringe",ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adaz Hidradenitis Suppurativa,ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Hidradenitis Suppurativa, auto-injector",ADALIMUMAB-ADAZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Hidradenitis Suppurativa, prefilled syringe",ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adaz Plaque Psoriasis (adult),ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Plaque Psoriasis (adult), auto-injector",ADALIMUMAB-ADAZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Plaque Psoriasis (adult), prefilled syringe",ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA),ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",ADALIMUMAB-ADAZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adaz Psoriatic Arthritis (adult),ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Psoriatic Arthritis (adult), auto-injector",ADALIMUMAB-ADAZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Psoriatic Arthritis (adult), prefilled syringe",ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adaz Rheumatoid Arthritis,ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Rheumatoid Arthritis, auto-injector",ADALIMUMAB-ADAZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Rheumatoid Arthritis, prefilled syringe",ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adaz Ulcerative Colitis (adult),ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Ulcerative Colitis (adult), auto-injector",ADALIMUMAB-ADAZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Ulcerative Colitis (adult), prefilled syringe",ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adaz Uveitis (adult),ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Uveitis (adult), auto-injector",ADALIMUMAB-ADAZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adaz Uveitis (adult), prefilled syringe",ADALIMUMAB-ADAZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adbm Ankylosing Spondylitis,ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Ankylosing Spondylitis, Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Ankylosing Spondylitis, Non Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Ankylosing Spondylitis, Non Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Ankylosing Spondylitis, Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (QUALLENT) (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adbm Crohn's Disease (adult),ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (adult), Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (adult), Non Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (adult), Non Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (adult), Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (QUALLENT) (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adbm Crohn's Disease (pediatric),ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (pediatric), Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (pediatric), Non Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (pediatric), Non Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Crohn's Disease (pediatric), Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (QUALLENT) (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adbm Hidradenitis Suppurativa,ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Hidradenitis Suppurativa, Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Hidradenitis Suppurativa, Non Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Hidradenitis Suppurativa, Non Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Hidradenitis Suppurativa, Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (QUALLENT) (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adbm Plaque Psoriasis (adult),ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Plaque Psoriasis (adult), Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Plaque Psoriasis (adult), Non Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Plaque Psoriasis (adult), Non Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Plaque Psoriasis (adult), Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (QUALLENT)(INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA),ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Non Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Non Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (QUALLENT)(INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adbm Psoriatic Arthritis (adult),ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Psoriatic Arthritis (adult), Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Psoriatic Arthritis (adult), Non Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Psoriatic Arthritis (adult), Non Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Psoriatic Arthritis (adult), Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (QUALLENT) (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adbm Rheumatoid Arthritis,ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Rheumatoid Arthritis, Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Rheumatoid Arthritis, Non Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Rheumatoid Arthritis, Non Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Rheumatoid Arthritis, Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (QUALLENT) (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adbm Ulcerative Colitis (adult),ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Ulcerative Colitis (adult), Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Ulcerative Colitis (adult), Non Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Ulcerative Colitis (adult), Non Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Ulcerative Colitis (adult), Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (QUALLENT) (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-adbm Uveitis (adult),ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Uveitis (adult), Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Uveitis (adult), Non Boehringer 00597 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Uveitis (adult), Non Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (BI) (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Adalimumab-adbm Uveitis (adult), Quallent 82009 labeler",ADALIMUMAB-ADBM KIT (QUALLENT) (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-fkjp Ankylosing Spondylitis,ADALIMUMAB-FKJP KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-fkjp Crohn's Disease (adult),ADALIMUMAB-FKJP KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-fkjp Crohn's Disease (pediatric),ADALIMUMAB-FKJP KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-fkjp Hidradenitis Suppurativa,ADALIMUMAB-FKJP KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-fkjp Plaque Psoriasis (adult),ADALIMUMAB-FKJP KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-fkjp Polyarticular Juvenile Idiopathic Arthritis (PJIA),ADALIMUMAB-FKJP KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-fkjp Psoriatic Arthritis (adult),ADALIMUMAB-FKJP KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-fkjp Rheumatoid Arthritis,ADALIMUMAB-FKJP KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-fkjp Ulcerative Colitis (adult),ADALIMUMAB-FKJP KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Adalimumab-fkjp Uveitis (adult),ADALIMUMAB-FKJP KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Adbry,ADBRY (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Adbry Atopic Dermatitis (adult),ADBRY (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Adbry Atopic Dermatitis (adult), auto-injector",ADBRY AUTOINJECTOR (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Adbry Atopic Dermatitis (adult), prefilled syringe",ADBRY (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Adbry Atopic Dermatitis (pediatric),ADBRY (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Adbry auto-injector,ADBRY AUTOINJECTOR (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Adbry prefilled syringe,ADBRY (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Adbry prefilled syringe, Atopic Dermatitis (pediatric)",ADBRY (SUBCUTANEOUS),Preferred
+"PAH AGENTS, ORAL AND INHALED",Adcirca,ADCIRCA (ORAL),Non-Preferred
+STIMULANTS AND RELATED AGENTS,Adderall XR ER capsule,ADDERALL XR (ORAL),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Adempas,ADEMPAS (ORAL),Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Adlyxin,ADLYXIN (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Admelog,ADMELOG VIAL (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Admelog SoloStar,ADMELOG SOLOSTAR PEN (SUBCUTANE.),Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Advair Diskus,ADVAIR DISKUS (INHALATION),Preferred
+"GLUCOCORTICOIDS, INHALED",Advair HFA,ADVAIR HFA (INHALATION),Preferred
+HEMOPHILIA TREATMENT,Advate,ADVATE (INTRAVEN.),Preferred
+HEMOPHILIA TREATMENT,Adynovate,ADYNOVATE (INTRAVEN),Preferred
+HEMOPHILIA TREATMENT,Afstyla,AFSTYLA (INTRAVEN),Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Aimovig,AIMOVIG,Preferred
+"GLUCOCORTICOIDS, INHALED",Airduo Digihaler,AIRDUO DIGIHALER (INHALATION),Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Airduo Respiclick,AIRDUO RESPICLICK (INHALATION),Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Airsupra HFA,AIRSUPRA HFA (INHALATION),Non-Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Ajovy,AJOVY,Preferred
+"BRONCHODILATORS, BETA AGONIST",Albuterol HFA Sandoz labeler code 00781,ALBUTEROL HFA (INHALATION),Preferred
+"BRONCHODILATORS, BETA AGONIST",Albuterol HFA Teva labeler code 00093,ALBUTEROL HFA (INHALATION),Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Almotriptan,ALMOTRIPTAN (AG) (ORAL),Non-Preferred
+"OPHTHALMICS, GLAUCOMA AGENTS",Alphagan P 0.1%,ALPHAGAN P 0.1% (OPHTHALMIC),Preferred
+HEMOPHILIA TREATMENT,Alprolix,ALPROLIX (INTRAVEN),Preferred
+HEMOPHILIA TREATMENT,Altuviiio,ALTUVIIIO (INTRAVEN),Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Alvesco,ALVESCO (INHALATION),Preferred
+SEDATIVE HYPNOTICS,Ambien,AMBIEN (ORAL),Non-Preferred
+SEDATIVE HYPNOTICS,Ambien CR,AMBIEN CR (ORAL),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Ambrisentan,AMBRISENTAN (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Amjevita Ankylosing Spondylitis,AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 100 mg/mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 10mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 20mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 20mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 40mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 40mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 50 mg/mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, 80mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, Amgen 55513 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ankylosing Spondylitis, Amgen 72511 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Amjevita Crohn's Disease (adult),AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 100 mg/mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 10mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 20mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 20mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 40mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 40mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 50 mg/mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), 80mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), Amgen 55513 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (adult), Amgen 72511 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Amjevita Crohn's Disease (pediatric),AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 100 mg/mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 10mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 20mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 20mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 40mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 40mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 50 mg/mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), 80mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), Amgen 55513 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Crohn's Disease (pediatric), Amgen 72511 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Amjevita Hidradenitis Suppurativa,AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 100 mg/mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 10mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 20mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 20mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 40mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 40mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 50 mg/mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, 80mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, Amgen 55513 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Hidradenitis Suppurativa, Amgen 72511 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Amjevita Plaque Psoriasis (adult),AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 100 mg/mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 10mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 20mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 20mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 40mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 40mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 50 mg/mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), 80mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), Amgen 55513 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Plaque Psoriasis (adult), Amgen 72511 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA),AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 100 mg/mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 10mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 20mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 20mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 40mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 40mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 50 mg/mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 80mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), Amgen 55513 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), Amgen 72511 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Amjevita Psoriatic Arthritis (adult),AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 100 mg/mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 10mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 20mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 20mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 40mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 40mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 50 mg/mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), 80mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), Amgen 55513 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Psoriatic Arthritis (adult), Amgen 72511 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Amjevita Rheumatoid Arthritis,AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 100 mg/mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 10mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 20mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 20mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 40mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 40mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 50 mg/mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, 80mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, Amgen 55513 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Rheumatoid Arthritis, Amgen 72511 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Amjevita Ulcerative Colitis (adult),AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 100 mg/mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 10mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 20mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 20mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 40mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 40mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 50 mg/mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), 80mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), Amgen 55513 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Ulcerative Colitis (adult), Amgen 72511 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Amjevita Uveitis (adult),AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Uveitis (adult), 100 mg/mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Uveitis (adult), 10mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Uveitis (adult), 20mg/0.2mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Uveitis (adult), 20mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Uveitis (adult), 40mg/0.4mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Uveitis (adult), 40mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Uveitis (adult), 50 mg/mL",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Uveitis (adult), 80mg/0.8mL",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Uveitis (adult), Amgen 55513 labeler",AMJEVITA KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Amjevita Uveitis (adult), Amgen 72511 labeler",AMJEVITA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CALCIUM CHANNEL BLOCKERS,Amlodipine Besylate tablet,AMLODIPINE (ORAL),Preferred
+SKELETAL MUSCLE RELAXANTS,Amrix,AMRIX (ORAL),Non-Preferred
+COPD AGENTS,Anoro Ellipta,ANORO ELLIPTA (INHALATION),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Apidra,APIDRA VIAL (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Apidra SoloStar,APIDRA SOLOSTAR PEN (SUBCUTANE.),Non-Preferred
+"ANTIDEPRESSANTS, OTHER",Aplenzin,APLENZIN (ORAL),Non-Preferred
+ANTICONVULSANTS,Aptiom,APTIOM (ORAL),Non-Preferred
+HIV / AIDS,Aptivus,APTIVUS CAPSULE (ORAL),Non-Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Aranesp,ARANESP VIAL (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Aranesp Anemia associated with chemotherapy,ARANESP VIAL (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Aranesp Anemia associated with chronic kidney disease if patient is not on dialysis,ARANESP VIAL (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Aranesp Anemia associated with chronic kidney disease if patient is on dialysis,ARANESP VIAL (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Aranesp syringe,ARANESP DISP SYRIN (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Aranesp vial,ARANESP VIAL (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Arcalyst,ARCALYST (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Arcalyst Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),ARCALYST (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Arcalyst Deficiency of Interleukin-1 Receptor Antagonist (DIRA),ARCALYST (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Arcalyst Recurrent Pericarditis (RP),ARCALYST (SUBCUTANE.),Non-Preferred
+ALZHEIMER'S AGENTS,Aricept,ARICEPT (ORAL),Non-Preferred
+ALZHEIMER'S AGENTS,Aricept 23 mg,ARICEPT 23 MG (ORAL),Non-Preferred
+"ANTIBIOTICS, INHALED",Arikayce,ARIKAYCE (INHALATION),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Aripiprazole ODT,ARIPIPRAZOLE ODT (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Aripiprazole oral solution,ARIPIPRAZOLE SOLUTION (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Aripiprazole tablet,ARIPIPRAZOLE TABLET (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Aristada,ARISTADA (INTRAMUSC),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Aristada Initio,ARISTADA INITIO (INTRAMUSC),Preferred
+"GLUCOCORTICOIDS, INHALED",Armonair Digihaler,ARMONAIR DIGIHALER (INHALATION),Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Arnuity Ellipta,ARNUITY ELLIPTA (INHALATION),Preferred
+ULCERATIVE COLITIS AGENTS,Asacol HD,ASACOL HD (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Asenapine,ASENAPINE MALEATE (SUBLINGUAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Asenapine sublingual tablet,ASENAPINE MALEATE (SUBLINGUAL),Preferred
+"GLUCOCORTICOIDS, INHALED",Asmanex HFA,ASMANEX HFA (INHALATION),Preferred
+"GLUCOCORTICOIDS, INHALED",Asmanex Twisthaler,ASMANEX (INHALATION),Preferred
+PLATELET AGGREGATION INHIBITORS,Aspirin / Dipyridamole,ASPIRIN/DIPYRIDAMOLE (ORAL),Non-Preferred
+"IMMUNOSUPPRESSIVES, ORAL",Astagraf XL ER capsule,ASTAGRAF XL (ORAL),Non-Preferred
+HIV / AIDS,Atripla,ATRIPLA (ORAL),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,Aubagio tablet,AUBAGIO (ORAL),Non-Preferred
+PHOSPHATE BINDERS,Auryxia,AURYXIA (ORAL),Non-Preferred
+MOVEMENT DISORDERS,Austedo,AUSTEDO (ORAL),Preferred
+MOVEMENT DISORDERS,Austedo Huntington's Disease,AUSTEDO (ORAL),Preferred
+MOVEMENT DISORDERS,Austedo Tardive Dyskinesia,AUSTEDO (ORAL),Preferred
+MOVEMENT DISORDERS,Austedo Tourette's Syndrome/Tics,AUSTEDO (ORAL),Preferred
+MOVEMENT DISORDERS,Austedo Unspecified Hyperkinetic Movement Disorder,AUSTEDO (ORAL),Preferred
+MOVEMENT DISORDERS,Austedo XR,AUSTEDO XR (ORAL),Preferred
+MOVEMENT DISORDERS,Austedo XR Huntington's Disease,AUSTEDO XR (ORAL),Preferred
+MOVEMENT DISORDERS,"Austedo XR Huntington's Disease, titration pack",AUSTEDO XR TITRATION KIT (ORAL),Preferred
+MOVEMENT DISORDERS,Austedo XR Tardive Dyskinesia,AUSTEDO XR (ORAL),Preferred
+MOVEMENT DISORDERS,"Austedo XR Tardive Dyskinesia, titration pack",AUSTEDO XR TITRATION KIT (ORAL),Preferred
+MOVEMENT DISORDERS,Austedo XR titration pack,AUSTEDO XR TITRATION KIT (ORAL),Preferred
+"ANTIDEPRESSANTS, OTHER",Auvelity,AUVELITY (ORAL),Non-Preferred
+"EPINEPHRINE, SELF-INJECTED",Auvi-Q 0.1 mg,AUVI-Q 0.1 MG (INTRAMUSC),Non-Preferred
+"EPINEPHRINE, SELF-INJECTED",Auvi-Q 0.15 mg,AUVI-Q 0.15 MG (INTRAMUSC),Non-Preferred
+"EPINEPHRINE, SELF-INJECTED",Auvi-Q 0.3 mg,AUVI-Q 0.3 MG (INTRAMUSC),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,Avonex auto-injector,AVONEX PEN (INTRAMUSC.),Preferred
+MULTIPLE SCLEROSIS AGENTS,Avonex prefilled syringe,AVONEX (INTRAMUSC.),Preferred
+STIMULANTS AND RELATED AGENTS,Azstarys,AZSTARYS (ORAL),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Baclofen 10 mg,BACLOFEN (ORAL),Preferred
+SKELETAL MUSCLE RELAXANTS,Baclofen 15 mg,BACLOFEN (ORAL),Preferred
+SKELETAL MUSCLE RELAXANTS,Baclofen 20 mg,BACLOFEN (ORAL),Preferred
+SKELETAL MUSCLE RELAXANTS,Baclofen 5 mg,BACLOFEN (ORAL),Preferred
+SKELETAL MUSCLE RELAXANTS,"Baclofen 5mg, 10mg, 20mg",BACLOFEN (ORAL),Preferred
+SKELETAL MUSCLE RELAXANTS,Baclofen oral solution,BACLOFEN SOLUTION (OZOBAX DS) (ORAL),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Baclofen oral suspension,BACLOFEN SOLUTION (OZOBAX DS) (ORAL),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Baclofen tablet,BACLOFEN (ORAL),Preferred
+SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 10 mg",BACLOFEN (ORAL),Preferred
+SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 15 mg",BACLOFEN (ORAL),Preferred
+SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 20 mg",BACLOFEN (ORAL),Preferred
+SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 5 mg",BACLOFEN (ORAL),Preferred
+SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 5mg, 10mg, 20mg",BACLOFEN (ORAL),Preferred
+MULTIPLE SCLEROSIS AGENTS,Bafiertam,BAFIERTAM CAPSULE DR (ORAL),Non-Preferred
+ANTICONVULSANTS,Banzel oral suspension,BANZEL SUSPENSION (ORAL),Non-Preferred
+ANTICONVULSANTS,Banzel tablet,BANZEL TABLET (ORAL),Non-Preferred
+HEPATITIS B AGENTS,Baraclude,BARACLUDE TABLET (ORAL),Non-Preferred
+HEPATITIS B AGENTS,Baraclude oral solution,BARACLUDE SOLUTION (ORAL),Non-Preferred
+HEPATITIS B AGENTS,Baraclude tablet,BARACLUDE TABLET (ORAL),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Basaglar Kwikpen,BASAGLAR KWIKPEN (SUBCUTANE.),Non-Preferred
+ANGIOTENSIN MODULATORS,Benazepril,BENAZEPRIL (ORAL),Preferred
+HEMOPHILIA TREATMENT,Benefix,BENEFIX KIT (INTRAVEN.),Preferred
+HAE TREATMENTS,Berinert,BERINERT  (IV),Non-Preferred
+BETA-BLOCKERS,Betapace,BETAPACE / AF (ORAL),Non-Preferred
+BETA-BLOCKERS,Betapace AF,BETAPACE / AF (ORAL),Non-Preferred
+BETA-BLOCKERS,Betapace AF tablet,BETAPACE / AF (ORAL),Non-Preferred
+BETA-BLOCKERS,Betapace tablet,BETAPACE / AF (ORAL),Non-Preferred
+"ANTIBIOTICS, INHALED",Bethkis,BETHKIS (INHALATION),Preferred
+"ANTIBIOTICS, INHALED",Bethkis 300 mg/4 ml ampule,BETHKIS (INHALATION),Preferred
+COPD AGENTS,Bevespi Aerosphere,BEVESPI AEROSPHERE (INHALATION),Non-Preferred
+HIV / AIDS,Biktarvy,BIKTARVY (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Bimzelx,BIMZELX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Bimzelx Anklyosing Spondylitis,BIMZELX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Bimzelx Hidradenitis Suppurativa,BIMZELX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Bimzelx Non-Radiographic Axial Spondyloarthritis,BIMZELX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Bimzelx Plaque Psoriasis (adult),BIMZELX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Bimzelx Plaque Psoriasis (adult), auto-injector",BIMZELX PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Bimzelx Plaque Psoriasis (adult), prefilled syringe",BIMZELX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Bimzelx Psoriatic Arthritis (adult),BIMZELX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Bimzelx auto-injector,BIMZELX PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Bimzelx auto-injector, Anklyosing Spondylitis",BIMZELX PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Bimzelx auto-injector, Non-Radiographic Axial Spondyloarthritis",BIMZELX PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Bimzelx auto-injector, Psoriatic Arthritis (adult)",BIMZELX PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Bimzelx prefilled syringe,BIMZELX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Bimzelx prefilled syringe, Anklyosing Spondylitis",BIMZELX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Bimzelx prefilled syringe, Non-Radiographic Axial Spondyloarthritis",BIMZELX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Bimzelx prefilled syringe, Psoriatic Arthritis (adult)",BIMZELX SYRINGE (SUBCUTANE.),Non-Preferred
+OPHTHALMIC ANTIBIOTIC-STEROID COMBINATIONS,Blephamide S.O.P.,BLEPHAMIDE S.O.P. (OPHTHALMIC),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Bosentan,BOSENTAN TABLET (AG) (ORAL),Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Breo Ellipta,BREO ELLIPTA (INHALATION),Preferred
+"GLUCOCORTICOIDS, INHALED",Breztri Aerosphere,BREZTRI AEROSPHERE (INHALATION),Non-Preferred
+PLATELET AGGREGATION INHIBITORS,Brilinta,BRILINTA (ORAL),Preferred
+MULTIPLE SCLEROSIS AGENTS,Briumvi,BRIUMVI (INTRAVEN.),Non-Preferred
+ANTICONVULSANTS,Briviact,BRIVIACT TABLET (ORAL),Non-Preferred
+ANTICONVULSANTS,Briviact oral solution,BRIVIACT SOLUTION (ORAL),Non-Preferred
+ANTICONVULSANTS,Briviact tablet,BRIVIACT TABLET (ORAL),Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Budesonide / Formoterol authorized generic Symbicort,BUDESONIDE/FORMOTEROL FUMARATE (INHALATION),Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Budesonide 0.25 mg,"BUDESONIDE 0.25, 0.5 MG RESPULES (INHALATION)",Preferred
+"GLUCOCORTICOIDS, INHALED","Budesonide 0.25 mg, 0.5 mg","BUDESONIDE 0.25, 0.5 MG RESPULES (INHALATION)",Preferred
+"GLUCOCORTICOIDS, INHALED",Budesonide 0.5 mg,"BUDESONIDE 0.25, 0.5 MG RESPULES (INHALATION)",Preferred
+"GLUCOCORTICOIDS, INHALED",Budesonide 1 mg,BUDESONIDE 1 MG RESPULES (INHALATION),Preferred
+"GLUCOCORTICOIDS, INHALED",Budesonide respules (inhalation suspension),BUDESONIDE 1 MG RESPULES (INHALATION),Preferred
+"GLUCOCORTICOIDS, INHALED","Budesonide respules (inhalation suspension), 0.25 mg","BUDESONIDE 0.25, 0.5 MG RESPULES (INHALATION)",Preferred
+"GLUCOCORTICOIDS, INHALED","Budesonide respules (inhalation suspension), 0.25 mg, 0.5 mg","BUDESONIDE 0.25, 0.5 MG RESPULES (INHALATION)",Preferred
+"GLUCOCORTICOIDS, INHALED","Budesonide respules (inhalation suspension), 0.5 mg","BUDESONIDE 0.25, 0.5 MG RESPULES (INHALATION)",Preferred
+"GLUCOCORTICOIDS, INHALED","Budesonide respules (inhalation suspension), 1 mg",BUDESONIDE 1 MG RESPULES (INHALATION),Preferred
+"UREA CYCLE DISORDERS, ORAL",Buphenyl powder,BUPHENYL POWDER (ORAL),Non-Preferred
+"UREA CYCLE DISORDERS, ORAL",Buphenyl tablet,BUPHENYL TABLET (ORAL),Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Bydureon Bcise,BYDUREON BCISE (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Bydureon Pen,BYDUREON PENS (SUBCUTANE.)*,Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Byetta,BYETTA PENS (SUBCUTANE.),Non-Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Cafergot,CAFERGOT (ORAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Cambia,CAMBIA (ORAL),Non-Preferred
+ANGIOTENSIN MODULATORS,Candesartan,CANDESARTAN (AG) (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Caplyta,CAPLYTA (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Caplyta Bipolar depression,CAPLYTA (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Caplyta Schizophrenia/schizoaffective disorder,CAPLYTA (ORAL),Non-Preferred
+ANGIOTENSIN MODULATORS,Captopril,CAPTOPRIL (ORAL),Preferred
+"ANTIBIOTICS, INHALED",Cayston,CAYSTON (INHALATION),Non-Preferred
+"OPHTHALMICS, ANTI-INFLAMMATORY/IMMUNOMODULATOR",Cequa,CEQUA (OPHTHALMIC),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cibinqo,CIBINQO (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cibinqo Atopic Dermatitis (adult),CIBINQO (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cibinqo Atopic Dermatitis (pediatric),CIBINQO (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cimzia,CIMZIA KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cimzia Ankylosing Spondylitis,CIMZIA KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cimzia Ankylosing Spondylitis, prefilled syringe",CIMZIA SYRINGE KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cimzia Ankylosing Spondylitis, subcutaneous vial",CIMZIA KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cimzia Crohn's Disease (adult),CIMZIA KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cimzia Crohn's Disease (adult), prefilled syringe",CIMZIA SYRINGE KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cimzia Crohn's Disease (adult), subcutaneous vial",CIMZIA KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cimzia Non-Radiographic Axial Spondyloarthritis,CIMZIA KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cimzia Non-Radiographic Axial Spondyloarthritis, prefilled syringe",CIMZIA SYRINGE KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cimzia Non-Radiographic Axial Spondyloarthritis, subcutaneous vial",CIMZIA KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cimzia Plaque Psoriasis (adult),CIMZIA KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cimzia Plaque Psoriasis (adult), prefilled syringe",CIMZIA SYRINGE KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cimzia Plaque Psoriasis (adult), subcutaneous vial",CIMZIA KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),CIMZIA KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cimzia Psoriatic Arthritis (adult),CIMZIA KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cimzia Psoriatic Arthritis (adult), prefilled syringe",CIMZIA SYRINGE KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cimzia Psoriatic Arthritis (adult), subcutaneous vial",CIMZIA KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cimzia Rheumatoid Arthritis,CIMZIA KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cimzia Rheumatoid Arthritis, prefilled syringe",CIMZIA SYRINGE KIT (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cimzia Rheumatoid Arthritis, subcutaneous vial",CIMZIA KIT (INJECTION),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA",Cinqair,CINQAIR (INTRAVEN),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA",Cinqair Asthma (adult),CINQAIR (INTRAVEN),Non-Preferred
+HAE TREATMENTS,Cinryze,CINRYZE  (IV),Non-Preferred
+"ANTIBIOTICS, VAGINAL",Cleocin 2% cream,CLEOCIN CREAM (VAGINAL),Preferred
+"ANTIBIOTICS, VAGINAL",Cleocin Ovules / vaginal suppository,CLEOCIN OVULES (VAGINAL),Preferred
+"ANTIBIOTICS, VAGINAL",Clindamycin 2% Cream,CLINDAMYCIN (VAGINAL),Non-Preferred
+"ANTIBIOTICS, VAGINAL",Clindesse 2% prefilled applicator cream,CLINDESSE (VAGINAL),Preferred
+ANTICONVULSANTS,Clobazam oral suspension,CLOBAZAM SUSPENSION (ORAL),Preferred
+ANTICONVULSANTS,Clobazam tablet,CLOBAZAM TABLET (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Clozapine ODT,CLOZAPINE ODT (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Clozapine tablet,CLOZAPINE (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Clozaril,CLOZARIL (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Clozaril tablet,CLOZARIL (ORAL),Non-Preferred
+"OPHTHALMICS, GLAUCOMA AGENTS",Combigan,COMBIGAN (OPHTHALMIC),Preferred
+"OPHTHALMICS, GLAUCOMA AGENTS",Combigan 10 ml,COMBIGAN (OPHTHALMIC),Preferred
+"OPHTHALMICS, GLAUCOMA AGENTS",Combigan 5 ml,COMBIGAN (OPHTHALMIC),Preferred
+COPD AGENTS,Combivent Respimat (Ipratropium/Albuterol) inhalation aerosol solution,COMBIVENT RESPIMAT (INHALATION),Preferred
+HIV / AIDS,Complera,COMPLERA (ORAL),Preferred
+STIMULANTS AND RELATED AGENTS,Concerta ER,CONCERTA (ORAL),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,Copaxone (Glatiramer Acetate) 20 mg,COPAXONE 20 MG/ML (SUBCUTANE.),Preferred
+MULTIPLE SCLEROSIS AGENTS,Copaxone (Glatiramer Acetate) 40 mg,COPAXONE 40 MG/ML (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cosentyx,COSENTYX PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cosentyx Ankylosing Spondylitis,COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Ankylosing Spondylitis, Sensoready",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Ankylosing Spondylitis, UnoReady",COSENTYX UNOREADY PEN,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Ankylosing Spondylitis, prefilled syringe",COSENTYX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Ankylosing Spondylitis, vial",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cosentyx Enthesitis-Related Arthritis (pediatric),COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Enthesitis-Related Arthritis (pediatric), Sensoready",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Enthesitis-Related Arthritis (pediatric), UnoReady",COSENTYX UNOREADY PEN,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Enthesitis-Related Arthritis (pediatric), prefilled syringe",COSENTYX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Enthesitis-Related Arthritis (pediatric), vial",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cosentyx Hidradenitis Suppurativa,COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Hidradenitis Suppurativa, Sensoready",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Hidradenitis Suppurativa, UnoReady",COSENTYX UNOREADY PEN,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Hidradenitis Suppurativa, prefilled syringe",COSENTYX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Hidradenitis Suppurativa, vial",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cosentyx Non-Radiographic Axial Spondyloarthritis,COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Non-Radiographic Axial Spondyloarthritis, Sensoready",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Non-Radiographic Axial Spondyloarthritis, UnoReady",COSENTYX UNOREADY PEN,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Non-Radiographic Axial Spondyloarthritis, prefilled syringe",COSENTYX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Non-Radiographic Axial Spondyloarthritis, vial",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cosentyx Plaque Psoriasis (adult),COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Plaque Psoriasis (adult), Sensoready",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Plaque Psoriasis (adult), UnoReady",COSENTYX UNOREADY PEN,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Plaque Psoriasis (adult), prefilled syringe",COSENTYX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Plaque Psoriasis (adult), vial",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cosentyx Plaque Psoriasis (pediatric),COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Plaque Psoriasis (pediatric), Sensoready",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Plaque Psoriasis (pediatric), UnoReady",COSENTYX UNOREADY PEN,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Plaque Psoriasis (pediatric), prefilled syringe",COSENTYX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Plaque Psoriasis (pediatric), vial",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cosentyx Psoriatic Arthritis (adult),COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Psoriatic Arthritis (adult), Sensoready",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Psoriatic Arthritis (adult), UnoReady",COSENTYX UNOREADY PEN,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Psoriatic Arthritis (adult), prefilled syringe",COSENTYX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Psoriatic Arthritis (adult), vial",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cosentyx Psoriatic Arthritis (pediatric),COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Psoriatic Arthritis (pediatric), Sensoready",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Psoriatic Arthritis (pediatric), UnoReady",COSENTYX UNOREADY PEN,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Psoriatic Arthritis (pediatric), prefilled syringe",COSENTYX SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Cosentyx Psoriatic Arthritis (pediatric), vial",COSENTYX VIAL (INTRAVENOUS),Non-Preferred
+PANCREATIC ENZYMES,Creon,CREON (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cyltezo Ankylosing Spondylitis,CYLTEZO KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cyltezo Crohn's Disease (adult),CYLTEZO KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cyltezo Crohn's Disease (pediatric),CYLTEZO KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cyltezo Hidradenitis Suppurativa,CYLTEZO KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cyltezo Plaque Psoriasis (adult),CYLTEZO KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cyltezo Polyarticular Juvenile Idiopathic Arthritis (PJIA),CYLTEZO KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cyltezo Psoriatic Arthritis (adult),CYLTEZO KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cyltezo Rheumatoid Arthritis,CYLTEZO KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cyltezo Ulcerative Colitis (adult),CYLTEZO KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Cyltezo Uveitis (adult),CYLTEZO KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+COPD AGENTS,Daliresp,DALIRESP (ORAL),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Dantrium,DANTRIUM (ORAL),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Dantrium capsule,DANTRIUM (ORAL),Non-Preferred
+ANTICONVULSANTS,Depakote,DEPAKOTE (ORAL),Non-Preferred
+ANTICONVULSANTS,Depakote DR sprinkle capsule,DEPAKOTE SPRINKLE (ORAL),Non-Preferred
+ANTICONVULSANTS,Depakote DR tablet,DEPAKOTE (ORAL),Non-Preferred
+ANTICONVULSANTS,Depakote ER tablet,DEPAKOTE ER (ORAL),Non-Preferred
+ANTICONVULSANTS,Depakote tablet,DEPAKOTE (ORAL),Non-Preferred
+HIV / AIDS,Descovy,DESCOVY (ORAL),Preferred
+"DIABETES METERS, CONTINUOUS",DexCom G7 Sensor,DEXCOM G7 CGM (MISCELL.),Preferred
+"DIABETES METERS, CONTINUOUS",Dexcom G4,DEXCOM G4 CGM (MISCELL.),Preferred
+"DIABETES METERS, CONTINUOUS",Dexcom G5,DEXCOM G5 CGM (MISCELL.),Preferred
+"DIABETES METERS, CONTINUOUS",Dexcom G6 Transmitter,DEXCOM G6 CGM (MISCELL.),Preferred
+ANTICONVULSANTS,Diacomit capsule,DIACOMIT CAPSULE (ORAL),Non-Preferred
+ANTICONVULSANTS,Diacomit packet for oral suspension,DIACOMIT POWDER PACK (ORAL),Non-Preferred
+ANTICONVULSANTS,Diastat,DIASTAT (RECTAL),Non-Preferred
+ANTICONVULSANTS,Diazepam rectal gel,DIAZEPAM (RECTAL),Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Dihydroergotamine Mesylate,DIHYDROERGOTAMINE MESYLATE (INJECTION),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,Dimethyl Fumarate,DIMETHYL FUMARATE (ORAL),Preferred
+ALZHEIMER'S AGENTS,Donepezil 10 mg,DONEPEZIL TABLET (ORAL),Preferred
+ALZHEIMER'S AGENTS,Donepezil 23 mg,DONEPEZIL 23 MG (ORAL),Non-Preferred
+ALZHEIMER'S AGENTS,"Donepezil 23 mg, 5 mg",DONEPEZIL TABLET (ORAL),Preferred
+ALZHEIMER'S AGENTS,Donepezil 5 mg,DONEPEZIL TABLET (ORAL),Preferred
+ALZHEIMER'S AGENTS,Donepezil ODT,DONEPEZIL ODT (ORAL),Preferred
+ALZHEIMER'S AGENTS,"Donepezil ODT, 10 mg",DONEPEZIL ODT (ORAL),Preferred
+ALZHEIMER'S AGENTS,"Donepezil ODT, 5 mg",DONEPEZIL ODT (ORAL),Preferred
+ALZHEIMER'S AGENTS,Donepezil tablet,DONEPEZIL TABLET (ORAL),Preferred
+ALZHEIMER'S AGENTS,"Donepezil tablet, 23 mg",DONEPEZIL 23 MG (ORAL),Non-Preferred
+ALZHEIMER'S AGENTS,"Donepezil tablet, 5 mg",DONEPEZIL TABLET (ORAL),Preferred
+COPD AGENTS,Duaklir Pressair,DUAKLIR PRESSAIR (INHALATION),Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Dulera,DULERA (INHALATION),Preferred
+"GLUCOCORTICOIDS, INHALED",Dulera 100 mcg / 5 mcg,DULERA (INHALATION),Preferred
+"GLUCOCORTICOIDS, INHALED",Dulera 200 mcg / 5 mcg,DULERA (INHALATION),Preferred
+"GLUCOCORTICOIDS, INHALED",Dulera 50 mcg / 5 mcg,DULERA (INHALATION),Preferred
+NEUROPATHIC PAIN,Duloxetine,DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,Duloxetine 20 mg,DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,"Duloxetine 20 mg, Major Depressive Disorder / Generalized Anxiety Disorder",DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,"Duloxetine 20 mg, Neuropathic Pain",DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,Duloxetine 30 mg,DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,"Duloxetine 30 mg, Major Depressive Disorder / Generalized Anxiety Disorder",DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,"Duloxetine 30 mg, Neuropathic Pain",DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,Duloxetine 40 mg,DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,"Duloxetine 40 mg, Major Depressive Disorder / Generalized Anxiety Disorder",DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,"Duloxetine 40 mg, Neuropathic Pain",DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,"Duloxetine 40 mg, generic Irenka, Neuropathic Pain",DULOXETINE (IRENKA) (ORAL),Non-Preferred
+NEUROPATHIC PAIN,Duloxetine 60 mg,DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,"Duloxetine 60 mg, Major Depressive Disorder / Generalized Anxiety Disorder",DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,"Duloxetine 60 mg, Neuropathic Pain",DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,Duloxetine Neuropathic Pain,DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,Duloxetine generic Cymbalta,DULOXETINE (CYMBALTA) (ORAL),Preferred
+NEUROPATHIC PAIN,Duloxetine generic Irenka,DULOXETINE (IRENKA) (ORAL),Non-Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Dupixent,DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Dupixent Asthma (adult),DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Dupixent Asthma (pediatric),DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Dupixent Atopic Dermatitis (adult),DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent Atopic Dermatitis (adult), pen",DUPIXENT PEN (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent Atopic Dermatitis (adult), prefilled syringe",DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Dupixent Atopic Dermatitis (pediatric),DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Dupixent Chronic Rhinosinusitis with Nasal Polyposis,DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Dupixent Chronic obstructive pulmonary disease (COPD),DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Dupixent Eosinophilic Esophagitis,DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Dupixent Eosinophilic or Corticosteroid-Dependent Asthma,DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Dupixent Prurigo Nodularis,DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent pen, Asthma (adult)",DUPIXENT PEN (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent pen, Asthma (pediatric)",DUPIXENT PEN (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent pen, Atopic Dermatitis (pediatric)",DUPIXENT PEN (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent pen, Chronic Rhinosinusitis with Nasal Polyposis",DUPIXENT PEN (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent pen, Chronic obstructive pulmonary disease (COPD)",DUPIXENT PEN (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent pen, Eosinophilic Esophagitis",DUPIXENT PEN (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent pen, Eosinophilic or Corticosteroid-Dependent Asthma",DUPIXENT PEN (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent pen, Prurigo Nodularis",DUPIXENT PEN (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent prefilled syringe, Asthma (adult)",DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent prefilled syringe, Asthma (pediatric)",DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent prefilled syringe, Atopic Dermatitis (pediatric)",DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent prefilled syringe, Chronic obstructive pulmonary disease (COPD)",DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent prefilled syringe, Eosinophilic Esophagitis",DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent prefilled syringe, Eosinophilic or Corticosteroid-Dependent Asthma",DUPIXENT (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Dupixent prefilled syringe, Prurigo Nodularis",DUPIXENT (SUBCUTANEOUS),Preferred
+"OPHTHALMICS, GLAUCOMA AGENTS",Durysta,DURYSTA IMPLANT (INTRACAMERAL),Non-Preferred
+STIMULANTS AND RELATED AGENTS,Dyanavel XR,DYANAVEL XR (ORAL),Non-Preferred
+STIMULANTS AND RELATED AGENTS,Dyanavel XR oral suspension,DYANAVEL XR (ORAL),Non-Preferred
+STIMULANTS AND RELATED AGENTS,Dyanavel XR tablet,DYANAVEL XR (ORAL),Non-Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Ebglyss Atopic Dermatitis (adult),EBGLYSS SYRINGE (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Ebglyss Atopic Dermatitis (pediatric),EBGLYSS SYRINGE (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Ebglyss auto-injector, Atopic Dermatitis (adult)",EBGLYSS PEN (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Ebglyss auto-injector, Atopic Dermatitis (pediatric)",EBGLYSS PEN (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Ebglyss prefilled syringe, Atopic Dermatitis (adult)",EBGLYSS SYRINGE (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Ebglyss prefilled syringe, Atopic Dermatitis (pediatric)",EBGLYSS SYRINGE (SUBCUTANEOUS),Non-Preferred
+ANGIOTENSIN MODULATORS,Edarbi,EDARBI (ORAL),Non-Preferred
+ANGIOTENSIN MODULATORS,Edarbyclor,EDARBYCLOR (ORAL),Non-Preferred
+HIV / AIDS,Edurant,EDURANT (ORAL),Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Eletriptan,ELETRIPTAN (AG) (ORAL),Preferred
+ANTICOAGULANTS,Eliquis,ELIQUIS (ORAL),Preferred
+HEMOPHILIA TREATMENT,Eloctate,ELOCTATE (INTRAVEN),Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Elyxyb,ELYXYB SOLUTION (ORAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Emgality 100 mg,EMGALITY SYRINGE 100 MG (SUBCUTANEOUS),Preferred
+"ANTIMIGRAINE AGENTS, OTHER","Emgality 100 mg, Episodic Cluster Headache",EMGALITY SYRINGE 100 MG (SUBCUTANEOUS),Preferred
+"ANTIMIGRAINE AGENTS, OTHER","Emgality 100 mg, Migraine Prophylaxis",EMGALITY SYRINGE 100 MG (SUBCUTANEOUS),Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Emgality 120 mg,EMGALITY SYRINGE,Preferred
+"ANTIMIGRAINE AGENTS, OTHER","Emgality 120 mg, Episodic Cluster Headache",EMGALITY SYRINGE,Preferred
+"ANTIMIGRAINE AGENTS, OTHER","Emgality 120 mg, Migraine Prophylaxis",EMGALITY SYRINGE,Preferred
+HIV / AIDS,Emtriva capsule,EMTRIVA CAPSULE (ORAL),Preferred
+HIV / AIDS,Emtriva oral solution,EMTRIVA SOLUTION (ORAL),Preferred
+ANGIOTENSIN MODULATORS,Enalapril,ENALAPRIL (ORAL),Preferred
+ANGIOTENSIN MODULATORS,Enalapril oral solution,ENALAPRIL SOLUTION (ORAL),Preferred
+ANGIOTENSIN MODULATORS,Enalapril tablet,ENALAPRIL (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Enbrel,ENBREL (VIAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Enbrel Ankylosing Spondylitis,ENBREL (VIAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Ankylosing Spondylitis, Mini cartridge",ENBREL MINI CARTRIDGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Ankylosing Spondylitis, SureClick",ENBREL PEN (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Ankylosing Spondylitis, prefilled syringe",ENBREL SYRINGE (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Ankylosing Spondylitis, vial",ENBREL (VIAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Enbrel Plaque Psoriasis (adult),ENBREL (VIAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (adult), Mini cartridge",ENBREL MINI CARTRIDGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (adult), SureClick",ENBREL PEN (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (adult), prefilled syringe",ENBREL SYRINGE (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (adult), vial",ENBREL (VIAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Enbrel Plaque Psoriasis (pediatric),ENBREL KIT (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (pediatric), Mini cartridge",ENBREL MINI CARTRIDGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (pediatric), SureClick",ENBREL PEN (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (pediatric), prefilled syringe",ENBREL SYRINGE (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Plaque Psoriasis (pediatric), vial",ENBREL (VIAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA),ENBREL KIT (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), Mini cartridge",ENBREL MINI CARTRIDGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), SureClick",ENBREL PEN (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",ENBREL SYRINGE (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), vial",ENBREL (VIAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Enbrel Psoriatic Arthritis (adult),ENBREL KIT (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (adult), Mini cartridge",ENBREL MINI CARTRIDGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (adult), SureClick",ENBREL PEN (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (adult), prefilled syringe",ENBREL SYRINGE (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (adult), vial",ENBREL (VIAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Enbrel Psoriatic Arthritis (pediatric),ENBREL KIT (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (pediatric), Mini cartridge",ENBREL MINI CARTRIDGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (pediatric), SureClick",ENBREL PEN (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (pediatric), prefilled syringe",ENBREL SYRINGE (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Psoriatic Arthritis (pediatric), vial",ENBREL (VIAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Enbrel Rheumatoid Arthritis,ENBREL KIT (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Rheumatoid Arthritis, Mini cartridge",ENBREL MINI CARTRIDGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Rheumatoid Arthritis, SureClick",ENBREL PEN (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Rheumatoid Arthritis, prefilled syringe",ENBREL SYRINGE (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Enbrel Rheumatoid Arthritis, vial",ENBREL (VIAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Enspryng,ENSPRYNG (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Enspryng Neuromyelitis Optica Spectrum Disorder (NMOSD),ENSPRYNG (SUBCUTANE.),Non-Preferred
+HEPATITIS B AGENTS,Entecavir,ENTECAVIR TABLET (AG) (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Entyvio,ENTYVIO (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Entyvio Crohn's Disease (adult),ENTYVIO (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Entyvio Crohn's Disease (adult), prefilled syringe",ENTYVIO (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Entyvio Crohn's Disease (adult), vial",ENTYVIO (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Entyvio Ulcerative Colitis (adult),ENTYVIO (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Entyvio Ulcerative Colitis (adult), prefilled syringe",ENTYVIO (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Entyvio Ulcerative Colitis (adult), vial",ENTYVIO (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Entyvio prefilled pen,ENTYVIO PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Entyvio prefilled pen, Crohn's Disease (adult)",ENTYVIO PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Entyvio prefilled pen, Ulcerative Colitis (adult)",ENTYVIO PEN (SUBCUTANE.),Non-Preferred
+"IMMUNOSUPPRESSIVES, ORAL",Envarsus XR,ENVARSUS XR (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,Epclusa,EPCLUSA (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,Epclusa pellet packet,EPCLUSA (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,"Epclusa pellet packet, 150 mg - 37.5 mg",EPCLUSA (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,"Epclusa pellet packet, 200 mg - 50 mg",EPCLUSA (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,Epclusa tablet,EPCLUSA (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,"Epclusa tablet, 200 mg - 50 mg",EPCLUSA (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,"Epclusa tablet, 400 mg - 100 mg",EPCLUSA (ORAL),Non-Preferred
+"EPINEPHRINE, SELF-INJECTED",Epinephrine (Generic Adrenaclick) 0.15mg,EPINEPHRINE 0.15 MG (ADRENACLICK) (AG) (INJECTION),Preferred
+"EPINEPHRINE, SELF-INJECTED",Epinephrine (Generic Adrenaclick) 0.3mg,EPINEPHRINE 0.3 MG (ADRENACLICK) (AG) (INJECTION),Preferred
+"EPINEPHRINE, SELF-INJECTED",Epinephrine (Mylan Ag Epipen And Jr) 0.15mg Mylan's EpiPen Jr AG,EPINEPHRINE 0.15 MG (EPIPEN JR) (AG) (INJECTION),Preferred
+"EPINEPHRINE, SELF-INJECTED",Epinephrine (Mylan Ag Epipen And Jr) 0.3mg Mylan's EpiPen AG,EPINEPHRINE 0.3 MG (EPIPEN) (AG) (INJECTION),Preferred
+"EPINEPHRINE, SELF-INJECTED",Epipen,EPIPEN (INTRAMUSC),Preferred
+"EPINEPHRINE, SELF-INJECTED",Epipen Jr.,EPIPEN JR (INTRAMUSC),Preferred
+HIV / AIDS,Epivir,EPIVIR TABLET (ORAL),Preferred
+HEPATITIS B AGENTS,Epivir HBV,EPIVIR HBV TABLET (ORAL),Preferred
+HEPATITIS B AGENTS,Epivir HBV oral solution,EPIVIR HBV SOLUTION (ORAL),Preferred
+HEPATITIS B AGENTS,Epivir HBV tablet,EPIVIR HBV TABLET (ORAL),Preferred
+HIV / AIDS,Epivir oral solution,EPIVIR SOLUTION (ORAL),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Epogen,EPOGEN (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Epogen Anemia associated with chemotherapy,EPOGEN (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Epogen Anemia associated with chronic kidney disease if patient is not on dialysis,EPOGEN (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Epogen Anemia associated with chronic kidney disease if patient is on dialysis,EPOGEN (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Epogen Anemia associated with zidovudine in HIV therapy,EPOGEN (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,"Epogen To reduce the need for allogenic blood transfusions in anemic patients scheduled to undergo elective, non-cardiac, nonvascular surgery",EPOGEN (INJECTION),Preferred
+ANTICONVULSANTS,Eprontia,EPRONTIA SOLUTION (ORAL),Non-Preferred
+ANGIOTENSIN MODULATORS,Eprosartan,EPROSARTAN (ORAL),Non-Preferred
+HIV / AIDS,Epzicom,EPZICOM (ORAL),Non-Preferred
+ANTICONVULSANTS,Equetro,EQUETRO (ORAL),Non-Preferred
+PROTON PUMP INHIBITORS,Esomeprazole,ESOMEPRAZOLE CAPSULES (AG) (ORAL),Preferred
+PROTON PUMP INHIBITORS,"Esomeprazole 2.5 mg, 5 mg",ESOMEPRAZOLE CAPSULES (AG) (ORAL),Preferred
+PROTON PUMP INHIBITORS,"Esomeprazole 20 mg, 40 mg, 10 mg",ESOMEPRAZOLE CAPSULES (AG) (ORAL),Preferred
+PROTON PUMP INHIBITORS,Esomeprazole Capsule,ESOMEPRAZOLE CAPSULES (AG) (ORAL),Preferred
+PROTON PUMP INHIBITORS,"Esomeprazole Capsule, 20 mg",ESOMEPRAZOLE CAPSULES (AG) (ORAL),Preferred
+PROTON PUMP INHIBITORS,"Esomeprazole Capsule, 40 mg",ESOMEPRAZOLE CAPSULES (AG) (ORAL),Preferred
+PROTON PUMP INHIBITORS,Esomeprazole DR capsule,ESOMEPRAZOLE CAPSULES (AG) (ORAL),Preferred
+HEMOPHILIA TREATMENT,Esperoct,ESPEROCT (INTRAVEN),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Eucrisa,EUCRISA (TOPICAL),Preferred
+BONE RESORPTION SUPPRESSION AND RELATED AGENTS,Evenity,EVENITY,Non-Preferred
+"LIPOTROPICS, OTHER",Evkeeza,EVKEEZA (INTRAVEN),Non-Preferred
+HIV / AIDS,Evotaz,EVOTAZ (ORAL),Preferred
+ALZHEIMER'S AGENTS,Exelon,EXELON (TRANSDERM.),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Fanapt,FANAPT TABLET (ORAL),Non-Preferred
+"HYPOGLYCEMICS, SGLT2",Farxiga,FARXIGA (ORAL),Preferred
+"IMMUNOMODULATORS, ASTHMA",Fasenra Asthma (adult),FASENRA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA",Fasenra Asthma (pediatric),FASENRA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA",Fasenra Eosinophilic Granulomatosis with Polyangitis (EGPA),FASENRA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA",Fasenra auto-injector,FASENRA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Fasenra auto-injector, Asthma (adult)",FASENRA PEN (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Fasenra auto-injector, Asthma (pediatric)",FASENRA PEN (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Fasenra auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",FASENRA PEN (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA",Fasenra prefilled syringe,FASENRA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Fasenra prefilled syringe, Asthma (adult)",FASENRA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Fasenra prefilled syringe, Asthma (pediatric)",FASENRA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Fasenra prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",FASENRA SYRINGE (SUBCUTANEOUS),Preferred
+ANTICONVULSANTS,Felbatol oral suspension,FELBATOL SUSPENSION (ORAL),Non-Preferred
+ANTICONVULSANTS,Felbatol tablet,FELBATOL TABLET (ORAL),Non-Preferred
+"ANTIDEPRESSANTS, OTHER",Fetzima,FETZIMA (ORAL),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Fexmid,FEXMID (ORAL),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Fexmid 7.5mg,FEXMID (ORAL),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Fiasp,FIASP VIAL (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Fiasp FlexTouch,FIASP FLEXTOUCH PEN (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Fiasp PenFill,FIASP PENFILL (SUBCUT),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Fiasp PumpCart,FIASP PENFILL CART,Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Fiasp vial,FIASP VIAL (SUBCUTANE.),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,Fingolimod capsule,FINGOLIMOD (ORAL),Preferred
+MULTIPLE SCLEROSIS AGENTS,"Fingolimod capsule, 0.5 mg",FINGOLIMOD (ORAL),Preferred
+ANTICONVULSANTS,Fintepla,FINTEPLA (ORAL),Non-Preferred
+ANTICONVULSANTS,Fintepla Dravet Syndrome,FINTEPLA (ORAL),Non-Preferred
+ANTICONVULSANTS,Fintepla Lennox-Gastaut syndrome,FINTEPLA (ORAL),Non-Preferred
+HAE TREATMENTS,Firazyr,FIRAZYR (SUBCUTANE.),Preferred
+"OPHTHALMICS, ANTI-INFLAMMATORIES",Flarex ophthalmic suspension,FLAREX (OPHTHALMIC),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Fleqsuvy,FLEQSUVY (ORAL),Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Flovent Diskus,FLOVENT DISKUS (INHALATION),Preferred
+"GLUCOCORTICOIDS, INHALED",Flovent HFA,FLOVENT HFA (INHALATION),Preferred
+BONE RESORPTION SUPPRESSION AND RELATED AGENTS,Forteo,FORTEO (SUBCUTANE.),Preferred
+ANGIOTENSIN MODULATORS,Fosinopril,FOSINOPRIL (ORAL),Preferred
+"DIABETES METERS, CONTINUOUS",Freestyle Libre,FREESTYLE LIBRE 10 DAY READER CGM (MISCELL.),Preferred
+"DIABETES METERS, CONTINUOUS",Freestyle Libre 2,FREESTYLE LIBRE 2 READER CGM (MISCELL.),Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Frova,FROVA (ORAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Frovatriptan,FROVATRIPTAN (ORAL),Non-Preferred
+HIV / AIDS,Fuzeon,FUZEON (SUB-Q),Preferred
+ALZHEIMER'S AGENTS,Galantamine ER,GALANTAMINE ER (ORAL),Preferred
+ALZHEIMER'S AGENTS,Galantamine oral solution,GALANTAMINE SOLUTION (ORAL),Non-Preferred
+ALZHEIMER'S AGENTS,Galantamine tablet,GALANTAMINE TABLET (ORAL),Preferred
+GROWTH HORMONE,Genotropin,GENOTROPIN DISP SYRIN (INJECTION),Preferred
+GROWTH HORMONE,Genotropin MiniQuick,GENOTROPIN DISP SYRIN (INJECTION),Preferred
+GROWTH HORMONE,Genotropin cartridge,GENOTROPIN CARTRIDGE (INJECTION),Preferred
+HIV / AIDS,Genvoya,GENVOYA (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Geodon,GEODON (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Geodon IM injection,GEODON (INTRAMUSC),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Geodon capsule,GEODON (ORAL),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,Gilenya capsule,GILENYA (ORAL),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,"Gilenya capsule, 0.25 mg",GILENYA (ORAL),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,"Gilenya capsule, 0.5 mg",GILENYA (ORAL),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,Glatiramer Acetate 20 mg/ml,GLATIRAMER 20 MG/ML (SUBCUTANE.),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,Glatiramer Acetate prefilled syringe,GLATIRAMER 20 MG/ML (SUBCUTANE.),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,"Glatiramer Acetate prefilled syringe, 20 mg/ml",GLATIRAMER 20 MG/ML (SUBCUTANE.),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,"Glatiramer Acetate prefilled syringe, 40 mg/ml",GLATIRAMER 40 MG/ML (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Glyxambi,GLYXAMBI (ORAL),Non-Preferred
+NEUROPATHIC PAIN,Gralise,GRALISE (ORAL),Non-Preferred
+NEUROPATHIC PAIN,Gralise 450 mg,GRALISE (ORAL),Non-Preferred
+NEUROPATHIC PAIN,Gralise 750 mg,GRALISE (ORAL),Non-Preferred
+NEUROPATHIC PAIN,Gralise 900 mg,GRALISE (ORAL),Non-Preferred
+NEUROPATHIC PAIN,Gralise Post-herpetic Neuralgia,GRALISE (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hadlima Ankylosing Spondylitis,HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Ankylosing Spondylitis, PushTouch",HADLIMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Ankylosing Spondylitis, prefilled syringe",HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hadlima Crohn's Disease (adult),HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Crohn's Disease (adult), PushTouch",HADLIMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Crohn's Disease (adult), prefilled syringe",HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hadlima Crohn's Disease (pediatric),HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Crohn's Disease (pediatric), PushTouch",HADLIMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Crohn's Disease (pediatric), prefilled syringe",HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hadlima Hidradenitis Suppurativa,HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Hidradenitis Suppurativa, PushTouch",HADLIMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Hidradenitis Suppurativa, prefilled syringe",HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hadlima Plaque Psoriasis (adult),HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Plaque Psoriasis (adult), PushTouch",HADLIMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Plaque Psoriasis (adult), prefilled syringe",HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA),HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA), PushTouch",HADLIMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hadlima Psoriatic Arthritis (adult),HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Psoriatic Arthritis (adult), PushTouch",HADLIMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Psoriatic Arthritis (adult), prefilled syringe",HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hadlima Rheumatoid Arthritis,HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Rheumatoid Arthritis, PushTouch",HADLIMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Rheumatoid Arthritis, prefilled syringe",HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hadlima Ulcerative Colitis (adult),HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Ulcerative Colitis (adult), PushTouch",HADLIMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Ulcerative Colitis (adult), prefilled syringe",HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hadlima Uveitis (adult),HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Uveitis (adult), PushTouch",HADLIMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hadlima Uveitis (adult), prefilled syringe",HADLIMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+HAE TREATMENTS,Haegarda,HAEGARDA  (SUBCUTANE.),Preferred
+HEPATITIS C AGENTS - DAA,Harvoni,HARVONI TABLET (ORAL),Non-Preferred
+HEPATITIS C AGENTS,"Harvoni 45 mg/200 mg, pellet packet",HARVONI PELLET PACK (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,"Harvoni 45 mg/200 mg, tablet",HARVONI TABLET (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,"Harvoni 90 mg/400 mg, tablet",HARVONI TABLET (ORAL),Non-Preferred
+HEPATITIS C AGENTS,Harvoni pellet packet,HARVONI PELLET PACK (ORAL),Non-Preferred
+BETA-BLOCKERS,Hemangeol,HEMANGEOL (ORAL),Non-Preferred
+HEMOPHILIA TREATMENT,Hemgenix,HEMGENIX (INTRAVEN),Non-Preferred
+HEMOPHILIA TREATMENT,Hemlibra,HEMLIBRA (SUBCUTANE.),Preferred
+HEPATITIS B AGENTS,Hepsera,HEPSERA (ORAL),Preferred
+NEUROPATHIC PAIN,Horizant,HORIZANT (ORAL),Non-Preferred
+NEUROPATHIC PAIN,Horizant Postherpetic Neuralgia (PHN),HORIZANT (ORAL),Non-Preferred
+NEUROPATHIC PAIN,Horizant Restless Legs Syndrome (RLS),HORIZANT (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hulio Ankylosing Spondylitis,HULIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hulio Crohn's Disease (adult),HULIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hulio Crohn's Disease (pediatric),HULIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hulio Hidradenitis Suppurativa,HULIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hulio Plaque Psoriasis (adult),HULIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hulio Polyarticular Juvenile Idiopathic Arthritis (PJIA),HULIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hulio Psoriatic Arthritis (adult),HULIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hulio Rheumatoid Arthritis,HULIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hulio Ulcerative Colitis (adult),HULIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hulio Uveitis (adult),HULIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Humalog Junior KwikPen,HUMALOG JUNIOR KWIKPEN (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Humalog Junior KwikPen, U-100",HUMALOG JUNIOR KWIKPEN (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Humalog KwikPen, U-100",HUMALOG PEN (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Humalog KwikPen, U-200",HUMALOG 200 U/ML PEN (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Humalog U-100, cartridge",HUMALOG CARTRIDGE (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Humalog cartridge,HUMALOG CARTRIDGE (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Humalog vial,HUMALOG VIAL (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Humalog vial, U-100",HUMALOG VIAL (SUBCUTANE.),Preferred
+GROWTH HORMONE,Humatrope,HUMATROPE VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Humira Ankylosing Spondylitis,HUMIRA (SYRINGE),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Humira Crohn's Disease (adult),HUMIRA (SYRINGE),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Humira Crohn's Disease (pediatric),HUMIRA (SYRINGE),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Humira Hidradenitis Suppurativa,HUMIRA (SYRINGE),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Humira Plaque Psoriasis (adult),HUMIRA (SYRINGE),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Humira Polyarticular Juvenile Idiopathic Arthritis (PJIA),HUMIRA (SYRINGE),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Humira Psoriatic Arthritis (adult),HUMIRA (SYRINGE),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Humira Rheumatoid Arthritis,HUMIRA (SYRINGE),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Humira Ulcerative Colitis (adult),HUMIRA (SYRINGE),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Humira Ulcerative Colitis (pediatric),HUMIRA (SYRINGE),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Humira Uveitis (adult),HUMIRA (SYRINGE),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Humira Uveitis (pediatric),HUMIRA (SYRINGE),Preferred
+HEMOPHILIA TREATMENT,Hympavzi auto-injector,HYMPAVZI PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hyrimoz Ankylosing Spondylitis,HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Ankylosing Spondylitis, auto-injector",HYRIMOZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Ankylosing Spondylitis, prefilled syringe",HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hyrimoz Crohn's Disease (adult),HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Crohn's Disease (adult), auto-injector",HYRIMOZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Crohn's Disease (adult), prefilled syringe",HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hyrimoz Crohn's Disease (pediatric),HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Crohn's Disease (pediatric), auto-injector",HYRIMOZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Crohn's Disease (pediatric), prefilled syringe",HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hyrimoz Hidradenitis Suppurativa,HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Hidradenitis Suppurativa, auto-injector",HYRIMOZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Hidradenitis Suppurativa, prefilled syringe",HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hyrimoz Plaque Psoriasis (adult),HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Plaque Psoriasis (adult), auto-injector",HYRIMOZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Plaque Psoriasis (adult), prefilled syringe",HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA),HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",HYRIMOZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hyrimoz Psoriatic Arthritis (adult),HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Psoriatic Arthritis (adult), auto-injector",HYRIMOZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Psoriatic Arthritis (adult), prefilled syringe",HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hyrimoz Rheumatoid Arthritis,HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Rheumatoid Arthritis, auto-injector",HYRIMOZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Rheumatoid Arthritis, prefilled syringe",HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hyrimoz Ulcerative Colitis (adult),HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Ulcerative Colitis (adult), auto-injector",HYRIMOZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Ulcerative Colitis (adult), prefilled syringe",HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Hyrimoz Uveitis (adult),HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Uveitis (adult), auto-injector",HYRIMOZ PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Hyrimoz Uveitis (adult), prefilled syringe",HYRIMOZ KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+HAE TREATMENTS,Icatibant,ICATIBANT (SUB-Q),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Idacio Ankylosing Spondylitis,IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Ankylosing Spondylitis, auto-injector",IDACIO PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Ankylosing Spondylitis, prefilled syringe",IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Idacio Crohn's Disease (adult),IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Crohn's Disease (adult), auto-injector",IDACIO PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Crohn's Disease (adult), prefilled syringe",IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Idacio Crohn's Disease (pediatric),IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Crohn's Disease (pediatric), auto-injector",IDACIO PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Crohn's Disease (pediatric), prefilled syringe",IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Idacio Hidradenitis Suppurativa,IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Hidradenitis Suppurativa, auto-injector",IDACIO PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Hidradenitis Suppurativa, prefilled syringe",IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Idacio Plaque Psoriasis (adult),IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Plaque Psoriasis (adult), auto-injector",IDACIO PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Plaque Psoriasis (adult), prefilled syringe",IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA),IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",IDACIO PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Idacio Psoriatic Arthritis (adult),IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Psoriatic Arthritis (adult), auto-injector",IDACIO PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Psoriatic Arthritis (adult), prefilled syringe",IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Idacio Rheumatoid Arthritis,IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Rheumatoid Arthritis, auto-injector",IDACIO PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Rheumatoid Arthritis, prefilled syringe",IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Idacio Ulcerative Colitis (adult),IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Ulcerative Colitis (adult), auto-injector",IDACIO PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Ulcerative Colitis (adult), prefilled syringe",IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Idacio Uveitis (adult),IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Uveitis (adult), auto-injector",IDACIO PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Idacio Uveitis (adult), prefilled syringe",IDACIO KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+HEMOPHILIA TREATMENT,Idelvion,IDELVION (INTRAVEN),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Ilaris,ILARIS (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Ilaris Adult-Onset Still's Disease,ILARIS (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Ilaris Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),ILARIS (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Ilaris Familial Mediterranean Fever (FMF),ILARIS (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Ilaris Gout Flares,ILARIS (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Ilaris Hyperimmunoglobulin D Syndrome (HIDS)/Mevalonate Kinase Deficiency (MKD),ILARIS (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Ilaris Systemic-Onset Juvenile Idiopathic Arthritis (SJIA),ILARIS (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Ilaris Tumor Necrosis Factor Receptor Associated Periodic Syndrome (TRAPS),ILARIS (SUBCUTANE.),Non-Preferred
+"OPHTHALMICS, ANTI-INFLAMMATORIES",Ilevro ophthalmic suspension,ILEVRO (OPHTHALMIC),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Ilumya,ILUMYA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Ilumya Plaque Psoriasis (adult),ILUMYA SYRINGE (SUBCUTANE.),Non-Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Imitrex,IMITREX (ORAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Imitrex STATdose,IMITREX (NASAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Imitrex STATdose cartridge,IMITREX (NASAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS","Imitrex STATdose cartridge, STATdose, tablet, vial",IMITREX (ORAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Imitrex nasal spray,IMITREX (NASAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Imitrex tablet,IMITREX (ORAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Imitrex vial,IMITREX VIAL (SUBCUTANE.),Non-Preferred
+COPD AGENTS,Incruse Ellipta,INCRUSE ELLIPTA (INHALATION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Inflectra,INFLECTRA VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Inflectra Ankylosing Spondylitis,INFLECTRA VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Inflectra Crohn's Disease (adult),INFLECTRA VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Inflectra Crohn's Disease (pediatric),INFLECTRA VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Inflectra Plaque Psoriasis (adult),INFLECTRA VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Inflectra Psoriatic Arthritis (adult),INFLECTRA VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Inflectra Rheumatoid Arthritis,INFLECTRA VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Inflectra Ulcerative Colitis (adult),INFLECTRA VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Inflectra Ulcerative Colitis (pediatric),INFLECTRA VIAL (INTRAVEN.),Non-Preferred
+MOVEMENT DISORDERS,Ingrezza,INGREZZA (ORAL),Preferred
+MOVEMENT DISORDERS,Ingrezza Huntington's Disease,INGREZZA (ORAL),Preferred
+MOVEMENT DISORDERS,"Ingrezza Huntington's Disease, sprinkle capsule",INGREZZA SPRINKLE (ORAL),Preferred
+MOVEMENT DISORDERS,"Ingrezza Huntington's Disease, titration pack",INGREZZA INITIATION PACK (ORAL),Preferred
+MOVEMENT DISORDERS,Ingrezza Tardive Dyskinesia,INGREZZA (ORAL),Preferred
+MOVEMENT DISORDERS,"Ingrezza Tardive Dyskinesia, sprinkle capsule",INGREZZA SPRINKLE (ORAL),Preferred
+MOVEMENT DISORDERS,"Ingrezza Tardive Dyskinesia, titration pack",INGREZZA INITIATION PACK (ORAL),Preferred
+MOVEMENT DISORDERS,Ingrezza Tourette's Syndrome/Tics,INGREZZA (ORAL),Preferred
+MOVEMENT DISORDERS,Ingrezza Unspecified Hyperkinetic Movement Disorder,INGREZZA (ORAL),Preferred
+MOVEMENT DISORDERS,Ingrezza capsule,INGREZZA (ORAL),Preferred
+MOVEMENT DISORDERS,Ingrezza sprinkle capsule,INGREZZA SPRINKLE (ORAL),Preferred
+MOVEMENT DISORDERS,Ingrezza titration pack,INGREZZA INITIATION PACK (ORAL),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Insulin Glargine,INSULIN GLARGINE VIAL (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Insulin Glargine 300 units/mL, generic Toujeo",INSULIN GLARGINE VIAL (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Insulin Glargine U-100, generic Lantus",INSULIN GLARGINE PEN (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Insulin Glargine U-100, generic Toujeo",INSULIN GLARGINE PEN (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Insulin Lispro,INSULIN LISPRO VIAL (AG) (SUBCUTANEOUS),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Insulin Lispro pen,INSULIN LISPRO PEN (AG) (SUBCUTANEOUS),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Insulin Lispro vial,INSULIN LISPRO VIAL (AG) (SUBCUTANEOUS),Preferred
+HIV / AIDS,Intelence,INTELENCE (ORAL),Preferred
+HIV / AIDS,Intelence 100 mg,INTELENCE (ORAL),Preferred
+HIV / AIDS,Intelence 200 mg,INTELENCE (ORAL),Preferred
+HIV / AIDS,Intelence 25 mg,INTELENCE (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Invega ER,INVEGA (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Invega Hafyera,INVEGA HAFYERA (INTRAMUSC),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Invega Sustenna,INVEGA SUSTENNA (INTRAMUSC),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Invega Trinza,INVEGA TRINZA (INTRAMUSC),Preferred
+"HYPOGLYCEMICS, SGLT2",Invokamet,INVOKAMET (ORAL),Non-Preferred
+"HYPOGLYCEMICS, SGLT2",Invokamet XR,INVOKAMET XR (ORAL),Non-Preferred
+"HYPOGLYCEMICS, SGLT2",Invokana,INVOKANA (ORAL),Preferred
+"HYPOGLYCEMICS, SGLT2",Invokana Chronic Kidney Disease,INVOKANA (ORAL),Preferred
+"HYPOGLYCEMICS, SGLT2",Invokana Type 2 Diabetes,INVOKANA (ORAL),Preferred
+"OPHTHALMICS, GLAUCOMA AGENTS",Iopidine ophthalmic solution,IOPIDINE (OPHTHALMIC),Non-Preferred
+ANGIOTENSIN MODULATORS,Irbesartan,IRBESARTAN (ORAL),Preferred
+HIV / AIDS,Isentress,ISENTRESS (ORAL),Preferred
+HIV / AIDS,Isentress chewable tablet,ISENTRESS TAB CHEW (ORAL),Preferred
+HIV / AIDS,Isentress packet,ISENTRESS POWDER PACK (ORAL),Preferred
+HIV / AIDS,Isentress tablet,ISENTRESS (ORAL),Preferred
+HEMOPHILIA TREATMENT,Ixinity,IXINITY (INTRAVEN),Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Janumet,JANUMET (ORAL),Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Januvia,JANUVIA (ORAL),Preferred
+"HYPOGLYCEMICS, SGLT2",Jardiance,JARDIANCE (ORAL),Preferred
+"HYPOGLYCEMICS, SGLT2",Jardiance Chronic Kidney Disease,JARDIANCE (ORAL),Preferred
+"HYPOGLYCEMICS, SGLT2",Jardiance Type 2 Diabetes,JARDIANCE (ORAL),Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Jentadueto,JENTADUETO (ORAL),Preferred
+HEMOPHILIA TREATMENT,Jivi,JIVI (INTRAVEN),Preferred
+STIMULANTS AND RELATED AGENTS,Jornay PM,JORNAY PM (ORAL),Non-Preferred
+HAE TREATMENTS,Kalbitor,KALBITOR (SUBCUTANE.),Non-Preferred
+HIV / AIDS,Kaletra,KALETRA TABLET (ORAL),Non-Preferred
+"CYSTIC FIBROSIS, ORAL",Kalydeco,KALYDECO TABLET (ORAL),Preferred
+ANTICONVULSANTS,Keppra XR,KEPPRA XR (ORAL),Non-Preferred
+ANTICONVULSANTS,Keppra oral solution,KEPPRA SOLUTION (ORAL),Non-Preferred
+ANTICONVULSANTS,Keppra tablet,KEPPRA TABLETS (ORAL),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,Kesimpta,KESIMPTA (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),KEVZARA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Kevzara Polymyalgia Rheumatica (PMR),KEVZARA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Kevzara Rheumatoid Arthritis,KEVZARA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Kevzara prefilled pen,KEVZARA PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Kevzara prefilled pen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",KEVZARA PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Kevzara prefilled pen, Polymyalgia Rheumatica (PMR)",KEVZARA PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Kevzara prefilled pen, Rheumatoid Arthritis",KEVZARA PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Kevzara prefilled syringe,KEVZARA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Kevzara prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",KEVZARA PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Kevzara prefilled syringe, Polymyalgia Rheumatica (PMR)",KEVZARA PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Kevzara prefilled syringe, Rheumatoid Arthritis",KEVZARA PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Kineret,KINERET (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Kineret Deficiency of Interleukin-1 Receptor Antagonist (DIRA),KINERET (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Kineret Neonatal-Onset Multisystem Inflammatory Disease (NOMID),KINERET (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Kineret Rheumatoid Arthritis,KINERET (INJECTION),Non-Preferred
+"ANTIBIOTICS, INHALED",Kitabis Pak,KITABIS PAK (INHALATION),Preferred
+"ANTIBIOTICS, INHALED",Kitabis Pak 300 mg/5 ml,KITABIS PAK (INHALATION),Preferred
+OPIATE DEPENDENCE TREATMENTS -REVERSAL AGENTS,Kloxxado,KLOXXADO NASAL SPRAY,Preferred
+HEMOPHILIA TREATMENT,Kogenate FS,KOGENATE FS (INTRAVEN.),Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Kombiglyze XR,KOMBIGLYZE XR (ORAL),Non-Preferred
+PROTON PUMP INHIBITORS,Konvomep,KONVOMEP (ORAL),Non-Preferred
+HEMOPHILIA TREATMENT,Kovaltry,KOVALTRY (INTRAVEN.),Preferred
+ANTIHYPERURICEMICS,Krystexxa,KRYSTEXXA (INTRAVEN),Non-Preferred
+ANTICONVULSANTS,Lamictal ODT,LAMICTAL ODT (ORAL),Non-Preferred
+ANTICONVULSANTS,Lamictal tablet,LAMICTAL TABLET (ORAL),Non-Preferred
+ANTICONVULSANTS,Lamotrigine,LAMOTRIGINE TABLET (ORAL),Preferred
+ANTICONVULSANTS,Lamotrigine ER,LAMOTRIGINE XR (ORAL),Preferred
+ANTICONVULSANTS,Lamotrigine IR,LAMOTRIGINE TABLET (ORAL),Preferred
+ANTICONVULSANTS,Lamotrigine ODT,LAMOTRIGINE ODT (ORAL),Non-Preferred
+ANTICONVULSANTS,Lamotrigine chewable tablet,LAMOTRIGINE TABLET CHEW TAB(ORAL),Preferred
+ANTICONVULSANTS,Lamotrigine tablet,LAMOTRIGINE TABLET (ORAL),Preferred
+ANTICONVULSANTS,"Lamotrigine tablet, ER",LAMOTRIGINE XR (ORAL),Preferred
+PROTON PUMP INHIBITORS,Lansoprazole,LANSOPRAZOLE CAPSULES (ORAL),Preferred
+PROTON PUMP INHIBITORS,Lansoprazole DR capsule,LANSOPRAZOLE CAPSULES (ORAL),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Lantus SoloStar,LANTUS SOLOSTAR (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Lantus vial,LANTUS VIAL (SUBCUTANE.),Preferred
+OPHTHALMICS FOR ALLERGIC CONJUNCTIVITIS,Lastacaft,LASTACAFT (OPHTHALMIC),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Latuda,LATUDA (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,Ledipasvir / Sofosbuvir,SOFOSBUVIR/LEDIPASVIR (AG),Non-Preferred
+HEPATITIS C AGENTS - DAA,"Ledipasvir / Sofosbuvir 90 mg/400 mg, tablet",SOFOSBUVIR/LEDIPASVIR (AG),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Letairis,LETAIRIS (ORAL),Non-Preferred
+"BRONCHODILATORS, BETA AGONIST",Levalbuterol Tartrate inhalation aerosol solution,LEVALBUTEROL NEB SOLN (INHALATION),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Levemir FlexTouch,LEVEMIR PENS (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Levemir vial,LEVEMIR VIAL (SUBCUTANE.),Preferred
+HIV / AIDS,Lexiva,LEXIVA TABLET (ORAL),Preferred
+"GI MOTILITY, CHRONIC",Linzess,LINZESS (ORAL),Preferred
+"GI MOTILITY, CHRONIC",Linzess 145 mcg,LINZESS (ORAL),Preferred
+"GI MOTILITY, CHRONIC",Linzess 290 mcg,LINZESS (ORAL),Preferred
+"GI MOTILITY, CHRONIC",Linzess 72 mcg,LINZESS (ORAL),Preferred
+"PAH AGENTS, ORAL AND INHALED",Liqrev,LIQREV SUSPENSION (ORAL),Non-Preferred
+ANGIOTENSIN MODULATORS,Lisinopril,LISINOPRIL (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Litfulo,LITFULO CAPSULE (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Litfulo Alopecia Areata,LITFULO CAPSULE (ORAL),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Lorzone,LORZONE (ORAL),Non-Preferred
+ANGIOTENSIN MODULATORS,Losartan,LOSARTAN (ORAL),Preferred
+OPIATE DEPENDENCE TREATMENTS,Lucemyra,LUCEMYRA (ORAL),Non-Preferred
+"OPHTHALMICS, GLAUCOMA AGENTS",Lumigan 2.5 mL,"LUMIGAN 2.5ML, 5ML, 7.5ML (OPHTHALMIC)",Preferred
+"OPHTHALMICS, GLAUCOMA AGENTS",Lumigan 5 mL,"LUMIGAN 2.5ML, 5ML, 7.5ML (OPHTHALMIC)",Preferred
+"OPHTHALMICS, GLAUCOMA AGENTS",Lumigan 7.5 mL,"LUMIGAN 2.5ML, 5ML, 7.5ML (OPHTHALMIC)",Preferred
+ANTIPSYCHOTICS - ATYPICAL,Lurasidone,LURASIDONE (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Lybalvi,LYBALVI (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Lybalvi Bipolar I Disorder,LYBALVI (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Lybalvi Schizophrenia,LYBALVI (ORAL),Non-Preferred
+NEUROPATHIC PAIN,Lyrica,LYRICA CAPSULE (ORAL),Non-Preferred
+NEUROPATHIC PAIN,Lyrica ER tablet,LYRICA CR TABLET (ORAL),Non-Preferred
+NEUROPATHIC PAIN,Lyrica capsule,LYRICA CAPSULE (ORAL),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Lyumjev KwikPen, U-100",LYUMJEV 100 U/ML PEN (SUBCUTANEOUS),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Lyumjev KwikPen, U-200",LYUMJEV 200 U/ML PEN (SUBCUTANEOUS),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Lyumjev vial,LYUMJEV VIAL (SUBCUTANEOUS),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Lyvispah,LYVISPAH (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,Mavyret,MAVYRET (ORAL),Preferred
+HEPATITIS C AGENTS - DAA,Mavyret pellet packet,MAVYRET (ORAL),Preferred
+HEPATITIS C AGENTS - DAA,Mavyret tablet,MAVYRET (ORAL),Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Maxalt,MAXALT TABLET (ORAL),Non-Preferred
+"OPHTHALMICS, ANTI-INFLAMMATORIES",Maxidex ophthalmic suspension,MAXIDEX (OPHTHALMIC),Non-Preferred
+OPHTHALMIC ANTIBIOTIC-STEROID COMBINATIONS,Maxitrol ophthalmic ointment,MAXITROL OINT. (OPHTHALMIC),Non-Preferred
+OPHTHALMIC ANTIBIOTIC-STEROID COMBINATIONS,Maxitrol ophthalmic suspension,MAXITROL DROPS SUSP (OPHTHALMIC),Non-Preferred
+ALZHEIMER'S AGENTS,Memantine XR,MEMANTINE ER (ORAL),Non-Preferred
+ALZHEIMER'S AGENTS,Memantine oral solution,MEMANTINE SOLUTION (ORAL),Non-Preferred
+ALZHEIMER'S AGENTS,Memantine tablet,MEMANTINE TABLET DOSE PACK (AG) (ORAL),Preferred
+ALZHEIMER'S AGENTS,Memantine titration pack,MEMANTINE TABLET DOSE PACK (AG) (ORAL),Preferred
+SKELETAL MUSCLE RELAXANTS,Metaxalone,METAXALONE (ORAL),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Metaxalone 640 mg,METAXALONE (ORAL),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Metaxalone 800 mg,METAXALONE (ORAL),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,"Metaxalone 800 mg, 400 mg",METAXALONE (ORAL),Non-Preferred
+BETA-BLOCKERS,Metoprolol Succinate ER tablet,METOPROLOL XL (ORAL),Preferred
+"ANTIBIOTICS, VAGINAL",Metrogel 0.75%,METROGEL-VAGINAL (VAGINAL),Non-Preferred
+"ANTIBIOTICS, VAGINAL",Metronidazole 0.75% Gel,METRONIDAZOLE (VAGINAL),Preferred
+"OPHTHALMICS, ANTI-INFLAMMATORY/IMMUNOMODULATOR",Miebo,MIEBO (OPHTHALMIC),Non-Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Migranal,MIGRANAL (NASAL),Non-Preferred
+ANGIOTENSIN MODULATORS,Moexipril,MOEXIPRIL (ORAL),Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Mounjaro,MOUNJARO (SUBCUTANE.),Non-Preferred
+OPIATE DEPENDENCE TREATMENTS -REVERSAL AGENTS,Naloxone carpuject,NALOXONE SYRINGE (INJECTION),Non-Preferred
+OPIATE DEPENDENCE TREATMENTS -REVERSAL AGENTS,Naloxone nasal spray,NALOXONE SPRAY (NASAL),Non-Preferred
+OPIATE DEPENDENCE TREATMENTS -REVERSAL AGENTS,Naloxone prefilled syringe,NALOXONE SYRINGE (INJECTION),Non-Preferred
+OPIATE DEPENDENCE TREATMENTS -REVERSAL AGENTS,"Naloxone prefilled syringe, 0.4 mg/mL",NALOXONE SYRINGE (INJECTION),Non-Preferred
+OPIATE DEPENDENCE TREATMENTS -REVERSAL AGENTS,"Naloxone prefilled syringe, 2 mg/2mL",NALOXONE SYRINGE (INJECTION),Non-Preferred
+OPIATE DEPENDENCE TREATMENTS -REVERSAL AGENTS,Naloxone syringe,NALOXONE SYRINGE (INJECTION),Non-Preferred
+OPIATE DEPENDENCE TREATMENTS -REVERSAL AGENTS,Naloxone vial,NALOXONE VIAL (INJECTION),Non-Preferred
+OPIATE DEPENDENCE TREATMENTS -REVERSAL AGENTS,"Naloxone vial, 0.4 mg/mL",NALOXONE VIAL (INJECTION),Non-Preferred
+OPIATE DEPENDENCE TREATMENTS -REVERSAL AGENTS,"Naloxone vial, 4 mg/10mL",NALOXONE VIAL (INJECTION),Non-Preferred
+ALZHEIMER'S AGENTS,Namenda,NAMENDA TABLET DOSE PACK (ORAL),Non-Preferred
+ALZHEIMER'S AGENTS,Namenda XR,NAMENDA XR (ORAL),Non-Preferred
+ALZHEIMER'S AGENTS,Namzaric,NAMZARIC (ORAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Naratriptan,NARATRIPTAN (ORAL),Non-Preferred
+OPIATE DEPENDENCE TREATMENTS -REVERSAL AGENTS,Narcan,NARCAN SPRAY (NASAL),Preferred
+OPIATE DEPENDENCE TREATMENTS -REVERSAL AGENTS,Narcan nasal spray,NARCAN SPRAY (NASAL),Preferred
+OPHTHALMIC ANTIBIOTICS,Natacyn (Natamycin) ophthalmic suspension,NATACYN (OPHTHALMIC),Non-Preferred
+ANTICONVULSANTS,Nayzilam,NAYZILAM (NASAL),Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Nemluvio auto-injector, Atopic Dermatitis (adult)",NEMLUVIO PEN (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Nemluvio auto-injector, Atopic Dermatitis (pediatric)",NEMLUVIO PEN (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Nemluvio auto-injector, Prurigo Nodularis",NEMLUVIO PEN (SUBCUTANEOUS),Non-Preferred
+"OPHTHALMICS, ANTI-INFLAMMATORIES",Nevanac ophthalmic suspension,NEVANAC (OPHTHALMIC),Non-Preferred
+PROTON PUMP INHIBITORS,Nexium DR capsule,NEXIUM (ORAL),Non-Preferred
+PROTON PUMP INHIBITORS,Nexium DR packet for oral suspension,NEXIUM SUSPENSION (ORAL),Preferred
+PROTON PUMP INHIBITORS,"Nexium DR packet for oral suspension, 10 mg",NEXIUM SUSPENSION (ORAL),Preferred
+PROTON PUMP INHIBITORS,"Nexium DR packet for oral suspension, 2.5 mg, 5 mg",NEXIUM SUSPENSION (ORAL),Preferred
+GROWTH HORMONE,Norditropin,NORDITROPIN PEN (INJECTION),Preferred
+SKELETAL MUSCLE RELAXANTS,Norgesic Forte,NORGESIC FORTE (ORAL),Non-Preferred
+HIV / AIDS,Norvir,NORVIR TABLET (ORAL),Preferred
+HIV / AIDS,Norvir oral solution,NORVIR SOLUTION (ORAL),Preferred
+HIV / AIDS,Norvir packet,NORVIR POWDER PACK (ORAL),Preferred
+HIV / AIDS,Norvir tablet,NORVIR TABLET (ORAL),Preferred
+HEMOPHILIA TREATMENT,Novoeight,NOVOEIGHT (INTRAVEN),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Novolin 70/30,NOVOLIN 70/30 VIAL OTC (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Novolin 70/30 Flexpen OTC,NOVOLIN PEN OTC (SUBCUTANEOUS),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Novolin N,NOVOLIN N VIAL OTC (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Novolin N vial,NOVOLIN N VIAL OTC (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Novolin N vial, U-100",NOVOLIN N VIAL OTC (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Novolin R,NOVOLIN R VIAL OTC (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Novolin R vial,NOVOLIN R VIAL OTC (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Novolin R vial, U-100",NOVOLIN R VIAL OTC (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Novolog,NOVOLOG VIAL (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Novolog 70/30,NOVOLOG MIX VIAL (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Novolog 70/30 FlexPen,NOVOLOG MIX PEN (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Novolog FlexPen, 100 unit/ml",NOVOLOG PEN (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Novolog cartridge,NOVOLOG CARTRIDGE (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Novolog vial,NOVOLOG VIAL (SUBCUTANE.),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Novolog vial, 100 unit/ml",NOVOLOG VIAL (SUBCUTANE.),Preferred
+HEMOPHILIA TREATMENT,Novoseven RT,NOVOSEVEN RT (INTRAVEN),Preferred
+"IMMUNOMODULATORS, ASTHMA",Nucala,NUCALA VIAL (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala 100 mg, prefilled syringe, Asthma (adult)",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala 100 mg, prefilled syringe, Asthma (pediatric)",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala 100 mg, prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala 100 mg, prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala 100 mg, prefilled syringe, Hypereosinophilic Syndrome (HES)",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala 40 mg, prefilled syringe, Asthma (adult)",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala 40 mg, prefilled syringe, Asthma (pediatric)",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala 40 mg, prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala 40 mg, prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala 40 mg, prefilled syringe, Hypereosinophilic Syndrome (HES)",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA",Nucala Asthma (adult),NUCALA VIAL (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA",Nucala Asthma (pediatric),NUCALA VIAL (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA",Nucala Chronic Rhinosinusitis with Nasal Polyposis,NUCALA VIAL (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA",Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),NUCALA VIAL (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA",Nucala Hypereosinophilic Syndrome (HES),NUCALA VIAL (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA",Nucala auto-injector,NUCALA AUTO-INJECTOR (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala auto-injector, Asthma (adult)",NUCALA AUTO-INJECTOR (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala auto-injector, Asthma (pediatric)",NUCALA AUTO-INJECTOR (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",NUCALA AUTO-INJECTOR (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",NUCALA AUTO-INJECTOR (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala auto-injector, Hypereosinophilic Syndrome (HES)",NUCALA AUTO-INJECTOR (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA",Nucala prefilled syringe,NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala prefilled syringe, Asthma (adult)",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala prefilled syringe, Asthma (pediatric)",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala prefilled syringe, Hypereosinophilic Syndrome (HES)",NUCALA SYRINGE (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA",Nucala vial,NUCALA VIAL (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala vial, Asthma (adult)",NUCALA VIAL (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala vial, Asthma (pediatric)",NUCALA VIAL (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala vial, Chronic Rhinosinusitis with Nasal Polyposis",NUCALA VIAL (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala vial, Eosinophilic Granulomatosis with Polyangitis (EGPA)",NUCALA VIAL (SUBCUTANEOUS),Preferred
+"IMMUNOMODULATORS, ASTHMA","Nucala vial, Hypereosinophilic Syndrome (HES)",NUCALA VIAL (SUBCUTANEOUS),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Nuplazid,NUPLAZID TABLET (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Nuplazid capsule,NUPLAZID CAPSULE (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Nuplazid tablet,NUPLAZID TABLET (ORAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Nurtec ODT,NURTEC ODT (ORAL),Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Nurtec ODT Acute Treatment,NURTEC ODT (ORAL),Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Nurtec ODT Migraine Prophylaxis,NURTEC ODT (ORAL),Preferred
+GROWTH HORMONE,Nutropin AQ,NUTROPIN AQ PEN (INJECTION),Preferred
+"ANTIBIOTICS, VAGINAL",Nuvessa,NUVESSA (VAGINAL),Preferred
+HEMOPHILIA TREATMENT,Nuwiq,NUWIQ (INTRAVEN),Preferred
+MULTIPLE SCLEROSIS AGENTS,Ocrevus,OCREVUS (INTRAVEN.),Non-Preferred
+HIV / AIDS,Odefsey,ODEFSEY (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Olanzapine And Fluoxetine,OLANZAPINE/FLUOXETINE (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Olanzapine ODT,OLANZAPINE ODT (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Olanzapine tablet,OLANZAPINE TABLET (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Olanzapine vial,OLANZAPINE (INTRAMUSC),Preferred
+ANGIOTENSIN MODULATORS,Olmesartan,OLMESARTAN (ORAL),Preferred
+"UREA CYCLE DISORDERS, ORAL",Olpruva,OLPRUVA (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Olumiant,OLUMIANT,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Olumiant Alopecia Areata,OLUMIANT,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Olumiant Coronavirus Disease 2019,OLUMIANT,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Olumiant Rheumatoid Arthritis,OLUMIANT,Non-Preferred
+PROTON PUMP INHIBITORS,Omeprazole capsule,OMEPRAZOLE (ORAL),Preferred
+PROTON PUMP INHIBITORS,"Omeprazole capsule, 10 mg",OMEPRAZOLE (ORAL),Preferred
+PROTON PUMP INHIBITORS,"Omeprazole capsule, 20 mg",OMEPRAZOLE (ORAL),Preferred
+PROTON PUMP INHIBITORS,"Omeprazole capsule, 40 mg",OMEPRAZOLE (ORAL),Preferred
+PROTON PUMP INHIBITORS,Omeprazole tablet,OMEPRAZOLE (ORAL),Preferred
+GROWTH HORMONE,Omnitrope,OMNITROPE VIAL (INJECTION),Non-Preferred
+ANTICONVULSANTS,Onfi oral suspension,ONFI SUSPENSION (ORAL),Non-Preferred
+ANTICONVULSANTS,Onfi tablet,ONFI TABLET (ORAL),Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Onglyza,ONGLYZA (ORAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Onzetra,ONZETRA XSAIL (NASAL),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Opsumit,OPSUMIT (ORAL),Preferred
+"PAH AGENTS, ORAL AND INHALED",Opsynvi tablet,OPSYNVI TABLET (ORAL),Non-Preferred
+OPIATE DEPENDENCE TREATMENTS -REVERSAL AGENTS,Opvee (Nalmefene),OPVEE SPRAY (NASAL),Non-Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS",Opzelura,OPZELURA (TOPICAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Orencia Acute Graft Versus Host Disease (aGVHD),ORENCIA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia ClickJect, Acute Graft Versus Host Disease (aGVHD)",ORENCIA CLICKJECT (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ORENCIA CLICKJECT (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia ClickJect, Psoriatic Arthritis (adult)",ORENCIA CLICKJECT (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia ClickJect, Psoriatic Arthritis (pediatric)",ORENCIA CLICKJECT (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia ClickJect, Rheumatoid Arthritis",ORENCIA CLICKJECT (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Orencia Polyarticular Juvenile Idiopathic Arthritis (PJIA),ORENCIA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Orencia Psoriatic Arthritis (adult),ORENCIA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Orencia Rheumatoid Arthritis,ORENCIA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Orencia prefilled syringe,ORENCIA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia prefilled syringe, Acute Graft Versus Host Disease (aGVHD)",ORENCIA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ORENCIA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia prefilled syringe, Psoriatic Arthritis (adult)",ORENCIA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)",ORENCIA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia prefilled syringe, Rheumatoid Arthritis",ORENCIA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Orencia vial,ORENCIA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia vial, Acute Graft Versus Host Disease (aGVHD)",ORENCIA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ORENCIA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia vial, Psoriatic Arthritis (adult)",ORENCIA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia vial, Psoriatic Arthritis (pediatric)",ORENCIA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Orencia vial, Rheumatoid Arthritis",ORENCIA VIAL (INJECTION),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Orenitram ER,ORENITRAM ER (ORAL),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Orenitram ER tablet,ORENITRAM ER (ORAL),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Orenitram ER titration kit,ORENITRAM TITRATION KIT (ORAL),Non-Preferred
+HAE TREATMENTS,Orladeyo,ORLADEYO (ORAL),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Orphenadrine ER,ORPHENADRINE ER (ORAL),Non-Preferred
+"ANTIVIRALS, ORAL",Oseltamivir,OSELTAMIVIR CAPSULE (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Otezla,OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Otezla 20 mg,OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Otezla 30 mg,OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Otezla Behcet's Disease,OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Behcet's Disease, 20 mg",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Behcet's Disease, 20 mg, tablet",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Behcet's Disease, 30 mg",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Behcet's Disease, 30 mg, tablet",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Behcet's Disease, starter pack",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Behcet's Disease, tablet",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Otezla Plaque Psoriasis (adult),OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Plaque Psoriasis (adult), 20 mg",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Plaque Psoriasis (adult), 20 mg, tablet",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Plaque Psoriasis (adult), 30 mg",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Plaque Psoriasis (adult), 30 mg, tablet",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Plaque Psoriasis (adult), starter pack",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Plaque Psoriasis (adult), tablet",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Otezla Plaque Psoriasis (pediatric),OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Plaque Psoriasis (pediatric), 20 mg",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Plaque Psoriasis (pediatric), 20 mg, tablet",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Plaque Psoriasis (pediatric), 30 mg",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Plaque Psoriasis (pediatric), 30 mg, tablet",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Plaque Psoriasis (pediatric), starter pack",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Plaque Psoriasis (pediatric), tablet",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Otezla Psoriatic Arthritis (adult),OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Psoriatic Arthritis (adult), 20 mg",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Psoriatic Arthritis (adult), 20 mg, tablet",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Psoriatic Arthritis (adult), 30 mg",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Psoriatic Arthritis (adult), 30 mg, tablet",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Psoriatic Arthritis (adult), starter pack",OTEZLA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Otezla Psoriatic Arthritis (adult), tablet",OTEZLA (ORAL),Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Ozempic,OZEMPIC (PEN),Preferred
+SKELETAL MUSCLE RELAXANTS,Ozobax,OZOBAX (ORAL),Non-Preferred
+"OPHTHALMICS, ANTI-INFLAMMATORIES",Ozurdex,OZURDEX (INTRAOCULR),Non-Preferred
+PROTON PUMP INHIBITORS,Pantoprazole DR packet for oral suspension,PANTOPRAZOLE SUSPENSION (ORAL),Non-Preferred
+PROTON PUMP INHIBITORS,Pantoprazole tablet,PANTOPRAZOLE (ORAL),Preferred
+ANGIOTENSIN MODULATORS,Perindopril,PERINDOPRIL (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Perseris,PERSERIS ER  (SUBCUTANE.),Preferred
+"UREA CYCLE DISORDERS, ORAL",Pheburane,PHEBURANE (ORAL),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,Ponvory starter pack,PONVORY STARTER PACK (ORAL),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,Ponvory tablet,PONVORY TABLET (ORAL),Non-Preferred
+ANTICOAGULANTS,Pradaxa,PRADAXA (ORAL),Preferred
+ANTICOAGULANTS,Pradaxa capsule,PRADAXA (ORAL),Preferred
+ANTICOAGULANTS,Pradaxa packet,PRADAXA PELLET PACK (ORAL),Non-Preferred
+"LIPOTROPICS, OTHER - PCSK-9 INHIBITORS",Praluent,PRALUENT PEN (SUBCUTANEOUS),Preferred
+"LIPOTROPICS, OTHER - PCSK-9 INHIBITORS",Praluent Cardiovascular disease (CVD) Prevention,PRALUENT PEN (SUBCUTANEOUS),Preferred
+"LIPOTROPICS, OTHER - PCSK-9 INHIBITORS",Praluent Heterozygous familial hypercholesterolemia (HeFH) or homozygous familial hypercholesterolemia (HoFH),PRALUENT PEN (SUBCUTANEOUS),Preferred
+PROTON PUMP INHIBITORS,Prevacid SoluTab,PREVACID SOLUTAB (ORAL),Non-Preferred
+PROTON PUMP INHIBITORS,Prevacid capsule,PREVACID CAPSULES (ORAL),Non-Preferred
+HIV / AIDS,Prezcobix,PREZCOBIX (ORAL),Preferred
+HIV / AIDS,Prezista 150 mg,PREZISTA (ORAL),Preferred
+HIV / AIDS,Prezista 600 mg,PREZISTA (ORAL),Preferred
+HIV / AIDS,Prezista 75 mg,PREZISTA (ORAL),Preferred
+HIV / AIDS,Prezista 800 mg,PREZISTA (ORAL),Preferred
+HIV / AIDS,Prezista oral suspension,PREZISTA ORAL SUSP (ORAL),Preferred
+HIV / AIDS,Prezista tablet,PREZISTA (ORAL),Preferred
+HIV / AIDS,"Prezista tablet, 150 mg",PREZISTA (ORAL),Preferred
+HIV / AIDS,"Prezista tablet, 600 mg",PREZISTA (ORAL),Preferred
+HIV / AIDS,"Prezista tablet, 75 mg",PREZISTA (ORAL),Preferred
+HIV / AIDS,"Prezista tablet, 800 mg",PREZISTA (ORAL),Preferred
+PROTON PUMP INHIBITORS,Prilosec DR packet for oral suspension,PRILOSEC SUSPENSION (ORAL),Non-Preferred
+"BRONCHODILATORS, BETA AGONIST",Proair Digihaler,PROAIR DIGIHALER (INHALATION),Non-Preferred
+"BRONCHODILATORS, BETA AGONIST",Proair HFA,PROAIR HFA (INHALATION),Preferred
+"BRONCHODILATORS, BETA AGONIST",Proair Respiclick,PROAIR RESPICLICK (INHALATION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Procrit,PROCRIT (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Procrit Anemia associated with chemotherapy,PROCRIT (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Procrit Anemia associated with chronic kidney disease if patient is not on dialysis,PROCRIT (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Procrit Anemia associated with chronic kidney disease if patient is on dialysis,PROCRIT (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Procrit Anemia associated with zidovudine in HIV therapy,PROCRIT (INJECTION),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,"Procrit To reduce the need for allogenic blood transfusions in anemic patients scheduled to undergo elective, non-cardiac, nonvascular surgery",PROCRIT (INJECTION),Preferred
+"IMMUNOSUPPRESSIVES, ORAL",Prograf capsule,PROGRAF (ORAL),Non-Preferred
+"IMMUNOSUPPRESSIVES, ORAL",Prograf packet for oral suspension,PROGRAF GRANULES PACK (ORAL),Non-Preferred
+BETA-BLOCKERS,Propranolol oral solution,PROPRANOLOL SOLUTION (ORAL),Preferred
+PROTON PUMP INHIBITORS,Protonix DR packet oral suspension,PROTONIX SUSPENSION (ORAL),Preferred
+PROTON PUMP INHIBITORS,Protonix DR tablet,PROTONIX (ORAL),Non-Preferred
+"BRONCHODILATORS, BETA AGONIST",Proventil HFA,PROVENTIL HFA,Preferred
+"GLUCOCORTICOIDS, INHALED",Pulmicort Flexhaler,PULMICORT FLEXHALER (INHALATION),Preferred
+"GLUCOCORTICOIDS, INHALED",Pulmicort Respules 0.25 mg,"PULMICORT 0.25, 0.5 MG RESPULES (INHALATION)",Non-Preferred
+"GLUCOCORTICOIDS, INHALED","Pulmicort Respules 0.25 mg, 0.5 mg","PULMICORT 0.25, 0.5 MG RESPULES (INHALATION)",Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Pulmicort Respules 0.5 mg,"PULMICORT 0.25, 0.5 MG RESPULES (INHALATION)",Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Pulmicort Respules 1 mg,PULMICORT 1 MG RESPULES (INHALATION),Non-Preferred
+STIMULANTS AND RELATED AGENTS,Qelbree,QELBREE (ORAL),Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Qtern,QTERN (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Quetiapine,QUETIAPINE TABLETS (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Quetiapine 150 mg,QUETIAPINE TABLETS (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Quetiapine ER,QUETIAPINE ER (AG) (ORAL),Preferred
+STIMULANTS AND RELATED AGENTS,Quillichew XR,QUILLICHEW ER (ORAL),Preferred
+STIMULANTS AND RELATED AGENTS,Quillivant XR,QUILLIVANT XR (ORAL),Preferred
+STIMULANTS AND RELATED AGENTS,Quillivant XR ER oral suspension,QUILLIVANT XR (ORAL),Preferred
+ANGIOTENSIN MODULATORS,Quinapril,QUINAPRIL (ORAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Qulipta,QULIPTA,Non-Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Qulipta Chronic Migraine,QULIPTA,Non-Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Qulipta Episodic Migraine,QULIPTA,Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Qvar,QVAR REDIHALER (INHALATION),Non-Preferred
+PROTON PUMP INHIBITORS,Rabeprazole,RABEPRAZOLE TABLETS (ORAL),Preferred
+PROTON PUMP INHIBITORS,Rabeprazole tablet,RABEPRAZOLE TABLETS (ORAL),Preferred
+ANGIOTENSIN MODULATORS,Ramipril,RAMIPRIL (ORAL),Non-Preferred
+"UREA CYCLE DISORDERS, ORAL",Ravicti,RAVICTI (ORAL),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,Rebif (Interferon Beta-1a) prefilled syringe,REBIF (SUBCUTANE.),Non-Preferred
+HEMOPHILIA TREATMENT,Rebinyn,REBINYN (INTRAVEN),Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Reblozyl (Luspatercept-Aamt) Beta Thalassemia,REBLOZYL (SUBCUTANEOUS),Non-Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Reblozyl (Luspatercept-Aamt) Myelodysplastic Syndrome,REBLOZYL (SUBCUTANEOUS),Non-Preferred
+ERYTHROPOIESIS STIMULATING PROTEINS,Reblozyl (Luspatercept-Aamt) vial,REBLOZYL (SUBCUTANEOUS),Non-Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Relpax,RELPAX (ORAL),Non-Preferred
+PHOSPHATE BINDERS,Renagel,RENAGEL (ORAL),Non-Preferred
+PHOSPHATE BINDERS,Renvela,RENVELA TABLET (ORAL),Non-Preferred
+PHOSPHATE BINDERS,Renvela packet for oral suspension,RENVELA POWDER PACK (ORAL),Non-Preferred
+PHOSPHATE BINDERS,Renvela tablet,RENVELA TABLET (ORAL),Non-Preferred
+"LIPOTROPICS, OTHER - PCSK-9 INHIBITORS",Repatha,REPATHA SYRINGE (SUBCUTANEOUS),Preferred
+"LIPOTROPICS, OTHER - PCSK-9 INHIBITORS",Repatha Cardiovascular disease (CVD) Prevention,REPATHA SYRINGE (SUBCUTANEOUS),Preferred
+"LIPOTROPICS, OTHER - PCSK-9 INHIBITORS",Repatha Heterozygous familial hypercholesterolemia (HeFH) or homozygous familial hypercholesterolemia (HoFH),REPATHA SYRINGE (SUBCUTANEOUS),Preferred
+"OPHTHALMICS, ANTI-INFLAMMATORY/IMMUNOMODULATOR",Restasis,RESTASIS (OPHTHALMIC),Preferred
+"OPHTHALMICS, ANTI-INFLAMMATORY/IMMUNOMODULATOR",Restasis MultiDose,RESTASIS MULTIDOSE (OPHTHALMIC),Preferred
+"OPHTHALMICS, ANTI-INFLAMMATORY/IMMUNOMODULATOR",Restasis droperette,RESTASIS (OPHTHALMIC),Preferred
+"OPHTHALMICS, ANTI-INFLAMMATORY/IMMUNOMODULATOR",Restasis single dose,RESTASIS (OPHTHALMIC),Preferred
+"PAH AGENTS, ORAL AND INHALED",Revatio oral suspension,REVATIO SUSPENSION (ORAL),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Revatio tablet,REVATIO TABLET (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Rexulti,REXULTI (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Rexulti Adjunct treatment of major depressive disorder,REXULTI (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Rexulti Schizophrenia,REXULTI (ORAL),Non-Preferred
+HIV / AIDS,Reyataz,REYATAZ CAPSULE (ORAL),Non-Preferred
+HIV / AIDS,Reyataz capsule,REYATAZ CAPSULE (ORAL),Non-Preferred
+HIV / AIDS,Reyataz powder packet,REYATAZ POWDER PACK (ORAL),Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Reyvow,REYVOW (ORAL),Non-Preferred
+"IMMUNOSUPPRESSIVES, ORAL",Rezurock,REZUROCK (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Rinvoq,RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Rinvoq Ankylosing Spondylitis,RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Ankylosing Spondylitis, ER tablet",RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Ankylosing Spondylitis, LQ",RINVOQ LQ SOLUTION (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Rinvoq Atopic Dermatitis (adult),RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Atopic Dermatitis (adult), ER tablet",RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Atopic Dermatitis (adult), LQ",RINVOQ LQ SOLUTION (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Rinvoq Crohn's Disease (adult),RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Crohn's Disease (adult), ER tablet",RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Crohn's Disease (adult), LQ",RINVOQ LQ SOLUTION (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Rinvoq Non-Radiographic Axial Spondyloarthritis,RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Non-Radiographic Axial Spondyloarthritis, ER tablet",RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Non-Radiographic Axial Spondyloarthritis, LQ",RINVOQ LQ SOLUTION (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA),RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA), ER tablet",RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA), LQ",RINVOQ LQ SOLUTION (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Rinvoq Psoriatic Arthritis (adult),RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Psoriatic Arthritis (adult), ER tablet",RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Psoriatic Arthritis (adult), LQ",RINVOQ LQ SOLUTION (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Rinvoq Psoriatic Arthritis (pediatric),RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Psoriatic Arthritis (pediatric), ER tablet",RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Psoriatic Arthritis (pediatric), LQ",RINVOQ LQ SOLUTION (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Rinvoq Rheumatoid Arthritis,RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Rheumatoid Arthritis, ER tablet",RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Rheumatoid Arthritis, LQ",RINVOQ LQ SOLUTION (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Rinvoq Ulcerative Colitis (adult),RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Ulcerative Colitis (adult), ER tablet",RINVOQ ER (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Rinvoq Ulcerative Colitis (adult), LQ",RINVOQ LQ SOLUTION (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Risperdal Consta,RISPERDAL CONSTA (INTRAMUSC.),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Risperdal oral solution,RISPERDAL SOLUTION (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Risperdal tablet,RISPERDAL TABLET (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Risperidone ODT,RISPERIDONE ODT (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Risperidone oral solution,RISPERIDONE SOLUTION (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Risperidone tablet,RISPERIDONE TABLET (ORAL),Preferred
+ALZHEIMER'S AGENTS,Rivastigmine capsule,RIVASTIGMINE CAPSULES (ORAL),Preferred
+ALZHEIMER'S AGENTS,Rivastigmine patch,RIVASTIGMINE (AG) (TRANSDERM.),Preferred
+HEMOPHILIA TREATMENT,Rixubis,RIXUBIS,Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Rizatriptan,RIZATRIPTAN TABLET (ORAL),Preferred
+HEMOPHILIA TREATMENT,Roctavian,ROCTAVIAN (INTRAVEN),Non-Preferred
+HAE TREATMENTS,Ruconest,RUCONEST (IV),Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Rybelsus,RYBELSUS (ORAL),Preferred
+ANTICONVULSANTS,Sabril Infantile spasms,SABRIL TABLET (ORAL),Non-Preferred
+ANTICONVULSANTS,Sabril Refractory complex partial seizures,SABRIL TABLET (ORAL),Non-Preferred
+ANTICONVULSANTS,Sabril packet for oral solution,SABRIL POWDER PACK (ORAL),Non-Preferred
+ANTICONVULSANTS,"Sabril packet for oral solution, 500 mg",SABRIL POWDER PACK (ORAL),Non-Preferred
+ANTICONVULSANTS,Sabril tablet,SABRIL TABLET (ORAL),Non-Preferred
+ANTICONVULSANTS,"Sabril tablet, 500 mg",SABRIL TABLET (ORAL),Non-Preferred
+GROWTH HORMONE,Saizen,SAIZEN VIAL (INJECTION),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Saphris,SAPHRIS (SUBLINGUAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Saphris 10 mg,SAPHRIS (SUBLINGUAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Saphris 2.5 mg,SAPHRIS (SUBLINGUAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Saphris 5 mg,SAPHRIS (SUBLINGUAL),Non-Preferred
+ANTICOAGULANTS,Savaysa,SAVAYSA (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Secuado,SECUADO (TRANSDERMAL),Non-Preferred
+"HYPOGLYCEMICS, SGLT2",Segluromet,SEGLUROMET (ORAL),Non-Preferred
+HIV / AIDS,Selzentry,SELZENTRY TABLET (ORAL),Preferred
+HIV / AIDS,Selzentry oral solution,SELZENTRY SOLUTION (ORAL),Preferred
+HIV / AIDS,Selzentry tablet,SELZENTRY TABLET (ORAL),Preferred
+HIV / AIDS,"Selzentry tablet, 150 mg",SELZENTRY TABLET (ORAL),Preferred
+HIV / AIDS,"Selzentry tablet, 25 mg",SELZENTRY TABLET (ORAL),Preferred
+HIV / AIDS,"Selzentry tablet, 300 mg",SELZENTRY TABLET (ORAL),Preferred
+HIV / AIDS,"Selzentry tablet, 75 mg",SELZENTRY TABLET (ORAL),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Semglee,SEMGLEE VIAL (SUBCUTANEOUS),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Semglee auto-injector,SEMGLEE PEN (SUBCUTANEOUS),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Semglee vial,SEMGLEE VIAL (SUBCUTANEOUS),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Seroquel,SEROQUEL (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Seroquel XR,SEROQUEL XR (ORAL),Non-Preferred
+GROWTH HORMONE,Serostim,SEROSTIM VIAL (INJECTION),Non-Preferred
+PHOSPHATE BINDERS,Sevelamer carbonate tablets,SEVELAMER CARBONATE TABLET (AG) (ORAL),Preferred
+PHOSPHATE BINDERS,Sevelamer hydrochloride tablets,SEVELAMER HCL TABLET (ORAL),Preferred
+PHOSPHATE BINDERS,"Sevelamer hydrochloride tablets, 400mg",SEVELAMER HCL TABLET (AG) (ORAL),Preferred
+PHOSPHATE BINDERS,"Sevelamer hydrochloride tablets, 800mg",SEVELAMER HCL TABLET (AG) (ORAL),Preferred
+HEMOPHILIA TREATMENT,SevenFACT,SEVENFACT (INTRAVEN),Preferred
+"PAH AGENTS, ORAL AND INHALED",Sildenafil 20 mg,SILDENAFIL (ORAL),Preferred
+"PAH AGENTS, ORAL AND INHALED",Sildenafil oral suspension,SILDENAFIL SUSPENSION (ORAL),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED","Sildenafil oral suspension, labeler 59762",SILDENAFIL SUSPENSION (ORAL),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Sildenafil tablet,SILDENAFIL (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Simlandi Ankylosing Spondylitis,SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Ankylosing Spondylitis, Teva 51759 labeler",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Ankylosing Spondylitis, prefilled syringe",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Simlandi Crohn's Disease (adult),SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Crohn's Disease (adult), Teva 51759 labeler",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Crohn's Disease (adult), prefilled syringe",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Simlandi Crohn's Disease (pediatric),SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Crohn's Disease (pediatric), Teva 51759 labeler",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Crohn's Disease (pediatric), prefilled syringe",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Simlandi Hidradenitis Suppurativa,SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Hidradenitis Suppurativa, Teva 51759 labeler",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Hidradenitis Suppurativa, prefilled syringe",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Simlandi Plaque Psoriasis (adult),SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Plaque Psoriasis (adult), Teva 51759 labeler",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Plaque Psoriasis (adult), prefilled syringe",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA),SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA), Teva 51759 labeler",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Simlandi Psoriatic Arthritis (adult),SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Psoriatic Arthritis (adult), Teva 51759 labeler",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Psoriatic Arthritis (adult), prefilled syringe",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Simlandi Rheumatoid Arthritis,SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Rheumatoid Arthritis, Teva 51759 labeler",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Rheumatoid Arthritis, prefilled syringe",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Simlandi Ulcerative Colitis (adult),SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Ulcerative Colitis (adult), Teva 51759 labeler",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Ulcerative Colitis (adult), prefilled syringe",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Simlandi Uveitis (adult),SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Uveitis (adult), Teva 51759 labeler",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi Uveitis (adult), prefilled syringe",SIMLANDI KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi auto-injector, Ankylosing Spondylitis",SIMLANDI PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi auto-injector, Crohn's Disease (adult)",SIMLANDI PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi auto-injector, Crohn's Disease (pediatric)",SIMLANDI PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi auto-injector, Hidradenitis Suppurativa",SIMLANDI PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi auto-injector, Plaque Psoriasis (adult)",SIMLANDI PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi auto-injector, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",SIMLANDI PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi auto-injector, Psoriatic Arthritis (adult)",SIMLANDI PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi auto-injector, Rheumatoid Arthritis",SIMLANDI PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi auto-injector, Ulcerative Colitis (adult)",SIMLANDI PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simlandi auto-injector, Uveitis (adult)",SIMLANDI PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Simponi,SIMPONI SYRINGE (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simponi Ankylosing Spondylitis, Aria",SIMPONI ARIA VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simponi Ankylosing Spondylitis, SmartJect",SIMPONI PEN INJECTER (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simponi Ankylosing Spondylitis, prefilled syringe",SIMPONI SYRINGE (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",SIMPONI ARIA VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simponi Aria, Psoriatic Arthritis (pediatric)",SIMPONI ARIA VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simponi Psoriatic Arthritis (adult), Aria",SIMPONI ARIA VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simponi Psoriatic Arthritis (adult), SmartJect",SIMPONI PEN INJECTER (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simponi Psoriatic Arthritis (adult), prefilled syringe",SIMPONI SYRINGE (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Simponi Rheumatoid Arthritis,SIMPONI SYRINGE (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simponi Rheumatoid Arthritis, Aria",SIMPONI ARIA VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simponi Rheumatoid Arthritis, SmartJect",SIMPONI PEN INJECTER (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simponi Rheumatoid Arthritis, prefilled syringe",SIMPONI SYRINGE (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simponi Ulcerative Colitis (adult), SmartJect",SIMPONI PEN INJECTER (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simponi Ulcerative Colitis (adult), prefilled syringe",SIMPONI SYRINGE (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Simponi prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",SIMPONI SYRINGE (INJECTION),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Skelaxin,SKELAXIN (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Skyrizi,SKYRIZI (SUBCUTANEOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Skyrizi Crohn's Disease (adult),SKYRIZI (SUBCUTANEOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Crohn's Disease (adult), prefilled cartridge",SKYRIZI (SUBCUTANEOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Crohn's Disease (adult), prefilled pen",SKYRIZI PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Crohn's Disease (adult), prefilled syringe",SKYRIZI SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Crohn's Disease (adult), vial",SKYRIZI VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Skyrizi Plaque Psoriasis (adult),SKYRIZI (SUBCUTANEOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Plaque Psoriasis (adult), prefilled cartridge",SKYRIZI (SUBCUTANEOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Plaque Psoriasis (adult), prefilled pen",SKYRIZI PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Plaque Psoriasis (adult), prefilled syringe",SKYRIZI SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Plaque Psoriasis (adult), vial",SKYRIZI VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Skyrizi Psoriatic Arthritis (adult),SKYRIZI (SUBCUTANEOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Psoriatic Arthritis (adult), prefilled cartridge",SKYRIZI (SUBCUTANEOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Psoriatic Arthritis (adult), prefilled pen",SKYRIZI PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Psoriatic Arthritis (adult), prefilled syringe",SKYRIZI SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Psoriatic Arthritis (adult), vial",SKYRIZI VIAL (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Skyrizi Ulcerative Colitis (adult),SKYRIZI (SUBCUTANEOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Ulcerative Colitis (adult), prefilled cartridge",SKYRIZI (SUBCUTANEOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Ulcerative Colitis (adult), prefilled pen",SKYRIZI PEN (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Ulcerative Colitis (adult), prefilled syringe",SKYRIZI SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Skyrizi Ulcerative Colitis (adult), vial",SKYRIZI VIAL (INTRAVEN.),Non-Preferred
+GROWTH HORMONE,Skytrofa,SKYTROFA CARTRIDGE (SUBCUTANEOUS),Non-Preferred
+"UREA CYCLE DISORDERS, ORAL",Sodium Phenylbutyrate powder,SODIUM PHENYLBUTYRATE POWDER (ORAL),Non-Preferred
+"UREA CYCLE DISORDERS, ORAL",Sodium Phenylbutyrate tablet,SODIUM PHENYLBUTYRATE TABLET (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,Sofosbuvir / Velpatasvir,SOFOSBUVIR/VELPATASVIR (AG) (ORAL),Preferred
+HEPATITIS C AGENTS - DAA,Sofosbuvir / Velpatasvir 400 mg/100 mg,SOFOSBUVIR/VELPATASVIR (AG) (ORAL),Preferred
+GROWTH HORMONE,Sogroya,SOGROYA (SUBCUTANEOUS),Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Soliqua,SOLIQUA (SUBCUTANE.),Preferred
+SKELETAL MUSCLE RELAXANTS,Soma,SOMA (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Sotyktu Plaque Psoriasis (adult),SOTYKTU (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Sotyktu tablet,SOTYKTU (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Sotyktu tablet, Plaque Psoriasis (adult)",SOTYKTU (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,Sovaldi,SOVALDI TABLET (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,"Sovaldi 200 mg, tablet",SOVALDI TABLET (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,"Sovaldi 400 mg, tablet",SOVALDI TABLET (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,Sovaldi pellet packet,SOVALDI PELLET PACK (ORAL),Non-Preferred
+HEPATITIS C AGENTS - DAA,Sovaldi tablet,SOVALDI TABLET (ORAL),Non-Preferred
+COPD AGENTS,Spiriva Handihaler (Tiotropium Bromide) inhalation capsule,SPIRIVA (INHALATION),Preferred
+COPD AGENTS,Spiriva Respimat (Tiotropium Bromide) 1.25 mcg,SPIRIVA RESPIMAT (INHALATION),Preferred
+COPD AGENTS,Spiriva Respimat (Tiotropium Bromide) 2.5 mcg,SPIRIVA RESPIMAT (INHALATION),Preferred
+COPD AGENTS,Spiriva Respimat (Tiotropium Bromide) inhalation aerosol solution,SPIRIVA RESPIMAT (INHALATION),Preferred
+COPD AGENTS,"Spiriva Respimat (Tiotropium Bromide) inhalation aerosol solution, 1.25 mcg",SPIRIVA RESPIMAT (INHALATION),Preferred
+COPD AGENTS,"Spiriva Respimat (Tiotropium Bromide) inhalation aerosol solution, 2.5 mcg",SPIRIVA RESPIMAT (INHALATION),Preferred
+"ANTIDEPRESSANTS, OTHER",Spravato,SPRAVATO (NASAL),Non-Preferred
+"HYPOGLYCEMICS, SGLT2",Steglatro,STEGLATRO (ORAL),Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Steglujan,STEGLUJAN (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Stelara,STELARA (VIAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Stelara Crohn's Disease (adult),STELARA (VIAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Stelara Crohn's Disease (adult), intravenous vial",STELARA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Stelara Crohn's Disease (adult), prefilled syringe",STELARA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Stelara Crohn's Disease (adult), subcutaneous vial",STELARA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Stelara Plaque Psoriasis (adult),STELARA (VIAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Stelara Plaque Psoriasis (adult), prefilled syringe",STELARA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Stelara Plaque Psoriasis (adult), subcutaneous vial",STELARA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Stelara Plaque Psoriasis (pediatric),STELARA (VIAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Stelara Plaque Psoriasis (pediatric), prefilled syringe",STELARA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial",STELARA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Stelara Psoriatic Arthritis (adult),STELARA (VIAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Stelara Psoriatic Arthritis (adult), prefilled syringe",STELARA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Stelara Psoriatic Arthritis (adult), subcutaneous vial",STELARA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Stelara Psoriatic Arthritis (pediatric),STELARA (VIAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Stelara Psoriatic Arthritis (pediatric), prefilled syringe",STELARA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",STELARA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Stelara Ulcerative Colitis (adult),STELARA (VIAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Stelara Ulcerative Colitis (adult), intravenous vial",STELARA VIAL (INJECTION),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Stelara Ulcerative Colitis (adult), prefilled syringe",STELARA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Stelara Ulcerative Colitis (adult), subcutaneous vial",STELARA VIAL (INJECTION),Non-Preferred
+COPD AGENTS,Stiolto Respimat,STIOLTO RESPIMAT (INHALATION),Preferred
+HIV / AIDS,Stribild,STRIBILD (ORAL),Preferred
+OPIATE DEPENDENCE TREATMENTS,Sublocade,SUBLOCADE,Preferred
+OPIATE DEPENDENCE TREATMENTS,Suboxone,SUBOXONE FILM (SUBLINGUAL),Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Sumatriptan,SUMATRIPTAN (ORAL),Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Sumatriptan / Naproxen sodium,SUMATRIPTAN SUCC/NAPROXEN SOD (ORAL),Non-Preferred
+STIMULANTS AND RELATED AGENTS,Sunosi,SUNOSI (ORAL),Non-Preferred
+STIMULANTS AND RELATED AGENTS,Sunosi Narcolepsy,SUNOSI (ORAL),Non-Preferred
+STIMULANTS AND RELATED AGENTS,Sunosi Obstructive Sleep Apnea,SUNOSI (ORAL),Non-Preferred
+HIV / AIDS,Sustiva,SUSTIVA TABLET (ORAL),Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Symbicort,SYMBICORT (INHALATION),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Symbyax,SYMBYAX (ORAL),Non-Preferred
+ANTICONVULSANTS,Sympazan oral film,SYMPAZAN (ORAL),Non-Preferred
+HIV / AIDS,Symtuza,SYMTUZA (ORAL),Preferred
+"HYPOGLYCEMICS, SGLT2",Synjardy,SYNJARDY (ORAL),Preferred
+"HYPOGLYCEMICS, SGLT2",Synjardy XR,SYNJARDY XR (ORAL),Preferred
+"IMMUNOSUPPRESSIVES, ORAL",Tacrolimus capsule,TACROLIMUS (ORAL),Preferred
+BPH TREATMENTS,Tadalafil,TADALAFIL (CIALIS) (ORAL),Non-Preferred
+BPH TREATMENTS,Tadalafil 20 mg,TADALAFIL (ORAL),Preferred
+"PAH AGENTS, ORAL AND INHALED",Tadliq,TADLIQ SUSPENSION (ORAL),Non-Preferred
+HAE TREATMENTS,Takhzyro,TAKHZYRO (SUBCUTANE. Syringe),Preferred
+HAE TREATMENTS,Takhzyro prefilled syringe,TAKHZYRO (SUBCUTANE. Syringe),Preferred
+HAE TREATMENTS,Takhzyro vial,TAKHZYRO (SUBCUTANE. Vial),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Taltz,TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Taltz 20 mg,TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Taltz 40 mg,TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Taltz 80 mg,TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Taltz Ankylosing Spondylitis,TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Ankylosing Spondylitis, 80 mg, prefilled syringe",TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Ankylosing Spondylitis, auto-injector",TALTZ AUTOINJECTOR (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Ankylosing Spondylitis, prefilled syringe",TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Taltz Non-Radiographic Axial Spondyloarthritis,TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Non-Radiographic Axial Spondyloarthritis, 80 mg, prefilled syringe",TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Non-Radiographic Axial Spondyloarthritis, auto-injector",TALTZ AUTOINJECTOR (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Non-Radiographic Axial Spondyloarthritis, prefilled syringe",TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Taltz Plaque Psoriasis (adult),TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Plaque Psoriasis (adult), 80 mg, prefilled syringe",TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Plaque Psoriasis (adult), auto-injector",TALTZ AUTOINJECTOR (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Plaque Psoriasis (adult), prefilled syringe",TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Taltz Plaque Psoriasis (pediatric),TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Plaque Psoriasis (pediatric), 20 mg, prefilled syringe",TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Plaque Psoriasis (pediatric), 40 mg, prefilled syringe",TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Plaque Psoriasis (pediatric), auto-injector",TALTZ AUTOINJECTOR (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Plaque Psoriasis (pediatric), prefilled syringe",TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Taltz Psoriatic Arthritis (adult),TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Psoriatic Arthritis (adult), 80 mg, prefilled syringe",TALTZ SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Psoriatic Arthritis (adult), auto-injector",TALTZ AUTOINJECTOR (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Taltz Psoriatic Arthritis (adult), prefilled syringe",TALTZ SYRINGE (SUBCUTANE.),Preferred
+"ANTIVIRALS, ORAL",Tamiflu,TAMIFLU CAPSULE (ORAL),Non-Preferred
+"IMMUNOSUPPRESSIVES, ORAL",Tavneos,TAVNEOS (ORAL),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,Tecfidera (Dimethyl Fumarate) DR capsule,TECFIDERA (ORAL),Non-Preferred
+ANGIOTENSIN MODULATORS,Telmisartan,TELMISARTAN (ORAL),Preferred
+MULTIPLE SCLEROSIS AGENTS,Teriflunomide,TERIFLUNOMIDE (ORAL),Preferred
+BONE RESORPTION SUPPRESSION AND RELATED AGENTS,Teriparatide,TERIPARATIDE (BRAND) (SUBCUTANE.),Non-Preferred
+MOVEMENT DISORDERS,Tetrabenazine,TETRABENAZINE (ORAL),Non-Preferred
+MOVEMENT DISORDERS,Tetrabenazine 12.5 mg,TETRABENAZINE (ORAL),Non-Preferred
+MOVEMENT DISORDERS,Tetrabenazine 25 mg,TETRABENAZINE (ORAL),Non-Preferred
+MOVEMENT DISORDERS,Tetrabenazine Huntington's Disease,TETRABENAZINE (ORAL),Non-Preferred
+MOVEMENT DISORDERS,Tetrabenazine Tardive Dyskinesia,TETRABENAZINE (ORAL),Non-Preferred
+MOVEMENT DISORDERS,Tetrabenazine Tourette's Syndrome/Tics,TETRABENAZINE (ORAL),Non-Preferred
+MOVEMENT DISORDERS,Tetrabenazine Unspecified Hyperkinetic Movement Disorder,TETRABENAZINE (ORAL),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA",Tezspire,TEZSPIRE SYRINGE (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA",Tezspire Asthma (adult),TEZSPIRE SYRINGE (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA","Tezspire Asthma (adult), vial",TEZSPIRE SYRINGE (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA",Tezspire Asthma (pediatric),TEZSPIRE SYRINGE (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA",Tezspire auto-injector,TEZSPIRE PEN (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA","Tezspire auto-injector, Asthma (adult)",TEZSPIRE SYRINGE (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA","Tezspire auto-injector, Asthma (pediatric)",TEZSPIRE SYRINGE (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA",Tezspire prefilled syringe,TEZSPIRE SYRINGE (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA","Tezspire prefilled syringe, Asthma (adult)",TEZSPIRE SYRINGE (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA","Tezspire prefilled syringe, Asthma (pediatric)",TEZSPIRE SYRINGE (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA",Tezspire vial,TEZSPIRE SYRINGE (SUBCUTANEOUS),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA","Tezspire vial, Asthma (pediatric)",TEZSPIRE SYRINGE (SUBCUTANEOUS),Non-Preferred
+HIV / AIDS,Tivicay,TIVICAY (ORAL),Preferred
+"ANTIBIOTICS, INHALED",Tobi,TOBI (INHALATION),Non-Preferred
+"ANTIBIOTICS, INHALED",Tobi Podhaler,TOBI PODHALER (INHALATION),Preferred
+"ANTIBIOTICS, INHALED","Tobi Podhaler, 28 mg",TOBI PODHALER (INHALATION),Preferred
+"ANTIBIOTICS, INHALED",Tobi nebulized solution,TOBI (INHALATION),Non-Preferred
+OPHTHALMIC ANTIBIOTIC-STEROID COMBINATIONS,Tobradex ST ophthalmic suspension,TOBRADEX ST (OPHTHALMIC),Non-Preferred
+"ANTIBIOTICS, INHALED",Tobramycin,TOBRAMYCIN (INHALATION),Preferred
+"ANTIBIOTICS, INHALED",Tobramycin 300 mg/4 mL,TOBRAMYCIN (INHALATION),Preferred
+"ANTIBIOTICS, INHALED",Tobramycin 300 mg/5 mL,TOBRAMYCIN (INHALATION),Preferred
+"ANTIBIOTICS, INHALED",Tobramycin generic Bethkis,TOBRAMYCIN (INHALATION),Preferred
+"ANTIBIOTICS, INHALED","Tobramycin generic Bethkis, 300 mg/4 mL",TOBRAMYCIN (INHALATION),Preferred
+"ANTIBIOTICS, INHALED",Tobramycin generic Kitabis,TOBRAMYCIN PAK (AG) (INHALATION),Non-Preferred
+"ANTIBIOTICS, INHALED",Tobramycin generic Tobi,TOBRAMYCIN (INHALATION),Preferred
+"ANTIBIOTICS, INHALED","Tobramycin generic Tobi, 300 mg/5 mL",TOBRAMYCIN (INHALATION),Preferred
+"ANTIBIOTICS, INHALED",Tobramycin nebulized solution,TOBRAMYCIN (INHALATION),Preferred
+"ANTIBIOTICS, INHALED","Tobramycin nebulized solution, 300 mg/4 mL",TOBRAMYCIN (INHALATION),Preferred
+"ANTIBIOTICS, INHALED","Tobramycin nebulized solution, 300 mg/5 mL",TOBRAMYCIN (INHALATION),Preferred
+ANTICONVULSANTS,Topamax Sprinkle,TOPAMAX SPRINKLE (ORAL),Non-Preferred
+ANTICONVULSANTS,Topiramate tablet,TOPIRAMATE TABLETS (ORAL),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Toujeo Max Solostar,TOUJEO MAX SOLOSTAR PEN (SUBCUTANEOUS),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Toujeo Solostar,TOUJEO SOLOSTAR PEN (SUBCUTANE.),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Tracleer,TRACLEER (ORAL),Preferred
+"PAH AGENTS, ORAL AND INHALED",Tracleer tablet,TRACLEER (ORAL),Preferred
+"PAH AGENTS, ORAL AND INHALED",Tracleer tablet for oral suspension,TRACLEER SUSPENSION (ORAL),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED","Tracleer tablet for oral suspension, 32 mg",TRACLEER SUSPENSION (ORAL),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED","Tracleer tablet, 125 mg",TRACLEER (ORAL),Preferred
+"PAH AGENTS, ORAL AND INHALED","Tracleer tablet, 62.5 mg",TRACLEER (ORAL),Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Tradjenta,TRADJENTA (ORAL),Preferred
+ANGIOTENSIN MODULATORS,Trandolapril,TRANDOLAPRIL (ORAL),Non-Preferred
+"GLUCOCORTICOIDS, INHALED",Trelegy Ellipta,TRELEGY ELLIPTA (INHALATION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Tremfya,TREMFYA VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Tremfya 100 mg/mL,TREMFYA VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Tremfya 200mg/2mL,TREMFYA VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Tremfya Plaque Psoriasis (adult),TREMFYA VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Tremfya Plaque Psoriasis (adult), prefilled syringe",TREMFYA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Tremfya Psoriatic Arthritis (adult),TREMFYA VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Tremfya Psoriatic Arthritis (adult), prefilled syringe",TREMFYA SYRINGE (SUBCUTANE.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Tremfya Ulcerative Colitis (adult),TREMFYA VIAL (INTRAVENOUS),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Tremfya prefilled syringe, Ulcerative Colitis (adult)",TREMFYA SYRINGE (SUBCUTANE.),Non-Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Tresiba FlexTouch, U-100",TRESIBA FLEXTOUCH 100 U/ML PEN (SUBCUTANEOUS),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS","Tresiba FlexTouch, U-200",TRESIBA FLEXTOUCH 200 U/ML PEN (SUBCUTANEOUS),Preferred
+"HYPOGLYCEMICS, INSULIN AND RELATED AGENTS",Tresiba vial,TRESIBA VIAL (SUBCUTANEOUS),Preferred
+HEMOPHILIA TREATMENT,Tretten,TRETTEN (INTRAVEN),Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Treximet,TREXIMET (ORAL),Non-Preferred
+"ANTIDEPRESSANTS, OTHER",Trintellix,TRINTELLIX (ORAL),Non-Preferred
+HIV / AIDS,Triumeq,TRIUMEQ (ORAL),Preferred
+HIV / AIDS,Trizivir,TRIZIVIR (ORAL),Non-Preferred
+ANTICONVULSANTS,Trokendi XR ER capsule,TROKENDI XR (ORAL),Non-Preferred
+ANTICONVULSANTS,"Trokendi XR ER capsule, Lennon-Gastaut Syndrome",TROKENDI XR (ORAL),Non-Preferred
+ANTICONVULSANTS,"Trokendi XR ER capsule, Migraine Prophylaxis",TROKENDI XR (ORAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Trudhesa,TRUDHESA NASAL SPRAY,Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Trulicity,TRULICITY (SUBCUTANE.),Preferred
+HIV / AIDS,Truvada,TRUVADA (ORAL),Preferred
+COPD AGENTS,Tudorza Pressair,TUDORZA PRESSAIR (INHALATION),Preferred
+HIV / AIDS,Tybost,TYBOST (ORAL),Preferred
+"PAH AGENTS, ORAL AND INHALED",Tyvaso DPI,TYVASO DPI (INHALATION),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Tyvaso inhalation solution,TYVASO (INHALATION),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Tyvaso starter kit,TYVASO (INHALATION),Non-Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Ubrelvy,UBRELVY (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Uplizna,UPLIZNA (INTRAVEN.),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Uplizna Neuromyelitis Optica Spectrum Disorder (NMOSD),UPLIZNA (INTRAVEN.),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Uptravi tablet,UPTRAVI (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Uzedy,UZEDY (SUBCUTANEOUS),Preferred
+ANGIOTENSIN MODULATORS,Valsartan,VALSARTAN (AG) (ORAL),Preferred
+ANGIOTENSIN MODULATORS,Valsartan oral solution,VALSARTAN SOLUTION (ORAL),Non-Preferred
+ANGIOTENSIN MODULATORS,Valsartan tablet,VALSARTAN (ORAL),Preferred
+ANTICONVULSANTS,Valtoco,VALTOCO (NASAL),Preferred
+ANTICONVULSANTS,Valtoco 2-dose pack,VALTOCO (NASAL),Preferred
+ANTICONVULSANTS,Valtoco 5-dose pack,VALTOCO (NASAL),Preferred
+"ANTIBIOTICS, VAGINAL",Vandazole,VANDAZOLE (VAGINAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Velsipity (Etrasimod) Ulcerative Colitis (adult),VELSIPITY (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Velsipity (Etrasimod) tablet,VELSIPITY (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Velsipity (Etrasimod) tablet, Ulcerative Colitis (adult)",VELSIPITY (ORAL),Non-Preferred
+HEPATITIS B AGENTS,Vemlidy,VEMLIDY (ORAL),Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Ventavis,VENTAVIS (INHALATION),Non-Preferred
+"BRONCHODILATORS, BETA AGONIST",Ventolin HFA,VENTOLIN HFA,Preferred
+"OPHTHALMICS, ANTI-INFLAMMATORY/IMMUNOMODULATOR",Verkazia,VERKAZIA (OPHTHALMIC),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Versacloz,VERSACLOZ (ORAL),Non-Preferred
+"OPHTHALMICS, ANTI-INFLAMMATORY/IMMUNOMODULATOR",Vevye ophthalmic solution,VEVYE (OPHTHALMIC),Non-Preferred
+"GI MOTILITY, CHRONIC",Viberzi,VIBERZI (ORAL),Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Victoza,VICTOZA (SUBCUTANE.),Preferred
+ANTICONVULSANTS,Vigabatrin Infantile spasms,VIGABATRIN (ORAL),Non-Preferred
+ANTICONVULSANTS,Vigabatrin Refractory complex partial seizures,VIGABATRIN (ORAL),Non-Preferred
+ANTICONVULSANTS,Vigabatrin packet for oral solution,VIGABATRIN POWDER PACK (ORAL),Non-Preferred
+ANTICONVULSANTS,Vigabatrin tablet,VIGABATRIN (ORAL),Non-Preferred
+"ANTIDEPRESSANTS, OTHER",Viibryd,VIIBRYD (ORAL),Non-Preferred
+ANTICONVULSANTS,Vimpat,VIMPAT TABLET (ORAL),Non-Preferred
+ANTICONVULSANTS,Vimpat oral solution,VIMPAT SOLUTION (ORAL),Non-Preferred
+ANTICONVULSANTS,Vimpat tablet,VIMPAT TABLET (ORAL),Non-Preferred
+ANTICONVULSANTS,Vimpat titration pack,VIMPAT TABLET DOSE PACK (ORAL),Non-Preferred
+HIV / AIDS,Viracept,VIRACEPT (ORAL),Non-Preferred
+HIV / AIDS,Viread,VIREAD TABLET (ORAL),Preferred
+HIV / AIDS,Viread 300 mg,VIREAD TABLET (ORAL),Preferred
+HIV / AIDS,"Viread 300 mg, tablet",VIREAD TABLET (ORAL),Preferred
+HIV / AIDS,Viread powder,VIREAD POWDER (ORAL),Preferred
+HIV / AIDS,Viread tablet,VIREAD TABLET (ORAL),Preferred
+HIV / AIDS,"Viread tablet, 150 mg",VIREAD TABLET (ORAL),Preferred
+HIV / AIDS,"Viread tablet, 200 mg",VIREAD TABLET (ORAL),Preferred
+HIV / AIDS,"Viread tablet, 250 mg",VIREAD TABLET (ORAL),Preferred
+OPIATE DEPENDENCE TREATMENTS,Vivitrol,VIVITROL (INTRAMUSC),Preferred
+OPIATE DEPENDENCE TREATMENTS,Vivitrol Alcohol Use Disorder,VIVITROL (INTRAMUSC),Preferred
+HEPATITIS C AGENTS - DAA,Vosevi,VOSEVI (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Vraylar,VRAYLAR (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Vraylar Adjunct treatment of major depression disorder,VRAYLAR (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Vraylar Bipolar 1 disorder,VRAYLAR (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,"Vraylar Bipolar I Disorder, acute mixed or manic episodes",VRAYLAR (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Vraylar Depressed Bipolar I Disorder,VRAYLAR (ORAL),Preferred
+ANTIPSYCHOTICS - ATYPICAL,Vraylar Schizophrenia / Schizoaffective disorder,VRAYLAR (ORAL),Preferred
+"ANTIPSORIATICS, TOPICAL",Vtama Atopic Dermatitis,VTAMA (TOPICAL),Non-Preferred
+"ANTIPSORIATICS, TOPICAL",Vtama Plaque Psoriasis,VTAMA (TOPICAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Vyepti,VYEPTI (INTRAVENOUS),Non-Preferred
+STIMULANTS AND RELATED AGENTS,Vyvanse capsule,VYVANSE CAPSULE (ORAL),Preferred
+STIMULANTS AND RELATED AGENTS,Vyvanse chewable tablet,VYVANSE CHEWABLE TABLET (ORAL),Non-Preferred
+STIMULANTS AND RELATED AGENTS,Wakix,WAKIX (ORAL),Non-Preferred
+STIMULANTS AND RELATED AGENTS,Wakix Cataplexy,WAKIX (ORAL),Non-Preferred
+STIMULANTS AND RELATED AGENTS,Wakix Excessive Daytime Sleepiness,WAKIX (ORAL),Non-Preferred
+STIMULANTS AND RELATED AGENTS,Wakix Idiopathic Hypersomnia,WAKIX (ORAL),Non-Preferred
+"ACNE AGENTS, TOPICAL",Winlevi,WINLEVI,Non-Preferred
+"PAH AGENTS, ORAL AND INHALED",Winrevair vial,WINREVAIR (KIT),Non-Preferred
+"ANTIBIOTICS, VAGINAL",Xaciato,XACIATO (VAGINAL),Non-Preferred
+ANTICOAGULANTS,Xarelto,XARELTO (ORAL),Preferred
+ANTICOAGULANTS,Xarelto 10 mg,XARELTO (ORAL),Preferred
+ANTICOAGULANTS,Xarelto 15 mg,XARELTO (ORAL),Preferred
+ANTICOAGULANTS,Xarelto 2.5 mg,XARELTO (ORAL),Preferred
+ANTICOAGULANTS,Xarelto 20 mg,XARELTO (ORAL),Preferred
+ANTICOAGULANTS,Xarelto starter pack,XARELTO DOSE PACK (ORAL),Preferred
+ANTICONVULSANTS,Xcopri,XCOPRI TABLET (ORAL),Non-Preferred
+ANTICONVULSANTS,Xcopri dose pack,XCOPRI DAILY DOSE PACK (ORAL),Non-Preferred
+ANTICONVULSANTS,Xcopri tablet,XCOPRI TABLET (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Xeljanz,XELJANZ (SOL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Xeljanz Ankylosing Spondylitis,XELJANZ (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Ankylosing Spondylitis, 10 mg, IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Ankylosing Spondylitis, 5 mg, IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Ankylosing Spondylitis, IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Ankylosing Spondylitis, oral solution",XELJANZ (SOL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA),XELJANZ (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), 10 mg, IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), 5 mg, IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), oral solution",XELJANZ (SOL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Xeljanz Psoriatic Arthritis (adult),XELJANZ (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Psoriatic Arthritis (adult), 10 mg, IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Psoriatic Arthritis (adult), 5 mg, IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Psoriatic Arthritis (adult), IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Psoriatic Arthritis (adult), oral solution",XELJANZ (SOL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Xeljanz Rheumatoid Arthritis,XELJANZ (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Rheumatoid Arthritis, 10 mg, IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Rheumatoid Arthritis, 5 mg, IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Rheumatoid Arthritis, IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Rheumatoid Arthritis, oral solution",XELJANZ (SOL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Xeljanz Ulcerative Colitis (adult),XELJANZ (ORAL),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Ulcerative Colitis (adult), 10 mg, IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Ulcerative Colitis (adult), 5 mg, IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Ulcerative Colitis (adult), IR tablet",XELJANZ XR (ORAL),Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Xeljanz Ulcerative Colitis (adult), oral solution",XELJANZ (SOL),Non-Preferred
+MOVEMENT DISORDERS,Xenazine,XENAZINE (ORAL),Non-Preferred
+MOVEMENT DISORDERS,Xenazine Huntington's Disease,XENAZINE (ORAL),Non-Preferred
+MOVEMENT DISORDERS,Xenazine Tardive Dyskinesia,XENAZINE (ORAL),Non-Preferred
+MOVEMENT DISORDERS,Xenazine Tourette's syndrome,XENAZINE (ORAL),Non-Preferred
+"HYPOGLYCEMICS, SGLT2",Xigduo XR,XIGDUO XR (ORAL),Preferred
+"HYPOGLYCEMICS, SGLT2",Xigduo XR 10 mg/1000 mg,XIGDUO XR (ORAL),Preferred
+"HYPOGLYCEMICS, SGLT2",Xigduo XR 10 mg/500 mg,XIGDUO XR (ORAL),Preferred
+"HYPOGLYCEMICS, SGLT2",Xigduo XR 2.5 mg/1000 mg,XIGDUO XR (ORAL),Preferred
+"HYPOGLYCEMICS, SGLT2",Xigduo XR 5 mg/1000 mg,XIGDUO XR (ORAL),Preferred
+"HYPOGLYCEMICS, SGLT2",Xigduo XR 5 mg/500 mg,XIGDUO XR (ORAL),Preferred
+"ANTIVIRALS, ORAL",Xofluza,XOFLUZA (ORAL),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA",Xolair Asthma (adult),XOLAIR VIAL (SUB-Q),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA",Xolair Asthma (pediatric),XOLAIR VIAL (SUB-Q),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA",Xolair Chronic Rhinosinusitis with Nasal Polyposis,XOLAIR VIAL (SUB-Q),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA",Xolair Chronic Spontaneous Urticaria (CSU),XOLAIR VIAL (SUB-Q),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA",Xolair IgE-Mediated Food Allergy,XOLAIR VIAL (SUB-Q),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA",Xolair auto-injector,XOLAIR AUTOINJECTOR,Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair auto-injector, Asthma (adult)",XOLAIR AUTOINJECTOR,Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair auto-injector, Asthma (pediatric)",XOLAIR AUTOINJECTOR,Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",XOLAIR AUTOINJECTOR,Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair auto-injector, Chronic Spontaneous Urticaria (CSU)",XOLAIR AUTOINJECTOR,Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair auto-injector, IgE-Mediated Food Allergy",XOLAIR AUTOINJECTOR,Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair prefilled syringe, Asthma (adult)",XOLAIR SYRINGE,Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair prefilled syringe, Asthma (pediatric)",XOLAIR SYRINGE,Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",XOLAIR SYRINGE,Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair prefilled syringe, Chronic Spontaneous Urticaria (CSU)",XOLAIR SYRINGE,Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair prefilled syringe, IgE-Mediated Food Allergy",XOLAIR SYRINGE,Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair vial, Asthma (adult)",XOLAIR VIAL (SUB-Q),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair vial, Asthma (pediatric)",XOLAIR VIAL (SUB-Q),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair vial, Chronic Rhinosinusitis with Nasal Polyposis",XOLAIR VIAL (SUB-Q),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair vial, Chronic Spontaneous Urticaria (CSU)",XOLAIR VIAL (SUB-Q),Non-Preferred
+"IMMUNOMODULATORS, ASTHMA","Xolair vial, IgE-Mediated Food Allergy",XOLAIR VIAL (SUB-Q),Non-Preferred
+"BRONCHODILATORS, BETA AGONIST",Xopenex HFA,XOPENEX HFA (INHALATION),Non-Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Xultophy,XULTOPHY (SUBCUTANE.),Non-Preferred
+HEMOPHILIA TREATMENT,Xyntha,XYNTHA KIT (INTRAVEN),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yesintek Crohn's Disease (adult),YESINTEK SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yesintek Plaque Psoriasis (adult),YESINTEK SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yesintek Plaque Psoriasis (pediatric),YESINTEK SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yesintek Psoriatic Arthritis (adult),YESINTEK SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yesintek Psoriatic Arthritis (pediatric),YESINTEK SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yesintek Ulcerative Colitis (adult),YESINTEK SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yesintek intravenous vial,YESINTEK VIAL (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yesintek intravenous vial, Crohn's Disease (adult)",YESINTEK VIAL (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yesintek intravenous vial, Ulcerative Colitis (adult)",YESINTEK VIAL (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yesintek prefilled syringe,YESINTEK SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yesintek prefilled syringe, Crohn's Disease (adult)",YESINTEK SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yesintek prefilled syringe, Plaque Psoriasis (adult)",YESINTEK SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yesintek prefilled syringe, Plaque Psoriasis (pediatric)",YESINTEK SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yesintek prefilled syringe, Psoriatic Arthritis (adult)",YESINTEK SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yesintek prefilled syringe, Psoriatic Arthritis (pediatric)",YESINTEK SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yesintek prefilled syringe, Ulcerative Colitis (adult)",YESINTEK SYRINGE (SUBCUTANE.),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yesintek subcutaneous vial,YESINTEK VIAL (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yesintek subcutaneous vial, Crohn's Disease (adult)",YESINTEK VIAL (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yesintek subcutaneous vial, Plaque Psoriasis (adult)",YESINTEK VIAL (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yesintek subcutaneous vial, Plaque Psoriasis (pediatric)",YESINTEK VIAL (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yesintek subcutaneous vial, Psoriatic Arthritis (adult)",YESINTEK VIAL (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yesintek subcutaneous vial, Psoriatic Arthritis (pediatric)",YESINTEK VIAL (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yesintek subcutaneous vial, Ulcerative Colitis (adult)",YESINTEK VIAL (INJECTION),Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yuflyma Ankylosing Spondylitis,YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Ankylosing Spondylitis, auto-injector",YUFLYMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Ankylosing Spondylitis, prefilled syringe",YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yuflyma Crohn's Disease (adult),YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Crohn's Disease (adult), auto-injector",YUFLYMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Crohn's Disease (adult), prefilled syringe",YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yuflyma Crohn's Disease (pediatric),YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Crohn's Disease (pediatric), auto-injector",YUFLYMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Crohn's Disease (pediatric), prefilled syringe",YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yuflyma Hidradenitis Suppurativa,YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Hidradenitis Suppurativa, auto-injector",YUFLYMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Hidradenitis Suppurativa, prefilled syringe",YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yuflyma Plaque Psoriasis (adult),YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Plaque Psoriasis (adult), auto-injector",YUFLYMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Plaque Psoriasis (adult), prefilled syringe",YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA),YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",YUFLYMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yuflyma Psoriatic Arthritis (adult),YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Psoriatic Arthritis (adult), auto-injector",YUFLYMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Psoriatic Arthritis (adult), prefilled syringe",YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yuflyma Rheumatoid Arthritis,YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Rheumatoid Arthritis, auto-injector",YUFLYMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Rheumatoid Arthritis, prefilled syringe",YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yuflyma Ulcerative Colitis (adult),YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Ulcerative Colitis (adult), auto-injector",YUFLYMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Ulcerative Colitis (adult), prefilled syringe",YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yuflyma Uveitis (adult),YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Uveitis (adult), auto-injector",YUFLYMA PEN KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,"Yuflyma Uveitis (adult), prefilled syringe",YUFLYMA KIT (INJECTION) (CF) 100 MG/ML,Non-Preferred
+COPD AGENTS,Yupelri,YUPELRI,Non-Preferred
+COPD AGENTS,Yupelri inhalation solution,YUPELRI,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yusimry Ankylosing Spondylitis,YUSIMRY PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yusimry Crohn's Disease (adult),YUSIMRY PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yusimry Crohn's Disease (pediatric),YUSIMRY PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yusimry Hidradenitis Suppurativa,YUSIMRY PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yusimry Plaque Psoriasis (adult),YUSIMRY PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yusimry Polyarticular Juvenile Idiopathic Arthritis (PJIA),YUSIMRY PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yusimry Psoriatic Arthritis (adult),YUSIMRY PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yusimry Rheumatoid Arthritis,YUSIMRY PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yusimry Ulcerative Colitis (adult),YUSIMRY PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+CYTOKINE AND CAM ANTAGONISTS,Yusimry Uveitis (adult),YUSIMRY PEN KIT (INJECTION) (CF) 50 MG/ML,Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Zanaflex capsule,ZANAFLEX CAPSULE (ORAL),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Zanaflex tablet,ZANAFLEX TABLET (ORAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, OTHER",Zavzpret,ZAVZPRET (NASAL),Non-Preferred
+PROTON PUMP INHIBITORS,Zegerid,ZEGERID (ORAL),Non-Preferred
+PROTON PUMP INHIBITORS,Zegerid capsule,ZEGERID (ORAL),Non-Preferred
+PROTON PUMP INHIBITORS,Zegerid packet,ZEGERID (ORAL),Non-Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Zembrace,ZEMBRACE SYMTOUCH (SUBCUTANE.),Non-Preferred
+HEPATITIS C AGENTS - DAA,Zepatier,ZEPATIER (ORAL),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS,Zeposia,ZEPOSIA CAPSULE (ORAL),Non-Preferred
+OPHTHALMICS FOR ALLERGIC CONJUNCTIVITIS,Zerviate (Cetirizine) ophthalmic solution,ZERVIATE (OPHTHALMIC),Non-Preferred
+HIV / AIDS,Ziagen,ZIAGEN TABLET (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Ziprasidone,ZIPRASIDONE CAPSULE (ORAL),Preferred
+"ANTIMIGRAINE AGENTS, TRIPTANS",Zolmitriptan,ZOLMITRIPTAN (NASAL),Non-Preferred
+SEDATIVE HYPNOTICS,Zolpidem,ZOLPIDEM (ORAL),Preferred
+SEDATIVE HYPNOTICS,Zolpidem 10 mg,ZOLPIDEM (ORAL),Preferred
+SEDATIVE HYPNOTICS,"Zolpidem 10 mg, tablet",ZOLPIDEM (ORAL),Preferred
+SEDATIVE HYPNOTICS,Zolpidem 5 mg,ZOLPIDEM (ORAL),Preferred
+SEDATIVE HYPNOTICS,"Zolpidem 5 mg, tablet",ZOLPIDEM (ORAL),Preferred
+SEDATIVE HYPNOTICS,Zolpidem 7.5 mg,ZOLPIDEM (ORAL),Preferred
+SEDATIVE HYPNOTICS,Zolpidem capsule,ZOLPIDEM CAPSULE (ORAL),Non-Preferred
+SEDATIVE HYPNOTICS,Zolpidem tablet,ZOLPIDEM (ORAL),Preferred
+GROWTH HORMONE,Zomacton,ZOMACTON VIAL (INJECTION),Non-Preferred
+ANTICONVULSANTS,Zonisade,ZONISADE SUSPENSION (ORAL),Non-Preferred
+PLATELET AGGREGATION INHIBITORS,Zontivity,ZONTIVITY (ORAL),Non-Preferred
+"IMMUNOMODULATORS, ATOPIC DERMATITIS","Zoryve cream, 0.15%, Atopic Dermatitis",ZORYVE 0.15% CREAM (TOPICAL),Non-Preferred
+"ANTIPSORIATICS, TOPICAL","Zoryve cream, 0.3%, Plaque Psoriasis",ZORYVE (TOPICAL),Non-Preferred
+ANTICONVULSANTS,Ztalmy,ZTALMY,Non-Preferred
+"ANTIDEPRESSANTS, OTHER",Zurzuvae,ZURZUVAE (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Zyprexa,ZYPREXA (ORAL),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Zyprexa Relprevv,ZYPREXA RELPREVV (INTRAMUSC),Non-Preferred
+ANTIPSYCHOTICS - ATYPICAL,Zyprexa Zydis,ZYPREXA ZYDIS (ORAL),Non-Preferred
