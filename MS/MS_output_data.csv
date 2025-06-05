@@ -135,7 +135,8 @@ ATOPIC DERMATITIS,Adbry auto-injector,ADBRY Autoinjector (tralokinumab-ldrm),Pre
 ATOPIC DERMATITIS,Adbry prefilled syringe,ADBRY (tralokinumab-ldrm),Preferred
 ATOPIC DERMATITIS,"Adbry prefilled syringe, Atopic Dermatitis (pediatric)",ADBRY (tralokinumab-ldrm),Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,Adcirca,ADCIRCA (tadalafil),Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,Adderall XR ER capsule,ADDERALL XR (dextroamphetamine/amphetamine),Preferred
+STIMULANTS AND RELATED AGENTS : SHORT-ACTING,Adderall XR ER capsule,"ADDERALL 
+(dextroamphetamine/amphetamine)",Non-Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: SOLUABLE GUANYLATE CYCLASE STIMULATORS,Adempas,ADEMPAS (riociguat),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Admelog,ADMELOG (insulin lispro),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Admelog SoloStar,ADMELOG (insulin lispro),Non-Preferred
@@ -270,6 +271,7 @@ CYTOKINE & CAM ANTAGONISTS,"Amjevita Uveitis (adult), Amgen 55513 labeler",AMJEV
 CYTOKINE & CAM ANTAGONISTS,"Amjevita Uveitis (adult), Amgen 72511 labeler",AMJEVITA (adalimumab-atto),Non-Preferred
 CALCIUM CHANNEL BLOCKERS : LONG-ACTING,Amlodipine Besylate tablet,amlodipine,Preferred
 MUSCULAR DYSTROPHY AGENTS,Amondys 45,AMONDYS-45 (casimersen),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Amrix,AMRIX (cyclobenzaprine),Non-Preferred
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,Anoro Ellipta,ANORO ELLIPTA (umeclidinium/vilanterol),Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Apidra,APIDRA (insulin glulisine),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Apidra SoloStar,APIDRA (insulin glulisine),Non-Preferred
@@ -314,13 +316,17 @@ MISCELLANEOUS BRAND/GENERIC,Auvi-Q 0.15 mg,AUVI-Q (epinephrine),Non-Preferred
 MISCELLANEOUS BRAND/GENERIC,Auvi-Q 0.3 mg,AUVI-Q (epinephrine),Non-Preferred
 MULTIPLE SCLEROSIS AGENTS,Avonex auto-injector,AVONEX (interferon beta-1a),Non-Preferred
 MULTIPLE SCLEROSIS AGENTS,Avonex prefilled syringe,AVONEX (interferon beta-1a),Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,Azstarys,AZSTARYS (serdexmethylphenidate/dexmethylphenidate),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),Azstarys,"AZSTARYS 
+(serdexmethylphenidate/dexmethylphenidate)",Non-Preferred
 ,Baclofen 10 mg,"baclofen 5 mg, 10 mg, 20 mg tablet",Preferred
+SKELETAL MUSCLE RELAXANTS,Baclofen 15 mg,baclofen 15 mg tablet,Non-Preferred
 ,Baclofen 20 mg,"baclofen 5 mg, 10 mg, 20 mg tablet",Preferred
 ,Baclofen 5 mg,"baclofen 5 mg, 10 mg, 20 mg tablet",Preferred
 ,"Baclofen 5mg, 10mg, 20mg","baclofen 5 mg, 10 mg, 20 mg tablet",Preferred
+SKELETAL MUSCLE RELAXANTS,Baclofen oral suspension,baclofen suspension,Non-Preferred
 ,Baclofen tablet,"baclofen 5 mg, 10 mg, 20 mg tablet",Preferred
 ,"Baclofen tablet, 10 mg","baclofen 5 mg, 10 mg, 20 mg tablet",Preferred
+SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 15 mg",baclofen 15 mg tablet,Non-Preferred
 ,"Baclofen tablet, 20 mg","baclofen 5 mg, 10 mg, 20 mg tablet",Preferred
 ,"Baclofen tablet, 5 mg","baclofen 5 mg, 10 mg, 20 mg tablet",Preferred
 ,"Baclofen tablet, 5mg, 10mg, 20mg","baclofen 5 mg, 10 mg, 20 mg tablet",Preferred
@@ -331,6 +337,7 @@ ANTICONVULSANTS : ADJUVANTS,Banzel tablet,BANZEL (rufinamide),Non-Preferred
 HEPATITIS B TREATMENTS,Baraclude,BARACLUDE (entecavir),Non-Preferred
 HEPATITIS B TREATMENTS,Baraclude oral solution,BARACLUDE (entecavir),Non-Preferred
 HEPATITIS B TREATMENTS,Baraclude tablet,BARACLUDE (entecavir),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Basaglar Kwikpen,BASAGLAR (insulin glargine),Non-Preferred
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Benazepril,benazepril,Preferred
 "BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : BETA-BLOCKERS",Betapace,BETAPACE (sotalol),Non-Preferred
 "BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : BETA-BLOCKERS",Betapace AF,BETAPACE AF (sotalol),Non-Preferred
@@ -428,7 +435,9 @@ ANTIPSYCHOTICS : ORAL,Clozapine ODT,clozapine ODT,Non-Preferred
 ANTIPSYCHOTICS : ORAL,Clozapine tablet,clozapine tablet,Preferred
 ANTIPSYCHOTICS : ORAL,Clozaril,CLOZARIL (clozapine),Non-Preferred
 ANTIPSYCHOTICS : ORAL,Clozaril tablet,CLOZARIL (clozapine),Non-Preferred
-BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,Combivent Respimat (Ipratropium/Albuterol) inhalation aerosol solution,COMBIVENT RESPIMAT (ipratropium/albuterol),Preferred
+ANTIPSYCHOTICS (continued): ORAL,Cobenfy capsule,COBENFY (xanomeline/trospium),Non-Preferred
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,Combivent Respimat (Ipratropium/Albuterol) inhalation aerosol solution,"COMBIVENT RESPIMAT 
+(ipratropium/albuterol)",Preferred
 ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON- NUCLEOSIDE RTIs,Complera,COMPLERA (emtricitabine/rilpivirine/tenofovir),Non-Preferred
 STIMULANTS AND RELATED AGENTS : LONG-ACTING,Concerta ER,CONCERTA (methylphenidate),Preferred
 MULTIPLE SCLEROSIS AGENTS,Copaxone (Glatiramer Acetate) 20 mg,COPAXONE (glatiramer) 20 mg,Preferred
@@ -474,8 +483,6 @@ CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Psoriatic Arthritis (pediatric)
 CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Psoriatic Arthritis (pediatric), UnoReady",COSENTYX (secukinumab),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Psoriatic Arthritis (pediatric), prefilled syringe",COSENTYX (secukinumab),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),"Cosentyx Psoriatic Arthritis (pediatric), vial",COSENTYX (secukinumab),Non-Preferred
-MISCELLANEOUS BRAND/GENERIC,Crenessity capsule,CRENESSITY (crinecerfont)NR,Non-Preferred
-MISCELLANEOUS BRAND/GENERIC,Crenessity oral solution,CRENESSITY (crinecerfont)NR,Non-Preferred
 PANCREATIC ENZYMES,Creon,CREON (lipase/protease/amylase),Preferred
 IMMUNE GLOBULINS,Cuvitru,CUVITRU,Non-Preferred
 IMMUNE GLOBULINS,Cuvitru All other indications,CUVITRU,Non-Preferred
@@ -516,6 +523,7 @@ CYTOKINE & CAM ANTAGONISTS (continued),Cyltezo Rheumatoid Arthritis,CYLTEZO (ada
 CYTOKINE & CAM ANTAGONISTS (continued),Cyltezo Ulcerative Colitis (adult),CYLTEZO (adalimumab-adbm),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),Cyltezo Uveitis (adult),CYLTEZO (adalimumab-adbm),Non-Preferred
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,Daliresp,DALIRESP (roflumilast),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Dantrium,DANTRIUM (dantrolene),Non-Preferred
 "HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITORS",Dapagliflozin,dapagliflozin,Non-Preferred
 MUSCULAR DYSTROPHY AGENTS,Deflazacort,deflazacort,Non-Preferred
 ANTICONVULSANTS : ADJUVANTS,Depakote,DEPAKOTE (divalproex),Non-Preferred
@@ -575,11 +583,13 @@ ATOPIC DERMATITIS,"Dupixent prefilled syringe, Prurigo Nodularis",DUPIXENT (dupi
 STIMULANTS AND RELATED AGENTS : LONG-ACTING,Dyanavel XR,DYANAVEL XR (amphetamine) tablets,Non-Preferred
 STIMULANTS AND RELATED AGENTS : LONG-ACTING,Dyanavel XR oral suspension,DYANAVEL XR (amphetamine) suspension,Preferred
 STIMULANTS AND RELATED AGENTS : LONG-ACTING,Dyanavel XR tablet,DYANAVEL XR (amphetamine) tablets,Non-Preferred
+ATOPIC DERMATITIS,Ebglyss Atopic Dermatitis (pediatric),EBGLYSS Pen (lebrikizumab-lbkz),Non-Preferred
+ATOPIC DERMATITIS,"Ebglyss auto-injector, Atopic Dermatitis (adult)",EBGLYSS Pen (lebrikizumab-lbkz),Non-Preferred
 ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Edarbi,EDARBI (azilsartan),Non-Preferred
 ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,Edarbyclor,EDARBYCLOR (azilsartan/chlorthalidone),Non-Preferred
 ANTIRETROVIRALS : NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),Edurant,EDURANT (rilpivirine),Preferred
 "ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",Eletriptan,eletriptan,Non-Preferred
-MUSCULAR DYSTROPHY AGENTS,Elevidys intravenous infusion kit,ELEVIDYS (delandistrogene moxeparvovec-rokl),Non-Preferred
+MUSCULAR DYSTROPHY AGENTS,Elevidys intravenous infusion kit,ELEVIDYS (delandistrogene moxeparvovecrokl),Non-Preferred
 ANTICOAGULANTS: ORAL,Eliquis,ELIQUIS (apixaban),Preferred
 NSAIDS: COX II SELECTIVE,Elyxyb,ELYXYB (celecoxib),Non-Preferred
 MUSCULAR DYSTROPHY AGENTS,Emflaza Duchenne Muscular Dystrophy,EMFLAZA (deflazacort),Preferred
@@ -711,7 +721,7 @@ MULTIPLE SCLEROSIS AGENTS,"Fingolimod capsule, 0.5 mg",fingolimod,Preferred
 ANTICONVULSANTS : ADJUVANTS,Fintepla,FINTEPLA (fenfluramine),Non-Preferred
 ANTICONVULSANTS : ADJUVANTS,Fintepla Dravet Syndrome,FINTEPLA (fenfluramine),Non-Preferred
 ANTICONVULSANTS : ADJUVANTS,Fintepla Lennox-Gastaut syndrome,FINTEPLA (fenfluramine),Non-Preferred
-GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Flovent Diskus,FLOVENT DISKUS (fluticasone),Preferred
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Flovent Diskus,FLOVENT DISKUS (fluticasone),Non-Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Flovent HFA,FLOVENT HFA (fluticasone),Non-Preferred
 BONE RESORPTION SUPPRESSION AND RELATED AGENTS : OTHERS,Forteo,FORTEO (teriparatide),Preferred
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Fosinopril,fosinopril,Preferred
@@ -819,16 +829,6 @@ CYTOKINE & CAM ANTAGONISTS (continued),Hulio Psoriatic Arthritis (adult),HULIO (
 CYTOKINE & CAM ANTAGONISTS (continued),Hulio Rheumatoid Arthritis,HULIO (adalimumab-fkjp),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),Hulio Ulcerative Colitis (adult),HULIO (adalimumab-fkjp),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),Hulio Uveitis (adult),HULIO (adalimumab-fkjp),Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Humalog Junior KwikPen,"HUMALOG; HUMALOG JUNIOR, KWIKPEN, TEMPO 
-PEN (insulin lispro)",Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Humalog Junior KwikPen, U-100","HUMALOG; HUMALOG JUNIOR, KWIKPEN, TEMPO 
-PEN (insulin lispro)",Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Humalog KwikPen, U-100","HUMALOG; HUMALOG JUNIOR, KWIKPEN, TEMPO 
-PEN (insulin lispro)",Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Humalog KwikPen, U-200","HUMALOG; HUMALOG JUNIOR, KWIKPEN, TEMPO 
-PEN (insulin lispro)",Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Humalog U-100, cartridge","HUMALOG; HUMALOG JUNIOR, KWIKPEN, TEMPO 
-PEN (insulin lispro)",Non-Preferred
 GROWTH HORMONES,Humatrope,HUMATROPE (somatropin),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS,Humira Ankylosing Spondylitis,HUMIRA (adalimumab),Preferred
 CYTOKINE & CAM ANTAGONISTS,Humira Crohn's Disease (adult),HUMIRA (adalimumab),Preferred
@@ -1080,6 +1080,7 @@ ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,Memantine XR,memantine ER,Non-P
 ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,Memantine oral solution,memantine,Preferred
 ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,Memantine tablet,memantine,Preferred
 ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,Memantine titration pack,memantine,Preferred
+SKELETAL MUSCLE RELAXANTS,"Metaxalone 800 mg, 400 mg",metaxalone,Non-Preferred
 "BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : BETA-BLOCKERS",Metoprolol Succinate ER tablet,metoprolol succinate,Preferred
 ROSACEA TREATMENTS,Metrogel 0.75%,METROGEL (metronidazole),Non-Preferred
 ROSACEA TREATMENTS,Metronidazole 0.75% Gel,metronidazole,Preferred
@@ -1105,6 +1106,8 @@ OPIATE DEPENDENCE TREATMENTS: TREATMENT,Narcan,NARCAN (naloxone),Preferred
 OPIATE DEPENDENCE TREATMENTS: TREATMENT,Narcan nasal spray,NARCAN (naloxone),Preferred
 ANTIPARASITICS (TOPICAL) : PEDICULICIDES,Natroba,NATROBA (spinosad),Preferred
 ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Nayzilam,NAYZILAM (midazolam),Preferred
+ATOPIC DERMATITIS,"Nemluvio auto-injector, Atopic Dermatitis (pediatric)",NEMLUVIO (nemolizumab-ilto),Non-Preferred
+ATOPIC DERMATITIS,"Nemluvio auto-injector, Prurigo Nodularis",NEMLUVIO (nemolizumab-ilto),Non-Preferred
 COLONY STIMULATING FACTORS,Neulasta,"NEULASTA, NEULASTA ONPRO (pegfilgrastim)",Non-Preferred
 COLONY STIMULATING FACTORS,Neulasta Onpro,"NEULASTA, NEULASTA ONPRO (pegfilgrastim)",Non-Preferred
 COLONY STIMULATING FACTORS,Neupogen,NEUPOGEN (filgrastim),Preferred
@@ -1119,16 +1122,22 @@ SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,Nextstellis,NEXTSTELLIS (dros
 GROWTH HORMONES,Ngenla,NGENLA (somatrogon-ghla),Non-Preferred
 COLONY STIMULATING FACTORS,Nivestym,NIVESTYM (filgrastim-aafi),Non-Preferred
 GROWTH HORMONES,Norditropin,NORDITROPIN FLEXPRO (somatropin),Preferred
+SKELETAL MUSCLE RELAXANTS,Norgesic Forte,NORGESIC FORTE (orphenadrine/aspirin/caffeine),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolin 70/30,NOVOLIN 70/30 (insulin NPH/regular),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolin 70/30 Flexpen OTC,NOVOLIN 70/30 (insulin NPH/regular),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS (continued)",Novolin N,NOVOLIN N (insulin NPH),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS (continued)",Novolin N FlexPen,NOVOLIN N (insulin NPH),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS (continued)","Novolin N FlexPen, U-100",NOVOLIN N (insulin NPH),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS (continued)",Novolin N vial,NOVOLIN N (insulin NPH),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS (continued)","Novolin N vial, U-100",NOVOLIN N (insulin NPH),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolin R,NOVOLIN R (insulin regular),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolin R FlexPen,NOVOLIN R (insulin regular),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Novolin R FlexPen, U-100",NOVOLIN R (insulin regular),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolin R vial,NOVOLIN R (insulin regular),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Novolin R vial, U-100",NOVOLIN R (insulin regular),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolog,NOVOLOG (insulin aspart),Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolog 70/30,NOVOLOG MIX 70/30 (insulin aspart/aspart protamine),Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolog 70/30 FlexPen,NOVOLOG MIX 70/30 (insulin aspart/aspart protamine),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS (continued)",Novolog 70/30,NOVOLOG MIX 70/30 (insulin aspart protamine/aspart),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS (continued)",Novolog 70/30 FlexPen,NOVOLOG MIX 70/30 (insulin aspart protamine/aspart),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolog FlexPen,NOVOLOG (insulin aspart),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Novolog FlexPen, 100 unit/ml",NOVOLOG (insulin aspart),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Novolog cartridge,NOVOLOG (insulin aspart),Non-Preferred
@@ -1207,7 +1216,6 @@ ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Onfi tablet,ONFI (clobazam
 "HYPOGLYCEMICS, DPP4s AND COMBINATIONS",Onglyza,ONGLYZA (saxagliptin),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Onureg,ONUREG (azacitidine),Non-Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,Opsumit,OPSUMIT (macitentan),Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: COMBINATION AGENTS,Opsynvi tablet,OPSYNVI (macitentan/tadalafil),Non-Preferred
 OPIATE DEPENDENCE TREATMENTS: TREATMENT,Opvee (Nalmefene),OPVEE (nalmefene),Preferred
 ATOPIC DERMATITIS,Opzelura,OPZELURA (ruxolitinib),Non-Preferred
 MISCELLANEOUS BRAND/GENERIC,Oralair,ORALAIR,Non-Preferred
@@ -1235,6 +1243,7 @@ CYTOKINE & CAM ANTAGONISTS (continued),"Orencia vial, Rheumatoid Arthritis",OREN
 PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,Orenitram ER,ORENITRAM ER (treprostinil),Non-Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,Orenitram ER tablet,ORENITRAM ER (treprostinil),Non-Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,Orenitram ER titration kit,ORENITRAM TITRATION PAK (treprostinil),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Orphenadrine ER,orphenadrine,Non-Preferred
 "ANTIVIRALS, ORAL (continued): ANTI-INFLUENZA AGENTS",Oseltamivir,oseltamivir,Preferred
 CYTOKINE & CAM ANTAGONISTS,Otezla,OTEZLA (apremilast),Preferred
 CYTOKINE & CAM ANTAGONISTS,Otezla 20 mg,OTEZLA (apremilast),Preferred
@@ -1444,10 +1453,10 @@ ANTIRETROVIRALS : ENTRY INHIBITORS – CCR5 CO-RECEPTOR ANTAGONISTS,"Selzentry t
 ANTIPSYCHOTICS : ORAL,Seroquel,SEROQUEL (quetiapine),Non-Preferred
 ANTIPSYCHOTICS : ORAL,Seroquel XR,SEROQUEL XR (quetiapine ER),Non-Preferred
 GROWTH HORMONES,Serostim,SEROSTIM (somatropin),Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,Sildenafil 20 mg,sildenafil (generic REVATIO) tablet,Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,Sildenafil oral suspension,sildenafil (generic REVATIO) suspension,Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,"Sildenafil oral suspension, labeler 59762",sildenafil (generic REVATIO) suspension,Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,Sildenafil tablet,sildenafil (generic REVATIO) tablet,Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PDE5 INHIBITORS,Sildenafil 20 mg,"sildenafil (generic REVATIO) tablet, suspension",Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PDE5 INHIBITORS,Sildenafil oral suspension,"sildenafil (generic REVATIO) tablet, suspension",Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PDE5 INHIBITORS,"Sildenafil oral suspension, labeler 59762","sildenafil (generic REVATIO) tablet, suspension",Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PDE5 INHIBITORS,Sildenafil tablet,"sildenafil (generic REVATIO) tablet, suspension",Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),Siliq,SILIQ (brodalumab),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),Siliq Plaque Psoriasis (adult),SILIQ (brodalumab),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),Simlandi Ankylosing Spondylitis,SIMLANDI (adalimumab-ryvk),Non-Preferred
@@ -1533,6 +1542,7 @@ GROWTH HORMONES,Sogroya,SOGROYA (somapacitan-beco),Non-Preferred
 ANTIBIOTICS (VAGINAL),Solosec,SOLOSEC (secnidazole),Non-Preferred
 ANTIBIOTICS (VAGINAL),Solosec Bacterial Vaginosis,SOLOSEC (secnidazole),Non-Preferred
 ANTIBIOTICS (VAGINAL),Solosec Trichomoniasis,SOLOSEC (secnidazole),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Soma,SOMA (carisoprodol),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Sorafenib,sorafenib,Non-Preferred
 "BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : BETA-BLOCKERS",Sorine,SORINE (sotalol),Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),Sotyktu Plaque Psoriasis (adult),SOTYKTU (deucravacitinib),Non-Preferred
@@ -1575,9 +1585,10 @@ COLONY STIMULATING FACTORS,"Stimufend prefilled syringe, Secondary Prophylaxis o
 COLONY STIMULATING FACTORS,"Stimufend prefilled syringe, Treatment of Febrile Neutropenia (FN) (off-label)",STIMUFEND (pegfilgrastim-fpgk),Non-Preferred
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,Stiolto Respimat,STIOLTO RESPIMAT (tiotropium/olodaterol),Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Stivarga,STIVARGA (regorafenib),Preferred
-ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,Stribild,STRIBILD (elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate),Non-Preferred
+ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,Stribild,"STRIBILD 
+(elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate)",Non-Preferred
 OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,Sublocade,SUBLOCADE (buprenorphine),Non-Preferred
-OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,Suboxone,SUBOXONE (buprenorphine/naloxone),Preferred
+OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,Suboxone,SUBOXONE (buprenorphine/naloxone) DUR+,Preferred
 "ANTIMIGRAINE AGENTS, ACUTE TREATMENT: INJECTABLES",Sumatriptan,sumatriptan,Preferred
 "ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",Sumatriptan / Naproxen sodium,sumatriptan/naproxen,Non-Preferred
 STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Sunosi,SUNOSI (solriamfetol),Preferred
@@ -1586,7 +1597,8 @@ STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Sunosi Obstructive Sleep Apnea,SUNOSI
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Symbicort,SYMBICORT (budesonide/formoterol),Preferred
 ANTIPSYCHOTICS : ORAL,Symbyax,SYMBYAX (olanzapine/fluoxetine),Non-Preferred
 ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Sympazan oral film,SYMPAZAN (clobazam),Non-Preferred
-ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,Symtuza,SYMTUZA (darunavir/cobicistat/emtricitabine/tenofovir alafenamide),Non-Preferred
+ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,Symtuza,"SYMTUZA 
+(darunavir/cobicistat/emtricitabine/tenofovir alafenamide)",Non-Preferred
 "HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Synjardy,SYNJARDY (empagliflozin/metformin),Preferred
 "HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Synjardy XR,SYNJARDY XR (empagliflozin/metformin),Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Tabrecta,TABRECTA (capmatinib),Non-Preferred
@@ -1625,6 +1637,7 @@ CYTOKINE & CAM ANTAGONISTS,"Taltz Psoriatic Arthritis (adult), prefilled syringe
 "ANTIVIRALS, ORAL (continued): ANTI-INFLUENZA AGENTS",Tamiflu,TAMIFLU (oseltamivir),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Tarceva,TARCEVA (erlotinib),Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,Taytulla,TAYTULLA (norethindrone/ethinyl estradiol/iron),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Tecentriq,TECENTRIQ HYBREZA (atezolizumab/hyaluronidase-tqjs),Non-Preferred
 MULTIPLE SCLEROSIS AGENTS,Tecfidera (Dimethyl Fumarate) DR capsule,TECFIDERA (dimethyl fumarate),Non-Preferred
 ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Telmisartan,telmisartan,Preferred
 MULTIPLE SCLEROSIS AGENTS,Teriflunomide,teriflunomide,Preferred
@@ -1665,7 +1678,7 @@ CYSTIC FIBROSIS AGENTS,"Tobramycin generic Tobi, 300 mg/5 mL",tobramycin (generi
 CYSTIC FIBROSIS AGENTS,Tobramycin nebulized solution,tobramycin (generic TOBI),Preferred
 CYSTIC FIBROSIS AGENTS,"Tobramycin nebulized solution, 300 mg/4 mL",tobramycin (generic TOBI),Preferred
 CYSTIC FIBROSIS AGENTS,"Tobramycin nebulized solution, 300 mg/5 mL",tobramycin (generic TOBI),Preferred
-ANTICONVULSANTS (continued): ADJUVANTS (continued),Topamax Sprinkle,TOPAMAX (topiramate),Non-Preferred
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Topamax Sprinkle,TOPAMAX SPRINKLE (topiramate),Non-Preferred
 ANTICONVULSANTS : ADJUVANTS,Topiramate tablet,topiramate,Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Toujeo Max Solostar,TOUJEO MAX (insulin glargine),Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Toujeo Solostar,TOUJEO (insulin glargine),Preferred
@@ -1677,7 +1690,17 @@ PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,"Tracleer tab
 PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,"Tracleer tablet, 62.5 mg",TRACLEER (bosentan),Non-Preferred
 "HYPOGLYCEMICS, DPP4s AND COMBINATIONS",Tradjenta,TRADJENTA (linagliptin),Preferred
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Trandolapril,trandolapril,Preferred
-BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BATA AGONIST-GLUCOCORTICOIDS COMBINATIONS,Trelegy Ellipta,TRELEGY ELLIPTA (fluticasone/umeclidinium/vilanterol),Non-Preferred
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BATA AGONIST-GLUCOCORTICOIDS COMBINATIONS,Trelegy Ellipta,"TRELEGY ELLIPTA 
+(fluticasone/umeclidinium/vilanterol)",Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Tremfya,TREMFYA (guselkumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Tremfya 100 mg/mL,TREMFYA (guselkumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Tremfya 200mg/2mL,TREMFYA (guselkumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Tremfya Plaque Psoriasis (adult),TREMFYA (guselkumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Tremfya Plaque Psoriasis (adult), prefilled syringe",TREMFYA (guselkumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Tremfya Psoriatic Arthritis (adult),TREMFYA (guselkumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Tremfya Psoriatic Arthritis (adult), prefilled syringe",TREMFYA (guselkumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Tremfya Ulcerative Colitis (adult),TREMFYA (guselkumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Tremfya prefilled syringe, Ulcerative Colitis (adult)",TREMFYA (guselkumab),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Tresiba FlexTouch, U-100",TRESIBA (insulin degludec),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS","Tresiba FlexTouch, U-200",TRESIBA (insulin degludec),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",Tresiba vial,TRESIBA (insulin degludec),Non-Preferred
@@ -1697,7 +1720,8 @@ PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,Tyvaso DPI,TYVASO (treprostinil
 PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,Tyvaso inhalation solution,TYVASO (treprostinil),Non-Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,Tyvaso starter kit,TYVASO (treprostinil),Non-Preferred
 "ANTIMIGRAINE AGENTS, ACUTE TREATMENT: CGRP ORAL AND NASAL",Ubrelvy,UBRELVY (ubrogepant),Preferred
-COLONY STIMULATING FACTORS,Udenyca,"UDENYCA, UDENYCA ONBODY (pegfilgrastim-cbqv)",Non-Preferred
+COLONY STIMULATING FACTORS (continued),Udenyca,"UDENYCA, UDENYCA ONBODY 
+(pegfilgrastim-cbqv)",Non-Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: SELECTIVE PROSTACYCLINE RECEPTOR AGONISTS,Uptravi tablet,UPTRAVI (selexipag),Non-Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: SELECTIVE PROSTACYCLINE RECEPTOR AGONISTS,Uptravi vial,UPTRAVI (selexipag),Non-Preferred
 "ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Uzedy,UZEDY (risperidone),Preferred
@@ -1717,7 +1741,9 @@ PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,Ventavis,VENTAVIS (iloprost),No
 ANTIPSYCHOTICS : ORAL,Versacloz,VERSACLOZ (clozapine),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Verzenio,VERZENIO (abemaciclib),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Verzenio tablet,VERZENIO (abemaciclib),Non-Preferred
-IRRITABLE BOWEL SYNDROME/SHORT BOWEL SYNDROME AGENTS/SELECTED AGENTS (continued): IRRITABLE BOWEL SYNDROME – DIARRHEA,Viberzi,"VIBERZI [New starts require clinical review] o Documented diagnosis of IBS – D in the past year and 1 claim for Viberzi in the past 105 days 
+,Viberzi,"VIBERZI [New starts require clinical review] 
+Documented diagnosis of IBS – D in the past year and 1 claim for Viberzi in the past 105 days       
+o  
 LOTRONEX 
 o 1 claim for LOTRONEX in the past 105 days OR o New starts require clinical review – MANUAL PA 
 • XIFAXAN – (see Antibiotics, GI)",Preferred
@@ -1752,7 +1778,8 @@ OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,Vivitrol,VIVITROL (naltrexone),Non-Pref
 OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,Vivitrol Alcohol Use Disorder,VIVITROL (naltrexone),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Vizimpro,VIZIMPRO (dacomitinib),Non-Preferred
 GI ULCER THERAPIES: OTHERS,Voquezna,VOQUEZNA (vonoprazan),Non-Preferred
-H. PYLORI COMBINATION TREATMENTS,Voquezna Dual Pak,VOQUEZNA DUAL PAK (vonoprazan/amoxicillin),Non-Preferred
+H. PYLORI COMBINATION TREATMENTS,Voquezna Dual Pak,"VOQUEZNA DUAL PAK 
+(vonoprazan/amoxicillin)",Non-Preferred
 GI ULCER THERAPIES: OTHERS,Voquezna Erosive Esophagitis,VOQUEZNA (vonoprazan),Non-Preferred
 GI ULCER THERAPIES: OTHERS,Voquezna H. pylori infection,VOQUEZNA (vonoprazan),Non-Preferred
 H. PYLORI COMBINATION TREATMENTS,Voquezna Triple Pak,"VOQUEZNA TRIPLE PAK 
@@ -1871,6 +1898,37 @@ STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Xywav Cataplexy,XYWAV (calcium/magnes
 STIMULANTS AND RELATED AGENTS : NARCOLEPSY,"Xywav Cataplexy, Excessive Daytime Sleepiness",XYWAV (calcium/magnesium/potassium/sodium oxybate),Non-Preferred
 STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Xywav Excessive Daytime Sleepiness,XYWAV (calcium/magnesium/potassium/sodium oxybate),Non-Preferred
 STIMULANTS AND RELATED AGENTS : NARCOLEPSY,Xywav Idiopathic Hypersomnia,XYWAV (calcium/magnesium/potassium/sodium oxybate),Non-Preferred
+PARATHYROID AGENTS,Yorvipath,YORVIPATH (palopegteriparatide),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Yuflyma Ankylosing Spondylitis,YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Ankylosing Spondylitis, auto-injector",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Ankylosing Spondylitis, prefilled syringe",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Yuflyma Crohn's Disease (adult),YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Crohn's Disease (adult), auto-injector",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Crohn's Disease (adult), prefilled syringe",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Yuflyma Crohn's Disease (pediatric),YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Crohn's Disease (pediatric), auto-injector",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Crohn's Disease (pediatric), prefilled syringe",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Yuflyma Hidradenitis Suppurativa,YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Hidradenitis Suppurativa, auto-injector",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Hidradenitis Suppurativa, prefilled syringe",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Yuflyma Plaque Psoriasis (adult),YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Plaque Psoriasis (adult), auto-injector",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Plaque Psoriasis (adult), prefilled syringe",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA),YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Yuflyma Psoriatic Arthritis (adult),YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Psoriatic Arthritis (adult), auto-injector",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Psoriatic Arthritis (adult), prefilled syringe",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Yuflyma Rheumatoid Arthritis,YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Rheumatoid Arthritis, auto-injector",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Rheumatoid Arthritis, prefilled syringe",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Yuflyma Ulcerative Colitis (adult),YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Ulcerative Colitis (adult), auto-injector",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Ulcerative Colitis (adult), prefilled syringe",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),Yuflyma Uveitis (adult),YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Uveitis (adult), auto-injector",YUFLYMA (adalimumab-aaty),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),"Yuflyma Uveitis (adult), prefilled syringe",YUFLYMA (adalimumab-aaty),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Ankylosing Spondylitis,YUSIMRY (adalimumab-aqvh),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Crohn's Disease (adult),YUSIMRY (adalimumab-aqvh),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Crohn's Disease (pediatric),YUSIMRY (adalimumab-aqvh),Non-Preferred
@@ -1882,6 +1940,8 @@ CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Rheumatoid Arthritis,YUSIMRY (ada
 CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Ulcerative Colitis (adult),YUSIMRY (adalimumab-aqvh),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),Yusimry Uveitis (adult),YUSIMRY (adalimumab-aqvh),Non-Preferred
 SELECT CONTRACEPTIVE PRODUCTS: TRANSDERMAL CONTRACEPTIVES,Zafemy,ZAFEMY (norelgestromin/ethinyl estradiol),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Zanaflex capsule,ZANAFLEX (tizanidine),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,Zanaflex tablet,ZANAFLEX (tizanidine),Non-Preferred
 COLONY STIMULATING FACTORS,Zarxio,ZARXIO (filgrastim-sndz),Non-Preferred
 "ANTIMIGRAINE AGENTS, ACUTE TREATMENT: CGRP ORAL AND NASAL",Zavzpret,ZAVZPRET (zavegepant),Non-Preferred
 GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Zegerid,ZEGERID (omeprazole/sodium bicarbonate),Non-Preferred
@@ -1890,3 +1950,30 @@ GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Zegerid packet,ZEGERID (omeprazole/so
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Zejula,ZEJULA (niraparib),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Zejula Tablet,ZEJULA (niraparib),Non-Preferred
 "ANTIMIGRAINE AGENTS, ACUTE TREATMENT: INJECTABLES",Zembrace,ZEMBRACE SYMTOUCH (sumatriptan),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS (continued),Zeposia,ZEPOSIA (ozanimod),Non-Preferred
+ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Ziagen,ZIAGEN (abacavir),Preferred
+COLONY STIMULATING FACTORS (continued),Ziextenzo,ZIEXTENZO (pegfilgrastim-bmez),Non-Preferred
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Ziprasidone,ziprasidone,Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): NASAL",Zolmitriptan,zolmitriptan,Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,Zolpidem,zolpidem tablet,Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,Zolpidem 10 mg,zolpidem tablet,Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,"Zolpidem 10 mg, tablet",zolpidem tablet,Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,Zolpidem 5 mg,zolpidem tablet,Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,"Zolpidem 5 mg, tablet",zolpidem tablet,Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,Zolpidem 7.5 mg,zolpidem capsule,Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,Zolpidem IR capsule,zolpidem capsule,Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,Zolpidem IR tablet,zolpidem tablet,Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,"Zolpidem IR tablet, 10 mg",zolpidem tablet,Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,"Zolpidem IR tablet, 5 mg",zolpidem tablet,Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,"Zolpidem IR tablet, IR capsule",zolpidem capsule,Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,Zolpidem capsule,zolpidem capsule,Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,Zolpidem tablet,zolpidem tablet,Preferred
+GROWTH HORMONES,Zomacton,ZOMACTON (somatropin),Non-Preferred
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Zonisade,ZONISADE (zonisamide) suspension,Non-Preferred
+ATOPIC DERMATITIS,"Zoryve cream, 0.15%, Atopic Dermatitis",ZORYVE (roflumilast) 0.15% cream,Non-Preferred
+ANTICONVULSANTS (continued): ADJUVANTS (continued),Ztalmy,ZTALMY (ganaxolone),Non-Preferred
+"ANTIDEPRESSANTS, OTHER",Zurzuvae,ZURZUVAE (zuranolone),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Zydelig,ZYDELIG (idelalisib),Preferred
+ANTIPSYCHOTICS (continued),Zyprexa,ZYPREXA (olanzapine),Non-Preferred
+ANTIPSYCHOTICS (continued),Zyprexa Relprevv,ZYPREXA RELPREVV (olanzapine),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,Zyprexa Zydis,"ZYPREXA, ZYPREXA ZYDIS (olanzapine)",Non-Preferred

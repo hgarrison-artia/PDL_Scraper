@@ -410,6 +410,7 @@ CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Donepezil 5 mg
 CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Donepezil ODT,donepezil ODT
 CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,"Donepezil ODT, 10 mg",donepezil ODT
 CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,"Donepezil ODT, 5 mg",donepezil ODT
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Donepezil tablet,donepezil (excluding 23 mg)
 CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,"Donepezil tablet, 10 mg",donepezil (excluding 23 mg)
 CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,"Donepezil tablet, 23 mg",donepezil 23 mg
 CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,"Donepezil tablet, 5 mg",donepezil (excluding 23 mg)
@@ -421,3 +422,1371 @@ RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Dulera,
 RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Dulera 100 mcg / 5 mcg,Dulera
 RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Dulera 200 mcg / 5 mcg,Dulera
 RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Dulera 50 mcg / 5 mcg,Dulera
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Duloxetine 20 mg,"duloxetine 20,30, & 60 mg"
+CENTRAL NERVOUS SYSTEM : Antidepressants: SNRIs,"Duloxetine 20 mg, Major Depressive Disorder / Generalized Anxiety Disorder","duloxetine 20, 30, & 60 mg"
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,"Duloxetine 20 mg, Neuropathic Pain","duloxetine 20,30, & 60 mg"
+CENTRAL NERVOUS SYSTEM : Antidepressants: SNRIs,"Duloxetine 30 mg, Major Depressive Disorder / Generalized Anxiety Disorder","duloxetine 20, 30, & 60 mg"
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,"Duloxetine 30 mg, Neuropathic Pain","duloxetine 20,30, & 60 mg"
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,"Duloxetine 40 mg, Major Depressive Disorder / Generalized Anxiety Disorder",duloxetine 40 mg
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,"Duloxetine 40 mg, Neuropathic Pain",duloxetine 40 mg
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,"Duloxetine 40 mg, generic Irenka, Neuropathic Pain",duloxetine 40 mg
+CENTRAL NERVOUS SYSTEM : Antidepressants: SNRIs,"Duloxetine 60 mg, Major Depressive Disorder / Generalized Anxiety Disorder","duloxetine 20, 30, & 60 mg"
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,"Duloxetine 60 mg, Neuropathic Pain","duloxetine 20,30, & 60 mg"
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent,Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Asthma (adult),Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Asthma (pediatric),Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Atopic Dermatitis (adult),Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent Atopic Dermatitis (adult), pen",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent Atopic Dermatitis (adult), prefilled syringe",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Atopic Dermatitis (pediatric),Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Chronic obstructive pulmonary disease (COPD),Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Eosinophilic Esophagitis,Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Eosinophilic or Corticosteroid-Dependent Asthma,Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Prurigo Nodularis,Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent pen, Asthma (adult)",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent pen, Asthma (pediatric)",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent pen, Atopic Dermatitis (pediatric)",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent pen, Chronic Rhinosinusitis with Nasal Polyposis",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent pen, Chronic obstructive pulmonary disease (COPD)",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent pen, Eosinophilic Esophagitis",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent pen, Eosinophilic or Corticosteroid-Dependent Asthma",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent pen, Prurigo Nodularis",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent prefilled syringe, Asthma (adult)",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent prefilled syringe, Asthma (pediatric)",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent prefilled syringe, Atopic Dermatitis (pediatric)",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent prefilled syringe, Chronic obstructive pulmonary disease (COPD)",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent prefilled syringe, Eosinophilic Esophagitis",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent prefilled syringe, Eosinophilic or Corticosteroid-Dependent Asthma",Dupixent
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Dupixent prefilled syringe, Prurigo Nodularis",Dupixent
+RARE CONDITIONS : Duchenne Muscular Dystrophy (DMD),Duvyzat oral suspension,Duvyzat
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Dyanavel XR,Dyanavel XR
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Dyanavel XR oral suspension,Dyanavel XR
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Dyanavel XR tablet,Dyanavel XR
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Ebglyss Atopic Dermatitis (adult),Ebglyss
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Ebglyss Atopic Dermatitis (pediatric),Ebglyss
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Ebglyss auto-injector, Atopic Dermatitis (adult)",Ebglyss
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Ebglyss auto-injector, Atopic Dermatitis (pediatric)",Ebglyss
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Ebglyss prefilled syringe, Atopic Dermatitis (adult)",Ebglyss
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Ebglyss prefilled syringe, Atopic Dermatitis (pediatric)",Ebglyss
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Edarbi,Edarbi™
+CARDIOVASCULAR : ARB + Diuretic,Edarbyclor,Edarbyclor
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Eletriptan,eletriptan
+"CARDIOVASCULAR : Anticoagulants, Oral",Eliquis,Eliquis
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Eluryng,Eluryng
+RARE CONDITIONS : Duchenne Muscular Dystrophy (DMD),Emflaza Duchenne Muscular Dystrophy,Emflaza
+RARE CONDITIONS : Duchenne Muscular Dystrophy (DMD),Emflaza oral suspension,Emflaza
+RARE CONDITIONS : Duchenne Muscular Dystrophy (DMD),Emflaza tablet,Emflaza
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Emgality 100 mg,Emgality syringe & pen
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,"Emgality 100 mg, Episodic Cluster Headache",Emgality syringe & pen
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,"Emgality 100 mg, Migraine Prophylaxis",Emgality syringe & pen
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Emgality 120 mg,Emgality syringe & pen
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,"Emgality 120 mg, Episodic Cluster Headache",Emgality syringe & pen
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,"Emgality 120 mg, Migraine Prophylaxis",Emgality syringe & pen
+RARE CONDITIONS : Paroxysmal Nocturnal Hemoglobinuria (PNH),Empaveli,Empaveli
+ANTI-INFECTIVES : Antivirals: HIV NRTIs,Emtriva capsule,Emtriva
+ANTI-INFECTIVES : Antivirals: HIV NRTIs,Emtriva oral solution,Emtriva
+CARDIOVASCULAR : ACE Inhibitors (AEIs),Enalapril,enalapril suspension
+CARDIOVASCULAR : ACE Inhibitors (AEIs),Enalapril oral suspension,enalapril suspension
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel,Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel Ankylosing Spondylitis,Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Ankylosing Spondylitis, Mini cartridge",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Ankylosing Spondylitis, SureClick",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Ankylosing Spondylitis, prefilled syringe",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Ankylosing Spondylitis, vial",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel Plaque Psoriasis (adult),Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Plaque Psoriasis (adult), Mini cartridge",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Plaque Psoriasis (adult), SureClick",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Plaque Psoriasis (adult), prefilled syringe",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Plaque Psoriasis (adult), vial",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel Plaque Psoriasis (pediatric),Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Plaque Psoriasis (pediatric), Mini cartridge",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Plaque Psoriasis (pediatric), SureClick",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Plaque Psoriasis (pediatric), prefilled syringe",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Plaque Psoriasis (pediatric), vial",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA),Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), Mini cartridge",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), SureClick",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), vial",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel Psoriatic Arthritis (adult),Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Psoriatic Arthritis (adult), Mini cartridge",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Psoriatic Arthritis (adult), SureClick",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Psoriatic Arthritis (adult), prefilled syringe",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Psoriatic Arthritis (adult), vial",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel Psoriatic Arthritis (pediatric),Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Psoriatic Arthritis (pediatric), Mini cartridge",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Psoriatic Arthritis (pediatric), SureClick",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Psoriatic Arthritis (pediatric), prefilled syringe",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Psoriatic Arthritis (pediatric), vial",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel Rheumatoid Arthritis,Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Rheumatoid Arthritis, Mini cartridge",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Rheumatoid Arthritis, SureClick",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Rheumatoid Arthritis, prefilled syringe",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Enbrel Rheumatoid Arthritis, vial",Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick
+RARE CONDITIONS : Sickle Cell Disease,Endari,Endari
+ANTI-INFECTIVES : Antivirals: Hepatitis B,Entecavir,entecavir
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Entyvio,Entyvio
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Entyvio Crohn's Disease (adult),Entyvio
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Entyvio Crohn's Disease (adult), prefilled syringe",Entyvio
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Entyvio Crohn's Disease (adult), vial",Entyvio
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Entyvio Ulcerative Colitis (adult),Entyvio
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Entyvio Ulcerative Colitis (adult), prefilled syringe",Entyvio
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Entyvio Ulcerative Colitis (adult), vial",Entyvio
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Entyvio prefilled pen,Entyvio
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Entyvio prefilled pen, Crohn's Disease (adult)",Entyvio
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Entyvio prefilled pen, Ulcerative Colitis (adult)",Entyvio
+IMMUNOLOGICS : Immunosuppressants,Envarsus XR,Envarsus XR
+"ENDOCRINE/METABOLIC AGENTS : Corticosteroids, Oral",Eohilia oral suspension,Eohilia
+"ENDOCRINE/METABOLIC AGENTS : Corticosteroids, Oral","Eohilia oral suspension, Eosinophilic Esophagitis",Eohilia
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Epclusa,Epclusa tablet
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Epclusa pellet packet,Epclusa pellet
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,"Epclusa pellet packet, 150 mg - 37.5 mg",Epclusa pellet
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,"Epclusa pellet packet, 200 mg - 50 mg",Epclusa pellet
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Epclusa tablet,Epclusa tablet
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,"Epclusa tablet, 200 mg - 50 mg",Epclusa tablet
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,"Epclusa tablet, 400 mg - 100 mg",Epclusa tablet
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Epidiolex,Epidiolex
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Epidiolex Dravet Syndrome,Epidiolex
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Epidiolex Lennox-Gastaut Syndrome,Epidiolex
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Epidiolex Refractory Epilepsy,Epidiolex
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Epidiolex Tuberous Sclerosis Complex (TSC),Epidiolex
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,"Epidiolex Tuberous Sclerosis Complex (TSC), Dravet Syndrome, Lennox-Gastaut Syndrome",Epidiolex
+RESPIRATORY : Anaphylaxis Therapy Agents,Epinephrine (Generic Adrenaclick) 0.15mg,epinephrine auto injector
+RESPIRATORY : Anaphylaxis Therapy Agents,Epinephrine (Generic Adrenaclick) 0.3mg,epinephrine auto injector
+RESPIRATORY : Anaphylaxis Therapy Agents,Epinephrine (Mylan Ag Epipen And Jr) 0.15mg Mylan's EpiPen Jr AG,epinephrine auto injector
+RESPIRATORY : Anaphylaxis Therapy Agents,Epinephrine (Mylan Ag Epipen And Jr) 0.3mg Mylan's EpiPen AG,epinephrine auto injector
+RESPIRATORY : Anaphylaxis Therapy Agents,Epipen,EpiPen
+RESPIRATORY : Anaphylaxis Therapy Agents,Epipen Jr.,EpiPen-Jr
+ANTI-INFECTIVES : Antivirals: HIV NRTIs,Epivir,Epivir
+ANTI-INFECTIVES : Antivirals: HIV NRTIs,Epivir HBV,Epivir
+ANTI-INFECTIVES : Antivirals: HIV NRTIs,Epivir HBV oral solution,Epivir
+ANTI-INFECTIVES : Antivirals: HIV NRTIs,Epivir HBV tablet,Epivir
+ANTI-INFECTIVES : Antivirals: HIV NRTIs,Epivir oral solution,Epivir
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,Epogen,Epogen
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,Epogen Anemia associated with chemotherapy,Epogen
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,Epogen Anemia associated with chronic kidney disease if patient is not on dialysis,Epogen
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,Epogen Anemia associated with chronic kidney disease if patient is on dialysis,Epogen
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,Epogen Anemia associated with zidovudine in HIV therapy,Epogen
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,"Epogen To reduce the need for allogenic blood transfusions in anemic patients scheduled to undergo elective, non-cardiac, nonvascular surgery",Epogen
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Eprontia,Eprontia solution
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Epzicom,Epzicom
+ONCOLOGY AGENTS : Hormonal Agents: Anti-Androgens Second Generation,Erleada,Erleada
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Erzofri prefilled syringe,Erzofri
+CARDIOVASCULAR : Pulmonary Fibrosis Agents,Esbriet,Esbriet
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Etonogestrel / Ethinyl Estradiol,Etonogestrel-ethinyl estradiol vaginal ring
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Etonogestrel / Ethinyl Estradiol generic NuvaRing,Etonogestrel-ethinyl estradiol vaginal ring
+"DERMATOLOGICS : Atopic Dermatitis, Topical",Eucrisa,Eucrisa
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Evotaz,Evotaz
+RARE CONDITIONS : Spinal Muscular Atrophy (SMA),Evrysdi,Evrysdi
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Exelon,Exelon
+RARE CONDITIONS : IgA Nephropathy (IgAN),Fabhalta,Fabhalta
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Fanapt,Fanapt
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Farxiga,Farxiga
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Fasenra Asthma (adult),Fasenra
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Fasenra Asthma (pediatric),Fasenra
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Fasenra Eosinophilic Granulomatosis with Polyangitis (EGPA),Fasenra
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Fasenra auto-injector,Fasenra
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Fasenra auto-injector, Asthma (adult)",Fasenra
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Fasenra auto-injector, Asthma (pediatric)",Fasenra
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Fasenra auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Fasenra
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Fasenra prefilled syringe,Fasenra
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Fasenra prefilled syringe, Asthma (adult)",Fasenra
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Fasenra prefilled syringe, Asthma (pediatric)",Fasenra
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Fasenra prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Fasenra
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonists / LHRH Analogs,Fensolvi,Fensolvi
+CENTRAL NERVOUS SYSTEM : Antidepressants: SNRIs,Fetzima,Fetzima
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Fiasp FlexTouch,Fiasp FlexTouch
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Fiasp PenFill,Fiasp PenFill
+RARE CONDITIONS : IgA Nephropathy (IgAN),Filspari,Filspari
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Fingolimod capsule,fingolimod
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral","Fingolimod capsule, 0.5 mg",fingolimod
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Fintepla,Fintepla
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Fintepla Dravet Syndrome,Fintepla
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Fintepla Lennox-Gastaut syndrome,Fintepla
+RARE CONDITIONS : Hereditary Angioedema (HAE) Agents,Firazyr,Firazyr
+OPHTHALMICS : Ophthalmic Steroids,Flarex ophthalmic suspension,Flarex
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Fleqsuvy,Fleqsuvy
+RESPIRATORY : Inhaled: Steroids,Flovent Diskus,Flovent Diskus
+RESPIRATORY : Inhaled: Steroids,Flovent HFA,Flovent HFA
+ENDOCRINE/METABOLIC AGENTS : Bone: Parathyroid Hormone,Forteo,Forteo
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Freestyle Libre 2,Freestyle; Freestyle Libre 2 Freestyle Libre 3
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Freestyle Libre 3,Freestyle; Freestyle Libre 2 Freestyle Libre 3
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Frova,Frova
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Frovatriptan,frovatriptan
+"ONCOLOGY AGENTS : Colorectal Cancer Agents, Miscellaneous",Fruzaqla,Fruzaqla
+"ONCOLOGY AGENTS : Colorectal Cancer Agents, Miscellaneous","Fruzaqla capsule, 5 mg",Fruzaqla
+ANTI-INFECTIVES : Antivirals: HIV Fusion Inhibitors,Fuzeon,Fuzeon
+RARE CONDITIONS : Lysosomal Storage Disease,Galafold,Galafold
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Galantamine ER,galantamine ER
+RARE CONDITIONS : Glucagon-Like Peptide-2 (GLP-2) Analog,Gattex vial,Gattex
+ONCOLOGY AGENTS : Enzyme Inhibitors: RET,Gavreto,Gavreto
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Genotropin,Genotropin
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Genotropin MiniQuick,Genotropin
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Genotropin cartridge,Genotropin
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Genvoya,Genvoya
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Geodon,Geodon
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Geodon IM injection,Geodon
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Geodon capsule,Geodon
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Gilenya capsule,Gilenya
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral","Gilenya capsule, 0.25 mg",Gilenya
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral","Gilenya capsule, 0.5 mg",Gilenya
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",Glatiramer Acetate 20 mg/ml,glatiramer
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",Glatiramer Acetate prefilled syringe,glatiramer
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable","Glatiramer Acetate prefilled syringe, 20 mg/ml",glatiramer
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable","Glatiramer Acetate prefilled syringe, 40 mg/ml",glatiramer
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",Glatopa (Glatiramer Acetate) prefilled syringe,Glatopa
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable","Glatopa (Glatiramer Acetate) prefilled syringe, 20 mg",Glatopa
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable","Glatopa (Glatiramer Acetate) prefilled syringe, 40 mg",Glatopa
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Glyxambi,Glyxambi
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Gralise,Gralise
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Gralise 450 mg,Gralise
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Gralise 750 mg,Gralise
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Gralise 900 mg,Gralise
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Gralise Post-herpetic Neuralgia,Gralise
+IMMUNOLOGICS : Allergen Specific Immunotherapy,Grastek,Grastek
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Ankylosing Spondylitis,Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Ankylosing Spondylitis, PushTouch",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Ankylosing Spondylitis, prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Crohn's Disease (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Crohn's Disease (adult), PushTouch",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Crohn's Disease (adult), prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Crohn's Disease (pediatric),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Crohn's Disease (pediatric), PushTouch",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Crohn's Disease (pediatric), prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Hidradenitis Suppurativa,Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Hidradenitis Suppurativa, PushTouch",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Hidradenitis Suppurativa, prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Plaque Psoriasis (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Plaque Psoriasis (adult), PushTouch",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Plaque Psoriasis (adult), prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA), PushTouch",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Psoriatic Arthritis (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Psoriatic Arthritis (adult), PushTouch",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Psoriatic Arthritis (adult), prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Rheumatoid Arthritis,Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Rheumatoid Arthritis, PushTouch",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Rheumatoid Arthritis, prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Ulcerative Colitis (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Ulcerative Colitis (adult), PushTouch",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Ulcerative Colitis (adult), prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Uveitis (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Uveitis (adult), PushTouch",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hadlima Uveitis (adult), prefilled syringe",Humira; Hadlima; Simlandi
+RARE CONDITIONS : Hereditary Angioedema (HAE) Agents,Haegarda,Haegarda
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Harvoni,Harvoni tablet
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,"Harvoni 45 mg/200 mg, pellet packet",Harvoni pellet
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,"Harvoni 45 mg/200 mg, tablet",Harvoni tablet
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,"Harvoni 90 mg/400 mg, tablet",Harvoni tablet
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Harvoni pellet packet,Harvoni pellet
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Harvoni tablet,Harvoni tablet
+CARDIOVASCULAR : Beta Blockers,Hemangeol,Hemangeol
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Horizant,Horizant
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Horizant Postherpetic Neuralgia (PHN),Horizant
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Horizant Restless Legs Syndrome (RLS),Horizant
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Ankylosing Spondylitis,Hulio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Crohn's Disease (adult),Hulio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Crohn's Disease (pediatric),Hulio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Hidradenitis Suppurativa,Hulio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Plaque Psoriasis (adult),Hulio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Polyarticular Juvenile Idiopathic Arthritis (PJIA),Hulio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Psoriatic Arthritis (adult),Hulio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Rheumatoid Arthritis,Hulio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Ulcerative Colitis (adult),Hulio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Uveitis (adult),Hulio
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Humalog Junior KwikPen,Humalog Jr Kwik Pen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,"Humalog Junior KwikPen, U-100",Humalog Jr Kwik Pen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,"Humalog KwikPen, U-100",Humalog KwikPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,"Humalog KwikPen, U-200",Humalog U-200 KwikPen
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Humatrope,Humatrope
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Ankylosing Spondylitis,Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Crohn's Disease (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Crohn's Disease (pediatric),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Hidradenitis Suppurativa,Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Plaque Psoriasis (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Polyarticular Juvenile Idiopathic Arthritis (PJIA),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Psoriatic Arthritis (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Rheumatoid Arthritis,Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Ulcerative Colitis (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Ulcerative Colitis (pediatric),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Uveitis (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Uveitis (pediatric),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Ankylosing Spondylitis,Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Ankylosing Spondylitis, auto-injector",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Ankylosing Spondylitis, prefilled syringe",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Crohn's Disease (adult),Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Crohn's Disease (adult), auto-injector",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Crohn's Disease (adult), prefilled syringe",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Crohn's Disease (pediatric),Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Crohn's Disease (pediatric), auto-injector",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Crohn's Disease (pediatric), prefilled syringe",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Hidradenitis Suppurativa,Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Hidradenitis Suppurativa, auto-injector",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Hidradenitis Suppurativa, prefilled syringe",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Plaque Psoriasis (adult),Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Plaque Psoriasis (adult), auto-injector",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Plaque Psoriasis (adult), prefilled syringe",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA),Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Psoriatic Arthritis (adult),Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Psoriatic Arthritis (adult), auto-injector",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Psoriatic Arthritis (adult), prefilled syringe",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Rheumatoid Arthritis,Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Rheumatoid Arthritis, auto-injector",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Rheumatoid Arthritis, prefilled syringe",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Ulcerative Colitis (adult),Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Ulcerative Colitis (adult), auto-injector",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Ulcerative Colitis (adult), prefilled syringe",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Uveitis (adult),Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Uveitis (adult), auto-injector",Hyrimoz
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Hyrimoz Uveitis (adult), prefilled syringe",Hyrimoz
+RARE CONDITIONS : Hereditary Angioedema (HAE) Agents,Icatibant,icatibant
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Ankylosing Spondylitis,Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Ankylosing Spondylitis, auto-injector",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Ankylosing Spondylitis, prefilled syringe",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Crohn's Disease (adult),Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Crohn's Disease (adult), auto-injector",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Crohn's Disease (adult), prefilled syringe",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Crohn's Disease (pediatric),Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Crohn's Disease (pediatric), auto-injector",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Crohn's Disease (pediatric), prefilled syringe",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Hidradenitis Suppurativa,Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Hidradenitis Suppurativa, auto-injector",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Hidradenitis Suppurativa, prefilled syringe",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Plaque Psoriasis (adult),Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Plaque Psoriasis (adult), auto-injector",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Plaque Psoriasis (adult), prefilled syringe",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA),Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Psoriatic Arthritis (adult),Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Psoriatic Arthritis (adult), auto-injector",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Psoriatic Arthritis (adult), prefilled syringe",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Rheumatoid Arthritis,Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Rheumatoid Arthritis, auto-injector",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Rheumatoid Arthritis, prefilled syringe",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Ulcerative Colitis (adult),Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Ulcerative Colitis (adult), auto-injector",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Ulcerative Colitis (adult), prefilled syringe",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Uveitis (adult),Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Uveitis (adult), auto-injector",Idacio
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Idacio Uveitis (adult), prefilled syringe",Idacio
+OPHTHALMICS : Ophthalmic NSAIDs ,Ilevro ophthalmic suspension,Ilevro
+ONCOLOGY AGENTS : Enzyme Inhibitors: BTK,Imbruvica,Imbruvica suspension
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Imitrex,Imitrex tablets
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Imitrex nasal spray,Imitrex Nasal
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Imitrex tablet,Imitrex tablets
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Imitrex vial,Imitrex Injectable
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Incruse Ellipta,Incruse Ellipta
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Ingrezza,Ingrezza
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Ingrezza Huntington's Disease,Ingrezza
+CENTRAL NERVOUS SYSTEM : Movement Disorders,"Ingrezza Huntington's Disease, sprinkle capsule",Ingrezza
+CENTRAL NERVOUS SYSTEM : Movement Disorders,"Ingrezza Huntington's Disease, titration pack",Ingrezza
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Ingrezza Tardive Dyskinesia,Ingrezza
+CENTRAL NERVOUS SYSTEM : Movement Disorders,"Ingrezza Tardive Dyskinesia, sprinkle capsule",Ingrezza
+CENTRAL NERVOUS SYSTEM : Movement Disorders,"Ingrezza Tardive Dyskinesia, titration pack",Ingrezza
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Ingrezza Tourette's Syndrome/Tics,Ingrezza
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Ingrezza Unspecified Hyperkinetic Movement Disorder,Ingrezza
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Ingrezza capsule,Ingrezza
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Ingrezza sprinkle capsule,Ingrezza
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Ingrezza titration pack,Ingrezza
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,"Insulin Lispro 100 unit/ml, pen",insulin lispro KwikPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Insulin Lispro pen,insulin lispro KwikPen
+ANTI-INFECTIVES : Antivirals: HIV NNRTIs,Intelence,Intelence
+ANTI-INFECTIVES : Antivirals: HIV NNRTIs,Intelence 100 mg,Intelence
+ANTI-INFECTIVES : Antivirals: HIV NNRTIs,Intelence 200 mg,Intelence
+ANTI-INFECTIVES : Antivirals: HIV NNRTIs,Intelence 25 mg,Intelence
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Invega ER,Invega
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Invega Hafyera,Invega Hafyera
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Invega Sustenna,Invega Sustenna
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Invega Trinza,Invega Trinza
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Invokamet,Invokamet
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Invokamet XR,Invokamet XR
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Invokana,Invokana
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Invokana Chronic Kidney Disease,Invokana
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Invokana Type 2 Diabetes,Invokana
+OPHTHALMICS : Ophthalmic Alpha-2 Agonists,Iopidine ophthalmic solution,Iopidine
+GASTROINTESTINAL : Gallstone Solubilizing Agents,Iqirvo,Iqirvo
+GASTROINTESTINAL : Gallstone Solubilizing Agents,Iqirvo tablet,Iqirvo
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Irbesartan,irbesartan
+ANTI-INFECTIVES : Antivirals: HIV Integrase Inhibitors,Isentress,Isentress
+ANTI-INFECTIVES : Antivirals: HIV Integrase Inhibitors,Isentress chewable tablet,Isentress
+ANTI-INFECTIVES : Antivirals: HIV Integrase Inhibitors,Isentress packet,Isentress
+ANTI-INFECTIVES : Antivirals: HIV Integrase Inhibitors,Isentress tablet,Isentress
+ONCOLOGY AGENTS : Rare/Miscellaneous Oncology Conditions,Iwilfin,Iwilfin
+ONCOLOGY AGENTS : Myelofibrosis,Jakafi,Jakafi
+ONCOLOGY AGENTS : Myelofibrosis,"Jakafi Intermediate or high-risk PMF, post-PV MF, or post-ET MF",Jakafi
+ONCOLOGY AGENTS : Myelofibrosis,Jakafi acute graft versus host disease (aGVHD) or chronic graft versus host disease (cGVHD),Jakafi
+ONCOLOGY AGENTS : Myelofibrosis,Jakafi polycythemia vera (PV),Jakafi
+ENDOCRINE/METABOLIC AGENTS : Diabetes: DPP-4 Inhibitors and Combinations,Janumet,Janumet
+ENDOCRINE/METABOLIC AGENTS : Diabetes: DPP-4 Inhibitors and Combinations,Januvia,Januvia
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Jardiance,Jardiance
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Jardiance Chronic Kidney Disease,Jardiance
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Jardiance Type 2 Diabetes,Jardiance
+RARE CONDITIONS : Phenylketonuria (PKU),Javygtor packet for oral solution,Javygtor
+RARE CONDITIONS : Phenylketonuria (PKU),Javygtor tablet,Javygtor
+ENDOCRINE/METABOLIC AGENTS : Diabetes: DPP-4 Inhibitors and Combinations,Jentadueto,Jentadueto
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Jornay PM,Jornay PM
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Kaletra,Kaletra
+"RESPIRATORY : Cystic Fibrosis Agents, Oral",Kalydeco,Kalydeco
+CARDIOVASCULAR : Diuretics: Potassium Sparing,Kerendia,Kerendia
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",Kesimpta,Kesimpta
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),Kevzara
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kevzara Polymyalgia Rheumatica (PMR),Kevzara
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kevzara Rheumatoid Arthritis,Kevzara
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kevzara prefilled pen,Kevzara
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Kevzara prefilled pen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Kevzara
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Kevzara prefilled pen, Polymyalgia Rheumatica (PMR)",Kevzara
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Kevzara prefilled pen, Rheumatoid Arthritis",Kevzara
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kevzara prefilled syringe,Kevzara
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Kevzara prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Kevzara
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Kevzara prefilled syringe, Polymyalgia Rheumatica (PMR)",Kevzara
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Kevzara prefilled syringe, Rheumatoid Arthritis",Kevzara
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kineret,Kineret
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kineret Deficiency of Interleukin-1 Receptor Antagonist (DIRA),Kineret
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kineret Neonatal-Onset Multisystem Inflammatory Disease (NOMID),Kineret
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kineret Rheumatoid Arthritis,Kineret
+ONCOLOGY AGENTS : Enzyme Inhibitors: CDK,Kisqali,Kisqali
+ONCOLOGY AGENTS : Enzyme Inhibitors: CDK,Kisqali tablet,Kisqali
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable",Kitabis Pak,Kitabis Pak
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable",Kitabis Pak 300 mg/5 ml,Kitabis Pak
+ANALGESICS : Naloxone Products,Kloxxado,Kloxxado
+ONCOLOGY AGENTS : Enzyme Inhibitors: BRAF Kinase & MEK,Koselugo,Koselugo
+ONCOLOGY AGENTS : Enzyme Inhibitors: KRAS,Krazati,Krazati
+RARE CONDITIONS : Phenylketonuria (PKU),Kuvan packet for oral solution,Kuvan
+RARE CONDITIONS : Phenylketonuria (PKU),Kuvan tablet,Kuvan
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Lamictal ODT,Lamictal ODT
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Lamotrigine ER,lamotrigine ER
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Lamotrigine ODT,lamotrigine ODT
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,"Lamotrigine tablet, ER",lamotrigine ER
+GASTROINTESTINAL : Combination Products for H. pylori,Lansoprazole / Amoxicillin / Clarithromycin,lansoprazole/amox/ clarithromycin
+OPHTHALMICS : Ophthalmic Anti-Allergics,Lastacaft,Lastacaft
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Latuda,Latuda
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Ledipasvir / Sofosbuvir,ledipasvir/sofosbuvir
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,"Ledipasvir / Sofosbuvir 90 mg/400 mg, tablet",ledipasvir/sofosbuvir
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Letairis,Letairis
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Levalbuterol Tartrate inhalation aerosol solution,levalbuterol HFA
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Libervant buccal film,Libervant
+GASTROINTESTINAL : Agents for Chronic Constipation,Linzess,Linzess
+GASTROINTESTINAL : Agents for Chronic Constipation,Linzess 145 mcg,Linzess
+GASTROINTESTINAL : Agents for Chronic Constipation,Linzess 290 mcg,Linzess
+GASTROINTESTINAL : Agents for Chronic Constipation,Linzess 72 mcg,Linzess
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Liqrev,Liqrev
+RARE CONDITIONS : IBAT (Ileal Bile Acid Transporter) Inhibitors,Livmarli,Livmarli
+RARE CONDITIONS : IBAT (Ileal Bile Acid Transporter) Inhibitors,Livmarli Alagille Syndrome (ALGS),Livmarli
+RARE CONDITIONS : IBAT (Ileal Bile Acid Transporter) Inhibitors,Livmarli Progressive Familial Intrahepatic Cholestasis (PFIC),Livmarli
+VITAMINS/ELECTROLYTES : Potassium Depletors,Lokelma,Lokelma
+VITAMINS/ELECTROLYTES : Potassium Depletors,Lokelma unit dose,Lokelma
+ONCOLOGY AGENTS : Enzyme Inhibitors: ALK,Lorbrena,Lorbrena
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Losartan,losartan
+ANALGESICS : Agents for Dependency,Lucemyra,Lucemyra
+ONCOLOGY AGENTS : Enzyme Inhibitors: KRAS,Lumakras,Lumakras
+OPHTHALMICS : Ophthalmic Prostaglandin Agonists,Lumigan 2.5 mL,Lumigan
+OPHTHALMICS : Ophthalmic Prostaglandin Agonists,Lumigan 5 mL,Lumigan
+OPHTHALMICS : Ophthalmic Prostaglandin Agonists,Lumigan 7.5 mL,Lumigan
+IMMUNOLOGICS : Lupus and Lupus Nephritis Agents,Lupkynis,Lupkynis
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonists / LHRH Analogs,Lupron Depot-Ped 1-Month,Lupron Ped-Depot
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonists / LHRH Analogs,Lupron Depot-Ped 1-Month Prefilled Syringe Kit,Lupron Ped-Depot
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonists / LHRH Analogs,Lupron Depot-Ped 1-Month Vial Kit,Lupron Ped-Depot
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonists / LHRH Analogs,Lupron Depot-Ped 3-Month,Lupron Ped-Depot
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonists / LHRH Analogs,Lupron Depot-Ped 3-Month Prefilled Syringe Kit,Lupron Ped-Depot
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonists / LHRH Analogs,Lupron Depot-Ped 3-Month Vial Kit,Lupron Ped-Depot
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonists / LHRH Analogs,Lupron Depot-Ped 6-Month,Lupron Ped-Depot
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Lurasidone,lurasidone
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Lybalvi,Lybalvi
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Lybalvi Bipolar I Disorder,Lybalvi
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Lybalvi Schizophrenia,Lybalvi
+ONCOLOGY AGENTS : Enzyme Inhibitors: PARP Inhibitors,Lynparza,Lynparza
+ONCOLOGY AGENTS : Enzyme Inhibitors: PARP Inhibitors,Lynparza Breast cancer,Lynparza
+ONCOLOGY AGENTS : Enzyme Inhibitors: PARP Inhibitors,Lynparza Ovarian cancer,Lynparza
+ONCOLOGY AGENTS : Enzyme Inhibitors: PARP Inhibitors,Lynparza Pancreatic cancer,Lynparza
+ONCOLOGY AGENTS : Enzyme Inhibitors: PARP Inhibitors,Lynparza Prostate cancer,Lynparza
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Lyrica oral solution,Lyrica solution
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,"Lyumjev KwikPen, U-100",Lyumjev KwikPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,"Lyumjev KwikPen, U-200",Lyumjev KwikPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Lyumjev U-100,Lyumjev vial
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Lyumjev U-200,Lyumjev vial
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Lyumjev vial,Lyumjev vial
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Lyvispah,Lyvispah
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Mavyret,Mavyret
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Mavyret pellet packet,Mavyret pellet
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Mavyret tablet,Mavyret
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Maxalt,Maxalt
+OPHTHALMICS : Ophthalmic Steroids,Maxidex ophthalmic suspension,Maxidex
+OPHTHALMICS : Ophthalmic Antibiotic/Steroid Combos,Maxitrol ophthalmic ointment,Maxitrol
+OPHTHALMICS : Ophthalmic Antibiotic/Steroid Combos,Maxitrol ophthalmic suspension,Maxitrol
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: NMDA Receptor Agent,Memantine XR,memantine ER
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: NMDA Receptor Agent,Memantine oral solution,memantine solution
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: NMDA Receptor Agent,Memantine tablet,memantine tablets
+CARDIOVASCULAR : Beta Blockers,Metoprolol Succinate ER tablet,metoprolol succinate ER
+"ANTI-INFECTIVES : Antibiotics, Vaginal",Metronidazole 0.75% Gel,metronidazole 0.75% vaginal gel
+CENTRAL NERVOUS SYSTEM : Antimigraine: Ergotamine Derivatives,Migranal,Migranal
+RARE CONDITIONS : Lysosomal Storage Disease,Miplyffa capsule,Miplyffa
+CARDIOVASCULAR : ACE Inhibitors (AEIs),Moexipril,moexipril
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Motpoly XR,Motpoly XR
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Mounjaro,Mounjaro
+"CARDIOVASCULAR : Thrombopoietin Agonists, Orals",Mulpleta,Mulpleta
+ANALGESICS : Naloxone Products,"Naloxone 10 mg, auto-injector",naloxone injection
+ANALGESICS : Naloxone Products,Naloxone nasal spray,naloxone nasal spray (Rx & OTC)
+ANALGESICS : Naloxone Products,Naloxone prefilled syringe,naloxone injection
+ANALGESICS : Naloxone Products,"Naloxone prefilled syringe, 0.4 mg/mL",naloxone injection
+ANALGESICS : Naloxone Products,"Naloxone prefilled syringe, 2 mg/2mL",naloxone injection
+ANALGESICS : Naloxone Products,Naloxone syringe,naloxone injection
+ANALGESICS : Naloxone Products,Naloxone vial,naloxone injection
+ANALGESICS : Naloxone Products,"Naloxone vial, 0.4 mg/mL",naloxone injection
+ANALGESICS : Naloxone Products,"Naloxone vial, 4 mg/10mL",naloxone injection
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: NMDA Receptor Agent,Namzaric,Namzaric
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Naratriptan,naratriptan
+ANALGESICS : Naloxone Products,Narcan,Narcan
+ANALGESICS : Naloxone Products,Narcan nasal spray,Narcan
+DERMATOLOGICS : Pediculocides/Scabicides,Natroba,Natroba
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Nayzilam,Nayzilam
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nemluvio auto-injector, Atopic Dermatitis (adult)",Nemluvio
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nemluvio auto-injector, Atopic Dermatitis (pediatric)",Nemluvio
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nemluvio auto-injector, Prurigo Nodularis",Nemluvio
+OPHTHALMICS : Ophthalmic NSAIDs ,Nevanac ophthalmic suspension,Nevanac
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Ngenla,Ngenla
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Norditropin,Norditropin
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Norgesic Forte,Norgesic Forte
+ANTI-INFECTIVES : Antivirals: HIV Pharmacokinetic Enhancers,Norvir,Norvir tablet
+ANTI-INFECTIVES : Antivirals: HIV Pharmacokinetic Enhancers,Norvir packet,Norvir pack
+ANTI-INFECTIVES : Antivirals: HIV Pharmacokinetic Enhancers,Norvir tablet,Norvir tablet
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Mixed Insulins,Novolog 70/30,Novolog Mix 70/30 FlexPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Mixed Insulins,Novolog 70/30 FlexPen,Novolog Mix 70/30 FlexPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Novolog FlexPen,Novolog FlexPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,"Novolog FlexPen, 100 unit/ml",Novolog FlexPen
+ONCOLOGY AGENTS : Hormonal Agents: Anti-Androgens Second Generation,Nubeqa,Nubeqa
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Nucala,Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala 100 mg, prefilled syringe, Asthma (adult)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala 100 mg, prefilled syringe, Asthma (pediatric)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala 100 mg, prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala 100 mg, prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala 100 mg, prefilled syringe, Hypereosinophilic Syndrome (HES)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala 40 mg, prefilled syringe, Asthma (adult)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala 40 mg, prefilled syringe, Asthma (pediatric)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala 40 mg, prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala 40 mg, prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala 40 mg, prefilled syringe, Hypereosinophilic Syndrome (HES)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Nucala Asthma (adult),Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Nucala Asthma (pediatric),Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Nucala Chronic Rhinosinusitis with Nasal Polyposis,Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Nucala Hypereosinophilic Syndrome (HES),Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Nucala auto-injector,Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala auto-injector, Asthma (adult)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala auto-injector, Asthma (pediatric)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala auto-injector, Hypereosinophilic Syndrome (HES)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Nucala prefilled syringe,Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala prefilled syringe, Asthma (adult)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala prefilled syringe, Asthma (pediatric)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala prefilled syringe, Hypereosinophilic Syndrome (HES)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Nucala vial,Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala vial, Asthma (adult)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala vial, Asthma (pediatric)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala vial, Chronic Rhinosinusitis with Nasal Polyposis",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala vial, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Nucala
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala vial, Hypereosinophilic Syndrome (HES)",Nucala
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Nuplazid,Nuplazid
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Nuplazid capsule,Nuplazid
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Nuplazid tablet,Nuplazid
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Nurtec ODT,Nurtec ODT
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Nurtec ODT Acute Treatment,Nurtec ODT
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Nurtec ODT Migraine Prophylaxis,Nurtec ODT
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Nutropin AQ,Nutropin AQ
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Nuvaring,Nuvaring
+"ANTI-INFECTIVES : Antibiotics, Vaginal",Nuvessa,Nuvessa
+IMMUNOLOGICS : Allergen Specific Immunotherapy,Odactra,Odactra
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Odefsey,Odefsey
+CARDIOVASCULAR : Pulmonary Fibrosis Agents,Ofev,Ofev
+CARDIOVASCULAR : Pulmonary Fibrosis Agents,Ofev Chronic Fibrosing Interstitial Lung Diseases,Ofev
+CARDIOVASCULAR : Pulmonary Fibrosis Agents,Ofev Idiopathic Pulmonary Fibrosis,Ofev
+CARDIOVASCULAR : Pulmonary Fibrosis Agents,Ofev Systemic Sclerosis-Associated Interstitial Lung Disease,Ofev
+ONCOLOGY AGENTS : Rare/Miscellaneous Oncology Conditions,Ogsiveo,Ogsiveo
+ONCOLOGY AGENTS : Enzyme Inhibitors: BRAF Kinase & MEK,Ojemda,Ojemda
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotic/SSRI Combos,Olanzapine And Fluoxetine,fluoxetine/ olanzapine
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Olanzapine ODT,olanzapine ODT
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Olanzapine tablet,olanzapine tablets
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Olanzapine vial,olanzapine IM injection
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Olmesartan,olmesartan
+RARE CONDITIONS : Urea Cycle Disorders,Olpruva,Olpruva
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Olumiant,Olumiant
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Olumiant Alopecia Areata,Olumiant
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Olumiant Coronavirus Disease 2019,Olumiant
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Olumiant Rheumatoid Arthritis,Olumiant
+GASTROINTESTINAL : Combination Products for H. pylori,Omeclamox-Pak,Omeclamox-Pak
+DIABETIC SUPPLIES : Insulin Management Systems,Omnipod 5,Omnipod 5 Omnipod 5 G7 Omnipod Dash
+DIABETIC SUPPLIES : Insulin Management Systems,Omnipod Dash,Omnipod 5 Omnipod 5 G7 Omnipod Dash
+DIABETIC SUPPLIES : Insulin Management Systems,Omnipod Go,Omnipod Go
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Omnitrope,Omnitrope
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Onfi oral suspension,Onfi
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Onfi tablet,Onfi
+ONCOLOGY AGENTS : Acute Myeloid Leukemia (AML) Agents,Onureg,Onureg
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Onzetra,Onzetra Xsail
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Opsumit,Opsumit
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Opsynvi tablet,Opsynvi
+ANALGESICS : Naloxone Products,Opvee (Nalmefene),Opvee
+"DERMATOLOGICS : Atopic Dermatitis, Topical",Opzelura,Opzelura
+IMMUNOLOGICS : Allergen Specific Immunotherapy,Oralair,Oralair
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Orencia Acute Graft Versus Host Disease (aGVHD),Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia ClickJect, Acute Graft Versus Host Disease (aGVHD)",Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia ClickJect, Psoriatic Arthritis (adult)",Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia ClickJect, Psoriatic Arthritis (pediatric)",Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia ClickJect, Rheumatoid Arthritis",Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Orencia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Orencia Psoriatic Arthritis (adult),Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Orencia Rheumatoid Arthritis,Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Orencia prefilled syringe,Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia prefilled syringe, Acute Graft Versus Host Disease (aGVHD)",Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia prefilled syringe, Psoriatic Arthritis (adult)",Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)",Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia prefilled syringe, Rheumatoid Arthritis",Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Orencia vial,Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia vial, Acute Graft Versus Host Disease (aGVHD)",Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia vial, Psoriatic Arthritis (adult)",Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia vial, Psoriatic Arthritis (pediatric)",Orencia
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia vial, Rheumatoid Arthritis",Orencia
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Orenitram ER,Orenitram
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Orenitram ER tablet,Orenitram
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Orenitram ER titration kit,Orenitram
+RARE CONDITIONS : Tyrosinemia Type 1,Orfadin,Orfadin suspension
+RARE CONDITIONS : Tyrosinemia Type 1,Orfadin oral suspension,Orfadin suspension
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonist/Antagonist & LNRH Analogs,Oriahnn,Oriahnn
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonist/Antagonist & LNRH Analogs,Orilissa,Orilissa
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonist/Antagonist & LNRH Analogs,Orilissa 150mg,Orilissa
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonist/Antagonist & LNRH Analogs,Orilissa 200mg,Orilissa
+RARE CONDITIONS : Hereditary Angioedema (HAE) Agents,Orladeyo,Orladeyo
+ANTI-INFECTIVES : Antivirals: Influenza,Oseltamivir,oseltamivir capsules and suspension
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Otezla,Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Otezla 20 mg,Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Otezla 30 mg,Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Otezla Behcet's Disease,Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Behcet's Disease, 20 mg",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Behcet's Disease, 20 mg, tablet",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Behcet's Disease, 30 mg",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Behcet's Disease, 30 mg, tablet",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Behcet's Disease, starter pack",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Behcet's Disease, tablet",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Otezla Plaque Psoriasis (adult),Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Plaque Psoriasis (adult), 20 mg",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Plaque Psoriasis (adult), 20 mg, tablet",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Plaque Psoriasis (adult), 30 mg",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Plaque Psoriasis (adult), 30 mg, tablet",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Plaque Psoriasis (adult), starter pack",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Plaque Psoriasis (adult), tablet",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Otezla Plaque Psoriasis (pediatric),Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Plaque Psoriasis (pediatric), 20 mg",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Plaque Psoriasis (pediatric), 20 mg, tablet",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Plaque Psoriasis (pediatric), 30 mg",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Plaque Psoriasis (pediatric), 30 mg, tablet",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Plaque Psoriasis (pediatric), starter pack",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Plaque Psoriasis (pediatric), tablet",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Otezla Psoriatic Arthritis (adult),Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Psoriatic Arthritis (adult), 20 mg",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Psoriatic Arthritis (adult), 20 mg, tablet",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Psoriatic Arthritis (adult), 30 mg",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Psoriatic Arthritis (adult), 30 mg, tablet",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Psoriatic Arthritis (adult), starter pack",Otezla
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Otezla Psoriatic Arthritis (adult), tablet",Otezla
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Ozempic,Ozempic
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Paliperidone ER,paliperidone ER
+RARE CONDITIONS : Phenylketonuria (PKU),Palynziq,Palynziq
+RARE CONDITIONS : Phenylketonuria (PKU),Palynziq prefilled syringe,Palynziq
+CARDIOVASCULAR : ACE Inhibitors (AEIs),Perindopril,perindopril
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Perseris,Perseris
+RARE CONDITIONS : Urea Cycle Disorders,Pheburane,Pheburane
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Phexxi,Phexxi
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Ponvory starter pack,Ponvory
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Ponvory tablet,Ponvory
+"CARDIOVASCULAR : Anticoagulants, Oral",Pradaxa,Pradaxa caps
+"CARDIOVASCULAR : Anticoagulants, Oral",Pradaxa capsule,Pradaxa caps
+"CARDIOVASCULAR : Anticoagulants, Oral",Pradaxa packet,Pradaxa packs
+CARDIOVASCULAR : Lipotropics: Antihyperlipidemic Agents,Praluent,Praluent
+CARDIOVASCULAR : Lipotropics: Antihyperlipidemic Agents,Praluent Cardiovascular disease (CVD) Prevention,Praluent
+CARDIOVASCULAR : Lipotropics: Antihyperlipidemic Agents,Praluent Heterozygous familial hypercholesterolemia (HeFH) or homozygous familial hypercholesterolemia (HoFH),Praluent
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Prezcobix,Prezcobix
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Prezista 150 mg,Prezista tabs
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Prezista 600 mg,Prezista tabs
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Prezista 75 mg,Prezista tabs
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Prezista 800 mg,Prezista tabs
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Prezista oral suspension,Prezista suspension
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Prezista tablet,Prezista tabs
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,"Prezista tablet, 150 mg",Prezista tabs
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,"Prezista tablet, 600 mg",Prezista tabs
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,"Prezista tablet, 75 mg",Prezista tabs
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,"Prezista tablet, 800 mg",Prezista tabs
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Proair Respiclick,ProAir RespiClick
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,Procrit,Procrit
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,Procrit Anemia associated with chemotherapy,Procrit
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,Procrit Anemia associated with chronic kidney disease if patient is not on dialysis,Procrit
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,Procrit Anemia associated with chronic kidney disease if patient is on dialysis,Procrit
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,Procrit Anemia associated with zidovudine in HIV therapy,Procrit
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,"Procrit To reduce the need for allogenic blood transfusions in anemic patients scheduled to undergo elective, non-cardiac, nonvascular surgery",Procrit
+IMMUNOLOGICS : Immunosuppressants,Prograf capsule,Prograf capsules
+IMMUNOLOGICS : Immunosuppressants,Prograf packet for oral suspension,Prograf packets
+"CARDIOVASCULAR : Thrombopoietin Agonists, Orals",Promacta oral suspension,Promacta suspension
+"CARDIOVASCULAR : Thrombopoietin Agonists, Orals",Promacta tablet,Promacta tabs
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Proventil HFA,Proventil HFA
+RESPIRATORY : Inhaled: Steroids,Pulmicort Flexhaler,Pulmicort Flexhaler
+RESPIRATORY : Inhaled: Steroids,Pulmicort Respules 0.25 mg,Pulmicort Respules
+RESPIRATORY : Inhaled: Steroids,"Pulmicort Respules 0.25 mg, 0.5 mg",Pulmicort Respules
+RESPIRATORY : Inhaled: Steroids,Pulmicort Respules 0.5 mg,Pulmicort Respules
+RESPIRATORY : Inhaled: Steroids,Pulmicort Respules 1 mg,Pulmicort Respules
+GASTROINTESTINAL : Combination Products for H. pylori,Pylera,Pylera
+RARE CONDITIONS : Pyruvate Kinase (PK) Deficiency,Pyrukynd tablet,Pyrukynd
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Non-Stimulants,Qelbree,Qelbree
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Qtern,Qtern
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Quetiapine,quetiapine
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Quetiapine 150 mg,quetiapine
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Quetiapine ER,quetiapine ER
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Quillichew XR,Quillichew ER
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Quillivant XR,Quillivant XR
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Quillivant XR ER oral suspension,Quillivant XR
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Qulipta,Qulipta
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Qulipta Chronic Migraine,Qulipta
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Qulipta Episodic Migraine,Qulipta
+RESPIRATORY : Inhaled: Steroids,Qvar,QVAR RediHaler
+IMMUNOLOGICS : Allergen Specific Immunotherapy,Ragwitek,Ragwitek
+CARDIOVASCULAR : ACE Inhibitors (AEIs),Ramipril,ramipril
+"CARDIOVASCULAR : Cardiac Agents, Miscellaneous",Ranexa,Ranexa
+RARE CONDITIONS : Urea Cycle Disorders,Ravicti,Ravicti
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",Rebif (Interferon Beta-1a) prefilled syringe,Rebif
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Relpax,Relpax
+RENAL AND GENITOURINARY : Phosphorus Depletors,Renvela,Renvela tablets
+RENAL AND GENITOURINARY : Phosphorus Depletors,Renvela packet for oral suspension,Renvela packs
+RENAL AND GENITOURINARY : Phosphorus Depletors,Renvela tablet,Renvela tablets
+CARDIOVASCULAR : Lipotropics: Antihyperlipidemic Agents,Repatha,Repatha
+CARDIOVASCULAR : Lipotropics: Antihyperlipidemic Agents,Repatha Cardiovascular disease (CVD) Prevention,Repatha
+CARDIOVASCULAR : Lipotropics: Antihyperlipidemic Agents,Repatha Heterozygous familial hypercholesterolemia (HeFH) or homozygous familial hypercholesterolemia (HoFH),Repatha
+OPHTHALMICS : Dry Eye Disease Agents,Restasis,Restasis
+OPHTHALMICS : Dry Eye Disease Agents,Restasis MultiDose,Restasis Multidose
+OPHTHALMICS : Dry Eye Disease Agents,Restasis droperette,Restasis
+OPHTHALMICS : Dry Eye Disease Agents,Restasis single dose,Restasis
+ONCOLOGY AGENTS : Enzyme Inhibitors: RET,Retevmo,Retevmo
+ONCOLOGY AGENTS : Enzyme Inhibitors: RET,Retevmo capsule,Retevmo
+ONCOLOGY AGENTS : Enzyme Inhibitors: RET,Retevmo tablet,Retevmo
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Revatio oral suspension,Revatio suspension
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Revatio tablet,Revatio tab
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Rexulti,Rexulti
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Rexulti Adjunct treatment of major depressive disorder,Rexulti
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Rexulti Schizophrenia,Rexulti
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Reyataz,Reyataz caps
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Reyataz capsule,Reyataz caps
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Reyataz powder packet,Reyataz powder
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Reyvow,Reyvow
+GASTROINTESTINAL : Hepatotrophics,Rezdiffra,Rezdiffra
+ONCOLOGY AGENTS : Enzyme Inhibitors: Isocitrate Dehydrogenase (IDH),Rezlidhia,Rezlidhia
+ONCOLOGY AGENTS : Rare/Miscellaneous Oncology Conditions,Rezurock,Rezurock
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq,Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Ankylosing Spondylitis,Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Ankylosing Spondylitis, ER tablet",Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Ankylosing Spondylitis, LQ",Rinvoq LQ
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Atopic Dermatitis (adult),Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Atopic Dermatitis (adult), ER tablet",Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Atopic Dermatitis (adult), LQ",Rinvoq LQ
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Crohn's Disease (adult),Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Crohn's Disease (adult), ER tablet",Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Crohn's Disease (adult), LQ",Rinvoq LQ
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Non-Radiographic Axial Spondyloarthritis,Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Non-Radiographic Axial Spondyloarthritis, ER tablet",Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Non-Radiographic Axial Spondyloarthritis, LQ",Rinvoq LQ
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA),Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA), ER tablet",Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA), LQ",Rinvoq LQ
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Psoriatic Arthritis (adult),Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Psoriatic Arthritis (adult), ER tablet",Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Psoriatic Arthritis (adult), LQ",Rinvoq LQ
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Psoriatic Arthritis (pediatric),Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Psoriatic Arthritis (pediatric), ER tablet",Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Psoriatic Arthritis (pediatric), LQ",Rinvoq LQ
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Rheumatoid Arthritis,Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Rheumatoid Arthritis, ER tablet",Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Rheumatoid Arthritis, LQ",Rinvoq LQ
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Ulcerative Colitis (adult),Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Ulcerative Colitis (adult), ER tablet",Rinvoq
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Rinvoq Ulcerative Colitis (adult), LQ",Rinvoq LQ
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Risperdal Consta,Risperdal Consta
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Risperdal oral solution,Risperdal
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Risperdal tablet,Risperdal
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Risperidone ODT,risperidone ODT
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Risperidone oral solution,risperidone solution
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Risperidone tablet,risperidone tabs
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Rivastigmine patch,rivastigmine patch
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Rizatriptan,rizatriptan
+ONCOLOGY AGENTS : Enzyme Inhibitors: Tropomyosin Receptor Kinase (TRK),Rozlytrek (Entrectinib) capsule,Rozlytrek capsules
+ONCOLOGY AGENTS : Enzyme Inhibitors: Tropomyosin Receptor Kinase (TRK),Rozlytrek (Entrectinib) pellet packet,Rozlytrek pack
+ONCOLOGY AGENTS : Enzyme Inhibitors: PARP Inhibitors,Rubraca,Rubraca
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Rybelsus,Rybelsus
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Rykindo,Rykindo
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Sabril Infantile spasms,Sabril
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Sabril Refractory complex partial seizures,Sabril
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Sabril packet for oral solution,Sabril
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,"Sabril packet for oral solution, 500 mg",Sabril
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Sabril tablet,Sabril
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,"Sabril tablet, 500 mg",Sabril
+RARE CONDITIONS : Hereditary Angioedema (HAE) Agents,Sajazir,Sajazir
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Saphris,Saphris
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Saphris 10 mg,Saphris
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Saphris 2.5 mg,Saphris
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Saphris 5 mg,Saphris
+RARE CONDITIONS : Phenylketonuria (PKU),Sapropterin dihydrochloride packet for oral solution,sapropterin
+RARE CONDITIONS : Phenylketonuria (PKU),Sapropterin dihydrochloride tablet,sapropterin
+"CARDIOVASCULAR : Anticoagulants, Oral",Savaysa,Savaysa
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Secuado,Secuado
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Segluromet,Segluromet
+ANTI-INFECTIVES : Antivirals: HIV CCR5 Antagonists,Selzentry,Selzentry tablets
+ANTI-INFECTIVES : Antivirals: HIV CCR5 Antagonists,Selzentry oral solution,Selzentry solution
+ANTI-INFECTIVES : Antivirals: HIV CCR5 Antagonists,Selzentry tablet,Selzentry tablets
+ANTI-INFECTIVES : Antivirals: HIV CCR5 Antagonists,"Selzentry tablet, 150 mg",Selzentry tablets
+ANTI-INFECTIVES : Antivirals: HIV CCR5 Antagonists,"Selzentry tablet, 25 mg",Selzentry tablets
+ANTI-INFECTIVES : Antivirals: HIV CCR5 Antagonists,"Selzentry tablet, 300 mg",Selzentry tablets
+ANTI-INFECTIVES : Antivirals: HIV CCR5 Antagonists,"Selzentry tablet, 75 mg",Selzentry tablets
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Long-Acting Insulins,Semglee,Semglee
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Long-Acting Insulins,Semglee auto-injector,Semglee
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Long-Acting Insulins,Semglee vial,Semglee
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Seroquel,Seroquel
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Seroquel XR,Seroquel XR
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Serostim,Serostim
+RENAL AND GENITOURINARY : Phosphorus Depletors,Sevelamer carbonate tablets,sevelamer carbonate tablets
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Sildenafil 20 mg,sildenafil
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Sildenafil oral suspension,sildenafil suspension
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,"Sildenafil oral suspension, labeler 59762",sildenafil suspension
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Sildenafil tablet,sildenafil
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Siliq,Siliq
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Siliq Plaque Psoriasis (adult),Siliq
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Ankylosing Spondylitis,Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Ankylosing Spondylitis, Teva 51759 labeler",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Ankylosing Spondylitis, prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Crohn's Disease (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Crohn's Disease (adult), Teva 51759 labeler",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Crohn's Disease (adult), prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Crohn's Disease (pediatric),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Crohn's Disease (pediatric), Teva 51759 labeler",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Crohn's Disease (pediatric), prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Hidradenitis Suppurativa,Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Hidradenitis Suppurativa, Teva 51759 labeler",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Hidradenitis Suppurativa, prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Plaque Psoriasis (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Plaque Psoriasis (adult), Teva 51759 labeler",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Plaque Psoriasis (adult), prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA), Teva 51759 labeler",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Psoriatic Arthritis (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Psoriatic Arthritis (adult), Teva 51759 labeler",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Psoriatic Arthritis (adult), prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Rheumatoid Arthritis,Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Rheumatoid Arthritis, Teva 51759 labeler",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Rheumatoid Arthritis, prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Ulcerative Colitis (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Ulcerative Colitis (adult), Teva 51759 labeler",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Ulcerative Colitis (adult), prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Uveitis (adult),Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Uveitis (adult), Teva 51759 labeler",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi Uveitis (adult), prefilled syringe",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi auto-injector, Ankylosing Spondylitis",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi auto-injector, Crohn's Disease (adult)",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi auto-injector, Crohn's Disease (pediatric)",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi auto-injector, Hidradenitis Suppurativa",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi auto-injector, Plaque Psoriasis (adult)",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi auto-injector, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi auto-injector, Psoriatic Arthritis (adult)",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi auto-injector, Rheumatoid Arthritis",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi auto-injector, Ulcerative Colitis (adult)",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simlandi auto-injector, Uveitis (adult)",Humira; Hadlima; Simlandi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simponi,Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Ankylosing Spondylitis, Aria",Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Ankylosing Spondylitis, SmartJect",Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Ankylosing Spondylitis, prefilled syringe",Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Aria, Psoriatic Arthritis (pediatric)",Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Psoriatic Arthritis (adult), Aria",Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Psoriatic Arthritis (adult), SmartJect",Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Psoriatic Arthritis (adult), prefilled syringe",Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simponi Rheumatoid Arthritis,Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Rheumatoid Arthritis, Aria",Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Rheumatoid Arthritis, SmartJect",Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Rheumatoid Arthritis, prefilled syringe",Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Ulcerative Colitis (adult), SmartJect",Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Ulcerative Colitis (adult), prefilled syringe",Simponi
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Simponi
+RARE CONDITIONS : Friedreich's Ataxia,Skyclarys,Skyclarys
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Skyrizi,Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Skyrizi Crohn's Disease (adult),Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Crohn's Disease (adult), prefilled cartridge",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Crohn's Disease (adult), prefilled pen",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Crohn's Disease (adult), prefilled syringe",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Crohn's Disease (adult), vial",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Skyrizi Plaque Psoriasis (adult),Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Plaque Psoriasis (adult), prefilled cartridge",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Plaque Psoriasis (adult), prefilled pen",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Plaque Psoriasis (adult), prefilled syringe",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Plaque Psoriasis (adult), vial",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Skyrizi Psoriatic Arthritis (adult),Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Psoriatic Arthritis (adult), prefilled cartridge",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Psoriatic Arthritis (adult), prefilled pen",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Psoriatic Arthritis (adult), prefilled syringe",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Psoriatic Arthritis (adult), vial",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Skyrizi Ulcerative Colitis (adult),Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Ulcerative Colitis (adult), prefilled cartridge",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Ulcerative Colitis (adult), prefilled pen",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Ulcerative Colitis (adult), prefilled syringe",Skyrizi
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Ulcerative Colitis (adult), vial",Skyrizi
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Skytrofa,Skytrofa
+RARE CONDITIONS : Urea Cycle Disorders,Sodium Phenylbutyrate powder,sodium phenylbutyrate
+RARE CONDITIONS : Urea Cycle Disorders,Sodium Phenylbutyrate tablet,sodium phenylbutyrate
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Sofosbuvir / Velpatasvir,sofosbuvir/ velpatasvir
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Sofosbuvir / Velpatasvir 400 mg/100 mg,sofosbuvir/ velpatasvir
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Sogroya,Sogroya
+RARE CONDITIONS : Fibrodysplasia ossificans progressive (FOP),Sohonos,Sohonos
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Soliqua,Soliqua
+"ANTI-INFECTIVES : Anti-Infectives: Antiprotozoals, Oral",Solosec,Solosec
+"ANTI-INFECTIVES : Anti-Infectives: Antiprotozoals, Oral",Solosec Bacterial Vaginosis,Solosec
+"ANTI-INFECTIVES : Anti-Infectives: Antiprotozoals, Oral",Solosec Trichomoniasis,Solosec
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Soma,Soma
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Sotyktu Plaque Psoriasis (adult),Sotyktu
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Sotyktu tablet,Sotyktu
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Sotyktu tablet, Plaque Psoriasis (adult)",Sotyktu
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Sovaldi,Sovaldi tablets
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,"Sovaldi 200 mg, tablet",Sovaldi tablets
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,"Sovaldi 400 mg, tablet",Sovaldi tablets
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Sovaldi pellet packet,Sovaldi pellet
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Sovaldi tablet,Sovaldi tablets
+DERMATOLOGICS : Pediculocides/Scabicides,Spinosad topical suspension,spinosad
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Spiriva Handihaler (Tiotropium Bromide) inhalation capsule,Spiriva HandiHaler 
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Spiriva Respimat (Tiotropium Bromide) 1.25 mcg,Spiriva Respimat
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Spiriva Respimat (Tiotropium Bromide) 2.5 mcg,Spiriva Respimat
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Spiriva Respimat (Tiotropium Bromide) inhalation aerosol solution,Spiriva Respimat
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,"Spiriva Respimat (Tiotropium Bromide) inhalation aerosol solution, 1.25 mcg",Spiriva Respimat
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,"Spiriva Respimat (Tiotropium Bromide) inhalation aerosol solution, 2.5 mcg",Spiriva Respimat
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Steglatro,Steglatro
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Steglujan,Steglujan
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Stelara,Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Stelara Crohn's Disease (adult),Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Crohn's Disease (adult), intravenous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Crohn's Disease (adult), prefilled syringe",Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Crohn's Disease (adult), subcutaneous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Stelara Plaque Psoriasis (adult),Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Plaque Psoriasis (adult), prefilled syringe",Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Plaque Psoriasis (adult), subcutaneous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Stelara Plaque Psoriasis (pediatric),Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Plaque Psoriasis (pediatric), prefilled syringe",Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Stelara Psoriatic Arthritis (adult),Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Psoriatic Arthritis (adult), prefilled syringe",Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Psoriatic Arthritis (adult), subcutaneous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Stelara Psoriatic Arthritis (pediatric),Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Psoriatic Arthritis (pediatric), prefilled syringe",Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Stelara Ulcerative Colitis (adult),Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Ulcerative Colitis (adult), intravenous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Ulcerative Colitis (adult), prefilled syringe",Stelara prefilled syringe and 45 mg/0.5 mL vial
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Ulcerative Colitis (adult), subcutaneous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Stiolto Respimat,Stiolto Respimat
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Stribild,Stribild
+ANALGESICS : Buprenorphine and Buprenorphine/Naloxone,Suboxone,Suboxone film
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Sumatriptan,sumatriptan tabs
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Sumatriptan / Naproxen sodium,sumatriptan/ naproxen
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Sunosi,Sunosi
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Sunosi Narcolepsy,Sunosi
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Sunosi Obstructive Sleep Apnea,Sunosi
+GASTROINTESTINAL : Laxatives,Sutab,Sutab
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Symbicort,Symbicort
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotic/SSRI Combos,Symbyax,Symbyax
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Sympazan oral film,Sympazan
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Symtuza,Symtuza
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Synjardy,Synjardy
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Synjardy XR,Synjardy XR
+ONCOLOGY AGENTS : Enzyme Inhibitors: MET,Tabrecta,Tabrecta
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tadalafil,tadalafil
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tadalafil 20 mg,tadalafil
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tadliq,Tadliq
+RARE CONDITIONS : Hereditary Angioedema (HAE) Agents,Takhzyro,Takhzyro
+RARE CONDITIONS : Hereditary Angioedema (HAE) Agents,Takhzyro prefilled syringe,Takhzyro
+RARE CONDITIONS : Hereditary Angioedema (HAE) Agents,Takhzyro vial,Takhzyro
+GASTROINTESTINAL : Combination Products for H. pylori,Talicia,Talicia
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Taltz,Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Taltz 20 mg,Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Taltz 40 mg,Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Taltz 80 mg,Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Taltz Ankylosing Spondylitis,Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Ankylosing Spondylitis, 80 mg, prefilled syringe",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Ankylosing Spondylitis, auto-injector",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Ankylosing Spondylitis, prefilled syringe",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Taltz Non-Radiographic Axial Spondyloarthritis,Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Non-Radiographic Axial Spondyloarthritis, 80 mg, prefilled syringe",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Non-Radiographic Axial Spondyloarthritis, auto-injector",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Non-Radiographic Axial Spondyloarthritis, prefilled syringe",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Taltz Plaque Psoriasis (adult),Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Plaque Psoriasis (adult), 80 mg, prefilled syringe",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Plaque Psoriasis (adult), auto-injector",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Plaque Psoriasis (adult), prefilled syringe",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Taltz Plaque Psoriasis (pediatric),Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Plaque Psoriasis (pediatric), 20 mg, prefilled syringe",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Plaque Psoriasis (pediatric), 40 mg, prefilled syringe",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Plaque Psoriasis (pediatric), auto-injector",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Plaque Psoriasis (pediatric), prefilled syringe",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Taltz Psoriatic Arthritis (adult),Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Psoriatic Arthritis (adult), 80 mg, prefilled syringe",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Psoriatic Arthritis (adult), auto-injector",Taltz
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Taltz Psoriatic Arthritis (adult), prefilled syringe",Taltz
+ONCOLOGY AGENTS : Enzyme Inhibitors: PARP Inhibitors,Talzenna,Talzenna
+ANTI-INFECTIVES : Antivirals: Influenza,Tamiflu,Tamiflu capsules and suspension
+RARE CONDITIONS : IgA Nephropathy (IgAN),Tarpeyo,Tarpeyo
+"CARDIOVASCULAR : Thrombopoietin Agonists, Orals",Tavalisse,Tavalisse
+RARE CONDITIONS : Antineutrophil Cytoplasmic Autoantibody (ANCA),Tavneos,Tavneos
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Tecfidera (Dimethyl Fumarate) DR capsule,Tecfidera
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Telmisartan,telmisartan
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Teriflunomide,teriflunomide
+ENDOCRINE/METABOLIC AGENTS : Bone: Parathyroid Hormone,Teriparatide,teriparatide
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Tetrabenazine,tetrabenazine
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Tetrabenazine 12.5 mg,tetrabenazine
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Tetrabenazine 25 mg,tetrabenazine
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Tetrabenazine Huntington's Disease,tetrabenazine
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Tetrabenazine Tardive Dyskinesia,tetrabenazine
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Tetrabenazine Tourette's Syndrome/Tics,tetrabenazine
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Tetrabenazine Unspecified Hyperkinetic Movement Disorder,tetrabenazine
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Tezspire,Tezspire
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Tezspire Asthma (adult),Tezspire
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Tezspire Asthma (adult), vial",Tezspire
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Tezspire Asthma (pediatric),Tezspire
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Tezspire auto-injector,Tezspire
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Tezspire auto-injector, Asthma (adult)",Tezspire
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Tezspire auto-injector, Asthma (pediatric)",Tezspire
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Tezspire prefilled syringe,Tezspire
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Tezspire prefilled syringe, Asthma (adult)",Tezspire
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Tezspire prefilled syringe, Asthma (pediatric)",Tezspire
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Tezspire vial,Tezspire
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Tezspire vial, Asthma (pediatric)",Tezspire
+ONCOLOGY AGENTS : Enzyme Inhibitors: Isocitrate Dehydrogenase (IDH),Tibsovo,Tibsovo
+ANTI-INFECTIVES : Antivirals: HIV Integrase Inhibitors,Tivicay,Tivicay
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable",Tobi,TOBI Podhaler and inhalation solution
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable",Tobi Podhaler,TOBI Podhaler and inhalation solution
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable","Tobi Podhaler, 28 mg",TOBI Podhaler and inhalation solution
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable",Tobi nebulized solution,TOBI Podhaler and inhalation solution
+OPHTHALMICS : Ophthalmic Antibiotic/Steroid Combos,Tobradex ST ophthalmic suspension,TobraDex ST
+OPHTHALMICS : Ophthalmic Antibiotics,Tobramycin,tobramycin
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable",Tobramycin 300 mg/4 mL,tobramycin solution 300 mg/4 mL (generic for Bethkis)
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable",Tobramycin 300 mg/5 mL,tobramycin solution 300 mg/5 mL
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable",Tobramycin generic Bethkis,tobramycin solution 300 mg/4 mL (generic for Bethkis)
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable","Tobramycin generic Bethkis, 300 mg/4 mL",tobramycin solution 300 mg/4 mL (generic for Bethkis)
+OPHTHALMICS : Ophthalmic Antibiotics,Tobramycin generic Kitabis,tobramycin
+OPHTHALMICS : Ophthalmic Antibiotics,Tobramycin generic Tobi,tobramycin
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable","Tobramycin generic Tobi, 300 mg/5 mL",tobramycin solution 300 mg/5 mL
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable","Tobramycin nebulized solution, 300 mg/4 mL",tobramycin solution 300 mg/4 mL (generic for Bethkis)
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable","Tobramycin nebulized solution, 300 mg/5 mL",tobramycin solution 300 mg/5 mL
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tracleer,Tracleer tabs
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tracleer tablet,Tracleer tabs
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tracleer tablet for oral suspension,Tracleer soluble tabs
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,"Tracleer tablet for oral suspension, 32 mg",Tracleer soluble tabs
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,"Tracleer tablet, 125 mg",Tracleer tabs
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,"Tracleer tablet, 62.5 mg",Tracleer tabs
+ENDOCRINE/METABOLIC AGENTS : Diabetes: DPP-4 Inhibitors and Combinations,Tradjenta,Tradjenta
+CARDIOVASCULAR : ACE Inhibitors (AEIs),Trandolapril,trandolapril
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Trelegy Ellipta,Trelegy Ellipta
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Tremfya,Tremfya
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Tremfya 100 mg/mL,Tremfya
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Tremfya 200mg/2mL,Tremfya
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Tremfya Plaque Psoriasis (adult),Tremfya
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Tremfya Plaque Psoriasis (adult), prefilled syringe",Tremfya
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Tremfya Psoriatic Arthritis (adult),Tremfya
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Tremfya Psoriatic Arthritis (adult), prefilled syringe",Tremfya
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Tremfya Ulcerative Colitis (adult),Tremfya
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Tremfya prefilled syringe, Ulcerative Colitis (adult)",Tremfya
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Long-Acting Insulins,"Tresiba FlexTouch, U-100",Tresiba FlexTouch
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Long-Acting Insulins,"Tresiba FlexTouch, U-200",Tresiba FlexTouch
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Treximet,Treximet
+CENTRAL NERVOUS SYSTEM : Antidepressants: SSRI,Trintellix,Trintellix
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Triumeq,Triumeq
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Trizivir,Trizivir
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Trokendi XR ER capsule,Trokendi XR
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,"Trokendi XR ER capsule, Lennon-Gastaut Syndrome",Trokendi XR
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,"Trokendi XR ER capsule, Migraine Prophylaxis",Trokendi XR
+CENTRAL NERVOUS SYSTEM : Antimigraine: Ergotamine Derivatives,Trudhesa,Trudhesa
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Trulicity,Trulicity
+ONCOLOGY AGENTS : PI3K Inhibitors,Truqap,Truqap
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Truvada,Truvada
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Tudorza Pressair,Tudorza
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Twirla,Twirla 
+ANTI-INFECTIVES : Antivirals: HIV Pharmacokinetic Enhancers,Tybost,Tybost
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tyvaso DPI,Tyvaso DPI
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tyvaso inhalation solution,Tyvaso
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tyvaso starter kit,Tyvaso
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Ubrelvy,Ubrelvy
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Uptravi tablet,Uptravi
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Uptravi vial,Uptravi
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Uzedy,Uzedy
+"DERMATOLOGICS : Antineoplastics, Topical",Valchlor,Valchlor
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Valsartan,valsartan
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Valsartan oral solution,valsartan solution
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Valsartan tablet,valsartan
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Valtoco,Valtoco
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Valtoco 2-dose pack,Valtoco
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Valtoco 5-dose pack,Valtoco
+"ANTI-INFECTIVES : Antibiotics, Vaginal",Vandazole,Vandazole
+ONCOLOGY AGENTS : Acute Myeloid Leukemia (AML) Agents,Vanflyta,Vanflyta
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Velsipity (Etrasimod) Ulcerative Colitis (adult),Velsipity
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Velsipity (Etrasimod) tablet,Velsipity
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Velsipity (Etrasimod) tablet, Ulcerative Colitis (adult)",Velsipity
+VITAMINS/ELECTROLYTES : Potassium Depletors,Veltassa,Veltassa
+VITAMINS/ELECTROLYTES : Potassium Depletors,"Veltassa 16.8 g, powder pack",Veltassa
+VITAMINS/ELECTROLYTES : Potassium Depletors,"Veltassa 25.2 g, powder pack",Veltassa
+VITAMINS/ELECTROLYTES : Potassium Depletors,"Veltassa 8.4 g, powder pack",Veltassa
+VITAMINS/ELECTROLYTES : Potassium Depletors,"Veltassa powder pack, 1 g",Veltassa
+ANTI-INFECTIVES : Antivirals: Hepatitis B,Vemlidy,Vemlidy
+ONCOLOGY AGENTS : Acute Myeloid Leukemia (AML) Agents,Venclexta,Venclexta
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Ventavis,Ventavis
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Ventolin HFA,Ventolin HFA
+OPHTHALMICS : Ophthalmic Anti-Allergics,Verkazia,Verkazia
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Versacloz,Versacloz
+OPHTHALMICS : Dry Eye Disease Agents,Vevye ophthalmic solution,Vevye
+GASTROINTESTINAL : Agents for Irritable Bowel Syndrome (IBS),Viberzi,Viberzi
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Victoza,Victoza
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Vigabatrin Infantile spasms,vigabatrin
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Vigabatrin Refractory complex partial seizures,vigabatrin
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Vigabatrin packet for oral solution,vigabatrin
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Vigabatrin tablet,vigabatrin
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Vigafyde oral solution,Vigafyde
+CENTRAL NERVOUS SYSTEM : Antidepressants: SSRI,Viibryd,Viibryd
+RARE CONDITIONS : PIK3CA-Related Overgrowth Spectrum (PROS),Vijoice oral packet,Vijoice
+RARE CONDITIONS : PIK3CA-Related Overgrowth Spectrum (PROS),Vijoice tablet therapy pack,Vijoice
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Vimpat,Vimpat
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Vimpat oral solution,Vimpat
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Vimpat tablet,Vimpat
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Vimpat titration pack,Vimpat
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Vimpat vial,Vimpat
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Viracept,Viracept
+ANTI-INFECTIVES : Antivirals: Hepatitis B,Viread,Viread tablets
+ANTI-INFECTIVES : Antivirals: Hepatitis B,Viread 300 mg,Viread tablets
+ANTI-INFECTIVES : Antivirals: Hepatitis B,"Viread 300 mg, tablet",Viread tablets
+ANTI-INFECTIVES : Antivirals: Hepatitis B,Viread powder,Viread powder
+ANTI-INFECTIVES : Antivirals: Hepatitis B,Viread tablet,Viread tablets
+ANTI-INFECTIVES : Antivirals: Hepatitis B,"Viread tablet, 150 mg",Viread tablets
+ANTI-INFECTIVES : Antivirals: Hepatitis B,"Viread tablet, 200 mg",Viread tablets
+ANTI-INFECTIVES : Antivirals: Hepatitis B,"Viread tablet, 250 mg",Viread tablets
+ONCOLOGY AGENTS : Enzyme Inhibitors: Tropomyosin Receptor Kinase (TRK),Vitrakvi capsule,Vitrakvi
+ONCOLOGY AGENTS : Enzyme Inhibitors: Tropomyosin Receptor Kinase (TRK),Vitrakvi oral solution,Vitrakvi
+ANALGESICS : Agents for Dependency,Vivitrol,Vivitrol injection
+ANALGESICS : Agents for Dependency,Vivitrol Alcohol Use Disorder,Vivitrol injection
+ONCOLOGY AGENTS : EGFR Inhibitors,Vizimpro,Vizimpro
+GASTROINTESTINAL : Combination Products for H. pylori,Voquezna Dual Pak,Voquezna Dual Pak
+GASTROINTESTINAL : Combination Products for H. pylori,Voquezna Triple Pak,Voquezna Triple Pak
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Vosevi,Vosevi
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Voxzogo,Voxzogo
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Vraylar,Vraylar
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Vraylar Adjunct treatment of major depression disorder,Vraylar
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Vraylar Bipolar 1 disorder,Vraylar
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,"Vraylar Bipolar I Disorder, acute mixed or manic episodes",Vraylar
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Vraylar Depressed Bipolar I Disorder,Vraylar
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Vraylar Schizophrenia / Schizoaffective disorder,Vraylar
+"DERMATOLOGICS : Antipsoriatics, Topical",Vtama Atopic Dermatitis,Vtama
+"DERMATOLOGICS : Antipsoriatics, Topical",Vtama Plaque Psoriasis,Vtama
+RARE CONDITIONS : Transthyretin Amyloidosis Agents,Vyndamax,Vyndamax
+RARE CONDITIONS : Transthyretin Amyloidosis Agents,Vyndaqel capsule,Vyndaqel
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Vyvanse capsule,Vyvanse capsules and chewables
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Vyvanse chewable tablet,Vyvanse capsules and chewables
+RARE CONDITIONS : Transthyretin Amyloidosis Agents,Wainua,Wainua
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Wakix,Wakix
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Wakix Cataplexy,Wakix
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Wakix Excessive Daytime Sleepiness,Wakix
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Wakix Idiopathic Hypersomnia,Wakix
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Wegovy,Wegovy
+"DERMATOLOGICS : Acne Agents, Topical ",Winlevi,Winlevi
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Winrevair vial,Winrevair
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Wixela,Wixela
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Wixela 100-50 mcg,Wixela
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Wixela 250-50 mcg,Wixela
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Wixela 500-50 mcg,Wixela
+ONCOLOGY AGENTS : Enzyme Inhibitors: ALK,Xalkori sprinkle capsule,Xalkori sprinkles
+"CARDIOVASCULAR : Anticoagulants, Oral",Xarelto,Xarelto
+"CARDIOVASCULAR : Anticoagulants, Oral",Xarelto 10 mg,Xarelto
+"CARDIOVASCULAR : Anticoagulants, Oral",Xarelto 15 mg,Xarelto
+"CARDIOVASCULAR : Anticoagulants, Oral",Xarelto 2.5 mg,Xarelto
+"CARDIOVASCULAR : Anticoagulants, Oral",Xarelto 20 mg,Xarelto
+"CARDIOVASCULAR : Anticoagulants, Oral",Xarelto oral suspension,Xarelto suspension
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Xcopri,Xcopri
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Xcopri dose pack,Xcopri
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Xcopri tablet,Xcopri
+OPHTHALMICS : Miscellaneous Ophthalmics,Xdemvy,Xdemvy
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Xeljanz,Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Xeljanz Ankylosing Spondylitis,Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Ankylosing Spondylitis, 10 mg, IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Ankylosing Spondylitis, 5 mg, IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Ankylosing Spondylitis, IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Ankylosing Spondylitis, oral solution",Xeljanz solution
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA),Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), 10 mg, IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), 5 mg, IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), oral solution",Xeljanz solution
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Xeljanz Psoriatic Arthritis (adult),Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Psoriatic Arthritis (adult), 10 mg, IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Psoriatic Arthritis (adult), 5 mg, IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Psoriatic Arthritis (adult), IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Psoriatic Arthritis (adult), oral solution",Xeljanz solution
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Xeljanz Rheumatoid Arthritis,Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Rheumatoid Arthritis, 10 mg, IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Rheumatoid Arthritis, 5 mg, IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Rheumatoid Arthritis, IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Rheumatoid Arthritis, oral solution",Xeljanz solution
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Xeljanz Ulcerative Colitis (adult),Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Ulcerative Colitis (adult), 10 mg, IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Ulcerative Colitis (adult), 5 mg, IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Ulcerative Colitis (adult), IR tablet",Xeljanz tablet
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,"Xeljanz Ulcerative Colitis (adult), oral solution",Xeljanz solution
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Xenazine,Xenazine
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Xenazine Huntington's Disease,Xenazine
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Xenazine Tardive Dyskinesia,Xenazine
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Xenazine Tourette's syndrome,Xenazine
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Xigduo XR,Xigduo XR
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Xigduo XR 10 mg/1000 mg,Xigduo XR
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Xigduo XR 10 mg/500 mg,Xigduo XR
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Xigduo XR 2.5 mg/1000 mg,Xigduo XR
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Xigduo XR 5 mg/1000 mg,Xigduo XR
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Xigduo XR 5 mg/500 mg,Xigduo XR
+ANTI-INFECTIVES : Antivirals: Influenza,Xofluza,Xofluza
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Xolair Asthma (adult),Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Xolair Asthma (pediatric),Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Xolair Chronic Rhinosinusitis with Nasal Polyposis,Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Xolair Chronic Spontaneous Urticaria (CSU),Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Xolair IgE-Mediated Food Allergy,Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Xolair auto-injector,Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair auto-injector, Asthma (adult)",Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair auto-injector, Asthma (pediatric)",Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair auto-injector, Chronic Spontaneous Urticaria (CSU)",Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair auto-injector, IgE-Mediated Food Allergy",Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair prefilled syringe, Asthma (adult)",Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair prefilled syringe, Asthma (pediatric)",Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair prefilled syringe, Chronic Spontaneous Urticaria (CSU)",Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair prefilled syringe, IgE-Mediated Food Allergy",Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair vial, Asthma (adult)",Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair vial, Asthma (pediatric)",Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair vial, Chronic Rhinosinusitis with Nasal Polyposis",Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair vial, Chronic Spontaneous Urticaria (CSU)",Xolair
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair vial, IgE-Mediated Food Allergy",Xolair
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Xopenex HFA,Xopenex HFA
+ONCOLOGY AGENTS : Hormonal Agents: Anti-Androgens Second Generation,Xtandi,Xtandi tablets
+ONCOLOGY AGENTS : Hormonal Agents: Anti-Androgens Second Generation,Xtandi tablet,Xtandi tablets
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Xulane,Xulane
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Xultophy,Xultophy
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Xyrem,Xyrem
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Xyrem Cataplexy,Xyrem
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Xyrem Excessive Daytime Sleepiness,Xyrem
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Xyrem Idiopathic Hypersomnia,Xyrem
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Xywav,Xywav
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Xywav Cataplexy,Xywav
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,"Xywav Cataplexy, Excessive Daytime Sleepiness",Xywav
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Xywav Excessive Daytime Sleepiness,Xywav
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Xywav Idiopathic Hypersomnia,Xywav
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Yesintek Crohn's Disease (adult),Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Yesintek Plaque Psoriasis (adult),Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Yesintek Plaque Psoriasis (pediatric),Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Yesintek Psoriatic Arthritis (adult),Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Yesintek Psoriatic Arthritis (pediatric),Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Yesintek Ulcerative Colitis (adult),Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Yesintek intravenous vial,Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek intravenous vial, Crohn's Disease (adult)",Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek intravenous vial, Ulcerative Colitis (adult)",Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Yesintek prefilled syringe,Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek prefilled syringe, Crohn's Disease (adult)",Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek prefilled syringe, Plaque Psoriasis (adult)",Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek prefilled syringe, Plaque Psoriasis (pediatric)",Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek prefilled syringe, Psoriatic Arthritis (adult)",Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek prefilled syringe, Psoriatic Arthritis (pediatric)",Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek prefilled syringe, Ulcerative Colitis (adult)",Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Yesintek subcutaneous vial,Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek subcutaneous vial, Crohn's Disease (adult)",Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek subcutaneous vial, Plaque Psoriasis (adult)",Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek subcutaneous vial, Plaque Psoriasis (pediatric)",Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek subcutaneous vial, Psoriatic Arthritis (adult)",Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek subcutaneous vial, Psoriatic Arthritis (pediatric)",Yesintek
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek subcutaneous vial, Ulcerative Colitis (adult)",Yesintek
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Ankylosing Spondylitis,Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Ankylosing Spondylitis, auto-injector",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Ankylosing Spondylitis, prefilled syringe",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Crohn's Disease (adult),Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Crohn's Disease (adult), auto-injector",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Crohn's Disease (adult), prefilled syringe",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Crohn's Disease (pediatric),Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Crohn's Disease (pediatric), auto-injector",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Crohn's Disease (pediatric), prefilled syringe",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Hidradenitis Suppurativa,Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Hidradenitis Suppurativa, auto-injector",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Hidradenitis Suppurativa, prefilled syringe",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Plaque Psoriasis (adult),Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Plaque Psoriasis (adult), auto-injector",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Plaque Psoriasis (adult), prefilled syringe",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA),Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Psoriatic Arthritis (adult),Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Psoriatic Arthritis (adult), auto-injector",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Psoriatic Arthritis (adult), prefilled syringe",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Rheumatoid Arthritis,Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Rheumatoid Arthritis, auto-injector",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Rheumatoid Arthritis, prefilled syringe",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Ulcerative Colitis (adult),Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Ulcerative Colitis (adult), auto-injector",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Ulcerative Colitis (adult), prefilled syringe",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Uveitis (adult),Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Uveitis (adult), auto-injector",Yuflyma
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Yuflyma Uveitis (adult), prefilled syringe",Yuflyma
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Yupelri,Yupelri
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Yupelri inhalation solution,Yupelri
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Ankylosing Spondylitis,Yusimry
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Crohn's Disease (adult),Yusimry
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Crohn's Disease (pediatric),Yusimry
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Hidradenitis Suppurativa,Yusimry
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Plaque Psoriasis (adult),Yusimry
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Polyarticular Juvenile Idiopathic Arthritis (PJIA),Yusimry
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Psoriatic Arthritis (adult),Yusimry
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Rheumatoid Arthritis,Yusimry
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Ulcerative Colitis (adult),Yusimry
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Uveitis (adult),Yusimry
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Zafemy,Zafemy
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Zavzpret,Zavzpret
+ONCOLOGY AGENTS : Enzyme Inhibitors: PARP Inhibitors,Zejula,Zejula
+ONCOLOGY AGENTS : Enzyme Inhibitors: PARP Inhibitors,Zejula Tablet,Zejula
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Zembrace,Zembrace Symtouch
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Zepatier,Zepatier
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Zeposia,Zeposia
+OPHTHALMICS : Ophthalmic Anti-Allergics,Zerviate (Cetirizine) ophthalmic solution,Zerviate
+ANTI-INFECTIVES : Antivirals: HIV NRTIs,Ziagen,Ziagen
+RARE CONDITIONS : Myasthenia Gravis,Zilbrysq,Zilbrysq
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Ziprasidone,ziprasidone caps
+RARE CONDITIONS : Hutchinson-Gilford Progeria Syndrome,Zokinvy,Zokinvy
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Zolmitriptan,zolmitriptan nasal spray and tablets
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Zolpidem,zolpidem
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Zolpidem 10 mg,zolpidem
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,"Zolpidem 10 mg, tablet",zolpidem
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Zolpidem 5 mg,zolpidem
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,"Zolpidem 5 mg, tablet",zolpidem
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Zolpidem 7.5 mg,zolpidem
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Zolpidem IR capsule,zolpidem
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Zolpidem IR tablet,zolpidem
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,"Zolpidem IR tablet, 10 mg",zolpidem
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,"Zolpidem IR tablet, 5 mg",zolpidem
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,"Zolpidem IR tablet, IR capsule",zolpidem
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Zolpidem capsule,zolpidem
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Zolpidem tablet,zolpidem
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Zomacton,Zomacton
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Zonisade,Zonisade
+"DERMATOLOGICS : Atopic Dermatitis, Topical","Zoryve cream, 0.15%, Atopic Dermatitis",Zoryve 0.15% cream
+"DERMATOLOGICS : Antipsoriatics, Topical","Zoryve cream, 0.3%, Plaque Psoriasis",Zoryve 0.3% cream
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Ztalmy,Ztalmy
+CENTRAL NERVOUS SYSTEM : Antidepressants: New Generation,Zurzuvae,Zurzuvae
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Zyprexa,Zyprexa tablets
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Zyprexa Relprevv,Zyprexa Relprevv
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Zyprexa Zydis,Zyprexa Zydis

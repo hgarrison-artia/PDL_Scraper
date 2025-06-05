@@ -43,9 +43,11 @@ ACNE AGENTS (continued): OTHERS/COMBINATION PRODUCTS,adapalene/benzoyl peroxide 
 ACNE AGENTS (continued): OTHERS/COMBINATION PRODUCTS,ACANYA (benzoyl peroxide/clindamycin) gel,Non-Preferred
 ACNE AGENTS (continued): OTHERS/COMBINATION PRODUCTS,clindamycin/benzoyl peroxide 1%-5% gel w/pump,Preferred
 ACNE AGENTS (continued): OTHERS/COMBINATION PRODUCTS,CABTREO (clindamycin/adapalene/benzoyl peroxide) gel,Non-Preferred
-ACNE AGENTS (continued): OTHERS/COMBINATION PRODUCTS,"sodium sulfacetamide w/sulfur 8%-4%, 9%-4.25%, 10-5% suspension",Preferred
+ACNE AGENTS (continued): OTHERS/COMBINATION PRODUCTS,"sodium sulfacetamide w/sulfur 8%-4%, 9%-
+4.25%, 10-5% suspension",Preferred
 ACNE AGENTS (continued): OTHERS/COMBINATION PRODUCTS,CLEANSING WASH (sulfacetamide sodium/sulfur/urea) cleanser,Non-Preferred
-ACNE AGENTS (continued): OTHERS/COMBINATION PRODUCTS,clindamycin phosphate/benzoyl peroxide 1.2%-2.5% gel,Non-Preferred
+ACNE AGENTS (continued): OTHERS/COMBINATION PRODUCTS,"clindamycin phosphate/benzoyl peroxide 1.2%-
+2.5% gel",Non-Preferred
 ACNE AGENTS (continued): OTHERS/COMBINATION PRODUCTS,clindamycin phosphate/tretinoin 1.2%-0.025% gel,Non-Preferred
 ACNE AGENTS (continued): OTHERS/COMBINATION PRODUCTS,clindamycin/benzoyl peroxide 1%-5% gel,Non-Preferred
 ACNE AGENTS (continued): OTHERS/COMBINATION PRODUCTS,clindamycin/benzoyl peroxide 1.2%-3.75% gel w/pump (generic ONEXTON),Non-Preferred
@@ -72,12 +74,14 @@ ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,galantamine ER,Preferred
 ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,donepezil 23 mg tablet,Non-Preferred
 ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,rivastigmine,Preferred
 ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,EXELON (rivastigmine),Non-Preferred
-ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,memantine,Preferred
-ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,memantine ER,Non-Preferred
-ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,NAMENDA (memantine),Non-Preferred
-ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,NAMENDA XR (memantine ER),Non-Preferred
-ALZHEIMER’S AGENTS : COMBINATION AGENTS,NAMZARIC (memantine/donepezil),Non-Preferred
-ALZHEIMER’S AGENTS : COMBINATION AGENTS,memantine/donepezil ERNR,Non-Preferred
+ALZHEIMER’S AGENTS (continued),Zunveyl (benzgalantamine gluconate)NR,Non-Preferred
+ALZHEIMER’S AGENTS (continued),Zunveyl (benzgalantamine gluconate)NR,Non-Preferred
+ALZHEIMER’S AGENTS (continued): NMDA RECETPOR ANTAGONISTS,memantine,Preferred
+ALZHEIMER’S AGENTS (continued): NMDA RECETPOR ANTAGONISTS,memantine ER,Non-Preferred
+ALZHEIMER’S AGENTS (continued): NMDA RECETPOR ANTAGONISTS,NAMENDA (memantine),Non-Preferred
+ALZHEIMER’S AGENTS (continued): NMDA RECETPOR ANTAGONISTS,NAMENDA XR (memantine ER),Non-Preferred
+ALZHEIMER’S AGENTS (continued): COMBINATION AGENTS,NAMZARIC (memantine/donepezil),Non-Preferred
+ALZHEIMER’S AGENTS (continued): COMBINATION AGENTS,memantine/donepezil ER,Non-Preferred
 "ANALGESICS, OPIOID-SHORT ACTING",acetaminophen/caffeine/dihydrocodeine,Preferred
 "ANALGESICS, OPIOID-SHORT ACTING",ACTIQ (fentanyl),Non-Preferred
 "ANALGESICS, OPIOID-SHORT ACTING",acetaminophen/codeine,Preferred
@@ -89,18 +93,17 @@ ALZHEIMER’S AGENTS : COMBINATION AGENTS,memantine/donepezil ERNR,Non-Preferred
 "ANALGESICS, OPIOID-SHORT ACTING",hydrocodone/acetaminophen,Preferred
 "ANALGESICS, OPIOID-SHORT ACTING",DILAUDID (hydromorphone),Non-Preferred
 "ANALGESICS, OPIOID-SHORT ACTING",hydromorphone,Preferred
-"ANALGESICS, OPIOID-SHORT ACTING",DSUVIA (sufentanil),Non-Preferred
-"ANALGESICS, OPIOID-SHORT ACTING",morphine sulfate,Preferred
 "ANALGESICS, OPIOID-SHORT ACTING",fentanyl citrate,Non-Preferred
-"ANALGESICS, OPIOID-SHORT ACTING",oxycodone,Preferred
+"ANALGESICS, OPIOID-SHORT ACTING",morphine sulfate,Preferred
 "ANALGESICS, OPIOID-SHORT ACTING",FENTORA (fentanyl),Non-Preferred
-"ANALGESICS, OPIOID-SHORT ACTING",oxycodone/acetaminophen (325 mg acetaminophen formulations),Preferred
+"ANALGESICS, OPIOID-SHORT ACTING",oxycodone,Preferred
 "ANALGESICS, OPIOID-SHORT ACTING","FIORICET W/CODEINE 
 (butalbital/acetaminophen/codeine)",Non-Preferred
-"ANALGESICS, OPIOID-SHORT ACTING",tramadol 50 mg tablet,Preferred
+"ANALGESICS, OPIOID-SHORT ACTING",oxycodone/acetaminophen (325 mg acetaminophen formulations),Preferred
 "ANALGESICS, OPIOID-SHORT ACTING",hydrocodone/ibuprofen,Non-Preferred
-"ANALGESICS, OPIOID-SHORT ACTING",tramadol/acetaminophen,Preferred
+"ANALGESICS, OPIOID-SHORT ACTING",tramadol 50 mg tablet,Preferred
 "ANALGESICS, OPIOID-SHORT ACTING",meperidine,Non-Preferred
+"ANALGESICS, OPIOID-SHORT ACTING",tramadol/acetaminophen,Preferred
 "ANALGESICS, OPIOID-SHORT ACTING",NALOCET (oxycodone/acetaminophen),Non-Preferred
 "ANALGESICS, OPIOID-SHORT ACTING",levorphanol,Non-Preferred
 "ANALGESICS, OPIOID-SHORT ACTING",oxymorphone,Non-Preferred
@@ -120,16 +123,17 @@ ALZHEIMER’S AGENTS : COMBINATION AGENTS,memantine/donepezil ERNR,Non-Preferred
 "ANALGESICS, OPIOID-LONG ACTING",CONZIP (tramadol),Non-Preferred
 "ANALGESICS, OPIOID-LONG ACTING",hydrocodone bitartrate ER,Non-Preferred
 "ANALGESICS, OPIOID-LONG ACTING",hydromorphone ER,Non-Preferred
-"ANALGESICS, OPIOID-LONG ACTING",HYSINGLA ER (hydrocodone),Non-Preferred
-"ANALGESICS, OPIOID-LONG ACTING",methadone,Non-Preferred
-"ANALGESICS, OPIOID-LONG ACTING",methadone intensol,Non-Preferred
-"ANALGESICS, OPIOID-LONG ACTING",METHADOSE (methadone),Non-Preferred
-"ANALGESICS, OPIOID-LONG ACTING",morphine sulfate ER capsule,Non-Preferred
-"ANALGESICS, OPIOID-LONG ACTING",MS CONTIN (morphine),Non-Preferred
-"ANALGESICS, OPIOID-LONG ACTING",oxycodone ER,Non-Preferred
-"ANALGESICS, OPIOID-LONG ACTING",OXYCONTIN (oxycodone),Non-Preferred
-"ANALGESICS, OPIOID-LONG ACTING",oxymorphone ER,Non-Preferred
-"ANALGESICS, OPIOID-LONG ACTING",tramadol ER,Non-Preferred
+"ANALGESICS, OPIOID-LONG ACTING (continued)",HYSINGLA ER (hydrocodone),Non-Preferred
+"ANALGESICS, OPIOID-LONG ACTING (continued)",HYSINGLA ER (hydrocodone),Non-Preferred
+"ANALGESICS, OPIOID-LONG ACTING (continued)",methadone,Non-Preferred
+"ANALGESICS, OPIOID-LONG ACTING (continued)",methadone intensol,Non-Preferred
+"ANALGESICS, OPIOID-LONG ACTING (continued)",METHADOSE (methadone),Non-Preferred
+"ANALGESICS, OPIOID-LONG ACTING (continued)",morphine sulfate ER capsule,Non-Preferred
+"ANALGESICS, OPIOID-LONG ACTING (continued)",MS CONTIN (morphine),Non-Preferred
+"ANALGESICS, OPIOID-LONG ACTING (continued)",oxycodone ER,Non-Preferred
+"ANALGESICS, OPIOID-LONG ACTING (continued)",OXYCONTIN (oxycodone),Non-Preferred
+"ANALGESICS, OPIOID-LONG ACTING (continued)",oxymorphone ER,Non-Preferred
+"ANALGESICS, OPIOID-LONG ACTING (continued)",tramadol ER,Non-Preferred
 ANALGESICS/ANESTHETICS (TOPICAL),"diclofenac 1%, 3% gel",Preferred
 ANALGESICS/ANESTHETICS (TOPICAL),DERMACINRX LIDOCAN (lidocaine),Non-Preferred
 ANALGESICS/ANESTHETICS (TOPICAL),"lidocaine 4% cream, patch, solution",Preferred
@@ -166,6 +170,8 @@ ANDROGENIC AGENTS,NATESTO (testosterone),Non-Preferred
 ANDROGENIC AGENTS,TESTIM (testosterone),Non-Preferred
 ANDROGENIC AGENTS,TLANDO (testosterone undecanoate),Non-Preferred
 ANDROGENIC AGENTS,VOGELXO (testosterone),Non-Preferred
+ANDROGENIC AGENTS (continued),UNDECATREX (testosterone undecanoate),Non-Preferred
+ANDROGENIC AGENTS (continued),UNDECATREX (testosterone undecanoate),Non-Preferred
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,benazepril,Preferred
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,ACCUPRIL (quinapril),Non-Preferred
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,captopril,Preferred
@@ -183,34 +189,34 @@ ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,QBRELIS 
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,trandolapril,Preferred
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,VASOTEC (enalapril),Non-Preferred
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,ZESTRIL (lisinopril),Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ACE INHIBITOR (ACEI) COMBINATIONS,benazepril/amlodipine,Preferred
-ANGIOTENSIN MODULATORS (continued): ACE INHIBITOR (ACEI) COMBINATIONS,ACCURETIC (quinapril/hydrochlorothiazide),Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ACE INHIBITOR (ACEI) COMBINATIONS,benazepril/hydrochlorothiazide,Preferred
-ANGIOTENSIN MODULATORS (continued): ACE INHIBITOR (ACEI) COMBINATIONS,LOTENSIN HCT (benazepril/hydrochlorothiazide),Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ACE INHIBITOR (ACEI) COMBINATIONS,captopril/hydrochlorothiazide,Preferred
-ANGIOTENSIN MODULATORS (continued): ACE INHIBITOR (ACEI) COMBINATIONS,LOTREL (benazepril/amlodipine),Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ACE INHIBITOR (ACEI) COMBINATIONS,enalapril/hydrochlorothiazide,Preferred
-ANGIOTENSIN MODULATORS (continued): ACE INHIBITOR (ACEI) COMBINATIONS,VASERETIC (enalapril/hydrochlorothiazide),Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ACE INHIBITOR (ACEI) COMBINATIONS,fosinopril/hydrochlorothiazide,Preferred
-ANGIOTENSIN MODULATORS (continued): ACE INHIBITOR (ACEI) COMBINATIONS,ZESTORETIC (lisinopril/hydrochlorothiazide),Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ACE INHIBITOR (ACEI) COMBINATIONS,lisinopril/hydrochlorothiazide,Preferred
-ANGIOTENSIN MODULATORS (continued): ACE INHIBITOR (ACEI) COMBINATIONS,quinapril/hydrochlorothiazide,Preferred
-ANGIOTENSIN MODULATORS (continued): ACE INHIBITOR (ACEI) COMBINATIONS,trandolapril/verapamil ER,Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),irbesartan,Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),ATACAND (candesartan),Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),losartan,Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),AVAPRO (irbesartan),Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),olmesartan,Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),BENICAR (olmesartan),Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),telmisartan,Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),candesartan,Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),valsartan tablet,Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),COZAAR (losartan),Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),DIOVAN (valsartan),Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),EDARBI (azilsartan),Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),eprosartan,Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),MICARDIS (telmisartan),Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),valsartan solution,Non-Preferred
+ANGIOTENSIN MODULATORS : ACE INHIBITOR (ACEI) COMBINATIONS,benazepril/amlodipine,Preferred
+ANGIOTENSIN MODULATORS : ACE INHIBITOR (ACEI) COMBINATIONS,ACCURETIC (quinapril/hydrochlorothiazide),Non-Preferred
+ANGIOTENSIN MODULATORS : ACE INHIBITOR (ACEI) COMBINATIONS,benazepril/hydrochlorothiazide,Preferred
+ANGIOTENSIN MODULATORS : ACE INHIBITOR (ACEI) COMBINATIONS,"LOTENSIN HCT 
+(benazepril/hydrochlorothiazide)",Non-Preferred
+ANGIOTENSIN MODULATORS : ACE INHIBITOR (ACEI) COMBINATIONS,captopril/hydrochlorothiazide,Preferred
+ANGIOTENSIN MODULATORS : ACE INHIBITOR (ACEI) COMBINATIONS,LOTREL (benazepril/amlodipine),Non-Preferred
+ANGIOTENSIN MODULATORS : ACE INHIBITOR (ACEI) COMBINATIONS,enalapril/hydrochlorothiazide,Preferred
+ANGIOTENSIN MODULATORS : ACE INHIBITOR (ACEI) COMBINATIONS,VASERETIC (enalapril/hydrochlorothiazide),Non-Preferred
+ANGIOTENSIN MODULATORS : ACE INHIBITOR (ACEI) COMBINATIONS,fosinopril/hydrochlorothiazide,Preferred
+ANGIOTENSIN MODULATORS : ACE INHIBITOR (ACEI) COMBINATIONS,ZESTORETIC (lisinopril/hydrochlorothiazide),Non-Preferred
+ANGIOTENSIN MODULATORS : ACE INHIBITOR (ACEI) COMBINATIONS,lisinopril/hydrochlorothiazide,Preferred
+ANGIOTENSIN MODULATORS : ACE INHIBITOR (ACEI) COMBINATIONS,quinapril/hydrochlorothiazide,Preferred
+ANGIOTENSIN MODULATORS : ACE INHIBITOR (ACEI) COMBINATIONS,trandolapril/verapamil ER,Preferred
+ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),irbesartan,Preferred
+ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),ATACAND (candesartan),Non-Preferred
+ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),losartan,Preferred
+ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),AVAPRO (irbesartan),Non-Preferred
+ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),olmesartan,Preferred
+ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),BENICAR (olmesartan),Non-Preferred
+ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),telmisartan,Preferred
+ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),candesartan,Non-Preferred
+ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),valsartan tablet,Preferred
+ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),COZAAR (losartan),Non-Preferred
+ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),EDARBI (azilsartan),Non-Preferred
+ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),eprosartan,Non-Preferred
+ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),MICARDIS (telmisartan),Non-Preferred
+ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),valsartan solution,Non-Preferred
 ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,ENTRESTO (valsartan/sacubitril) tablet DUR+,Preferred
 ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,ATACAND HCT (candesartan/hydrochlorothiazide),Non-Preferred
 ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,irbesartan/hydrochlorothiazide,Preferred
@@ -229,10 +235,13 @@ ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,valsartan/amlodipine/hydroc
 ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,ENTRESTO (valsartan/sacubitril) sprinkle capsule,Non-Preferred
 ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,valsartan/hydrochlorothiazide,Preferred
 ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,EXFORGE (valsartan/amlodipine),Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,EXFORGE HCT (valsartan/amlodipine/hydrochlorothiazide),Non-Preferred
+ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,"EXFORGE HCT 
+(valsartan/amlodipine/hydrochlorothiazide)",Non-Preferred
 ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,olmesartan/amlodipine/hydrochlorothiazide,Non-Preferred
 ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,telmisartan/amlodipine,Non-Preferred
-ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,TRIBENZOR (olmesartan/amlodipine/hydrochlorothiazide),Non-Preferred
+ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,"TRIBENZOR 
+(olmesartan/amlodipine/hydrochlorothiazide)",Non-Preferred
+ANGIOTENSIN MODULATORS (continued): ARB COMBINATIONS,valsartan/sacubitril,Non-Preferred
 ANGIOTENSIN MODULATORS (continued): DIRECT RENIN INHIBITORS,aliskiren,Non-Preferred
 ANGIOTENSIN MODULATORS (continued): DIRECT RENIN INHIBITORS,TEKTURNA (aliskiren),Non-Preferred
 ANGIOTENSIN MODULATORS (continued): DIRECT RENIN INHIBITOR COMBINATIONS,TEKTURNA HCT (aliskiren/hydrochlorothiazide),Non-Preferred
@@ -271,7 +280,7 @@ ANTIBIOTICS (MISCELLANEOUS): NITROFURANTOIN DERIVATIVES,FURADANTIN (nitrofuranto
 ANTIBIOTICS (MISCELLANEOUS): NITROFURANTOIN DERIVATIVES,nitrofurantoin monohydrate macrocrystals,Preferred
 ANTIBIOTICS (MISCELLANEOUS): NITROFURANTOIN DERIVATIVES,MACROBID (nitrofurantoin monohydrate macrocrystals),Non-Preferred
 ANTIBIOTICS (MISCELLANEOUS): NITROFURANTOIN DERIVATIVES,nitrofurantoin suspension,Non-Preferred
-ANTIBIOTICS (MISCELLANEOUS): OXAZOLIDINONES,Linezolid,Non-Preferred
+ANTIBIOTICS (MISCELLANEOUS): OXAZOLIDINONES,linezolid,Non-Preferred
 ANTIBIOTICS (MISCELLANEOUS): OXAZOLIDINONES,SIVEXTRO (tedizolid),Non-Preferred
 ANTIBIOTICS (MISCELLANEOUS): OXAZOLIDINONES,ZYVOX (linezolid),Non-Preferred
 ANTIBIOTICS (TOPICAL),bacitracin OTC,Preferred
@@ -293,15 +302,15 @@ ANTICOAGULANTS: LOW MOLECULAR WEIGHT HEPARIN (LMWH),enoxaparin,Preferred
 ANTICOAGULANTS: LOW MOLECULAR WEIGHT HEPARIN (LMWH),ARIXTRA (fondaparinux),Non-Preferred
 ANTICOAGULANTS: LOW MOLECULAR WEIGHT HEPARIN (LMWH),fondaparinux,Non-Preferred
 ANTICOAGULANTS: LOW MOLECULAR WEIGHT HEPARIN (LMWH),FRAGMIN (dalteparin),Non-Preferred
-ANTICOAGULANTS: LOW MOLECULAR WEIGHT HEPARIN (LMWH),LOVENOX (enoxaparin),Non-Preferred
-ANTICOAGULANTS: ORAL,ELIQUIS (apixaban),Preferred
-ANTICOAGULANTS: ORAL,dabigatran,Non-Preferred
-ANTICOAGULANTS: ORAL,JANTOVEN (warfarin),Preferred
-ANTICOAGULANTS: ORAL,PRADAXA (dabigatran) pellet pack,Non-Preferred
-ANTICOAGULANTS: ORAL,PRADAXA (dabigatran) capsule,Preferred
-ANTICOAGULANTS: ORAL,SAVAYSA (edoxaban),Non-Preferred
-ANTICOAGULANTS: ORAL,warfarin,Preferred
-ANTICOAGULANTS: ORAL,XARELTO (rivaroxaban),Preferred
+ANTICOAGULANTS (continued),LOVENOX (enoxaparin),Non-Preferred
+ANTICOAGULANTS (continued): ORAL,ELIQUIS (apixaban),Preferred
+ANTICOAGULANTS (continued): ORAL,dabigatran,Non-Preferred
+ANTICOAGULANTS (continued): ORAL,JANTOVEN (warfarin),Preferred
+ANTICOAGULANTS (continued): ORAL,PRADAXA (dabigatran) pellet pack,Non-Preferred
+ANTICOAGULANTS (continued): ORAL,PRADAXA (dabigatran) capsule,Preferred
+ANTICOAGULANTS (continued): ORAL,SAVAYSA (edoxaban),Non-Preferred
+ANTICOAGULANTS (continued): ORAL,warfarin,Preferred
+ANTICOAGULANTS (continued): ORAL,XARELTO (rivaroxaban),Preferred
 ANTICONVULSANTS : ADJUVANTS,carbamazepine,Preferred
 ANTICONVULSANTS : ADJUVANTS,APTIOM (eslicarbazepine acetate),Non-Preferred
 ANTICONVULSANTS : ADJUVANTS,carbamazepine ER 12-hour capsule,Preferred
@@ -334,7 +343,7 @@ ANTICONVULSANTS : ADJUVANTS,tiagabine,Preferred
 ANTICONVULSANTS : ADJUVANTS,KEPPRA (levetiracetam),Non-Preferred
 ANTICONVULSANTS : ADJUVANTS,topiramate,Preferred
 ANTICONVULSANTS : ADJUVANTS,KEPPRA XR (levetiracetam),Non-Preferred
-ANTICONVULSANTS : ADJUVANTS,topiramate sprinkle 25 mg,Preferred
+ANTICONVULSANTS : ADJUVANTS,"topiramate sprinkle 15, 25 mg (generic Topamax)",Preferred
 ANTICONVULSANTS : ADJUVANTS,LAMICTAL (lamotrigine),Non-Preferred
 ANTICONVULSANTS : ADJUVANTS,TRILEPTAL (oxcarbazepine) suspension,Preferred
 ANTICONVULSANTS : ADJUVANTS,LAMICTAL XR (lamotrigine),Non-Preferred
@@ -344,19 +353,23 @@ ANTICONVULSANTS : ADJUVANTS,zonisamide,Preferred
 ANTICONVULSANTS : ADJUVANTS,lamotrigine ODT,Non-Preferred
 ANTICONVULSANTS : ADJUVANTS,"lamotrigine ODT blue, green, orange dose pack",Non-Preferred
 ANTICONVULSANTS : ADJUVANTS,MOTPOLY XR (lacosamide),Non-Preferred
-ANTICONVULSANTS (continued): ADJUVANTS (continued),oxcarbazepine suspension,Non-Preferred
-ANTICONVULSANTS (continued): ADJUVANTS (continued),OXTELLAR XR (oxcarbazepine),Non-Preferred
-ANTICONVULSANTS (continued): ADJUVANTS (continued),QUDEXY XR (topiramate),Non-Preferred
-ANTICONVULSANTS (continued): ADJUVANTS (continued),ROWEEPRA (levetiracetam),Non-Preferred
-ANTICONVULSANTS (continued): ADJUVANTS (continued),rufinamide,Non-Preferred
-ANTICONVULSANTS (continued): ADJUVANTS (continued),SABRIL (vigabatrin),Non-Preferred
+ANTICONVULSANTS : ADJUVANTS,oxcarbazepine suspension,Non-Preferred
+ANTICONVULSANTS : ADJUVANTS,oxcarbazepine ER,Non-Preferred
+ANTICONVULSANTS : ADJUVANTS,OXTELLAR XR (oxcarbazepine),Non-Preferred
+ANTICONVULSANTS : ADJUVANTS,QUDEXY XR (topiramate),Non-Preferred
+ANTICONVULSANTS : ADJUVANTS,ROWEEPRA (levetiracetam),Non-Preferred
+ANTICONVULSANTS : ADJUVANTS,rufinamide,Non-Preferred
+ANTICONVULSANTS : ADJUVANTS,SABRIL (vigabatrin),Non-Preferred
 ANTICONVULSANTS (continued): ADJUVANTS (continued),SPRITAM (levetiracetam),Non-Preferred
 ANTICONVULSANTS (continued): ADJUVANTS (continued),SUBVENITE (lamotrigine),Non-Preferred
 ANTICONVULSANTS (continued): ADJUVANTS (continued),"SUBVENITE (lamotrigine) blue, green, orange dose pack",Non-Preferred
 ANTICONVULSANTS (continued): ADJUVANTS (continued),TEGRETOL (carbamazepine),Non-Preferred
 ANTICONVULSANTS (continued): ADJUVANTS (continued),TEGRETOL XR (carbamazepine),Non-Preferred
-ANTICONVULSANTS (continued): ADJUVANTS (continued),TOPAMAX (topiramate),Non-Preferred
-ANTICONVULSANTS (continued): ADJUVANTS (continued),topiramate ER,Non-Preferred
+ANTICONVULSANTS (continued): ADJUVANTS (continued),TOPAMAX TABLET (topiramate),Non-Preferred
+ANTICONVULSANTS (continued): ADJUVANTS (continued),TOPAMAX SPRINKLE (topiramate),Non-Preferred
+ANTICONVULSANTS (continued): ADJUVANTS (continued),topiramate ER capsule (generic Trokendi XR),Non-Preferred
+ANTICONVULSANTS (continued): ADJUVANTS (continued),topiramate ER sprinkle capsule (generic Qudexy XR),Non-Preferred
+ANTICONVULSANTS (continued): ADJUVANTS (continued),topiramate sprinkle 50 mg,Non-Preferred
 ANTICONVULSANTS (continued): ADJUVANTS (continued),TRILEPTAL (oxcarbazepine) tablet,Non-Preferred
 ANTICONVULSANTS (continued): ADJUVANTS (continued),TROKENDI XR (topiramate),Non-Preferred
 ANTICONVULSANTS (continued): ADJUVANTS (continued),vigabatrin,Non-Preferred
@@ -391,22 +404,25 @@ ANTICONVULSANTS (continued): SUCCINIMIDES,ZARONTIN (ethosuximide),Non-Preferred
 "ANTIDEPRESSANTS, OTHER",bupropion XL,Preferred
 "ANTIDEPRESSANTS, OTHER",desvenlafaxine ER,Non-Preferred
 "ANTIDEPRESSANTS, OTHER",mirtazapine,Preferred
-"ANTIDEPRESSANTS, OTHER",EFFEXOR XR (venlafaxine),Non-Preferred
+"ANTIDEPRESSANTS, OTHER",DESYREL (trazodone),Non-Preferred
 "ANTIDEPRESSANTS, OTHER",trazodone,Preferred
-"ANTIDEPRESSANTS, OTHER",EMSAM (selegiline),Non-Preferred
+"ANTIDEPRESSANTS, OTHER",DRIZALMA SPRINKLE (duloxetine DR),Non-Preferred
 "ANTIDEPRESSANTS, OTHER",TRINTELLIX (vortioxetine),Preferred
-"ANTIDEPRESSANTS, OTHER",FETZIMA (levomilnacipran),Non-Preferred
+"ANTIDEPRESSANTS, OTHER",EFFEXOR XR (venlafaxine),Non-Preferred
 "ANTIDEPRESSANTS, OTHER",venlafaxine,Preferred
-"ANTIDEPRESSANTS, OTHER",FORFIVO XL (bupropion),Non-Preferred
+"ANTIDEPRESSANTS, OTHER",EMSAM (selegiline),Non-Preferred
 "ANTIDEPRESSANTS, OTHER",venlafaxine ER capsule,Preferred
-"ANTIDEPRESSANTS, OTHER",MARPLAN (isocarboxazid),Non-Preferred
+"ANTIDEPRESSANTS, OTHER",FETZIMA (levomilnacipran),Non-Preferred
 "ANTIDEPRESSANTS, OTHER",vilazodone,Preferred
+"ANTIDEPRESSANTS, OTHER",FORFIVO XL (bupropion),Non-Preferred
+"ANTIDEPRESSANTS, OTHER",MARPLAN (isocarboxazid),Non-Preferred
 "ANTIDEPRESSANTS, OTHER",NARDIL (phenelzine),Non-Preferred
 "ANTIDEPRESSANTS, OTHER",nefazodone,Non-Preferred
 "ANTIDEPRESSANTS, OTHER",phenelzine,Non-Preferred
 "ANTIDEPRESSANTS, OTHER",PRISTIQ (desvenlafaxine),Non-Preferred
 "ANTIDEPRESSANTS, OTHER",REMERON (mirtazapine),Non-Preferred
 "ANTIDEPRESSANTS, OTHER",tranylcypromine,Non-Preferred
+"ANTIDEPRESSANTS, OTHER",Trazodone solutionNR,Non-Preferred
 "ANTIDEPRESSANTS, OTHER",venlafaxine ER tablet,Non-Preferred
 "ANTIDEPRESSANTS, OTHER",VIIBRYD (vilazodone),Non-Preferred
 "ANTIDEPRESSANTS, OTHER",WELLBUTRIN SR (bupropion),Non-Preferred
@@ -437,15 +453,15 @@ ANTIEMETICS : 5HT3 RECEPTOR BLOCKERS,ANZIMET (dolasetron),Non-Preferred
 ANTIEMETICS : 5HT3 RECEPTOR BLOCKERS,"ondansetron ODT 4 mg, 8 mg",Preferred
 ANTIEMETICS : 5HT3 RECEPTOR BLOCKERS,granisetron,Non-Preferred
 ANTIEMETICS : 5HT3 RECEPTOR BLOCKERS,ondansetron ODT 16 mg tablet,Non-Preferred
-ANTIEMETICS : 5HT3 RECEPTOR BLOCKERS,SANCUSO (granisetron),Non-Preferred
-ANTIEMETICS : ANTIEMETIC COMBINATIONS,DICLEGIS (doxylamine/pyridoxine),Preferred
-ANTIEMETICS : ANTIEMETIC COMBINATIONS,AKYNZEO (netupitant/palonosetron),Non-Preferred
-ANTIEMETICS : ANTIEMETIC COMBINATIONS,BONJESTA (doxylamine/pyridoxine),Non-Preferred
-ANTIEMETICS : ANTIEMETIC COMBINATIONS,doxylamine/pyridoxine,Non-Preferred
-ANTIEMETICS : CANNABINOIDS,dronabinol,Non-Preferred
-ANTIEMETICS : CANNABINOIDS,MARINOL (dronabinol),Non-Preferred
-ANTIEMETICS : NMDA RECEPTOR ANTAGONISTS,aprepitant,Preferred
-ANTIEMETICS : NMDA RECEPTOR ANTAGONISTS,EMEND (aprepitant),Non-Preferred
+ANTIEMETICS (continued),SANCUSO (granisetron),Non-Preferred
+ANTIEMETICS (continued): ANTIEMETIC COMBINATIONS,DICLEGIS (doxylamine/pyridoxine),Preferred
+ANTIEMETICS (continued): ANTIEMETIC COMBINATIONS,AKYNZEO (netupitant/palonosetron),Non-Preferred
+ANTIEMETICS (continued): ANTIEMETIC COMBINATIONS,BONJESTA (doxylamine/pyridoxine),Non-Preferred
+ANTIEMETICS (continued): ANTIEMETIC COMBINATIONS,doxylamine/pyridoxine,Non-Preferred
+ANTIEMETICS (continued): CANNABINOIDS,dronabinol,Non-Preferred
+ANTIEMETICS (continued): CANNABINOIDS,MARINOL (dronabinol),Non-Preferred
+ANTIEMETICS (continued): NMDA RECEPTOR ANTAGONISTS,aprepitant,Preferred
+ANTIEMETICS (continued): NMDA RECEPTOR ANTAGONISTS,EMEND (aprepitant),Non-Preferred
 ANTIFUNGALS (ORAL),clotrimazole,Preferred
 ANTIFUNGALS (ORAL),ANCOBON (flucytosine),Non-Preferred
 ANTIFUNGALS (ORAL),fluconazole,Preferred
@@ -481,26 +497,26 @@ ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,"miconazole cream, powder, solution OTC",Pre
 ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,EXTINA (ketoconazole),Non-Preferred
 ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,miconazole/zinc oxide/petrolatum ointment,Preferred
 ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,JUBLIA (efinaconazole),Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,"nystatin cream, ointment, powder",Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,ketoconazole foam,Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,terbinafine OTC,Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,KETODAN (ketoconazole),Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,"tolnaftate cream, solution OTC",Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,LOPROX (ciclopirox),Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,luliconazole,Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,MICOTRIN AC (clotrimazole),Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,MYCOZYL AC (clotrimazole),Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,MYCOZYL AP (miconazole),Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,naftifine,Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,NAFTIN (naftifine),Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,oxiconazole,Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,OXISTAT (oxiconazole),Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,tavaborole,Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,VOTRIZA-AL (clotrimazole),Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGALS,VUSION (miconazole/zinc oxide/petrolatum),Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGAL/STEROID COMBINATIONS,clotrimazole/betamethasone cream,Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGAL/STEROID COMBINATIONS,clotrimazole/betamethasone lotion,Non-Preferred
-ANTIFUNGALS (TOPICAL) : ANTIFUNGAL/STEROID COMBINATIONS,nystatin/triamcinolone,Preferred
+ANTIFUNGALS (TOPICAL) (continued),"nystatin cream, ointment, powder",Preferred
+ANTIFUNGALS (TOPICAL) (continued),ketoconazole foam,Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued),terbinafine OTC,Preferred
+ANTIFUNGALS (TOPICAL) (continued),KETODAN (ketoconazole),Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued),"tolnaftate cream, solution OTC",Preferred
+ANTIFUNGALS (TOPICAL) (continued),LOPROX (ciclopirox),Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued),luliconazole,Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued),MICOTRIN AC (clotrimazole),Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued),MYCOZYL AC (clotrimazole),Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued),MYCOZYL AP (miconazole),Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued),naftifine,Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued),NAFTIN (naftifine),Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued),oxiconazole,Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued),OXISTAT (oxiconazole),Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued),tavaborole,Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued),VOTRIZA-AL (clotrimazole),Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued),VUSION (miconazole/zinc oxide/petrolatum),Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued): ANTIFUNGAL/STEROID COMBINATIONS,clotrimazole/betamethasone cream,Preferred
+ANTIFUNGALS (TOPICAL) (continued): ANTIFUNGAL/STEROID COMBINATIONS,clotrimazole/betamethasone lotion,Non-Preferred
+ANTIFUNGALS (TOPICAL) (continued): ANTIFUNGAL/STEROID COMBINATIONS,nystatin/triamcinolone,Preferred
 ANTIFUNGALS (VAGINAL),clotrimazole cream OTC,Preferred
 ANTIFUNGALS (VAGINAL),3-DAY VAGINAL CREAM (clotrimazole),Non-Preferred
 ANTIFUNGALS (VAGINAL),clotrimazole-3 cream,Preferred
@@ -515,36 +531,37 @@ ANTIFUNGALS (VAGINAL),terconazole cream,Preferred
 "ANTIHISTAMINES, MINIMALLY SEDATING AND COMBINATIONS : MINIMALLY SEDATING ANTIHISTAMINES",desloratadine,Non-Preferred
 "ANTIHISTAMINES, MINIMALLY SEDATING AND COMBINATIONS : MINIMALLY SEDATING ANTIHISTAMINES",levocetirizine,Non-Preferred
 "ANTIHISTAMINES, MINIMALLY SEDATING AND COMBINATIONS : MINIMALLY SEDATING ANTIHISTAMINE/DECONGESTANT COMBINATIONS",cetirizine/pseudoephedrine,Preferred
-"ANTIHISTAMINES, MINIMALLY SEDATING AND COMBINATIONS : MINIMALLY SEDATING ANTIHISTAMINE/DECONGESTANT COMBINATIONS",CLARINEX-D 12 HOUR (desloratadine/pseudoephedrine),Non-Preferred
+"ANTIHISTAMINES, MINIMALLY SEDATING AND COMBINATIONS : MINIMALLY SEDATING ANTIHISTAMINE/DECONGESTANT COMBINATIONS","CLARINEX-D 12 HOUR 
+(desloratadine/pseudoephedrine)",Non-Preferred
 "ANTIHISTAMINES, MINIMALLY SEDATING AND COMBINATIONS : MINIMALLY SEDATING ANTIHISTAMINE/DECONGESTANT COMBINATIONS",loratadine/pseudoephedrine,Preferred
 "ANTIHISTAMINES, MINIMALLY SEDATING AND COMBINATIONS : MINIMALLY SEDATING ANTIHISTAMINE/DECONGESTANT COMBINATIONS",fexofenadine/pseudoephedrine,Non-Preferred
 "ANTIMIGRAINE AGENTS, ACUTE TREATMENT: CGRP ORAL AND NASAL",NURTEC ODT (rimegepant),Preferred
 "ANTIMIGRAINE AGENTS, ACUTE TREATMENT: CGRP ORAL AND NASAL",ZAVZPRET (zavegepant),Non-Preferred
 "ANTIMIGRAINE AGENTS, ACUTE TREATMENT: CGRP ORAL AND NASAL",UBRELVY (ubrogepant),Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: INJECTABLES",sumatriptan,Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: INJECTABLES",IMITREX (sumatriptan),Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: INJECTABLES",ZEMBRACE SYMTOUCH (sumatriptan),Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: NASAL",sumatriptan,Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: NASAL",IMITREX (sumatriptan),Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: NASAL",TOSYMRA (sumatriptan),Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: NASAL",zolmitriptan,Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: NASAL",ZOMIG (zolmitriptan),Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",naratriptan,Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",almotriptan,Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",rizatriptan,Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",eletriptan,Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",sumatriptan,Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",FROVA (frovatriptan),Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",zolmitriptan,Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",frovatriptan,Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",zolmitriptan ODT,Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",IMITREX (sumatriptan),Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",MAXALT (rizatriptan),Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",MAXALT MLT (rizatriptan),Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",RELPAX (eletriptan),Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",REYVOW (lasmiditan),Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",sumatriptan/naproxen,Non-Preferred
-"ANTIMIGRAINE AGENTS, ACUTE TREATMENT: TRIPTANS AND RELATED AGENTS (ORAL)",ZOMIG (zolmitriptan),Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): INJECTABLES",sumatriptan,Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): INJECTABLES",IMITREX (sumatriptan),Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): INJECTABLES",ZEMBRACE SYMTOUCH (sumatriptan),Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): NASAL",sumatriptan,Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): NASAL",IMITREX (sumatriptan),Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): NASAL",TOSYMRA (sumatriptan),Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): NASAL",zolmitriptan,Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): NASAL",ZOMIG (zolmitriptan),Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",naratriptan,Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",almotriptan,Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",rizatriptan,Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",eletriptan,Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",sumatriptan,Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",FROVA (frovatriptan),Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",zolmitriptan,Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",frovatriptan,Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",zolmitriptan ODT,Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",IMITREX (sumatriptan),Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",MAXALT (rizatriptan),Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",MAXALT MLT (rizatriptan),Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",RELPAX (eletriptan),Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",REYVOW (lasmiditan),Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",sumatriptan/naproxen,Non-Preferred
+"ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): TRIPTANS AND RELATED AGENTS (ORAL)",ZOMIG (zolmitriptan),Non-Preferred
 "ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES",AIMOVIG Autoinjector (erenumab-aooe) DUR+,Preferred
 "ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES",EMGALITY Syringe (galcanezumab-gnlm) 300 mg/mL,Non-Preferred
 "ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES",AJOVY Autoinjector (fremanezumab-vfrm) DUR+,Preferred
@@ -553,6 +570,7 @@ ANTIFUNGALS (VAGINAL),terconazole cream,Preferred
 "ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES",EMGALITY Pen (galcanezumab-gnlm) DUR+,Preferred
 "ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES",EMGALITY Syringe (galcanezumab-gnlm) 120 mg/mL DUR+,Preferred
 "ANTIMIGRAINE AGENTS, PROPHYLAXIS: ORAL",QULIPTA (atogepant),Non-Preferred
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: ORAL",NURTEC ODT (rimegepant),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,BOSULIF (bosutinib) tablet,Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,AFINITOR (everolimus),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,CAPRESLA (vandetanib),Preferred
@@ -569,55 +587,56 @@ ANTIFUNGALS (VAGINAL),terconazole cream,Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,AYVAKIT (avapritinib),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,imatinib,Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,BALVERSA (erdafitinib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,IMBRUVICA (ibrutinib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,BOSULIF (bosutinib) capsule,Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,INLYTA (axitinib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,BRAFTOVI (encorafenib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,IRESSA (gefitinib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,BRUKINSA (zanubrutinib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,JAKAFI (ruxolitinib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,CABOMETYX (cabozantinib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,MEKINIST (trametinib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,CALQUENCE (acalabrutinib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,NEXAVAR (sorafenib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,COPIKTRA (duvelisib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,ROZLYTREK (entrectinib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,DANZITEN (nilotinib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,SPRYCEL (dasatinib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,dasatinib,Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,STIVARGA (regorafenib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,DATROWAY (datopotomab deruxtecan-dlnk)NR,Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,SUTENT (sunitinib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,DAURISMO (glasdegib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,TAFINLAR (dabrafenib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,ERIVEDGE (vismodegib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,TARCEVA (erlotinib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,ERLEADA (apalutamide),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,TASIGNA (nilotinib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,erlotinib,Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,TURALIO (pexidartinib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,FOTIVDA (tivozanib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,TYKERB (lapatinib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,FURZAQLA (fruquintinib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,VOTRIENT (pazopanib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,GAVRETO (pralsetinib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,XALKORI (crizotinib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,gefitinib,Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,XTANDI (enzalutamide),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,GLEEVEC (imatinib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,ZELBORAF (vemurafenib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,IBRANCE (palbociclib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,ZYDELIG (idelalisib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,IDHIFA (enasidenib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,ZYKADIA (ceritinib),Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,IMKELDI (imatinib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,INQOVI (decitabine/cedazuridine),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),IMBRUVICA (ibrutinib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),BOSULIF (bosutinib) capsule,Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),INLYTA (axitinib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),BRAFTOVI (encorafenib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),IRESSA (gefitinib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),BRUKINSA (zanubrutinib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),JAKAFI (ruxolitinib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),CABOMETYX (cabozantinib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),MEKINIST (trametinib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),CALQUENCE (acalabrutinib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),NEXAVAR (sorafenib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),COPIKTRA (duvelisib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),ROZLYTREK (entrectinib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),DANZITEN (nilotinib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),SPRYCEL (dasatinib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),dasatinib,Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),STIVARGA (regorafenib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),DATROWAY (datopotomab deruxtecan-dlnk)NR,Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),SUTENT (sunitinib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),DAURISMO (glasdegib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),TAFINLAR (dabrafenib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),ERIVEDGE (vismodegib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),TARCEVA (erlotinib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),ERLEADA (apalutamide),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),TASIGNA (nilotinib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),erlotinib,Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),TURALIO (pexidartinib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),FOTIVDA (tivozanib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),TYKERB (lapatinib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),FRUZAQIA (fruquintinib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),VOTRIENT (pazopanib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),GAVRETO (pralsetinib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),XALKORI (crizotinib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),gefitinib,Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),XTANDI (enzalutamide),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),GLEEVEC (imatinib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),ZELBORAF (vemurafenib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),IBRANCE (palbociclib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),ZYDELIG (idelalisib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),IDHIFA (enasidenib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),ZYKADIA (ceritinib),Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),IMKELDI (imatinib),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),INQOVI (decitabine/cedazuridine),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),INREBIC (fedratinib),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),ITOVEBI (inavolisib),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),IWILFIN (eflornithine),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),JAYPIRCA (pirtobrutinib),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),KISQALI (ribociclib),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),KISQALI-FEMARA CO-PACK (ribociclib/letrozole),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),"KISQALI-FEMARA CO-PACK 
+(ribociclib/letrozole)",Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),KOSELUGO (selumetinib/vitamin E),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),KRAZATI (adagrasib),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),lapatinib,Non-Preferred
@@ -652,7 +671,7 @@ ANTIFUNGALS (VAGINAL),terconazole cream,Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),TAGRISSO (osimertinib),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),TALZENNA (talazoparib),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),TAZVERIK (tazemetostat),Non-Preferred
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),TECENTRIZ HYBREZA (atezolizumab-hyaluronidase),Non-Preferred
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),TECENTRIQ HYBREZA (atezolizumab/hyaluronidase-tqjs),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),TEPMETKO (tepotinib),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),TIBSOVO (ivosidenib),Non-Preferred
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),TORPENZ (everolimus),Non-Preferred
@@ -686,40 +705,39 @@ ANTIPARASITICS (TOPICAL) : SCABICIDES,permethrin 5% cream,Preferred
 ANTIPARASITICS (TOPICAL) : SCABICIDES,ELIMITE (permethrin),Non-Preferred
 ANTIPARASITICS (TOPICAL) : SCABICIDES,EURAX (crotamiton),Non-Preferred
 ANTIPARASITICS (TOPICAL) : SCABICIDES,STROMECTOL (ivermectin),Non-Preferred
+ANTIPARKINSON’S AGENTS (INJECTABLE),VYALEV (foscarbidopa/foslevodopa),Non-Preferred
 ANTIPARKINSON’S AGENTS (ORAL) : ANTICHOLINERGICS,benztropine,Preferred
 ANTIPARKINSON’S AGENTS (ORAL) : ANTICHOLINERGICS,trihexyphenidyl,Preferred
 ANTIPARKINSON’S AGENTS (ORAL) : COMT INHIBITORS,entacapone,Preferred
 ANTIPARKINSON’S AGENTS (ORAL) : COMT INHIBITORS,OGENTYS (opicapone),Non-Preferred
 ANTIPARKINSON’S AGENTS (ORAL) : COMT INHIBITORS,TASMAR (tocapone),Non-Preferred
 ANTIPARKINSON’S AGENTS (ORAL) : COMT INHIBITORS,tolcapone,Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : DOPAMINE AGONISTS,pramipexole,Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : DOPAMINE AGONISTS,NEUPRO (rotigotine),Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : DOPAMINE AGONISTS,ropinirole,Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : DOPAMINE AGONISTS,pramipexole ER,Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : DOPAMINE AGONISTS,ropinirole ER,Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : MAO-B INHIBITORS,selegiline,Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : MAO-B INHIBITORS,AZILECT (rasagiline),Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : MAO-B INHIBITORS,rasagiline,Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : MAO-B INHIBITORS,XADAGO (safinamide),Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : MAO-B INHIBITORS,ZELAPAR (selegiline),Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,amantadine,Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,carbidopa/levodopa ODT,Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,bromocriptine,Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,carbidopa/levodopa/entacapone,Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,carbidopa,Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,CREXONT (carbidopa/levodopa),Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,carbidopa/levodopa tablet,Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,DHIVY (carbidopa/levodopa),Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,carbidopa/levodopa ER,Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,DUOPA (carbidopa/levodopa),Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,GOCOVRI (amantadine),Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,INBRIJA (levodopa),Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,LODOSYN (carbidopa),Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,NOURIANZ (istradefylline),Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,OSMOLEX ER (amantadine),Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,RYTARY (carbidopa/levodopa),Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,SINEMET (carbidopa/levodopa),Non-Preferred
-ANTIPARKINSON’S AGENTS (ORAL) : OTHERS,STALEVO (carbidopa/levodopa/entacapone),Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) : COMT INHIBITORS,ropinirole,Preferred
+ANTIPARKINSON’S AGENTS (ORAL) : COMT INHIBITORS,pramipexole ER,Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) : COMT INHIBITORS,ropinirole ER,Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): MAO-B INHIBITORS,selegiline,Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): MAO-B INHIBITORS,AZILECT (rasagiline),Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): MAO-B INHIBITORS,rasagiline,Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): MAO-B INHIBITORS,XADAGO (safinamide),Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): MAO-B INHIBITORS,ZELAPAR (selegiline),Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,amantadine,Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,carbidopa/levodopa ODT,Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,bromocriptine,Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,carbidopa/levodopa/entacapone,Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,carbidopa,Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,CREXONT (carbidopa/levodopa),Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,carbidopa/levodopa tablet,Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,DHIVY (carbidopa/levodopa),Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,carbidopa/levodopa ER,Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,DUOPA (carbidopa/levodopa),Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,GOCOVRI (amantadine),Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,INBRIJA (levodopa),Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,LODOSYN (carbidopa),Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,NOURIANZ (istradefylline),Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,OSMOLEX ER (amantadine),Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,RYTARY (carbidopa/levodopa),Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,SINEMET (carbidopa/levodopa),Non-Preferred
+ANTIPARKINSON’S AGENTS (ORAL) (continued): OTHERS,STALEVO (carbidopa/levodopa/entacapone),Non-Preferred
 ANTIPSORIATICS (TOPICAL),calcipotriene cream,Preferred
 ANTIPSORIATICS (TOPICAL),"calcipotriene foam, ointment, solution",Non-Preferred
 ANTIPSORIATICS (TOPICAL),ENSTILAR (calcipotriene/betamethasone),Preferred
@@ -743,54 +761,56 @@ ANTIPSORIATICS (TOPICAL),ZORYVE (roflumilast),Non-Preferred
 "ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",RYKINDO (risperidone),Non-Preferred
 "ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",INVEGA TRINZA (paliperidone),Preferred
 "ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",ziprasidone,Non-Preferred
-"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",PERSERIS (risperidone),Preferred
-"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",ZYPREXA (olanzapine),Non-Preferred
-"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",RISPERIDAL CONSTA (risperidone),Preferred
-"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",ZYPREXA RELPREVV (olanzapine),Non-Preferred
-"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",UZEDY (risperidone),Preferred
-ANTIPSYCHOTICS : ORAL,aripiprazole tablet,Preferred
-ANTIPSYCHOTICS : ORAL,ABILIFY (aripiprazole),Non-Preferred
-ANTIPSYCHOTICS : ORAL,asenapine,Preferred
-ANTIPSYCHOTICS : ORAL,ABILIFY MYCITE (aripiprazole),Non-Preferred
-ANTIPSYCHOTICS : ORAL,clozapine tablet,Preferred
-ANTIPSYCHOTICS : ORAL,ADASUVE (loxapine),Non-Preferred
-ANTIPSYCHOTICS : ORAL,fluphenazine,Preferred
-ANTIPSYCHOTICS : ORAL,"aripiprazole ODT, solution",Non-Preferred
-ANTIPSYCHOTICS : ORAL,haloperidol,Preferred
-ANTIPSYCHOTICS : ORAL,CAPLYTA (lumateperone),Non-Preferred
-ANTIPSYCHOTICS : ORAL,haloperidol lactate,Preferred
-ANTIPSYCHOTICS : ORAL,chlorpromazine,Non-Preferred
-ANTIPSYCHOTICS : ORAL,olanzapine,Preferred
-ANTIPSYCHOTICS : ORAL,clozapine ODT,Non-Preferred
-ANTIPSYCHOTICS : ORAL,perphenazine,Preferred
-ANTIPSYCHOTICS : ORAL,CLOZARIL (clozapine),Non-Preferred
-ANTIPSYCHOTICS : ORAL,perphenazine/amitriptyline,Preferred
-ANTIPSYCHOTICS : ORAL,quetiapine,Preferred
-ANTIPSYCHOTICS : ORAL,FANAPT (iloperidone),Non-Preferred
-ANTIPSYCHOTICS : ORAL,quetiapine ER,Preferred
-ANTIPSYCHOTICS : ORAL,GEODON (ziprasidone),Non-Preferred
-ANTIPSYCHOTICS : ORAL,risperidone,Preferred
-ANTIPSYCHOTICS : ORAL,IGALMI (dexmedetomidine),Non-Preferred
-ANTIPSYCHOTICS : ORAL,thioridazine,Preferred
-ANTIPSYCHOTICS : ORAL,INVEGA (paliperidone),Non-Preferred
-ANTIPSYCHOTICS : ORAL,trifluoperazine,Preferred
-ANTIPSYCHOTICS : ORAL,LATUDA (lurasidone),Non-Preferred
-ANTIPSYCHOTICS : ORAL,VRAYLAR (cariprazine),Preferred
-ANTIPSYCHOTICS : ORAL,lurasidone,Non-Preferred
-ANTIPSYCHOTICS : ORAL,ziprasidone,Preferred
-ANTIPSYCHOTICS : ORAL,LYBALVI (olanzapine/samidorphan),Non-Preferred
-ANTIPSYCHOTICS : ORAL,NUPLAZID (pimavanserin),Non-Preferred
-ANTIPSYCHOTICS : ORAL,olanzapine/fluoxetine,Non-Preferred
-ANTIPSYCHOTICS : ORAL,paliperidone ER,Non-Preferred
-ANTIPSYCHOTICS : ORAL,REXULTI (brexpiprazole),Non-Preferred
-ANTIPSYCHOTICS : ORAL,RISPERDAL (risperidone),Non-Preferred
-ANTIPSYCHOTICS : ORAL,SAPHRIS (asenapine),Non-Preferred
-ANTIPSYCHOTICS : ORAL,SEROQUEL (quetiapine),Non-Preferred
-ANTIPSYCHOTICS : ORAL,SEROQUEL XR (quetiapine ER),Non-Preferred
-ANTIPSYCHOTICS : ORAL,SYMBYAX (olanzapine/fluoxetine),Non-Preferred
-ANTIPSYCHOTICS : ORAL,VERSACLOZ (clozapine),Non-Preferred
-ANTIPSYCHOTICS : ORAL,"ZYPREXA, ZYPREXA ZYDIS (olanzapine)",Non-Preferred
-"ANTIPSYCHOTICS : TRANSDERMAL, ATYPICALS",SECUADO (asenapine),Non-Preferred
+ANTIPSYCHOTICS (continued),PERSERIS (risperidone),Preferred
+ANTIPSYCHOTICS (continued),ZYPREXA (olanzapine),Non-Preferred
+ANTIPSYCHOTICS (continued),RISPERIDAL CONSTA (risperidone),Preferred
+ANTIPSYCHOTICS (continued),ZYPREXA RELPREVV (olanzapine),Non-Preferred
+ANTIPSYCHOTICS (continued),UZEDY (risperidone),Preferred
+ANTIPSYCHOTICS (continued): ORAL,aripiprazole tablet,Preferred
+ANTIPSYCHOTICS (continued): ORAL,ABILIFY (aripiprazole),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,asenapine,Preferred
+ANTIPSYCHOTICS (continued): ORAL,ABILIFY MYCITE (aripiprazole),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,clozapine tablet,Preferred
+ANTIPSYCHOTICS (continued): ORAL,ADASUVE (loxapine),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,fluphenazine,Preferred
+ANTIPSYCHOTICS (continued): ORAL,"aripiprazole ODT, solution",Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,haloperidol,Preferred
+ANTIPSYCHOTICS (continued): ORAL,CAPLYTA (lumateperone),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,haloperidol lactate,Preferred
+ANTIPSYCHOTICS (continued): ORAL,chlorpromazine,Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,olanzapine,Preferred
+ANTIPSYCHOTICS (continued): ORAL,clozapine ODT,Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,perphenazine,Preferred
+ANTIPSYCHOTICS (continued): ORAL,CLOZARIL (clozapine),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,perphenazine/amitriptyline,Preferred
+ANTIPSYCHOTICS (continued): ORAL,COBENFY (xanomeline/trospium),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,quetiapine,Preferred
+ANTIPSYCHOTICS (continued): ORAL,FANAPT (iloperidone),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,quetiapine ER,Preferred
+ANTIPSYCHOTICS (continued): ORAL,GEODON (ziprasidone),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,risperidone,Preferred
+ANTIPSYCHOTICS (continued): ORAL,IGALMI (dexmedetomidine),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,thioridazine,Preferred
+ANTIPSYCHOTICS (continued): ORAL,INVEGA (paliperidone),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,trifluoperazine,Preferred
+ANTIPSYCHOTICS (continued): ORAL,LATUDA (lurasidone),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,VRAYLAR (cariprazine),Preferred
+ANTIPSYCHOTICS (continued): ORAL,lurasidone,Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,ziprasidone,Preferred
+ANTIPSYCHOTICS (continued): ORAL,LYBALVI (olanzapine/samidorphan),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,NUPLAZID (pimavanserin),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,olanzapine/fluoxetine,Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,OPIPZA (aripiprazole),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,paliperidone ER,Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,REXULTI (brexpiprazole),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,RISPERDAL (risperidone),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,SAPHRIS (asenapine),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,SEROQUEL (quetiapine),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,SEROQUEL XR (quetiapine ER),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,SYMBYAX (olanzapine/fluoxetine),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,VERSACLOZ (clozapine),Non-Preferred
+ANTIPSYCHOTICS (continued): ORAL,"ZYPREXA, ZYPREXA ZYDIS (olanzapine)",Non-Preferred
+"ANTIPSYCHOTICS (continued): TRANSDERMAL, ATYPICALS",SECUADO (asenapine),Non-Preferred
 ANTIRETROVIRALS : CAPSID INHIBITORS,SUNLENCA (lenacapavir),Non-Preferred
 ANTIRETROVIRALS : CD4 DIRECTED ATTACHMENT INHIBITORS,RUKOBIA (fostemsavir),Non-Preferred
 ANTIRETROVIRALS : CD4 DIRECTED HIV-1 INHIBITORS,TROGARZO (ibalizumab-uiyk),Non-Preferred
@@ -803,29 +823,29 @@ ANTIRETROVIRALS : COMBINATION PRODUCTS – NRTIs,lamivudine/zidovudine,Preferred
 ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG RTIs,DESCOVY (emtricitabine/tenofovir alafenamide),Preferred
 ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG RTIs,TRUVADA (emtricitabine/tenofovir),Non-Preferred
 ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG RTIs,emtricitabine/tenofovir,Preferred
-ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON- NUCLEOSIDE RTIs,DELSTRIGO (doravirine/lamiviudine/tenofovir),Preferred
-ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON- NUCLEOSIDE RTIs,ATRIPLA (efavirenz/emtricitabine/tenofovir),Non-Preferred
-ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON- NUCLEOSIDE RTIs,efavirenz/emtricitabine/tenofovir,Preferred
-ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON- NUCLEOSIDE RTIs,CIMDUO (lamivudine/tenofovir),Non-Preferred
-ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON- NUCLEOSIDE RTIs,ODEFSEY (emtricitabine/rilpivirine/tenofovir),Preferred
-ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON- NUCLEOSIDE RTIs,COMPLERA (emtricitabine/rilpivirine/tenofovir),Non-Preferred
-ANTIRETROVIRALS : COMBINATION PRODUCTS – PROTEASE INHIBITORS,lopinavir/ritonavir,Preferred
-ANTIRETROVIRALS : COMBINATION PRODUCTS – PROTEASE INHIBITORS,KALETRA (lopinavir/ritonavir),Non-Preferred
-ANTIRETROVIRALS : ENTRY INHIBITORS – CCR5 CO-RECEPTOR ANTAGONISTS,maraviroc,Non-Preferred
-ANTIRETROVIRALS : ENTRY INHIBITORS – CCR5 CO-RECEPTOR ANTAGONISTS,SELZENTRY (maraviroc),Non-Preferred
-ANTIRETROVIRALS : ENTRY INHIBITORS – FUSION INHIBITORS,FUZEON (enfuvirtide),Non-Preferred
-ANTIRETROVIRALS : INTEGRASE STRAND TRANSFER INHIBITORS,APRETUDE (cabotegravir),Preferred
-ANTIRETROVIRALS : INTEGRASE STRAND TRANSFER INHIBITORS,cabotegravir ER,Non-Preferred
-ANTIRETROVIRALS : INTEGRASE STRAND TRANSFER INHIBITORS,ISENTRESS (raltegravir),Preferred
-ANTIRETROVIRALS : INTEGRASE STRAND TRANSFER INHIBITORS,ISENTRESS HD (raltegravir),Non-Preferred
-ANTIRETROVIRALS : INTEGRASE STRAND TRANSFER INHIBITORS,"TIVICAY, TIVICAY PD (dolutegravir)",Preferred
-ANTIRETROVIRALS : INTEGRASE STRAND TRANSFER INHIBITORS,VOCABRIA (cabotegravir),Non-Preferred
-ANTIRETROVIRALS : NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),EDURANT (rilpivirine),Preferred
-ANTIRETROVIRALS : NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),etravirine,Non-Preferred
-ANTIRETROVIRALS : NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),efavirenz,Preferred
-ANTIRETROVIRALS : NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),INTELENCE (etravirine),Non-Preferred
-ANTIRETROVIRALS : NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),"nevirapine, nevirapine ER",Non-Preferred
-ANTIRETROVIRALS : NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),PIFELTRO (doravirine),Non-Preferred
+ANTIRETROVIRALS (continued): COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON-NUCLEOSIDE RTIs,DELSTRIGO (doravirine/lamiviudine/tenofovir),Preferred
+ANTIRETROVIRALS (continued): COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON-NUCLEOSIDE RTIs,ATRIPLA (efavirenz/emtricitabine/tenofovir),Non-Preferred
+ANTIRETROVIRALS (continued): COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON-NUCLEOSIDE RTIs,efavirenz/emtricitabine/tenofovir,Preferred
+ANTIRETROVIRALS (continued): COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON-NUCLEOSIDE RTIs,CIMDUO (lamivudine/tenofovir),Non-Preferred
+ANTIRETROVIRALS (continued): COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON-NUCLEOSIDE RTIs,ODEFSEY (emtricitabine/rilpivirine/tenofovir),Preferred
+ANTIRETROVIRALS (continued): COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG AND NON-NUCLEOSIDE RTIs,COMPLERA (emtricitabine/rilpivirine/tenofovir),Non-Preferred
+ANTIRETROVIRALS (continued): COMBINATION PRODUCTS – PROTEASE INHIBITORS,lopinavir/ritonavir,Preferred
+ANTIRETROVIRALS (continued): COMBINATION PRODUCTS – PROTEASE INHIBITORS,KALETRA (lopinavir/ritonavir),Non-Preferred
+ANTIRETROVIRALS (continued): ENTRY INHIBITORS – CCR5 CO-RECEPTOR ANTAGONISTS,maraviroc,Non-Preferred
+ANTIRETROVIRALS (continued): ENTRY INHIBITORS – CCR5 CO-RECEPTOR ANTAGONISTS,SELZENTRY (maraviroc),Non-Preferred
+ANTIRETROVIRALS (continued): ENTRY INHIBITORS – FUSION INHIBITORS,FUZEON (enfuvirtide),Non-Preferred
+ANTIRETROVIRALS (continued): INTEGRASE STRAND TRANSFER INHIBITORS,APRETUDE (cabotegravir),Preferred
+ANTIRETROVIRALS (continued): INTEGRASE STRAND TRANSFER INHIBITORS,cabotegravir ER,Non-Preferred
+ANTIRETROVIRALS (continued): INTEGRASE STRAND TRANSFER INHIBITORS,ISENTRESS (raltegravir),Preferred
+ANTIRETROVIRALS (continued): INTEGRASE STRAND TRANSFER INHIBITORS,ISENTRESS HD (raltegravir),Non-Preferred
+ANTIRETROVIRALS (continued): INTEGRASE STRAND TRANSFER INHIBITORS,"TIVICAY, TIVICAY PD (dolutegravir)",Preferred
+ANTIRETROVIRALS (continued): INTEGRASE STRAND TRANSFER INHIBITORS,VOCABRIA (cabotegravir),Non-Preferred
+ANTIRETROVIRALS (continued): NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),EDURANT (rilpivirine),Preferred
+ANTIRETROVIRALS (continued): NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),etravirine,Non-Preferred
+ANTIRETROVIRALS (continued): NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),efavirenz,Preferred
+ANTIRETROVIRALS (continued): NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),INTELENCE (etravirine),Non-Preferred
+ANTIRETROVIRALS (continued): NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),"nevirapine, nevirapine ER",Non-Preferred
+ANTIRETROVIRALS (continued): NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NNRTI),PIFELTRO (doravirine),Non-Preferred
 ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),abacavir,Preferred
 ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),didanosine,Non-Preferred
 ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),EMTRIVA (emtricitabine),Preferred
@@ -846,10 +866,10 @@ ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (PEPTIDIC),atazanavir,Preferred
 ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (PEPTIDIC),fosamprenavir,Non-Preferred
 ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (PEPTIDIC),EVOTAZ (atazanavir/cobicistat),Preferred
 ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (PEPTIDIC),LEXIVA (fosamprenavir),Non-Preferred
-ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (PEPTIDIC),ritonavir,Preferred
-ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (PEPTIDIC),NORIVIR (ritonavir),Non-Preferred
-ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (PEPTIDIC),REYATAZ (atazanavir),Non-Preferred
-ANTIRETROVIRALS (continued): PROTEASE INHIBITORS (PEPTIDIC),VIRACEPT (nelfinavir),Non-Preferred
+ANTIRETROVIRALS (continued),ritonavir,Preferred
+ANTIRETROVIRALS (continued),NORIVIR (ritonavir),Non-Preferred
+ANTIRETROVIRALS (continued),REYATAZ (atazanavir),Non-Preferred
+ANTIRETROVIRALS (continued),VIRACEPT (nelfinavir),Non-Preferred
 ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,BIKTARVY (bictegravir/emtricitabine/tenofovir),Preferred
 ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,efavirenz/lamivudine/tenofovir,Non-Preferred
 ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,GENVOYA (elvitegravir/cobicistat/emtricitabine/ tenofovir alafenamide),Preferred
@@ -857,10 +877,13 @@ ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,JULUCA (dolutegravir/rilpiv
 ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,SYMFI (efavirenz/lamivudine/tenofovir),Preferred
 ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,rilpivirine ER,Non-Preferred
 ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,SYMFI LO (efavirenz/lamivudine/tenofovir),Preferred
-ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,STRIBILD (elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate),Non-Preferred
+ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,"STRIBILD 
+(elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate)",Non-Preferred
 ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,TRIUMEQ (abacavir/dolutegravir/lamivudine),Preferred
-ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,SYMTUZA (darunavir/cobicistat/emtricitabine/tenofovir alafenamide),Non-Preferred
-ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,TRIUMEQ PD (abacavir/dolutegravir/lamivudine),Preferred
+ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,"SYMTUZA 
+(darunavir/cobicistat/emtricitabine/tenofovir alafenamide)",Non-Preferred
+ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,"TRIUMEQ PD 
+(abacavir/dolutegravir/lamivudine)",Preferred
 "ANTIVIRALS, ORAL: ANTI-CYTOMEGALOVIRUS AGENTS",valganciclovir tablet,Preferred
 "ANTIVIRALS, ORAL: ANTI-CYTOMEGALOVIRUS AGENTS",LIVTENCITY (maribavir),Non-Preferred
 "ANTIVIRALS, ORAL: ANTI-CYTOMEGALOVIRUS AGENTS",PREVYMIS (letermovir),Non-Preferred
@@ -871,13 +894,13 @@ ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,TRIUMEQ PD (abacavir/dolute
 "ANTIVIRALS, ORAL: ANTI-HERPETIC AGENTS",famciclovir,Preferred
 "ANTIVIRALS, ORAL: ANTI-HERPETIC AGENTS",VALTREX (valacyclovir),Non-Preferred
 "ANTIVIRALS, ORAL: ANTI-HERPETIC AGENTS",valacyclovir,Preferred
-"ANTIVIRALS, ORAL (continued): ANTI-INFLUENZA AGENTS",oseltamivir,Preferred
-"ANTIVIRALS, ORAL (continued): ANTI-INFLUENZA AGENTS",FLUMADINE (rimantadine),Non-Preferred
-"ANTIVIRALS, ORAL (continued): ANTI-INFLUENZA AGENTS",RAPIVAB (peramivir),Non-Preferred
-"ANTIVIRALS, ORAL (continued): ANTI-INFLUENZA AGENTS",RELENZA (zanamivir),Non-Preferred
-"ANTIVIRALS, ORAL (continued): ANTI-INFLUENZA AGENTS",rimantadine,Non-Preferred
-"ANTIVIRALS, ORAL (continued): ANTI-INFLUENZA AGENTS",TAMIFLU (oseltamivir),Non-Preferred
-"ANTIVIRALS, ORAL (continued): ANTI-INFLUENZA AGENTS",XOFLUZA (baloxavir),Non-Preferred
+"ANTIVIRALS, ORAL: ANTI-INFLUENZA AGENTS",oseltamivir,Preferred
+"ANTIVIRALS, ORAL: ANTI-INFLUENZA AGENTS",FLUMADINE (rimantadine),Non-Preferred
+"ANTIVIRALS, ORAL: ANTI-INFLUENZA AGENTS",RAPIVAB (peramivir),Non-Preferred
+"ANTIVIRALS, ORAL: ANTI-INFLUENZA AGENTS",RELENZA (zanamivir),Non-Preferred
+"ANTIVIRALS, ORAL: ANTI-INFLUENZA AGENTS",rimantadine,Non-Preferred
+"ANTIVIRALS, ORAL: ANTI-INFLUENZA AGENTS",TAMIFLU (oseltamivir),Non-Preferred
+"ANTIVIRALS, ORAL: ANTI-INFLUENZA AGENTS",XOFLUZA (baloxavir),Non-Preferred
 "ANTIVIRALS, TOPICAL",ZOVIRAX (acyclovir) cream,Preferred
 "ANTIVIRALS, TOPICAL",acyclovir,Non-Preferred
 "ANTIVIRALS, TOPICAL",DENAVIR (penciclovir),Non-Preferred
@@ -893,11 +916,13 @@ AROMATASE INHIBITORS,FEMARA (letrozole),Non-Preferred
 ATOPIC DERMATITIS,ADBRY (tralokinumab-ldrm),Preferred
 ATOPIC DERMATITIS,CIBINQO (abrocitinib),Non-Preferred
 ATOPIC DERMATITIS,ADBRY Autoinjector (tralokinumab-ldrm),Preferred
+ATOPIC DERMATITIS,EBGLYSS Pen (lebrikizumab-lbkz),Non-Preferred
 ATOPIC DERMATITIS,DUPIXENT (dupilumab) DUR+,Preferred
-ATOPIC DERMATITIS,OPZELURA (ruxolitinib),Non-Preferred
+ATOPIC DERMATITIS,NEMLUVIO (nemolizumab-ilto),Non-Preferred
 ATOPIC DERMATITIS,ELIDEL (pimecrolimus),Preferred
-ATOPIC DERMATITIS,ZORYVE (roflumilast) 0.15% cream,Non-Preferred
+ATOPIC DERMATITIS,OPZELURA (ruxolitinib),Non-Preferred
 ATOPIC DERMATITIS,EUCRISA (crisaborole) DUR+,Preferred
+ATOPIC DERMATITIS,ZORYVE (roflumilast) 0.15% cream,Non-Preferred
 ATOPIC DERMATITIS,pimecrolimus,Preferred
 ATOPIC DERMATITIS,tacrolimus,Preferred
 "BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : ANTIANGINALS",ASPRUZYO SPRINKLE (ranolazine),Non-Preferred
@@ -950,7 +975,7 @@ BILE SALTS,LIVDELZI (seladelpar),Non-Preferred
 BILE SALTS,LIVMARLI (maralixibat),Non-Preferred
 BILE SALTS,OCALIVA (obeticholic acid),Non-Preferred
 BILE SALTS,RELTONE (ursodiol),Non-Preferred
-BILE SALTS,URSO FORTE (ursodiol),Non-Preferred
+BILE SALTS (continued),URSO FORTE (ursodiol),Non-Preferred
 BLADDER RELAXANT PREPARATIONS,MYRBETRIQ (mirabegron),Preferred
 BLADDER RELAXANT PREPARATIONS,darifenacin ER,Non-Preferred
 BLADDER RELAXANT PREPARATIONS,oxybutynin,Preferred
@@ -1008,13 +1033,15 @@ BPH AGENTS : PHOSPHODIESTERASE TYPE 5 (PDE5) INHIBITORS,CIALIS (tadalafil),Non-P
 BPH AGENTS : PHOSPHODIESTERASE TYPE 5 (PDE5) INHIBITORS,tadalafil,Non-Preferred
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,ANORO ELLIPTA (umeclidinium/vilanterol),Preferred
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,BEVESPI AEROSPHERE (glycopyrrolate/formoterol),Non-Preferred
-BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,COMBIVENT RESPIMAT (ipratropium/albuterol),Preferred
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,"COMBIVENT RESPIMAT 
+(ipratropium/albuterol)",Preferred
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,DUAKLIR PRESSAIR (aclidinium/formoterol),Non-Preferred
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,ipratropium/albuterol,Preferred
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,STIOLTO RESPIMAT (tiotropium/olodaterol),Preferred
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BATA AGONIST-GLUCOCORTICOIDS COMBINATIONS,"BREZTRI AEROSPHERE 
 (budesonide/glycopyrrolate/formoterol) DUR+",Non-Preferred
-BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BATA AGONIST-GLUCOCORTICOIDS COMBINATIONS,TRELEGY ELLIPTA (fluticasone/umeclidinium/vilanterol),Non-Preferred
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BATA AGONIST-GLUCOCORTICOIDS COMBINATIONS,"TRELEGY ELLIPTA 
+(fluticasone/umeclidinium/vilanterol)",Non-Preferred
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,ATROVENT HFA (ipratropium),Preferred
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,DALIRESP (roflumilast),Non-Preferred
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,INCRUSE ELLIPTA (umeclidinium),Preferred
@@ -1025,23 +1052,23 @@ BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,SPIRIVA HANDIHAL
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,SPIRIVA RESPIMAT (tiotropium) DUR+,Non-Preferred
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,tiotropium,Non-Preferred
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,TUDORZA PRESSAIR (aclidinium),Non-Preferred
-BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,YUPLERI (revefenacin),Non-Preferred
-"BRONCHODILATORS, BETA AGONISTS: INHALATION SOLUTION",albuterol,Preferred
-"BRONCHODILATORS, BETA AGONISTS: INHALATION SOLUTION",arformoterol,Non-Preferred
-"BRONCHODILATORS, BETA AGONISTS: INHALATION SOLUTION",BROVANA (arformoterol),Non-Preferred
-"BRONCHODILATORS, BETA AGONISTS: INHALATION SOLUTION",levalbuterol,Non-Preferred
-"BRONCHODILATORS, BETA AGONISTS: INHALATION SOLUTION",PERFOROMIST (formoterol),Non-Preferred
-"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, LONG ACTING",SEREVENT DISKUS (salmeterol),Preferred
-"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, LONG ACTING",STRIVERDI RESPIMAT (olodaterol),Preferred
-"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, SHORT ACTING",albuterol HFA,Preferred
-"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, SHORT ACTING",AIRSUPRA (albuterol/budesonide),Non-Preferred
-"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, SHORT ACTING",VENTOLIN HFA (albuterol),Preferred
-"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, SHORT ACTING",levalbuterol HFA,Non-Preferred
-"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, SHORT ACTING",PROAIR DIGIHALER (albuterol),Non-Preferred
-"BRONCHODILATORS, BETA AGONISTS (continued): INHALERS, SHORT ACTING",XOPENEX HFA (levalbuterol),Non-Preferred
-"BRONCHODILATORS, BETA AGONISTS (continued): ORAL",albuterol IR,Preferred
-"BRONCHODILATORS, BETA AGONISTS (continued): ORAL",albuterol ER,Non-Preferred
-"BRONCHODILATORS, BETA AGONISTS (continued): ORAL",terbutaline,Preferred
+BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGICS AND COPD AGENTS,YUPERI (revefenacin),Non-Preferred
+BRONCHODILATORS & COPD AGENTS (continued): INHALATION SOLUTION,albuterol,Preferred
+BRONCHODILATORS & COPD AGENTS (continued): INHALATION SOLUTION,arformoterol,Non-Preferred
+BRONCHODILATORS & COPD AGENTS (continued): INHALATION SOLUTION,BROVANA (arformoterol),Non-Preferred
+BRONCHODILATORS & COPD AGENTS (continued): INHALATION SOLUTION,"formoterol, formoterol fumarate",Non-Preferred
+BRONCHODILATORS & COPD AGENTS (continued): INHALATION SOLUTION,levalbuterol,Non-Preferred
+BRONCHODILATORS & COPD AGENTS (continued): INHALATION SOLUTION,PERFOROMIST (formoterol),Non-Preferred
+"BRONCHODILATORS & COPD AGENTS (continued): INHALERS, LONG ACTING",SEREVENT DISKUS (salmeterol),Preferred
+"BRONCHODILATORS & COPD AGENTS (continued): INHALERS, LONG ACTING",STRIVERDI RESPIMAT (olodaterol),Preferred
+"BRONCHODILATORS & COPD AGENTS (continued): INHALERS, SHORT ACTING",albuterol HFA,Preferred
+"BRONCHODILATORS & COPD AGENTS (continued): INHALERS, SHORT ACTING",levalbuterol HFA,Non-Preferred
+"BRONCHODILATORS & COPD AGENTS (continued): INHALERS, SHORT ACTING",VENTOLIN HFA (albuterol),Preferred
+"BRONCHODILATORS & COPD AGENTS (continued): INHALERS, SHORT ACTING",PROAIR DIGIHALER (albuterol),Non-Preferred
+"BRONCHODILATORS & COPD AGENTS (continued): INHALERS, SHORT ACTING",XOPENEX HFA (levalbuterol),Non-Preferred
+BRONCHODILATORS & COPD AGENTS (continued): ORAL,albuterol IR,Preferred
+BRONCHODILATORS & COPD AGENTS (continued): ORAL,albuterol ER,Non-Preferred
+BRONCHODILATORS & COPD AGENTS (continued): ORAL,terbutaline,Preferred
 CALCIUM CHANNEL BLOCKERS : LONG-ACTING,amlodipine,Preferred
 CALCIUM CHANNEL BLOCKERS : LONG-ACTING,CARDIZEM CD (diltiazem),Non-Preferred
 CALCIUM CHANNEL BLOCKERS : LONG-ACTING,CARTIA XT (diltiazem),Preferred
@@ -1059,9 +1086,9 @@ CALCIUM CHANNEL BLOCKERS : LONG-ACTING,MATZIM LA (diltiazem),Non-Preferred
 CALCIUM CHANNEL BLOCKERS : LONG-ACTING,nifedipine ER,Preferred
 CALCIUM CHANNEL BLOCKERS : LONG-ACTING,nisoldipine,Non-Preferred
 CALCIUM CHANNEL BLOCKERS : LONG-ACTING,TAZTIA XT (diltiazem),Preferred
-CALCIUM CHANNEL BLOCKERS : LONG-ACTING,NORVASC,Non-Preferred
+CALCIUM CHANNEL BLOCKERS : LONG-ACTING,NORVASC (amlodipine),Non-Preferred
 CALCIUM CHANNEL BLOCKERS : LONG-ACTING,verapamil ER,Preferred
-CALCIUM CHANNEL BLOCKERS : LONG-ACTING,PROCARDIA XL,Non-Preferred
+CALCIUM CHANNEL BLOCKERS : LONG-ACTING,PROCARDIA XL (nifedipine),Non-Preferred
 CALCIUM CHANNEL BLOCKERS : LONG-ACTING,verapamil SR,Preferred
 CALCIUM CHANNEL BLOCKERS : LONG-ACTING,SULAR (nisoldipine),Non-Preferred
 CALCIUM CHANNEL BLOCKERS : LONG-ACTING,TIADYLT ER (diltiazem),Non-Preferred
@@ -1073,32 +1100,21 @@ CALCIUM CHANNEL BLOCKERS : SHORT-ACTING,CARDIZEM (diltiazem),Non-Preferred
 CALCIUM CHANNEL BLOCKERS : SHORT-ACTING,nicardipine,Preferred
 CALCIUM CHANNEL BLOCKERS : SHORT-ACTING,isradipine,Non-Preferred
 CALCIUM CHANNEL BLOCKERS : SHORT-ACTING,nifedipine,Preferred
-CALCIUM CHANNEL BLOCKERS : SHORT-ACTING,nimodipine capsule and,Non-Preferred
+CALCIUM CHANNEL BLOCKERS : SHORT-ACTING,nimodipine capsule and solution,Non-Preferred
 CALCIUM CHANNEL BLOCKERS : SHORT-ACTING,verapamil,Preferred
 CALCIUM CHANNEL BLOCKERS : SHORT-ACTING,NORLIQVA (amlodipine),Non-Preferred
-CALCIUM CHANNEL BLOCKERS : SHORT-ACTING,NYMALIZE (nimodipine),Non-Preferred
+CALCIUM CHANNEL BLOCKERS (continued),NYMALIZE (nimodipine),Non-Preferred
 CALORIC AGENTS,BOOST,Preferred
-CALORIC AGENTS,All non-preferred caloric/nutritional agents (which are all other products except those specifically listed as preferred) require a manual prior authorization.,Non-Preferred
 CALORIC AGENTS,BREAKFAST ESSENTIALS,Preferred
-CALORIC AGENTS,All non-preferred caloric/nutritional agents (which are all other products except those specifically listed as preferred) require a manual prior authorization.,Non-Preferred
 CALORIC AGENTS,BRIGHT BEGINNINGS,Preferred
-CALORIC AGENTS,All non-preferred caloric/nutritional agents (which are all other products except those specifically listed as preferred) require a manual prior authorization.,Non-Preferred
 CALORIC AGENTS,DUOCAL,Preferred
-CALORIC AGENTS,All non-preferred caloric/nutritional agents (which are all other products except those specifically listed as preferred) require a manual prior authorization.,Non-Preferred
 CALORIC AGENTS,ENSURE,Preferred
-CALORIC AGENTS,All non-preferred caloric/nutritional agents (which are all other products except those specifically listed as preferred) require a manual prior authorization.,Non-Preferred
 CALORIC AGENTS,NUTREN,Preferred
-CALORIC AGENTS,All non-preferred caloric/nutritional agents (which are all other products except those specifically listed as preferred) require a manual prior authorization.,Non-Preferred
 CALORIC AGENTS,OSMOLITE,Preferred
-CALORIC AGENTS,All non-preferred caloric/nutritional agents (which are all other products except those specifically listed as preferred) require a manual prior authorization.,Non-Preferred
 CALORIC AGENTS,PEDIASURE,Preferred
-CALORIC AGENTS,All non-preferred caloric/nutritional agents (which are all other products except those specifically listed as preferred) require a manual prior authorization.,Non-Preferred
 CALORIC AGENTS,PROMOD,Preferred
-CALORIC AGENTS,All non-preferred caloric/nutritional agents (which are all other products except those specifically listed as preferred) require a manual prior authorization.,Non-Preferred
 CALORIC AGENTS,RESOURCE,Preferred
-CALORIC AGENTS,All non-preferred caloric/nutritional agents (which are all other products except those specifically listed as preferred) require a manual prior authorization.,Non-Preferred
 CALORIC AGENTS,TWOCAL HN,Preferred
-CALORIC AGENTS,All non-preferred caloric/nutritional agents (which are all other products except those specifically listed as preferred) require a manual prior authorization.,Non-Preferred
 CEPHALOSPORINS AND RELATED ANTIBIOTICS (ORAL): BETA LACTAM/BETA-LACTAMASE INHIBITOR COMBINATIONS,amoxicillin/clavulanate,Preferred
 CEPHALOSPORINS AND RELATED ANTIBIOTICS (ORAL): BETA LACTAM/BETA-LACTAMASE INHIBITOR COMBINATIONS,amoxicillin/clavulanate ER,Non-Preferred
 CEPHALOSPORINS AND RELATED ANTIBIOTICS (ORAL): BETA LACTAM/BETA-LACTAMASE INHIBITOR COMBINATIONS,AUGMENTIN (amoxicillin/clavulanate),Non-Preferred
@@ -1123,14 +1139,15 @@ COLONY STIMULATING FACTORS,LEUKINE (sargramostim),Non-Preferred
 COLONY STIMULATING FACTORS,"NEULASTA, NEULASTA ONPRO (pegfilgrastim)",Non-Preferred
 COLONY STIMULATING FACTORS,NIVESTYM (filgrastim-aafi),Non-Preferred
 COLONY STIMULATING FACTORS,NYVEPRIA (pegfilgrastim-apgf),Non-Preferred
-COLONY STIMULATING FACTORS,RELEUKO (filgrastim-ayow),Non-Preferred
-COLONY STIMULATING FACTORS,ROLVEDON (eflapegrastim-xnst),Non-Preferred
-COLONY STIMULATING FACTORS,STIMUFEND (pegfilgrastim-fpgk),Non-Preferred
-COLONY STIMULATING FACTORS,"UDENYCA, UDENYCA ONBODY (pegfilgrastim-cbqv)",Non-Preferred
-COLONY STIMULATING FACTORS,ZARXIO (filgrastim-sndz),Non-Preferred
-COLONY STIMULATING FACTORS,ZIEXTENZO (pegfilgrastim-bmez),Non-Preferred
+COLONY STIMULATING FACTORS (continued),RELEUKO (filgrastim-ayow),Non-Preferred
+COLONY STIMULATING FACTORS (continued),ROLVEDON (eflapegrastim-xnst),Non-Preferred
+COLONY STIMULATING FACTORS (continued),STIMUFEND (pegfilgrastim-fpgk),Non-Preferred
+COLONY STIMULATING FACTORS (continued),"UDENYCA, UDENYCA ONBODY 
+(pegfilgrastim-cbqv)",Non-Preferred
+COLONY STIMULATING FACTORS (continued),ZARXIO (filgrastim-sndz),Non-Preferred
+COLONY STIMULATING FACTORS (continued),ZIEXTENZO (pegfilgrastim-bmez),Non-Preferred
 CYSTIC FIBROSIS AGENTS,PULMOZYME (dornase alfa),Preferred
-CYSTIC FIBROSIS AGENTS,ALYFTREK (vanzacaftor/tezacaftor/deutivacaftor)NR,Non-Preferred
+CYSTIC FIBROSIS AGENTS,PULMOZYME (dornase alfa),Preferred
 CYSTIC FIBROSIS AGENTS,tobramycin (generic TOBI),Preferred
 CYSTIC FIBROSIS AGENTS,BETHKIS (tobramycin),Non-Preferred
 CYSTIC FIBROSIS AGENTS,BRONCHITOL (mannitol),Non-Preferred
@@ -1150,7 +1167,6 @@ CYTOKINE & CAM ANTAGONISTS,ABRILADA (adalimumab-afzb),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS,AVSOLA (infliximab-axxq),Preferred
 CYTOKINE & CAM ANTAGONISTS,ACTEMRA ACTPEN (tocilizumab),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS,ENBREL (etanercept),Preferred
-CYTOKINE & CAM ANTAGONISTS,adalimumab-aacf,Non-Preferred
 CYTOKINE & CAM ANTAGONISTS,HUMIRA (adalimumab),Preferred
 CYTOKINE & CAM ANTAGONISTS,adalimumab-aaty,Non-Preferred
 CYTOKINE & CAM ANTAGONISTS,KINERET (anakinra),Preferred
@@ -1169,42 +1185,43 @@ CYTOKINE & CAM ANTAGONISTS,SIMPONI (golimumab),Preferred
 CYTOKINE & CAM ANTAGONISTS,BIMZELX (bimekizumab-bkzx),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS,TALTZ (ixekizumab),Preferred
 CYTOKINE & CAM ANTAGONISTS,CIMZIA (certolizumab),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),"TYENNE Syringe, Vial (tocilizumab-aazg)",Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),COSENTYX (secukinumab),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),XELJANZ (tofacitinib) tablet,Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),CYLTEZO (adalimumab-adbm),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),ENTYVIO (vedolizumab),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),HADLIMA (adalimumab-bwwd),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),HULIO (adalimumab-fkjp),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),HYRIMOZ (adalimumab-adaz),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),IDACIO (adalimumab-aacf),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),ILARIS (canakinumab),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),ILUMYA (tildrakizumab-asmn),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),INFLECTRA (infliximab-dyyb),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),infliximab,Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),JYLAMVO (methotrexate),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),KEVZARA (sarilumab),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),LITFULO (ritlecitinib),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),OMVOH (mirikizumab-mrkz),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),ORENCIA (abatacept),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),OTREXUP (methotrexate),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),RASUVO (methotrexate),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),REMICADE (infliximab),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),RENFLEXIS (infliximab-abda),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),SILIQ (brodalumab),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),SIMLANDI (adalimumab-ryvk),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),SIMPONI ARIA (golimumab),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),SKYRIZI (risankizumab-rzaa),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),SOTYKTU (deucravacitinib),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),SPEVIGO (spesolimab-sbzo),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),STELARA (ustekinumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,"TYENNE Syringe, Vial (tocilizumab-aazg)",Preferred
+CYTOKINE & CAM ANTAGONISTS,COSENTYX (secukinumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,XELJANZ (tofacitinib) tablet,Preferred
+CYTOKINE & CAM ANTAGONISTS,CYLTEZO (adalimumab-adbm),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,ENTYVIO (vedolizumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,HADLIMA (adalimumab-bwwd),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,HULIO (adalimumab-fkjp),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,HYRIMOZ (adalimumab-adaz),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,IDACIO (adalimumab-aacf),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,ILARIS (canakinumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,ILUMYA (tildrakizumab-asmn),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,INFLECTRA (infliximab-dyyb),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,infliximab,Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,JYLAMVO (methotrexate),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,KEVZARA (sarilumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,LITFULO (ritlecitinib),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,OMVOH (mirikizumab-mrkz),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,ORENCIA (abatacept),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,OTREXUP (methotrexate),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,RASUVO (methotrexate),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,REMICADE (infliximab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,RENFLEXIS (infliximab-abda),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,SILIQ (brodalumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,SIMLANDI (adalimumab-ryvk),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,SIMPONI ARIA (golimumab),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,SKYRIZI (risankizumab-rzaa),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,SOTYKTU (deucravacitinib),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,SPEVIGO (spesolimab-sbzo),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS,STELARA (ustekinumab),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),TOFIDENCE (tocilizumab-bavi),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),TREMFYA (guselkumab),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),TREXALL (methotrexate),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),TYENNE Autoinjector (tocilizumab-aazg),Non-Preferred
-CYTOKINE & CAM ANTAGONISTS (continued),ustekinumab-kfceNR,Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),XATMEP (methotrexate),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),XELJANZ (tofacitinib) solution,Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),XELJANZ XR (tofacitinib),Non-Preferred
+CYTOKINE & CAM ANTAGONISTS (continued),YUFLYMA (adalimumab-aaty),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),YUSIMRY (adalimumab-aqvh),Non-Preferred
 CYTOKINE & CAM ANTAGONISTS (continued),ZYMFENTRA (infliximab-dyyb),Non-Preferred
 GI ULCER THERAPIES: H2 RECEPTOR ANTAGONISTS,famotidine,Preferred
@@ -1238,27 +1255,28 @@ GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,ASMANEX (mometasone),Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,ALVESCO (ciclesonide),Non-Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,budesonide 0.25 mg and 0.5 mg,Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,ARMONAIR DIGIHALER (fluticasone),Non-Preferred
-GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,FLOVENT DISKUS (fluticasone),Preferred
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,fluticasone diskus,Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,ARNUITY ELLIPTA (fluticasone),Non-Preferred
-GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,PULMICORT FLEXHALER (budesonide),Preferred
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,fluticasone HFA,Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,ASMANEX HFA (mometasone),Non-Preferred
-GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,QVAR REDIHALER (beclomethasone),Preferred
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,PULMICORT FLEXHALER (budesonide),Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,budesonide 1 mg,Non-Preferred
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,QVAR REDIHALER (beclomethasone),Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,FLOVENT HFA (fluticasone),Non-Preferred
-GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,fluticasone diskus,Non-Preferred
-GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,fluticasone HFA,Non-Preferred
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,FLOVENT DISKUS (fluticasone),Non-Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,PULMICORT (budesonide) nebulizer solution,Non-Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,ADVAIR DISKUS (fluticasone/salmeterol),Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,AIRDUO DIGIHALER (fluticasone/salmeterol),Non-Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,ADVAIR HFA (fluticasone/salmeterol),Preferred
-GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,BREO ELLIPTA (fluticasone/vilanterol),Non-Preferred
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,AIRSUPRA (albuterol/budesonide),Non-Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,DULERA (mometasone/formoterol),Preferred
-GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,BREYNA (budesonide/formoterol),Non-Preferred
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,BREO ELLIPTA (fluticasone/vilanterol),Non-Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,fluticasone/salmeterol diskus,Preferred
-GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,budesonide/formoterol,Non-Preferred
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,BREYNA (budesonide/formoterol),Non-Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,fluticasone/salmeterol HFA,Preferred
-GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,fluticasone/vilanterol,Non-Preferred
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,budesonide/formoterol,Non-Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,SYMBICORT (budesonide/formoterol),Preferred
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,fluticasone/vilanterol,Non-Preferred
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,WIXELA INHUB (fluticasone/salmeterol),Non-Preferred
 GROWTH HORMONES,GENOTROPIN (somatropin),Preferred
 GROWTH HORMONES,HUMATROPE (somatropin),Non-Preferred
@@ -1271,12 +1289,15 @@ GROWTH HORMONES,SOGROYA (somapacitan-beco),Non-Preferred
 GROWTH HORMONES,VOXZOGO (vosoritide),Non-Preferred
 GROWTH HORMONES,ZOMACTON (somatropin),Non-Preferred
 H. PYLORI COMBINATION TREATMENTS,PYLERA (bismuth subcitrate potassium/metronidazole/ tetracycline),Preferred
-H. PYLORI COMBINATION TREATMENTS,bismuth subcitrate potassium/metronidazole/tetracycline,Non-Preferred
+H. PYLORI COMBINATION TREATMENTS,"bismuth subcitrate 
+potassium/metronidazole/tetracycline",Non-Preferred
 H. PYLORI COMBINATION TREATMENTS,PYLERA (bismuth subcitrate potassium/metronidazole/ tetracycline),Preferred
 H. PYLORI COMBINATION TREATMENTS,lansoprazole/amoxicillin/clarithromycin,Non-Preferred
-H. PYLORI COMBINATION TREATMENTS,OMECLAMOX (omeprazole/clarithromycin/amoxicillin),Non-Preferred
+H. PYLORI COMBINATION TREATMENTS,"OMECLAMOX 
+(omeprazole/clarithromycin/amoxicillin)",Non-Preferred
 H. PYLORI COMBINATION TREATMENTS,TALICIA (omeprazole/amoxicillin/rifabutin),Non-Preferred
-H. PYLORI COMBINATION TREATMENTS,VOQUEZNA DUAL PAK (vonoprazan/amoxicillin),Non-Preferred
+H. PYLORI COMBINATION TREATMENTS,"VOQUEZNA DUAL PAK 
+(vonoprazan/amoxicillin)",Non-Preferred
 H. PYLORI COMBINATION TREATMENTS,"VOQUEZNA TRIPLE PAK 
 (vonoprazan/amoxicillin/clarithromycin)",Non-Preferred
 H. PYLORI COMBINATION TREATMENTS,"VOQUEZNA TRIPLE PAK 
@@ -1288,27 +1309,30 @@ HEPATITIS B TREATMENTS,BARACLUDE (entecavir),Non-Preferred
 HEPATITIS B TREATMENTS,tenofovir disoproxil fumarate,Preferred
 HEPATITIS B TREATMENTS,VEMLIDY (tenofovir alafenamide),Non-Preferred
 HEPATITIS B TREATMENTS,VIREAD (tenofovir disoproxil fumarate),Non-Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",JANUMET (sitagliptin/metformin),Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",alogliptin,Non-Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",JANUMET XR (sitagliptin/metformin),Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",alogliptin/metformin,Non-Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",JANUVIA (sitagliptin),Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",JENTADUETO XR (linagliptin/metformin),Non-Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",JENTADUETO (linagliptin/metformin),Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",KAZANO (alogliptin/metformin),Non-Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",TRADJENTA (linagliptin),Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",KOMBIGLYZE XR (saxagliptin/metformin),Non-Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",NESINA (alogliptin),Non-Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",ONGLYZA (saxagliptin),Non-Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",OSENI (alogliptin/pioglitazone),Non-Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",saxagliptin,Non-Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",saxagliptin/metformin ER,Non-Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",sitagliptin,Non-Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",sitagliptin/metformin,Non-Preferred
-"HYPOGLYCEMICS, DPP4s AND COMBINATIONS",ZITUVIO (sitagliptin),Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",JANUMET (sitagliptin/metformin),Preferred
+"HYPOGLYCEMICS, BIGUANIDES",alogliptin,Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",JANUMET XR (sitagliptin/metformin),Preferred
+"HYPOGLYCEMICS, BIGUANIDES",alogliptin/metformin,Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",JANUVIA (sitagliptin),Preferred
+"HYPOGLYCEMICS, BIGUANIDES",JENTADUETO XR (linagliptin/metformin),Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",JENTADUETO (linagliptin/metformin),Preferred
+"HYPOGLYCEMICS, BIGUANIDES",KAZANO (alogliptin/metformin),Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",TRADJENTA (linagliptin),Preferred
+"HYPOGLYCEMICS, BIGUANIDES",KOMBIGLYZE XR (saxagliptin/metformin),Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",NESINA (alogliptin),Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",ONGLYZA (saxagliptin),Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",OSENI (alogliptin/pioglitazone),Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",saxagliptin,Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",saxagliptin/metformin ER,Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",sitagliptin,Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",sitagliptin/metformin,Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",ZITUVIMET (sitagliptin/metformin),Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",ZITUVIMET XR (sitagliptin/metformin),Non-Preferred
+"HYPOGLYCEMICS, BIGUANIDES",ZITUVIO (sitagliptin),Non-Preferred
 "HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",BYETTA (exenatide),Preferred
 "HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",BYDUREON (exenatide),Non-Preferred
 "HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",TRULICITY (dulaglutide),Preferred
+"HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",exenatide,Non-Preferred
 "HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",VICTOZA (liraglutide),Preferred
 "HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",liraglutide,Non-Preferred
 "HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",MOUNJARO (tirzepatide),Non-Preferred
@@ -1317,9 +1341,9 @@ HEPATITIS B TREATMENTS,VIREAD (tenofovir disoproxil fumarate),Non-Preferred
 "HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",SOLIQUA (insulin glargine/lixisenatide),Non-Preferred
 "HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",SYMLINPEN (pramlintide),Non-Preferred
 "HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",XULTOPHY (insulin degludec/liraglutide),Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",HUMALOG MIX 75/25 (insulin lispro/lispro protamine),Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",HUMALOG MIX 75/25 vial (insulin lispro/lispro protamine),Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",ADMELOG (insulin lispro),Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",HUMULIN 70/30 (insulin NPH/regular),Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",HUMULIN 70/30 vial (insulin NPH/regular),Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",AFREZZA (insulin regular),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",HUMULIN N (insulin NPH),Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",APIDRA (insulin glulisine),Non-Preferred
@@ -1328,17 +1352,15 @@ HEPATITIS B TREATMENTS,VIREAD (tenofovir disoproxil fumarate),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",HUMULIN R U-500 (insulin regular),Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",FIASP (insulin aspart/niacinamide),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",insulin aspart,Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","HUMALOG; HUMALOG JUNIOR, KWIKPEN, TEMPO 
-PEN (insulin lispro)",Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",insulin aspart protamine mix 70/30,Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","HUMALOG; HUMALOG JUNIOR, KWIKPEN, TEMPO 
-PEN (insulin lispro)",Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","HUMALOG; HUMALOG JUNIOR, KWIKPEN, TEMPO PEN (insulin lispro)",Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",insulin aspart protamine mix 70/30 vial,Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS","HUMALOG; HUMALOG JUNIOR, KWIKPEN, TEMPO PEN (insulin lispro)",Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",insulin lispro,Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS","HUMALOG MIX KWIKPEN 50/50, 75/25 (insulin lispro/lispro protamine)",Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",insulin lispro protamine mix 75/25,Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",HUMULIN 70/30 (insulin NPH/regular),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",insulin lispro protamine mix 75/25 vial,Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",HUMULIN 70/30 KWIKPEN (insulin N/regular),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",LANTUS (insulin glargine),Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",HUMULIN N KWIKPEN (insulin NPH),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",HUMULIN N KWIKPEN (insulin N),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",TOUJEO (insulin glargine),Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",insulin degludec,Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",TOUJEO MAX (insulin glargine),Preferred
@@ -1347,12 +1369,13 @@ PEN (insulin lispro)",Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",LEVEMIR (insulin detemir),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",LYUMJEV (insulin lispro-aabc),Non-Preferred
 "HYPOGLYCEMICS, INSULINS & RELATED AGENTS",NOVOLIN 70/30 (insulin NPH/regular),Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",NOVOLIN R (insulin regular),Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",NOVOLOG (insulin aspart),Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",NOVOLOG MIX 70/30 (insulin aspart/aspart protamine),Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",REZVOGLAR (insulin glargine-aglr),Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",SEMGLEE (insulin glargine-yfgn),Non-Preferred
-"HYPOGLYCEMICS, INSULINS & RELATED AGENTS",TRESIBA (insulin degludec),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS (continued)",NOVOLIN N (insulin NPH),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS (continued)",NOVOLIN R (insulin regular),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS (continued)",NOVOLOG (insulin aspart),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS (continued)",NOVOLOG MIX 70/30 (insulin aspart protamine/aspart),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS (continued)",REZVOGLAR (insulin glargine-aglr),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS (continued)",SEMGLEE (insulin glargine-yfgn),Non-Preferred
+"HYPOGLYCEMICS, INSULINS & RELATED AGENTS (continued)",TRESIBA (insulin degludec),Non-Preferred
 "HYPOGLYCEMICS, MEGLITINIDES",nateglinide,Preferred
 "HYPOGLYCEMICS, MEGLITINIDES",repaglinide,Preferred
 "HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITORS",FARXIGA (dapagliflozin),Preferred
@@ -1372,12 +1395,6 @@ PEN (insulin lispro)",Non-Preferred
 "HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",SEGLUROMET (ertugliflozin/metformin),Non-Preferred
 "HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",STEGLUJAN (ertugliflozin/sitagliptin),Non-Preferred
 "HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",XIGDUO XR (dapagliflozin/metformin),Non-Preferred
-"HYPOGLYCEMICS, SULFONYLUREAS",glimepiride,Preferred
-"HYPOGLYCEMICS, SULFONYLUREAS",glipizide,Preferred
-"HYPOGLYCEMICS, SULFONYLUREAS",glipizide ER,Preferred
-"HYPOGLYCEMICS, SULFONYLUREAS",glipizide XL,Preferred
-"HYPOGLYCEMICS, SULFONYLUREAS",glyburide,Preferred
-"HYPOGLYCEMICS, SULFONYLUREAS",glyburide micronized,Preferred
 "HYPOGLYCEMICS, THIAZOLIDINEDIONES (TZDs) and TZD Combinations",pioglitazone,Preferred
 "HYPOGLYCEMICS, THIAZOLIDINEDIONES (TZDs) and TZD Combinations",ACTOPLUS MET (pioglitazone/metformin),Non-Preferred
 "HYPOGLYCEMICS, THIAZOLIDINEDIONES (TZDs) and TZD Combinations",pioglitazone/metformin,Preferred
@@ -1429,39 +1446,43 @@ IMMUNOLOGIC THERAPIES FOR ASTHMA,TEZSPIRE (tezepelumab-ekko),Non-Preferred
 "IMMUNOSUPPRESSIVE AGENTS, ORAL",SANDIMMUNE (cyclosporine),Preferred
 "IMMUNOSUPPRESSIVE AGENTS, ORAL",sirolimus,Preferred
 "IMMUNOSUPPRESSIVE AGENTS, ORAL",tacrolimus,Preferred
-IRRITABLE BOWEL SYNDROME/SHORT BOWEL SYNDROME AGENTS/SELECTED AGENTS (continued): IRRITABLE BOWEL SYNDROME – CONSTIPATION,"Chronic Idiopathic Constipation (CIC): Amitiza 24 mcg, 
-LINZESS 72 mcg, LINZESS 145 mcg, MOTEGRITY, 
-TRULANCE 
-Preferred CIC Agents o Documented diagnosis of CIC in the past year AND o No history of GI or bowel obstruction 
-LINZESS 72 mcg o Age 6-17 years AND 
-Documented diagnosis of CIC or pediatric functional constipation in the past year AND 
+,"Chronic Idiopathic Constipation (CIC): 
+Amitiza 24 mcg, LINZESS 72 mcg, LINZESS 
+145 mcg, MOTEGRITY, TRULANCE 
+• Preferred CIC Agents o Documented diagnosis of CIC in the past year AND 
+o No history of GI or bowel obstruction 
+• LINZESS 72 mcg o Age 6-17 years AND 
+Documented diagnosis of CIC or pediatric functional constipation in the past year 
+AND 
 No history of GI or bowel obstruction 
-• Non-Preferred CIC Agents o Documented diagnosis of CIC AND o No history of GI or bowel obstruction AND  
-Have tried 2 preferred CIC agents in the past 6 months 
-OR 
-1 claim with the requested agent in the past 105 days",Preferred
-IRRITABLE BOWEL SYNDROME/SHORT BOWEL SYNDROME AGENTS/SELECTED AGENTS (continued): IRRITABLE BOWEL SYNDROME – CONSTIPATION,"Irritable Bowel Syndrome – Constipation 
+• Non-Preferred CIC Agents o Documented diagnosis of CIC AND o No history of GI or bowel obstruction AND  o Have tried 2 preferred CIC agents in the past 6 months OR 
+o 1 claim with the requested agent in the past 105 days",Preferred
+,"Irritable Bowel Syndrome – Constipation 
 Dominant (IBS-C): AMITIZA 8 mcg, IBSRELA, 
 LINZESS 290 mcg, TRULANCE 
-• Preferred IBS-C Agents o Documented diagnosis of IBS-C in the past year 
-AND 
+• Preferred IBS-C Agents o Documented diagnosis of IBS-C in the past year AND 
 o No history of GI or bowel obstruction 
-• Non-Preferred IBS-C Agents o Documented diagnosis of IBS-C in the past year 
-AND 
-o No history of GI or bowel obstruction AND o Have tried 2 preferred IBS-C agents in the past 
-6 months OR o 1 claim with the requested agent in the past 105 days",Non-Preferred
-IRRITABLE BOWEL SYNDROME/SHORT BOWEL SYNDROME AGENTS/SELECTED AGENTS (continued): IRRITABLE BOWEL SYNDROME – DIARRHEA,"VIBERZI [New starts require clinical review] o Documented diagnosis of IBS – D in the past year and 1 claim for Viberzi in the past 105 days 
+• Non-Preferred IBS-C Agents o Documented diagnosis of IBS-C in the past year AND 
+No history of GI or bowel obstruction AND o Have tried 2 preferred IBS-C agents in the past 6 months OR 
+1 claim with the requested agent in the past 105 days",Non-Preferred
+,"VIBERZI [New starts require clinical review] 
+Documented diagnosis of IBS – D in the past year and 1 claim for Viberzi in the past 105 days       
+o  
 LOTRONEX 
 o 1 claim for LOTRONEX in the past 105 days OR o New starts require clinical review – MANUAL PA 
 • XIFAXAN – (see Antibiotics, GI)",Preferred
-IRRITABLE BOWEL SYNDROME/SHORT BOWEL SYNDROME AGENTS/SELECTED AGENTS (continued): IRRITABLE BOWEL SYNDROME – DIARRHEA,"VIBERZI [New starts require clinical review] o Documented diagnosis of IBS – D in the past year and 1 claim for Viberzi in the past 105 days 
+,"VIBERZI [New starts require clinical review] 
+Documented diagnosis of IBS – D in the past year and 1 claim for Viberzi in the past 105 days       
+o  
 LOTRONEX 
 o 1 claim for LOTRONEX in the past 105 days OR o New starts require clinical review – MANUAL PA 
 • XIFAXAN – (see Antibiotics, GI)",Non-Preferred
-IRRITABLE BOWEL SYNDROME/SHORT BOWEL SYNDROME AGENTS/SELECTED AGENTS (continued): SHORT BOWEL SYNDROME AND SELECTED GI AGENTS,"HIV/AIDS Non-infectious Diarrhea 
-• MYTESI o Documented diagnosis of HIV/AIDS and non-infectious diarrhea in the past year AND  o 1 claim for an antiretroviral in the past 30 days",Preferred
-IRRITABLE BOWEL SYNDROME/SHORT BOWEL SYNDROME AGENTS/SELECTED AGENTS (continued): SHORT BOWEL SYNDROME AND SELECTED GI AGENTS,"HIV/AIDS Non-infectious Diarrhea 
-• MYTESI o Documented diagnosis of HIV/AIDS and non-infectious diarrhea in the past year AND  o 1 claim for an antiretroviral in the past 30 days",Non-Preferred
+,"HIV/AIDS Non-infectious Diarrhea 
+• MYTESI o Documented diagnosis of HIV/AIDS and non-infectious diarrhea in the past year AND  
+o 1 claim for an antiretroviral in the past 30 days",Preferred
+,"Short Bowel Syndrome (SBS) 
+• GATTEX 
+o 1 claim for GATTEX in the past 105 days OR o New starts require clinical review",Non-Preferred
 LEUKOTRIENE MODIFIERS,montelukast,Preferred
 LEUKOTRIENE MODIFIERS,ACCOLATE (zafirlukast),Non-Preferred
 LEUKOTRIENE MODIFIERS,zafirlukast,Preferred
@@ -1475,12 +1496,12 @@ LEUKOTRIENE MODIFIERS,ZYFLO (zileuton),Non-Preferred
 "LIPOTROPICS, OTHER (NON-STATINS): BILE ACID SEQUESTRANTS",colesevelam,Non-Preferred
 "LIPOTROPICS, OTHER (NON-STATINS): BILE ACID SEQUESTRANTS",cholestyramine light,Preferred
 "LIPOTROPICS, OTHER (NON-STATINS): BILE ACID SEQUESTRANTS",COLESTID (colestipol),Non-Preferred
-"LIPOTROPICS, OTHER (NON-STATINS): BILE ACID SEQUESTRANTS",colestipol tablet,Preferred
-"LIPOTROPICS, OTHER (NON-STATINS): BILE ACID SEQUESTRANTS",colestipol packet,Non-Preferred
-"LIPOTROPICS, OTHER (NON-STATINS): BILE ACID SEQUESTRANTS",PREVALITE (cholestyramine),Non-Preferred
-"LIPOTROPICS, OTHER (NON-STATINS): BILE ACID SEQUESTRANTS",QUESTRAN (cholestyramine),Non-Preferred
-"LIPOTROPICS, OTHER (NON-STATINS): BILE ACID SEQUESTRANTS",QUESTRAN LIGHT (cholestyramine),Non-Preferred
-"LIPOTROPICS, OTHER (NON-STATINS): BILE ACID SEQUESTRANTS",WELCHOL (colesevelam),Non-Preferred
+"LIPOTROPICS, OTHER (NON-STATINS)",colestipol tablet,Preferred
+"LIPOTROPICS, OTHER (NON-STATINS)",colestipol packet,Non-Preferred
+"LIPOTROPICS, OTHER (NON-STATINS)",PREVALITE (cholestyramine),Non-Preferred
+"LIPOTROPICS, OTHER (NON-STATINS)",QUESTRAN (cholestyramine),Non-Preferred
+"LIPOTROPICS, OTHER (NON-STATINS)",QUESTRAN LIGHT (cholestyramine),Non-Preferred
+"LIPOTROPICS, OTHER (NON-STATINS)",WELCHOL (colesevelam),Non-Preferred
 "LIPOTROPICS, OTHER (NON-STATINS): CHOLESTEROL ABSORPTION INHIBITORS",ezetimibe,Preferred
 "LIPOTROPICS, OTHER (NON-STATINS): CHOLESTEROL ABSORPTION INHIBITORS",ZETIA (ezetimibe),Non-Preferred
 "LIPOTROPICS, OTHER (NON-STATINS): FIBRIC ACID DERIVATIVES",fenofibrate,Preferred
@@ -1493,13 +1514,13 @@ LEUKOTRIENE MODIFIERS,ZYFLO (zileuton),Non-Preferred
 "LIPOTROPICS, OTHER (NON-STATINS): FIBRIC ACID DERIVATIVES",TRICOR (fenofibrate),Non-Preferred
 "LIPOTROPICS, OTHER (NON-STATINS): FIBRIC ACID DERIVATIVES",TRILIPIX (fenofibric acid),Non-Preferred
 "LIPOTROPICS, OTHER (NON-STATINS): MTP INHIBITOR",JUXTAPID (lomitapide),Non-Preferred
-"LIPOTROPICS, OTHER (NON-STATINS): NIACIN",niacin ER,Preferred
-"LIPOTROPICS, OTHER (NON-STATINS): OMEGA-3 FATTY ACIDS",omega-3 acid ethyl esters,Preferred
-"LIPOTROPICS, OTHER (NON-STATINS): OMEGA-3 FATTY ACIDS",icosapent ethyl,Non-Preferred
-"LIPOTROPICS, OTHER (NON-STATINS): OMEGA-3 FATTY ACIDS",LOVAZA (omega-3 acid ethyl esters),Non-Preferred
-"LIPOTROPICS, OTHER (NON-STATINS): PCSK-9 INHIBITORS",REPATHA (evolocumab),Preferred
-"LIPOTROPICS, OTHER (NON-STATINS): PCSK-9 INHIBITORS",LEQVIO (inclisiran),Non-Preferred
-"LIPOTROPICS, OTHER (NON-STATINS): PCSK-9 INHIBITORS",PRALUENT (alirocumab),Non-Preferred
+"LIPOTROPICS, OTHER (NON-STATINS) (continued): NIACIN",niacin ER,Preferred
+"LIPOTROPICS, OTHER (NON-STATINS) (continued): OMEGA-3 FATTY ACIDS",omega-3 acid ethyl esters,Preferred
+"LIPOTROPICS, OTHER (NON-STATINS) (continued): OMEGA-3 FATTY ACIDS",icosapent ethyl,Non-Preferred
+"LIPOTROPICS, OTHER (NON-STATINS) (continued): OMEGA-3 FATTY ACIDS",LOVAZA (omega-3 acid ethyl esters),Non-Preferred
+"LIPOTROPICS, OTHER (NON-STATINS) (continued): PCSK-9 INHIBITORS",REPATHA (evolocumab),Preferred
+"LIPOTROPICS, OTHER (NON-STATINS) (continued): PCSK-9 INHIBITORS",LEQVIO (inclisiran),Non-Preferred
+"LIPOTROPICS, OTHER (NON-STATINS) (continued): PCSK-9 INHIBITORS",PRALUENT (alirocumab),Non-Preferred
 "LIPOTROPICS, STATINS : STATINS",atorvastatin,Preferred
 "LIPOTROPICS, STATINS : STATINS",ALTOPREV (lovastatin),Non-Preferred
 "LIPOTROPICS, STATINS : STATINS",lovastatin,Preferred
@@ -1526,7 +1547,6 @@ MISCELLANEOUS BRAND/GENERIC,ALLERGEN EXTRACT IMMUNOTHERAPY,Preferred
 MISCELLANEOUS BRAND/GENERIC,ALLERGEN EXTRACT IMMUNOTHERAPY,Non-Preferred
 MISCELLANEOUS BRAND/GENERIC,GRASTEK,Non-Preferred
 MISCELLANEOUS BRAND/GENERIC,ORALAIR,Non-Preferred
-MISCELLANEOUS BRAND/GENERIC,PALFORZIA,Non-Preferred
 MISCELLANEOUS BRAND/GENERIC,RAGWITEK,Non-Preferred
 MISCELLANEOUS BRAND/GENERIC,EPINEPHRINE,Preferred
 MISCELLANEOUS BRAND/GENERIC,EPINEPHRINE,Non-Preferred
@@ -1535,23 +1555,21 @@ MISCELLANEOUS BRAND/GENERIC,AUVI-Q (epinephrine),Non-Preferred
 MISCELLANEOUS BRAND/GENERIC,epinephrine (all other manufacturers),Non-Preferred
 MISCELLANEOUS BRAND/GENERIC,EPIPEN (epinephrine),Non-Preferred
 MISCELLANEOUS BRAND/GENERIC,EPIPEN JR (epinephrine),Non-Preferred
-MISCELLANEOUS BRAND/GENERIC,NEFFY (epinephrine)NR,Non-Preferred
-MISCELLANEOUS BRAND/GENERIC,MISCELLANEOUS,Preferred
-MISCELLANEOUS BRAND/GENERIC,MISCELLANEOUS,Non-Preferred
-MISCELLANEOUS BRAND/GENERIC,alprazolam,Preferred
-MISCELLANEOUS BRAND/GENERIC,alprazolam ER,Non-Preferred
-MISCELLANEOUS BRAND/GENERIC,hydroxyzine HCL,Preferred
-MISCELLANEOUS BRAND/GENERIC,CAMZYOS (mavacamten),Non-Preferred
-MISCELLANEOUS BRAND/GENERIC,hydroxyzine pamoate,Preferred
-MISCELLANEOUS BRAND/GENERIC,CRENESSITY (crinecerfont)NR,Non-Preferred
-MISCELLANEOUS BRAND/GENERIC,megestrol,Preferred
-MISCELLANEOUS BRAND/GENERIC,EVRYSDI (risdiplam),Non-Preferred
-MISCELLANEOUS BRAND/GENERIC,REVLIMID (lenalidomide),Preferred
-MISCELLANEOUS BRAND/GENERIC,KORLYM (mifepristone),Non-Preferred
-MISCELLANEOUS BRAND/GENERIC,lenalidomide,Non-Preferred
-MISCELLANEOUS BRAND/GENERIC,VERQUVO (vericiguat),Non-Preferred
-MISCELLANEOUS BRAND/GENERIC,VISTARIL (hydroxyzine pamoate),Non-Preferred
-MISCELLANEOUS BRAND/GENERIC,"XANAX, XANAX XR (alprazolam)",Non-Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),MISCELLANEOUS,Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),MISCELLANEOUS,Non-Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),alprazolam,Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),alprazolam ER,Non-Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),hydroxyzine HCL,Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),CAMZYOS (mavacamten),Non-Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),hydroxyzine pamoate,Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),megestrol,Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),EVRYSDI (risdiplam),Non-Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),REVLIMID (lenalidomide),Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),KORLYM (mifepristone),Non-Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),lenalidomide,Non-Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),VERQUVO (vericiguat),Non-Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),VISTARIL (hydroxyzine pamoate),Non-Preferred
+MISCELLANEOUS BRAND/GENERIC (continued),"XANAX, XANAX XR (alprazolam)",Non-Preferred
 MISCELLANEOUS BRAND/GENERIC (continued): SUBLINGUAL NITROGLYCERIN,nitroglycerin,Preferred
 MISCELLANEOUS BRAND/GENERIC (continued): SUBLINGUAL NITROGLYCERIN,NITROLINGUAL (nitroglycerin),Preferred
 MISCELLANEOUS BRAND/GENERIC (continued): SUBLINGUAL NITROGLYCERIN,NITROSTAT (nitroglycerin),Preferred
@@ -1582,19 +1600,22 @@ MULTIPLE SCLEROSIS AGENTS,TYSABRI (natalizumab),Preferred
 MULTIPLE SCLEROSIS AGENTS,GLATOPA (glatiramer),Non-Preferred
 MULTIPLE SCLEROSIS AGENTS,KESIMPTA PEN (ofatumumab),Non-Preferred
 MULTIPLE SCLEROSIS AGENTS,MAVENCLAD (cladribine),Non-Preferred
-MULTIPLE SCLEROSIS AGENTS,MAYZENT (siponimod),Non-Preferred
-MULTIPLE SCLEROSIS AGENTS,OCREVUS (ocrelizumab),Non-Preferred
-MULTIPLE SCLEROSIS AGENTS,PLEGRIDY (peginterferon beta-1a),Non-Preferred
-MULTIPLE SCLEROSIS AGENTS,PONVORY (ponesimod),Non-Preferred
-MULTIPLE SCLEROSIS AGENTS,TASCENSO ODT (fingolimod),Non-Preferred
-MULTIPLE SCLEROSIS AGENTS,TECFIDERA (dimethyl fumarate),Non-Preferred
-MULTIPLE SCLEROSIS AGENTS,VUMERITY (diroximel fumarate),Non-Preferred
-MULTIPLE SCLEROSIS AGENTS,ZEPOSIA (ozanimod),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS (continued),MAYZENT (siponimod),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS (continued),OCREVUS (ocrelizumab),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS (continued),"OCREVUS ZUNOVO 
+(ocrelizumab/hyaluronidase-ocsq)",Non-Preferred
+MULTIPLE SCLEROSIS AGENTS (continued),PLEGRIDY (peginterferon beta-1a),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS (continued),PONVORY (ponesimod),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS (continued),TASCENSO ODT (fingolimod),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS (continued),TECFIDERA (dimethyl fumarate),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS (continued),VUMERITY (diroximel fumarate),Non-Preferred
+MULTIPLE SCLEROSIS AGENTS (continued),ZEPOSIA (ozanimod),Non-Preferred
 MUSCULAR DYSTROPHY AGENTS,EMFLAZA (deflazacort),Preferred
 MUSCULAR DYSTROPHY AGENTS,AGAMREE (vamorolone),Non-Preferred
 MUSCULAR DYSTROPHY AGENTS,AMONDYS-45 (casimersen),Non-Preferred
 MUSCULAR DYSTROPHY AGENTS,deflazacort,Non-Preferred
-MUSCULAR DYSTROPHY AGENTS,ELEVIDYS (delandistrogene moxeparvovec-rokl),Non-Preferred
+MUSCULAR DYSTROPHY AGENTS,DUVYZAT (givinostat),Non-Preferred
+MUSCULAR DYSTROPHY AGENTS,ELEVIDYS (delandistrogene moxeparvovecrokl),Non-Preferred
 MUSCULAR DYSTROPHY AGENTS,EXONDYS-51 (eteplirsen),Non-Preferred
 MUSCULAR DYSTROPHY AGENTS,VILTEPSO (viltolarsen),Non-Preferred
 MUSCULAR DYSTROPHY AGENTS,VYONDYS-53 (golodirsen),Non-Preferred
@@ -1607,6 +1628,7 @@ NSAIDS: NON-SELECTIVE,DAYPRO (oxaprozin),Non-Preferred
 NSAIDS: NON-SELECTIVE,diclofenac sodium ER,Preferred
 NSAIDS: NON-SELECTIVE,diclofenac potassium,Non-Preferred
 NSAIDS: NON-SELECTIVE,EC-naproxen DR 500 mg tablet,Preferred
+NSAIDS: NON-SELECTIVE,DOLOBID (diflunisal),Non-Preferred
 NSAIDS: NON-SELECTIVE,etodolac tablet,Preferred
 NSAIDS: NON-SELECTIVE,"etodolac capsule, etodolac ER",Non-Preferred
 NSAIDS: NON-SELECTIVE,flurbiprofen,Preferred
@@ -1617,34 +1639,36 @@ NSAIDS: NON-SELECTIVE,indomethacin capsule,Preferred
 NSAIDS: NON-SELECTIVE,"indomethacin ER, indomethacin suppository",Non-Preferred
 NSAIDS: NON-SELECTIVE,ketoprofen,Preferred
 NSAIDS: NON-SELECTIVE,ketoprofen,Non-Preferred
-NSAIDS: NON-SELECTIVE,ketorolac,Preferred
-NSAIDS: NON-SELECTIVE,kiprofen,Non-Preferred
-NSAIDS: NON-SELECTIVE,nabumetone,Preferred
-NSAIDS: NON-SELECTIVE,LOFENA (diclofenac potassium),Non-Preferred
-NSAIDS: NON-SELECTIVE,naproxen,Preferred
-NSAIDS: NON-SELECTIVE,meclofenamate,Non-Preferred
-NSAIDS: NON-SELECTIVE,piroxicam,Preferred
-NSAIDS: NON-SELECTIVE,mefenamic acid,Non-Preferred
-NSAIDS: NON-SELECTIVE,sulindac,Preferred
-NSAIDS: NON-SELECTIVE,NALFON (fenoprofen),Non-Preferred
-NSAIDS: NON-SELECTIVE,NAPRELAN (naproxen),Non-Preferred
-NSAIDS: NON-SELECTIVE,NAPROSYN (naproxen),Non-Preferred
-NSAIDS: NON-SELECTIVE,"naproxen, naproxen CR, naproxen ER",Non-Preferred
-NSAIDS: NON-SELECTIVE,oxaprozin,Non-Preferred
-NSAIDS: NON-SELECTIVE,RELAFEN DS (nabumetone),Non-Preferred
-NSAIDS: NON-SELECTIVE,TOLECTIN 600 (tolmetin),Non-Preferred
-NSAIDS: NON-SELECTIVE,tolmetin,Non-Preferred
-NSAIDS: NSAID/GI PROTECTANT COMBINATIONS,"ARTHROTEC 50, 75 (diclofenac/misoprostol)",Non-Preferred
-NSAIDS: NSAID/GI PROTECTANT COMBINATIONS,diclofenac/misoprostol,Non-Preferred
-NSAIDS: NSAID/GI PROTECTANT COMBINATIONS,ibuprofen/famotidine,Non-Preferred
-NSAIDS: NSAID/GI PROTECTANT COMBINATIONS,naproxen/esomeprazole,Non-Preferred
-NSAIDS: NSAID/GI PROTECTANT COMBINATIONS,VIMOVO (naproxen/esomeprazole),Non-Preferred
-OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,buprenorphine/naloxone SL tablet,Preferred
+NSAIDS (continued),ketorolac,Preferred
+NSAIDS (continued),kiprofen,Non-Preferred
+NSAIDS (continued),nabumetone,Preferred
+NSAIDS (continued),LOFENA (diclofenac potassium),Non-Preferred
+NSAIDS (continued),"naproxen 250 mg, 500 mg",Preferred
+NSAIDS (continued),meclofenamate,Non-Preferred
+NSAIDS (continued),piroxicam,Preferred
+NSAIDS (continued),mefenamic acid,Non-Preferred
+NSAIDS (continued),sulindac,Preferred
+NSAIDS (continued),NALFON (fenoprofen),Non-Preferred
+NSAIDS (continued),NAPRELAN (naproxen),Non-Preferred
+NSAIDS (continued),NAPROSYN 375 mg (naproxen),Non-Preferred
+NSAIDS (continued),"naproxen 375 mg, naproxen CR 375 mg, naproxen ER 500 mg",Non-Preferred
+NSAIDS (continued),oxaprozin,Non-Preferred
+NSAIDS (continued),RELAFEN DS (nabumetone),Non-Preferred
+NSAIDS (continued),TOLECTIN 600 mg (tolmetin),Non-Preferred
+NSAIDS (continued),tolmetin,Non-Preferred
+NSAIDS (continued): NSAID/GI PROTECTANT COMBINATIONS,"ARTHROTEC 50 mg, 75 mg 
+(diclofenac/misoprostol)",Non-Preferred
+NSAIDS (continued): NSAID/GI PROTECTANT COMBINATIONS,diclofenac/misoprostol,Non-Preferred
+NSAIDS (continued): NSAID/GI PROTECTANT COMBINATIONS,ibuprofen/famotidine,Non-Preferred
+NSAIDS (continued): NSAID/GI PROTECTANT COMBINATIONS,naproxen/esomeprazole,Non-Preferred
+NSAIDS (continued): NSAID/GI PROTECTANT COMBINATIONS,VIMOVO (naproxen/esomeprazole),Non-Preferred
+OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,buprenorphine/naloxone SL tablet DUR+,Preferred
 OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,BRIXADI (buprenorphine),Non-Preferred
 OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,naltrexone,Preferred
-OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,buprenorphine,Non-Preferred
-OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,SUBOXONE (buprenorphine/naloxone),Preferred
-OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,buprenorphine/naloxone film,Non-Preferred
+OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,buprenorphine DUR+,Non-Preferred
+OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,SUBOXONE (buprenorphine/naloxone) DUR+,Preferred
+OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,buprenorphine/naloxone film DUR+,Non-Preferred
+OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,lofexidine,Non-Preferred
 OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,LUCEMYRA (lofexidine),Non-Preferred
 OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,SUBLOCADE (buprenorphine),Non-Preferred
 OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,VIVITROL (naltrexone),Non-Preferred
@@ -1653,12 +1677,13 @@ OPIATE DEPENDENCE TREATMENTS: TREATMENT,KLOXXADO (naloxone),Preferred
 OPIATE DEPENDENCE TREATMENTS: TREATMENT,LIFEMS NALOXONE (naloxone convenience kit),Non-Preferred
 OPIATE DEPENDENCE TREATMENTS: TREATMENT,naloxone,Preferred
 OPIATE DEPENDENCE TREATMENTS: TREATMENT,NARCAN (naloxone),Preferred
-OPIATE DEPENDENCE TREATMENTS: TREATMENT,OPVEE (nalmefene),Preferred
-OPIATE DEPENDENCE TREATMENTS: TREATMENT,REXTOVY (naloxone),Preferred
-OPIATE DEPENDENCE TREATMENTS: TREATMENT,ZIMHI (naloxone),Preferred
+OPIATE DEPENDENCE TREATMENTS (continued),OPVEE (nalmefene),Preferred
+OPIATE DEPENDENCE TREATMENTS (continued),REXTOVY (naloxone),Preferred
+OPIATE DEPENDENCE TREATMENTS (continued),ZIMHI (naloxone),Preferred
 OTIC ANTIBIOTICS,CIPRO HC (ciprofloxacin/hydrocortisone),Preferred
 OTIC ANTIBIOTICS,ciprofloxacin,Non-Preferred
-OTIC ANTIBIOTICS,CORTISPORIN-TC (neomycin/colistin/hydrocortisone),Preferred
+OTIC ANTIBIOTICS,"CORTISPORIN-TC 
+(neomycin/colistin/hydrocortisone)",Preferred
 OTIC ANTIBIOTICS,ciprofloxacin/fluocinolone,Non-Preferred
 OTIC ANTIBIOTICS,fluocinolone,Preferred
 OTIC ANTIBIOTICS,ciprofloxacin/dexamethasone,Non-Preferred
@@ -1680,43 +1705,43 @@ PARATHYROID AGENTS,ROCALTROL (calcitriol),Non-Preferred
 PARATHYROID AGENTS,paricalcitol,Preferred
 PARATHYROID AGENTS,SENSIPAR (cinacalcet),Non-Preferred
 PARATHYROID AGENTS,ZEMPLAR (paricalcitol),Preferred
+PARATHYROID AGENTS,YORVIPATH (palopegteriparatide),Non-Preferred
 PRENATAL VITAMINS,All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
 PRENATAL VITAMINS,All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
 PRENATAL VITAMINS,All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
 PRENATAL VITAMINS,All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
 PRENATAL VITAMINS,All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
 PRENATAL VITAMINS,All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
-PRENATAL VITAMINS,All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
-PRENATAL VITAMINS,All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
-PRENATAL VITAMINS,All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
-PRENATAL VITAMINS,All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
-PRENATAL VITAMINS,All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
-PRENATAL VITAMINS,All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
-PRENATAL VITAMINS,All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
-PRENATAL VITAMINS,All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
+PRENATAL VITAMINS (continued),All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
+PRENATAL VITAMINS (continued),All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
+PRENATAL VITAMINS (continued),All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
+PRENATAL VITAMINS (continued),All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
+PRENATAL VITAMINS (continued),All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
+PRENATAL VITAMINS (continued),All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
+PRENATAL VITAMINS (continued),All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
+PRENATAL VITAMINS (continued),All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
+PRENATAL VITAMINS (continued),All prenatal vitamins are non-preferred except for those specifically indicated as preferred.,Non-Preferred
 PSEUDOBULBAR AFFECT AGENTS,NUEDEXTA (dextromethorphan/quinidine),Non-Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: ACTIVIN SIGNALING INHIBITORS,WINREVAIR (sotatercept-csrk),Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: COMBINATION AGENTS,OPSYNVI (macitentan/tadalafil),Non-Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,ambrisentan,Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,OPSUMIT (macitentan),Non-Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,bosentan,Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,TRACLEER (bosentan),Non-Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,LETAIRIS (ambrisentan),Preferred
 PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,TRYVIO (aprocitentan),Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,sildenafil (generic REVATIO) tablet,Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,ADCIRCA (tadalafil),Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,tadalafil,Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,ALYQ (tadalafil),Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,LIQREV (sildenafil),Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,REVATIO (sildenafil),Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,sildenafil (generic REVATIO) suspension,Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PDE5 INHIBITORS,TADLIQ (tadalafil),Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,ORENITRAM ER (treprostinil),Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,ORENITRAM TITRATION PAK (treprostinil),Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,TYVASO (treprostinil),Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: PROSTACYCLINS,VENTAVIS (iloprost),Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: SELECTIVE PROSTACYCLINE RECEPTOR AGONISTS,UPTRAVI (selexipag),Non-Preferred
-PULMONARY ANTIHYPERTENSIVE AGENTS: SOLUABLE GUANYLATE CYCLASE STIMULATORS,ADEMPAS (riociguat),Non-Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PDE5 INHIBITORS,"sildenafil (generic REVATIO) tablet, suspension",Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PDE5 INHIBITORS,ADCIRCA (tadalafil),Non-Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PDE5 INHIBITORS,tadalafil,Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PDE5 INHIBITORS,ALYQ (tadalafil),Non-Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PDE5 INHIBITORS,LIQREV (sildenafil),Non-Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PDE5 INHIBITORS,REVATIO (sildenafil),Non-Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PDE5 INHIBITORS,TADLIQ (tadalafil),Non-Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PROSTACYCLINS,ORENITRAM ER (treprostinil),Non-Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PROSTACYCLINS,ORENITRAM TITRATION PAK (treprostinil),Non-Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PROSTACYCLINS,TYVASO (treprostinil),Non-Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PROSTACYCLINS,VENTAVIS (iloprost),Non-Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): SELECTIVE PROSTACYCLINE RECEPTOR AGONISTS,UPTRAVI (selexipag),Non-Preferred
+PULMONARY ANTIHYPERTENSIVE AGENTS (continued): SOLUABLE GUANYLATE CYCLASE STIMULATORS,ADEMPAS (riociguat),Non-Preferred
 ROSACEA TREATMENTS,metronidazole,Preferred
 ROSACEA TREATMENTS,AVAR (sulfacetamide sodium/sulfur),Non-Preferred
 ROSACEA TREATMENTS,AVAR LS (sulfacetamide sodium/sulfur),Non-Preferred
@@ -1750,67 +1775,67 @@ SEDATIVE HYPNOTIC AGENTS: BENZODIAZEPINES,quazepam,Non-Preferred
 SEDATIVE HYPNOTIC AGENTS: BENZODIAZEPINES,RESTORIL (temazepam),Non-Preferred
 SEDATIVE HYPNOTIC AGENTS: BENZODIAZEPINES,"temazepam 7.5 mg, 22.5 mg capsule",Non-Preferred
 SEDATIVE HYPNOTIC AGENTS: BENZODIAZEPINES,triazolam,Non-Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,eszopiclone,Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,AMBIEN (zolpidem),Non-Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,ramelteon,Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,AMBIEN CR (zolpidem),Non-Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,zaleplon,Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,BELSOMRA (suvorexant),Non-Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,zolpidem tablet,Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,DAYVIGO (lemborexant),Non-Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,doxepin,Non-Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,EDULAR (zolpidem),Non-Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,HETLIOZ LQ (tasimelteon),Non-Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,LUNESTA (eszopiclone),Non-Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,QUVIVIQ (daridorexant),Non-Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,ROZEREM (ramelteon),Non-Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,tasimelteon,Non-Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,zolpidem capsule,Non-Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,zolpidem sublingual tablet,Non-Preferred
-SEDATIVE HYPNOTIC AGENTS: OTHERS,zolpidem ER,Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,eszopiclone,Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,AMBIEN (zolpidem),Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,ramelteon,Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,AMBIEN CR (zolpidem),Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,zaleplon,Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,BELSOMRA (suvorexant),Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,zolpidem tablet,Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,DAYVIGO (lemborexant),Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,doxepin,Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,EDULAR (zolpidem),Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,HETLIOZ LQ (tasimelteon),Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,LUNESTA (eszopiclone),Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,QUVIVIQ (daridorexant),Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,ROZEREM (ramelteon),Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,tasimelteon,Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,zolpidem capsule,Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,zolpidem sublingual tablet,Non-Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,zolpidem ER,Non-Preferred
 SELECT CONTRACEPTIVE PRODUCTS: INJECTABLE CONTRACEPTIVES,medroxyprogesterone,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: INJECTABLE CONTRACEPTIVES,DEPO-PROVERA (medroxyprogesterone),Non-Preferred
 SELECT CONTRACEPTIVE PRODUCTS: INTRAVAGINAL CONTRACEPTIVES,ENILLORING (etonogestrel/ethinyl estradiol),Preferred
 SELECT CONTRACEPTIVE PRODUCTS: INTRAVAGINAL CONTRACEPTIVES,PHEXXI (lactic acid/citric acid/potassium bitartrate),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,AMETHIA (levonorgestrel/ethinyl estradiol),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,AMETHYST (levonorgestrel/ethinyl estradiol),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,BALCOLTRA (levonorgestrel/ethinyl estradiol),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,BEYAZ (drospirenone/ethinyl estradiol/levomefolate),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,CAMRESE (levonorgestrel/ethinyl estradiol),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,CAMRESE LO (levonorgestrel/ethinyl estradiol),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,JOLESSA (levonorgestrel/ethinyl estradiol),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,LO LOESTRIN FE (norethindrone/ethinyl estradiol/iron),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,LOESTRIN (norethindrone/ethinyl estradiol),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,LOESTRIN FE (norethindrone/ethinyl estradiol/iron),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,MINZOYA (levonorgestrel/ethinyl estradiol/iron),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,NATAZIA (estradiol valerate/dienogest),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,NEXTSTELLIS (drospirenone/estetrol),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,OCELLA (ethinyl estradiol/drospirenone),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,SAFYRAL (drospirenone/ethinyl estradiol/levomefolate),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,SIMPESSE (levonorgestrel/ethinyl estradiol),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,TAYTULLA (norethindrone/ethinyl estradiol/iron),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,TYDEMY (drospirenone/ethinyl estradiol/levomefolate),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,YASMIN (ethinyl estradiol/drospirenone),Non-Preferred
-SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,All oral contraceptives are preferred except for those specifically indicated as non-preferred.,Preferred
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,YAZ (ethinyl estradiol/drospirenone),Non-Preferred
 SELECT CONTRACEPTIVE PRODUCTS: TRANSDERMAL CONTRACEPTIVES,XULANE (norelgestromin/ethinyl estradiol),Preferred
 SELECT CONTRACEPTIVE PRODUCTS: TRANSDERMAL CONTRACEPTIVES,norelgestromin/ethinyl estradiol,Non-Preferred
@@ -1825,13 +1850,39 @@ SICKLE CELL AGENTS,HYDREA (hydroxyurea),Non-Preferred
 SICKLE CELL AGENTS,l-glutamine,Non-Preferred
 SICKLE CELL AGENTS,LYFGENIA (lovotibeglogene autotemcel),Non-Preferred
 SICKLE CELL AGENTS,SIKLOS (hydroxyurea),Non-Preferred
-,"baclofen 5 mg, 10 mg, 20 mg tablet",Preferred
-,chlorzoxazone,Preferred
-,"cyclobenzaprine 5 mg, 10 mg tablet",Preferred
-,methocarbamol,Preferred
-,tizanidine tablet,Preferred
+SKELETAL MUSCLE RELAXANTS,"baclofen 5 mg, 10 mg, 20 mg tablet",Preferred
+SKELETAL MUSCLE RELAXANTS,AMRIX (cyclobenzaprine),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,chlorzoxazone,Preferred
+SKELETAL MUSCLE RELAXANTS,baclofen 15 mg tablet,Non-Preferred
+SKELETAL MUSCLE RELAXANTS,"cyclobenzaprine 5 mg, 10 mg tablet",Preferred
+SKELETAL MUSCLE RELAXANTS,baclofen suspension,Non-Preferred
+SKELETAL MUSCLE RELAXANTS,methocarbamol,Preferred
+SKELETAL MUSCLE RELAXANTS,carisoprodol,Non-Preferred
+SKELETAL MUSCLE RELAXANTS,tizanidine tablet,Preferred
+SKELETAL MUSCLE RELAXANTS,carisoprodol/aspirin,Non-Preferred
+SKELETAL MUSCLE RELAXANTS,cyclobenzaprine 7.5 mg tablet,Non-Preferred
+SKELETAL MUSCLE RELAXANTS,cyclobenzaprine ER,Non-Preferred
+SKELETAL MUSCLE RELAXANTS,DANTRIUM (dantrolene),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,dantrolene,Non-Preferred
+SKELETAL MUSCLE RELAXANTS,FEXMID (cyclobenzaprine),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,FLEQSUVY (baclofen),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,LORZONE (chlorzoxazone),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,LYVISPAH (baclofen),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,metaxalone,Non-Preferred
+SKELETAL MUSCLE RELAXANTS,NORGESIC (orphenadrine/aspirin/caffeine),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,NORGESIC FORTE (orphenadrine/aspirin/caffeine),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,orphenadrine,Non-Preferred
+SKELETAL MUSCLE RELAXANTS,orphenadrine/aspirin/caffeine,Non-Preferred
+SKELETAL MUSCLE RELAXANTS,"ORPHENGESIC FORTE 
+(orphenadrine/aspirin/caffeine)",Non-Preferred
+SKELETAL MUSCLE RELAXANTS,SOMA (carisoprodol),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,TANLOR (methocarbamol),Non-Preferred
+SKELETAL MUSCLE RELAXANTS,tizanidine capsule,Non-Preferred
+SKELETAL MUSCLE RELAXANTS,ZANAFLEX (tizanidine),Non-Preferred
 ,nicotine gum OTC,Preferred
+,NICOTROL INHALER CARTRIDGE,Non-Preferred
 ,nicotine lozenge OTC,Preferred
+,NICOTROL NASAL SPRAY,Non-Preferred
 ,nicotine patch OTC,Preferred
 ,bupropion SR,Preferred
 ,CHANTIX (varenicline),Preferred
@@ -1866,7 +1917,7 @@ STEROIDS (TOPICAL): HIGH POTENCY,desoximetasone,Non-Preferred
 STEROIDS (TOPICAL): HIGH POTENCY,fluocinolone,Preferred
 STEROIDS (TOPICAL): HIGH POTENCY,diflorasone,Non-Preferred
 STEROIDS (TOPICAL): HIGH POTENCY,fluocinonide,Preferred
-STEROIDS (TOPICAL): HIGH POTENCY,halcinonide,Non-Preferred
+STEROIDS (TOPICAL): HIGH POTENCY,Halcinonide,Non-Preferred
 STEROIDS (TOPICAL): HIGH POTENCY,fluocinonide-E,Preferred
 STEROIDS (TOPICAL): HIGH POTENCY,HALOG (halcinonide),Non-Preferred
 STEROIDS (TOPICAL): HIGH POTENCY,"triamcinolone cream, ointment, lotion",Preferred
@@ -1874,105 +1925,128 @@ STEROIDS (TOPICAL): HIGH POTENCY,KENALOG (triamcinolone),Non-Preferred
 STEROIDS (TOPICAL): HIGH POTENCY,TOPICORT (desoximetasone),Non-Preferred
 STEROIDS (TOPICAL): HIGH POTENCY,triamcinolone spray,Non-Preferred
 STEROIDS (TOPICAL): HIGH POTENCY,VANOS (fluocinonide),Non-Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,"clobetasol cream, foam, gel, ointment, shampoo, solution",Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,APEXICON E (diflorasone),Non-Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,clobetasol-E,Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,BRYHALI (halobetasol),Non-Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,halobetasol,Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,clobetasol emulsion,Non-Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,CLOBEX (clobetasol),Non-Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,CLODAN (clobetasol),Non-Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,DIPROLENE (betamethasone),Non-Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,halobetasol,Non-Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,IMPEKLO (clobetasol),Non-Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,LEXETTE (halobetasol),Non-Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,OLUX (clobetasol),Non-Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,TEMOVATE (clobetasol),Non-Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,TOVET (clobetasol),Non-Preferred
-STEROIDS (TOPICAL): VERY HIGH POTENCY,ULTRAVATE (halobetasol),Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,"clobetasol cream, foam, gel, ointment, shampoo, solution",Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,APEXICON E (diflorasone),Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,clobetasol-E,Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,BRYHALI (halobetasol),Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,halobetasol,Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,clobetasol emulsion,Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,clobetasol 0.025% cream,Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,CLOBEX (clobetasol),Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,CLODAN (clobetasol),Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,DIPROLENE (betamethasone),Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,halobetasol,Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,IMPEKLO (clobetasol),Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,IMPOYZ (clobetasol) 0.025% cream,Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,LEXETTE (halobetasol),Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,OLUX (clobetasol),Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,TEMOVATE (clobetasol),Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,TOVET (clobetasol),Non-Preferred
+STEROIDS (TOPICAL) (continued): VERY HIGH POTENCY,ULTRAVATE (halobetasol),Non-Preferred
 STIMULANTS AND RELATED AGENTS : SHORT-ACTING,dexmethylphenidate,Preferred
-STIMULANTS AND RELATED AGENTS : SHORT-ACTING,ADDERALL (dextroamphetamine/amphetamine),Non-Preferred
+STIMULANTS AND RELATED AGENTS : SHORT-ACTING,"ADDERALL 
+(dextroamphetamine/amphetamine)",Non-Preferred
 STIMULANTS AND RELATED AGENTS : SHORT-ACTING,dextroamphetamine,Preferred
 STIMULANTS AND RELATED AGENTS : SHORT-ACTING,amphetamine,Non-Preferred
 STIMULANTS AND RELATED AGENTS : SHORT-ACTING,dextroamphetamine/amphetamine,Preferred
 STIMULANTS AND RELATED AGENTS : SHORT-ACTING,EVEKEO (amphetamine),Non-Preferred
-STIMULANTS AND RELATED AGENTS : SHORT-ACTING,methylphenidate,Preferred
+STIMULANTS AND RELATED AGENTS : SHORT-ACTING,Methylphenidate tablet,Preferred
 STIMULANTS AND RELATED AGENTS : SHORT-ACTING,EVEKEO ODT (amphetamine),Non-Preferred
 STIMULANTS AND RELATED AGENTS : SHORT-ACTING,PROCENTRA (dextroamphetamine),Preferred
 STIMULANTS AND RELATED AGENTS : SHORT-ACTING,FOCALIN (dexmethylphenidate),Non-Preferred
 STIMULANTS AND RELATED AGENTS : SHORT-ACTING,methamphetamine,Non-Preferred
 STIMULANTS AND RELATED AGENTS : SHORT-ACTING,METHYLN (methylphenidate),Non-Preferred
-STIMULANTS AND RELATED AGENTS : SHORT-ACTING,methylphenidate,Non-Preferred
+STIMULANTS AND RELATED AGENTS : SHORT-ACTING,Methylphenidate chewable tablet,Non-Preferred
 STIMULANTS AND RELATED AGENTS : SHORT-ACTING,RITALIN (methylphenidate),Non-Preferred
 STIMULANTS AND RELATED AGENTS : SHORT-ACTING,ZENZEDI (dextroamphetamine),Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,ADDERALL XR (dextroamphetamine/amphetamine),Preferred
+STIMULANTS AND RELATED AGENTS : LONG-ACTING,"ADDERALL XR 
+(dextroamphetamine/amphetamine)",Preferred
 STIMULANTS AND RELATED AGENTS : LONG-ACTING,ADZENYS XR ODT (amphetamine),Non-Preferred
 STIMULANTS AND RELATED AGENTS : LONG-ACTING,CONCERTA (methylphenidate),Preferred
 STIMULANTS AND RELATED AGENTS : LONG-ACTING,APTENSIO XR (methylphenidate),Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,dexmethylphenidate ER,Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,AZSTARYS (serdexmethylphenidate/dexmethylphenidate),Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,dextroamphetamine ER,Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,COTEMPLA XR ODT (methylphenidate),Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,dextroamphetamine/amphetamine ER,Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,DAYTRANA (methylphenidate),Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,DYANAVEL XR (amphetamine) suspension,Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,DEXEDRINE (dextroamphetamine),Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,lisdexamfetamine,Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,dextroamphetamine/amphetamine ER,Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,methylphenidate CD,Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,DYANAVEL XR (amphetamine) tablets,Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,methylphenidate ER tablet,Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,FOCALIN XR (dexmethylphenidate),Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,methylphenidate LA,Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,JORNAY PM (methylphenidate),Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,QUILLICHEW ER (methylphenidate),Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,methylphenidate patch,Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,QUILLIVANT XR (methylphenidate),Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,methylphenidate ER capsule,Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,VYVANSE (lisdexamfetamine) capsules,Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,MYDAYIS (dextroamphetamine/amphetamine),Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,RELEXXII (methylphenidate),Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,RITALIN LA (methylphenidate),Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,VYVANSE (lisdexamfetamine) chewable tablets,Non-Preferred
-STIMULANTS AND RELATED AGENTS : LONG-ACTING,XELSTRYM (dextroamphetamine),Non-Preferred
-STIMULANTS AND RELATED AGENTS : NARCOLEPSY,armodafinil,Preferred
-STIMULANTS AND RELATED AGENTS : NARCOLEPSY,NUVIGIL (armodafinil),Non-Preferred
-STIMULANTS AND RELATED AGENTS : NARCOLEPSY,modafinil,Preferred
-STIMULANTS AND RELATED AGENTS : NARCOLEPSY,PROVIGIL (modafinil),Non-Preferred
-STIMULANTS AND RELATED AGENTS : NARCOLEPSY,SUNOSI (solriamfetol),Preferred
-STIMULANTS AND RELATED AGENTS : NARCOLEPSY,sodium oxybate,Non-Preferred
-STIMULANTS AND RELATED AGENTS : NARCOLEPSY,XYREM (sodium oxybate),Preferred
-STIMULANTS AND RELATED AGENTS : NARCOLEPSY,WAKIX (pitolisant),Non-Preferred
-STIMULANTS AND RELATED AGENTS : NARCOLEPSY,XYWAV (calcium/magnesium/potassium/sodium oxybate),Non-Preferred
-STIMULANTS AND RELATED AGENTS : NON-STIMULANTS,atomoxetine,Preferred
-STIMULANTS AND RELATED AGENTS : NON-STIMULANTS,INTUNIV (guanfacine),Non-Preferred
-STIMULANTS AND RELATED AGENTS : NON-STIMULANTS,clonidine ER,Preferred
-STIMULANTS AND RELATED AGENTS : NON-STIMULANTS,NEXICLON XR (clonidine),Non-Preferred
-STIMULANTS AND RELATED AGENTS : NON-STIMULANTS,guanfacine ER,Preferred
-STIMULANTS AND RELATED AGENTS : NON-STIMULANTS,QELBREE (viloxazine),Preferred
-STIMULANTS AND RELATED AGENTS : NON-STIMULANTS,STRATTERA (atomoxetine),Non-Preferred
-STIMULANTS AND RELATED AGENTS (continued): See previous page for additional PA Criteria/Rules,"Non-Preferred Short Acting Criteria 
+STIMULANTS AND RELATED AGENTS (continued),dexmethylphenidate ER,Preferred
+STIMULANTS AND RELATED AGENTS (continued),"AZSTARYS 
+(serdexmethylphenidate/dexmethylphenidate)",Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),dexmethylphenidate ER,Preferred
+STIMULANTS AND RELATED AGENTS (continued),"AZSTARYS 
+(serdexmethylphenidate/dexmethylphenidate)",Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),dextroamphetamine ER,Preferred
+STIMULANTS AND RELATED AGENTS (continued),COTEMPLA XR ODT (methylphenidate),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),dextroamphetamine/amphetamine ER (generic ADDERALL XR),Preferred
+STIMULANTS AND RELATED AGENTS (continued),DAYTRANA (methylphenidate),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),DYANAVEL XR (amphetamine) suspension,Preferred
+STIMULANTS AND RELATED AGENTS (continued),DEXEDRINE (dextroamphetamine),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),lisdexamfetamine,Preferred
+STIMULANTS AND RELATED AGENTS (continued),dextroamphetamine/amphetamine ER (generic MYDAYIS ER),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),methylphenidate CD,Preferred
+STIMULANTS AND RELATED AGENTS (continued),DYANAVEL XR (amphetamine) tablets,Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),methylphenidate ER tablet,Preferred
+STIMULANTS AND RELATED AGENTS (continued),FOCALIN XR (dexmethylphenidate),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),methylphenidate LA,Preferred
+STIMULANTS AND RELATED AGENTS (continued),JORNAY PM (methylphenidate),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),QUILLICHEW ER (methylphenidate),Preferred
+STIMULANTS AND RELATED AGENTS (continued),methylphenidate patch,Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),QUILLIVANT XR (methylphenidate),Preferred
+STIMULANTS AND RELATED AGENTS (continued),methylphenidate ER capsule,Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),VYVANSE (lisdexamfetamine) capsules,Preferred
+STIMULANTS AND RELATED AGENTS (continued),MYDAYIS (dextroamphetamine/amphetamine),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),RELEXXII (methylphenidate),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),RITALIN LA (methylphenidate),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),VYVANSE (lisdexamfetamine) chewable tablets,Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),XELSTRYM (dextroamphetamine),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued): NARCOLEPSY,armodafinil,Preferred
+STIMULANTS AND RELATED AGENTS (continued): NARCOLEPSY,NUVIGIL (armodafinil),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued): NARCOLEPSY,modafinil,Preferred
+STIMULANTS AND RELATED AGENTS (continued): NARCOLEPSY,PROVIGIL (modafinil),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued): NARCOLEPSY,SUNOSI (solriamfetol),Preferred
+STIMULANTS AND RELATED AGENTS (continued): NARCOLEPSY,sodium oxybate,Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued): NARCOLEPSY,XYREM (sodium oxybate),Preferred
+STIMULANTS AND RELATED AGENTS (continued): NARCOLEPSY,WAKIX (pitolisant),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued): NARCOLEPSY,XYWAV (calcium/magnesium/potassium/sodium oxybate),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued): NON-STIMULANTS,atomoxetine,Preferred
+STIMULANTS AND RELATED AGENTS (continued): NON-STIMULANTS,INTUNIV (guanfacine),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued): NON-STIMULANTS,clonidine ER,Preferred
+STIMULANTS AND RELATED AGENTS (continued): NON-STIMULANTS,NEXICLON XR (clonidine),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued): NON-STIMULANTS,guanfacine ER,Preferred
+STIMULANTS AND RELATED AGENTS (continued): NON-STIMULANTS,ONYDA XR (clonidine),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued): NON-STIMULANTS,QELBREE (viloxazine),Preferred
+STIMULANTS AND RELATED AGENTS (continued): NON-STIMULANTS,STRATTERA (atomoxetine),Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),"Non-Preferred Short Acting Criteria 
  
 ADD/ADHD 
 Documented diagnosis of ADD/ADHD AND 
 Have tried 2 different preferred Short Acting agents in the past 6 months OR • 1 claim for a 30-day supply with the requested agent in the past 105 days 
  
-Narcolepsy: ADDERALL, EVEKEO, METHYLIN, PROCENTRA, RITALIN, ZENZEDI 
+Narcolepsy: ADDERALL, EVEKEO, METHYLIN, PROCENTRA, RITALIN, 
+ZENZEDI 
 Documented diagnosis of narcolepsy AND  
 30 days of therapy with preferred modafinil or armodafinil in the past 6 months AND  
 1 preferred agent indicated for narcolepsy in the past 6 months OR 
 Have tried 1 claim for a 30-day supply with the requested agent in the past 105 days",Preferred
-STIMULANTS AND RELATED AGENTS (continued): See previous page for additional PA Criteria/Rules,"Non-Preferred Short Acting Criteria 
+STIMULANTS AND RELATED AGENTS (continued),"Non-Preferred Short Acting Criteria 
  
 ADD/ADHD 
 Documented diagnosis of ADD/ADHD AND 
 Have tried 2 different preferred Short Acting agents in the past 6 months OR • 1 claim for a 30-day supply with the requested agent in the past 105 days 
  
-Narcolepsy: ADDERALL, EVEKEO, METHYLIN, PROCENTRA, RITALIN, ZENZEDI 
+Narcolepsy: ADDERALL, EVEKEO, METHYLIN, PROCENTRA, RITALIN, 
+ZENZEDI 
 Documented diagnosis of narcolepsy AND  
 30 days of therapy with preferred modafinil or armodafinil in the past 6 months AND  
 1 preferred agent indicated for narcolepsy in the past 6 months OR 
 Have tried 1 claim for a 30-day supply with the requested agent in the past 105 days",Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),"Modafinil 
+ 
+• Documented diagnosis of narcolepsy, disorder, depression, sleep deprivation or Steiner",Preferred
+STIMULANTS AND RELATED AGENTS (continued),"Modafinil 
+ 
+• Documented diagnosis of narcolepsy, disorder, depression, sleep deprivation or Steiner",Non-Preferred
+STIMULANTS AND RELATED AGENTS (continued),"Modafinil 
+ 
+• Documented diagnosis of narcolepsy, disorder, depression, sleep deprivation or Steiner",Preferred
+STIMULANTS AND RELATED AGENTS (continued),"Modafinil 
+ 
+• Documented diagnosis of narcolepsy, disorder, depression, sleep deprivation or Steiner",Non-Preferred
 TETRACYCLINES,doxycycline hyclate,Preferred
 TETRACYCLINES,demeclocycline,Non-Preferred
 TETRACYCLINES,doxycycline monohydrate capsule,Preferred
