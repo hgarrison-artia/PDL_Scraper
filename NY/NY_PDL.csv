@@ -1,0 +1,507 @@
+pdl_name,status
+Celebrex,Preferred
+Arthrotec,Non-Preferred
+celecoxib,Preferred
+Daypro,Non-Preferred
+diclofenac 1% topical gel,Preferred
+diclofenac epolamine patch,Non-Preferred
+diclofenac sodium oral,Preferred
+diclofenac capsule,Non-Preferred
+"ibuprofen Rx tablet, suspension",Preferred
+diclofenac/misoprostol,Non-Preferred
+ibuprofen OTC suspension,Preferred
+diclofenac potassium,Non-Preferred
+indomethacin capsule,Preferred
+diclofenac potassium (gen,Non-Preferred
+ketorolac Cambia),Preferred
+meloxicam tablet,Preferred
+diclofenac sodium ER,Non-Preferred
+nabumetone,Preferred
+diclofenac topical soln,Non-Preferred
+naproxen tablet,Preferred
+diflunisal,Non-Preferred
+piroxicam,Preferred
+Dolobid,Non-Preferred
+sulindac,Preferred
+Elyxyb,Non-Preferred
+etodolac,Non-Preferred
+etodolac ER,Non-Preferred
+Feldene,Non-Preferred
+fenoprofen,Non-Preferred
+Fenopron,Non-Preferred
+flurbiprofen,Non-Preferred
+ibuprofen/famotidine (gen Duexis),Non-Preferred
+indomethacin ER,Non-Preferred
+indomethacin suspension,Non-Preferred
+ketoprofen,Non-Preferred
+ketoprofen ER,Non-Preferred
+ketorolac nasal spray (gen Sprix),Non-Preferred
+Kiprofen,Non-Preferred
+meclofenamate,Non-Preferred
+mefenamic acid,Non-Preferred
+meloxicam capsule (gen Vivlodex),Non-Preferred
+Nalfon,Non-Preferred
+Naprelan,Non-Preferred
+naproxen susp,Non-Preferred
+naproxen CR,Non-Preferred
+naproxen EC,Non-Preferred
+naproxen-esomeprazole,Non-Preferred
+naproxen sodium,Non-Preferred
+oxaprozin,Non-Preferred
+Relafen DS,Non-Preferred
+tolmetin,Non-Preferred
+Vimovo,Non-Preferred
+buprenorphine patch,Preferred
+Belbuca,Non-Preferred
+"fentanyl patch (12 mcg, 25 mcg, 50",Preferred
+Butrans,Non-Preferred
+ConZip ST,Non-Preferred
+morphine sulfate ER tablet),Preferred
+"fentanyl patch (37.5 mcg, 62.5",Non-Preferred
+hydrocodone ER,Non-Preferred
+hydrocodone ER (gen Hysingla,Non-Preferred
+hydromorphone ER,Non-Preferred
+Hysingla ER,Non-Preferred
+morphine ER capsule (gen Avinza),Non-Preferred
+morphine ER capsule (gen Kadian),Non-Preferred
+MS Contin,Non-Preferred
+oxycodone ER,Non-Preferred
+Oxycontin,Non-Preferred
+oxymorphone ER,Non-Preferred
+tramadol ER ST,Non-Preferred
+butalbital/APAP/caffeine/codeine,Preferred
+butalbital compound/codeine,Non-Preferred
+codeine,Preferred
+butorphanol nasal spray,Non-Preferred
+codeine/APAP,Preferred
+dihydrocodeine/APAP/caffeine,Non-Preferred
+Dilaudid,Non-Preferred
+hydrocodone/APAP,Preferred
+hydromorphone solution,Non-Preferred
+hydrocodone/ibuprofen,Preferred
+levorphanol,Non-Preferred
+hydromorphone tablets,Preferred
+meperidine,Non-Preferred
+morphine IR,Preferred
+Nalocet,Non-Preferred
+"oxycodone IR tablets, solution",Preferred
+"oxycodone IR capsules,",Non-Preferred
+oxycodone/APAP concentrate,Preferred
+tramadol tablet,Preferred
+oxycodone/APAP (Prolate),Non-Preferred
+oxymorphone,Non-Preferred
+pentazocine/naloxone,Non-Preferred
+Percocet,Non-Preferred
+RoxyBond,Non-Preferred
+Roxicodone,Non-Preferred
+Seglentis,Non-Preferred
+tramadol solution,Non-Preferred
+"tramadol 25mg, 75mg tablet",Non-Preferred
+tramadol/APAP,Non-Preferred
+Bethkis BLTG,Preferred
+Cayston,Preferred
+Kitabis Pak BLTG,Preferred
+TOBI Podhaler,Preferred
+tobramycin (gen TOBI) solution,Preferred
+"griseofulvin suspension,",Preferred
+terbinafine tablet,Preferred
+acyclovir,Preferred
+valacyclovir,Preferred
+cefdinir,Preferred
+Cipro suspension BLTG,Preferred
+ciprofloxacin tablet,Preferred
+levofloxacin tablet,Preferred
+adefovir dipivoxil,Preferred
+Baraclude solution,Preferred
+entecavir,Preferred
+lamivudine HBV,Preferred
+Mavyret,Preferred
+ribavirin,Preferred
+sofosbuvir/velpatasvir (gen Epclusa) ledipasvir/sofosbuvir (gen,Preferred
+Vosevi,Preferred
+demeclocycline,Preferred
+doxycycline hyclate,Preferred
+minocycline capsule,Preferred
+tetracycline capsule,Preferred
+benazepril,Preferred
+enalapril,Preferred
+lisinopril,Preferred
+ramipril,Preferred
+benazepril/amlodipine,Preferred
+benazepril/HCTZ,Preferred
+captopril/HCTZ,Preferred
+enalapril/HCTZ,Preferred
+lisinopril/HCTZ,Preferred
+Lotrel,Preferred
+trandolapril/verapamil ER,Preferred
+irbesartan,Preferred
+losartan,Preferred
+olmesartan,Preferred
+telmisartan,Preferred
+valsartan tablet,Preferred
+ranolazine,Preferred
+Entresto,Preferred
+Exforge HCT,Preferred
+irbesartan/HCTZ,Preferred
+losartan/HCTZ,Preferred
+olmesartan/amlodipine,Preferred
+olmesartan/HCTZ,Preferred
+telmisartan/HCTZ,Preferred
+valsartan/amlodipine,Preferred
+valsartan/amlodipine/HCTZ,Preferred
+valsartan/HCTZ,Preferred
+atenolol,Preferred
+carvedilol,Preferred
+labetalol,Preferred
+metoprolol succ. XL,Preferred
+metoprolol tartrate,Preferred
+propranolol tablet,Preferred
+propranolol ER,Preferred
+atenolol/chlorthalidone,Preferred
+bisoprolol/HCTZ,Preferred
+propranolol/HCTZ,Preferred
+amlodipine,Preferred
+felodipine ER,Preferred
+isradipine,Preferred
+nicardipine HCl,Preferred
+nifedipine,Preferred
+nifedipine ER/SA,Preferred
+cholestyramine,Preferred
+cholestyramine light,Preferred
+Colestid tablet,Preferred
+colestipol tablet,Preferred
+ezetimibe,Preferred
+atorvastatin,Preferred
+lovastatin,Preferred
+pravastatin,Preferred
+rosuvastatin,Preferred
+simvastatin,Preferred
+sildenafil,Preferred
+tadalafil,Preferred
+ambrisentan (gen Letairis),Preferred
+bosentan tablets (gen Tracleer),Preferred
+fenofibrate tablet (gen Tricor),Preferred
+fenofibrate capsule (gen Lofibra),Preferred
+fenofibric acid capsule (gen Trilipix) fenofibrate tablet (gen Fenoglide),Preferred
+gemfibrozil,Preferred
+icosapent,Preferred
+omega-3-acid ethyl esters (gen,Preferred
+adapalene/benzoyl peroxide (gen,Preferred
+adapalene cream,Preferred
+adapalene OTC gel,Preferred
+"Retin-A cream CC, BLTG",Preferred
+tazarotene cream CC,Preferred
+tretinoin gel (Retin-A) CC,Preferred
+diclofenac 3% gel,Preferred
+fluorouracil solution,Preferred
+fluorouracil 0.5% cream (gen Carac) imiquimod (gen Zyclara),Preferred
+fluorouracil 5% cream (gen Efudex,Preferred
+imiquimod (gen Aldara),Preferred
+mupirocin ointment,Preferred
+"ciclopirox cream, suspension,",Preferred
+ciclopirox 8% solution,Preferred
+clotrimazole OTC,Preferred
+clotrimazole Rx,Preferred
+clotrimazole/betamethasone cream,Preferred
+ketoconazole cream,Preferred
+ketoconazole 2% shampoo,Preferred
+miconazole OTC,Preferred
+"nystatin cream, ointment, powder",Preferred
+nystatin/triamcinolone,Preferred
+terbinafine OTC,Preferred
+tolnaftate OTC,Preferred
+"clindamycin solution, gel, lotion,",Preferred
+clindamycin/benzoyl peroxide (gen,Preferred
+"erythromycin solution, gel",Preferred
+acyclovir cream,Preferred
+docosanol (gen Abreva),Preferred
+Eucrisa,Preferred
+pimecrolimus,Preferred
+tacrolimus,Preferred
+"calcipotriene cream, ointment, scalp calcipotriene foam (gen Sorilux)",Preferred
+azelaic acid,Preferred
+"metronidazole cream, gel",Preferred
+hydrocortisone acetate OTC,Preferred
+hydrocortisone acetate Rx,Preferred
+fluocinolone acetonide solution,Preferred
+"fluticasone propionate cream,",Preferred
+hydrocortisone valerate cream,Preferred
+mometasone furoate,Preferred
+"betamethasone dipropionate lotion,",Preferred
+betamethasone dipropionate,Preferred
+"betamethasone valerate cream,",Preferred
+"fluocinonide cream, ointment,",Preferred
+triamcinolone acetonide,Preferred
+"clobetasol cream, emollient, gel,",Preferred
+"halobetasol cream, ointment",Preferred
+testosterone gel packets (gen,Preferred
+testosterone gel pump (gen,Preferred
+glipizide/metformin,Preferred
+glyburide/metformin,Preferred
+Glumetza BLTG,Preferred
+metformin HCl,Preferred
+metformin ER (gen Glucophage,Preferred
+alendronate,Preferred
+alogliptin,Preferred
+alogliptin/metformin,Preferred
+Glyxambi,Preferred
+Janumet,Preferred
+Janumet XR,Preferred
+Januvia DO,Preferred
+Jentadueto,Preferred
+Jentadueto XR,Preferred
+Kazano,Preferred
+Nesina,Preferred
+Tradjenta,Preferred
+Baqsimi,Preferred
+glucagon vial,Preferred
+glucagon HCl emergency kit,Preferred
+"Gvoke pen, syringe, vial",Preferred
+"Zegalogue pen, syringe",Preferred
+Byetta,Preferred
+Ozempic,Preferred
+Trulicity,Preferred
+Victoza BLTG,Preferred
+"budesonide EC, DR",Preferred
+dexamethasone tablet,Preferred
+hydrocortisone,Preferred
+methylprednisolone dose-pack,Preferred
+prednisolone solution,Preferred
+"prednisone dose-pack, tablet",Preferred
+Genotropin,Preferred
+Norditropin,Preferred
+"insulin glargine solostar, vial (gen",Preferred
+insulin glargine-YFGN 1,Preferred
+"Lantus Solostar, vial",Preferred
+Humalog 50/50 Mix: pen,Preferred
+insulin lispro 75/25 mix: pen (gen,Preferred
+insulin aspart prot/insulin aspart:,Preferred
+Apidra,Preferred
+insulin aspart (gen Novolog),Preferred
+insulin lispro (gen Humalog U100),Preferred
+insulin lispro junior (gen Humalog,Preferred
+Creon,Preferred
+Zenpep,Preferred
+Farxiga BLTG,Preferred
+Jardiance,Preferred
+Synjardy,Preferred
+Synjardy XR,Preferred
+Trijardy XR,Preferred
+Xigduo XR BLTG,Preferred
+pioglitazone,Preferred
+aprepitant pack,Preferred
+Diclegis CC,Preferred
+doxylamine succ/pyridoxine (gen,Preferred
+"ondansetron ODT, solution, tablet",Preferred
+metronidazole tablet,Preferred
+neomycin,Preferred
+"vancomycin capsule, solution",Preferred
+Pylera BLTG,Preferred
+esomeprazole magnesium Rx,Preferred
+"lansoprazole capsule (Rx, OTC)",Preferred
+lansoprazole OTC solutab,Preferred
+omeprazole Rx,Preferred
+pantoprazole tablet,Preferred
+Protonix suspension BLTG,Preferred
+rabeprazole,Preferred
+Apriso BLTG,Preferred
+mesalamine DR (gen Lialda),Preferred
+Pentasa BLTG,Preferred
+sulfasalazine DR,Preferred
+sulfasalazine IR,Preferred
+enoxaparin sodium,Preferred
+Fragmin vial,Preferred
+Eliquis,Preferred
+Pradaxa capsule BLTG,Preferred
+warfarin,Preferred
+Xarelto tablet DO,Preferred
+Xarelto 2.5 mg tablet BLTG,Preferred
+Neupogen,Preferred
+Nyvepria,Preferred
+Aranesp,Preferred
+Epogen,Preferred
+Retacrit,Preferred
+Advate,Preferred
+Adynovate,Preferred
+Afstyla,Preferred
+Altuviiio,Preferred
+Eloctate,Preferred
+Esperoct,Preferred
+Hemofil M,Preferred
+Humate-P,Preferred
+Jivi,Preferred
+Koate,Preferred
+Kogenate FS,Preferred
+Kovaltry,Preferred
+Novoeight,Preferred
+Nuwiq,Preferred
+Obizur,Preferred
+Recombinate,Preferred
+Xyntha,Preferred
+Xyntha Solofuse,Preferred
+AlphaNine SD,Preferred
+Alprolix,Preferred
+BeneFIX,Preferred
+Idelvion,Preferred
+Ixinity,Preferred
+Profilnine,Preferred
+Rebinyn,Preferred
+Rixubis,Preferred
+Alphanate (von Willebrand,Preferred
+Coagadex (Factor X),Preferred
+Corifact (Factor XIII),Preferred
+Feiba NF (activated prothrombin,Preferred
+Hemlibra (emicizumab-kxwh),Preferred
+Novoseven RT (Factor VIIa),Preferred
+Sevenfact (Factor VIIa-jncw),Preferred
+Tretten (Factor XIII),Preferred
+Vonvendi (von Willebrand factor),Preferred
+Wilate (von Willebrand factor/Factor VIII),Preferred
+Brilinta,Preferred
+clopidogrel,Preferred
+dipyridamole,Preferred
+dipyridamole/aspirin,Preferred
+Cosentyx,Preferred
+Dupixent,Preferred
+Enbrel,Preferred
+Fasenra,Preferred
+Humira,Preferred
+Nucala,Preferred
+Xolair,Preferred
+azathioprine,Preferred
+CellCept suspension BLTG,Preferred
+"cyclosporine softgel, capsule",Preferred
+"cyclosporine modified capsule,",Preferred
+mycophenolic acid,Preferred
+"mycophenolate mofetil capsule,",Preferred
+Rapamune solution,Preferred
+Rapamune tablet,Preferred
+"sirolimus solution, tablet",Preferred
+tacrolimus,Preferred
+megestrol acetate suspension,Preferred
+EpiPen BLTG,Preferred
+EpiPen Jr. BLTG,Preferred
+baclofen tablet,Preferred
+chlorzoxazone 500 mg,Preferred
+"cyclobenzaprine 5 mg, 10 mg tablet",Preferred
+dantrolene,Preferred
+methocarbamol,Preferred
+orphenadrine ER,Preferred
+tizanidine tablet,Preferred
+Alphagan P 0.1% BLTG,Preferred
+Alphagan P 0.15% BLTG,Preferred
+brimonidine 0.2%,Preferred
+Simbrinza,Preferred
+bacitracin/polymyxin B,Preferred
+erythromycin,Preferred
+gentamicin,Preferred
+Natacyn,Preferred
+neomycin/gramicidin/polymyxin,Preferred
+polymyxin/trimethoprim,Preferred
+sulfacetamide solution,Preferred
+tobramycin,Preferred
+neomycin/polymyxin/dexamethasone,Preferred
+sulfacetamide/prednisolone,Preferred
+TobraDex ointment,Preferred
+tobramycin/dexamethasone,Preferred
+azelastine,Preferred
+ketotifen OTC,Preferred
+olopatadine OTC,Preferred
+Eysuvis,Preferred
+Restasis BLTG,Preferred
+Restasis MultiDose,Preferred
+Xiidra,Preferred
+betaxolol,Preferred
+Betoptic S,Preferred
+carteolol,Preferred
+Combigan BLTG,Preferred
+Istalol BLTG,Preferred
+levobunolol,Preferred
+timolol maleate gel,Preferred
+ciprofloxacin,Preferred
+moxifloxacin (gen Vigamox),Preferred
+ofloxacin,Preferred
+Acular LS BLTG,Preferred
+diclofenac,Preferred
+flurbiprofen,Preferred
+ketorolac,Preferred
+latanoprost,Preferred
+Cipro HC,Preferred
+ciprofloxacin/dexamethasone (gen,Preferred
+ofloxacin,Preferred
+finasteride,Preferred
+"allopurinol 100 mg, 300 mg",Preferred
+colchicine tablet,Preferred
+febuxostat,Preferred
+probenecid,Preferred
+probenecid/colchicine,Preferred
+Cystagon,Preferred
+Lokelma,Preferred
+sodium polystyrene,Preferred
+Veltassa,Preferred
+calcium acetate,Preferred
+"sevelamer carbonate powder, tablet",Preferred
+alfuzosin,Preferred
+tamsulosin,Preferred
+fesoterodine ER (gen Toviaz),Preferred
+"Myrbetriq DO, BLTG",Preferred
+oxybutynin,Preferred
+oxybutynin ER DO,Preferred
+solifenacin,Preferred
+Toviaz DO,Preferred
+"Buphenyl powder, tablet",Preferred
+Carbaglu BLTG,Preferred
+Olpruva,Preferred
+Pheburane,Preferred
+Ravicti,Preferred
+"sodium phenylbutyrate powder,",Preferred
+Myfembree,Preferred
+Oriahnn,Preferred
+Orilissa,Preferred
+Anoro Ellipta,Preferred
+Atrovent HFA,Preferred
+Bevespi Aerosphere,Preferred
+Combivent Respimat,Preferred
+Incruse Ellipta,Preferred
+ipratropium,Preferred
+ipratropium / albuterol,Preferred
+roflumilast (gen Daliresp),Preferred
+Spiriva HandiHaler BLTG,Preferred
+Spiriva Respimat,Preferred
+Stiolto Respimat,Preferred
+Trelegy Ellipta,Preferred
+Tudorza Pressair,Preferred
+azelastine,Preferred
+olopatadine,Preferred
+cetirizine OTC tablet,Preferred
+cetirizine OTC syrup/solution,Preferred
+fexofenadine OTC tablet,Preferred
+levocetirizine tablet,Preferred
+loratadine OTC,Preferred
+Brovana BLTG,Preferred
+formoterol (gen Perforomist),Preferred
+Serevent Diskus,Preferred
+albuterol nebulizer solution,Preferred
+albuterol HFA (gen ProAir HFA),Preferred
+ProAir Digihaler,Preferred
+ProAir RespiClick,Preferred
+Ventolin HFA BLTG,Preferred
+Xopenex HFA BLTG,Preferred
+Alvesco,Preferred
+Arnuity Ellipta,Preferred
+Asmanex Twisthaler,Preferred
+fluticasone HFA,Preferred
+Pulmicort Flexhaler,Preferred
+Advair Diskus BLTG,Preferred
+Advair HFA BLTG,Preferred
+Dulera,Preferred
+Symbicort BLTG,Preferred
+budesonide OTC,Preferred
+Dymista BLTG,Preferred
+fluticasone,Preferred
+fluticasone OTC,Preferred
+Nasonex OTC,Preferred
+Omnaris,Preferred
+triamcinolone OTC,Preferred
+Zetonna,Preferred
+"montelukast tablet, chew tab",Preferred
