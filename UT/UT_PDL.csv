@@ -1,0 +1,2258 @@
+therapeutic_class,pdl_name,status
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),celecoxib,Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),diclofenac gel,Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),"diclofenac Na DR 50, 75mg",Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),diclofenac patch,Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),diclofenac potassium 50mg,Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),flurbiprofen,Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),ibuprofen,Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),indomethacin,Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),ketorolac injection,Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),ketorolac tablet,Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),meloxicam tablet,Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),nabumetone,Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),"naproxen tablet, EC",Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),Pennsaid,Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),sulindac,Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),Caldolor,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),Celebrex,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),Daypro,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),"diclofenac Na DR 25mg, 100mg",Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),diclofenac ER,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),diclofenac potassium 25mg,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),diclofenac solution,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),etodolac,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),etodolac ER,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),Feldene,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),fenoprofen,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),ibuprofen lysine injection,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),Indocin suppository,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),Indocin suspension,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),indomethacin suspension,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),"ketoprofen, ER",Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),ketorolac nasal,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),Licart,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),meclofenamate,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),mefenamic acid,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),meloxicam capsule,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),Mobic,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),Nalfon,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),Naprelan CR,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),naproxen Na,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),naproxen Na CR,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),naproxen susp,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),Neoprofen,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),oxaprozin,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),piroxicam,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),Relafen,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),Tolectin,Non-Preferred
+Analgesics: Non-Steroidal Anti-Inflammatory Drugs (NSAIDs),tolmetin,Non-Preferred
+Analgesics: Short Acting Opioids,Actiq,Preferred
+Analgesics: Short Acting Opioids,codeine tablet,Preferred
+Analgesics: Short Acting Opioids,hydromorphone liquid,Preferred
+Analgesics: Short Acting Opioids,hydromorphone tablet,Preferred
+Analgesics: Short Acting Opioids,morphine conc.  (10mg/ml),Preferred
+Analgesics: Short Acting Opioids,morphine conc. (20mg/ml),Preferred
+Analgesics: Short Acting Opioids,morphine tablet,Preferred
+Analgesics: Short Acting Opioids,"oxycodone 20mg, 30mg",Preferred
+Analgesics: Short Acting Opioids,"oxycodone 5mg, 10mg, 15mg",Preferred
+Analgesics: Short Acting Opioids,oxycodone solution (1mg/ml),Preferred
+Analgesics: Short Acting Opioids,"tramadol tablet (25mg, 50mg, 100mg)",Preferred
+Analgesics: Short Acting Opioids,Dilaudid,Non-Preferred
+Analgesics: Short Acting Opioids,fentanyl lozenge,Non-Preferred
+Analgesics: Short Acting Opioids,fentanyl tablet,Non-Preferred
+Analgesics: Short Acting Opioids,Fentora,Non-Preferred
+Analgesics: Short Acting Opioids,hydromorphone suppository,Non-Preferred
+Analgesics: Short Acting Opioids,meperidine solution,Non-Preferred
+Analgesics: Short Acting Opioids,meperidine tablet,Non-Preferred
+Analgesics: Short Acting Opioids,morphine suppository,Non-Preferred
+Analgesics: Short Acting Opioids,Olinvyk,Non-Preferred
+Analgesics: Short Acting Opioids,Oxaydo,Non-Preferred
+Analgesics: Short Acting Opioids,oxycodone capsule 5mg,Non-Preferred
+Analgesics: Short Acting Opioids,oxycodone conc (20mg/ml),Non-Preferred
+Analgesics: Short Acting Opioids,oxymorphone,Non-Preferred
+Analgesics: Short Acting Opioids,Roxicodone 30mg,Non-Preferred
+Analgesics: Short Acting Opioids,"Roxicodone 5mg, 15mg",Non-Preferred
+Analgesics: Short Acting Opioids,RoxyBond,Non-Preferred
+Analgesics: Short Acting Opioids,tramadol solution,Non-Preferred
+Analgesics: Short Acting Opioids,tramadol tablet (75mg),Non-Preferred
+Analgesics: Long Acting Opioids,Butrans,Preferred
+Analgesics: Long Acting Opioids,Conzip ER,Preferred
+Analgesics: Long Acting Opioids,"fentanyl patch 12, 25mcg",Preferred
+Analgesics: Long Acting Opioids,"fentanyl patch 50, 75, 100mcg",Preferred
+Analgesics: Long Acting Opioids,morphine ER tablet 15mg,Preferred
+Analgesics: Long Acting Opioids,morphine ER tablet >15mg,Preferred
+Analgesics: Long Acting Opioids,OxyContin,Preferred
+Analgesics: Long Acting Opioids,Belbuca,Non-Preferred
+Analgesics: Long Acting Opioids,buprenorphine films,Non-Preferred
+Analgesics: Long Acting Opioids,buprenorphine patch,Non-Preferred
+Analgesics: Long Acting Opioids,"fentanyl patch 37.5, 62.5, 87.5mcg",Non-Preferred
+Analgesics: Long Acting Opioids,hydrocodone ER capsule,Non-Preferred
+Analgesics: Long Acting Opioids,hydrocodone ER tablet,Non-Preferred
+Analgesics: Long Acting Opioids,hydromorphone ER,Non-Preferred
+Analgesics: Long Acting Opioids,Hysingla ER,Non-Preferred
+Analgesics: Long Acting Opioids,Kadian,Non-Preferred
+Analgesics: Long Acting Opioids,levorphanol,Non-Preferred
+Analgesics: Long Acting Opioids,methadone,Non-Preferred
+Analgesics: Long Acting Opioids,Methadose,Non-Preferred
+Analgesics: Long Acting Opioids,morphine ER capsule,Non-Preferred
+Analgesics: Long Acting Opioids,MS Contin 15mg,Non-Preferred
+Analgesics: Long Acting Opioids,MS Contin >15mg,Non-Preferred
+Analgesics: Long Acting Opioids,oxycodone ER,Non-Preferred
+Analgesics: Long Acting Opioids,oxymorphone ER,Non-Preferred
+Analgesics: Long Acting Opioids,tramadol ER capsule,Non-Preferred
+Analgesics: Long Acting Opioids,tramadol ER tablet,Non-Preferred
+Analgesics: Long Acting Opioids,Zohydro ER,Non-Preferred
+Analgesics: Opioid Combinations,apap/codeine liquid,Preferred
+Analgesics: Opioid Combinations,apap/codeine tablet,Preferred
+Analgesics: Opioid Combinations,hydrocodone/apap liquid,Preferred
+Analgesics: Opioid Combinations,hydrocodone/apap tablet,Preferred
+Analgesics: Opioid Combinations,oxycodone/apap liquid,Preferred
+Analgesics: Opioid Combinations,oxycodone/apap tablet,Preferred
+Analgesics: Opioid Combinations,tramadol/apap,Preferred
+Analgesics: Opioid Combinations,Apadaz,Non-Preferred
+Analgesics: Opioid Combinations,benzhydrocodone/apap,Non-Preferred
+Analgesics: Opioid Combinations,dihydrocodeine/apap/caf,Non-Preferred
+Analgesics: Opioid Combinations,hydrocodone/ibu,Non-Preferred
+Analgesics: Opioid Combinations,Lortab solution,Non-Preferred
+Analgesics: Opioid Combinations,pentazocine/naloxone,Non-Preferred
+Analgesics: Opioid Combinations,Percocet,Non-Preferred
+Analgesics: Opioid Combinations,Primlev,Non-Preferred
+Analgesics: Opioid Combinations,Seglentis,Non-Preferred
+Analgesics: Opioid Combinations,Ultracet,Non-Preferred
+Analgesics: Opioid Use Disorder Treatments,Brixadi monthly,Preferred
+Analgesics: Opioid Use Disorder Treatments,Brixadi weekly,Preferred
+Analgesics: Opioid Use Disorder Treatments,buprenorphine,Preferred
+Analgesics: Opioid Use Disorder Treatments,buprenorphine/naloxone tablet,Preferred
+Analgesics: Opioid Use Disorder Treatments,naltrexone tablet,Preferred
+Analgesics: Opioid Use Disorder Treatments,Sublocade,Preferred
+Analgesics: Opioid Use Disorder Treatments,Suboxone film,Preferred
+Analgesics: Opioid Use Disorder Treatments,Vivitrol,Preferred
+Analgesics: Opioid Use Disorder Treatments,buprenorphine/naloxone film,Non-Preferred
+Analgesics: Opioid Use Disorder Treatments,Zubsolv,Non-Preferred
+Androgens: Topical Androgens,Androderm,Preferred
+Androgens: Topical Androgens,Androgel,Preferred
+Androgens: Topical Androgens,Testim,Preferred
+Androgens: Topical Androgens,testosterone gel,Preferred
+Androgens: Topical Androgens,Fortesta,Non-Preferred
+Androgens: Topical Androgens,Natesto,Non-Preferred
+Androgens: Topical Androgens,testosterone  solution,Non-Preferred
+Androgens: Topical Androgens,Vogelxo,Non-Preferred
+Androgens: Misc Androgens,testosterone cypionate,Preferred
+Androgens: Misc Androgens,Aveed,Non-Preferred
+Androgens: Misc Androgens,Azmiro,Non-Preferred
+Androgens: Misc Androgens,danazol,Non-Preferred
+Androgens: Misc Androgens,Depo-Testosterone,Non-Preferred
+Androgens: Misc Androgens,Jatenzo,Non-Preferred
+Androgens: Misc Androgens,Methitest,Non-Preferred
+Androgens: Misc Androgens,methyltestosterone,Non-Preferred
+Androgens: Misc Androgens,oxandrolone,Non-Preferred
+Androgens: Misc Androgens,Testopel,Non-Preferred
+Androgens: Misc Androgens,testosterone enanthate,Non-Preferred
+Androgens: Misc Androgens,Tlando,Non-Preferred
+Androgens: Misc Androgens,Xyosted,Non-Preferred
+Antibiotics: 3rd Generation Cephalosporins,cefdinir,Preferred
+Antibiotics: 3rd Generation Cephalosporins,cefixime,Non-Preferred
+Antibiotics: 3rd Generation Cephalosporins,cefpodoxime,Non-Preferred
+Antibiotics: Quinolones,Cipro suspension,Preferred
+Antibiotics: Quinolones,"ciprofloxacin 250, 500, 750mg tablet",Preferred
+Antibiotics: Quinolones,levofloxacin,Preferred
+Antibiotics: Quinolones,moxifloxacin,Preferred
+Antibiotics: Quinolones,Baxdela,Non-Preferred
+Antibiotics: Quinolones,Cipro tablet,Non-Preferred
+Antibiotics: Quinolones,ciprofloxacin 100mg tablet,Non-Preferred
+Antibiotics: Quinolones,ciprofloxacin suspension,Non-Preferred
+Antibiotics: Quinolones,ofloxacin tablet,Non-Preferred
+Antibiotics: Tetracyclines,"doxycycline monohydrate 50, 100mg capsule",Preferred
+Antibiotics: Tetracyclines,"doxycycline hyclate 50, 100mg",Preferred
+Antibiotics: Tetracyclines,"minocycline 50, 75, 100mg capsule",Preferred
+Antibiotics: Tetracyclines,demeclocycline,Non-Preferred
+Antibiotics: Tetracyclines,Doryx,Non-Preferred
+Antibiotics: Tetracyclines,doxycycline (unless listed preferred),Non-Preferred
+Antibiotics: Tetracyclines,Emrosi,Non-Preferred
+Antibiotics: Tetracyclines,minocycline ER capsule,Non-Preferred
+Antibiotics: Tetracyclines,minocycline tablet,Non-Preferred
+Antibiotics: Tetracyclines,Minolira,Non-Preferred
+Antibiotics: Tetracyclines,Nuzyra,Non-Preferred
+Antibiotics: Tetracyclines,Solodyn,Non-Preferred
+Antibiotics: Tetracyclines,tetracycline,Non-Preferred
+Antibiotics: Tetracyclines,Vibramycin,Non-Preferred
+Antibiotics: Tetracyclines,Ximino,Non-Preferred
+Anticoagulants: Oral,Eliquis,Preferred
+Anticoagulants: Oral,Pradaxa,Preferred
+Anticoagulants: Oral,Xarelto,Preferred
+Anticoagulants: Oral,warfarin,Preferred
+Anticoagulants: Oral,dabigatran,Non-Preferred
+Anticoagulants: Oral,Savaysa,Non-Preferred
+Anticoagulants: Injectable,enoxaparin,Preferred
+Anticoagulants: Injectable,Arixtra,Non-Preferred
+Anticoagulants: Injectable,fondaparinux,Non-Preferred
+Anticoagulants: Injectable,Fragmin,Non-Preferred
+Anticoagulants: Injectable,Lovenox,Non-Preferred
+Antidiabetics: Short Acting Insulin,Apidra,Preferred
+Antidiabetics: Short Acting Insulin,Humalog U-100,Preferred
+Antidiabetics: Short Acting Insulin,insulin aspart,Preferred
+Antidiabetics: Short Acting Insulin,Novolog,Preferred
+Antidiabetics: Short Acting Insulin,Admelog,Non-Preferred
+Antidiabetics: Short Acting Insulin,Afrezza,Non-Preferred
+Antidiabetics: Short Acting Insulin,Fiasp,Non-Preferred
+Antidiabetics: Short Acting Insulin,Humalog U-200,Non-Preferred
+Antidiabetics: Short Acting Insulin,Humulin-R,Non-Preferred
+Antidiabetics: Short Acting Insulin,insulin lispro,Non-Preferred
+Antidiabetics: Short Acting Insulin,Lyumjev,Non-Preferred
+Antidiabetics: Short Acting Insulin,Myxredlin,Non-Preferred
+Antidiabetics: Short Acting Insulin,Novolin-R,Non-Preferred
+Antidiabetics: Intermediate Acting Insulin,Novolin-N,Preferred
+Antidiabetics: Intermediate Acting Insulin,Humulin-N,Non-Preferred
+Antidiabetics: Long Acting Insulin,Lantus,Preferred
+Antidiabetics: Long Acting Insulin,Levemir,Preferred
+Antidiabetics: Long Acting Insulin,Toujeo,Preferred
+Antidiabetics: Long Acting Insulin,Basaglar,Non-Preferred
+Antidiabetics: Long Acting Insulin,insulin degludec,Non-Preferred
+Antidiabetics: Long Acting Insulin,insulin glargine,Non-Preferred
+Antidiabetics: Long Acting Insulin,Rezvoglar,Non-Preferred
+Antidiabetics: Long Acting Insulin,Semglee,Non-Preferred
+Antidiabetics: Long Acting Insulin,Soliqua,Non-Preferred
+Antidiabetics: Long Acting Insulin,Tresiba,Non-Preferred
+Antidiabetics: Long Acting Insulin,Xultophy,Non-Preferred
+Antidiabetics: Insulin Mixtures,Humalog mix,Preferred
+Antidiabetics: Insulin Mixtures,Humulin 70/30,Preferred
+Antidiabetics: Insulin Mixtures,insulin aspart protamine/aspart,Preferred
+Antidiabetics: Insulin Mixtures,Novolog 70/30,Preferred
+Antidiabetics: Insulin Mixtures,Novolin 70/30,Non-Preferred
+Antidiabetics: Insulin Mixtures,insulin lispro protamine/lispro,Non-Preferred
+Antidiabetics: Sulfonylurea Combinations,glyburide/metformin,Preferred
+Antidiabetics: Sulfonylurea Combinations,Duetact,Non-Preferred
+Antidiabetics: Sulfonylurea Combinations,glipizide/metformin,Non-Preferred
+Antidiabetics: Sulfonylurea Combinations,pioglitazone/glimepiride,Non-Preferred
+Antidiabetics: GLP-1 Agonists,Trulicity,Preferred
+Antidiabetics: GLP-1 Agonists,Victoza,Preferred
+Antidiabetics: GLP-1 Agonists,Bydureon BCise,Non-Preferred
+Antidiabetics: GLP-1 Agonists,Byetta,Non-Preferred
+Antidiabetics: GLP-1 Agonists,exenatide inj,Non-Preferred
+Antidiabetics: GLP-1 Agonists,liraglutide,Non-Preferred
+Antidiabetics: GLP-1 Agonists,Mounjaro,Non-Preferred
+Antidiabetics: GLP-1 Agonists,Ozempic,Non-Preferred
+Antidiabetics: GLP-1 Agonists,Rybelsus,Non-Preferred
+Antidiabetics: GLP-1 Agonists,Soliqua,Non-Preferred
+Antidiabetics: GLP-1 Agonists,Xultophy,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitors,Januvia,Preferred
+Antidiabetics: DPP- 4 Inhibitors,Tradjenta,Preferred
+Antidiabetics: DPP- 4 Inhibitors,alogliptin,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitors,Nesina,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitors,saxagliptin,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitors,sitagliptin,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitors,Zituvio,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,"Janumet, XR",Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,"Jentadueto, XR",Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,Kombiglyze XR,Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,alogliptin/pioglitazone,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,alogliptin/metformin,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,Glyxambi,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,Kazano,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,Oseni,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,Qtern,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,saxagliptin/metformin,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,sitagliptin/metformin,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,Steglujan,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,Trijardy XR,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitors,Farxiga,Preferred
+Antidiabetics: SGLT-2 Inhibitors,Jardiance,Preferred
+Antidiabetics: SGLT-2 Inhibitors,dapagliflozin,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitors,Inpefa,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitors,Invokana,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitors,Steglatro,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,"Synjardy, XR",Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Xigduo XR,Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,dapagliflozin/metformin,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Glyxambi,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Invokamet,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Invokamet XR,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Qtern,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Segluromet,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Steglujan,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Trijardy XR,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Zituvimet,Non-Preferred
+Antidiabetics: Glucagon Products,Baqsimi,Preferred
+Antidiabetics: Glucagon Products,glucagon,Preferred
+Antidiabetics: Glucagon Products,Zegalogue,Preferred
+Antidiabetics: Glucagon Products,Gvoke,Non-Preferred
+Antifungals: Oral,clotrimazole lozenge,Preferred
+Antifungals: Oral,fluconazole,Preferred
+Antifungals: Oral,griseofulvin suspension,Preferred
+Antifungals: Oral,itraconazole 100mg capsule,Preferred
+Antifungals: Oral,ketoconazole tablet,Preferred
+Antifungals: Oral,nystatin,Preferred
+Antifungals: Oral,terbinafine,Preferred
+Antifungals: Oral,voriconazole,Preferred
+Antifungals: Oral,Ancobon,Non-Preferred
+Antifungals: Oral,Brexafemme,Non-Preferred
+Antifungals: Oral,Cresemba,Non-Preferred
+Antifungals: Oral,Diflucan,Non-Preferred
+Antifungals: Oral,flucytosine,Non-Preferred
+Antifungals: Oral,Fulvicin P/G 165,Non-Preferred
+Antifungals: Oral,griseofulvin tablet,Non-Preferred
+Antifungals: Oral,itraconazole solution,Non-Preferred
+Antifungals: Oral,Noxafil,Non-Preferred
+Antifungals: Oral,posaconazole,Non-Preferred
+Antifungals: Oral,Sporanox,Non-Preferred
+Antifungals: Oral,Tolsura,Non-Preferred
+Antifungals: Oral,Vfend,Non-Preferred
+Antihemophilia: Factor VIII,Adynovate,Preferred
+Antihemophilia: Factor VIII,Hemofil M,Preferred
+Antihemophilia: Factor VIII,Jivi,Preferred
+Antihemophilia: Factor VIII,Kovaltry,Preferred
+Antihemophilia: Factor VIII,Novoeight,Preferred
+Antihemophilia: Factor VIII,Xyntha,Preferred
+Antihemophilia: Factor VIII,Advate,Non-Preferred
+Antihemophilia: Factor VIII,Afstyla,Non-Preferred
+Antihemophilia: Factor VIII,Altuviiio,Non-Preferred
+Antihemophilia: Factor VIII,Eloctate,Non-Preferred
+Antihemophilia: Factor VIII,Esperoct,Non-Preferred
+Antihemophilia: Factor VIII,"Koate, DVI",Non-Preferred
+Antihemophilia: Factor VIII,Nuwiq,Non-Preferred
+Antihemophilia: Factor VIII,Obizur,Non-Preferred
+Antihemophilia: Factor VIII,Recombinate,Non-Preferred
+Antihemophilia: Factor VIII/von Willebrand Factor,Alphanate,Preferred
+Antihemophilia: Factor VIII/von Willebrand Factor,Humate P,Preferred
+Antihemophilia: Factor VIII/von Willebrand Factor,Wilate,Preferred
+Antihemophilia: Factor VIII/von Willebrand Factor,Vonvendi,Non-Preferred
+Antihemophilia: Factor IX,Alphanine,Preferred
+Antihemophilia: Factor IX,Alprolix,Preferred
+Antihemophilia: Factor IX,Benefix,Preferred
+Antihemophilia: Factor IX,Feiba,Preferred
+Antihemophilia: Factor IX,Profilnine,Preferred
+Antihemophilia: Factor IX,Rixubis,Preferred
+Antihemophilia: Factor IX,Idelvion,Non-Preferred
+Antihemophilia: Factor IX,Ixinity,Non-Preferred
+Antihemophilia: Factor IX,Rebinyn,Non-Preferred
+Antihistamines: 1st Generation,cyproheptadine,Preferred
+Antihistamines: 1st Generation,diphenhydramine,Preferred
+Antihistamines: 1st Generation,hydroxyzine hydrochloride,Preferred
+Antihistamines: 1st Generation,hydroxyzine pamoate,Preferred
+Antihistamines: 1st Generation,carbinoxamine,Non-Preferred
+Antihistamines: 1st Generation,clemastine,Non-Preferred
+Antihistamines: 1st Generation,Karbinal suspension,Non-Preferred
+Antihistamines: 1st Generation,Ryclora,Non-Preferred
+Antihistamines: 1st Generation,Ryvent,Non-Preferred
+Antihistamines: 1st Generation,Vistaril,Non-Preferred
+Antihistamines: 2nd Generation,cetirizine solution,Preferred
+Antihistamines: 2nd Generation,levocetirizine tablet,Preferred
+Antihistamines: 2nd Generation,Clarinex,Non-Preferred
+Antihistamines: 2nd Generation,desloratadine,Non-Preferred
+Antihistamines: 2nd Generation,levocetirizine solution,Non-Preferred
+Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,atovaquone,Preferred
+Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,"metronidazole 250, 500 tab",Preferred
+Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,tinidazole,Preferred
+Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,Flagyl,Non-Preferred
+Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,Lampit,Non-Preferred
+Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,Mepron,Non-Preferred
+Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,metronidazole 125 mg tab,Non-Preferred
+Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,Nebupent,Non-Preferred
+Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,nitazoxanide,Non-Preferred
+Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,paromomycin,Non-Preferred
+Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,Pentam,Non-Preferred
+Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,pentamidine,Non-Preferred
+Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,Solosec,Non-Preferred
+Anti-infectives (NOS): Antimalarials,hydroxychloroquine,Preferred
+Anti-infectives (NOS): Antimalarials,primaquine,Preferred
+Anti-infectives (NOS): Antimalarials,Artesunate,Non-Preferred
+Anti-infectives (NOS): Antimalarials,atovaquone/proguanil,Non-Preferred
+Anti-infectives (NOS): Antimalarials,chloroquine,Non-Preferred
+Anti-infectives (NOS): Antimalarials,Coartem,Non-Preferred
+Anti-infectives (NOS): Antimalarials,Daraprim,Non-Preferred
+Anti-infectives (NOS): Antimalarials,Krintafel,Non-Preferred
+Anti-infectives (NOS): Antimalarials,Malarone,Non-Preferred
+Anti-infectives (NOS): Antimalarials,mefloquine,Non-Preferred
+Anti-infectives (NOS): Antimalarials,pyrimethamine,Non-Preferred
+Anti-infectives (NOS): Antimalarials,Qualaquin,Non-Preferred
+Anti-infectives (NOS): Antimalarials,quinine,Non-Preferred
+Anti-infectives (NOS): Vaginal,clindamycin vaginal cream,Preferred
+Anti-infectives (NOS): Vaginal,metronidazole vaginal,Preferred
+Anti-infectives (NOS): Vaginal,Vandazole,Preferred
+Anti-infectives (NOS): Vaginal,Cleocin,Non-Preferred
+Anti-infectives (NOS): Vaginal,Clindesse,Non-Preferred
+Anti-infectives (NOS): Vaginal,Gynazole-1,Non-Preferred
+Anti-infectives (NOS): Vaginal,Nuvessa,Non-Preferred
+Anti-infectives (NOS): Vaginal,terconazole,Non-Preferred
+Anti-infectives (NOS): Vaginal,Xaciato,Non-Preferred
+Antivirals: Anti-Influenza - Oral,oseltamivir,Preferred
+Antivirals: Anti-Influenza - Oral,Relenza,Non-Preferred
+Antivirals: Anti-Influenza - Oral,ribavirin (inhaled),Non-Preferred
+Antivirals: Anti-Influenza - Oral,rimantadine,Non-Preferred
+Antivirals: Anti-Influenza - Oral,Tamiflu,Non-Preferred
+Antivirals: Anti-Influenza - Oral,Virazole,Non-Preferred
+Antivirals: Anti-Influenza - Oral,Xofluza,Non-Preferred
+"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors",maraviroc,Preferred
+"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors","Selzentry 25mg, 75mg tablet",Preferred
+"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors",Selzentry solution,Preferred
+"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors",Fuzeon,Non-Preferred
+"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors",Rukobia,Non-Preferred
+"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors","Selzentry 150mg, 300mg tablet",Non-Preferred
+"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors",Trogarzo,Non-Preferred
+Antivirals: Antiretrovirals - Integrase Inhibitors,Isentress,Preferred
+Antivirals: Antiretrovirals - Integrase Inhibitors,Tivicay,Preferred
+Antivirals: Antiretrovirals - Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs),efavirenz,Preferred
+Antivirals: Antiretrovirals - Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs),Intelence,Preferred
+Antivirals: Antiretrovirals - Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs),nevirapine,Preferred
+Antivirals: Antiretrovirals - Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs),Edurant,Non-Preferred
+Antivirals: Antiretrovirals - Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs),etravirine,Non-Preferred
+Antivirals: Antiretrovirals - Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs),Pifeltro,Non-Preferred
+Antivirals: Antiretrovirals - Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs),Viramune,Non-Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),abacavir solution,Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),abacavir tablet,Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),Emtriva,Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),lamivudine,Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),tenofovir disoproxil 300mg,Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),Viread (all except 300mg),Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),zidovudine,Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),didanosine,Non-Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),emtricitabine,Non-Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),Epivir,Non-Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),Retrovir,Non-Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),stavudine,Non-Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),Viread 300mg,Non-Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),Ziagen,Non-Preferred
+Antivirals: Protease Inhibitors,atazanavir capsule,Preferred
+Antivirals: Protease Inhibitors,darunavir,Preferred
+Antivirals: Protease Inhibitors,Norvir powder,Preferred
+Antivirals: Protease Inhibitors,Prezista,Preferred
+Antivirals: Protease Inhibitors,Reyataz powder,Preferred
+Antivirals: Protease Inhibitors,ritonavir tablet,Preferred
+Antivirals: Protease Inhibitors,Aptivus,Non-Preferred
+Antivirals: Protease Inhibitors,fosamprenavir,Non-Preferred
+Antivirals: Protease Inhibitors,Invirase,Non-Preferred
+Antivirals: Protease Inhibitors,Lexiva,Non-Preferred
+Antivirals: Protease Inhibitors,Norvir tablet,Non-Preferred
+Antivirals: Protease Inhibitors,Reyataz capsule,Non-Preferred
+Antivirals: Protease Inhibitors,Viracept,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,abacavir/lamivudine,Preferred
+Antivirals: Antiretrovirals- Combination Products,Biktarvy,Preferred
+Antivirals: Antiretrovirals- Combination Products,Cimduo,Preferred
+Antivirals: Antiretrovirals- Combination Products,Delstrigo,Preferred
+Antivirals: Antiretrovirals- Combination Products,Descovy,Preferred
+Antivirals: Antiretrovirals- Combination Products,Dovato,Preferred
+Antivirals: Antiretrovirals- Combination Products,efavirenz/emtricitabine/tenofovir,Preferred
+Antivirals: Antiretrovirals- Combination Products,emtricitabine/tenofovir,Preferred
+Antivirals: Antiretrovirals- Combination Products,Evotaz,Preferred
+Antivirals: Antiretrovirals- Combination Products,Genvoya,Preferred
+Antivirals: Antiretrovirals- Combination Products,lamivudine/zidovudine,Preferred
+Antivirals: Antiretrovirals- Combination Products,lopinavir/ritonavir,Preferred
+Antivirals: Antiretrovirals- Combination Products,Odefsey,Preferred
+Antivirals: Antiretrovirals- Combination Products,Prezcobix,Preferred
+Antivirals: Antiretrovirals- Combination Products,Symfi,Preferred
+Antivirals: Antiretrovirals- Combination Products,Symfi Lo,Preferred
+Antivirals: Antiretrovirals- Combination Products,Triumeq,Preferred
+Antivirals: Antiretrovirals- Combination Products,abacavir/lamivudine/zidovudine,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Apretude,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Atripla,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Cabenuva,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Combivir,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Complera,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,efavirenz/lamivudine/tenofovir,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Epzicom,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Juluca,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Kaletra,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Stribild,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Symtuza,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Trizivir,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Truvada,Non-Preferred
+Hepatitis C: Direct Acting Antivirals (DAAs),Mavyret,Preferred
+Hepatitis C: Direct Acting Antivirals (DAAs),sofosbuvir/velpatasvir,Preferred
+Hepatitis C: Direct Acting Antivirals (DAAs),Epclusa,Non-Preferred
+Hepatitis C: Direct Acting Antivirals (DAAs),Harvoni,Non-Preferred
+Hepatitis C: Direct Acting Antivirals (DAAs),sofosbuvir/ledipasvir,Non-Preferred
+Hepatitis C: Direct Acting Antivirals (DAAs),Sovaldi,Non-Preferred
+Hepatitis C: Direct Acting Antivirals (DAAs),Viekira Pak,Non-Preferred
+Hepatitis C: Direct Acting Antivirals (DAAs),Vosevi,Non-Preferred
+Hepatitis C: Direct Acting Antivirals (DAAs),Zepatier,Non-Preferred
+"Herpes Simplex, Varicella Zoster, & Cytomegalovirus: Direct Acting Antivirals (DAAs)",acyclovir,Preferred
+"Herpes Simplex, Varicella Zoster, & Cytomegalovirus: Direct Acting Antivirals (DAAs)",valacyclovir,Preferred
+"Herpes Simplex, Varicella Zoster, & Cytomegalovirus: Direct Acting Antivirals (DAAs)",valganciclovir tablet,Preferred
+"Herpes Simplex, Varicella Zoster, & Cytomegalovirus: Direct Acting Antivirals (DAAs)",cidofovir,Non-Preferred
+"Herpes Simplex, Varicella Zoster, & Cytomegalovirus: Direct Acting Antivirals (DAAs)",famciclovir,Non-Preferred
+"Herpes Simplex, Varicella Zoster, & Cytomegalovirus: Direct Acting Antivirals (DAAs)",foscarnet,Non-Preferred
+"Herpes Simplex, Varicella Zoster, & Cytomegalovirus: Direct Acting Antivirals (DAAs)",ganciclovir,Non-Preferred
+"Herpes Simplex, Varicella Zoster, & Cytomegalovirus: Direct Acting Antivirals (DAAs)",Livtencity,Non-Preferred
+"Herpes Simplex, Varicella Zoster, & Cytomegalovirus: Direct Acting Antivirals (DAAs)",Prevymis,Non-Preferred
+"Herpes Simplex, Varicella Zoster, & Cytomegalovirus: Direct Acting Antivirals (DAAs)",Sitavig,Non-Preferred
+"Herpes Simplex, Varicella Zoster, & Cytomegalovirus: Direct Acting Antivirals (DAAs)",Valcyte,Non-Preferred
+"Herpes Simplex, Varicella Zoster, & Cytomegalovirus: Direct Acting Antivirals (DAAs)",valganciclovir sol,Non-Preferred
+"Herpes Simplex, Varicella Zoster, & Cytomegalovirus: Direct Acting Antivirals (DAAs)",Valtrex,Non-Preferred
+"Herpes Simplex, Varicella Zoster, & Cytomegalovirus: Direct Acting Antivirals (DAAs)",Zovirax,Non-Preferred
+Appetite Stimulants: Direct Acting Antivirals (DAAs),megestrol,Preferred
+Appetite Stimulants: Direct Acting Antivirals (DAAs),dronabinol,Non-Preferred
+Appetite Stimulants: Direct Acting Antivirals (DAAs),Marinol,Non-Preferred
+Appetite Stimulants: Direct Acting Antivirals (DAAs),megestrol 625 mg/5ml,Non-Preferred
+Bile Acid Sequestrants: Direct Acting Antivirals (DAAs),cholestyramine,Preferred
+Bile Acid Sequestrants: Direct Acting Antivirals (DAAs),colesevelam,Preferred
+Bile Acid Sequestrants: Direct Acting Antivirals (DAAs),Colestid tablet,Preferred
+Bile Acid Sequestrants: Direct Acting Antivirals (DAAs),colestipol granule,Preferred
+Bile Acid Sequestrants: Direct Acting Antivirals (DAAs),colestipol tablet,Preferred
+Bile Acid Sequestrants: Direct Acting Antivirals (DAAs),Colestid granule,Non-Preferred
+Bile Acid Sequestrants: Direct Acting Antivirals (DAAs),Colestid powder,Non-Preferred
+Bile Acid Sequestrants: Direct Acting Antivirals (DAAs),Questran,Non-Preferred
+Bile Acid Sequestrants: Direct Acting Antivirals (DAAs),Welchol,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),alendronate tablet,Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Actonel,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),alendronate solution,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Atelvia,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Boniva,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),calcitonin,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Evenity,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Forteo,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Fosamax,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Fosamax-D,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),ibandronate,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Jubbonti,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Miacalcin,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),pamidronate,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Prolia,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),risedronate,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Reclast,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),teriparatide,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Tymlos,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Wyost,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Xgeva,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Yorvipath,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),zoledronic acid,Non-Preferred
+Cardiovascular: Antianginal Agents,isosorbide dinitrate,Preferred
+Cardiovascular: Antianginal Agents,isosorbide mononitrate,Preferred
+Cardiovascular: Antianginal Agents,isosorbide mononitrate ER,Preferred
+Cardiovascular: Antianginal Agents,nitroglycerin patch,Preferred
+Cardiovascular: Antianginal Agents,nitroglycerin sublingual,Preferred
+Cardiovascular: Antianginal Agents,ranolazine,Preferred
+Cardiovascular: Antianginal Agents,Aspruzyo,Non-Preferred
+Cardiovascular: Antianginal Agents,Gonitro powder,Non-Preferred
+Cardiovascular: Antianginal Agents,Isordil,Non-Preferred
+Cardiovascular: Antianginal Agents,Nitro-Bid ointment,Non-Preferred
+Cardiovascular: Antianginal Agents,Nitro-Dur patch,Non-Preferred
+Cardiovascular: Antianginal Agents,nitroglycerin lingual spray,Non-Preferred
+Cardiovascular: Antianginal Agents,Nitrolingual,Non-Preferred
+Cardiovascular: Antianginal Agents,Nitrostat,Non-Preferred
+Cardiovascular: Antianginal Agents,Ranexa,Non-Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),atorvastatin,Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),Lipitor,Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),lovastatin,Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),pravastatin,Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),rosuvastatin,Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),simvastatin,Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),Altoprev,Non-Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),Atorvaliq,Non-Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),Crestor,Non-Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),Ezallor,Non-Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),fluvastatin,Non-Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),fluvastatin ER,Non-Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),Lescol XL,Non-Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),Livalo,Non-Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),pitavastatin,Non-Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),Zocor,Non-Preferred
+Cardiovascular: HMG Co-A Reductase Inhibitors (“ Statins”),Zypitamag,Non-Preferred
+Cardiovascular: Cholesterol-Lowering Combinations,Caduet,Preferred
+Cardiovascular: Cholesterol-Lowering Combinations,ezetimibe/simvastatin,Preferred
+Cardiovascular: Cholesterol-Lowering Combinations,amlodipine/atorvastatin,Non-Preferred
+Cardiovascular: Cholesterol-Lowering Combinations,Nexlizet,Non-Preferred
+Cardiovascular: Cholesterol-Lowering Combinations,Vytorin,Non-Preferred
+Cardiovascular: PCSK-9 Inhibitors,Repatha,Preferred
+Cardiovascular: PCSK-9 Inhibitors,Leqvio,Non-Preferred
+Cardiovascular: PCSK-9 Inhibitors,Praluent,Non-Preferred
+Cardiovascular: Fibrates,Antara,Preferred
+Cardiovascular: Fibrates,"fenofibrate 48, 50, 54, 134mg",Preferred
+Cardiovascular: Fibrates,"fenofibrate 145, 150, 160, 200mg",Preferred
+Cardiovascular: Fibrates,gemfibrozil,Preferred
+Cardiovascular: Fibrates,choline fenofibrate,Non-Preferred
+Cardiovascular: Fibrates,"fenofibrate 40, 43, 67, 120, 130mg",Non-Preferred
+Cardiovascular: Fibrates,fenofibrate micronized,Non-Preferred
+Cardiovascular: Fibrates,fenofibric acid,Non-Preferred
+Cardiovascular: Fibrates,Fenoglide,Non-Preferred
+Cardiovascular: Fibrates,Lipofen,Non-Preferred
+Cardiovascular: Fibrates,Lopid,Non-Preferred
+Cardiovascular: Fibrates,Tricor,Non-Preferred
+Cardiovascular: Fibrates,Trilipix,Non-Preferred
+Cardiovascular: Miscellaneous Antihyperlipidemics,ezetimibe,Preferred
+Cardiovascular: Miscellaneous Antihyperlipidemics,omega-3 acid ethyl esters,Preferred
+Cardiovascular: Miscellaneous Antihyperlipidemics,icosapent ethyl,Non-Preferred
+Cardiovascular: Miscellaneous Antihyperlipidemics,Juxtapid,Non-Preferred
+Cardiovascular: Miscellaneous Antihyperlipidemics,Lovaza,Non-Preferred
+Cardiovascular: Miscellaneous Antihyperlipidemics,Nexletol,Non-Preferred
+Cardiovascular: Miscellaneous Antihyperlipidemics,Zetia,Non-Preferred
+Cardiovascular: Alpha/Beta-Adrenergic Blocking Agents,carvedilol,Preferred
+Cardiovascular: Alpha/Beta-Adrenergic Blocking Agents,"labetalol 100mg, 200mg, 300mg",Preferred
+Cardiovascular: Alpha/Beta-Adrenergic Blocking Agents,carvedilol ER,Non-Preferred
+Cardiovascular: Alpha/Beta-Adrenergic Blocking Agents,Coreg,Non-Preferred
+Cardiovascular: Alpha/Beta-Adrenergic Blocking Agents,Coreg CR,Non-Preferred
+Cardiovascular: Alpha/Beta-Adrenergic Blocking Agents,labetalol 400mg,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,benazepril,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,enalapril,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,fosinopril,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,lisinopril,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,quinapril,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,ramipril,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,trandolapril,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Accupril,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Altace,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,captopril,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Epaned,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Lotensin,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,moexipril,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,perindopril,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Qbrelis,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Vasotec,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Zestril,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitor Combinations,amlodipine/benazepril,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitor Combinations,benazepril/hctz,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitor Combinations,enalapril/hctz,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitor Combinations,lisinopril/hctz,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitor Combinations,Accuretic,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitor Combinations,captopril/hydrochlorothiazide,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitor Combinations,fosinopril/hydrochlorothiazide,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitor Combinations,Lotrel,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitor Combinations,quinapril/hydrochlorothiazide,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitor Combinations,trandolapril/verapamil,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitor Combinations,Vaseretic,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitor Combinations,Zestoretic,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),Edarbi,Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),irbesartan,Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),losartan,Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),olmesartan,Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),telmisartan,Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),valsartan,Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),Atacand,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),Avapro,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),Benicar,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),candesartan,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),Cozaar,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),Diovan,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),Micardis,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) + Thiazide Combinations,Edarbyclor,Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) + Thiazide Combinations,irbesartan/hydrochlorothiazide,Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) + Thiazide Combinations,losartan/hydrochlorothiazide,Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) + Thiazide Combinations,olmesartan/hydrochlorothiazide,Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) + Thiazide Combinations,valsartan/hydrochlorothiazide,Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) + Thiazide Combinations,Atacand HCT,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) + Thiazide Combinations,Avalide,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) + Thiazide Combinations,Benicar HCT,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) + Thiazide Combinations,candesartan/hydrochlorothiazide,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) + Thiazide Combinations,Diovan HCT,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) + Thiazide Combinations,Hyzaar,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) + Thiazide Combinations,Micardis HCT,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) + Thiazide Combinations,telmisartan/hydrochlorothiazide,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) Combinations - Other,amlodipine/olmesartan,Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) Combinations - Other,amlodipine/olmesartan/HCTZ,Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) Combinations - Other,amlodipine/valsartan,Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) Combinations - Other,Entresto tablet,Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) Combinations - Other,amlodipine/valsartan/HCTZ,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) Combinations - Other,Azor,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) Combinations - Other,Entresto Sprinkle,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) Combinations - Other,Exforge,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) Combinations - Other,Exforge HCT,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) Combinations - Other,sacubitril-Valsartan,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) Combinations - Other,telmisartan/amlodipine,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) Combinations - Other,Tribenzor,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,atenolol,Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,Bystolic,Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,metoprolol succinate,Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,metoprolol tartrate,Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,Rapiblyk inj,Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,acebutolol,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,betaxolol,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,bisoprolol,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,First-Atenol,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,First-Meto,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,Kapspargo,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,Lopressor,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,nebivolol,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,Tenormin,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,Toprol XL,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,nadolol,Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,propranolol,Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,propranolol SR,Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,sotalol,Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,sotalol AF,Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,Betapace,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,Betapace AF,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,Corgard,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,Hemangeol,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,Inderal  XL,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,Inderal LA,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,Innopran XL,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,pindolol,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,Sotylize,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,timolol,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agent Combinations,atenolol/chlorthalidone,Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agent Combinations,bisoprolol/HCTZ,Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agent Combinations,metoprolol/hydrochlorothiazide,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agent Combinations,Tenoretic,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agent Combinations,Ziac,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,amlodipine,Preferred
+Cardiovascular: Calcium Channel Blocking Agents,diltiazem capsule,Preferred
+Cardiovascular: Calcium Channel Blocking Agents,diltiazem solution,Preferred
+Cardiovascular: Calcium Channel Blocking Agents,diltiazem tablet,Preferred
+Cardiovascular: Calcium Channel Blocking Agents,felodipine ER,Preferred
+Cardiovascular: Calcium Channel Blocking Agents,nifedipine,Preferred
+Cardiovascular: Calcium Channel Blocking Agents,nifedipine ER,Preferred
+Cardiovascular: Calcium Channel Blocking Agents,verapamil tablet,Preferred
+Cardiovascular: Calcium Channel Blocking Agents,Calan SR,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,Cardizem,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,Cardizem CD,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,Cardizem LA,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,diltiazem ER tablet,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,isradipine,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,Katerzia,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,levamlodipine,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,nicardipine,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,nimodipine,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,nisoldipine,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,Norliqva,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,Norvasc,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,Nymalize,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,Procardia XL,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,Sular,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,Tiazac,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,verapamil capsule,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,Verelan,Non-Preferred
+Cardiovascular: Calcium Channel Blocking Agents,Verelan PM,Non-Preferred
+Cardiovascular: Diuretics - Loop,bumetanide,Preferred
+Cardiovascular: Diuretics - Loop,furosemide,Preferred
+Cardiovascular: Diuretics - Loop,torsemide,Preferred
+Cardiovascular: Diuretics - Loop,Bumex,Non-Preferred
+Cardiovascular: Diuretics - Loop,Edecrin,Non-Preferred
+Cardiovascular: Diuretics - Loop,ethacrynic acid,Non-Preferred
+Cardiovascular: Diuretics - Loop,Lasix,Non-Preferred
+Cardiovascular: Diuretics - Potassium Sparing & Combination,amiloride,Preferred
+Cardiovascular: Diuretics - Potassium Sparing & Combination,amiloride/HCTZ,Preferred
+Cardiovascular: Diuretics - Potassium Sparing & Combination,eplerenone,Preferred
+Cardiovascular: Diuretics - Potassium Sparing & Combination,spironolactone,Preferred
+Cardiovascular: Diuretics - Potassium Sparing & Combination,spironolactone/HCTZ,Preferred
+Cardiovascular: Diuretics - Potassium Sparing & Combination,triamterene/HCTZ,Preferred
+Cardiovascular: Diuretics - Potassium Sparing & Combination,Aldactazide,Non-Preferred
+Cardiovascular: Diuretics - Potassium Sparing & Combination,Aldactone,Non-Preferred
+Cardiovascular: Diuretics - Potassium Sparing & Combination,CaroSpir,Non-Preferred
+Cardiovascular: Diuretics - Potassium Sparing & Combination,Inspra,Non-Preferred
+Cardiovascular: Diuretics - Potassium Sparing & Combination,Maxzide,Non-Preferred
+Cardiovascular: Diuretics - Potassium Sparing & Combination,spironolactone 25mg/5ml,Non-Preferred
+Cardiovascular: Diuretics - Potassium Sparing & Combination,triamterene,Non-Preferred
+Cardiovascular: Platelet Aggregation Inhibitors,clopidogrel 75mg,Preferred
+Cardiovascular: Platelet Aggregation Inhibitors,prasugrel,Preferred
+Cardiovascular: Platelet Aggregation Inhibitors,Brilinta,Non-Preferred
+Cardiovascular: Platelet Aggregation Inhibitors,clopidogrel 300mg,Non-Preferred
+Cardiovascular: Platelet Aggregation Inhibitors,dipyridamole,Non-Preferred
+Cardiovascular: Platelet Aggregation Inhibitors,Effient,Non-Preferred
+Cardiovascular: Platelet Aggregation Inhibitors,Plavix,Non-Preferred
+Cardiovascular: Platelet Aggregation Inhibitors,ticagrelor,Non-Preferred
+Cardiovascular: Platelet Aggregation Inhibitors,Zontivity,Non-Preferred
+"Cardiovascular: Platelet Aggregation Inhibitors-Miscellaneous, Combinations",asa/dipyridamole,Preferred
+"Cardiovascular: Platelet Aggregation Inhibitors-Miscellaneous, Combinations",cilostazol,Preferred
+"Cardiovascular: Platelet Aggregation Inhibitors-Miscellaneous, Combinations",pentoxifylline,Preferred
+"Cardiovascular: Platelet Aggregation Inhibitors-Miscellaneous, Combinations",Agrylin,Non-Preferred
+"Cardiovascular: Platelet Aggregation Inhibitors-Miscellaneous, Combinations",anagrelide,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,"donepezil 5, 10mg",Preferred
+Central Nervous System: Antidementia Agents - Oral,donepezil ODT,Preferred
+Central Nervous System: Antidementia Agents - Oral,memantine tablet,Preferred
+Central Nervous System: Antidementia Agents - Oral,rivastigmine capsule,Preferred
+Central Nervous System: Antidementia Agents - Oral,Aricept,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,donepezil 23mg,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,galantamine ER,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,memantine ER,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,memantine solution,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,memantine/donepezil ER capsule,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,Namenda tablet,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,Namenda XR,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,Namzaric,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,Zunveyl,Non-Preferred
+Central Nervous System: Antidementia Agents - Topical,Exelon,Preferred
+Central Nervous System: Antidementia Agents - Topical,Adlarity,Non-Preferred
+Central Nervous System: Antidementia Agents - Topical,rivastigmine patch,Non-Preferred
+Central Nervous System: Hypnotics - Benzodiazepines,"temazepam 15, 30mg",Preferred
+Central Nervous System: Hypnotics - Benzodiazepines,estazolam,Non-Preferred
+Central Nervous System: Hypnotics - Benzodiazepines,flurazepam,Non-Preferred
+Central Nervous System: Hypnotics - Benzodiazepines,Halcion,Non-Preferred
+Central Nervous System: Hypnotics - Benzodiazepines,midazolam syrup,Non-Preferred
+Central Nervous System: Hypnotics - Benzodiazepines,Restoril,Non-Preferred
+Central Nervous System: Hypnotics - Benzodiazepines,"temazepam 7.5, 22.5mg",Non-Preferred
+Central Nervous System: Hypnotics - Benzodiazepines,triazolam,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",eszopiclone,Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",ramelteon,Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",zaleplon,Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",zolpidem tablet,Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",zolpidem CR tablet,Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Ambien,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Ambien CR,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Belsomra,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Dayvigo,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",doxepin tablet,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Edluar,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Hetlioz,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Lunesta,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Quviviq,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Rozerem,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",zolpidem 7.5mg capsule,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",zolpidem SL,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Zolpimist,Non-Preferred
+Mental Health: Short Acting ADHD Stimulants,amphetamine/dextroamphetamine table,Preferred
+Mental Health: Short Acting ADHD Stimulants,dexmethylphenidate,Preferred
+Mental Health: Short Acting ADHD Stimulants,Methylin solution,Preferred
+Mental Health: Short Acting ADHD Stimulants,methylphenidate solution,Preferred
+Mental Health: Short Acting ADHD Stimulants,methylphenidate tablet,Preferred
+Mental Health: Short Acting ADHD Stimulants,procentra solution,Preferred
+Mental Health: Short Acting ADHD Stimulants,Adderall,Non-Preferred
+Mental Health: Short Acting ADHD Stimulants,amphetamine sulfate tablet,Non-Preferred
+Mental Health: Short Acting ADHD Stimulants,Dexedrine,Non-Preferred
+Mental Health: Short Acting ADHD Stimulants,dextroamphetamine,Non-Preferred
+Mental Health: Short Acting ADHD Stimulants,dextroamphetamine solution,Non-Preferred
+Mental Health: Short Acting ADHD Stimulants,Evekeo,Non-Preferred
+Mental Health: Short Acting ADHD Stimulants,Evekeo ODT,Non-Preferred
+Mental Health: Short Acting ADHD Stimulants,Focalin,Non-Preferred
+Mental Health: Short Acting ADHD Stimulants,methamphetamine,Non-Preferred
+Mental Health: Short Acting ADHD Stimulants,methylphenidate chewable,Non-Preferred
+Mental Health: Short Acting ADHD Stimulants,Ritalin,Non-Preferred
+Mental Health: Short Acting ADHD Stimulants,Zenzedi,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Adderall XR,Preferred
+Mental Health: Long Acting ADHD Stimulants,Concerta,Preferred
+Mental Health: Long Acting ADHD Stimulants,dexmethylphenidate ER,Preferred
+Mental Health: Long Acting ADHD Stimulants,Dyanavel XR suspension,Preferred
+Mental Health: Long Acting ADHD Stimulants,Quillichew ER,Preferred
+Mental Health: Long Acting ADHD Stimulants,Quillivant suspension,Preferred
+Mental Health: Long Acting ADHD Stimulants,Vyvanse cap,Preferred
+Mental Health: Long Acting ADHD Stimulants,Adzenys XR ODT,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,amphet/dextroamphet 3-bead cap,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,amphet/dextroamphet ER cap,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Aptensio XR,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Azstarys,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Cotempla XR ODT,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Daytrana,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Dexedrine Spansule,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,dextroamphetamine ER,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Dyanavel XR chewable,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Focalin XR,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Jornay PM,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,lisdexamfetamine,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,methylphenidate ER (biphasic),Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,methylphenidate ER (osmotic release),Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,methylphenidate ER capsule,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,methylphenidate patch,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Mydayis,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Relexxii,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Ritalin LA,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Vyvanse chewable,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Xelstrym,Non-Preferred
+Mental Health: Non-Stimulants for ADHD,atomoxetine,Preferred
+Mental Health: Non-Stimulants for ADHD,clonidine ER,Preferred
+Mental Health: Non-Stimulants for ADHD,guanfacine ER,Preferred
+Mental Health: Non-Stimulants for ADHD,Intuniv,Non-Preferred
+Mental Health: Non-Stimulants for ADHD,Onyda XR,Non-Preferred
+Mental Health: Non-Stimulants for ADHD,Qelbree,Non-Preferred
+Mental Health: Non-Stimulants for ADHD,Strattera,Non-Preferred
+Mental Health: Anticonvulsants,Aptiom,Preferred
+Mental Health: Anticonvulsants,Briviact,Preferred
+Mental Health: Anticonvulsants,carbamazepine chewable,Preferred
+Mental Health: Anticonvulsants,carbamazepine ER,Preferred
+Mental Health: Anticonvulsants,Celontin,Preferred
+Mental Health: Anticonvulsants,clobazam,Preferred
+Mental Health: Anticonvulsants,clonazepam,Preferred
+Mental Health: Anticonvulsants,diazepam rectal,Preferred
+Mental Health: Anticonvulsants,Dilantin 30mg,Preferred
+Mental Health: Anticonvulsants,divalproex,Preferred
+Mental Health: Anticonvulsants,ethosuximide,Preferred
+Mental Health: Anticonvulsants,gabapentin,Preferred
+Mental Health: Anticonvulsants,Gabitril,Preferred
+Mental Health: Anticonvulsants,lacosamide,Preferred
+Mental Health: Anticonvulsants,lamotrigine chewable,Preferred
+Mental Health: Anticonvulsants,lamotrigine tablet,Preferred
+Mental Health: Anticonvulsants,levetiracetam,Preferred
+Mental Health: Anticonvulsants,Lyrica capsule,Preferred
+Mental Health: Anticonvulsants,Nayzilam,Preferred
+Mental Health: Anticonvulsants,oxcarbazepine tablet,Preferred
+Mental Health: Anticonvulsants,Peganone,Preferred
+Mental Health: Anticonvulsants,phenytoin,Preferred
+Mental Health: Anticonvulsants,pregabalin,Preferred
+Mental Health: Anticonvulsants,primidone,Preferred
+Mental Health: Anticonvulsants,Tegretol  solution,Preferred
+Mental Health: Anticonvulsants,Tegretol tablet,Preferred
+Mental Health: Anticonvulsants,tiagabine,Preferred
+Mental Health: Anticonvulsants,topiramate capsule,Preferred
+Mental Health: Anticonvulsants,topiramate tablet,Preferred
+Mental Health: Anticonvulsants,valproic acid,Preferred
+Mental Health: Anticonvulsants,Valtoco,Preferred
+Mental Health: Anticonvulsants,Xcopri,Preferred
+Mental Health: Anticonvulsants,Zonisade,Preferred
+Mental Health: Anticonvulsants,zonisamide,Preferred
+Mental Health: Anticonvulsants,Banzel,Non-Preferred
+Mental Health: Anticonvulsants,carbamazepine suspension,Non-Preferred
+Mental Health: Anticonvulsants,carbamazepine tablet,Non-Preferred
+Mental Health: Anticonvulsants,Carbatrol,Non-Preferred
+Mental Health: Anticonvulsants,clonazepam ODT,Non-Preferred
+Mental Health: Anticonvulsants,Depakote,Non-Preferred
+Mental Health: Anticonvulsants,Diacomit,Non-Preferred
+Mental Health: Anticonvulsants,Dilantin 100mg,Non-Preferred
+Mental Health: Anticonvulsants,Dilantin chewable,Non-Preferred
+Mental Health: Anticonvulsants,Elepsia XR,Non-Preferred
+Mental Health: Anticonvulsants,Epidiolex,Non-Preferred
+Mental Health: Anticonvulsants,Eprontia,Non-Preferred
+Mental Health: Anticonvulsants,eslicarbazepine,Non-Preferred
+Mental Health: Anticonvulsants,felbamate,Non-Preferred
+Mental Health: Anticonvulsants,Felbatol,Non-Preferred
+Mental Health: Anticonvulsants,Fintepla,Non-Preferred
+Mental Health: Anticonvulsants,Fycompa,Non-Preferred
+Mental Health: Anticonvulsants,gabapentin (once daily),Non-Preferred
+Mental Health: Anticonvulsants,Gabarone,Non-Preferred
+Mental Health: Anticonvulsants,Gralise,Non-Preferred
+Mental Health: Anticonvulsants,Horizant,Non-Preferred
+Mental Health: Anticonvulsants,Keppra,Non-Preferred
+Mental Health: Anticonvulsants,Klonopin,Non-Preferred
+Mental Health: Anticonvulsants,Lamictal,Non-Preferred
+Mental Health: Anticonvulsants,Lamictal ODT,Non-Preferred
+Mental Health: Anticonvulsants,Lamictal XR,Non-Preferred
+Mental Health: Anticonvulsants,lamotrigine ER,Non-Preferred
+Mental Health: Anticonvulsants,lamotrigine ODT,Non-Preferred
+Mental Health: Anticonvulsants,levetiracetam Disintegrating Solubl,Non-Preferred
+Mental Health: Anticonvulsants,Libervant,Non-Preferred
+Mental Health: Anticonvulsants,Lyrica CR,Non-Preferred
+Mental Health: Anticonvulsants,Lyrica solution,Non-Preferred
+Mental Health: Anticonvulsants,methsuximide,Non-Preferred
+Mental Health: Anticonvulsants,Motpoly XR,Non-Preferred
+Mental Health: Anticonvulsants,Mysoline,Non-Preferred
+Mental Health: Anticonvulsants,Neurontin,Non-Preferred
+Mental Health: Anticonvulsants,Onfi,Non-Preferred
+Mental Health: Anticonvulsants,oxcarbazepine ER tablet,Non-Preferred
+Mental Health: Anticonvulsants,oxcarbazepine suspension,Non-Preferred
+Mental Health: Anticonvulsants,Oxtellar XR,Non-Preferred
+Mental Health: Anticonvulsants,Phenytek,Non-Preferred
+Mental Health: Anticonvulsants,pregabalin solution,Non-Preferred
+Mental Health: Anticonvulsants,Qudexy XR,Non-Preferred
+Mental Health: Anticonvulsants,rufinamide,Non-Preferred
+Mental Health: Anticonvulsants,Sabril,Non-Preferred
+Mental Health: Anticonvulsants,Spritam,Non-Preferred
+Mental Health: Anticonvulsants,Sympazan,Non-Preferred
+Mental Health: Anticonvulsants,Tegretol XR,Non-Preferred
+Mental Health: Anticonvulsants,Topamax,Non-Preferred
+Mental Health: Anticonvulsants,topiramate ER,Non-Preferred
+Mental Health: Anticonvulsants,Trileptal,Non-Preferred
+Mental Health: Anticonvulsants,Trileptal suspension,Non-Preferred
+Mental Health: Anticonvulsants,Trokendi XR,Non-Preferred
+Mental Health: Anticonvulsants,vigabatrin,Non-Preferred
+Mental Health: Anticonvulsants,Vigafyde,Non-Preferred
+Mental Health: Anticonvulsants,Vimpat,Non-Preferred
+Mental Health: Anticonvulsants,Zarontin,Non-Preferred
+Mental Health: Anticonvulsants,Ztalmy,Non-Preferred
+Mental Health: Atypical Antipsychotics,Abilify Asimtufii,Preferred
+Mental Health: Atypical Antipsychotics,Abilify Maintena,Preferred
+Mental Health: Atypical Antipsychotics,aripiprazole tablet,Preferred
+Mental Health: Atypical Antipsychotics,Aristada,Preferred
+Mental Health: Atypical Antipsychotics,clozapine tablet,Preferred
+Mental Health: Atypical Antipsychotics,Invega Hafyera,Preferred
+Mental Health: Atypical Antipsychotics,Invega Sustenna,Preferred
+Mental Health: Atypical Antipsychotics,Invega Trinza,Preferred
+Mental Health: Atypical Antipsychotics,lurasidone,Preferred
+Mental Health: Atypical Antipsychotics,olanzapine,Preferred
+Mental Health: Atypical Antipsychotics,olanzapine ODT,Preferred
+Mental Health: Atypical Antipsychotics,Perseris,Preferred
+Mental Health: Atypical Antipsychotics,quetiapine,Preferred
+Mental Health: Atypical Antipsychotics,quetiapine ER,Preferred
+Mental Health: Atypical Antipsychotics,risperidone solution,Preferred
+Mental Health: Atypical Antipsychotics,risperidone tablet,Preferred
+Mental Health: Atypical Antipsychotics,Rykindo,Preferred
+Mental Health: Atypical Antipsychotics,Saphris,Preferred
+Mental Health: Atypical Antipsychotics,Zyprexa Relprevv,Preferred
+Mental Health: Atypical Antipsychotics,ziprasidone,Preferred
+Mental Health: Atypical Antipsychotics,Abilify,Non-Preferred
+Mental Health: Atypical Antipsychotics,Abilify Mycite,Non-Preferred
+Mental Health: Atypical Antipsychotics,aripiprazole ODT,Non-Preferred
+Mental Health: Atypical Antipsychotics,aripiprazole solution,Non-Preferred
+Mental Health: Atypical Antipsychotics,asenapine SL tablet,Non-Preferred
+Mental Health: Atypical Antipsychotics,Caplyta,Non-Preferred
+Mental Health: Atypical Antipsychotics,clozapine ODT,Non-Preferred
+Mental Health: Atypical Antipsychotics,Clozaril,Non-Preferred
+Mental Health: Atypical Antipsychotics,Cobenfy,Non-Preferred
+Mental Health: Atypical Antipsychotics,Erzofri,Non-Preferred
+Mental Health: Atypical Antipsychotics,Fanapt,Non-Preferred
+Mental Health: Atypical Antipsychotics,Geodon capsule,Non-Preferred
+Mental Health: Atypical Antipsychotics,Geodon injection,Non-Preferred
+Mental Health: Atypical Antipsychotics,Invega,Non-Preferred
+Mental Health: Atypical Antipsychotics,Latuda,Non-Preferred
+Mental Health: Atypical Antipsychotics,Lybalvi,Non-Preferred
+Mental Health: Atypical Antipsychotics,olanzapine injection,Non-Preferred
+Mental Health: Atypical Antipsychotics,Opipza,Non-Preferred
+Mental Health: Atypical Antipsychotics,paliperidone,Non-Preferred
+Mental Health: Atypical Antipsychotics,Rexulti,Non-Preferred
+Mental Health: Atypical Antipsychotics,Risperdal,Non-Preferred
+Mental Health: Atypical Antipsychotics,Risperdal Consta,Non-Preferred
+Mental Health: Atypical Antipsychotics,risperidone injection,Non-Preferred
+Mental Health: Atypical Antipsychotics,risperidone ODT,Non-Preferred
+Mental Health: Atypical Antipsychotics,Secuado,Non-Preferred
+Mental Health: Atypical Antipsychotics,Seroquel,Non-Preferred
+Mental Health: Atypical Antipsychotics,Seroquel XR,Non-Preferred
+Mental Health: Atypical Antipsychotics,Uzedy,Non-Preferred
+Mental Health: Atypical Antipsychotics,Vraylar,Non-Preferred
+Mental Health: Atypical Antipsychotics,Versacloz,Non-Preferred
+Mental Health: Atypical Antipsychotics,Ziprasidone injection,Non-Preferred
+Mental Health: Atypical Antipsychotics,Zyprexa,Non-Preferred
+Mental Health: Atypical Antipsychotics,Zyprexa Zydis,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,citalopram tablet,Preferred
+Mental Health: Antidepressants - SSRI/SNRI,desvenlafaxine succinate,Preferred
+Mental Health: Antidepressants - SSRI/SNRI,"duloxetine 20, 30, 60mg",Preferred
+Mental Health: Antidepressants - SSRI/SNRI,escitalopram tablet,Preferred
+Mental Health: Antidepressants - SSRI/SNRI,fluoxetine capsule,Preferred
+Mental Health: Antidepressants - SSRI/SNRI,fluoxetine solution,Preferred
+Mental Health: Antidepressants - SSRI/SNRI,fluoxetine tablet,Preferred
+Mental Health: Antidepressants - SSRI/SNRI,paroxetine [non-ER] tablet,Preferred
+Mental Health: Antidepressants - SSRI/SNRI,sertraline tablet,Preferred
+Mental Health: Antidepressants - SSRI/SNRI,venlafaxine ER capsule,Preferred
+Mental Health: Antidepressants - SSRI/SNRI,venlafaxine tablet [non-ER],Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Brisdelle,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Celexa,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,citalopram capsule,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,citalopram solution,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Cymbalta,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,desvenlafaxine (base),Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Drizalma,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,duloxetine 40mg,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Effexor XR,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,escitalopram solution,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Fetzima,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,fluoxetine weekly (90mg),Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,fluvoxamine,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,fluvoxamine ER,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Lexapro,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,olanzapine/fluoxetine,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,paroxetine 7.5mg,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,paroxetine ER tablet,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,paroxetine suspension,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Paxil CR,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,"Paxil tablet, suspension",Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Pexeva,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Pristiq,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Prozac,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,sertraline capsule,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,sertraline concentrate,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Symbyax,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,venlafaxine ER tablet,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Zoloft,Non-Preferred
+Mental Health: Antidepressants -TCAs,amitriptyline,Preferred
+Mental Health: Antidepressants -TCAs,"doxepin capsule, concentrate",Preferred
+Mental Health: Antidepressants -TCAs,imipramine HCl tablet,Preferred
+Mental Health: Antidepressants -TCAs,nortriptyline capsule,Preferred
+Mental Health: Antidepressants -TCAs,amitriptyline/chlordiazepoxide,Non-Preferred
+Mental Health: Antidepressants -TCAs,amitriptyline/perphenazine,Non-Preferred
+Mental Health: Antidepressants -TCAs,amoxapine,Non-Preferred
+Mental Health: Antidepressants -TCAs,Anafranil,Non-Preferred
+Mental Health: Antidepressants -TCAs,clomipramine,Non-Preferred
+Mental Health: Antidepressants -TCAs,desipramine,Non-Preferred
+Mental Health: Antidepressants -TCAs,imipramine pamoate capsule,Non-Preferred
+Mental Health: Antidepressants -TCAs,Norpramin,Non-Preferred
+Mental Health: Antidepressants -TCAs,nortriptyline solution,Non-Preferred
+Mental Health: Antidepressants -TCAs,Pamelor,Non-Preferred
+Mental Health: Antidepressants -TCAs,protriptyline,Non-Preferred
+Mental Health: Antidepressants -TCAs,trimipramine,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,Aplenzin,Preferred
+Mental Health: Antidepressants - Miscellaneous,bupropion,Preferred
+Mental Health: Antidepressants - Miscellaneous,bupropion SR,Preferred
+Mental Health: Antidepressants - Miscellaneous,"bupropion XL 150, 300mg",Preferred
+Mental Health: Antidepressants - Miscellaneous,Marplan,Preferred
+Mental Health: Antidepressants - Miscellaneous,mirtazapine 7.5mg,Preferred
+Mental Health: Antidepressants - Miscellaneous,"mirtazapine 15, 30, 45mg",Preferred
+Mental Health: Antidepressants - Miscellaneous,mirtazapine ODT,Preferred
+Mental Health: Antidepressants - Miscellaneous,phenelzine,Preferred
+Mental Health: Antidepressants - Miscellaneous,"trazodone 50, 100, 150mg",Preferred
+Mental Health: Antidepressants - Miscellaneous,trazodone 300mg,Preferred
+Mental Health: Antidepressants - Miscellaneous,Auvelity,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,bupropion 450mg ER,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,Emsam,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,Forfivo XL,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,Nardil,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,nefazodone,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,Raldesy Solution,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,Remeron,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,Remeron ODT,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,tranylcypromine,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,Trintellix,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,Viibryd,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,vilazodone,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,Wellbutrin,Non-Preferred
+Mental Health: Anxiolytic Benzodiazepines,alprazolam tablet,Preferred
+Mental Health: Anxiolytic Benzodiazepines,chlordiazepoxide,Preferred
+Mental Health: Anxiolytic Benzodiazepines,diazepam tablet,Preferred
+Mental Health: Anxiolytic Benzodiazepines,lorazepam tablet,Preferred
+Mental Health: Anxiolytic Benzodiazepines,alprazolam concentrate,Non-Preferred
+Mental Health: Anxiolytic Benzodiazepines,alprazolam ODT,Non-Preferred
+Mental Health: Anxiolytic Benzodiazepines,Ativan,Non-Preferred
+Mental Health: Anxiolytic Benzodiazepines,clorazepate,Non-Preferred
+Mental Health: Anxiolytic Benzodiazepines,diazepam concentrate,Non-Preferred
+Mental Health: Anxiolytic Benzodiazepines,diazepam solution,Non-Preferred
+Mental Health: Anxiolytic Benzodiazepines,lorazepam concentrate,Non-Preferred
+Mental Health: Anxiolytic Benzodiazepines,Loreev XR,Non-Preferred
+Mental Health: Anxiolytic Benzodiazepines,oxazepam,Non-Preferred
+Mental Health: Anxiolytic Benzodiazepines,Xanax,Non-Preferred
+Mental Health: Wakefulness Promoting Agents,armodafinil,Preferred
+Mental Health: Wakefulness Promoting Agents,modafinil,Preferred
+Mental Health: Wakefulness Promoting Agents,Nuvigil,Preferred
+Mental Health: Wakefulness Promoting Agents,Provigil,Preferred
+Mental Health: Wakefulness Promoting Agents,Sunosi,Non-Preferred
+Mental Health: Wakefulness Promoting Agents,Wakix,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,afirmelle,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,altavera,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,alyacen 1/35,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,apri,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,aubra,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,aurovela 1/20,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,aurovela 24 FE 1/20,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,"aurovela FE 1.5/30, 1/20",Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,aviane,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,ayuna,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,balziva,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Beyaz,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,"blisovi FE 1/20, 1.5/30",Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,charlotte 24 FE chew,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,chateal,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,cyred,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,dasetta 1/35,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,desogestrel/ee,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,drospirenone/ee,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,enskyce,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,estarylla,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,falmina,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,"feirza 1.5/30, 1/20",Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,femynor,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,finzala FE chew 1/20,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,gianvi,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,"hailey FE 1/20, FE 1.5/30, 24 FE",Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,isibloom,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,jasmiel,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,juleber,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Junel 1/20,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,"junel FE 1/20, 1.5/30",Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,junel FE 24 1/20,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,kalliga,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,kurvelo,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,larin 1/20,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,"larin FE 1/20, 1.5/30",Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,larin FE 24 1/20,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,larissia,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,lessina,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,levonorgestrel/ee,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,levora,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,lillow,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,loestrin 1/20-21,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,loestrin 21 1.5/30,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,"loestrin FE 1.5/30, 1/20",Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,loryna,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,lo-zumandimine,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,lutera,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,marlissa,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,melodetta 24 chewable,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,mibelas 24 chew,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,microgestin 1/20,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,microgestin 24 FE 1/20,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,"microgestin FE 1/20, FE 1.5/30",Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,mili,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,mono-linyah,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,necon 0.5/35,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,nikki,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,norethindrone/ee 1/20,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,"norethindrone/ee FE 1/20, 1.5/30",Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,norethindrone/ee FE capsule,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,norethindrone/ee FE chewable,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,norgestimate/ee,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,nortrel 1/35,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,nylia,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,nymyo,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,ocella,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,philith,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,pirmella 1/35,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,portia,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,previfem,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,reclipsen,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,sprintec,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,sronyx,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,syeda,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,"tarina FE, 24",Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Tyblume,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,vestura,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,vienva,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,vyfemla,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,vylibra,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Yasmin,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Yaz,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,zumandimine,Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,aurovela 1.5/30,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Balcoltra,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,blisovi 24 FE 1/20,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,briellyn,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,cryselle,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,drospirenone/ee/levomefolate,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,elinest,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,ethynodiol/ee,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,FaLessa kit,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Femlyv,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,gemmily,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,hailey 1.5/30,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,joyeaux,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,junel 1.5/30,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,kaitlib,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,"kelnor 1/35, 1/50",Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,larin 1.5/30,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,layolis,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,low-ogestrel,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,merzee,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,microgestin 1.5/30,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Minastrin 24 FE chewable,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Nextstellis,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,norethindrone/ee 1.5/30,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,nortrel 0.5/35,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Safyral,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,taysofy,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Taytulla,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,tydemy,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,wera,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,wymzya,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,valtya 1/50,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,zovia,Non-Preferred
+Contraceptives: Bi-phasic - Oral,azurette,Preferred
+Contraceptives: Bi-phasic - Oral,bekyree,Preferred
+Contraceptives: Bi-phasic - Oral,desogestrel/ee,Preferred
+Contraceptives: Bi-phasic - Oral,kariva,Preferred
+Contraceptives: Bi-phasic - Oral,pimtrea,Preferred
+Contraceptives: Bi-phasic - Oral,simliya,Preferred
+Contraceptives: Bi-phasic - Oral,viorele,Preferred
+Contraceptives: Bi-phasic - Oral,volnea,Preferred
+Contraceptives: Bi-phasic - Oral,Lo Loestrin,Non-Preferred
+Contraceptives: Bi-phasic - Oral,Mircette,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,Natazia,Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,norgestimate/ee,Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,tri femynor,Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,"tri-estaryll, tri-lo-estaryll",Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,tri-linyah,Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,tri-lo-marzia,Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,"tri-mili, tri-lo-mili",Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,tri-nymo,Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,tri-previfem,Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,"tri-sprintec, tri-lo-sprintec",Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,tri-vylibra,Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,alyacen 7/7/7,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,aranelle,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,dasetta 7/7/7,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,enpresse,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,leena,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,levonest,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,levonorgestrel/ee,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,nortrel 7/7/7,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,nylia 7/7/7,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,pirmella 7/7/7,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,tilia FE,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,tri-legest FE,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,trivora,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,velivet,Non-Preferred
+Contraceptives: Tri-phasic and Multi-phasic - Oral,xarah FE,Non-Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,amethia,Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,ashlyna,Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,camrese,Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,camrese Lo,Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,daysee,Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,iclevia,Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,jaimiess,Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,jolessa,Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,levonorgestrel/ee [91 day],Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,Loseasonique,Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,Seasonique,Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,setlakin,Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,simpesse,Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,amethyst,Non-Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,dolishale,Non-Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,fayosim,Non-Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,introvale,Non-Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,jaimiess Lo,Non-Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,levonorgestrel/ee [84 day],Non-Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,norethindrone/ee FE,Non-Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,Quartette,Non-Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,rivelsa,Non-Preferred
+Cytokine Modulators: Immunomodulators,Avsola,Preferred
+Cytokine Modulators: Immunomodulators,Enbrel,Preferred
+Cytokine Modulators: Immunomodulators,Humira,Preferred
+Cytokine Modulators: Immunomodulators,Otezla,Preferred
+Cytokine Modulators: Immunomodulators,Taltz,Preferred
+Cytokine Modulators: Immunomodulators,Xeljanz,Preferred
+Cytokine Modulators: Immunomodulators,Xeljanz XR,Preferred
+Cytokine Modulators: Immunomodulators,Actemra,Non-Preferred
+Cytokine Modulators: Immunomodulators,adalimumab (all biosimilars),Non-Preferred
+Cytokine Modulators: Immunomodulators,Arcalyst,Non-Preferred
+Cytokine Modulators: Immunomodulators,Bimzelx,Non-Preferred
+Cytokine Modulators: Immunomodulators,Cibinqo,Non-Preferred
+Cytokine Modulators: Immunomodulators,Cimzia,Non-Preferred
+Cytokine Modulators: Immunomodulators,Cosentyx,Non-Preferred
+Cytokine Modulators: Immunomodulators,Entyvio,Non-Preferred
+Cytokine Modulators: Immunomodulators,Ilaris,Non-Preferred
+Cytokine Modulators: Immunomodulators,Ilumya,Non-Preferred
+Cytokine Modulators: Immunomodulators,Inflectra,Non-Preferred
+Cytokine Modulators: Immunomodulators,infliximab,Non-Preferred
+Cytokine Modulators: Immunomodulators,Kevzara,Non-Preferred
+Cytokine Modulators: Immunomodulators,Kineret,Non-Preferred
+Cytokine Modulators: Immunomodulators,Litfulo,Non-Preferred
+Cytokine Modulators: Immunomodulators,Nemluvio,Non-Preferred
+Cytokine Modulators: Immunomodulators,Olumiant,Non-Preferred
+Cytokine Modulators: Immunomodulators,Omvoh,Non-Preferred
+Cytokine Modulators: Immunomodulators,Orencia,Non-Preferred
+Cytokine Modulators: Immunomodulators,Remicade,Non-Preferred
+Cytokine Modulators: Immunomodulators,Renflexis,Non-Preferred
+Cytokine Modulators: Immunomodulators,Rinvoq,Non-Preferred
+Cytokine Modulators: Immunomodulators,Siliq,Non-Preferred
+Cytokine Modulators: Immunomodulators,Simponi,Non-Preferred
+Cytokine Modulators: Immunomodulators,Skyrizi,Non-Preferred
+Cytokine Modulators: Immunomodulators,Sotyktu,Non-Preferred
+Cytokine Modulators: Immunomodulators,Spevigo,Non-Preferred
+Cytokine Modulators: Immunomodulators,Stelara,Non-Preferred
+Cytokine Modulators: Immunomodulators,tocilizumab (all biosimilars),Non-Preferred
+Cytokine Modulators: Immunomodulators,Tremfya,Non-Preferred
+Cytokine Modulators: Immunomodulators,ustekinumab (all biosimilars),Non-Preferred
+Cytokine Modulators: Immunomodulators,Velsipity,Non-Preferred
+Cytokine Modulators: Immunomodulators,Wezlana,Non-Preferred
+Cytokine Modulators: Immunomodulators,Zymfentra,Non-Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,adapalene/benzoyl peroxide gel,Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,benzoyl peroxide/erythromycin,Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,clindamycin gel,Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,clindamycin lotion,Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,clindamycin pad,Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,clindamycin solution,Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,clindamycin/benzoyl peroxide,Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,erythromycin 2% gel,Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,erythromycin 2% solution,Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,Onexton,Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,Ziana,Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,Acanya,Non-Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,adapalene/benzoyl peroxide pad,Non-Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,Benzamycin,Non-Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,Cabtreo,Non-Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,Cleocin T lotion,Non-Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,Clindacin kit,Non-Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,Clindagel,Non-Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,clindamycin foam,Non-Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,clindamycin/tretinoin,Non-Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,dapsone,Non-Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,EryGel,Non-Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,erythromycin pad,Non-Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,Klaron,Non-Preferred
+Dermatological: Topical Acne Products - Antibiotics & Combinations,sulfacetamide sodium lotion,Non-Preferred
+Dermatological: Topical Acne Products - Retinoids,Retin-A,Preferred
+Dermatological: Topical Acne Products - Retinoids,adapalene,Non-Preferred
+Dermatological: Topical Acne Products - Retinoids,Altreno,Non-Preferred
+Dermatological: Topical Acne Products - Retinoids,Arazlo,Non-Preferred
+Dermatological: Topical Acne Products - Retinoids,Atralin,Non-Preferred
+Dermatological: Topical Acne Products - Retinoids,Fabior,Non-Preferred
+Dermatological: Topical Acne Products - Retinoids,Retin-A Micro,Non-Preferred
+Dermatological: Topical Acne Products - Retinoids,tazarotene,Non-Preferred
+Dermatological: Topical Acne Products - Retinoids,tretinoin,Non-Preferred
+Dermatological: Topical Acne Products - Miscellaneous,sulfacetamide/sulfur emulsion,Preferred
+Dermatological: Topical Acne Products - Miscellaneous,sulfacetamide/sulfur liquid,Preferred
+Dermatological: Topical Acne Products - Miscellaneous,sulfacetamide/sulfur suspension,Preferred
+Dermatological: Topical Acne Products - Miscellaneous,azelaic acid gel,Non-Preferred
+Dermatological: Topical Acne Products - Miscellaneous,brimonidine gel,Non-Preferred
+Dermatological: Topical Acne Products - Miscellaneous,selenium sulfide,Non-Preferred
+Dermatological: Topical Acne Products - Miscellaneous,sulfacetamide gel,Non-Preferred
+Dermatological: Topical Acne Products - Miscellaneous,sulfacetamide/sulfur cleanser,Non-Preferred
+Dermatological: Topical Acne Products - Miscellaneous,sulfacetamide/sulfur cream,Non-Preferred
+Dermatological: Topical Acne Products - Miscellaneous,sulfacetamide/sulfur foam,Non-Preferred
+Dermatological: Topical Acne Products - Miscellaneous,Sumadan XLT kit,Non-Preferred
+Dermatological: Topical Acne Products - Miscellaneous,Winlevi,Non-Preferred
+Dermatological: Topical Acne Products - Miscellaneous,ZMA,Non-Preferred
+Dermatological: Oral Acne Products,"amnesteem 10, 20, 30, 40mg",Preferred
+Dermatological: Oral Acne Products,"claravis 10, 20, 30, 40mg",Preferred
+Dermatological: Oral Acne Products,"isotretinoin 10, 20, 30, 40mg",Preferred
+Dermatological: Oral Acne Products,"zenatane 10, 20, 30, 40mg",Preferred
+Dermatological: Oral Acne Products,Absorica,Non-Preferred
+Dermatological: Oral Acne Products,"isotretinoin 25, 35mg",Non-Preferred
+Dermatological: Topical Antifungals,ciclopirox cream,Preferred
+Dermatological: Topical Antifungals,ciclopirox gel,Preferred
+Dermatological: Topical Antifungals,ciclopirox shampoo,Preferred
+Dermatological: Topical Antifungals,ciclopirox suspension,Preferred
+Dermatological: Topical Antifungals,clotrimazole cream,Preferred
+Dermatological: Topical Antifungals,clotrimazole solution,Preferred
+Dermatological: Topical Antifungals,Ertaczo,Preferred
+Dermatological: Topical Antifungals,ketoconazole cream,Preferred
+Dermatological: Topical Antifungals,ketoconazole shampoo,Preferred
+Dermatological: Topical Antifungals,nystatin,Preferred
+Dermatological: Topical Antifungals,ciclopirox solution,Non-Preferred
+Dermatological: Topical Antifungals,econazole,Non-Preferred
+Dermatological: Topical Antifungals,Exelderm,Non-Preferred
+Dermatological: Topical Antifungals,Jublia,Non-Preferred
+Dermatological: Topical Antifungals,Kerydin,Non-Preferred
+Dermatological: Topical Antifungals,ketoconazole foam,Non-Preferred
+Dermatological: Topical Antifungals,Loprox,Non-Preferred
+Dermatological: Topical Antifungals,luliconazole,Non-Preferred
+Dermatological: Topical Antifungals,Luzu,Non-Preferred
+Dermatological: Topical Antifungals,Mentax,Non-Preferred
+Dermatological: Topical Antifungals,naftifine,Non-Preferred
+Dermatological: Topical Antifungals,Naftin,Non-Preferred
+Dermatological: Topical Antifungals,oxiconazole,Non-Preferred
+Dermatological: Topical Antifungals,Oxistat,Non-Preferred
+Dermatological: Topical Antifungals,tavaborole,Non-Preferred
+Dermatological: Topical Antivirals,acyclovir ointment,Preferred
+Dermatological: Topical Antivirals,acyclovir cream,Non-Preferred
+Dermatological: Topical Antivirals,Denavir,Non-Preferred
+Dermatological: Topical Antivirals,penciclovir,Non-Preferred
+Dermatological: Topical Antivirals,Xerese,Non-Preferred
+Dermatological: Topical Antivirals,Zovirax,Non-Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),Adbry,Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),Dupixent,Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),Elidel,Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),tacrolimus,Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),Cibinqo,Non-Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),Ebglyss,Non-Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),Eucrisa,Non-Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),Opzelura,Non-Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),pimecrolimus,Non-Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),Rinvoq,Non-Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),Zoryve,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,betamethasone augmented cream,Preferred
+Dermatological: Very Potent - Corticosteroids,betamethasone dipropionate cream,Preferred
+Dermatological: Very Potent - Corticosteroids,betamethasone dipropionate lotion,Preferred
+Dermatological: Very Potent - Corticosteroids,clobetasol cream,Preferred
+Dermatological: Very Potent - Corticosteroids,clobetasol ointment,Preferred
+Dermatological: Very Potent - Corticosteroids,clobetasol shampoo,Preferred
+Dermatological: Very Potent - Corticosteroids,clobetasol solution,Preferred
+Dermatological: Very Potent - Corticosteroids,halobetasol cream,Preferred
+Dermatological: Very Potent - Corticosteroids,halobetasol ointment,Preferred
+Dermatological: Very Potent - Corticosteroids,Apexicon E,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,betamethasone augmented gel,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,betamethasone augmented lotion,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,betamethasone augmented ointment,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,betamethasone ointment,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,Bryhali,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,clobetasol  foam,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,clobetasol gel,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,clobetasol lotion,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,clobetasol spray,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,diflorasone,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,Diprolene,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,fluocinonide 0.1%,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,flurandrenolide,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,halobetasol foam,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,Impeklo,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,Lexette,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,Olux-E,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,Psorcon,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,Tovet,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,Ultravate,Non-Preferred
+Dermatological: Very Potent - Corticosteroids,Vanos,Non-Preferred
+Dermatological: Potent - Corticosteroids,desoximetasone 0.25%,Preferred
+Dermatological: Potent - Corticosteroids,fluocinonide 0.05% cream,Preferred
+Dermatological: Potent - Corticosteroids,fluocinonide 0.05% gel,Preferred
+Dermatological: Potent - Corticosteroids,fluocinonide 0.05% ointment,Preferred
+Dermatological: Potent - Corticosteroids,fluocinonide 0.05% solution,Preferred
+Dermatological: Potent - Corticosteroids,Halog,Preferred
+Dermatological: Potent - Corticosteroids,mometasone 0.1% ointment,Preferred
+Dermatological: Potent - Corticosteroids,triamcinolone 0.5%,Preferred
+Dermatological: Potent - Corticosteroids,amcinonide,Non-Preferred
+Dermatological: Potent - Corticosteroids,halcinonide,Non-Preferred
+Dermatological: Potent - Corticosteroids,Topicort,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,betamethasone val,Preferred
+Dermatological: Midstrength - Corticosteroids,fluticasone cream,Preferred
+Dermatological: Midstrength - Corticosteroids,fluticasone ointment,Preferred
+Dermatological: Midstrength - Corticosteroids,mometasone 0.1% cream,Preferred
+Dermatological: Midstrength - Corticosteroids,mometasone 0.1% solution,Preferred
+Dermatological: Midstrength - Corticosteroids,triamcinolone 0.1%  ointment,Preferred
+Dermatological: Midstrength - Corticosteroids,triamcinolone 0.1% cream,Preferred
+Dermatological: Midstrength - Corticosteroids,triamcinolone 0.1% lotion,Preferred
+Dermatological: Midstrength - Corticosteroids,Beser,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,clocortolone,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,Cloderm,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,desoximetasone 0.05%,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,fluocinolone 0.025% cream,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,fluocinolone 0.025% ointment,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,fluticasone lotion,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,hydrocortisone val 0.2% cream,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,hydrocortisone val 0.2% ointment,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,Kenalog spray,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,Luxiq,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,Pandel,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,prednicarbate,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,Synalar cream,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,Synalar ointment,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,Topicort,Non-Preferred
+Dermatological: Midstrength - Corticosteroids,triamcinolone topical spray,Non-Preferred
+Dermatological: Mild - Corticosteroids,Capex,Preferred
+Dermatological: Mild - Corticosteroids,desonide,Preferred
+Dermatological: Mild - Corticosteroids,fluocinolone 0.01% cream,Preferred
+Dermatological: Mild - Corticosteroids,fluocinolone 0.01% oil,Preferred
+Dermatological: Mild - Corticosteroids,hydrocortisone 1% cream,Preferred
+Dermatological: Mild - Corticosteroids,hydrocortisone 1% ointment,Preferred
+Dermatological: Mild - Corticosteroids,hydrocortisone 2.5% cream,Preferred
+Dermatological: Mild - Corticosteroids,hydrocortisone 2.5% lotion,Preferred
+Dermatological: Mild - Corticosteroids,hydrocortisone 2.5% ointment,Preferred
+Dermatological: Mild - Corticosteroids,hydrocortisone 2.5% rectal cream,Preferred
+Dermatological: Mild - Corticosteroids,hydrocortisone enema,Preferred
+Dermatological: Mild - Corticosteroids,triamcinolone 0.025% cream,Preferred
+Dermatological: Mild - Corticosteroids,triamcinolone 0.025% lotion,Preferred
+Dermatological: Mild - Corticosteroids,triamcinolone 0.025% ointment,Preferred
+Dermatological: Mild - Corticosteroids,alclometasone,Non-Preferred
+Dermatological: Mild - Corticosteroids,Anusol-HC,Non-Preferred
+Dermatological: Mild - Corticosteroids,budesonide rectal foam,Non-Preferred
+Dermatological: Mild - Corticosteroids,Cortenema,Non-Preferred
+Dermatological: Mild - Corticosteroids,Derma-Smoothe/FS,Non-Preferred
+Dermatological: Mild - Corticosteroids,fluocinolone 0.01% solution,Non-Preferred
+Dermatological: Mild - Corticosteroids,hydrocortisone 2.5% solution,Non-Preferred
+Dermatological: Mild - Corticosteroids,hydrocortisone butyrate,Non-Preferred
+Dermatological: Mild - Corticosteroids,Locoid,Non-Preferred
+Dermatological: Mild - Corticosteroids,Synalar solution,Non-Preferred
+Dermatological: Mild - Corticosteroids,Texacort,Non-Preferred
+Dermatological: Mild - Corticosteroids,triamcinolone 0.05% ointment,Non-Preferred
+Dermatological: Mild - Corticosteroids,Uceris,Non-Preferred
+Dermatological: Steroid/Antifungal Combinations,clotrimazole/betamethasone cre,Preferred
+Dermatological: Steroid/Antifungal Combinations,nystatin/triamcinolone,Preferred
+Dermatological: Steroid/Antifungal Combinations,clotrimazole/betamethasone lotion,Non-Preferred
+Dermatological: Steroid/Antifungal Combinations,Mycozyl HC,Non-Preferred
+Dermatological: Local Anesthetic Agents,lidocaine cream (except 4.12%),Preferred
+Dermatological: Local Anesthetic Agents,lidocaine gel,Preferred
+Dermatological: Local Anesthetic Agents,lidocaine ointment,Preferred
+Dermatological: Local Anesthetic Agents,lidocaine patch,Preferred
+Dermatological: Local Anesthetic Agents,lidocaine solution,Preferred
+Dermatological: Local Anesthetic Agents,lidocaine/hydrocortisone rectal cream,Preferred
+Dermatological: Local Anesthetic Agents,lidocaine/prilocaine,Preferred
+Dermatological: Local Anesthetic Agents,Lidoderm,Preferred
+Dermatological: Local Anesthetic Agents,Bruselix,Non-Preferred
+Dermatological: Local Anesthetic Agents,Epifoam,Non-Preferred
+Dermatological: Local Anesthetic Agents,lidocaine 4.12% cream,Non-Preferred
+Dermatological: Local Anesthetic Agents,lidocaine/hydrocortisone rectal gel,Non-Preferred
+Dermatological: Local Anesthetic Agents,Lidogel,Non-Preferred
+Dermatological: Local Anesthetic Agents,Lidorex,Non-Preferred
+Dermatological: Local Anesthetic Agents,Lidotral,Non-Preferred
+Dermatological: Local Anesthetic Agents,Lidotral/hydrocortisone,Non-Preferred
+Dermatological: Local Anesthetic Agents,Lidotran,Non-Preferred
+Dermatological: Local Anesthetic Agents,Pliaglis,Non-Preferred
+Dermatological: Local Anesthetic Agents,Proctofoam,Non-Preferred
+Dermatological: Local Anesthetic Agents,Qutenza,Non-Preferred
+Dermatological: Local Anesthetic Agents,Synera,Non-Preferred
+Dermatological: Local Anesthetic Agents,Ztlido,Non-Preferred
+Dermatological: Scabicides/Pediculicides,Natroba,Preferred
+Dermatological: Scabicides/Pediculicides,permethrin,Preferred
+Dermatological: Scabicides/Pediculicides,Vanalice,Preferred
+Dermatological: Scabicides/Pediculicides,Crotan,Non-Preferred
+Dermatological: Scabicides/Pediculicides,Eurax,Non-Preferred
+Dermatological: Scabicides/Pediculicides,ivermectin lotion,Non-Preferred
+Dermatological: Scabicides/Pediculicides,lindane,Non-Preferred
+Dermatological: Scabicides/Pediculicides,malathion,Non-Preferred
+Dermatological: Scabicides/Pediculicides,Ovide,Non-Preferred
+Dermatological: Scabicides/Pediculicides,spinosad,Non-Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,Dexcom G6 Receiver,Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,Dexcom G6 Sensor,Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,Dexcom G6 Transmitter,Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,Dexcom G7 Receiver,Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,Dexcom G7 Sensor,Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,FreeStyle Libre Reader,Non-Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,FreeStyle Libre Sensor,Non-Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,Guardian Connect Transmitter,Non-Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,Guardian 4 Transmitter,Non-Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,Guardian Sensor 3,Non-Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,Guardian Sensor 4,Non-Preferred
+Diagnostic Products: Diabetic Glucose Meters,FreeStyle,Preferred
+Diagnostic Products: Diabetic Glucose Meters,Precision,Preferred
+Diagnostic Products: Diabetic Glucose Meters,All other Glucose Meters,Non-Preferred
+Diagnostic Products: Diabetic Testing Strips,Freestyle Test Strips,Preferred
+Diagnostic Products: Diabetic Testing Strips,Precision Test Strips,Preferred
+Diagnostic Products: Diabetic Testing Strips,All other diabetic test strips,Non-Preferred
+Diagnostic Products: Diabetic Testing Lancets,Autolet lancing device,Preferred
+Diagnostic Products: Diabetic Testing Lancets,Unilet lancets,Preferred
+Diagnostic Products: Diabetic Testing Lancets,Unistik lancets,Preferred
+Diagnostic Products: Diabetic Testing Lancets,All other lancets,Non-Preferred
+Epinephrine: Injection Devices,Mylan epinephrine,Preferred
+Epinephrine: Injection Devices,Auvi-Q,Non-Preferred
+Epinephrine: Injection Devices,epinephrine,Non-Preferred
+Epinephrine: Injection Devices,EpiPen,Non-Preferred
+Epinephrine: Injection Devices,Nefffy,Non-Preferred
+Epinephrine: Injection Devices,Symjepi,Non-Preferred
+Estrogens: Oral Single Ingredient,estradiol,Preferred
+Estrogens: Oral Single Ingredient,Premarin,Preferred
+Estrogens: Oral Single Ingredient,Estrace tablet,Non-Preferred
+Estrogens: Oral Single Ingredient,Menest,Non-Preferred
+Estrogens: Oral Combination,Angeliq,Preferred
+Estrogens: Oral Combination,Premphase,Preferred
+Estrogens: Oral Combination,Prempro,Preferred
+Estrogens: Oral Combination,Activella,Non-Preferred
+Estrogens: Oral Combination,amabelz,Non-Preferred
+Estrogens: Oral Combination,Bijuva,Non-Preferred
+Estrogens: Oral Combination,Duavee,Non-Preferred
+Estrogens: Oral Combination,estradiol/norethindrone,Non-Preferred
+Estrogens: Oral Combination,estrogens/methyltestosterone,Non-Preferred
+Estrogens: Oral Combination,fyavolv,Non-Preferred
+Estrogens: Oral Combination,jinteli,Non-Preferred
+Estrogens: Oral Combination,mimvey,Non-Preferred
+Estrogens: Oral Combination,Prefest,Non-Preferred
+Estrogens: Topical & Miscellaneous,Climara Pro,Preferred
+Estrogens: Topical & Miscellaneous,Combipatch patch,Preferred
+Estrogens: Topical & Miscellaneous,Elestrin gel,Preferred
+Estrogens: Topical & Miscellaneous,Evamist spray,Preferred
+Estrogens: Topical & Miscellaneous,Minivelle patch,Preferred
+Estrogens: Topical & Miscellaneous,Vivelle-Dot patch,Preferred
+Estrogens: Topical & Miscellaneous,Climara patch,Non-Preferred
+Estrogens: Topical & Miscellaneous,Divigel,Non-Preferred
+Estrogens: Topical & Miscellaneous,estradiol gel,Non-Preferred
+Estrogens: Topical & Miscellaneous,estradiol patch (once weekly),Non-Preferred
+Estrogens: Topical & Miscellaneous,estradiol patch (twice weekly),Non-Preferred
+Estrogens: Topical & Miscellaneous,Menostar,Non-Preferred
+Estrogens: Vaginal,Estring,Preferred
+Estrogens: Vaginal,Femring,Preferred
+Estrogens: Vaginal,Premarin cream,Preferred
+Estrogens: Vaginal,Vagifem,Preferred
+Estrogens: Vaginal,Estrace cream,Non-Preferred
+Estrogens: Vaginal,estradiol cream,Non-Preferred
+Estrogens: Vaginal,estradiol vaginal tablet,Non-Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,Diclegis,Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,meclizine,Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,prochlorperazine tablet,Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,promethazine 12.5mg suppository,Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,promethazine 25mg suppository,Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,promethazine injection,Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,promethazine syrup,Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,promethazine tablet,Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,Tigan capsule,Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,Antivert,Non-Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,Bonjesta,Non-Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,Compro suppository,Non-Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,dimenhydrinate injection,Non-Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,doxylamine/pyridoxine,Non-Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,Phenergan,Non-Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,prochlorperazine suppository,Non-Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,prochlorperazine injection,Non-Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,promethazine 50mg suppository,Non-Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,scopolamine,Non-Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,Tigan injection,Non-Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,Transderm-SC,Non-Preferred
+Gastrointestinal (GI): Antiemetics - Anticholinergics,trimethobenzamide capsule,Non-Preferred
+Gastrointestinal (GI): Bowel Evacuant Combinations,Clenpiq,Preferred
+Gastrointestinal (GI): Bowel Evacuant Combinations,gavilyte-c,Preferred
+Gastrointestinal (GI): Bowel Evacuant Combinations,gavilyte-g,Preferred
+Gastrointestinal (GI): Bowel Evacuant Combinations,gavilyte-n,Preferred
+Gastrointestinal (GI): Bowel Evacuant Combinations,Moviprep,Preferred
+Gastrointestinal (GI): Bowel Evacuant Combinations,Golytely,Preferred
+Gastrointestinal (GI): Bowel Evacuant Combinations,PEG-3350/electrolytes,Preferred
+Gastrointestinal (GI): Bowel Evacuant Combinations,NaSO4 / KSO4 / MgSO4,Non-Preferred
+Gastrointestinal (GI): Bowel Evacuant Combinations,PEG 3350/electrolytes/ascorbic acid,Non-Preferred
+Gastrointestinal (GI): Bowel Evacuant Combinations,"PEG/NASUL, NaCl/K",Non-Preferred
+Gastrointestinal (GI): Bowel Evacuant Combinations,Plenvu,Non-Preferred
+Gastrointestinal (GI): Bowel Evacuant Combinations,Suflave,Non-Preferred
+Gastrointestinal (GI): Bowel Evacuant Combinations,Suprep,Non-Preferred
+Gastrointestinal (GI): Bowel Evacuant Combinations,Sutab,Non-Preferred
+Gastrointestinal (GI): PAMORAs,Movantik,Preferred
+Gastrointestinal (GI): PAMORAs,Relistor inject,Preferred
+Gastrointestinal (GI): PAMORAs,Relistor tablet,Non-Preferred
+Gastrointestinal (GI): PAMORAs,Symproic,Non-Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,Apriso,Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,balsalazide,Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,Delzicol,Non-Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,Dipentum,Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,Lialda,Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,Pentasa,Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,sulfasalazine,Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,Azulfidine,Non-Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,Colazal,Non-Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,mesalamine DR capsule,Non-Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,mesalamine DR tablet 1.2g,Non-Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,mesalamine DR tablet 800mg,Non-Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,mesalamine ER capsule 0.375g,Non-Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,mesalamine ER capsule 500mg,Non-Preferred
+Gastrointestinal (GI): Oral - Inflammatory Bowel Agents,Zeposia,Non-Preferred
+Gastrointestinal (GI): Rectal - Inflammatory Bowel Agents,mesalamine enema,Preferred
+Gastrointestinal (GI): Rectal - Inflammatory Bowel Agents,mesalamine suppository,Preferred
+Gastrointestinal (GI): Rectal - Inflammatory Bowel Agents,SfRowasa enema,Preferred
+Gastrointestinal (GI): Rectal - Inflammatory Bowel Agents,Canasa suppository,Non-Preferred
+Gastrointestinal (GI): Rectal - Inflammatory Bowel Agents,mesalamine kit,Non-Preferred
+Gastrointestinal (GI): Rectal - Inflammatory Bowel Agents,Rowasa,Non-Preferred
+Gastrointestinal (GI): Irritable Bowel Syndrome Agents,alosetron,Preferred
+Gastrointestinal (GI): Irritable Bowel Syndrome Agents,Linzess,Preferred
+Gastrointestinal (GI): Irritable Bowel Syndrome Agents,lubiprostone,Preferred
+Gastrointestinal (GI): Irritable Bowel Syndrome Agents,Amitiza,Non-Preferred
+Gastrointestinal (GI): Irritable Bowel Syndrome Agents,Ibsrela,Non-Preferred
+Gastrointestinal (GI): Irritable Bowel Syndrome Agents,Lotronex,Non-Preferred
+Gastrointestinal (GI): Irritable Bowel Syndrome Agents,Trulance,Non-Preferred
+Gastrointestinal (GI): Irritable Bowel Syndrome Agents,Viberzi,Non-Preferred
+Gastrointestinal (GI): Pancreatic Enzymes,Creon,Preferred
+Gastrointestinal (GI): Pancreatic Enzymes,Zenpep,Preferred
+Gastrointestinal (GI): Pancreatic Enzymes,Pertzye,Non-Preferred
+Gastrointestinal (GI): Pancreatic Enzymes,Viokace,Non-Preferred
+Gastrointestinal (GI): Phosphate Binders,calcium acetate,Preferred
+Gastrointestinal (GI): Phosphate Binders,Fosrenol chewable,Preferred
+Gastrointestinal (GI): Phosphate Binders,Phoslyra solution,Preferred
+Gastrointestinal (GI): Phosphate Binders,Renvela powder,Preferred
+Gastrointestinal (GI): Phosphate Binders,Renvela tablet,Preferred
+Gastrointestinal (GI): Phosphate Binders,Auryxia,Non-Preferred
+Gastrointestinal (GI): Phosphate Binders,Fosrenol powder,Non-Preferred
+Gastrointestinal (GI): Phosphate Binders,lanthanum,Non-Preferred
+Gastrointestinal (GI): Phosphate Binders,sevelamer carbonate,Non-Preferred
+Gastrointestinal (GI): Phosphate Binders,sevelamer hydrochloride,Non-Preferred
+Gastrointestinal (GI): Phosphate Binders,Velphoro,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Dexilant,Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,esomeprazole capsule,Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,lansoprazole ODT,Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,omeprazole,Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,"pantoprazole tablet, injection",Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Aciphex,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,dexlansoprazole,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,esomeprazole granules,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,esomeprazole injection,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Konvomep,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,lansoprazole capsule,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Nexium capsule,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Nexium granules,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Nexium IV,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,omeprazole/sodium bicarb ODT,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,pantoprazole pak,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Prevacid capsule,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Prevacid Solutabs,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Prilosec,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Protonix pak,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,"Protonix tablet, injection",Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,rabeprazole,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Voquezna,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Yosprala,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Zegerid,Non-Preferred
+Gout: Acute Gout,colchicine tablet,Preferred
+Gout: Acute Gout,probenecid/colchicine,Preferred
+Gout: Acute Gout,colchicine capsule,Non-Preferred
+Gout: Acute Gout,Colcrys,Non-Preferred
+Gout: Acute Gout,Mitigare,Non-Preferred
+Gout: Chronic Gout,allopurinol tablet,Preferred
+Gout: Chronic Gout,febuxostat,Preferred
+Gout: Chronic Gout,probenecid,Preferred
+Gout: Chronic Gout,allopurinol injection,Non-Preferred
+Gout: Chronic Gout,Aloprim,Non-Preferred
+Gout: Chronic Gout,Uloric,Non-Preferred
+Growth Hormone: Chronic Gout,Genotropin,Preferred
+Growth Hormone: Chronic Gout,Norditropin,Preferred
+Growth Hormone: Chronic Gout,Humatrope,Non-Preferred
+Growth Hormone: Chronic Gout,Ngenla,Non-Preferred
+Growth Hormone: Chronic Gout,Nutropin,Non-Preferred
+Growth Hormone: Chronic Gout,Omnitrope,Non-Preferred
+Growth Hormone: Chronic Gout,Saizen,Non-Preferred
+Growth Hormone: Chronic Gout,Serostim,Non-Preferred
+Growth Hormone: Chronic Gout,Skytrofa,Non-Preferred
+Growth Hormone: Chronic Gout,Sogroya,Non-Preferred
+Growth Hormone: Chronic Gout,Zomacton,Non-Preferred
+Hematopoietics: Erythropoiesis Stimulating Agents (ESAs),Epogen,Preferred
+Hematopoietics: Erythropoiesis Stimulating Agents (ESAs),Mircera,Preferred
+Hematopoietics: Erythropoiesis Stimulating Agents (ESAs),Aranesp,Non-Preferred
+Hematopoietics: Erythropoiesis Stimulating Agents (ESAs),Procrit,Non-Preferred
+Hematopoietics: Erythropoiesis Stimulating Agents (ESAs),Retacrit,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Neupogen,Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Nyvepria,Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Fulphila,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Fylnetra,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Granix,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Leukine,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Neulasta,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Nivestym,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Releuko,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Rolvedon,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Ryzneuta,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Stimufend,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Udenyca,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Zarxio,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Ziextenzo,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Gamastan,Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Gammagard,Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Gammagard S/D,Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Gamunex-C,Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Alyglo,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Asceniv,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Bivigam,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Cutaquig,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Cuvitru,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Flebogamma,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Gammaked,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Gammaplex,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Hizentra,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Hyqvia,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Nypozi,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Octagam,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Panzyga,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Privigen,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Xembify,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Select-OB+DHA,Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Vitafol Fe+,Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Vitafol Gummies,Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Vitafol One,Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Vitafol Ultra,Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Vitafol-OB+DHA,Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),ALL OTHER Prenatal w/ DHA/Folate,Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),ALL NON-DHA/Folate products,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Citranatal 90 DHA,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Citranatal Assure,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Citranatal Bloom,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Citranatal DHA,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Citranatal Harmony,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),C-Nate DHA,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Enbrace HR,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Nestabs One,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),"OB Complete, Gold, Petite, DHA",Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),PNV DHA,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),PNV Omega,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Prenaissance,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Prenate DHA,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Prenate Enhance,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Prenate Essential,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Prenate Max,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Prenate Mini,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Prenate Pixie,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Prenate Restore,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Relnate DHA,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Taron-C DHA,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Taron-Prex,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),"Tristart DHA, One",Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Tri-tabs DHA,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Vinate DHA,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Virt-C DHA,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Virt-Nate,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Wescap-C DHA,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Wesnate,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Zatean -PN,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,"cyclobenzaprine 5, 10mg",Preferred
+Muscle Relaxants: Antispasmodic Agents,"methocarbamol 500 mg, 750 mg",Preferred
+Muscle Relaxants: Antispasmodic Agents,orphenadrine,Preferred
+Muscle Relaxants: Antispasmodic Agents,Amrix,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,carisoprodol,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,chlorzoxazone,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,cyclobenzaprine 7.5mg,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,cyclobenzaprine ER,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,Fexmid,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,Lorzone,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,metaxalone,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,methacarbamol 1000 mg,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,Robaxin injection,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,Soma,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,Tanlor 1000 mg,Non-Preferred
+Muscle Relaxants: Antispasticity Agents,baclofen injection,Preferred
+Muscle Relaxants: Antispasticity Agents,baclofen suspension,Preferred
+Muscle Relaxants: Antispasticity Agents,"baclofen 5mg, 10mg, 20mg tablet",Preferred
+Muscle Relaxants: Antispasticity Agents,tizanidine,Preferred
+Muscle Relaxants: Antispasticity Agents,baclofen 15mg tablet,Non-Preferred
+Muscle Relaxants: Antispasticity Agents,Dantrium,Non-Preferred
+Muscle Relaxants: Antispasticity Agents,dantrolene,Non-Preferred
+Muscle Relaxants: Antispasticity Agents,Fleqsuvy,Non-Preferred
+Muscle Relaxants: Antispasticity Agents,Lioresal injection,Non-Preferred
+Muscle Relaxants: Antispasticity Agents,Lyvispah,Non-Preferred
+Muscle Relaxants: Antispasticity Agents,Zanaflex,Non-Preferred
+Nasal: Nasal - Antihistamines,azelastine 0.1%,Preferred
+Nasal: Nasal - Antihistamines,olopatadine,Preferred
+Nasal: Nasal - Antihistamines,azelastine 0.15%,Non-Preferred
+Nasal: Nasal - Corticosteroids,Beconase AQ,Preferred
+Nasal: Nasal - Corticosteroids,fluticasone,Preferred
+Nasal: Nasal - Corticosteroids,mometasone,Preferred
+Nasal: Nasal - Corticosteroids,Omnaris,Preferred
+Nasal: Nasal - Corticosteroids,flunisolide,Non-Preferred
+Nasal: Nasal - Corticosteroids,Qnasl,Non-Preferred
+Nasal: Nasal - Corticosteroids,Sinuva,Non-Preferred
+Nasal: Nasal - Corticosteroids,Xhance,Non-Preferred
+Nasal: Nasal - Corticosteroids,Zetonna,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,amantadine,Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,bromocriptine,Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,carbidopa/levodopa,Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,carbidopa/levodopa ER,Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Duopa,Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,entacapone,Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,carbidopa,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,carbidopa/levodopa ODT,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,carbidopa/levodopa/entacapone,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Comtan,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Crexont,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Dhivy,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,droxidopa,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Gocovri,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Inbrija,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Lodosyn,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Northera,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Ongentys,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Osmolex ER,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Parlodel,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Rytary,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Sinemet,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Stalevo,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Tasmar,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,tolcapone,Non-Preferred
+Neurological: Parkinson - COMT Inhibitors & Combinations,Vyalev,Non-Preferred
+Neurological: Parkinson - MAO Inhibitors,Azilect,Preferred
+Neurological: Parkinson - MAO Inhibitors,selegiline,Preferred
+Neurological: Parkinson - MAO Inhibitors,rasagiline,Non-Preferred
+Neurological: Parkinson - MAO Inhibitors,Xadago,Non-Preferred
+Neurological: Parkinson - MAO Inhibitors,Zelapar,Non-Preferred
+Neurological: Parkinson - Non-ergot Derived Dopamine Receptor Agonists and Others,pramipexole,Preferred
+Neurological: Parkinson - Non-ergot Derived Dopamine Receptor Agonists and Others,ropinirole,Preferred
+Neurological: Parkinson - Non-ergot Derived Dopamine Receptor Agonists and Others,Apokyn,Non-Preferred
+Neurological: Parkinson - Non-ergot Derived Dopamine Receptor Agonists and Others,apomorphine,Non-Preferred
+Neurological: Parkinson - Non-ergot Derived Dopamine Receptor Agonists and Others,Kynmobi,Non-Preferred
+Neurological: Parkinson - Non-ergot Derived Dopamine Receptor Agonists and Others,Mirapex ER,Non-Preferred
+Neurological: Parkinson - Non-ergot Derived Dopamine Receptor Agonists and Others,Neupro patch,Non-Preferred
+Neurological: Parkinson - Non-ergot Derived Dopamine Receptor Agonists and Others,Nourianz,Non-Preferred
+Neurological: Parkinson - Non-ergot Derived Dopamine Receptor Agonists and Others,Nuplazid,Non-Preferred
+Neurological: Parkinson - Non-ergot Derived Dopamine Receptor Agonists and Others,pramipexole ER,Non-Preferred
+Neurological: Parkinson - Non-ergot Derived Dopamine Receptor Agonists and Others,ropinirole ER,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Nurtec ODT,Preferred
+Neurological: Migraine - Abortive Therapy,Relpax,Preferred
+Neurological: Migraine - Abortive Therapy,rizatriptan,Preferred
+Neurological: Migraine - Abortive Therapy,sumatriptan tablet,Preferred
+Neurological: Migraine - Abortive Therapy,almotriptan,Non-Preferred
+Neurological: Migraine - Abortive Therapy,butalbital/apap/caf/codeine,Non-Preferred
+Neurological: Migraine - Abortive Therapy,butalbital/asa/caf/codeine,Non-Preferred
+Neurological: Migraine - Abortive Therapy,butorphanol nasal spray,Non-Preferred
+Neurological: Migraine - Abortive Therapy,diclofenac powder,Non-Preferred
+Neurological: Migraine - Abortive Therapy,dihydroergotamine,Non-Preferred
+Neurological: Migraine - Abortive Therapy,eletriptan,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Elyxyb,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Fioricet/codeine,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Frova,Non-Preferred
+Neurological: Migraine - Abortive Therapy,frovatriptan,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Imitrex injection,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Imitrex spray,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Imitrex tablet,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Maxalt,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Migergot,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Migranal spray,Non-Preferred
+Neurological: Migraine - Abortive Therapy,naratriptan,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Reyvow,Non-Preferred
+Neurological: Migraine - Abortive Therapy,sumatriptan injection,Non-Preferred
+Neurological: Migraine - Abortive Therapy,sumatriptan spray,Non-Preferred
+Neurological: Migraine - Abortive Therapy,sumatriptan/naproxen,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Symbravo,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Tosymra,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Trudhesa,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Ubrelvy,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Zembrace,Non-Preferred
+Neurological: Migraine - Abortive Therapy,zolmitriptan,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Zavzpret,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Zomig,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Aimovig,Preferred
+Neurological: Migraine - Prophylactic Therapy,Ajovy,Preferred
+Neurological: Migraine - Prophylactic Therapy,amitriptyline,Preferred
+Neurological: Migraine - Prophylactic Therapy,divalproex,Preferred
+Neurological: Migraine - Prophylactic Therapy,propranolol,Preferred
+Neurological: Migraine - Prophylactic Therapy,propranolol SR,Preferred
+Neurological: Migraine - Prophylactic Therapy,topiramate capsule,Preferred
+Neurological: Migraine - Prophylactic Therapy,topiramate tablet,Preferred
+Neurological: Migraine - Prophylactic Therapy,Botox,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Depakote,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Emgality,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Inderal LA,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Inderal XL,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Innopran XL,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Nurtec ODT,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Qudexy XR,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Qulipta,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,timolol,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Topamax,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,topiramate ER capsule,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,topiramate ER sprinkle capsule,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Trokendi XR,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Vyepti,Non-Preferred
+Neurological: Movement Disorder Treatments - VMAT-2 Inhibitors,"Austedo, XR",Preferred
+Neurological: Movement Disorder Treatments - VMAT-2 Inhibitors,tetrabenazine,Preferred
+Neurological: Movement Disorder Treatments - VMAT-2 Inhibitors,Ingrezza,Non-Preferred
+Neurological: Movement Disorder Treatments - VMAT-2 Inhibitors,Xenazine,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Avonex,Preferred
+Neurological: Multiple Sclerosis Agents,Copaxone 20mg,Preferred
+Neurological: Multiple Sclerosis Agents,dalfampridine,Preferred
+Neurological: Multiple Sclerosis Agents,dimethyl fumarate,Preferred
+Neurological: Multiple Sclerosis Agents,teriflunomide,Preferred
+Neurological: Multiple Sclerosis Agents,Ampyra,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Aubagio,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Bafiertam,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Betaseron,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Briumvi,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Copaxone 40mg,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Extavia,Non-Preferred
+Neurological: Multiple Sclerosis Agents,fingolimod,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Gilenya,Non-Preferred
+Neurological: Multiple Sclerosis Agents,glatiramer,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Kesimpta,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Lemtrada,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Mavenclad,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Mayzent,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Ocrevus,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Plegridy,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Ponvory,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Rebif,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Tascenso ODT,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Tecfidera,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Tysabri,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Vumerity,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Zeposia,Non-Preferred
+Neurological: Therapies for Spinal Muscular Atrophy,Evrysdi,Preferred
+Neurological: Therapies for Spinal Muscular Atrophy,Spinraza,Preferred
+Neurological: Therapies for Spinal Muscular Atrophy,Zolgensma,Preferred
+Ophthalmics: Anti-Glaucoma - Alpha Adrenergics,Alphagan P 0.1%,Preferred
+Ophthalmics: Anti-Glaucoma - Alpha Adrenergics,Alphagan P 0.15%,Preferred
+Ophthalmics: Anti-Glaucoma - Alpha Adrenergics,brimonidine 0.2%,Preferred
+Ophthalmics: Anti-Glaucoma - Alpha Adrenergics,Simbrinza,Preferred
+Ophthalmics: Anti-Glaucoma - Alpha Adrenergics,apraclonidine,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Alpha Adrenergics,brimonidine 0.1%,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Alpha Adrenergics,brimonidine 0.15%,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Alpha Adrenergics,Iopidine,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,Betoptic-S,Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,Combigan,Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,dorzolamide/timolol,Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,timolol solution,Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,betaxolol,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,Betimol,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,brimonidine/timolol,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,carteolol,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,Cosopt PF,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,dorzolamide/timolol PF,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,Istalol,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,levobunolol,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,timolol gel,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,timolol once daily,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,timolol preservative free,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,Timoptic,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,Timoptic Occudose,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,Timoptic-XE,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,latanoprost,Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,Lumigan,Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,bimatoprost,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,Durysta,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,Iyuzeh,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,tafluprost,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,Travatan Z,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,travoprost,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,Vyzulta,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,Xalatan,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,Xelpros,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,Zioptan,Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Quinolones,Besivance,Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Quinolones,Ciloxan oint,Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Quinolones,ciprofloxacin drops,Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Quinolones,moxifloxacin (TID formulation),Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Quinolones,ofloxacin,Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Quinolones,Ciloxan drops,Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Quinolones,gatifloxacin,Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Quinolones,moxifloxacin (BID formulation),Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Quinolones,Ocuflox,Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Quinolones,Vigamox,Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Quinolones,Zymaxid,Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,bacitracin/polymyxin B,Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,erythromycin ointment,Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,gentamicin drops,Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,polymyxin B/trimethoprim,Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,sodium sulfacetamide drops,Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,tobramycin drops,Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,Azasite,Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,Baciguent,Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,bacitracin,Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,neomycin/bacitracin/polymyxin,Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,neomycin/polymyxin/gramicidin,Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,Polytrim,Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,sodium sulfacetamide ointment,Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,Tobrex  ointment,Non-Preferred
+Ophthalmics: Ophthalmic - Antihistamines,Bepreve,Preferred
+Ophthalmics: Ophthalmic - Antihistamines,cromolyn,Preferred
+Ophthalmics: Ophthalmic - Antihistamines,Alocril,Non-Preferred
+Ophthalmics: Ophthalmic - Antihistamines,Alomide,Non-Preferred
+Ophthalmics: Ophthalmic - Antihistamines,azelastine,Non-Preferred
+Ophthalmics: Ophthalmic - Antihistamines,bepotastine,Non-Preferred
+Ophthalmics: Ophthalmic - Antihistamines,epinastine,Non-Preferred
+Ophthalmics: Ophthalmic - Antihistamines,olopatadine,Non-Preferred
+Ophthalmics: Ophthalmic - Antihistamines,Zerviate,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,Alrex,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,Flarex,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,FML Liquifilm,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,FML ointment,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,Lotemax drops,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,Maxidex,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,prednisolone 1% suspension,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,Pred Mild,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,dexamethasone sodium phos PF,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,difluprednate,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,Durezol,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,Eysuvis,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,fluorometholone,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,FML Forte,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,Inveltys,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,Lotemax gel,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,Lotemax ointment,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,loteprednol 0.2%,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,loteprednol 0.5% gel,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,loteprednol 0.5% suspension,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,prednisolone sodium phosphate,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - NSAIDs,diclofenac,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - NSAIDs,ketorolac 0.5%,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - NSAIDs,Acular,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - NSAIDs,Acular LS,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - NSAIDs,Acuvail,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - NSAIDs,bromfenac,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - NSAIDs,Bromsite,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - NSAIDs,flurbiprofen,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - NSAIDs,Ilevro,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - NSAIDs,ketorolac 0.4%,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - NSAIDs,Nevanac,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - NSAIDs,Prolensa,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Combinations,neomycin/poly/dexameth,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Combinations,Tobradex ointment,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Combinations,Maxitrol,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Combinations,neomycin/poly/bac/hc,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Combinations,neomycin/poly/hc,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Combinations,sodium sulfacetamide /prednise drops,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Combinations,Tobradex ST,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Combinations,tobramycin/dexamethasone,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Combinations,Zylet,Non-Preferred
+Otics: Otic - Antibiotics,ciprofloxacin otic sol 0.2%,Preferred
+Otics: Otic - Antibiotics,ofloxacin otic drops,Preferred
+Otics: Otic - Antibiotics,Floxin otic,Non-Preferred
+Otics: Otic - Antibiotic Combinations,Cortisporin TC,Preferred
+Otics: Otic - Antibiotic Combinations,neomycin/polymyxin/hc susp,Preferred
+Otics: Otic - Antibiotic Combinations,Cipro HC,Non-Preferred
+Otics: Otic - Antibiotic Combinations,ciprofloxacin/dexamethasone,Non-Preferred
+Otics: Otic - Antibiotic Combinations,ciprofloxacin/fluocinolone,Non-Preferred
+Otics: Otic - Antibiotic Combinations,neomycin/polymyxin/hc sol,Non-Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,alfuzosin,Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,doxazosin,Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,dutasteride,Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,finasteride 5mg,Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,prazosin,Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,silodosin,Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,tamsulosin,Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,terazosin,Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,Avodart,Non-Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,Cardura,Non-Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,Cardura XL,Non-Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,Cialis 5mg,Non-Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,dutasteride/tamsulosin,Non-Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,Entadfi,Non-Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,Flomax,Non-Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,Jalyn,Non-Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,Minipress,Non-Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,Proscar,Non-Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,Rapaflo,Non-Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,tadalafil 5mg,Non-Preferred
+Prostatic Hypertrophy Agents: Otic - Antibiotic Combinations,Tezruly Sol,Non-Preferred
+Pulmonary Hypertension: Endothelin Antagonists,ambrisentan,Preferred
+Pulmonary Hypertension: Endothelin Antagonists,bosentan,Preferred
+Pulmonary Hypertension: Endothelin Antagonists,Letairis,Non-Preferred
+Pulmonary Hypertension: Endothelin Antagonists,Opsumit,Non-Preferred
+Pulmonary Hypertension: Endothelin Antagonists,Opsynvi,Non-Preferred
+Pulmonary Hypertension: Endothelin Antagonists,Tracleer,Non-Preferred
+Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,sildenafil,Preferred
+Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,tadalafil,Preferred
+Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Adcirca,Non-Preferred
+Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Opsynvi,Non-Preferred
+Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Revatio,Non-Preferred
+Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Tadliq,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,epoprostenol,Preferred
+Pulmonary Hypertension: Prostacyclins,Flolan,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,Orenitram,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,Remodulin,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,treprostinil,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,Tyvaso,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,Uptravi,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,Veletri,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,Ventavis,Non-Preferred
+Respiratory: Monoclonal Antibodies for Asthma,Cinqair,Preferred
+Respiratory: Monoclonal Antibodies for Asthma,Dupixent,Preferred
+Respiratory: Monoclonal Antibodies for Asthma,Fasenra,Preferred
+Respiratory: Monoclonal Antibodies for Asthma,Xolair,Preferred
+Respiratory: Monoclonal Antibodies for Asthma,Cibinqo,Non-Preferred
+Respiratory: Monoclonal Antibodies for Asthma,Nucala,Non-Preferred
+Respiratory: Monoclonal Antibodies for Asthma,Tezspire,Non-Preferred
+Respiratory: Asthma & COPD - Anticholinergics,Atrovent HFA,Preferred
+Respiratory: Asthma & COPD - Anticholinergics,ipratropium,Preferred
+Respiratory: Asthma & COPD - Anticholinergics,Spiriva,Preferred
+Respiratory: Asthma & COPD - Anticholinergics,Incruse Ellipta,Non-Preferred
+Respiratory: Asthma & COPD - Anticholinergics,tiotropium,Non-Preferred
+Respiratory: Asthma & COPD - Anticholinergics,Tudorza Pressair,Non-Preferred
+Respiratory: Asthma & COPD - Anticholinergics,Yupelri,Non-Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),albuterol nebulizer,Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),levalbuterol nebulizer,Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),ProAir HFA,Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Proventil HFA,Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Ventolin HFA,Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Airsupra,Non-Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),albuterol HFA,Non-Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),albuterol powder,Non-Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),levalbuterol HFA,Non-Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),ProAir RespiClick,Non-Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Xopenex HFA,Non-Preferred
+Respiratory: Asthma & COPD - Long Acting Beta Agonists (LABA),Serevent Diskus,Preferred
+Respiratory: Asthma & COPD - Long Acting Beta Agonists (LABA),arformoterol,Non-Preferred
+Respiratory: Asthma & COPD - Long Acting Beta Agonists (LABA),Brovana,Non-Preferred
+Respiratory: Asthma & COPD - Long Acting Beta Agonists (LABA),formoterol,Non-Preferred
+Respiratory: Asthma & COPD - Long Acting Beta Agonists (LABA),Perforomist,Non-Preferred
+Respiratory: Asthma & COPD - Long Acting Beta Agonists (LABA),Striverdi,Non-Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Arnuity Ellipta,Preferred
+Respiratory: Asthma & COPD - Corticosteroids,budesonide nebulizer,Preferred
+Respiratory: Asthma & COPD - Corticosteroids,fluticasone,Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Pulmicort Flexhaler,Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Alvesco,Non-Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Armonair,Non-Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Asmanex,Non-Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Pulmicort nebulizer,Non-Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Qvar,Non-Preferred
+Respiratory: Asthma & COPD - Leukotriene Receptor Antagonists,montelukast 4mg chewable,Preferred
+Respiratory: Asthma & COPD - Leukotriene Receptor Antagonists,montelukast 5mg chewable,Preferred
+Respiratory: Asthma & COPD - Leukotriene Receptor Antagonists,montelukast tablet,Preferred
+Respiratory: Asthma & COPD - Leukotriene Receptor Antagonists,Accolate,Non-Preferred
+Respiratory: Asthma & COPD - Leukotriene Receptor Antagonists,montelukast granules,Non-Preferred
+Respiratory: Asthma & COPD - Leukotriene Receptor Antagonists,Singulair,Non-Preferred
+Respiratory: Asthma & COPD - Leukotriene Receptor Antagonists,zafirlukast,Non-Preferred
+Respiratory: Asthma & COPD - Leukotriene Receptor Antagonists,zileuton CR,Non-Preferred
+Respiratory: Asthma & COPD - Leukotriene Receptor Antagonists,Zyflo CR,Non-Preferred
+Respiratory: Asthma & COPD - Oral Beta Agonists,albuterol syrup,Preferred
+Respiratory: Asthma & COPD - Oral Beta Agonists,albuterol tablet,Non-Preferred
+Respiratory: Asthma & COPD - Oral Beta Agonists,terbutaline,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,Advair,Preferred
+Respiratory: Asthma & COPD - Combination Products,Combivent,Preferred
+Respiratory: Asthma & COPD - Combination Products,Dulera,Preferred
+Respiratory: Asthma & COPD - Combination Products,ipratropium/albuterol,Preferred
+Respiratory: Asthma & COPD - Combination Products,Symbicort,Preferred
+Respiratory: Asthma & COPD - Combination Products,AirDuo,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,Breo Ellipta,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,Breyna,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,budesonide/formoterol,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,fluticasone/salmeterol,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,fluticasone/salmeterol,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,fluticasone/vilanterol,Non-Preferred
+Respiratory: Asthma & COPD - LABA/LAMA Combinations,Anoro Ellipta,Preferred
+Respiratory: Asthma & COPD - LABA/LAMA Combinations,Stiolto,Preferred
+Respiratory: Asthma & COPD - LABA/LAMA Combinations,Bevespi,Non-Preferred
+Respiratory: Asthma & COPD - LABA/LAMA Combinations,Breztri,Non-Preferred
+Respiratory: Asthma & COPD - LABA/LAMA Combinations,Duaklir,Non-Preferred
+Respiratory: Asthma & COPD - LABA/LAMA Combinations,Trelegy Ellipta,Non-Preferred
+Respiratory: Asthma & COPD - LABA/LAMA Combinations,umeclidinium/vilanterol,Non-Preferred
+Respiratory: Cystic Fibrosis: CFTR Modulators,Kalydeco,Preferred
+Respiratory: Cystic Fibrosis: CFTR Modulators,Orkambi,Preferred
+Respiratory: Cystic Fibrosis: CFTR Modulators,Trikafta,Preferred
+Respiratory: Cystic Fibrosis: CFTR Modulators,Alyftrek,Non-Preferred
+Respiratory: Cystic Fibrosis: CFTR Modulators,Symdeko,Non-Preferred
+Respiratory: Cystic Fibrosis: Inhaled Aminoglycosides,tobramycin 300mg/5ml nebulizer,Preferred
+Respiratory: Cystic Fibrosis: Inhaled Aminoglycosides,Arikayce,Non-Preferred
+Respiratory: Cystic Fibrosis: Inhaled Aminoglycosides,Bethkis,Non-Preferred
+Respiratory: Cystic Fibrosis: Inhaled Aminoglycosides,Kitabis Pak,Non-Preferred
+Respiratory: Cystic Fibrosis: Inhaled Aminoglycosides,Tobi  nebulizer,Non-Preferred
+Respiratory: Cystic Fibrosis: Inhaled Aminoglycosides,Tobi Podhaler capsule,Non-Preferred
+Respiratory: Cystic Fibrosis: Inhaled Aminoglycosides,tobramycin 300mg/4ml nebulizer,Non-Preferred
+Urinary: Short Acting Antispasmodics,bethanechol,Preferred
+Urinary: Short Acting Antispasmodics,oxybutynin,Preferred
+Urinary: Short Acting Antispasmodics,trospium,Preferred
+Urinary: Short Acting Antispasmodics,Detrol,Non-Preferred
+Urinary: Short Acting Antispasmodics,flavoxate,Non-Preferred
+Urinary: Short Acting Antispasmodics,tolterodine,Non-Preferred
+Urinary: Long Acting Antispasmodics,fesoterodine,Preferred
+Urinary: Long Acting Antispasmodics,Myrbetriq,Preferred
+Urinary: Long Acting Antispasmodics,oxybutynin ER,Preferred
+Urinary: Long Acting Antispasmodics,Oxytrol Rx,Preferred
+Urinary: Long Acting Antispasmodics,solifenacin,Preferred
+Urinary: Long Acting Antispasmodics,darifenacin,Non-Preferred
+Urinary: Long Acting Antispasmodics,Detrol LA,Non-Preferred
+Urinary: Long Acting Antispasmodics,Ditropan XL,Non-Preferred
+Urinary: Long Acting Antispasmodics,Gelnique,Non-Preferred
+Urinary: Long Acting Antispasmodics,Gemtesa,Non-Preferred
+Urinary: Long Acting Antispasmodics,mirabegron,Non-Preferred
+Urinary: Long Acting Antispasmodics,tolterodine ER,Non-Preferred
+Urinary: Long Acting Antispasmodics,Toviaz,Non-Preferred
+Urinary: Long Acting Antispasmodics,trospium ER,Non-Preferred
+Urinary: Long Acting Antispasmodics,Vesicare,Non-Preferred
+Vitamin D Analogs: Long Acting Antispasmodics,calcitriol capsule,Preferred
+Vitamin D Analogs: Long Acting Antispasmodics,calcitriol injection,Preferred
+Vitamin D Analogs: Long Acting Antispasmodics,doxercalciferol injection,Preferred
+Vitamin D Analogs: Long Acting Antispasmodics,paricalcitol injection,Preferred
+Vitamin D Analogs: Long Acting Antispasmodics,calcitrol solution,Preferred
+Vitamin D Analogs: Long Acting Antispasmodics,"vitamin D 125mg (50,000 units)",Preferred
+Vitamin D Analogs: Long Acting Antispasmodics,doxercalciferol capsule,Non-Preferred
+Vitamin D Analogs: Long Acting Antispasmodics,Drisdol,Non-Preferred
+Vitamin D Analogs: Long Acting Antispasmodics,Hectorol,Non-Preferred
+Vitamin D Analogs: Long Acting Antispasmodics,paricalcitol capsule,Non-Preferred
+Vitamin D Analogs: Long Acting Antispasmodics,Rocaltrol capsule,Non-Preferred
+Vitamin D Analogs: Long Acting Antispasmodics,Rayaldee,Non-Preferred
+Vitamin D Analogs: Long Acting Antispasmodics,Zemplar,Non-Preferred
