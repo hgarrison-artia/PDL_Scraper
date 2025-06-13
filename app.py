@@ -3,9 +3,10 @@ from data_manager import DataManager
 from gui_selector import DrugSelectorGUI
 
 class DrugMatcherApp:
-    def __init__(self, state):
+    def __init__(self, state, process_type):
         self.state = state
-        self.data_manager = DataManager(state)
+        self.process_type = process_type
+        self.data_manager = DataManager(state, process_type)
         self.data_manager.build_initial_data()
         self.data_manager.process_existing_data()
         self.current_index = 0

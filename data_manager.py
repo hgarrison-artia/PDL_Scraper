@@ -1,11 +1,9 @@
 import pandas as pd
 
 class DataManager:
-    def __init__(self, state):
+    def __init__(self, state, process_type):
         self.state = state
-        self.pdl_df = pd.read_csv(f'{state}/{state}_PDL.csv')
-        self.capsule_df = pd.read_csv('drugs.csv')
-        self.state_data = pd.read_csv(f'{state}/{state}_data.csv')
+        self.process_type = process_type
         self.pdl_df = pd.read_csv(f'{state}/{state}_PDL.csv')
         self.capsule_df = pd.read_csv('drugs.csv')
         self.state_data = pd.read_csv(f'{state}/{state}_data.csv')
@@ -15,8 +13,24 @@ class DataManager:
         self.skipped_drugs = []
         
     def build_initial_data(self):
-        # Iterate over capsule drugs and build lists of drugs already in state_data versus those that are not
-        for drug in self.capsule_df.Drugs:
+        # Filter drugs based on process type
+        if self.process_type == "Pharmacy":
+            # Filter for Cytokine and CAM Antagonists or Immunomodulators
+            filtered_drugs = self.capsule_df[
+                (self.capsule_df['Class'] == "Cytokine and CAM Antagonists") |
+                (self.capsule_df['Class'].str.contains('Immunomodulators', case=False, na=False))
+            ]['Drugs']
+        else:  # Clinical
+            # Filter for drugs NOT in Cytokine and CAM Antagonists or Immunomodulators
+            filtered_drugs = self.capsule_df[
+                ~((self.capsule_df['Class'] == "Cytokine and CAM Antagonists") |
+                  (self.capsule_df['Class'].str.contains('Immunomodulators', case=False, na=False)))
+            ]['Drugs']
+        
+        print(f"Processing {self.process_type} drugs. Found {len(filtered_drugs)} drugs to process.")
+        
+        # Iterate over filtered capsule drugs and build lists
+        for drug in filtered_drugs:
             if drug in list(self.state_data['capsule_name']):
                 subset = self.state_data.loc[self.state_data['capsule_name'] == drug]
                 for _, row in subset.iterrows():
@@ -81,11 +95,19 @@ class DataManager:
     def save_dataframes(self):
         output_df = pd.DataFrame(self.statuses)
         skipped_df = pd.DataFrame(self.skipped_drugs).drop_duplicates()
-        output_df.sort_values('capsule_name').to_csv(f'{self.state}/{self.state}_output_data.csv', index=False)
-        skipped_df.to_csv(f'{self.state}/{self.state}_skipped_data.csv', index=False)
-        self.state_data.sort_values('capsule_name').to_csv(f'{self.state}/{self.state}_data.csv', index=False)
-        skipped_df = pd.DataFrame(self.skipped_drugs)
-        print("Dataframes saved successfully.")
+        
+        # Save with process type in filename
+        output_filename = f'{self.state}/{self.state}_{self.process_type.lower()}_output_data.csv'
+        skipped_filename = f'{self.state}/{self.state}_{self.process_type.lower()}_skipped_data.csv'
+        
+        output_df.sort_values('capsule_name').to_csv(output_filename, index=False)
+        skipped_df.to_csv(skipped_filename, index=False)
+        
+        # Only update state_data.csv if there are changes
+        if len(self.statuses) > 0:
+            self.state_data.sort_values('capsule_name').to_csv(f'{self.state}/{self.state}_data.csv', index=False)
+        
+        print(f"Dataframes saved successfully for {self.process_type} processing.")
 
     def remove_last_assignment(self):
         """Remove the last assignment from statuses and state_data, and add the drug back to not_in_data."""
@@ -106,3 +128,17 @@ class DataManager:
             
             return capsule_name
         return None
+
+    def clear_old_drug_pairings(self):
+        """Remove any rows from state_data where capsule_name is not in drugs.csv"""
+        # Get list of valid drugs from drugs.csv
+        valid_drugs = set(self.capsule_df['Drugs'].str.lower())
+        
+        # Filter state_data to keep only rows where capsule_name is in valid_drugs
+        self.state_data = self.state_data[
+            self.state_data['capsule_name'].str.lower().isin(valid_drugs)
+        ]
+        
+        # Save the updated state_data
+        self.state_data.sort_values('capsule_name').to_csv(f'{self.state}/{self.state}_data.csv', index=False)
+        print(f"Cleared old drug pairings for {self.state}. Remaining rows: {len(self.state_data)}")
