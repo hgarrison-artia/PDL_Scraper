@@ -1,0 +1,354 @@
+therapeutic_class,capsule_name,pdl_name,status
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Abilify Asimtufii,Abilify Asimtufii,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Abilify Maintena,Abilify Maintena,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Abilify MyCite,Abilify MyCite,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Abilify tablet,Abilify,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Ankylosing Spondylitis,Abrilada,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Crohn's Disease (adult),Abrilada,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Crohn's Disease (pediatric),Abrilada,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Hidradenitis Suppurativa,Abrilada,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Plaque Psoriasis (adult),Abrilada,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Polyarticular Juvenile Idiopathic Arthritis (PJIA),Abrilada,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Psoriatic Arthritis (adult),Abrilada,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Rheumatoid Arthritis,Abrilada,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Ulcerative Colitis (adult),Abrilada,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Uveitis (adult),Abrilada,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra ACTPen, Giant Cell Arteritis",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra ACTPen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra ACTPen, Rheumatoid Arthritis",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Actemra Cytokine Release Syndrome,Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Actemra prefilled syringe,Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Cytokine Release Syndrome",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Giant Cell Arteritis",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Rheumatoid Arthritis",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Actemra syringe/vial,Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Actemra vial,Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Coronavirus Disease 2019",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Cytokine Release Syndrome",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Giant Cell Arteritis",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Rheumatoid Arthritis",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Actemra/ACTPen,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Ankylosing Spondylitis,adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Ankylosing Spondylitis, auto-injector",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Ankylosing Spondylitis, prefilled syringe",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Crohn's Disease (adult),adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Crohn's Disease (adult), auto-injector",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Crohn's Disease (adult), prefilled syringe",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Crohn's Disease (pediatric),adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Crohn's Disease (pediatric), auto-injector",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Crohn's Disease (pediatric), prefilled syringe",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Hidradenitis Suppurativa,adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Hidradenitis Suppurativa, auto-injector",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Hidradenitis Suppurativa, prefilled syringe",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Plaque Psoriasis (adult),adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Plaque Psoriasis (adult), auto-injector",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Plaque Psoriasis (adult), prefilled syringe",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA),adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Psoriatic Arthritis (adult),adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Psoriatic Arthritis (adult), auto-injector",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Psoriatic Arthritis (adult), prefilled syringe",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Rheumatoid Arthritis,adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Rheumatoid Arthritis, auto-injector",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Rheumatoid Arthritis, prefilled syringe",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Ulcerative Colitis (adult),adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Ulcerative Colitis (adult), auto-injector",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Ulcerative Colitis (adult), prefilled syringe",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Uveitis (adult),adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Uveitis (adult), auto-injector",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Uveitis (adult), prefilled syringe",adalimumab-adaz,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Ankylosing Spondylitis,adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ankylosing Spondylitis, Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ankylosing Spondylitis, Non Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ankylosing Spondylitis, Non Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ankylosing Spondylitis, Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Crohn's Disease (adult),adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (adult), Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (adult), Non Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (adult), Non Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (adult), Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Crohn's Disease (pediatric),adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (pediatric), Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (pediatric), Non Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (pediatric), Non Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (pediatric), Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Hidradenitis Suppurativa,adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Hidradenitis Suppurativa, Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Hidradenitis Suppurativa, Non Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Hidradenitis Suppurativa, Non Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Hidradenitis Suppurativa, Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Plaque Psoriasis (adult),adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Plaque Psoriasis (adult), Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Plaque Psoriasis (adult), Non Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Plaque Psoriasis (adult), Non Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Plaque Psoriasis (adult), Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA),adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Non Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Non Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Psoriatic Arthritis (adult),adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Psoriatic Arthritis (adult), Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Psoriatic Arthritis (adult), Non Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Psoriatic Arthritis (adult), Non Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Psoriatic Arthritis (adult), Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Rheumatoid Arthritis,adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Rheumatoid Arthritis, Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Rheumatoid Arthritis, Non Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Rheumatoid Arthritis, Non Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Rheumatoid Arthritis, Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Ulcerative Colitis (adult),adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ulcerative Colitis (adult), Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ulcerative Colitis (adult), Non Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ulcerative Colitis (adult), Non Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ulcerative Colitis (adult), Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Uveitis (adult),adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Uveitis (adult), Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Uveitis (adult), Non Boehringer 00597 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Uveitis (adult), Non Quallent 82009 labeler",adalimumab-adbm,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Uveitis (adult), Quallent 82009 labeler",adalimumab-adbm,Preferred
+ATOPIC DERMATITIS TREATMENTS,Adbry,Adbry,Preferred
+ATOPIC DERMATITIS TREATMENTS,Adbry Atopic Dermatitis (adult),Adbry,Preferred
+ATOPIC DERMATITIS TREATMENTS,"Adbry Atopic Dermatitis (adult), auto-injector",Adbry,Preferred
+ATOPIC DERMATITIS TREATMENTS,"Adbry Atopic Dermatitis (adult), prefilled syringe",Adbry,Preferred
+ATOPIC DERMATITIS TREATMENTS,Adbry Atopic Dermatitis (pediatric),Adbry,Preferred
+ATOPIC DERMATITIS TREATMENTS,Adbry auto-injector,Adbry,Preferred
+ATOPIC DERMATITIS TREATMENTS,Adbry prefilled syringe,Adbry,Preferred
+ATOPIC DERMATITIS TREATMENTS,"Adbry prefilled syringe, Atopic Dermatitis (pediatric)",Adbry,Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Adcirca,Adcirca,Non-Preferred
+BEHAVIORAL HEALTH – ANTIHYPERKINESIS,Adderall XR ER capsule,Adderall XR,Non-Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Adempas,Adempas,Non-Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,Admelog,Admelog,Non-Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,Admelog SoloStar,Admelog,Non-Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Advair Diskus,Advair Diskus,Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Advair HFA,Advair HFA,Preferred
+CENTRAL NERVOUS SYSTEM – CALCITONIN GENE-RELATED PEPTIDE INHIBITORS – MIGRAINE AND CLUSTER HEADACHE PREVENTION,Aimovig,Aimovig,Non-Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Airduo Digihaler,AirDuo Digihaler,Non-Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Airduo Respiclick,AirDuo RespiClick,Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Airsupra HFA,Airsupra HFA,Non-Preferred
+CENTRAL NERVOUS SYSTEM – CALCITONIN GENE-RELATED PEPTIDE INHIBITORS – MIGRAINE AND CLUSTER HEADACHE PREVENTION,Ajovy,Ajovy,Preferred
+RESPIRATORY – SHORT ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Albuterol HFA Sandoz labeler code 00781,"albuterol sulfate HFA (generic for ProAir HFA, Proventil HFA, Ventolin HFA)",Preferred
+RESPIRATORY – SHORT ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Albuterol HFA Teva labeler code 00093,"albuterol sulfate HFA (generic for ProAir HFA, Proventil HFA, Ventolin HFA)",Preferred
+RESPIRATORY – SHORT ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Albuterol HFA generic PROAIR,"albuterol sulfate HFA (generic for ProAir HFA, Proventil HFA, Ventolin HFA)",Preferred
+CENTRAL NERVOUS SYSTEM – TRIPTANS,Almotriptan,almotriptan (generic for Axert),Preferred
+OPHTHALMICGLAUCOMA – ALPHA 2 ADRENERGIC AGENTS,Alphagan P 0.1%,Alphagan P,Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS,Alvesco,Alvesco,Preferred
+BEHAVIORAL HEALTH – SEDATIVE HYPNOTICS,Ambien,Ambien/CR,Non-Preferred
+BEHAVIORAL HEALTH – SEDATIVE HYPNOTICS,Ambien CR,Ambien/CR,Non-Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Ambrisentan,ambrisentan (generic for Letairis),Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Ankylosing Spondylitis,Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 100 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 10mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 20mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 20mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 40mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 40mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 50 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 80mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, Amgen 55513 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, Amgen 72511 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Crohn's Disease (adult),Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 100 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 10mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 20mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 20mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 40mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 40mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 50 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 80mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), Amgen 55513 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), Amgen 72511 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Crohn's Disease (pediatric),Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 100 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 10mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 20mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 20mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 40mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 40mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 50 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 80mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), Amgen 55513 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), Amgen 72511 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Hidradenitis Suppurativa,Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 100 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 10mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 20mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 20mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 40mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 40mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 50 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 80mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, Amgen 55513 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, Amgen 72511 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Plaque Psoriasis (adult),Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 100 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 10mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 20mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 20mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 40mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 40mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 50 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 80mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), Amgen 55513 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), Amgen 72511 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA),Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 100 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 10mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 20mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 20mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 40mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 40mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 50 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 80mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), Amgen 55513 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), Amgen 72511 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Psoriatic Arthritis (adult),Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 100 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 10mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 20mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 20mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 40mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 40mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 50 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 80mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), Amgen 55513 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), Amgen 72511 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Rheumatoid Arthritis,Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 100 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 10mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 20mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 20mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 40mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 40mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 50 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 80mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, Amgen 55513 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, Amgen 72511 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Ulcerative Colitis (adult),Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 100 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 10mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 20mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 20mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 40mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 40mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 50 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 80mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), Amgen 55513 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), Amgen 72511 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Uveitis (adult),Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 100 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 10mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 20mg/0.2mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 20mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 40mg/0.4mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 40mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 50 mg/mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 80mg/0.8mL",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), Amgen 55513 labeler",Amjevita,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), Amgen 72511 labeler",Amjevita,Non-Preferred
+CARDIOVASCULAR – CALCIUM CHANNEL BLOCKERS DHP,Amlodipine Besylate tablet,amlodipine (generic for Norvasc),Preferred
+DUCHENNE MUSCULAR DYSTROPHY TREATMENTS,Amondys 45,Amondys 45,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Amrix,Amrix,Non-Preferred
+RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Anoro Ellipta,Anoro Ellipta,Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,Apidra,Apidra vial/SoloSTAR,Non-Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,Apidra SoloStar,Apidra vial/SoloSTAR,Non-Preferred
+BEHAVIORAL HEALTH – NOVEL ANTIDEPRESSANTS,Aplenzin,Aplenzin,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Aptiom,Aptiom,Non-Preferred
+HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp,Aranesp,Preferred
+HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp Anemia associated with chemotherapy,Aranesp,Preferred
+HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp Anemia associated with chronic kidney disease if patient is not on dialysis,Aranesp,Preferred
+HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp Anemia associated with chronic kidney disease if patient is on dialysis,Aranesp,Preferred
+HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp syringe,Aranesp,Preferred
+HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp vial,Aranesp,Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Arcalyst,Arcalyst,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Arcalyst Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),Arcalyst,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Arcalyst Deficiency of Interleukin-1 Receptor Antagonist (DIRA),Arcalyst,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Arcalyst Recurrent Pericarditis (RP),Arcalyst,Non-Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Aricept,Aricept,Non-Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Aricept 23 mg,Aricept 23 mg,Non-Preferred
+ANTIBIOTICS – INHALED,Arikayce,Arikayce,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Aripiprazole ODT,aripiprazole/ODT/solution (generic for Abilify/Discmelt/oral solution),Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Aripiprazole oral solution,aripiprazole/ODT/solution (generic for Abilify/Discmelt/oral solution),Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Aripiprazole tablet,aripiprazole/ODT/solution (generic for Abilify/Discmelt/oral solution),Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Aristada,Aristada,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Aristada Initio,Aristada Initio,Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Armonair Digihaler,ArmonAir Digihaler,Non-Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS,Arnuity Ellipta,Arnuity Ellipta,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Asenapine,asenapine (generic for Saphris),Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Asenapine sublingual tablet,asenapine (generic for Saphris),Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS,Asmanex HFA,Asmanex HFA,Non-Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS,Asmanex Twisthaler,Asmanex,Preferred
+CARDIOVASCULAR – PLATELET INHIBITORS,Aspirin / Dipyridamole,aspirin/dipyridamole (generic for Aggrenox),Preferred
+DISEASE MODIFYING THERAPY,Aubagio tablet,Aubagio,Non-Preferred
+GENITOURINARYRENAL – ELECTROLYTE DEPLETERS,Auryxia,Auryxia,Non-Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo,Austedo,Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo Huntington's Disease,Austedo,Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo Tardive Dyskinesia,Austedo,Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo Tourette's Syndrome/Tics,Austedo,Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo Unspecified Hyperkinetic Movement Disorder,Austedo,Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo XR,Austedo XR,Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo XR Huntington's Disease,Austedo XR,Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,"Austedo XR Huntington's Disease, titration pack",Austedo XR,Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo XR Tardive Dyskinesia,Austedo XR,Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,"Austedo XR Tardive Dyskinesia, titration pack",Austedo XR,Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo XR titration pack,Austedo XR,Preferred
+BEHAVIORAL HEALTH – NOVEL ANTIDEPRESSANTS,Auvelity,Auvelity,Non-Preferred
+SELF-INJECTION EPINEPHRINE,Auvi-Q 0.1 mg,Auvi-Q,Non-Preferred
+SELF-INJECTION EPINEPHRINE,Auvi-Q 0.15 mg,Auvi-Q,Non-Preferred
+SELF-INJECTION EPINEPHRINE,Auvi-Q 0.3 mg,Auvi-Q,Non-Preferred
+DISEASE MODIFYING THERAPY,Avonex auto-injector,Avonex,Preferred
+DISEASE MODIFYING THERAPY,Avonex prefilled syringe,Avonex,Preferred
+BEHAVIORAL HEALTH – ANTIHYPERKINESIS,Azstarys,Azstarys,Non-Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen 10 mg,baclofen,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen 15 mg,baclofen,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen 20 mg,baclofen,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen 5 mg,baclofen,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen 5mg, 10mg, 20mg",baclofen,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen oral solution,baclofen,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen oral suspension,baclofen,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen tablet,baclofen,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 10 mg",baclofen,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 15 mg",baclofen,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 20 mg",baclofen,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 5 mg",baclofen,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 5mg, 10mg, 20mg",baclofen,Preferred
+DISEASE MODIFYING THERAPY,Bafiertam,Bafiertam,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Banzel oral suspension,Banzel,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Banzel tablet,Banzel,Non-Preferred
+ENDOCRINOLOGY – INSULINS: LONG ACTING,Basaglar Kwikpen,Basaglar KwikPen,Non-Preferred
+CARDIOVASCULAR – ACE INHIBITORS AND COMBINATIONS,Benazepril,benazepril (generic for Lotensin),Preferred
+CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Betapace,Betapace,Non-Preferred
+CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Betapace AF,Betapace AF,Non-Preferred
+CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Betapace AF tablet,Betapace AF,Non-Preferred
+CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Betapace tablet,Betapace,Non-Preferred
+ANTIBIOTICS – INHALED,Bethkis,Bethkis,Preferred
+ANTIBIOTICS – INHALED,Bethkis 300 mg/4 ml ampule,Bethkis,Preferred
+RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Bevespi Aerosphere,Bevespi Aerosphere,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx,Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx Anklyosing Spondylitis,Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx Hidradenitis Suppurativa,Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx Non-Radiographic Axial Spondyloarthritis,Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx Plaque Psoriasis (adult),Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx Plaque Psoriasis (adult), auto-injector",Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx Plaque Psoriasis (adult), prefilled syringe",Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx Psoriatic Arthritis (adult),Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx auto-injector,Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx auto-injector, Anklyosing Spondylitis",Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx auto-injector, Non-Radiographic Axial Spondyloarthritis",Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx auto-injector, Psoriatic Arthritis (adult)",Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx prefilled syringe,Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx prefilled syringe, Anklyosing Spondylitis",Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx prefilled syringe, Non-Radiographic Axial Spondyloarthritis",Bimzelx,Non-Preferred
+IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx prefilled syringe, Psoriatic Arthritis (adult)",Bimzelx,Non-Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Bosentan,bosentan (generic for Tracleer),Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Breo Ellipta,Breo Ellipta,Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Breztri Aerosphere,Breztri Aerosphere,Non-Preferred
+CARDIOVASCULAR – PLATELET INHIBITORS,Brilinta,Brilinta,Preferred
+DISEASE MODIFYING THERAPY,Briumvi,Briumvi,Non-Preferred

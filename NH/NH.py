@@ -3,7 +3,7 @@ from lxml import etree
 from zipfile import ZipFile
 import pandas as pd
 
-def get_table_class_map(docx_path):
+def get_table_class_map_combined(docx_path):
     with ZipFile(docx_path) as docx_zip:
         xml_content = docx_zip.read("word/document.xml")
     tree = etree.fromstring(xml_content)
@@ -18,36 +18,53 @@ def get_table_class_map(docx_path):
     body = tree.find(".//w:body", namespaces=ns)
     children = list(body)
     table_class_map = []
-    current_class = None
+    main_header = None
+    sub_header = None
+
+    # Define known subheader patterns (expand as needed)
+    subheader_keywords = [
+        "VERY HIGH POTENCY", "HIGH POTENCY", "MEDIUM POTENCY", "LOW POTENCY",
+        "RAPID ACTING", "SHORT ACTING", "INTERMEDIATE ACTING", "LONG ACTING", "PREMIXED COMBINATIONS"
+    ]
+
     for child in children:
-        # Check for textbox in paragraph
         if child.tag.endswith('p'):
             drawing = child.xpath(".//w:drawing", namespaces=ns)
             pict = child.xpath(".//w:pict", namespaces=ns)
             if drawing or pict:
                 texts = child.xpath(".//w:t", namespaces=ns)
                 text = "".join([t.text for t in texts if t.text])
-                # Clean up the text
                 if text:
-                    text = text.replace('TABLE OF CONTENTS', '')
-                    text = ''.join([c for c in text if not c.isdigit() and c != '*'])
+                    # Clean up the text: remove 'TABLE OF CONTENTS', special chars, and normalize spaces
+                    text = text.replace('TABLE OF CONTENTS', '').strip()
+                    # Remove any non-alphanumeric/non-dash characters (like ***5, etc.)
+                    text = ''.join([c for c in text if c.isalnum() or c.isspace() or c in '–-']).strip()
+                    # Normalize multiple spaces to single space
+                    text = ' '.join(text.split())
+
+                    # Robust duplication check: check for exact half-string repetition
+                    if len(text) % 2 == 0: # Only if length is even
+                        half_len = len(text) // 2
+                        if text[:half_len] == text[half_len:]:
+                            text = text[:half_len]
+
+                    # Finally, split by '***' (if still present after deduplication)
                     text = text.split('***')[0].strip()
-                    # Remove duplicated text (e.g., "FOOBARFOOBAR" -> "FOOBAR")
-                    half = len(text) // 2
-                    if half > 0 and text[:half] == text[half:]:
-                        text = text[:half]
-                    # Remove subcategories and known non-class text
-                    skip = [
-                        'RAPID ACTING', 'SHORT ACTING', 'INTERMEDIATE ACTING', 'LONG ACTING', 'PREMIXED COMBINATIONS',
-                        'ORAL', 'RECTAL', 'VERY HIGH POTENCY', 'HIGH POTENCY', 'MEDIUM POTENCY', 'LOW POTENCY',
-                        'RIBAVIRIN PRODUCTS', 'DIRECT ACTING ANTIVIRAL PRODUCTS', 'BUPRENORPHINE – CONTAINING ORAL',
-                        'BUPRENORPHINE – CONTAINING INJECTABLE', 'OPIOID REVERSAL AGENTS', 'OTHER', 'DISEASE MODIFYING THERAPY'
-                    ]
-                    if text and text not in skip:
-                        current_class = text
-        # Check for table
+
+                    # Heuristic: if text is in subheader_keywords, treat as subheader
+                    if text.upper() in subheader_keywords:
+                        sub_header = text
+                    # If text is all uppercase or contains a dash, treat as main header
+                    elif text.isupper() or " – " in text or " - " in text:
+                        main_header = text
+                        sub_header = None  # Reset subheader when a new main header is found
         elif child.tag.endswith('tbl'):
-            table_class_map.append(current_class)
+            if main_header and sub_header:
+                table_class_map.append(f"{main_header}: {sub_header}")
+            elif main_header:
+                table_class_map.append(main_header)
+            else:
+                table_class_map.append(None)
     return table_class_map
 
 def get_tables(docx_path):
@@ -65,7 +82,7 @@ def get_tables(docx_path):
     return all_data
 
 docx_file = "NH.docx"
-table_class_map = get_table_class_map(docx_file)
+table_class_map = get_table_class_map_combined(docx_file)
 all_data = get_tables(docx_file)
 
 all_temps = []
@@ -104,7 +121,6 @@ for table_idx, table in enumerate(all_data):
 if all_temps:
     final_df = pd.concat(all_temps).reset_index(drop=True)
     final_df['pdl_name'] = [name.replace('*', '') for name in final_df['pdl_name']]
-    # Remove rows where pdl_name contains 'Trial and failure'
     final_df = final_df[~final_df['pdl_name'].str.contains('Trial and failure', case=False, na=False)].reset_index(drop=True)
     final_df.to_csv('NH_PDL.csv', index=False)
 else:
