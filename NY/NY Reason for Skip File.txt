@@ -1,0 +1,2 @@
+New York's PDL is created with Microsoft Word for Microsoft 365. This pdf file can be converted into different formats, including .docx and .xlsx through Adobe Desktop App. 
+No intuitive delimeters between drugs. Sometimes they will be delimited by \n characters and others they will just be next to each other delimited by spaces. Need to find a better way to export the PDL.
