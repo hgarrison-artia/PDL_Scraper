@@ -1,11 +1,7 @@
 therapeutic_class,capsule_name,pdl_name
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Abilify,Abilify
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Abilify Asimtufii,Abilify Asimtufii
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Abilify Maintena,Abilify Maintena
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Abilify MyCite,Abilify MyCite
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Abilify tablet,Abilify
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Ankylosing Spondylitis,Abrilada
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Crohn's Disease (adult),Abrilada
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Crohn's Disease (pediatric),Abrilada
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Hidradenitis Suppurativa,Abrilada
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Abrilada Plaque Psoriasis (adult),Abrilada
@@ -19,16 +15,11 @@ IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra ACTPen, Polyarticular Juvenil
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra ACTPen, Rheumatoid Arthritis",Actemra/ACTPen
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",Actemra/ACTPen
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Actemra/ACTPen
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Actemra Cytokine Release Syndrome,Actemra/ACTPen
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Actemra prefilled syringe,Actemra/ACTPen
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Cytokine Release Syndrome",Actemra/ACTPen
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Giant Cell Arteritis",Actemra/ACTPen
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Actemra/ACTPen
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Rheumatoid Arthritis",Actemra/ACTPen
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",Actemra/ACTPen
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Actemra/ACTPen
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Actemra syringe/vial,Actemra/ACTPen
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Actemra vial,Actemra/ACTPen
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Coronavirus Disease 2019",Actemra/ACTPen
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Cytokine Release Syndrome",Actemra/ACTPen
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Giant Cell Arteritis",Actemra/ACTPen
@@ -36,438 +27,87 @@ IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Polyarticular Juvenile 
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Rheumatoid Arthritis",Actemra/ACTPen
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Actemra/ACTPen
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Ankylosing Spondylitis,adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Ankylosing Spondylitis, auto-injector",adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Ankylosing Spondylitis, prefilled syringe",adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Crohn's Disease (adult),adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Crohn's Disease (adult), auto-injector",adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Crohn's Disease (adult), prefilled syringe",adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Crohn's Disease (pediatric),adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Crohn's Disease (pediatric), auto-injector",adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Crohn's Disease (pediatric), prefilled syringe",adalimumab-adaz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Hidradenitis Suppurativa,adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Hidradenitis Suppurativa, auto-injector",adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Hidradenitis Suppurativa, prefilled syringe",adalimumab-adaz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Plaque Psoriasis (adult),adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Plaque Psoriasis (adult), auto-injector",adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Plaque Psoriasis (adult), prefilled syringe",adalimumab-adaz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA),adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",adalimumab-adaz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Psoriatic Arthritis (adult),adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Psoriatic Arthritis (adult), auto-injector",adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Psoriatic Arthritis (adult), prefilled syringe",adalimumab-adaz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Rheumatoid Arthritis,adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Rheumatoid Arthritis, auto-injector",adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Rheumatoid Arthritis, prefilled syringe",adalimumab-adaz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Ulcerative Colitis (adult),adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Ulcerative Colitis (adult), auto-injector",adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Ulcerative Colitis (adult), prefilled syringe",adalimumab-adaz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Uveitis (adult),adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Uveitis (adult), auto-injector",adalimumab-adaz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adaz Uveitis (adult), prefilled syringe",adalimumab-adaz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Ankylosing Spondylitis,adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ankylosing Spondylitis, Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ankylosing Spondylitis, Non Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ankylosing Spondylitis, Non Quallent 82009 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ankylosing Spondylitis, Quallent 82009 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Crohn's Disease (adult),adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (adult), Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (adult), Non Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (adult), Non Quallent 82009 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (adult), Quallent 82009 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Crohn's Disease (pediatric),adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (pediatric), Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (pediatric), Non Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (pediatric), Non Quallent 82009 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Crohn's Disease (pediatric), Quallent 82009 labeler",adalimumab-adbm
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Hidradenitis Suppurativa,adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Hidradenitis Suppurativa, Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Hidradenitis Suppurativa, Non Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Hidradenitis Suppurativa, Non Quallent 82009 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Hidradenitis Suppurativa, Quallent 82009 labeler",adalimumab-adbm
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Plaque Psoriasis (adult),adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Plaque Psoriasis (adult), Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Plaque Psoriasis (adult), Non Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Plaque Psoriasis (adult), Non Quallent 82009 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Plaque Psoriasis (adult), Quallent 82009 labeler",adalimumab-adbm
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA),adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Non Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Non Quallent 82009 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Quallent 82009 labeler",adalimumab-adbm
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Psoriatic Arthritis (adult),adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Psoriatic Arthritis (adult), Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Psoriatic Arthritis (adult), Non Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Psoriatic Arthritis (adult), Non Quallent 82009 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Psoriatic Arthritis (adult), Quallent 82009 labeler",adalimumab-adbm
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Rheumatoid Arthritis,adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Rheumatoid Arthritis, Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Rheumatoid Arthritis, Non Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Rheumatoid Arthritis, Non Quallent 82009 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Rheumatoid Arthritis, Quallent 82009 labeler",adalimumab-adbm
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Ulcerative Colitis (adult),adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ulcerative Colitis (adult), Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ulcerative Colitis (adult), Non Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ulcerative Colitis (adult), Non Quallent 82009 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Ulcerative Colitis (adult), Quallent 82009 labeler",adalimumab-adbm
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Adalimumab-adbm Uveitis (adult),adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Uveitis (adult), Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Uveitis (adult), Non Boehringer 00597 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Uveitis (adult), Non Quallent 82009 labeler",adalimumab-adbm
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Adalimumab-adbm Uveitis (adult), Quallent 82009 labeler",adalimumab-adbm
-ATOPIC DERMATITIS TREATMENTS,Adbry,Adbry
 ATOPIC DERMATITIS TREATMENTS,Adbry Atopic Dermatitis (adult),Adbry
-ATOPIC DERMATITIS TREATMENTS,"Adbry Atopic Dermatitis (adult), auto-injector",Adbry
-ATOPIC DERMATITIS TREATMENTS,"Adbry Atopic Dermatitis (adult), prefilled syringe",Adbry
 ATOPIC DERMATITIS TREATMENTS,Adbry Atopic Dermatitis (pediatric),Adbry
-ATOPIC DERMATITIS TREATMENTS,Adbry auto-injector,Adbry
-ATOPIC DERMATITIS TREATMENTS,Adbry prefilled syringe,Adbry
-ATOPIC DERMATITIS TREATMENTS,"Adbry prefilled syringe, Atopic Dermatitis (pediatric)",Adbry
-CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Adcirca,Adcirca
 BEHAVIORAL HEALTH – ANTIHYPERKINESIS,Adderall XR ER capsule,Adderall XR
-CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Adempas,Adempas
-ENDOCRINOLOGY – INSULINS: RAPID ACTING,Admelog,Admelog
 ENDOCRINOLOGY – INSULINS: RAPID ACTING,Admelog SoloStar,Admelog
-RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Advair Diskus,Advair Diskus
-RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Advair HFA,Advair HFA
-CENTRAL NERVOUS SYSTEM – CALCITONIN GENE-RELATED PEPTIDE INHIBITORS – MIGRAINE AND CLUSTER HEADACHE PREVENTION,Aimovig,Aimovig
-RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Airduo Digihaler,AirDuo Digihaler
-RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Airduo Respiclick,AirDuo RespiClick
-RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Airsupra HFA,Airsupra HFA
-CENTRAL NERVOUS SYSTEM – CALCITONIN GENE-RELATED PEPTIDE INHIBITORS – MIGRAINE AND CLUSTER HEADACHE PREVENTION,Ajovy,Ajovy
-RESPIRATORY – SHORT ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Albuterol HFA Sandoz labeler code 00781,"albuterol sulfate HFA (generic for ProAir HFA, Proventil HFA, Ventolin HFA)"
-RESPIRATORY – SHORT ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Albuterol HFA Teva labeler code 00093,"albuterol sulfate HFA (generic for ProAir HFA, Proventil HFA, Ventolin HFA)"
 RESPIRATORY – SHORT ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Albuterol HFA generic PROAIR,"albuterol sulfate HFA (generic for ProAir HFA, Proventil HFA, Ventolin HFA)"
-CENTRAL NERVOUS SYSTEM – TRIPTANS,Almotriptan,almotriptan (generic for Axert)
-OPHTHALMICGLAUCOMA – ALPHA 2 ADRENERGIC AGENTS,Alphagan P 0.1%,Alphagan P
-RESPIRATORY – INHALED CORTICOSTEROIDS,Alvesco,Alvesco
-BEHAVIORAL HEALTH – SEDATIVE HYPNOTICS,Ambien,Ambien/CR
-BEHAVIORAL HEALTH – SEDATIVE HYPNOTICS,Ambien CR,Ambien/CR
-CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Ambrisentan,ambrisentan (generic for Letairis)
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Ankylosing Spondylitis,Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 100 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 10mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 20mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 20mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 40mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 40mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 50 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, 80mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, Amgen 55513 labeler",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ankylosing Spondylitis, Amgen 72511 labeler",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Crohn's Disease (adult),Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 100 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 10mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 20mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 20mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 40mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 40mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 50 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), 80mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), Amgen 55513 labeler",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (adult), Amgen 72511 labeler",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Crohn's Disease (pediatric),Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 100 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 10mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 20mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 20mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 40mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 40mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 50 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), 80mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), Amgen 55513 labeler",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Crohn's Disease (pediatric), Amgen 72511 labeler",Amjevita
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Hidradenitis Suppurativa,Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 100 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 10mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 20mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 20mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 40mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 40mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 50 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, 80mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, Amgen 55513 labeler",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Hidradenitis Suppurativa, Amgen 72511 labeler",Amjevita
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Plaque Psoriasis (adult),Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 100 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 10mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 20mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 20mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 40mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 40mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 50 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), 80mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), Amgen 55513 labeler",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Plaque Psoriasis (adult), Amgen 72511 labeler",Amjevita
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA),Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 100 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 10mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 20mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 20mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 40mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 40mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 50 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 80mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), Amgen 55513 labeler",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), Amgen 72511 labeler",Amjevita
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Psoriatic Arthritis (adult),Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 100 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 10mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 20mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 20mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 40mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 40mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 50 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), 80mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), Amgen 55513 labeler",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Psoriatic Arthritis (adult), Amgen 72511 labeler",Amjevita
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Rheumatoid Arthritis,Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 100 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 10mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 20mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 20mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 40mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 40mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 50 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, 80mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, Amgen 55513 labeler",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Rheumatoid Arthritis, Amgen 72511 labeler",Amjevita
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Ulcerative Colitis (adult),Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 100 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 10mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 20mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 20mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 40mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 40mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 50 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), 80mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), Amgen 55513 labeler",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Ulcerative Colitis (adult), Amgen 72511 labeler",Amjevita
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Amjevita Uveitis (adult),Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 100 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 10mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 20mg/0.2mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 20mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 40mg/0.4mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 40mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 50 mg/mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), 80mg/0.8mL",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), Amgen 55513 labeler",Amjevita
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Amjevita Uveitis (adult), Amgen 72511 labeler",Amjevita
-CARDIOVASCULAR – CALCIUM CHANNEL BLOCKERS DHP,Amlodipine Besylate tablet,amlodipine (generic for Norvasc)
-DUCHENNE MUSCULAR DYSTROPHY TREATMENTS,Amondys 45,Amondys 45
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Amrix,Amrix
-RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Anoro Ellipta,Anoro Ellipta
-ENDOCRINOLOGY – INSULINS: RAPID ACTING,Apidra,Apidra vial/SoloSTAR
 ENDOCRINOLOGY – INSULINS: RAPID ACTING,Apidra SoloStar,Apidra vial/SoloSTAR
-BEHAVIORAL HEALTH – NOVEL ANTIDEPRESSANTS,Aplenzin,Aplenzin
-ANTICONVULSANTS – SECOND GENERATION,Aptiom,Aptiom
-HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp,Aranesp
-HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp Anemia associated with chemotherapy,Aranesp
-HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp Anemia associated with chronic kidney disease if patient is not on dialysis,Aranesp
-HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp Anemia associated with chronic kidney disease if patient is on dialysis,Aranesp
-HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp syringe,Aranesp
-HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp vial,Aranesp
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Arcalyst,Arcalyst
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Arcalyst Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),Arcalyst
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Arcalyst Deficiency of Interleukin-1 Receptor Antagonist (DIRA),Arcalyst
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Arcalyst Recurrent Pericarditis (RP),Arcalyst
-BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Aricept,Aricept
-BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Aricept 23 mg,Aricept 23 mg
-ANTIBIOTICS – INHALED,Arikayce,Arikayce
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Aripiprazole ODT,aripiprazole/ODT/solution (generic for Abilify/Discmelt/oral solution)
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Aripiprazole oral solution,aripiprazole/ODT/solution (generic for Abilify/Discmelt/oral solution)
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Aripiprazole tablet,aripiprazole/ODT/solution (generic for Abilify/Discmelt/oral solution)
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Aristada,Aristada
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Aristada Initio,Aristada Initio
-RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Armonair Digihaler,ArmonAir Digihaler
-RESPIRATORY – INHALED CORTICOSTEROIDS,Arnuity Ellipta,Arnuity Ellipta
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Asenapine,asenapine (generic for Saphris)
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Asenapine sublingual tablet,asenapine (generic for Saphris)
-RESPIRATORY – INHALED CORTICOSTEROIDS,Asmanex HFA,Asmanex HFA
-RESPIRATORY – INHALED CORTICOSTEROIDS,Asmanex Twisthaler,Asmanex
-CARDIOVASCULAR – PLATELET INHIBITORS,Aspirin / Dipyridamole,aspirin/dipyridamole (generic for Aggrenox)
 DISEASE MODIFYING THERAPY,Aubagio tablet,Aubagio
-GENITOURINARYRENAL – ELECTROLYTE DEPLETERS,Auryxia,Auryxia
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo,Austedo
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo Huntington's Disease,Austedo
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo Tardive Dyskinesia,Austedo
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo Tourette's Syndrome/Tics,Austedo
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo Unspecified Hyperkinetic Movement Disorder,Austedo
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo XR,Austedo XR
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo XR Huntington's Disease,Austedo XR
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,"Austedo XR Huntington's Disease, titration pack",Austedo XR
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo XR Tardive Dyskinesia,Austedo XR
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,"Austedo XR Tardive Dyskinesia, titration pack",Austedo XR
 CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo XR titration pack,Austedo XR
-BEHAVIORAL HEALTH – NOVEL ANTIDEPRESSANTS,Auvelity,Auvelity
 SELF-INJECTION EPINEPHRINE,Auvi-Q 0.1 mg,Auvi-Q
 SELF-INJECTION EPINEPHRINE,Auvi-Q 0.15 mg,Auvi-Q
 SELF-INJECTION EPINEPHRINE,Auvi-Q 0.3 mg,Auvi-Q
 DISEASE MODIFYING THERAPY,Avonex auto-injector,Avonex
 DISEASE MODIFYING THERAPY,Avonex prefilled syringe,Avonex
-BEHAVIORAL HEALTH – ANTIHYPERKINESIS,Azstarys,Azstarys
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen 10 mg,baclofen
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen 15 mg,baclofen
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen 20 mg,baclofen
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen 5 mg,baclofen
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen 5mg, 10mg, 20mg",baclofen
 MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen oral solution,baclofen
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen oral suspension,baclofen
 MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen tablet,baclofen
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 10 mg",baclofen
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 15 mg",baclofen
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 20 mg",baclofen
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 5 mg",baclofen
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 5mg, 10mg, 20mg",baclofen
-DISEASE MODIFYING THERAPY,Bafiertam,Bafiertam
 ANTICONVULSANTS – SECOND GENERATION,Banzel oral suspension,Banzel
 ANTICONVULSANTS – SECOND GENERATION,Banzel tablet,Banzel
-ENDOCRINOLOGY – INSULINS: LONG ACTING,Basaglar Kwikpen,Basaglar KwikPen
-CARDIOVASCULAR – ACE INHIBITORS AND COMBINATIONS,Benazepril,benazepril (generic for Lotensin)
-CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Betapace,Betapace
-CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Betapace AF,Betapace AF
-CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Betapace AF tablet,Betapace AF
-CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Betapace tablet,Betapace
-ANTIBIOTICS – INHALED,Bethkis,Bethkis
-ANTIBIOTICS – INHALED,Bethkis 300 mg/4 ml ampule,Bethkis
-RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Bevespi Aerosphere,Bevespi Aerosphere
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx,Bimzelx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx Anklyosing Spondylitis,Bimzelx
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx Hidradenitis Suppurativa,Bimzelx
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx Non-Radiographic Axial Spondyloarthritis,Bimzelx
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx Plaque Psoriasis (adult),Bimzelx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx Plaque Psoriasis (adult), auto-injector",Bimzelx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx Plaque Psoriasis (adult), prefilled syringe",Bimzelx
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx Psoriatic Arthritis (adult),Bimzelx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx auto-injector,Bimzelx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx auto-injector, Anklyosing Spondylitis",Bimzelx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx auto-injector, Non-Radiographic Axial Spondyloarthritis",Bimzelx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx auto-injector, Psoriatic Arthritis (adult)",Bimzelx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Bimzelx prefilled syringe,Bimzelx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx prefilled syringe, Anklyosing Spondylitis",Bimzelx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx prefilled syringe, Non-Radiographic Axial Spondyloarthritis",Bimzelx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Bimzelx prefilled syringe, Psoriatic Arthritis (adult)",Bimzelx
-CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Bosentan,bosentan (generic for Tracleer)
-RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Breo Ellipta,Breo Ellipta
-RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Breztri Aerosphere,Breztri Aerosphere
-CARDIOVASCULAR – PLATELET INHIBITORS,Brilinta,Brilinta
-DISEASE MODIFYING THERAPY,Briumvi,Briumvi
-ANTICONVULSANTS – SECOND GENERATION,Briviact,Briviact
-ANTICONVULSANTS – SECOND GENERATION,Briviact oral solution,Briviact
-ANTICONVULSANTS – SECOND GENERATION,Briviact tablet,Briviact
-ANTICONVULSANTS – SECOND GENERATION,Briviact vial,Briviact
 RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Budesonide / Formoterol authorized generic Symbicort,budesonide/formoterol fumarate (generic for Symbicort)
-RESPIRATORY – INHALED CORTICOSTEROIDS,Budesonide 0.25 mg,budesonide (generic for Pulmicort)
-RESPIRATORY – INHALED CORTICOSTEROIDS,"Budesonide 0.25 mg, 0.5 mg",budesonide (generic for Pulmicort)
-RESPIRATORY – INHALED CORTICOSTEROIDS,Budesonide 0.5 mg,budesonide (generic for Pulmicort)
-RESPIRATORY – INHALED CORTICOSTEROIDS,Budesonide 1 mg,budesonide (generic for Pulmicort)
 RESPIRATORY – INHALED CORTICOSTEROIDS,Budesonide respules (inhalation suspension),budesonide (generic for Pulmicort)
-RESPIRATORY – INHALED CORTICOSTEROIDS,"Budesonide respules (inhalation suspension), 0.25 mg",budesonide (generic for Pulmicort)
-RESPIRATORY – INHALED CORTICOSTEROIDS,"Budesonide respules (inhalation suspension), 0.25 mg, 0.5 mg",budesonide (generic for Pulmicort)
-RESPIRATORY – INHALED CORTICOSTEROIDS,"Budesonide respules (inhalation suspension), 0.5 mg",budesonide (generic for Pulmicort)
-RESPIRATORY – INHALED CORTICOSTEROIDS,"Budesonide respules (inhalation suspension), 1 mg",budesonide (generic for Pulmicort)
 UREA CYCLE DISORDERS ORAL,Buphenyl powder,Buphenyl powder
 UREA CYCLE DISORDERS ORAL,Buphenyl tablet,Buphenyl tablet
-ENDOCRINOLOGY – GLUCAGON-LIKE PEPTIDE-1 GLP-1 AGONISTS AND COMBINATIONS,Bydureon Bcise,Bydureon BCise
-ENDOCRINOLOGY – GLUCAGON-LIKE PEPTIDE-1 GLP-1 AGONISTS AND COMBINATIONS,Byetta,Byetta
-CARDIOVASCULAR – ANGIOTENSIN II RECEPTOR BLOCKERS AND COMBINATIONS,Candesartan,candesartan (generic for Atacand)
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Caplyta,Caplyta
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Caplyta Bipolar depression,Caplyta
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Caplyta Schizophrenia/schizoaffective disorder,Caplyta
-CARDIOVASCULAR – ACE INHIBITORS AND COMBINATIONS,Captopril,captopril (generic for Capoten)
 HEMATOLOGIC – SICKLE CELL GENE THERAPY,Casgevy intravenous suspension,Casgevy
-HEMATOLOGIC – SICKLE CELL GENE THERAPY,"Casgevy intravenous suspension, Sickle Cell Disease",Casgevy
-HEMATOLOGIC – SICKLE CELL GENE THERAPY,"Casgevy intravenous suspension, Transfusion-Dependent Beta Thalassemia",Casgevy
-ANTIBIOTICS – INHALED,Cayston,Cayston
-OPHTHALMIC – ANTIINFLAMMATORYIMMUNOMODULATORS,Cequa,Cequa
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cibinqo,Cibinqo
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cibinqo Atopic Dermatitis (adult),Cibinqo
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cibinqo Atopic Dermatitis (pediatric),Cibinqo
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cimzia,Cimzia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cimzia Ankylosing Spondylitis,Cimzia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cimzia Ankylosing Spondylitis, prefilled syringe",Cimzia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cimzia Ankylosing Spondylitis, subcutaneous vial",Cimzia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cimzia Crohn's Disease (adult),Cimzia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cimzia Crohn's Disease (adult), prefilled syringe",Cimzia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cimzia Crohn's Disease (adult), subcutaneous vial",Cimzia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cimzia Non-Radiographic Axial Spondyloarthritis,Cimzia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cimzia Non-Radiographic Axial Spondyloarthritis, prefilled syringe",Cimzia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cimzia Non-Radiographic Axial Spondyloarthritis, subcutaneous vial",Cimzia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cimzia Plaque Psoriasis (adult),Cimzia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cimzia Plaque Psoriasis (adult), prefilled syringe",Cimzia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cimzia Plaque Psoriasis (adult), subcutaneous vial",Cimzia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cimzia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cimzia Psoriatic Arthritis (adult),Cimzia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cimzia Psoriatic Arthritis (adult), prefilled syringe",Cimzia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cimzia Psoriatic Arthritis (adult), subcutaneous vial",Cimzia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cimzia Rheumatoid Arthritis,Cimzia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cimzia Rheumatoid Arthritis, prefilled syringe",Cimzia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cimzia Rheumatoid Arthritis, subcutaneous vial",Cimzia
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,Cinqair,Cinqair
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Cinqair Asthma (adult),Cinqair
 ANTIBIOTICS – VAGINAL,Cleocin 2% cream,Cleocin Cream/Ovules
 ANTIBIOTICS – VAGINAL,Cleocin Ovules / vaginal suppository,Cleocin Cream/Ovules
-ANTIBIOTICS – VAGINAL,Clindamycin 2% Cream,clindamycin
 ANTIBIOTICS – VAGINAL,Clindesse 2% prefilled applicator cream,Clindesse
 ANTICONVULSANTS – SECOND GENERATION,Clobazam oral suspension,clobazam (generic for Onfi)
 ANTICONVULSANTS – SECOND GENERATION,Clobazam tablet,clobazam (generic for Onfi)
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Clozapine ODT,clozapine ODT (generic for Fazaclo)
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Clozapine tablet,clozapine (generic for Clozaril)
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Clozaril,Clozaril
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Clozaril tablet,Clozaril
-OPHTHALMICGLAUCOMA – BETA BLOCKER AGENTS,Combigan,Combigan
-OPHTHALMICGLAUCOMA – BETA BLOCKER AGENTS,Combigan 10 ml,Combigan
-OPHTHALMICGLAUCOMA – BETA BLOCKER AGENTS,Combigan 5 ml,Combigan
-RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Combivent Respimat (Ipratropium/Albuterol) inhalation aerosol solution,Combivent Respimat
-BEHAVIORAL HEALTH – ANTIHYPERKINESIS,Concerta ER,Concerta
-DISEASE MODIFYING THERAPY,Copaxone (Glatiramer Acetate) 20 mg,Copaxone
-DISEASE MODIFYING THERAPY,Copaxone (Glatiramer Acetate) 40 mg,Copaxone
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cosentyx,Cosentyx
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cosentyx Ankylosing Spondylitis,Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Ankylosing Spondylitis, Sensoready",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Ankylosing Spondylitis, UnoReady",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Ankylosing Spondylitis, prefilled syringe",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Ankylosing Spondylitis, vial",Cosentyx
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cosentyx Enthesitis-Related Arthritis (pediatric),Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Enthesitis-Related Arthritis (pediatric), Sensoready",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Enthesitis-Related Arthritis (pediatric), UnoReady",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Enthesitis-Related Arthritis (pediatric), prefilled syringe",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Enthesitis-Related Arthritis (pediatric), vial",Cosentyx
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cosentyx Hidradenitis Suppurativa,Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Hidradenitis Suppurativa, Sensoready",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Hidradenitis Suppurativa, UnoReady",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Hidradenitis Suppurativa, prefilled syringe",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Hidradenitis Suppurativa, vial",Cosentyx
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cosentyx Non-Radiographic Axial Spondyloarthritis,Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Non-Radiographic Axial Spondyloarthritis, Sensoready",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Non-Radiographic Axial Spondyloarthritis, UnoReady",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Non-Radiographic Axial Spondyloarthritis, prefilled syringe",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Non-Radiographic Axial Spondyloarthritis, vial",Cosentyx
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cosentyx Plaque Psoriasis (adult),Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Plaque Psoriasis (adult), Sensoready",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Plaque Psoriasis (adult), UnoReady",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Plaque Psoriasis (adult), prefilled syringe",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Plaque Psoriasis (adult), vial",Cosentyx
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cosentyx Plaque Psoriasis (pediatric),Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Plaque Psoriasis (pediatric), Sensoready",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Plaque Psoriasis (pediatric), UnoReady",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Plaque Psoriasis (pediatric), prefilled syringe",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Plaque Psoriasis (pediatric), vial",Cosentyx
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cosentyx Psoriatic Arthritis (adult),Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Psoriatic Arthritis (adult), Sensoready",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Psoriatic Arthritis (adult), UnoReady",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Psoriatic Arthritis (adult), prefilled syringe",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Psoriatic Arthritis (adult), vial",Cosentyx
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cosentyx Psoriatic Arthritis (pediatric),Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Psoriatic Arthritis (pediatric), Sensoready",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Psoriatic Arthritis (pediatric), UnoReady",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Psoriatic Arthritis (pediatric), prefilled syringe",Cosentyx
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Cosentyx Psoriatic Arthritis (pediatric), vial",Cosentyx
-MISCELLANEOUS – PANCREATIC ENZYMES,Creon,Creon
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cyltezo Ankylosing Spondylitis,Cyltezo
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cyltezo Crohn's Disease (adult),Cyltezo
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cyltezo Crohn's Disease (pediatric),Cyltezo
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cyltezo Hidradenitis Suppurativa,Cyltezo
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cyltezo Plaque Psoriasis (adult),Cyltezo
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cyltezo Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cyltezo
@@ -475,137 +115,37 @@ IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cyltezo Psoriatic Arthritis (adult),Cy
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cyltezo Rheumatoid Arthritis,Cyltezo
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cyltezo Ulcerative Colitis (adult),Cyltezo
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Cyltezo Uveitis (adult),Cyltezo
-RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Daliresp,Daliresp
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Dantrium,Dantrium
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Dantrium capsule,Dantrium
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Dantrium vial,Dantrium
-ENDOCRINOLOGY – SODIUM GLUCOSE CO-TRANSPORTER 2 INHIBITOR AND COMBINATIONS,Dapagliflozin,dapagliflozin (generic for Farxiga)
-ANTICONVULSANTS – FIRST GENERATION,Depakote,Depakote
-ANTICONVULSANTS – FIRST GENERATION,Depakote DR sprinkle capsule,Depakote Sprinkle
-ANTICONVULSANTS – FIRST GENERATION,Depakote DR tablet,Depakote
-ANTICONVULSANTS – FIRST GENERATION,Depakote ER tablet,Depakote ER
-ANTICONVULSANTS – FIRST GENERATION,Depakote tablet,Depakote
 ANTICONVULSANTS – SECOND GENERATION,Diacomit capsule,Diacomit
 ANTICONVULSANTS – SECOND GENERATION,Diacomit packet for oral suspension,Diacomit
-ATOPIC DERMATITIS TREATMENTS,Dupixent,Dupixent
 ATOPIC DERMATITIS TREATMENTS,Dupixent Asthma (adult),Dupixent
 ATOPIC DERMATITIS TREATMENTS,Dupixent Asthma (pediatric),Dupixent
 ATOPIC DERMATITIS TREATMENTS,Dupixent Atopic Dermatitis (adult),Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent Atopic Dermatitis (adult), pen",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent Atopic Dermatitis (adult), prefilled syringe",Dupixent
 ATOPIC DERMATITIS TREATMENTS,Dupixent Atopic Dermatitis (pediatric),Dupixent
 ATOPIC DERMATITIS TREATMENTS,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,Dupixent
 ATOPIC DERMATITIS TREATMENTS,Dupixent Chronic obstructive pulmonary disease (COPD),Dupixent
 ATOPIC DERMATITIS TREATMENTS,Dupixent Eosinophilic Esophagitis,Dupixent
 ATOPIC DERMATITIS TREATMENTS,Dupixent Eosinophilic or Corticosteroid-Dependent Asthma,Dupixent
 ATOPIC DERMATITIS TREATMENTS,Dupixent Prurigo Nodularis,Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent pen, Asthma (adult)",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent pen, Asthma (pediatric)",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent pen, Atopic Dermatitis (pediatric)",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent pen, Chronic Rhinosinusitis with Nasal Polyposis",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent pen, Chronic obstructive pulmonary disease (COPD)",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent pen, Eosinophilic Esophagitis",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent pen, Eosinophilic or Corticosteroid-Dependent Asthma",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent pen, Prurigo Nodularis",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent prefilled syringe, Asthma (adult)",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent prefilled syringe, Asthma (pediatric)",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent prefilled syringe, Atopic Dermatitis (pediatric)",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent prefilled syringe, Chronic obstructive pulmonary disease (COPD)",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent prefilled syringe, Eosinophilic Esophagitis",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent prefilled syringe, Eosinophilic or Corticosteroid-Dependent Asthma",Dupixent
-ATOPIC DERMATITIS TREATMENTS,"Dupixent prefilled syringe, Prurigo Nodularis",Dupixent
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Enbrel,Enbrel
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Enbrel Ankylosing Spondylitis,Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Ankylosing Spondylitis, Mini cartridge",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Ankylosing Spondylitis, SureClick",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Ankylosing Spondylitis, prefilled syringe",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Ankylosing Spondylitis, vial",Enbrel
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Enbrel Plaque Psoriasis (adult),Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Plaque Psoriasis (adult), Mini cartridge",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Plaque Psoriasis (adult), SureClick",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Plaque Psoriasis (adult), prefilled syringe",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Plaque Psoriasis (adult), vial",Enbrel
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Enbrel Plaque Psoriasis (pediatric),Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Plaque Psoriasis (pediatric), Mini cartridge",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Plaque Psoriasis (pediatric), SureClick",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Plaque Psoriasis (pediatric), prefilled syringe",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Plaque Psoriasis (pediatric), vial",Enbrel
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA),Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), Mini cartridge",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), SureClick",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), vial",Enbrel
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Enbrel Psoriatic Arthritis (adult),Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Psoriatic Arthritis (adult), Mini cartridge",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Psoriatic Arthritis (adult), SureClick",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Psoriatic Arthritis (adult), prefilled syringe",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Psoriatic Arthritis (adult), vial",Enbrel
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Enbrel Psoriatic Arthritis (pediatric),Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Psoriatic Arthritis (pediatric), Mini cartridge",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Psoriatic Arthritis (pediatric), SureClick",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Psoriatic Arthritis (pediatric), prefilled syringe",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Psoriatic Arthritis (pediatric), vial",Enbrel
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Enbrel Rheumatoid Arthritis,Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Rheumatoid Arthritis, Mini cartridge",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Rheumatoid Arthritis, SureClick",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Rheumatoid Arthritis, prefilled syringe",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Enbrel Rheumatoid Arthritis, vial",Enbrel
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Entyvio,Entyvio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Entyvio Crohn's Disease (adult),Entyvio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Entyvio Crohn's Disease (adult), prefilled syringe",Entyvio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Entyvio Crohn's Disease (adult), vial",Entyvio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Entyvio Ulcerative Colitis (adult),Entyvio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Entyvio Ulcerative Colitis (adult), prefilled syringe",Entyvio
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Entyvio Ulcerative Colitis (adult), vial",Entyvio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Entyvio prefilled pen,Entyvio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Entyvio prefilled pen, Crohn's Disease (adult)",Entyvio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Entyvio prefilled pen, Ulcerative Colitis (adult)",Entyvio
-ATOPIC DERMATITIS TREATMENTS,Eucrisa,Eucrisa
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Fasenra Asthma (adult),Fasenra
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Fasenra Asthma (pediatric),Fasenra
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Fasenra Eosinophilic Granulomatosis with Polyangitis (EGPA),Fasenra
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,Fasenra auto-injector,Fasenra
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Fasenra auto-injector, Asthma (adult)",Fasenra
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Fasenra auto-injector, Asthma (pediatric)",Fasenra
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Fasenra auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Fasenra
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,Fasenra prefilled syringe,Fasenra
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Fasenra prefilled syringe, Asthma (adult)",Fasenra
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Fasenra prefilled syringe, Asthma (pediatric)",Fasenra
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Fasenra prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Fasenra
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hadlima Ankylosing Spondylitis,Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Ankylosing Spondylitis, PushTouch",Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Ankylosing Spondylitis, prefilled syringe",Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hadlima Crohn's Disease (adult),Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Crohn's Disease (adult), PushTouch",Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Crohn's Disease (adult), prefilled syringe",Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hadlima Crohn's Disease (pediatric),Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Crohn's Disease (pediatric), PushTouch",Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Crohn's Disease (pediatric), prefilled syringe",Hadlima
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hadlima Hidradenitis Suppurativa,Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Hidradenitis Suppurativa, PushTouch",Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Hidradenitis Suppurativa, prefilled syringe",Hadlima
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hadlima Plaque Psoriasis (adult),Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Plaque Psoriasis (adult), PushTouch",Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Plaque Psoriasis (adult), prefilled syringe",Hadlima
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA),Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA), PushTouch",Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Hadlima
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hadlima Psoriatic Arthritis (adult),Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Psoriatic Arthritis (adult), PushTouch",Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Psoriatic Arthritis (adult), prefilled syringe",Hadlima
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hadlima Rheumatoid Arthritis,Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Rheumatoid Arthritis, PushTouch",Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Rheumatoid Arthritis, prefilled syringe",Hadlima
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hadlima Ulcerative Colitis (adult),Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Ulcerative Colitis (adult), PushTouch",Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Ulcerative Colitis (adult), prefilled syringe",Hadlima
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hadlima Uveitis (adult),Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Uveitis (adult), PushTouch",Hadlima
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hadlima Uveitis (adult), prefilled syringe",Hadlima
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hulio Ankylosing Spondylitis,Hulio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hulio Crohn's Disease (adult),Hulio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hulio Crohn's Disease (pediatric),Hulio
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hulio Hidradenitis Suppurativa,Hulio
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hulio Plaque Psoriasis (adult),Hulio
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hulio Polyarticular Juvenile Idiopathic Arthritis (PJIA),Hulio
@@ -626,469 +166,121 @@ IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Humira Ulcerative Colitis (pediatric),
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Humira Uveitis (adult),Humira
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Humira Uveitis (pediatric),Humira
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hyrimoz Ankylosing Spondylitis,Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Ankylosing Spondylitis, auto-injector",Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Ankylosing Spondylitis, prefilled syringe",Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hyrimoz Crohn's Disease (adult),Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Crohn's Disease (adult), auto-injector",Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Crohn's Disease (adult), prefilled syringe",Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hyrimoz Crohn's Disease (pediatric),Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Crohn's Disease (pediatric), auto-injector",Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Crohn's Disease (pediatric), prefilled syringe",Hyrimoz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hyrimoz Hidradenitis Suppurativa,Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Hidradenitis Suppurativa, auto-injector",Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Hidradenitis Suppurativa, prefilled syringe",Hyrimoz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hyrimoz Plaque Psoriasis (adult),Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Plaque Psoriasis (adult), auto-injector",Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Plaque Psoriasis (adult), prefilled syringe",Hyrimoz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA),Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Hyrimoz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hyrimoz Psoriatic Arthritis (adult),Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Psoriatic Arthritis (adult), auto-injector",Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Psoriatic Arthritis (adult), prefilled syringe",Hyrimoz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hyrimoz Rheumatoid Arthritis,Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Rheumatoid Arthritis, auto-injector",Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Rheumatoid Arthritis, prefilled syringe",Hyrimoz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hyrimoz Ulcerative Colitis (adult),Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Ulcerative Colitis (adult), auto-injector",Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Ulcerative Colitis (adult), prefilled syringe",Hyrimoz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Hyrimoz Uveitis (adult),Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Uveitis (adult), auto-injector",Hyrimoz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Hyrimoz Uveitis (adult), prefilled syringe",Hyrimoz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Idacio Ankylosing Spondylitis,Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Ankylosing Spondylitis, auto-injector",Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Ankylosing Spondylitis, prefilled syringe",Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Idacio Crohn's Disease (adult),Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Crohn's Disease (adult), auto-injector",Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Crohn's Disease (adult), prefilled syringe",Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Idacio Crohn's Disease (pediatric),Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Crohn's Disease (pediatric), auto-injector",Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Crohn's Disease (pediatric), prefilled syringe",Idacio
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Idacio Hidradenitis Suppurativa,Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Hidradenitis Suppurativa, auto-injector",Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Hidradenitis Suppurativa, prefilled syringe",Idacio
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Idacio Plaque Psoriasis (adult),Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Plaque Psoriasis (adult), auto-injector",Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Plaque Psoriasis (adult), prefilled syringe",Idacio
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA),Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Idacio
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Idacio Psoriatic Arthritis (adult),Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Psoriatic Arthritis (adult), auto-injector",Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Psoriatic Arthritis (adult), prefilled syringe",Idacio
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Idacio Rheumatoid Arthritis,Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Rheumatoid Arthritis, auto-injector",Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Rheumatoid Arthritis, prefilled syringe",Idacio
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Idacio Ulcerative Colitis (adult),Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Ulcerative Colitis (adult), auto-injector",Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Ulcerative Colitis (adult), prefilled syringe",Idacio
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Idacio Uveitis (adult),Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Uveitis (adult), auto-injector",Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Idacio Uveitis (adult), prefilled syringe",Idacio
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Ilaris,Ilaris
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Ilaris Adult-Onset Still's Disease,Ilaris
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Ilaris Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),Ilaris
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Ilaris Familial Mediterranean Fever (FMF),Ilaris
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Ilaris Gout Flares,Ilaris
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Ilaris Hyperimmunoglobulin D Syndrome (HIDS)/Mevalonate Kinase Deficiency (MKD),Ilaris
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Ilaris Systemic-Onset Juvenile Idiopathic Arthritis (SJIA),Ilaris
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Ilaris Tumor Necrosis Factor Receptor Associated Periodic Syndrome (TRAPS),Ilaris
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Ilumya,Ilumya
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Ilumya Plaque Psoriasis (adult),Ilumya
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Inflectra,Inflectra
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Inflectra Ankylosing Spondylitis,Inflectra
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Inflectra Crohn's Disease (adult),Inflectra
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Inflectra Crohn's Disease (pediatric),Inflectra
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Inflectra Plaque Psoriasis (adult),Inflectra
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Inflectra Psoriatic Arthritis (adult),Inflectra
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Inflectra Rheumatoid Arthritis,Inflectra
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Inflectra Ulcerative Colitis (adult),Inflectra
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Inflectra Ulcerative Colitis (pediatric),Inflectra
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),Kevzara
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Kevzara Polymyalgia Rheumatica (PMR),Kevzara
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Kevzara Rheumatoid Arthritis,Kevzara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Kevzara prefilled pen,Kevzara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Kevzara prefilled pen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Kevzara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Kevzara prefilled pen, Polymyalgia Rheumatica (PMR)",Kevzara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Kevzara prefilled pen, Rheumatoid Arthritis",Kevzara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Kevzara prefilled syringe,Kevzara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Kevzara prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Kevzara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Kevzara prefilled syringe, Polymyalgia Rheumatica (PMR)",Kevzara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Kevzara prefilled syringe, Rheumatoid Arthritis",Kevzara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Kineret,Kineret
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Kineret Deficiency of Interleukin-1 Receptor Antagonist (DIRA),Kineret
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Kineret Neonatal-Onset Multisystem Inflammatory Disease (NOMID),Kineret
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Kineret Rheumatoid Arthritis,Kineret
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Litfulo,Litfulo
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Litfulo Alopecia Areata,Litfulo
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,Nucala,Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala 100 mg, prefilled syringe, Asthma (adult)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala 100 mg, prefilled syringe, Asthma (pediatric)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala 100 mg, prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala 100 mg, prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala 100 mg, prefilled syringe, Hypereosinophilic Syndrome (HES)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala 40 mg, prefilled syringe, Asthma (adult)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala 40 mg, prefilled syringe, Asthma (pediatric)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala 40 mg, prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala 40 mg, prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala 40 mg, prefilled syringe, Hypereosinophilic Syndrome (HES)",Nucala
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Nucala Asthma (adult),Nucala
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Nucala Asthma (pediatric),Nucala
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Nucala Chronic Rhinosinusitis with Nasal Polyposis,Nucala
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),Nucala
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Nucala Hypereosinophilic Syndrome (HES),Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,Nucala auto-injector,Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala auto-injector, Asthma (adult)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala auto-injector, Asthma (pediatric)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala auto-injector, Hypereosinophilic Syndrome (HES)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,Nucala prefilled syringe,Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala prefilled syringe, Asthma (adult)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala prefilled syringe, Asthma (pediatric)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala prefilled syringe, Hypereosinophilic Syndrome (HES)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,Nucala vial,Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala vial, Asthma (adult)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala vial, Asthma (pediatric)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala vial, Chronic Rhinosinusitis with Nasal Polyposis",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala vial, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Nucala
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Nucala vial, Hypereosinophilic Syndrome (HES)",Nucala
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Olumiant,Olumiant
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Olumiant Alopecia Areata,Olumiant
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Olumiant Coronavirus Disease 2019,Olumiant
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Olumiant Rheumatoid Arthritis,Olumiant
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Orencia Acute Graft Versus Host Disease (aGVHD),Orencia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia ClickJect, Acute Graft Versus Host Disease (aGVHD)",Orencia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia ClickJect, Psoriatic Arthritis (adult)",Orencia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia ClickJect, Psoriatic Arthritis (pediatric)",Orencia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia ClickJect, Rheumatoid Arthritis",Orencia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Orencia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Orencia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Orencia Psoriatic Arthritis (adult),Orencia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Orencia Rheumatoid Arthritis,Orencia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Orencia prefilled syringe,Orencia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia prefilled syringe, Acute Graft Versus Host Disease (aGVHD)",Orencia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia prefilled syringe, Psoriatic Arthritis (adult)",Orencia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)",Orencia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia prefilled syringe, Rheumatoid Arthritis",Orencia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Orencia vial,Orencia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia vial, Acute Graft Versus Host Disease (aGVHD)",Orencia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia vial, Psoriatic Arthritis (adult)",Orencia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia vial, Psoriatic Arthritis (pediatric)",Orencia
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Orencia vial, Rheumatoid Arthritis",Orencia
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Otezla,Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Otezla 20 mg,Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Otezla 30 mg,Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Otezla Behcet's Disease,Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Behcet's Disease, 20 mg",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Behcet's Disease, 20 mg, tablet",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Behcet's Disease, 30 mg",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Behcet's Disease, 30 mg, tablet",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Behcet's Disease, starter pack",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Behcet's Disease, tablet",Otezla
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Otezla Plaque Psoriasis (adult),Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Plaque Psoriasis (adult), 20 mg",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Plaque Psoriasis (adult), 20 mg, tablet",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Plaque Psoriasis (adult), 30 mg",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Plaque Psoriasis (adult), 30 mg, tablet",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Plaque Psoriasis (adult), starter pack",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Plaque Psoriasis (adult), tablet",Otezla
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Otezla Plaque Psoriasis (pediatric),Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Plaque Psoriasis (pediatric), 20 mg",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Plaque Psoriasis (pediatric), 20 mg, tablet",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Plaque Psoriasis (pediatric), 30 mg",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Plaque Psoriasis (pediatric), 30 mg, tablet",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Plaque Psoriasis (pediatric), starter pack",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Plaque Psoriasis (pediatric), tablet",Otezla
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Otezla Psoriatic Arthritis (adult),Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Psoriatic Arthritis (adult), 20 mg",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Psoriatic Arthritis (adult), 20 mg, tablet",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Psoriatic Arthritis (adult), 30 mg",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Psoriatic Arthritis (adult), 30 mg, tablet",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Psoriatic Arthritis (adult), starter pack",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Otezla Psoriatic Arthritis (adult), tablet",Otezla
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Remicade,Remicade
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Remicade Ankylosing Spondylitis,Remicade
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Remicade Crohn's Disease (adult),Remicade
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Remicade Crohn's Disease (pediatric),Remicade
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Remicade Plaque Psoriasis (adult),Remicade
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Remicade Psoriatic Arthritis (adult),Remicade
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Remicade Rheumatoid Arthritis,Remicade
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Remicade Ulcerative Colitis (adult),Remicade
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Remicade Ulcerative Colitis (pediatric),Remicade
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Renflexis,Renflexis
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Renflexis Ankylosing Spondylitis,Renflexis
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Renflexis Crohn's Disease (adult),Renflexis
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Renflexis Crohn's Disease (pediatric),Renflexis
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Renflexis Plaque Psoriasis (adult),Renflexis
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Renflexis Psoriatic Arthritis (adult),Renflexis
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Renflexis Rheumatoid Arthritis,Renflexis
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Renflexis Ulcerative Colitis (adult),Renflexis
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Renflexis Ulcerative Colitis (pediatric),Renflexis
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Rinvoq,Rinvoq/LQ
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Rinvoq Ankylosing Spondylitis,Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Ankylosing Spondylitis, ER tablet",Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Ankylosing Spondylitis, LQ",Rinvoq/LQ
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Rinvoq Atopic Dermatitis (adult),Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Atopic Dermatitis (adult), ER tablet",Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Atopic Dermatitis (adult), LQ",Rinvoq/LQ
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Rinvoq Crohn's Disease (adult),Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Crohn's Disease (adult), ER tablet",Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Crohn's Disease (adult), LQ",Rinvoq/LQ
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Rinvoq Non-Radiographic Axial Spondyloarthritis,Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Non-Radiographic Axial Spondyloarthritis, ER tablet",Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Non-Radiographic Axial Spondyloarthritis, LQ",Rinvoq/LQ
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA),Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA), ER tablet",Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA), LQ",Rinvoq/LQ
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Rinvoq Psoriatic Arthritis (adult),Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Psoriatic Arthritis (adult), ER tablet",Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Psoriatic Arthritis (adult), LQ",Rinvoq/LQ
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Rinvoq Psoriatic Arthritis (pediatric),Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Psoriatic Arthritis (pediatric), ER tablet",Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Psoriatic Arthritis (pediatric), LQ",Rinvoq/LQ
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Rinvoq Rheumatoid Arthritis,Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Rheumatoid Arthritis, ER tablet",Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Rheumatoid Arthritis, LQ",Rinvoq/LQ
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Rinvoq Ulcerative Colitis (adult),Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Ulcerative Colitis (adult), ER tablet",Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Rinvoq Ulcerative Colitis (adult), LQ",Rinvoq/LQ
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Siliq,Siliq
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Siliq Plaque Psoriasis (adult),Siliq
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Simlandi Ankylosing Spondylitis,Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Ankylosing Spondylitis, Teva 51759 labeler",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Ankylosing Spondylitis, prefilled syringe",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Simlandi Crohn's Disease (adult),Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Crohn's Disease (adult), Teva 51759 labeler",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Crohn's Disease (adult), prefilled syringe",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Simlandi Crohn's Disease (pediatric),Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Crohn's Disease (pediatric), Teva 51759 labeler",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Crohn's Disease (pediatric), prefilled syringe",Simlandi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Simlandi Hidradenitis Suppurativa,Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Hidradenitis Suppurativa, Teva 51759 labeler",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Hidradenitis Suppurativa, prefilled syringe",Simlandi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Simlandi Plaque Psoriasis (adult),Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Plaque Psoriasis (adult), Teva 51759 labeler",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Plaque Psoriasis (adult), prefilled syringe",Simlandi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA),Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA), Teva 51759 labeler",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Simlandi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Simlandi Psoriatic Arthritis (adult),Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Psoriatic Arthritis (adult), Teva 51759 labeler",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Psoriatic Arthritis (adult), prefilled syringe",Simlandi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Simlandi Rheumatoid Arthritis,Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Rheumatoid Arthritis, Teva 51759 labeler",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Rheumatoid Arthritis, prefilled syringe",Simlandi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Simlandi Ulcerative Colitis (adult),Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Ulcerative Colitis (adult), Teva 51759 labeler",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Ulcerative Colitis (adult), prefilled syringe",Simlandi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Simlandi Uveitis (adult),Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Uveitis (adult), Teva 51759 labeler",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi Uveitis (adult), prefilled syringe",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi auto-injector, Ankylosing Spondylitis",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi auto-injector, Crohn's Disease (adult)",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi auto-injector, Crohn's Disease (pediatric)",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi auto-injector, Hidradenitis Suppurativa",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi auto-injector, Plaque Psoriasis (adult)",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi auto-injector, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi auto-injector, Psoriatic Arthritis (adult)",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi auto-injector, Rheumatoid Arthritis",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi auto-injector, Ulcerative Colitis (adult)",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simlandi auto-injector, Uveitis (adult)",Simlandi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Simponi,Simponi/Aria
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simponi Ankylosing Spondylitis, Aria",Simponi/Aria
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simponi Ankylosing Spondylitis, SmartJect",Simponi/Aria
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simponi Ankylosing Spondylitis, prefilled syringe",Simponi/Aria
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Simponi/Aria
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simponi Aria, Psoriatic Arthritis (pediatric)",Simponi/Aria
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simponi Psoriatic Arthritis (adult), Aria",Simponi/Aria
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simponi Psoriatic Arthritis (adult), SmartJect",Simponi/Aria
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simponi Psoriatic Arthritis (adult), prefilled syringe",Simponi/Aria
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Simponi Rheumatoid Arthritis,Simponi/Aria
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simponi Rheumatoid Arthritis, Aria",Simponi/Aria
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simponi Rheumatoid Arthritis, SmartJect",Simponi/Aria
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simponi Rheumatoid Arthritis, prefilled syringe",Simponi/Aria
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simponi Ulcerative Colitis (adult), SmartJect",Simponi/Aria
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simponi Ulcerative Colitis (adult), prefilled syringe",Simponi/Aria
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Simponi prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Simponi/Aria
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Skyrizi,Skyrizi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Skyrizi Crohn's Disease (adult),Skyrizi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Crohn's Disease (adult), prefilled cartridge",Skyrizi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Crohn's Disease (adult), prefilled pen",Skyrizi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Crohn's Disease (adult), prefilled syringe",Skyrizi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Crohn's Disease (adult), vial",Skyrizi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Skyrizi Plaque Psoriasis (adult),Skyrizi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Plaque Psoriasis (adult), prefilled cartridge",Skyrizi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Plaque Psoriasis (adult), prefilled pen",Skyrizi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Plaque Psoriasis (adult), prefilled syringe",Skyrizi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Plaque Psoriasis (adult), vial",Skyrizi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Skyrizi Psoriatic Arthritis (adult),Skyrizi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Psoriatic Arthritis (adult), prefilled cartridge",Skyrizi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Psoriatic Arthritis (adult), prefilled pen",Skyrizi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Psoriatic Arthritis (adult), prefilled syringe",Skyrizi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Psoriatic Arthritis (adult), vial",Skyrizi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Skyrizi Ulcerative Colitis (adult),Skyrizi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Ulcerative Colitis (adult), prefilled cartridge",Skyrizi
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Ulcerative Colitis (adult), prefilled pen",Skyrizi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Ulcerative Colitis (adult), prefilled syringe",Skyrizi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Skyrizi Ulcerative Colitis (adult), vial",Skyrizi
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Sotyktu Plaque Psoriasis (adult),Sotyktu
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Sotyktu tablet,Sotyktu
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Sotyktu tablet, Plaque Psoriasis (adult)",Sotyktu
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Stelara,Stelara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Stelara Crohn's Disease (adult),Stelara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Stelara Crohn's Disease (adult), intravenous vial",Stelara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Stelara Crohn's Disease (adult), prefilled syringe",Stelara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Stelara Crohn's Disease (adult), subcutaneous vial",Stelara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Stelara Plaque Psoriasis (adult),Stelara
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Stelara Plaque Psoriasis (adult), prefilled syringe",Stelara
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Stelara Plaque Psoriasis (adult), subcutaneous vial",Stelara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Stelara Plaque Psoriasis (pediatric),Stelara
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Stelara Plaque Psoriasis (pediatric), prefilled syringe",Stelara
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial",Stelara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Stelara Psoriatic Arthritis (adult),Stelara
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Stelara Psoriatic Arthritis (adult), prefilled syringe",Stelara
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Stelara Psoriatic Arthritis (adult), subcutaneous vial",Stelara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Stelara Psoriatic Arthritis (pediatric),Stelara
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Stelara Psoriatic Arthritis (pediatric), prefilled syringe",Stelara
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",Stelara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Stelara Ulcerative Colitis (adult),Stelara
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Stelara Ulcerative Colitis (adult), intravenous vial",Stelara
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Stelara Ulcerative Colitis (adult), prefilled syringe",Stelara
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Stelara Ulcerative Colitis (adult), subcutaneous vial",Stelara
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Taltz,Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Taltz 20 mg,Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Taltz 40 mg,Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Taltz 80 mg,Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Taltz Ankylosing Spondylitis,Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Ankylosing Spondylitis, 80 mg, prefilled syringe",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Ankylosing Spondylitis, auto-injector",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Ankylosing Spondylitis, prefilled syringe",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Taltz Non-Radiographic Axial Spondyloarthritis,Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Non-Radiographic Axial Spondyloarthritis, 80 mg, prefilled syringe",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Non-Radiographic Axial Spondyloarthritis, auto-injector",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Non-Radiographic Axial Spondyloarthritis, prefilled syringe",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Taltz Plaque Psoriasis (adult),Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Plaque Psoriasis (adult), 80 mg, prefilled syringe",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Plaque Psoriasis (adult), auto-injector",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Plaque Psoriasis (adult), prefilled syringe",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Taltz Plaque Psoriasis (pediatric),Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Plaque Psoriasis (pediatric), 20 mg, prefilled syringe",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Plaque Psoriasis (pediatric), 40 mg, prefilled syringe",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Plaque Psoriasis (pediatric), auto-injector",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Plaque Psoriasis (pediatric), prefilled syringe",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Taltz Psoriatic Arthritis (adult),Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Psoriatic Arthritis (adult), 80 mg, prefilled syringe",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Psoriatic Arthritis (adult), auto-injector",Taltz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Taltz Psoriatic Arthritis (adult), prefilled syringe",Taltz
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,Tezspire,Tezspire
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Tezspire Asthma (adult),Tezspire
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Tezspire Asthma (adult), vial",Tezspire
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Tezspire Asthma (pediatric),Tezspire
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,Tezspire auto-injector,Tezspire
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Tezspire auto-injector, Asthma (adult)",Tezspire
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Tezspire auto-injector, Asthma (pediatric)",Tezspire
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,Tezspire prefilled syringe,Tezspire
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Tezspire prefilled syringe, Asthma (adult)",Tezspire
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Tezspire prefilled syringe, Asthma (pediatric)",Tezspire
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,Tezspire vial,Tezspire
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Tezspire vial, Asthma (pediatric)",Tezspire
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Tremfya,Tremfya
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Tremfya 100 mg/mL,Tremfya
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Tremfya 200mg/2mL,Tremfya
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Tremfya Plaque Psoriasis (adult),Tremfya
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Tremfya Plaque Psoriasis (adult), prefilled syringe",Tremfya
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Tremfya Psoriatic Arthritis (adult),Tremfya
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Tremfya Psoriatic Arthritis (adult), prefilled syringe",Tremfya
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Tremfya Ulcerative Colitis (adult),Tremfya
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Tremfya prefilled syringe, Ulcerative Colitis (adult)",Tremfya
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Velsipity (Etrasimod) Ulcerative Colitis (adult),Velsipity
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Velsipity (Etrasimod) tablet,Velsipity
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Velsipity (Etrasimod) tablet, Ulcerative Colitis (adult)",Velsipity
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Xeljanz,Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Xeljanz Ankylosing Spondylitis,Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Ankylosing Spondylitis, 10 mg, IR tablet",Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Ankylosing Spondylitis, 5 mg, IR tablet",Xeljanz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Ankylosing Spondylitis, IR tablet",Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Ankylosing Spondylitis, oral solution",Xeljanz solution
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA),Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), 10 mg, IR tablet",Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), 5 mg, IR tablet",Xeljanz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), IR tablet",Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), oral solution",Xeljanz solution
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Xeljanz Psoriatic Arthritis (adult),Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Psoriatic Arthritis (adult), 10 mg, IR tablet",Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Psoriatic Arthritis (adult), 5 mg, IR tablet",Xeljanz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Psoriatic Arthritis (adult), IR tablet",Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Psoriatic Arthritis (adult), oral solution",Xeljanz solution
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Xeljanz Rheumatoid Arthritis,Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Rheumatoid Arthritis, 10 mg, IR tablet",Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Rheumatoid Arthritis, 5 mg, IR tablet",Xeljanz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Rheumatoid Arthritis, IR tablet",Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Rheumatoid Arthritis, oral solution",Xeljanz solution
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Xeljanz Ulcerative Colitis (adult),Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Ulcerative Colitis (adult), 10 mg, IR tablet",Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Ulcerative Colitis (adult), 5 mg, IR tablet",Xeljanz
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Ulcerative Colitis (adult), IR tablet",Xeljanz
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Xeljanz Ulcerative Colitis (adult), oral solution",Xeljanz solution
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Xolair Asthma (adult),Xolair
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Xolair Asthma (pediatric),Xolair
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Xolair Chronic Rhinosinusitis with Nasal Polyposis,Xolair
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Xolair Chronic Spontaneous Urticaria (CSU),Xolair
 RESPIRATORY – ASTHMA IMMUNOMODULATORS,Xolair IgE-Mediated Food Allergy,Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,Xolair auto-injector,Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair auto-injector, Asthma (adult)",Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair auto-injector, Asthma (pediatric)",Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair auto-injector, Chronic Spontaneous Urticaria (CSU)",Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair auto-injector, IgE-Mediated Food Allergy",Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair prefilled syringe, Asthma (adult)",Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair prefilled syringe, Asthma (pediatric)",Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair prefilled syringe, Chronic Spontaneous Urticaria (CSU)",Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair prefilled syringe, IgE-Mediated Food Allergy",Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair vial, Asthma (adult)",Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair vial, Asthma (pediatric)",Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair vial, Chronic Rhinosinusitis with Nasal Polyposis",Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair vial, Chronic Spontaneous Urticaria (CSU)",Xolair
-RESPIRATORY – ASTHMA IMMUNOMODULATORS,"Xolair vial, IgE-Mediated Food Allergy",Xolair
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yuflyma Ankylosing Spondylitis,Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Ankylosing Spondylitis, auto-injector",Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Ankylosing Spondylitis, prefilled syringe",Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yuflyma Crohn's Disease (adult),Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Crohn's Disease (adult), auto-injector",Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Crohn's Disease (adult), prefilled syringe",Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yuflyma Crohn's Disease (pediatric),Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Crohn's Disease (pediatric), auto-injector",Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Crohn's Disease (pediatric), prefilled syringe",Yuflyma
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yuflyma Hidradenitis Suppurativa,Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Hidradenitis Suppurativa, auto-injector",Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Hidradenitis Suppurativa, prefilled syringe",Yuflyma
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yuflyma Plaque Psoriasis (adult),Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Plaque Psoriasis (adult), auto-injector",Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Plaque Psoriasis (adult), prefilled syringe",Yuflyma
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA),Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA), auto-injector",Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Yuflyma
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yuflyma Psoriatic Arthritis (adult),Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Psoriatic Arthritis (adult), auto-injector",Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Psoriatic Arthritis (adult), prefilled syringe",Yuflyma
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yuflyma Rheumatoid Arthritis,Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Rheumatoid Arthritis, auto-injector",Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Rheumatoid Arthritis, prefilled syringe",Yuflyma
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yuflyma Ulcerative Colitis (adult),Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Ulcerative Colitis (adult), auto-injector",Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Ulcerative Colitis (adult), prefilled syringe",Yuflyma
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yuflyma Uveitis (adult),Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Uveitis (adult), auto-injector",Yuflyma
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,"Yuflyma Uveitis (adult), prefilled syringe",Yuflyma
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yusimry Ankylosing Spondylitis,Yusimry
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yusimry Crohn's Disease (adult),Yusimry
-IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yusimry Crohn's Disease (pediatric),Yusimry
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yusimry Hidradenitis Suppurativa,Yusimry
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yusimry Plaque Psoriasis (adult),Yusimry
 IMMUNOLOGIC – SYSTEMIC IMMUNOMODULATORS,Yusimry Polyarticular Juvenile Idiopathic Arthritis (PJIA),Yusimry

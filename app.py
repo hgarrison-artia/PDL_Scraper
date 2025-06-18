@@ -11,8 +11,8 @@ class DrugMatcherApp:
         self.data_manager.process_existing_data()
         self.current_index = 0
         self.not_in_data = self.data_manager.not_in_data
-        # Track history of GUI indices for back navigation
-        self.history = []
+        # Track history of actual drug pairings for back navigation
+        self.pairing_history = []
         # Create one hidden root window
         self.root = tk.Tk()
         self.root.withdraw()
@@ -35,8 +35,6 @@ class DrugMatcherApp:
                 self.current_index += 1
                 self.process_next(self.current_index)
             else:
-                # Record this index for back navigation
-                self.history.append(index)
                 self.open_gui_for_drug(drug, matches)
         else:
             self.data_manager.save_dataframes()
@@ -65,6 +63,13 @@ class DrugMatcherApp:
         for drug in remaining_drugs:
             self.data_manager.add_status(therapeutic_class, drug, selected_pdl_name, status)
             self.data_manager.update_state_data(therapeutic_class, drug, selected_pdl_name)
+            # Add to pairing history
+            self.pairing_history.append({
+                'drug': drug,
+                'pdl_name': selected_pdl_name,
+                'therapeutic_class': therapeutic_class,
+                'status': status
+            })
         
         # Update current index to skip all processed drugs
         self.current_index += len(remaining_drugs)
@@ -79,6 +84,13 @@ class DrugMatcherApp:
             status = selected_row['status']
             self.data_manager.add_status(therapeutic_class, drug, selected_pdl_name, status)
             self.data_manager.update_state_data(therapeutic_class, drug, selected_pdl_name)
+            # Add to pairing history
+            self.pairing_history.append({
+                'drug': drug,
+                'pdl_name': selected_pdl_name,
+                'therapeutic_class': therapeutic_class,
+                'status': status
+            })
             self.current_index += 1
             self.process_next(self.current_index)
         
@@ -92,20 +104,37 @@ class DrugMatcherApp:
             self.root.destroy()
         
         def back_callback():
-            # Undo the last GUI action and navigate to its index
-            if self.history:
-                # Get the last index from history
-                last_index = self.history.pop()
+            # Undo the last pairing and return to that drug
+            if self.pairing_history:
+                # Get the last pairing from history
+                last_pairing = self.pairing_history.pop()
                 
-                # Remove the last assignment and get the drug name
-                drug_name = self.data_manager.remove_last_assignment()
+                # Remove the last pairing from state_data and statuses
+                self.data_manager.state_data = self.data_manager.state_data[
+                    ~((self.data_manager.state_data['capsule_name'] == last_pairing['drug']) & 
+                      (self.data_manager.state_data['pdl_name'] == last_pairing['pdl_name']))
+                ]
                 
-                if drug_name:
-                    # Update current index to the last index
-                    self.current_index = last_index
-                    
-                    # Process the drug at this index
-                    self.process_next(self.current_index)
+                # Remove from statuses
+                self.data_manager.statuses = [
+                    s for s in self.data_manager.statuses 
+                    if not (s['capsule_name'] == last_pairing['drug'] and 
+                           s['pdl_name'] == last_pairing['pdl_name'])
+                ]
+                
+                # Find the drug in not_in_data
+                if last_pairing['drug'] not in self.not_in_data:
+                    self.not_in_data.append(last_pairing['drug'])
+                
+                # Process the drug again
+                self.open_gui_for_drug(
+                    last_pairing['drug'],
+                    self.data_manager.pdl_df[
+                        self.data_manager.pdl_df['pdl_name'].str.lower().str.contains(
+                            last_pairing['drug'].split()[0].lower(), na=False
+                        )
+                    ]
+                )
         
         selector = DrugSelectorGUI(
             self.root, 

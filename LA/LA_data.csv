@@ -1,224 +1,53 @@
 therapeutic_class,capsule_name,pdl_name
-ANTIPSYCHOTIC AGENTS,Abilify,"Aripiprazole Tablet, Tablet with Sensor (Abilify; Abilify Mycite)"
 ANTIPSYCHOTIC AGENTS,Abilify MyCite,"Aripiprazole Tablet, Tablet with Sensor (Abilify; Abilify Mycite)"
-ANTIPSYCHOTIC AGENTS,Abilify Asimtufii,Aripiprazole Suspension ER (Abilify Asimtufii/Maintena)
-ANTIPSYCHOTIC AGENTS,Abilify Maintena,Aripiprazole Suspension ER (Abilify Asimtufii/Maintena)
-PAIN MANAGEMENT,Abrilada,"Adalimumab-afzb Kit, Pen Kit (Abrilada)"
-DIGESTIVE DISORDERS,Aciphex,Rabeprazole Tablet (Generic; AcipHex)
-PAIN MANAGEMENT,Actemra prefilled syringe,"Tocilizumab Pen, Syringe, Vial (Actemra)"
-PAIN MANAGEMENT,Actemra vial,"Tocilizumab Pen, Syringe, Vial (Actemra)"
-SICKLE CELL ANEMIA,Adakveo,Crizanlizumab-tmca Infusion (Adakveo)
-PAIN MANAGEMENT,Adalimumab-adaz,"Adalimumab-adaz Kit, Pen Kit"
-PAIN MANAGEMENT,Adalimumab-adbm auto-injector,"Adalimumab-adbm Kit, Pen Kit"
-PAIN MANAGEMENT,Adalimumab-adbm prefilled syringe,"Adalimumab-adbm Kit, Pen Kit"
-PAIN MANAGEMENT,Adalimumab-fkjp auto-injector,"Adalimumab-fkjp Kit, Pen Kit"
-PAIN MANAGEMENT,Adalimumab-fkjp prefilled syringe,"Adalimumab-fkjp Kit, Pen Kit"
-DERMATOLOGY,Adbry,"Tralokinumab-ldrm Autoinjector, Syringe (Adbry)"
-"HEART DISEASE, HYPERLIPIDEMIA",Adcirca,Tadalafil Tablet (Adcirca)
 ADD/ADHD,Adderall XR ER capsule,Amphetamine Salt Combo ER Capsule(Adderall XR)
-"HEART DISEASE, HYPERLIPIDEMIA",Adempas,Riociguat Tablet (Adempas)
-DIABETES,Admelog,"Insulin Lispro Pen, Vial (Admelog SoloStar; Admelog)"
 DIABETES,Admelog SoloStar,"Insulin Lispro Pen, Vial (Admelog SoloStar; Admelog)"
-ASTHMA/COPD,Advair Diskus,"Fluticasone/Salmeterol DPI, MDI (Advair Diskus; Advair HFA)"
-ASTHMA/COPD,Advair HFA,"Fluticasone/Salmeterol DPI, MDI (Advair Diskus; Advair HFA)"
-HEMOPHILIA TREATMENT,Advate,"Factor VIII, Full-Length (Advate)"
-HEMOPHILIA TREATMENT,Adynovate,"Factor VIII, Full-Length PEGylated (Adynovate)"
-HEMOPHILIA TREATMENT,Afstyla,"Factor VIII, Single-Chain, B-Domain Truncated (Afstyla)"
-PAIN MANAGEMENT,Aimovig,Erenumab-aooe Autoinjector (Aimovig)
-ASTHMA/COPD,Airduo Digihaler,Fluticasone/Salmeterol Inhalation Powder (AirDuo Digihaler)
-ASTHMA/COPD,Airduo Respiclick,Fluticasone/Salmeterol Inhalation Powder (AG; AirDuo RespiClick)
-ASTHMA/COPD,Airsupra HFA,Albuterol/Budesonide (AirSupra HFA)
-PAIN MANAGEMENT,Ajovy,"Fremanezumab-vfrm Autoinjector, 3-Pack, Syringe (Ajovy)"
 ASTHMA/COPD,Albuterol HFA generic PROAIR,Albuterol Sulfate MDI (AG; Generic for ProAir HFA)
-ONCOLOGY,Alecensa,Alectinib HCl Capsule (Alecensa)
 OPHTHALMIC DISORDERS,Alphagan P 0.001,Brimonidine 0.1% Solution (Generic; Alphagan P)
-HEMOPHILIA TREATMENT,Alprolix,"Factor IX Recombinant, Fc Fusion Protein (Alprolix)"
-HEMOPHILIA TREATMENT,Altuviiio,"Factor VIII, Recombinant Fc-VWF-XTEN Fusion Protein-ehtl (Altuviiio)"
-ONCOLOGY,Alunbrig,Brigatinib Tablet (Alunbrig)
-ASTHMA/COPD,Alvesco,Ciclesonide MDI (Alvesco)
-SEDATIVE/HYPNOTICS,Ambien,Zolpidem Tartrate Tablet (Ambien)
-SEDATIVE/HYPNOTICS,Ambien CR,Zolpidem Tartrate ER Tablet (Ambien CR)
-"HEART DISEASE, HYPERLIPIDEMIA",Ambrisentan,Ambrisentan Tablet (Generic)
-PAIN MANAGEMENT,Amjevita,"Adalimumab-atto Kit, Pen Kit (Amjevita)"
-PAIN MANAGEMENT,Amjevita High,"Adalimumab-atto Kit, Pen Kit (Amjevita)"
-PAIN MANAGEMENT,Amjevita Low,"Adalimumab-atto Kit, Pen Kit (Amjevita)"
-PAIN MANAGEMENT,Amrix,Cyclobenzaprine ER Capsule (AG; Generic; Amrix)
-ASTHMA/COPD,Anoro Ellipta,Umeclidinium/Vilanterol Inhalation Powder (Anoro Ellipta)
-DIABETES,Apidra,"Insulin Glulisine Pen, Vial (Apidra SoloStar; Apidra)"
 DIABETES,Apidra SoloStar,"Insulin Glulisine Pen, Vial (Apidra SoloStar; Apidra)"
-DEPRESSION,Aplenzin,Bupropion HBr ER 24-Hour Tablet (Aplenzin)
-ANTICONVULSANTS,Aptiom,Eslicarbazepine Acetate Tablet (Aptiom)
-PAIN MANAGEMENT,Arcalyst,Rilonacept Vial (Arcalyst)
-ALZHEIMER’S AGENTS,Aricept,Donepezil Tablet (Aricept)
-INFECTIOUS DISORDERS,Arikayce,Amikacin Inhalation Suspension (Arikayce)
 ANTIPSYCHOTIC AGENTS,Aripiprazole ODT,"Aripiprazole ODT, Solution (Generic)"
 ANTIPSYCHOTIC AGENTS,Aripiprazole oral solution,"Aripiprazole ODT, Solution (Generic)"
 ANTIPSYCHOTIC AGENTS,Aripiprazole tablet,Aripiprazole Tablet (Generic)
-ANTIPSYCHOTIC AGENTS,Aristada,Aripiprazole Lauroxil (Aristada; Aristada Initio)
 ANTIPSYCHOTIC AGENTS,Aristada Initio,Aripiprazole Lauroxil (Aristada; Aristada Initio)
-ASTHMA/COPD,Armonair Digihaler,Fluticasone Propionate Inhalation Powder (Armonair Digihaler)
-ASTHMA/COPD,Arnuity Ellipta,Fluticasone Furoate Inhalation Powder (Arnuity Ellipta)
-ANTIPSYCHOTIC AGENTS,Asenapine,Asenapine Sublingual Tablet (AG; Generic; Saphris)
-ASTHMA/COPD,Asmanex HFA,Mometasone Furoate MDI (Asmanex HFA)
-ASTHMA/COPD,Asmanex Twisthaler,Mometasone Inhalation Powder (Asmanex Twisthaler)
-HIV-AIDS,Atripla,Efavirenz/Emtricitabine/Tenofovir DF Tablet (Generic; Atripla)
 MULTIPLE SCLEROSIS,Aubagio tablet,Teriflunomide Tablet (Aubagio)
 ONCOLOGY,Augtyro capsule,Repotrectinib Capsule (Augtyro)
-HEMODIALYSIS,Auryxia,Ferric Citrate Tablet (Auryxia)
-MOVEMENT DISORDERS,Austedo,Deutetrabenazine Tablet (Austedo; Austedo XR)
-MOVEMENT DISORDERS,Austedo XR,Deutetrabenazine Tablet (Austedo; Austedo XR)
 MOVEMENT DISORDERS,Austedo XR titration pack,Deutetrabenazine Tablet (Austedo; Austedo XR)
-DEPRESSION,Auvelity,Dextromethorphan/Bupropion Tablet (Auvelity)
-"EPINEPHRINE, SELF-INJECTED",Auvi-Q 0.15 mg,"Epinephrine 0.1 mg, 0.15mg, 0.3mg Auto-Injector (Auvi-Q)"
 "EPINEPHRINE, SELF-INJECTED",Auvi-Q 0.1 mg,"Epinephrine 0.1 mg, 0.15mg, 0.3mg Auto-Injector (Auvi-Q)"
+"EPINEPHRINE, SELF-INJECTED",Auvi-Q 0.15 mg,"Epinephrine 0.1 mg, 0.15mg, 0.3mg Auto-Injector (Auvi-Q)"
 "EPINEPHRINE, SELF-INJECTED",Auvi-Q 0.3 mg,"Epinephrine 0.1 mg, 0.15mg, 0.3mg Auto-Injector (Auvi-Q)"
 MULTIPLE SCLEROSIS,Avonex auto-injector,Interferon β-1a Pen Kit (Avonex Pen)
 MULTIPLE SCLEROSIS,Avonex prefilled syringe,"Interferon β-1a Syringe, Syringe Kit (Avonex)"
-ADD/ADHD,Azstarys,Serdexmethylphenidate/Dexmethylphenidate Capsule (Azstarys)
-PAIN MANAGEMENT,Baclofen solution,Baclofen Solution (AG 5mg/5ml; Generic for Ozobax DS 10mg/5ml)
 PAIN MANAGEMENT,Baclofen tablet,Baclofen Tablet (Generic)
-MULTIPLE SCLEROSIS,Bafiertam,Monomethyl Fumarate Capsule DR (Bafiertam)
 ANTICONVULSANTS,Banzel oral suspension,"Rufinamide Suspension, Tablet (Banzel)"
 ANTICONVULSANTS,Banzel tablet,"Rufinamide Suspension, Tablet (Banzel)"
-DIABETES,Basaglar Kwikpen,Insulin Glargine U-100 (Basaglar KwikPen; Basaglar Tempo Pen)
-"HEART DISEASE, HYPERLIPIDEMIA",Benazepril,Benazepril (Generic)
-HEMOPHILIA TREATMENT,Benefix,Factor IX Human Recombinant (BeneFIX Kit)
-LUPUS IMMUNOMODULATORS,Benlysta,"Belimumab Auto-Injector, IV, Syringe, Vial (Benlysta)"
-INFECTIOUS DISORDERS,Bethkis,Tobramycin Solution (Bethkis)
-ASTHMA/COPD,Bevespi Aerosphere,Glycopyrrolate/Formoterol Fumarate (Bevespi Aerosphere)
-HIV-AIDS,Biktarvy,Bictegravir/Emtricitabine/Tenofovir AF Tablet (Biktarvy)
-PAIN MANAGEMENT,Bimzelx,"Bimekizumab-bkzx Pen, Syringe (Bimzelx)"
-"HEART DISEASE, HYPERLIPIDEMIA",Bosentan,Bosentan Tablet (Generic; Tracleer)
-BOTULINUM TOXINS,Botox,OnabotulinumtoxinA (Botox)
-ASTHMA/COPD,Breo Ellipta,Fluticasone/Vilanterol Inhalation Powder (AG; Breo Ellipta)
-ASTHMA/COPD,Breztri Aerosphere,Budesonide/Glycopyrrolate/Formoterol Inhalation (Breztri Aerosphere)
-MULTIPLE SCLEROSIS,Briumvi,Ublituximab-xiiy Vial (Briumvi)
-ANTICONVULSANTS,Briviact,"Brivaracetam Solution, Tablet (Briviact)"
-ONCOLOGY,Brukinsa,Zanubrutinib Capsule (Brukinsa)
-ASTHMA/COPD,Budesonide respules (inhalation suspension),"Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Generic)"
 ASTHMA/COPD,Budesonide / Formoterol authorized generic Symbicort,Budesonide/Formoterol MDI (AG; Generic)
 UREA CYCLE DISORDERS,Buphenyl powder,"Sodium Phenylbutyrate Powder, Tablet (Generic; Buphenyl)"
 UREA CYCLE DISORDERS,Buphenyl tablet,"Sodium Phenylbutyrate Powder, Tablet (Generic; Buphenyl)"
-DIABETES,Bydureon Bcise,Exenatide Microspheres ER Auto-Injector (Bydureon BCise)
-DIABETES,Byetta,Exenatide Solution Pens (Byetta)
-DIGESTIVE DISORDERS,Bylvay,"Odevixibat Capsule, Pellet (Bylvay)"
-ONCOLOGY,Calquence,"Acalabrutinib Capsule, Tablet (Calquence)"
-"HEART DISEASE, HYPERLIPIDEMIA",Candesartan,Candesartan (AG; Generic; Atacand)
-ANTIPSYCHOTIC AGENTS,Caplyta,Lumateperone Capsule (Caplyta)
-ONCOLOGY,Caprelsa,Vandetanib Tablet (Caprelsa)
-"HEART DISEASE, HYPERLIPIDEMIA",Captopril,Captopril (Generic)
-INFECTIOUS DISORDERS,Cayston,Aztreonam Solution (Cayston)
-OPHTHALMIC DISORDERS,Cequa,Cyclosporine 0.09% Solution (Cequa)
-ENZYME REPLACEMENTS,Cerdelga,Eliglustat Capsule (Cerdelga)
-ENZYME REPLACEMENTS,Cerezyme 400 Units,Imiglucerase 400-unit Vial (Cerezyme)
-DIGESTIVE DISORDERS,Chenodal (Chenodiol) tablet,Chenodiol Tablet (Chenodal)
-DIGESTIVE DISORDERS,Cholbam (Cholic Acid) capsule,Cholic Acid Capsule (Cholbam)
-PAIN MANAGEMENT,Cibinqo,Abrocitinib Tablet (Cibinqo)
-PAIN MANAGEMENT,Cimzia,"Certolizumab Pegol Kit, Syringe Kit (Cimzia)"
-ASTHMA/COPD,Cinqair,Reslizumab Vial (Cinqair)
 INFECTIOUS DISORDERS,Cleocin 2% cream,Clindamycin Vaginal Cream (Cleocin)
 INFECTIOUS DISORDERS,Cleocin Ovules / vaginal suppository,Clindamycin Vaginal Ovules (Cleocin)
-INFECTIOUS DISORDERS,Clindamycin 2% Cream,Clindamycin Vaginal Cream (Generic for Cleocin)
 INFECTIOUS DISORDERS,Clindesse 2% prefilled applicator cream,Clindamycin Vaginal Cream (Clindesse)
 ANTICONVULSANTS,Clobazam oral suspension,"Clobazam Suspension, Tablet (Generic)"
 ANTICONVULSANTS,Clobazam tablet,"Clobazam Suspension, Tablet (Generic)"
 ANTIPSYCHOTIC AGENTS,Clozapine ODT,Clozapine ODT (Generic)
 ANTIPSYCHOTIC AGENTS,Clozapine tablet,Clozapine Tablet (Generic)
-ANTIPSYCHOTIC AGENTS,Clozaril,Clozapine Tablet (Clozaril)
-OPHTHALMIC DISORDERS,Combigan,Brimonidine/Timolol Solution (Combigan)
-ASTHMA/COPD,Combivent Respimat (Ipratropium/Albuterol) inhalation aerosol solution,Ipratropium/Albuterol Sulfate (Combivent Respimat)
-HIV-AIDS,Complera,Emtricitabine/Rilpivirine/Tenofovir DF Tablet (Complera)
-MULTIPLE SCLEROSIS,Copaxone (Glatiramer Acetate) 20 mg,"Glatiramer Acetate Syringe 20mg, 40mg (Copaxone)"
-MULTIPLE SCLEROSIS,Copaxone (Glatiramer Acetate) 40 mg,"Glatiramer Acetate Syringe 20mg, 40mg (Copaxone)"
-PAIN MANAGEMENT,Cosentyx,"Secukinumab Pen, Syringe, Vial (Cosentyx)"
-DIGESTIVE DISORDERS,Creon,Pancrelipase (Creon)
-PAIN MANAGEMENT,Cyltezo,"Adalimumab-adbm Kit, Pen Kit (Cyltezo)"
-PAIN MANAGEMENT,Dantrium,Dantrolene Sodium (AG; Generic; Dantrium)
-DIABETES,Dapagliflozin,Dapagliflozin Tablet (AG)
-ANTICONVULSANTS,Depakote,"Divalproex Sodium DR Tablet, ER Tablet (Depakote; Depakote ER)"
-HIV-AIDS,Descovy,Emtricitabine/Tenofovir AF Tablet (Descovy)
 ANTICONVULSANTS,Diacomit capsule,"Stiripentol Capsule, Powder Pack (Diacomit)"
 ANTICONVULSANTS,Diacomit packet for oral suspension,"Stiripentol Capsule, Powder Pack (Diacomit)"
-MULTIPLE SCLEROSIS,Dimethyl Fumarate,Dimethyl Fumarate DR Capsule (Generic)
 ALZHEIMER’S AGENTS,Donepezil ODT,"Donepezil ODT, Tablet (Generic)"
-ALZHEIMER’S AGENTS,Donepezil tablet,"Donepezil ODT, Tablet (Generic)"
-THROMBOPOIESIS STIMULATING PROTEINS,Doptelet,Avatrombopag Tablet (Doptelet)
-ASTHMA/COPD,Duaklir Pressair,Aclidinium Bromide/Formoterol Fumarate (Duaklir Pressair)
-ASTHMA/COPD,Dulera,Mometasone/Formoterol MDI (Dulera)
-DERMATOLOGY,Dupixent,Dupilumab Syringe (Dupixent)
-OPHTHALMIC DISORDERS,Durysta,Bimatoprost Implant (Durysta)
-ADD/ADHD,Dyanavel XR oral suspension,"Amphetamine Suspension, Tablet (Dyanavel XR)"
-ADD/ADHD,Dyanavel XR tablet,"Amphetamine Suspension, Tablet (Dyanavel XR)"
-BOTULINUM TOXINS,Dysport,AbobotulinumtoxinA (Dysport)
-"HEART DISEASE, HYPERLIPIDEMIA",Edarbi,Azilsartan Medoxomil (Edarbi)
-"HEART DISEASE, HYPERLIPIDEMIA",Edarbyclor,Azilsartan/Chlorthalidone (Edarbyclor)
-ENZYME REPLACEMENTS,Elelyso,Taliglucerase alfa Vial (Elelyso)
-"HEART DISEASE, HYPERLIPIDEMIA",Eliquis,"Apixaban Dose Pack, Tablet (Eliquis)"
-HEMOPHILIA TREATMENT,Eloctate,"Factor VIII, Recombinant, Fc Fusion (Eloctate)"
 "GLUCOCORTICOIDS, ORAL",Emflaza oral suspension,"Deflazacort Suspension, Tablet (Emflaza)"
 "GLUCOCORTICOIDS, ORAL",Emflaza tablet,"Deflazacort Suspension, Tablet (Emflaza)"
 PAIN MANAGEMENT,Emgality 100 mg,Galcanezumab-gnlm 100 mg Syringe (Emgality)
 PAIN MANAGEMENT,Emgality 120 mg,"Galcanezumab-gnlm Pen, 120 mg Syringe (Emgality)"
 HIV-AIDS,Emtriva capsule,Emtricitabine Capsule (Generic; Emtriva)
 HIV-AIDS,Emtriva oral solution,Emtricitabine Solution (Emtriva)
-"HEART DISEASE, HYPERLIPIDEMIA",Enalapril,Enalapril Tablet (Generic)
-PAIN MANAGEMENT,Enbrel,Etanercept Vial (Enbrel)
-SICKLE CELL ANEMIA,Endari,L-glutamine Powder Pack (Generic; Endari)
-PAIN MANAGEMENT,Enspryng,Satralizumab-mwge Syringe (Enspryng)
-PAIN MANAGEMENT,Entyvio,"Vedolizumab Pen, Vial (Entyvio)"
-"IMMUNOSUPPRESSIVES, ORAL",Envarsus XR,Tacrolimus ER Tablet (Envarsus XR)
-INFECTIOUS DISORDERS,Epclusa,"Sofosbuvir/Velpatasvir Tablet, Pellet Pack (Epclusa)"
-ANTICONVULSANTS,Epidiolex,Cannabidiol Solution (Epidiolex)
-"EPINEPHRINE, SELF-INJECTED",Epinephrine (Generic Adrenaclick) 0.15mg,"Epinephrine 0.15 mg, 0.3 mg Auto-Injector (AG for Adrenaclick)"
-"EPINEPHRINE, SELF-INJECTED",Epinephrine (Generic Adrenaclick) 0.3mg,"Epinephrine 0.15 mg, 0.3 mg Auto-Injector (AG for Adrenaclick)"
 "EPINEPHRINE, SELF-INJECTED",Epinephrine (Mylan Ag Epipen And Jr) 0.15mg Mylan's EpiPen Jr AG,Epinephrine 0.15 mg Auto-Injector (AG; Generic; EpiPen Jr)
-"EPINEPHRINE, SELF-INJECTED",Epipen,Epinephrine 0.3 mg Auto-Injector (AG; Generic; EpiPen)
 "EPINEPHRINE, SELF-INJECTED",Epipen Jr.,Epinephrine 0.15 mg Auto-Injector (AG; Generic; EpiPen Jr)
 HIV-AIDS,Epivir HBV oral solution,"Lamivudine Solution, Tablet (Generic; Epivir)"
 HIV-AIDS,Epivir HBV tablet,"Lamivudine Solution, Tablet (Generic; Epivir)"
-"HEMATOLOGIC AGENTS, HEMATOPOIETIC AGENTS",Epogen,Epoetin alfa Vial (Epogen)
-ANTICONVULSANTS,Eprontia,Topiramate Solution (Eprontia)
-"HEART DISEASE, HYPERLIPIDEMIA",Eprosartan,Eprosartan (Generic)
-HIV-AIDS,Epzicom,Abacavir/Lamivudine Tablet (Generic; Epzicom)
-ANTICONVULSANTS,Equetro,"Carbamazepine ER Capsule (Carbatrol, Equetro)"
-IDIOPATHIC PULMONARY FIBROSIS,Esbriet,"Pirfenidone Capsule, Tablet (Esbriet)"
-DIGESTIVE DISORDERS,Esomeprazole,Esomeprazole Capsule (Generic; Nexium)
-HEMOPHILIA TREATMENT,Esperoct,"Factor VIII, Recombinant Glycopegylated-exei (Esperoct)"
-DERMATOLOGY,Eucrisa,Crisaborole Ointment (Eucrisa)
-"HEART DISEASE, HYPERLIPIDEMIA",Evkeeza,Evinacumab-dgnb Vial (Evkeeza)
-SPINAL MUSCULAR ATROPHY,Evrysdi,Risdiplam (Evrysdi)
-ALZHEIMER’S AGENTS,Exelon,Rivastigmine Transdermal Patch (Exelon)
-ANTIPSYCHOTIC AGENTS,Fanapt,"Iloperidone Tablet, Titration Pack (Fanapt)"
-DIABETES,Farxiga,Dapagliflozin Tablet (Farxiga)
-ASTHMA/COPD,Fasenra auto-injector,Benralizumab Pen (Fasenra)
-ASTHMA/COPD,Fasenra prefilled syringe,Benralizumab Syringe (Fasenra)
-ANTICONVULSANTS,Felbatol tablet,Felbamate Tablet (Generic; Felbatol)
 ANTICONVULSANTS,Felbatol oral suspension,Felbamate Tablet (Generic; Felbatol)
-PITUITARY SUPPRESSIVE AGENTS,Fensolvi,Leuprolide Acetate Syringe Kit (Fensolvi)
-DEPRESSION,Fetzima,"Levomilnacipran ER Capsule, Titration Pack (Fetzima)"
-PAIN MANAGEMENT,Fexmid,Cyclobenzaprine Tablet (Fexmid)
-DIABETES,Fiasp,"Insulin Aspart Cartridge, Pen, Vial (Fiasp Penfill/PumpCart/FlexTouch; Fiasp)"
+ANTICONVULSANTS,Felbatol tablet,Felbamate Tablet (Generic; Felbatol)
 DIABETES,Fiasp FlexTouch,"Insulin Aspart Cartridge, Pen, Vial (Fiasp Penfill/PumpCart/FlexTouch; Fiasp)"
 MULTIPLE SCLEROSIS,Fingolimod capsule,Fingolimod Capsule (Generic for Gilenya)
-ANTICONVULSANTS,Fintepla,Fenfluramine Solution (Fintepla)
 OPHTHALMIC DISORDERS,Flarex ophthalmic suspension,Fluorometholone Acetate 0.1% Suspension (Flarex)
-PAIN MANAGEMENT,Fleqsuvy,Baclofen Suspension (AG; Generic; Fleqsuvy)
-ASTHMA/COPD,Flovent Diskus,Fluticasone Propionate Inhalation Powder (AG; Flovent Diskus)
-ASTHMA/COPD,Flovent HFA,Fluticasone MDI (AG; Flovent HFA)
-OSTEOPOROSIS,Forteo,Teriparatide Pen (Generic; Forteo)
-"HEART DISEASE, HYPERLIPIDEMIA",Fosinopril,Fosinopril (Generic)
-ONCOLOGY,Fruzaqla,Fruquintinib Capsule (Fruzaqla)
-COLONY STIMULATING FACTORS,Fulphila,Pegfilgrastim-jmdb Syringe (Fulphila)
-COLONY STIMULATING FACTORS,Fylnetra,Pegfilgrastim-pbbk Syringe (Fylnetra)
 ALZHEIMER’S AGENTS,Galantamine oral solution,"Galantamine ER Capsule, Solution, Tablet (Generic)"
 ALZHEIMER’S AGENTS,Galantamine tablet,"Galantamine ER Capsule, Solution, Tablet (Generic)"
-ALZHEIMER’S AGENTS,Galantamine ER,"Galantamine ER Capsule, Solution, Tablet (Generic)"
-ONCOLOGY,Gavreto,Pralsetinib Capsule (Gavreto)
-GROWTH DEFICIENCY,Genotropin,"Somatropin Cartridge, Syringe (Genotropin)"
-HIV-AIDS,Genvoya,Elvitegravir/Cobicistat/Emtricitabine/Tenofovir AF (Genvoya)
-ANTIPSYCHOTIC AGENTS,Geodon,Ziprasidone Capsule (Geodon)
 MULTIPLE SCLEROSIS,Gilenya capsule,Fingolimod Capsule (Gilenya)
-ONCOLOGY,Gilotrif,Afatinib Dimaleate Tablet (Gilotrif)
-MULTIPLE SCLEROSIS,Glatiramer Acetate prefilled syringe,"Glatiramer Acetate Syringe 20mg, 40mg (Generic)"
-ONCOLOGY,Gleevec,Imatinib Mesylate Tablet (Gleevec)
-PAIN MANAGEMENT,Gralise,Gabapentin ER Tablet (Generic; Gralise)

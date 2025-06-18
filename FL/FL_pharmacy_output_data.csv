@@ -1,0 +1,120 @@
+therapeutic_class,capsule_name,pdl_name,status
+"INTERLEUKIN-13 (IL-13) INHIBITORS, MAB",Adbry Atopic Dermatitis (adult),ADBRY 150 MG/ML SYRINGE,Preferred
+"INTERLEUKIN-13 (IL-13) INHIBITORS, MAB",Adbry Atopic Dermatitis (pediatric),ADBRY 150 MG/ML SYRINGE,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent Atopic Dermatitis (adult), pen",DUPIXENT 200 MG/1.14 ML PEN,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent Atopic Dermatitis (adult), prefilled syringe",DUPIXENT 100 MG/0.67 ML SYRING,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent pen, Asthma (adult)",DUPIXENT 200 MG/1.14 ML PEN,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent pen, Asthma (pediatric)",DUPIXENT 200 MG/1.14 ML PEN,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent pen, Atopic Dermatitis (pediatric)",DUPIXENT 200 MG/1.14 ML PEN,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent pen, Chronic Obstructive Pulmonary Disease (COPD)",DUPIXENT 200 MG/1.14 ML PEN,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent pen, Chronic Rhinosinusitis with Nasal Polyposis",DUPIXENT 200 MG/1.14 ML PEN,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent pen, Eosinophilic Esophagitis",DUPIXENT 200 MG/1.14 ML PEN,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent pen, Eosinophilic or Corticosteroid-Dependent Asthma",DUPIXENT 200 MG/1.14 ML PEN,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent pen, Prurigo Nodularis",DUPIXENT 200 MG/1.14 ML PEN,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent prefilled syringe, Asthma (adult)",DUPIXENT 100 MG/0.67 ML SYRING,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent prefilled syringe, Asthma (pediatric)",DUPIXENT 100 MG/0.67 ML SYRING,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent prefilled syringe, Atopic Dermatitis (pediatric)",DUPIXENT 100 MG/0.67 ML SYRING,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent prefilled syringe, Chronic Obstructive Pulmonary Disease (COPD)",DUPIXENT 100 MG/0.67 ML SYRING,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",DUPIXENT 100 MG/0.67 ML SYRING,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent prefilled syringe, Eosinophilic Esophagitis",DUPIXENT 100 MG/0.67 ML SYRING,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent prefilled syringe, Eosinophilic or Corticosteroid-Dependent Asthma",DUPIXENT 100 MG/0.67 ML SYRING,Preferred
+"INTERLEUKIN-4(IL-4) RECEPTOR ALPHA ANTAGONIST, MAB","Dupixent prefilled syringe, Prurigo Nodularis",DUPIXENT 100 MG/0.67 ML SYRING,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Ankylosing Spondylitis, Mini cartridge",ENBREL 50 MG/ML MINI CARTRIDGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Ankylosing Spondylitis, SureClick",ENBREL 50 MG/ML SURECLICK,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Ankylosing Spondylitis, prefilled syringe",ENBREL 50 MG/ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Ankylosing Spondylitis, vial",ENBREL 25 MG/0.5 ML VIAL,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Plaque Psoriasis (adult), Mini cartridge",ENBREL 50 MG/ML MINI CARTRIDGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Plaque Psoriasis (adult), SureClick",ENBREL 50 MG/ML SURECLICK,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Plaque Psoriasis (adult), prefilled syringe",ENBREL 50 MG/ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Plaque Psoriasis (adult), vial",ENBREL 25 MG/0.5 ML VIAL,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Plaque Psoriasis (pediatric), Mini cartridge",ENBREL 50 MG/ML MINI CARTRIDGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Plaque Psoriasis (pediatric), SureClick",ENBREL 50 MG/ML SURECLICK,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Plaque Psoriasis (pediatric), prefilled syringe",ENBREL 50 MG/ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Plaque Psoriasis (pediatric), vial",ENBREL 25 MG/0.5 ML VIAL,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), Mini cartridge",ENBREL 50 MG/ML MINI CARTRIDGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), SureClick",ENBREL 50 MG/ML SURECLICK,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",ENBREL 50 MG/ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), vial",ENBREL 25 MG/0.5 ML VIAL,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Psoriatic Arthritis (adult), Mini cartridge",ENBREL 50 MG/ML MINI CARTRIDGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Psoriatic Arthritis (adult), SureClick",ENBREL 50 MG/ML SURECLICK,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Psoriatic Arthritis (adult), prefilled syringe",ENBREL 50 MG/ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Psoriatic Arthritis (adult), vial",ENBREL 25 MG/0.5 ML VIAL,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Rheumatoid Arthritis, Mini cartridge",ENBREL 50 MG/ML MINI CARTRIDGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Rheumatoid Arthritis, SureClick",ENBREL 50 MG/ML SURECLICK,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Rheumatoid Arthritis, prefilled syringe",ENBREL 50 MG/ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,"Enbrel Rheumatoid Arthritis, vial",ENBREL 25 MG/0.5 ML VIAL,Preferred
+"TOP. ANTI-INFLAM.,PHOSPHODIESTERASE-4 (PDE4) INHIB",Eucrisa,EUCRISA 2% OINTMENT,Preferred
+"INTERLEUKIN-5(IL-5) RECEPTOR ALPHA ANTAGONIST, MAB","Fasenra auto-injector, Asthma (adult)",FASENRA 10 MG/0.5 ML SYRINGE,Preferred
+"INTERLEUKIN-5(IL-5) RECEPTOR ALPHA ANTAGONIST, MAB","Fasenra auto-injector, Asthma (pediatric)",FASENRA 30 MG/ML SYRINGE,Preferred
+"INTERLEUKIN-5(IL-5) RECEPTOR ALPHA ANTAGONIST, MAB","Fasenra auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",FASENRA PEN 30 MG/ML,Preferred
+"INTERLEUKIN-5(IL-5) RECEPTOR ALPHA ANTAGONIST, MAB","Fasenra prefilled syringe, Asthma (adult)",FASENRA 30 MG/ML SYRINGE,Preferred
+"INTERLEUKIN-5(IL-5) RECEPTOR ALPHA ANTAGONIST, MAB","Fasenra prefilled syringe, Asthma (pediatric)",FASENRA 30 MG/ML SYRINGE,Preferred
+"INTERLEUKIN-5(IL-5) RECEPTOR ALPHA ANTAGONIST, MAB","Fasenra prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",FASENRA 30 MG/ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Hadlima Ankylosing Spondylitis,HADLIMA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Hadlima Crohn’s Disease (adult),HADLIMA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Hadlima Crohn’s Disease (pediatric),HADLIMA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Hadlima Hidradenitis Suppurativa,HADLIMA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Hadlima Plaque Psoriasis (adult),HADLIMA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA),HADLIMA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Hadlima Psoriatic Arthritis (adult),HADLIMA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Hadlima Rheumatoid Arthritis,HADLIMA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Hadlima Ulcerative Colitis (adult),HADLIMA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Hadlima Uveitis (adult),HADLIMA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Humira Ankylosing Spondylitis,HUMIRA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Humira Crohn's Disease (adult),HUMIRA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Humira Crohn's Disease (pediatric),HUMIRA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Humira Hidradenitis Suppurativa,HUMIRA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Humira Plaque Psoriasis (adult),HUMIRA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Humira Polyarticular Juvenile Idiopathic Arthritis (PJIA),HUMIRA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Humira Psoriatic Arthritis (adult),HUMIRA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Humira Rheumatoid Arthritis,HUMIRA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Humira Ulcerative Colitis (adult),HUMIRA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Humira Ulcerative Colitis (pediatric),HUMIRA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Humira Uveitis (adult),HUMIRA 40 MG/0.8 ML SYRINGE,Preferred
+ANTI-INFLAMMATORY TUMOR NECROSIS FACTOR INHIBITOR,Humira Uveitis (pediatric),HUMIRA 40 MG/0.8 ML SYRINGE,Preferred
+"ANTI-INFLAMMATORY,PHOSPHODIESTERASE-4(PDE4) INHIB.","Otezla Behcet’s Disease, 30 mg",OTEZLA 30 MG TABLET,Preferred
+"ANTI-INFLAMMATORY,PHOSPHODIESTERASE-4(PDE4) INHIB.","Otezla Behcet’s Disease, starter pack",OTEZLA 10-20 MG STARTER 28 DAY,Preferred
+"ANTI-INFLAMMATORY,PHOSPHODIESTERASE-4(PDE4) INHIB.","Otezla Plaque Psoriasis (adult), 30 mg",OTEZLA 30 MG TABLET,Preferred
+"ANTI-INFLAMMATORY,PHOSPHODIESTERASE-4(PDE4) INHIB.","Otezla Plaque Psoriasis (adult), starter pack",OTEZLA 10-20 MG STARTER 28 DAY,Preferred
+"ANTI-INFLAMMATORY,PHOSPHODIESTERASE-4(PDE4) INHIB.","Otezla Plaque Psoriasis (pediatric), 30 mg",OTEZLA 30 MG TABLET,Preferred
+"ANTI-INFLAMMATORY,PHOSPHODIESTERASE-4(PDE4) INHIB.","Otezla Plaque Psoriasis (pediatric), starter pack",OTEZLA 10-20 MG STARTER 28 DAY,Preferred
+"ANTI-INFLAMMATORY,PHOSPHODIESTERASE-4(PDE4) INHIB.","Otezla Psoriatic Arthritis (adult), 30 mg",OTEZLA 30 MG TABLET,Preferred
+"ANTI-INFLAMMATORY,PHOSPHODIESTERASE-4(PDE4) INHIB.","Otezla Psoriatic Arthritis (adult), starter pack",OTEZLA 10-20 MG STARTER 28 DAY,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Rinvoq Ankylosing Spondylitis, ER tablet",RINVOQ ER 15 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Rinvoq Atopic Dermatitis (adult), ER tablet",RINVOQ ER 15 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Rinvoq Crohn's Disease (adult), ER tablet",RINVOQ ER 15 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Rinvoq Non-Radiographic Axial Spondyloarthritis, ER tablet",RINVOQ ER 15 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA), ER tablet",RINVOQ ER 15 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA), LQ",RINVOQ LQ 1 MG/ML SOLUTION,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Rinvoq Psoriatic Arthritis (adult), ER tablet",RINVOQ ER 15 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Rinvoq Psoriatic Arthritis (pediatric), ER tablet",RINVOQ ER 15 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Rinvoq Psoriatic Arthritis (pediatric), LQ",RINVOQ LQ 1 MG/ML SOLUTION,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Rinvoq Rheumatoid Arthritis, ER tablet",RINVOQ ER 15 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Rinvoq Ulcerative Colitis (adult), ER tablet",RINVOQ ER 15 MG TABLET,Preferred
+THYMIC STROMAL LYMPHOPOIETIN (TSLP) INHIBITORS,"Tezspire auto-injector, Asthma (adult)",TEZSPIRE 210 MG/1.91 ML PEN,Preferred
+THYMIC STROMAL LYMPHOPOIETIN (TSLP) INHIBITORS,"Tezspire prefilled syringe, Asthma (adult)",TEZSPIRE 210 MG/1.91 ML SYRING,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Xeljanz Ankylosing Spondylitis, 10 mg, IR tablet",XELJANZ 10 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Xeljanz Ankylosing Spondylitis, 5 mg, IR tablet",XELJANZ 5 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), 10 mg, IR tablet",XELJANZ 10 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), 5 mg, IR tablet",XELJANZ 5 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Xeljanz Psoriatic Arthritis (adult), 10 mg, IR tablet",XELJANZ 10 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Xeljanz Psoriatic Arthritis (adult), 5 mg, IR tablet",XELJANZ 5 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Xeljanz Rheumatoid Arthritis, 10 mg, IR tablet",XELJANZ 10 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Xeljanz Rheumatoid Arthritis, 5 mg, IR tablet",XELJANZ 5 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Xeljanz Ulcerative Colitis (adult), 10 mg, IR tablet",XELJANZ 10 MG TABLET,Preferred
+JANUS KINASE (JAK) INHIBITORS,"Xeljanz Ulcerative Colitis (adult), 5 mg, IR tablet",XELJANZ 5 MG TABLET,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair auto-injector, Asthma (adult)",XOLAIR 150 MG/ML AUTOINJECTOR,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair auto-injector, Asthma (pediatric)",XOLAIR 150 MG/ML AUTOINJECTOR,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",XOLAIR 150 MG/ML AUTOINJECTOR,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair auto-injector, Chronic Spontaneous Urticaria (CSU)",XOLAIR 150 MG/ML AUTOINJECTOR,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair auto-injector, IgE-Mediated Food Allergy",XOLAIR 150 MG/ML AUTOINJECTOR,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair prefilled syringe, Asthma (adult)",XOLAIR 150 MG/ML SYRINGE,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair prefilled syringe, Asthma (pediatric)",XOLAIR 150 MG/ML SYRINGE,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",XOLAIR 150 MG/ML SYRINGE,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair prefilled syringe, Chronic Spontaneous Urticaria (CSU)",XOLAIR 150 MG/ML SYRINGE,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair prefilled syringe, IgE-Mediated Food Allergy",XOLAIR 150 MG/ML SYRINGE,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair vial, Asthma (adult)",XOLAIR 150 MG/ML SYRINGE,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair vial, Asthma (pediatric)",XOLAIR 150 MG/ML SYRINGE,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair vial, Chronic Rhinosinusitis with Nasal Polyposis",XOLAIR 150 MG/ML SYRINGE,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair vial, Chronic Spontaneous Urticaria (CSU)",XOLAIR 150 MG/ML SYRINGE,Preferred
+MONOCLONAL ANTIBODIES TO IMMUNOGLOBULIN E (IGE),"Xolair vial, IgE-Mediated Food Allergy",XOLAIR 150 MG/ML SYRINGE,Preferred

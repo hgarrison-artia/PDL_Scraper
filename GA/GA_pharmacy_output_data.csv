@@ -1,0 +1,194 @@
+therapeutic_class,capsule_name,pdl_name,status
+MUSCULOSKELETAL MEDICATIONS,"Actemra ACTPen, Giant Cell Arteritis",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra ACTPen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra ACTPen, Rheumatoid Arthritis",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Giant Cell Arteritis",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Rheumatoid Arthritis",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Coronavirus Disease 2019",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Cytokine Release Syndrome",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Giant Cell Arteritis",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Rheumatoid Arthritis",ACTEMRA,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Adbry Atopic Dermatitis (adult),ADBRY,Preferred
+IMMUNOSUPPRESSANT DRUGS,Adbry Atopic Dermatitis (pediatric),ADBRY,Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Ankylosing Spondylitis,AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Crohn’s Disease (adult),AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Crohn’s Disease (pediatric),AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Hidradenitis Suppurativa,AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Plaque Psoriasis (adult),AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA),AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Psoriatic Arthritis (adult),AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Rheumatoid Arthritis,AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Ulcerative Colitis (adult),AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Amjevita Uveitis (adult),AMJEVITA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Arcalyst Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),ARCALYST,Preferred
+IMMUNOSUPPRESSANT DRUGS,Arcalyst Deficiency of Interleukin-1 Receptor Antagonist (DIRA),ARCALYST,Preferred
+IMMUNOSUPPRESSANT DRUGS,Arcalyst Recurrent Pericarditis (RP),ARCALYST,Preferred
+IMMUNOLOGICALS,Benlysta,BENLYSTA SUBCUTANEOUS SOLN.,Preferred
+IMMUNOSUPPRESSANT DRUGS,Bimzelx Ankylosing Spondylitis,BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Bimzelx Non-Radiographic Axial Spondyloarthritis,BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Bimzelx Plaque Psoriasis (adult),BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Bimzelx Psoriatic Arthritis (adult),BIMZELX,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cibinqo Atopic Dermatitis (adult),CIBINQO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cimzia Ankylosing Spondylitis,CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cimzia Crohn’s Disease (adult),CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cimzia Non-Radiographic Axial Spondyloarthritis,CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cimzia Plaque Psoriasis (adult),CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cimzia Psoriatic Arthritis (adult),CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cimzia Rheumatoid Arthritis,CIMZIA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Ankylosing Spondylitis,"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Enthesitis-Related Arthritis (pediatric),"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Hidradenitis Suppurativa,"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Non-Radiographic Axial Spondyloarthritis,"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Plaque Psoriasis (adult),"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Plaque Psoriasis (pediatric),"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Psoriatic Arthritis (adult),"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Cosentyx Psoriatic Arthritis (pediatric),"COSENTYX, -UNO",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Asthma (adult),DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Asthma (pediatric),DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Atopic Dermatitis (adult),DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Atopic Dermatitis (pediatric),DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Eosinophilic Esophagitis,DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Dupixent Prurigo Nodularis,DUPIXENT,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enbrel Ankylosing Spondylitis,ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enbrel Plaque Psoriasis (adult),ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enbrel Plaque Psoriasis (pediatric),ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA),ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enbrel Psoriatic Arthritis (adult),ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enbrel Psoriatic Arthritis (pediatric),ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enbrel Rheumatoid Arthritis,ENBREL,Preferred
+IMMUNOSUPPRESSANT DRUGS,Enspryng Neuromyelitis Optica Spectrum Disorder (NMOSD),ENSPRYNG,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Entyvio Crohn’s Disease (adult), prefilled syringe",ENTYVIO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Entyvio Crohn’s Disease (adult), vial",ENTYVIO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Entyvio Ulcerative Colitis (adult), prefilled syringe",ENTYVIO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Entyvio Ulcerative Colitis (adult), vial",ENTYVIO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Entyvio prefilled pen, Crohn’s Disease (adult)",ENTYVIO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Entyvio prefilled pen, Ulcerative Colitis (adult)",ENTYVIO,Non-Preferred
+DERMATOLOGICAL MEDICATIONS,Eucrisa,EUCRISA,Preferred
+RESPIRATORY MEDICATIONS,"Fasenra auto-injector, Asthma (adult)",FASENRA PEN,Preferred
+RESPIRATORY MEDICATIONS,"Fasenra auto-injector, Asthma (pediatric)",FASENRA PEN,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Ankylosing Spondylitis,HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Crohn's Disease (adult),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Crohn's Disease (pediatric),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Hidradenitis Suppurativa,HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Plaque Psoriasis (adult),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Polyarticular Juvenile Idiopathic Arthritis (PJIA),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Psoriatic Arthritis (adult),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Rheumatoid Arthritis,HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Ulcerative Colitis (adult),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Ulcerative Colitis (pediatric),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Uveitis (adult),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Humira Uveitis (pediatric),HUMIRA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ilaris Adult-Onset Still’s Disease,ILARIS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ilaris Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),ILARIS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ilaris Gout Flares,ILARIS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ilaris Systemic-Onset Juvenile Idiopathic Arthritis (SJIA),ILARIS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Ilaris Tumor Necrosis Factor Receptor Associated Periodic Syndrome (TRAPS),ILARIS,Preferred
+IMMUNOSUPPRESSANT DRUGS,Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),KEVZARA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Kevzara Polymyalgia Rheumatica (PMR),KEVZARA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Kevzara Rheumatoid Arthritis,KEVZARA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Kineret Deficiency of Interleukin-1 Receptor Antagonist (DIRA),KINERET,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Kineret Neonatal-Onset Multisystem Inflammatory Disease (NOMID),KINERET,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Kineret Rheumatoid Arthritis,KINERET,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Litfulo Alopecia Areata,LITFULO,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Lupkynis,LUPKYNIS,Preferred
+RESPIRATORY MEDICATIONS,"Nucala auto-injector, Asthma (adult)",NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,"Nucala auto-injector, Asthma (pediatric)",NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,"Nucala auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,"Nucala auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",NUCALA AUTO-INJECTOR,Preferred
+RESPIRATORY MEDICATIONS,"Nucala auto-injector, Hypereosinophilic Syndrome (HES)",NUCALA AUTO-INJECTOR,Preferred
+MUSCULOSKELETAL MEDICATIONS,Olumiant Alopecia Areata,OLUMIANT,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Olumiant Coronavirus Disease 2019,OLUMIANT,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Olumiant Rheumatoid Arthritis,OLUMIANT,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia ClickJect, Psoriatic Arthritis (adult)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia ClickJect, Psoriatic Arthritis (pediatric)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia ClickJect, Rheumatoid Arthritis","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Psoriatic Arthritis (adult)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Rheumatoid Arthritis","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia vial, Psoriatic Arthritis (adult)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Orencia vial, Rheumatoid Arthritis","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Otezla Behcet’s Disease,OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,Otezla Plaque Psoriasis (adult),OTEZLA,Preferred
+MUSCULOSKELETAL MEDICATIONS,Otezla Psoriatic Arthritis (adult),OTEZLA,Preferred
+IMMUNOSUPPRESSANT DRUGS,Rinvoq Ankylosing Spondylitis,RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,Rinvoq Atopic Dermatitis (adult),RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,Rinvoq Crohn's Disease (adult),RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,Rinvoq Non-Radiographic Axial Spondyloarthritis,RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA),RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,Rinvoq Psoriatic Arthritis (adult),RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,Rinvoq Psoriatic Arthritis (pediatric),RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,Rinvoq Rheumatoid Arthritis,RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,Rinvoq Ulcerative Colitis (adult),RINVOQ ER,Preferred
+IMMUNOSUPPRESSANT DRUGS,Siliq Plaque Psoriasis (adult),SILIQ,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Ankylosing Spondylitis, SmartJect",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Ankylosing Spondylitis, prefilled syringe",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Aria, Psoriatic Arthritis (pediatric)",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Psoriatic Arthritis (adult), Aria",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Psoriatic Arthritis (adult), SmartJect",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Psoriatic Arthritis (adult), prefilled syringe",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Rheumatoid Arthritis, Aria",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Rheumatoid Arthritis, SmartJect",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Rheumatoid Arthritis, prefilled syringe",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Ulcerative Colitis (adult), SmartJect",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Simponi Ulcerative Colitis (adult), prefilled syringe",SIMPONI,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Crohn’s Disease (adult), prefilled cartridge","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Crohn’s Disease (adult), prefilled pen","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Crohn’s Disease (adult), prefilled syringe","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Crohn’s Disease (adult), vial","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Plaque Psoriasis (adult), prefilled pen","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Plaque Psoriasis (adult), prefilled syringe","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Psoriatic Arthritis (adult), prefilled pen","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Psoriatic Arthritis (adult), prefilled syringe","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), prefilled cartridge","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), prefilled pen","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), prefilled syringe","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), vial","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Sotyktu Plaque Psoriasis (adult),SOTYKTU,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Crohn’s Disease (adult), intravenous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Crohn’s Disease (adult), prefilled syringe",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Crohn’s Disease (adult), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Plaque Psoriasis (adult), prefilled syringe",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Plaque Psoriasis (adult), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Plaque Psoriasis (pediatric), prefilled syringe",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (adult), prefilled syringe",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (adult), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (pediatric), prefilled syringe",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Ulcerative Colitis (adult), intravenous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Ulcerative Colitis (adult), prefilled syringe",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Stelara Ulcerative Colitis (adult), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Taltz Ankylosing Spondylitis,TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,Taltz Non-Radiographic Axial Spondyloarthritis,TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,Taltz Plaque Psoriasis (adult),TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,Taltz Plaque Psoriasis (pediatric),TALTZ,Preferred
+IMMUNOSUPPRESSANT DRUGS,Taltz Psoriatic Arthritis (adult),TALTZ,Preferred
+RESPIRATORY MEDICATIONS,Tezspire Asthma (adult),TEZSPIRE PEN,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Tremfya Plaque Psoriasis (adult), prefilled syringe",TREMFYA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Tremfya Psoriatic Arthritis (adult), prefilled syringe",TREMFYA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,"Tremfya prefilled syringe, Ulcerative Colitis (adult)",TREMFYA,Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Velsipity Ulcerative Colitis (adult),VELSIPITY,Non-Preferred
+MUSCULOSKELETAL MEDICATIONS,Xeljanz Ankylosing Spondylitis,"XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA),"XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,Xeljanz Psoriatic Arthritis (adult),"XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,Xeljanz Rheumatoid Arthritis,"XELJANZ IR TAB (5MG, 10MG)",Preferred
+MUSCULOSKELETAL MEDICATIONS,Xeljanz Ulcerative Colitis (adult),"XELJANZ IR TAB (5MG, 10MG)",Preferred
+IMMUNOSUPPRESSANT DRUGS,"Xolair auto-injector, Asthma (adult)",XOLAIR auto-injector,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Xolair auto-injector, Asthma (pediatric)",XOLAIR auto-injector,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Xolair auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",XOLAIR auto-injector,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Xolair auto-injector, Chronic Spontaneous Urticaria (CSU)",XOLAIR auto-injector,Preferred
+IMMUNOSUPPRESSANT DRUGS,"Xolair auto-injector, IgE-Mediated Food Allergy",XOLAIR auto-injector,Preferred
+DERMATOLOGICAL MEDICATIONS,"Zoryve cream, 0.15%, Atopic Dermatitis",ZORYVE,Non-Preferred
+DERMATOLOGICAL MEDICATIONS,"Zoryve cream, 0.3%, Plaque Psoriasis",ZORYVE,Non-Preferred

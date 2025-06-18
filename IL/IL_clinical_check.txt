@@ -1,0 +1,7 @@
+IL
+- Deleted HBV products, Non-PDL
+- Deleted Plain Genotropin (might delete from drugs.csv)
+- Memantine tablet needs to be paired with tablet only, not titration pak
+- Namenda XR needs to be paired to the XR version only, not titration pak
+- Lansoprazole applies only to tablet, not DR disintegrating
+- Rabeprazole sprinkle capsule deleted, not on PDL

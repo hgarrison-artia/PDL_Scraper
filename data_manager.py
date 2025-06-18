@@ -6,6 +6,8 @@ class DataManager:
         self.process_type = process_type
         self.pdl_df = pd.read_csv(f'{state}/{state}_PDL.csv')
         self.capsule_df = pd.read_csv('drugs.csv')
+        # Filter capsule_df to only include drugs for the selected state
+        self.capsule_df = self.capsule_df[self.capsule_df['ST'] == state]
         self.state_data = pd.read_csv(f'{state}/{state}_data.csv')
         self.in_data = []
         self.not_in_data = []
@@ -27,7 +29,7 @@ class DataManager:
                   (self.capsule_df['Class'].str.contains('Immunomodulators', case=False, na=False)))
             ]['Drugs']
         
-        print(f"Processing {self.process_type} drugs. Found {len(filtered_drugs)} drugs to process.")
+        print(f"Processing {self.process_type} drugs for {self.state}. Found {len(filtered_drugs)} drugs to process.")
         
         # Iterate over filtered capsule drugs and build lists
         for drug in filtered_drugs:
@@ -130,8 +132,8 @@ class DataManager:
         return None
 
     def clear_old_drug_pairings(self):
-        """Remove any rows from state_data where capsule_name is not in drugs.csv"""
-        # Get list of valid drugs from drugs.csv
+        """Remove any rows from state_data where capsule_name is not in drugs.csv for the selected state"""
+        # Get list of valid drugs from drugs.csv for the selected state
         valid_drugs = set(self.capsule_df['Drugs'].str.lower())
         
         # Filter state_data to keep only rows where capsule_name is in valid_drugs

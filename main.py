@@ -133,6 +133,13 @@ def select_pharmacy_or_clinical():
     root.mainloop()
     return selection_var.get()
 
+def clear_all_states_pairings(process_type):
+    """Clear old drug pairings for all states"""
+    states = ["AK", "AL", "CT", "FL", "GA", "IL", "MS", "TN", "NH", "UT"]
+    for state in states:
+        data_manager = DataManager(state, process_type)
+        data_manager.clear_old_drug_pairings()
+
 def select_state():
     # Create a temporary window for state selection
     root = tk.Tk()
@@ -200,7 +207,7 @@ def select_state():
     state_var = tk.StringVar(value="AK")
     
     # List of available states
-    states = ["AK", "AL", "CT", "CO", "FL", "GA", "IA", "IL", "LA", "MS", "TN", "NH"]
+    states = ["AK", "AL", "CT", "FL", "GA", "IL", "LA", "MS", "TN", "NH"]
     
     # Create radio buttons for each state
     for st in states:
@@ -253,6 +260,20 @@ def select_state():
         style="TButton"
     )
     clear_button.pack(pady=10)
+    
+    # Clear all states pairings button
+    def clear_all_states():
+        process_type = select_pharmacy_or_clinical()
+        if process_type is not None:
+            clear_all_states_pairings(process_type)
+    
+    clear_all_button = ttk.Button(
+        main_frame,
+        text="Clear All States Drug Pairings",
+        command=clear_all_states,
+        style="TButton"
+    )
+    clear_all_button.pack(pady=10)
     
     # Exit button
     def exit_app():
