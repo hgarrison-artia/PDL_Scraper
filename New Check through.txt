@@ -1,0 +1,16 @@
+New Check through:
+
+New drug list
+- "Cleared Old Drug Pairings" for all states
+
+Rerun GUI:
+- AK (pharmacy & clinical)
+- AL (pharmacy & clinical)
+- CT (pharmacy & clinical)
+- FL (pharmacy & clinical)
+- GA (pharmacy & clinical)
+- IL (pharmacy & clinical)
+- MS (pharmacy & clinical)
+- TN
+- NH
+
