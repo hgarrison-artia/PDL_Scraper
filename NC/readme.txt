@@ -1,0 +1,3 @@
+ - Navigate to https://medicaid.ncdhhs.gov/providers/programs-and-services/prescription-drugs/preferred-drug-list 
+ - Download 'NC Medicaid Preferred Drug List' and convert it to an xlsx doc in Adobe
+ - Put xlsx doc into NC folder and run NC.py
