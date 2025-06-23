@@ -16,6 +16,6 @@ Rerun GUI:
 
 Initial GUI:
 - UT
-- IA
+- IA (pharmacy & clinical)
 - NC
 
