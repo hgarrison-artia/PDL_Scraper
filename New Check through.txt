@@ -11,6 +11,11 @@ Rerun GUI:
 - GA (pharmacy & clinical)
 - IL (pharmacy & clinical)
 - MS (pharmacy & clinical)
-- TN
-- NH
+- TN (pharmacy & clinical)
+- NH (pharmacy & clinical)
+
+Initial GUI:
+- UT
+- IA
+- NC
 

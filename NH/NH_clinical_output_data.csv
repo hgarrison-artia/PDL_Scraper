@@ -1,5 +1,4 @@
 therapeutic_class,capsule_name,pdl_name,status
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Abilify,Abilify,Non-Preferred
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Abilify Asimtufii,Abilify Asimtufii,Preferred
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Abilify Maintena,Abilify Maintena,Preferred
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Abilify MyCite,Abilify MyCite,Non-Preferred
@@ -16,16 +15,13 @@ RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Airduo Digih
 RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Airduo Respiclick,AirDuo RespiClick,Preferred
 RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Airsupra HFA,Airsupra HFA,Non-Preferred
 CENTRAL NERVOUS SYSTEM – CALCITONIN GENE-RELATED PEPTIDE INHIBITORS – MIGRAINE AND CLUSTER HEADACHE PREVENTION,Ajovy,Ajovy,Preferred
-RESPIRATORY – SHORT ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Albuterol HFA Sandoz labeler code 00781,"albuterol sulfate HFA (generic for ProAir HFA, Proventil HFA, Ventolin HFA)",Preferred
-RESPIRATORY – SHORT ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Albuterol HFA Teva labeler code 00093,"albuterol sulfate HFA (generic for ProAir HFA, Proventil HFA, Ventolin HFA)",Preferred
 RESPIRATORY – SHORT ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Albuterol HFA generic PROAIR,"albuterol sulfate HFA (generic for ProAir HFA, Proventil HFA, Ventolin HFA)",Preferred
-CENTRAL NERVOUS SYSTEM – TRIPTANS,Almotriptan,almotriptan (generic for Axert),Preferred
-OPHTHALMICGLAUCOMA – ALPHA 2 ADRENERGIC AGENTS,Alphagan P 0.1%,Alphagan P,Preferred
+OPHTHALMICGLAUCOMA – ALPHA 2 ADRENERGIC AGENTS,Alphagan P 0.001,Alphagan P,Preferred
 RESPIRATORY – INHALED CORTICOSTEROIDS,Alvesco,Alvesco,Preferred
 BEHAVIORAL HEALTH – SEDATIVE HYPNOTICS,Ambien,Ambien/CR,Non-Preferred
 BEHAVIORAL HEALTH – SEDATIVE HYPNOTICS,Ambien CR,Ambien/CR,Non-Preferred
 CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Ambrisentan,ambrisentan (generic for Letairis),Preferred
-CARDIOVASCULAR – CALCIUM CHANNEL BLOCKERS DHP,Amlodipine Besylate tablet,amlodipine (generic for Norvasc),Preferred
+CARDIOVASCULAR – CALCIUM CHANNEL BLOCKERS DHP,Amlodipine tablet,amlodipine (generic for Norvasc),Preferred
 DUCHENNE MUSCULAR DYSTROPHY TREATMENTS,Amondys 45,Amondys 45,Preferred
 MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Amrix,Amrix,Non-Preferred
 RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Anoro Ellipta,Anoro Ellipta,Preferred
@@ -34,13 +30,7 @@ ENDOCRINOLOGY – INSULINS: RAPID ACTING,Apidra SoloStar,Apidra vial/SoloSTAR,No
 BEHAVIORAL HEALTH – NOVEL ANTIDEPRESSANTS,Aplenzin,Aplenzin,Non-Preferred
 ANTICONVULSANTS – SECOND GENERATION,Aptiom,Aptiom,Non-Preferred
 HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp,Aranesp,Preferred
-HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp Anemia associated with chemotherapy,Aranesp,Preferred
-HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp Anemia associated with chronic kidney disease if patient is not on dialysis,Aranesp,Preferred
-HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp Anemia associated with chronic kidney disease if patient is on dialysis,Aranesp,Preferred
-HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp syringe,Aranesp,Preferred
-HEMATOLOGIC – HEMATOPOIETIC AGENTS,Aranesp vial,Aranesp,Preferred
 BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Aricept,Aricept,Non-Preferred
-BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Aricept 23 mg,Aricept 23 mg,Non-Preferred
 ANTIBIOTICS – INHALED,Arikayce,Arikayce,Non-Preferred
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Aripiprazole ODT,aripiprazole/ODT/solution (generic for Abilify/Discmelt/oral solution),Preferred
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Aripiprazole oral solution,aripiprazole/ODT/solution (generic for Abilify/Discmelt/oral solution),Preferred
@@ -50,22 +40,13 @@ BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Aristada Initio,Aristad
 RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Armonair Digihaler,ArmonAir Digihaler,Non-Preferred
 RESPIRATORY – INHALED CORTICOSTEROIDS,Arnuity Ellipta,Arnuity Ellipta,Preferred
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Asenapine,asenapine (generic for Saphris),Preferred
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Asenapine sublingual tablet,asenapine (generic for Saphris),Preferred
 RESPIRATORY – INHALED CORTICOSTEROIDS,Asmanex HFA,Asmanex HFA,Non-Preferred
 RESPIRATORY – INHALED CORTICOSTEROIDS,Asmanex Twisthaler,Asmanex,Preferred
 CARDIOVASCULAR – PLATELET INHIBITORS,Aspirin / Dipyridamole,aspirin/dipyridamole (generic for Aggrenox),Preferred
 DISEASE MODIFYING THERAPY,Aubagio tablet,Aubagio,Non-Preferred
 GENITOURINARYRENAL – ELECTROLYTE DEPLETERS,Auryxia,Auryxia,Non-Preferred
 CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo,Austedo,Preferred
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo Huntington's Disease,Austedo,Preferred
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo Tardive Dyskinesia,Austedo,Preferred
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo Tourette's Syndrome/Tics,Austedo,Preferred
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo Unspecified Hyperkinetic Movement Disorder,Austedo,Preferred
 CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo XR,Austedo XR,Preferred
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo XR Huntington's Disease,Austedo XR,Preferred
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,"Austedo XR Huntington's Disease, titration pack",Austedo XR,Preferred
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo XR Tardive Dyskinesia,Austedo XR,Preferred
-CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,"Austedo XR Tardive Dyskinesia, titration pack",Austedo XR,Preferred
 CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Austedo XR titration pack,Austedo XR,Preferred
 BEHAVIORAL HEALTH – NOVEL ANTIDEPRESSANTS,Auvelity,Auvelity,Non-Preferred
 SELF-INJECTION EPINEPHRINE,Auvi-Q 0.1 mg,Auvi-Q,Non-Preferred
@@ -74,19 +55,8 @@ SELF-INJECTION EPINEPHRINE,Auvi-Q 0.3 mg,Auvi-Q,Non-Preferred
 DISEASE MODIFYING THERAPY,Avonex auto-injector,Avonex,Preferred
 DISEASE MODIFYING THERAPY,Avonex prefilled syringe,Avonex,Preferred
 BEHAVIORAL HEALTH – ANTIHYPERKINESIS,Azstarys,Azstarys,Non-Preferred
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen 10 mg,baclofen,Preferred
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen 15 mg,baclofen,Preferred
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen 20 mg,baclofen,Preferred
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen 5 mg,baclofen,Preferred
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen 5mg, 10mg, 20mg",baclofen,Preferred
 MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen oral solution,baclofen,Preferred
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen oral suspension,baclofen,Preferred
 MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Baclofen tablet,baclofen,Preferred
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 10 mg",baclofen,Preferred
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 15 mg",baclofen,Preferred
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 20 mg",baclofen,Preferred
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 5 mg",baclofen,Preferred
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,"Baclofen tablet, 5mg, 10mg, 20mg",baclofen,Preferred
 DISEASE MODIFYING THERAPY,Bafiertam,Bafiertam,Non-Preferred
 ANTICONVULSANTS – SECOND GENERATION,Banzel oral suspension,Banzel,Non-Preferred
 ANTICONVULSANTS – SECOND GENERATION,Banzel tablet,Banzel,Non-Preferred
@@ -94,10 +64,7 @@ ENDOCRINOLOGY – INSULINS: LONG ACTING,Basaglar Kwikpen,Basaglar KwikPen,Non-Pr
 CARDIOVASCULAR – ACE INHIBITORS AND COMBINATIONS,Benazepril,benazepril (generic for Lotensin),Preferred
 CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Betapace,Betapace,Non-Preferred
 CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Betapace AF,Betapace AF,Non-Preferred
-CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Betapace AF tablet,Betapace AF,Non-Preferred
-CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Betapace tablet,Betapace,Non-Preferred
 ANTIBIOTICS – INHALED,Bethkis,Bethkis,Preferred
-ANTIBIOTICS – INHALED,Bethkis 300 mg/4 ml ampule,Bethkis,Preferred
 RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Bevespi Aerosphere,Bevespi Aerosphere,Non-Preferred
 CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Bosentan,bosentan (generic for Tracleer),Preferred
 RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Breo Ellipta,Breo Ellipta,Preferred
@@ -105,35 +72,20 @@ RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Breztri Aero
 CARDIOVASCULAR – PLATELET INHIBITORS,Brilinta,Brilinta,Preferred
 DISEASE MODIFYING THERAPY,Briumvi,Briumvi,Non-Preferred
 ANTICONVULSANTS – SECOND GENERATION,Briviact,Briviact,Non-Preferred
-ANTICONVULSANTS – SECOND GENERATION,Briviact oral solution,Briviact,Non-Preferred
-ANTICONVULSANTS – SECOND GENERATION,Briviact tablet,Briviact,Non-Preferred
-ANTICONVULSANTS – SECOND GENERATION,Briviact vial,Briviact,Non-Preferred
 RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Budesonide / Formoterol authorized generic Symbicort,budesonide/formoterol fumarate (generic for Symbicort),Preferred
-RESPIRATORY – INHALED CORTICOSTEROIDS,Budesonide 0.25 mg,budesonide (generic for Pulmicort),Preferred
-RESPIRATORY – INHALED CORTICOSTEROIDS,"Budesonide 0.25 mg, 0.5 mg",budesonide (generic for Pulmicort),Preferred
-RESPIRATORY – INHALED CORTICOSTEROIDS,Budesonide 0.5 mg,budesonide (generic for Pulmicort),Preferred
-RESPIRATORY – INHALED CORTICOSTEROIDS,Budesonide 1 mg,budesonide (generic for Pulmicort),Preferred
 RESPIRATORY – INHALED CORTICOSTEROIDS,Budesonide respules (inhalation suspension),budesonide (generic for Pulmicort),Preferred
-RESPIRATORY – INHALED CORTICOSTEROIDS,"Budesonide respules (inhalation suspension), 0.25 mg",budesonide (generic for Pulmicort),Preferred
-RESPIRATORY – INHALED CORTICOSTEROIDS,"Budesonide respules (inhalation suspension), 0.25 mg, 0.5 mg",budesonide (generic for Pulmicort),Preferred
-RESPIRATORY – INHALED CORTICOSTEROIDS,"Budesonide respules (inhalation suspension), 0.5 mg",budesonide (generic for Pulmicort),Preferred
-RESPIRATORY – INHALED CORTICOSTEROIDS,"Budesonide respules (inhalation suspension), 1 mg",budesonide (generic for Pulmicort),Preferred
 UREA CYCLE DISORDERS ORAL,Buphenyl powder,Buphenyl powder,Preferred
 UREA CYCLE DISORDERS ORAL,Buphenyl tablet,Buphenyl tablet,Preferred
 ENDOCRINOLOGY – GLUCAGON-LIKE PEPTIDE-1 GLP-1 AGONISTS AND COMBINATIONS,Bydureon Bcise,Bydureon BCise,Non-Preferred
 ENDOCRINOLOGY – GLUCAGON-LIKE PEPTIDE-1 GLP-1 AGONISTS AND COMBINATIONS,Byetta,Byetta,Preferred
 CARDIOVASCULAR – ANGIOTENSIN II RECEPTOR BLOCKERS AND COMBINATIONS,Candesartan,candesartan (generic for Atacand),Preferred
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Caplyta,Caplyta,Non-Preferred
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Caplyta Bipolar depression,Caplyta,Non-Preferred
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Caplyta Schizophrenia/schizoaffective disorder,Caplyta,Non-Preferred
 CARDIOVASCULAR – ACE INHIBITORS AND COMBINATIONS,Captopril,captopril (generic for Capoten),Preferred
 HEMATOLOGIC – SICKLE CELL GENE THERAPY,Casgevy intravenous suspension,Casgevy,Preferred
-HEMATOLOGIC – SICKLE CELL GENE THERAPY,"Casgevy intravenous suspension, Sickle Cell Disease",Casgevy,Preferred
-HEMATOLOGIC – SICKLE CELL GENE THERAPY,"Casgevy intravenous suspension, Transfusion-Dependent Beta Thalassemia",Casgevy,Preferred
 ANTIBIOTICS – INHALED,Cayston,Cayston,Non-Preferred
 OPHTHALMIC – ANTIINFLAMMATORYIMMUNOMODULATORS,Cequa,Cequa,Non-Preferred
 ANTIBIOTICS – VAGINAL,Cleocin 2% cream,Cleocin Cream/Ovules,Non-Preferred
-ANTIBIOTICS – VAGINAL,Cleocin Ovules / vaginal suppository,Cleocin Cream/Ovules,Non-Preferred
+ANTIBIOTICS – VAGINAL,Cleocin ovules / vaginal suppository,Cleocin Cream/Ovules,Non-Preferred
 ANTIBIOTICS – VAGINAL,Clindamycin 2% Cream,clindamycin,Preferred
 ANTIBIOTICS – VAGINAL,Clindesse 2% prefilled applicator cream,Clindesse,Preferred
 ANTICONVULSANTS – SECOND GENERATION,Clobazam oral suspension,clobazam (generic for Onfi),Preferred
@@ -141,24 +93,395 @@ ANTICONVULSANTS – SECOND GENERATION,Clobazam tablet,clobazam (generic for Onfi
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Clozapine ODT,clozapine ODT (generic for Fazaclo),Preferred
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Clozapine tablet,clozapine (generic for Clozaril),Preferred
 BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Clozaril,Clozaril,Non-Preferred
-BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Clozaril tablet,Clozaril,Non-Preferred
 OPHTHALMICGLAUCOMA – BETA BLOCKER AGENTS,Combigan,Combigan,Preferred
-OPHTHALMICGLAUCOMA – BETA BLOCKER AGENTS,Combigan 10 ml,Combigan,Preferred
-OPHTHALMICGLAUCOMA – BETA BLOCKER AGENTS,Combigan 5 ml,Combigan,Preferred
-RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Combivent Respimat (Ipratropium/Albuterol) inhalation aerosol solution,Combivent Respimat,Preferred
+RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Combivent Respimat inhalation aerosol solution,Combivent Respimat,Preferred
 BEHAVIORAL HEALTH – ANTIHYPERKINESIS,Concerta ER,Concerta,Preferred
-DISEASE MODIFYING THERAPY,Copaxone (Glatiramer Acetate) 20 mg,Copaxone,Preferred
-DISEASE MODIFYING THERAPY,Copaxone (Glatiramer Acetate) 40 mg,Copaxone,Preferred
+DISEASE MODIFYING THERAPY,Copaxone 20 mg,Copaxone,Preferred
+DISEASE MODIFYING THERAPY,Copaxone 40 mg,Copaxone,Preferred
 MISCELLANEOUS – PANCREATIC ENZYMES,Creon,Creon,Preferred
+OPHTHALMIC – ANTIINFLAMMATORYIMMUNOMODULATORS,Cyclosporine ophthalmic emulsion,cyclosporine (generic for Restasis),Preferred
 RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Daliresp,Daliresp,Non-Preferred
 MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Dantrium,Dantrium,Non-Preferred
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Dantrium capsule,Dantrium,Non-Preferred
-MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Dantrium vial,Dantrium,Non-Preferred
 ENDOCRINOLOGY – SODIUM GLUCOSE CO-TRANSPORTER 2 INHIBITOR AND COMBINATIONS,Dapagliflozin,dapagliflozin (generic for Farxiga),Preferred
 ANTICONVULSANTS – FIRST GENERATION,Depakote,Depakote,Non-Preferred
-ANTICONVULSANTS – FIRST GENERATION,Depakote DR sprinkle capsule,Depakote Sprinkle,Preferred
-ANTICONVULSANTS – FIRST GENERATION,Depakote DR tablet,Depakote,Non-Preferred
-ANTICONVULSANTS – FIRST GENERATION,Depakote ER tablet,Depakote ER,Non-Preferred
-ANTICONVULSANTS – FIRST GENERATION,Depakote tablet,Depakote,Non-Preferred
 ANTICONVULSANTS – SECOND GENERATION,Diacomit capsule,Diacomit,Non-Preferred
 ANTICONVULSANTS – SECOND GENERATION,Diacomit packet for oral suspension,Diacomit,Non-Preferred
+DISEASE MODIFYING THERAPY,Dimethyl Fumarate,dimethyl fumarate DR (generic for Tecfidera),Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Donepezil ODT,donepezil/ODT/23 mg (generic for Aricept/ODT/23 mg),Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Donepezil tablet,donepezil/ODT/23 mg (generic for Aricept/ODT/23 mg),Preferred
+RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Duaklir Pressair,Duaklir Pressair,Non-Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Dulera,Dulera,Preferred
+BEHAVIORAL HEALTH – NOVEL ANTIDEPRESSANTS,Duloxetine,"duloxetine (generic for Cymbalta, Irenka)",Preferred
+BEHAVIORAL HEALTH – ANTIHYPERKINESIS,Dyanavel XR,Dyanavel XR,Non-Preferred
+CARDIOVASCULAR – ANGIOTENSIN II RECEPTOR BLOCKERS AND COMBINATIONS,Edarbi,Edarbi,Non-Preferred
+CARDIOVASCULAR – ANGIOTENSIN II RECEPTOR BLOCKERS AND COMBINATIONS,Edarbyclor,Edarbyclor,Non-Preferred
+DUCHENNE MUSCULAR DYSTROPHY TREATMENTS,Elevidys intravenous infusion kit,Elevidys,Preferred
+HEMATOLOGIC – ANTICOAGULANTS,Eliquis,Eliquis,Preferred
+CENTRAL NERVOUS SYSTEM – CALCITONIN GENE-RELATED PEPTIDE INHIBITORS – MIGRAINE AND CLUSTER HEADACHE PREVENTION,Emgality 100 mg,Emgality 100 mg,Non-Preferred
+CENTRAL NERVOUS SYSTEM – CALCITONIN GENE-RELATED PEPTIDE INHIBITORS – MIGRAINE AND CLUSTER HEADACHE PREVENTION,Emgality 120 mg,Emgality 120 mg,Preferred
+CARDIOVASCULAR – ACE INHIBITORS AND COMBINATIONS,Enalapril,enalapril (generic for Vasotec),Preferred
+ANTICONVULSANTS – SECOND GENERATION,Epidiolex,Epidiolex,Preferred
+SELF-INJECTION EPINEPHRINE,Epinephrine (Generic Adrenaclick) 0.15mg,"epinephrine (generic for Adrenaclick, EpiPen, EpiPen Jr.)",Preferred
+SELF-INJECTION EPINEPHRINE,Epinephrine (Generic Adrenaclick) 0.3mg,"epinephrine (generic for Adrenaclick, EpiPen, EpiPen Jr.)",Preferred
+SELF-INJECTION EPINEPHRINE,Epinephrine (Mylan Ag Epipen And Jr) 0.15mg Mylan's EpiPen Jr AG,"epinephrine (generic for Adrenaclick, EpiPen, EpiPen Jr.)",Preferred
+SELF-INJECTION EPINEPHRINE,Epinephrine (Mylan Ag Epipen And Jr) 0.3mg Mylan's EpiPen AG,"epinephrine (generic for Adrenaclick, EpiPen, EpiPen Jr.)",Preferred
+SELF-INJECTION EPINEPHRINE,Epipen,EpiPen,Preferred
+SELF-INJECTION EPINEPHRINE,Epipen Jr.,EpiPen Jr.,Preferred
+HEMATOLOGIC – HEMATOPOIETIC AGENTS,Epogen,Epogen,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Eprontia,Eprontia,Non-Preferred
+CARDIOVASCULAR – ANGIOTENSIN II RECEPTOR BLOCKERS AND COMBINATIONS,Eprosartan,eprosartan (generic for Teveten),Preferred
+ANTICONVULSANTS – CARBAMAZEPINE DERIVATIVES,Equetro,Equetro,Non-Preferred
+RESPIRATORY – IDIOPATHIC PULMONARY FIBROSIS,Esbriet,Esbriet,Non-Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Esomeprazole,esomeprazole (generic for Nexium) (RX),Preferred
+SPINAL MUSCULAR ATROPHY,Evrysdi,Evrysdi,Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Exelon,Exelon patch,Preferred
+DUCHENNE MUSCULAR DYSTROPHY TREATMENTS,Exondys 51,Exondys 51,Preferred
+OPHTHALMIC – ANTIINFLAMMATORYIMMUNOMODULATORS,Eysuvis ophthalmic suspension,Eysuvis,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Fanapt,Fanapt,Non-Preferred
+ENDOCRINOLOGY – SODIUM GLUCOSE CO-TRANSPORTER 2 INHIBITOR AND COMBINATIONS,Farxiga,Farxiga,Preferred
+ANTICONVULSANTS – FIRST GENERATION,Felbatol oral suspension,Felbatol,Non-Preferred
+ANTICONVULSANTS – FIRST GENERATION,Felbatol tablet,Felbatol,Non-Preferred
+ENDOCRINOLOGY – PITUITARY SUPPRESSIVE AGENTS - LHRH,Fensolvi,Fensolvi,Preferred
+BEHAVIORAL HEALTH – NOVEL ANTIDEPRESSANTS,Fetzima,Fetzima,Non-Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Fexmid,Fexmid,Non-Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,Fiasp,Fiasp FlexTouch/vial/Penfill,Non-Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,Fiasp FlexTouch,Fiasp FlexTouch/vial/Penfill,Non-Preferred
+DISEASE MODIFYING THERAPY,Fingolimod capsule,fingolimod (generic for Gilenya),Preferred
+ANTICONVULSANTS – SECOND GENERATION,Fintepla,Fintepla,Non-Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Fleqsuvy,Fleqsuvy,Non-Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Fluticasone / Salmeterol generic Advair Diskus,fluticasone/salmeterol (generic for Advair Diskus),Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Fluticasone / Salmeterol generic Advair HFA,fluticasone/salmeterol HFA (generic for Advair HFA),Preferred
+CARDIOVASCULAR – ACE INHIBITORS AND COMBINATIONS,Fosinopril,fosinopril,Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Fulphila,Fulphila,Non-Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Fylnetra,Fylnetra,Non-Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Galantamine ER,galantamine/ER (generic for Razadyne),Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Galantamine oral solution,galantamine/ER (generic for Razadyne),Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Galantamine tablet,galantamine/ER (generic for Razadyne),Preferred
+ENDOCRINOLOGY – GROWTH HORMONE,Genotropin,Genotropin,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Geodon,Geodon/IM,Non-Preferred
+DISEASE MODIFYING THERAPY,Gilenya capsule,Gilenya,Non-Preferred
+DISEASE MODIFYING THERAPY,Glatiramer Acetate prefilled syringe,glatiramer (generic for Copaxone),Preferred
+DISEASE MODIFYING THERAPY,Glatopa (Glatiramer Acetate) prefilled syringe,Glatopa,Preferred
+ENDOCRINOLOGY – DIPEPTIDYL PEPTIDASE-4 DPP4 INHIBITORS AND COMBINATIONS,Glyxambi,Glyxambi,Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Granix,Granix,Non-Preferred
+CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Hemangeol,Hemangeol,Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,Humalog Junior KwikPen,Humalog Junior KwikPen (100 units/mL),Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,"Humalog KwikPen, U-100",Humalog KwikPen (100 units/mL),Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,Humalog vial,Humalog vial,Preferred
+ENDOCRINOLOGY – GROWTH HORMONE,Humatrope,Humatrope,Non-Preferred
+OPHTHALMIC – NONSTEROIDAL ANTIINFLAMMATORY,Ilevro ophthalmic suspension,Ilevro,Non-Preferred
+RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Incruse Ellipta,Incruse Ellipta,Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Ingrezza,Ingrezza,Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Ingrezza sprinkle capsule,Ingrezza Sprinkle,Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Ingrezza titration pack,Ingrezza,Preferred
+ENDOCRINOLOGY – INSULINS: LONG ACTING,Insulin Glargine,insulin glargine,Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,Insulin Lispro,insulin lispro vial/kwikpen (generic for Humalog vial/cartridge/pen),Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Invega ER,Invega,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Invega Hafyera,Invega Sustenna/Trinza/Hafyera,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Invega Sustenna,Invega Sustenna/Trinza/Hafyera,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Invega Trinza,Invega Sustenna/Trinza/Hafyera,Preferred
+ENDOCRINOLOGY – SODIUM GLUCOSE CO-TRANSPORTER 2 INHIBITOR AND COMBINATIONS,Invokamet,Invokamet,Non-Preferred
+ENDOCRINOLOGY – SODIUM GLUCOSE CO-TRANSPORTER 2 INHIBITOR AND COMBINATIONS,Invokamet XR,Invokamet XR,Non-Preferred
+ENDOCRINOLOGY – SODIUM GLUCOSE CO-TRANSPORTER 2 INHIBITOR AND COMBINATIONS,Invokana,Invokana,Non-Preferred
+OPHTHALMICGLAUCOMA – ALPHA 2 ADRENERGIC AGENTS,Iopidine ophthalmic solution,Iopidine,Non-Preferred
+RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Ipratropium/Albuterol nebulized solution,ipratropium/albuterol (generic for DuoNeb),Preferred
+CARDIOVASCULAR – ANGIOTENSIN II RECEPTOR BLOCKERS AND COMBINATIONS,Irbesartan,irbesartan (generic for Avapro),Preferred
+ENDOCRINOLOGY – DIPEPTIDYL PEPTIDASE-4 DPP4 INHIBITORS AND COMBINATIONS,Janumet,Janumet,Preferred
+ENDOCRINOLOGY – DIPEPTIDYL PEPTIDASE-4 DPP4 INHIBITORS AND COMBINATIONS,Januvia,Januvia,Preferred
+ENDOCRINOLOGY – SODIUM GLUCOSE CO-TRANSPORTER 2 INHIBITOR AND COMBINATIONS,Jardiance,Jardiance,Preferred
+ENDOCRINOLOGY – DIPEPTIDYL PEPTIDASE-4 DPP4 INHIBITORS AND COMBINATIONS,Jentadueto,Jentadueto,Preferred
+BEHAVIORAL HEALTH – ANTIHYPERKINESIS,Jornay PM,Jornay PM,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Keppra XR,Keppra XR,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Keppra oral solution,Keppra tab/sol,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Keppra tablet,Keppra tab/sol,Non-Preferred
+DISEASE MODIFYING THERAPY,Kesimpta,Kesimpta,Preferred
+ANTIBIOTICS – INHALED,Kitabis Pak,Kitabis Pak,Preferred
+OPIOID REVERSAL AGENTS,Kloxxado,Kloxxado spray,Preferred
+ENDOCRINOLOGY – DIPEPTIDYL PEPTIDASE-4 DPP4 INHIBITORS AND COMBINATIONS,Kombiglyze XR,Kombiglyze XR,Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Konvomep,Konvomep,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Lamictal ODT,Lamictal ODT,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Lamictal tablet,Lamictal tab,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Lamotrigine,lamotrigine/ODT/XR (generic for Lamictal/ODT/XR),Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Lansoprazole,lansoprazole/solutab (generic for Prevacid/SoluTab) (RX),Preferred
+ENDOCRINOLOGY – INSULINS: LONG ACTING,Lantus SoloStar,Lantus SoloSTAR,Preferred
+ENDOCRINOLOGY – INSULINS: LONG ACTING,Lantus vial,Lantus vial,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Latuda,Latuda,Non-Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Letairis,Letairis,Non-Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Leukine,Leukine,Non-Preferred
+RESPIRATORY – SHORT ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Levalbuterol Tartrate inhalation aerosol solution,levalbuterol (generic for Xopenex),Preferred
+ENDOCRINOLOGY – INSULINS: LONG ACTING,Levemir FlexTouch,Levemir FlexTouch,Preferred
+ENDOCRINOLOGY – INSULINS: LONG ACTING,Levemir vial,Levemir vial,Preferred
+ANTICONVULSANTS – ACUTE TREATMENT,Libervant buccal film,Libervant,Non-Preferred
+GASTROINTESTINAL – BOWEL DISORDERSGI MOTILITY CHRONIC,Linzess,Linzess,Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Liqrev,Liqrev,Non-Preferred
+CARDIOVASCULAR – ACE INHIBITORS AND COMBINATIONS,Lisinopril,lisinopril (generic for Prinivil and Zestril),Preferred
+ENDOCRINOLOGY – POTASSIUM BINDERS,Lokelma,Lokelma,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Lorzone,Lorzone,Non-Preferred
+CARDIOVASCULAR – ANGIOTENSIN II RECEPTOR BLOCKERS AND COMBINATIONS,Losartan,losartan (generic for Cozaar),Preferred
+OPHTHALMICGLAUCOMA – PROSTAGLANDIN AGONISTS,Lumigan 2.5 mL,Lumigan ,Non-Preferred
+OPHTHALMICGLAUCOMA – PROSTAGLANDIN AGONISTS,Lumigan 5 mL,Lumigan ,Non-Preferred
+OPHTHALMICGLAUCOMA – PROSTAGLANDIN AGONISTS,Lumigan 7.5 mL,Lumigan ,Non-Preferred
+ENDOCRINOLOGY – PITUITARY SUPPRESSIVE AGENTS - LHRH,Lupron Depot-Ped 1-Month,Lupron Depot,Preferred
+ENDOCRINOLOGY – PITUITARY SUPPRESSIVE AGENTS - LHRH,Lupron Depot-Ped 3-Month,Lupron Depot,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Lurasidone,lurasidone (generic for Latuda),Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Lybalvi,Lybalvi,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Lyrica,Lyrica (requires additional clinical PA),Non-Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,"Lyumjev KwikPen, U-100",Lyumjev,Non-Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,"Lyumjev KwikPen, U-200",Lyumjev,Non-Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,Lyumjev vial,Lyumjev,Non-Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Lyvispah,Lyvispah,Non-Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Memantine XR,memantine ER (generic for Namenda XR),Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Memantine oral solution,memantine tab/dose pack/soln (generic for Namenda tab/dose pack/soln),Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Memantine tablet,memantine tab/dose pack/soln (generic for Namenda tab/dose pack/soln),Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Metaxalone,metaxalone (generic for Skelaxin),Preferred
+CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Metoprolol Succinate ER tablet,metoprolol succinate (generic for Toprol XL),Preferred
+ANTIBIOTICS – VAGINAL,Metronidazole 0.75% Gel,metronidazole,Preferred
+OPHTHALMIC – ANTIINFLAMMATORYIMMUNOMODULATORS,Miebo,Miebo,Non-Preferred
+CARDIOVASCULAR – ACE INHIBITORS AND COMBINATIONS,Moexipril,moexipril,Preferred
+ANTICONVULSANTS – SECOND GENERATION,Motpoly XR,Motpoly XR,Non-Preferred
+ENDOCRINOLOGY – GLUCAGON-LIKE PEPTIDE-1 GLP-1 AGONISTS AND COMBINATIONS,Mounjaro,Mounjaro,Non-Preferred
+UTERINE DISORDER TREATMENTS,Myfembree Endometriosis,Myfembree,Preferred
+UTERINE DISORDER TREATMENTS,Myfembree Uterine Fibroids,Myfembree,Preferred
+OPIOID REVERSAL AGENTS,Naloxone nasal spray,naloxone spray,Preferred
+OPIOID REVERSAL AGENTS,Naloxone vial,naloxone vial/syringe,Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Namenda XR,Namenda XR (not a cholinesterase inhibitor),Non-Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Namzaric,Namzaric,Non-Preferred
+OPIOID REVERSAL AGENTS,Narcan,Narcan spray,Preferred
+TOPICAL – ANTIPARASITICS,Natroba,Natroba,Preferred
+ANTICONVULSANTS – ACUTE TREATMENT,Nayzilam,Nayzilam,Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Neulasta,Neulasta,Non-Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Neulasta Onpro,Neulasta Onpro,Non-Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Neupogen,Neupogen syringe/vial,Preferred
+OPHTHALMIC – NONSTEROIDAL ANTIINFLAMMATORY,Nevanac ophthalmic suspension,Nevanac,Non-Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Nexium DR capsule,Nexium (RX),Non-Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Nexium DR packet for oral suspension,Nexium suspension,Preferred
+ENDOCRINOLOGY – GROWTH HORMONE,Ngenla,Ngenla,Non-Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Nivestym,Nivestym,Non-Preferred
+ENDOCRINOLOGY – GROWTH HORMONE,Norditropin,Norditropin,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Norgesic Forte,Norgesic Forte,Non-Preferred
+ENDOCRINOLOGY – INSULINS: PREMIXED COMBINATIONS,Novolin 70/30,Novolin 70/30,Non-Preferred
+ENDOCRINOLOGY – INSULINS: PREMIXED COMBINATIONS,Novolin 70/30 Flexpen OTC,Novolin 70/30,Non-Preferred
+ENDOCRINOLOGY – INSULINS: INTERMEDIATE ACTING,Novolin N,Novolin N,Non-Preferred
+ENDOCRINOLOGY – INSULINS: SHORT ACTING,Novolin R,Novolin R,Non-Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,Novolog,Novolog vial/cartridge/FlexPen,Preferred
+ENDOCRINOLOGY – INSULINS: PREMIXED COMBINATIONS,Novolog 70/30,Novolog Mix 70/30,Preferred
+ENDOCRINOLOGY – INSULINS: PREMIXED COMBINATIONS,Novolog 70/30 FlexPen,Novolog Mix 70/30 FlexPen,Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,Novolog FlexPen,Novolog vial/cartridge/FlexPen,Preferred
+ENDOCRINOLOGY – INSULINS: RAPID ACTING,Novolog cartridge,Novolog vial/cartridge/FlexPen,Preferred
+CENTRAL NERVOUS SYSTEM – CALCITONIN GENE-RELATED PEPTIDE INHIBITORS – MIGRAINE AND CLUSTER HEADACHE TREATMENT,Nurtec ODT Acute Treatment,Nurtec ODT,Preferred
+CENTRAL NERVOUS SYSTEM – CALCITONIN GENE-RELATED PEPTIDE INHIBITORS – MIGRAINE AND CLUSTER HEADACHE TREATMENT,Nurtec ODT Migraine Prophylaxis,Nurtec ODT,Preferred
+ENDOCRINOLOGY – GROWTH HORMONE,Nutropin AQ,Nutropin AQ,Non-Preferred
+ANTIBIOTICS – VAGINAL,Nuvessa,Nuvessa,Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Nyvepria,Nyvepria,Preferred
+DISEASE MODIFYING THERAPY,Ocrevus,Ocrevus,Non-Preferred
+DISEASE MODIFYING THERAPY,Ocrevus Zunovo subcutaneous vial,Ocrevus,Non-Preferred
+RESPIRATORY – IDIOPATHIC PULMONARY FIBROSIS,Ofev,Ofev,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Olanzapine And Fluoxetine,olanzapine/fluoxetine (generic for Symbyax),Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Olanzapine ODT,olanzapine/ODT/IM (generic for Zyprexa),Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Olanzapine tablet,olanzapine/ODT/IM (generic for Zyprexa),Preferred
+CARDIOVASCULAR – ANGIOTENSIN II RECEPTOR BLOCKERS AND COMBINATIONS,Olmesartan,olmesartan (generic for Benicar),Preferred
+UREA CYCLE DISORDERS ORAL,Olpruva,Olpruva,Non-Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Omeprazole capsule,omeprazole (generic for Prilosec) (RX),Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Omeprazole tablet,omeprazole (generic for Prilosec) (RX),Preferred
+ENDOCRINOLOGY – GROWTH HORMONE,Omnitrope,Omnitrope,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Onfi oral suspension,Onfi,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Onfi tablet,Onfi,Non-Preferred
+ENDOCRINOLOGY – DIPEPTIDYL PEPTIDASE-4 DPP4 INHIBITORS AND COMBINATIONS,Onglyza,Onglyza,Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Opsumit,Opsumit,Non-Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Opsynvi tablet,Opsynvi,Non-Preferred
+OPIOID REVERSAL AGENTS,Opvee (Nalmefene),Opvee spray,Preferred
+ATOPIC DERMATITIS TREATMENTS,"Opzelura cream, Atopic Dermatitis",Opzelura,Non-Preferred
+ATOPIC DERMATITIS TREATMENTS,"Opzelura cream, Nonsegmental Vitiligo",Opzelura,Non-Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Orenitram ER,Orenitram ER,Non-Preferred
+UTERINE DISORDER TREATMENTS,Oriahnn,Oriahnn,Preferred
+UTERINE DISORDER TREATMENTS,Orilissa,Orilissa,Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Orphenadrine ER,orphenadrine citrate/compound (generic for Norflex),Preferred
+ANTIVIRALS – TREATMENTPROPHYLAXIS OF INFLUENZA,Oseltamivir,oseltamivir (generic for Tamiflu),Preferred
+ENDOCRINOLOGY – GLUCAGON-LIKE PEPTIDE-1 GLP-1 AGONISTS AND COMBINATIONS,Ozempic,Ozempic,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Paliperidone ER,paliperidone (generic for Invega),Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Pantoprazole DR packet for oral suspension,pantoprazole tab/susp (generic for Protonix),Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Pantoprazole tablet,pantoprazole tab/susp (generic for Protonix),Preferred
+BEHAVIORAL HEALTH – SEROTONIN REUPTAKE INHIBITORS AND COMBOS,"Paroxetine 7.5 mg, IR capsule",paroxetine/ER (generic for Paxil/Brisdelle/CR),Preferred
+CARDIOVASCULAR – ACE INHIBITORS AND COMBINATIONS,Perindopril,perindopril (generic for Aceon),Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Perseris,Perseris,Preferred
+UREA CYCLE DISORDERS ORAL,Pheburane,Pheburane,Preferred
+DISEASE MODIFYING THERAPY,Ponvory starter pack,Ponvory,Non-Preferred
+DISEASE MODIFYING THERAPY,Ponvory tablet,Ponvory,Non-Preferred
+HEMATOLOGIC – ANTICOAGULANTS,Pradaxa,Pradaxa,Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Prevacid SoluTab,Prevacid capsules (RX)/SoluTab,Non-Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Prevacid capsule,Prevacid capsules (RX)/SoluTab,Non-Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Prilosec DR packet for oral suspension,Prilosec suspension (RX),Non-Preferred
+RESPIRATORY – SHORT ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Proair Digihaler,ProAir Digihaler,Non-Preferred
+RESPIRATORY – SHORT ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Proair Respiclick,ProAir RespiClick,Preferred
+HEMATOLOGIC – HEMATOPOIETIC AGENTS,Procrit,Procrit,Non-Preferred
+CARDIOVASCULAR – BETA-BLOCKERS AND COMBINATION,Propranolol oral solution,propranolol (generic for Inderal),Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Protonix DR packet oral suspension,Protonix suspension,Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Protonix DR tablet,Protonix,Non-Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS,Pulmicort Flexhaler,Pulmicort Flexhaler,Non-Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS,Pulmicort Respules 0.25 mg,Pulmicort respules,Non-Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS,Pulmicort Respules 0.5 mg,Pulmicort respules,Non-Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS,Pulmicort Respules 1 mg,Pulmicort respules,Non-Preferred
+BEHAVIORAL HEALTH – ANTIHYPERKINESIS,Qelbree,Qelbree,Non-Preferred
+ENDOCRINOLOGY – DIPEPTIDYL PEPTIDASE-4 DPP4 INHIBITORS AND COMBINATIONS,Qtern,Qtern,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Quetiapine,quetiapine/ER (generic for Seroquel/XR),Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Quetiapine ER,quetiapine/ER (generic for Seroquel/XR),Preferred
+BEHAVIORAL HEALTH – ANTIHYPERKINESIS,Quillichew XR,QuilliChew ER,Non-Preferred
+BEHAVIORAL HEALTH – ANTIHYPERKINESIS,Quillivant XR,Quillivant XR,Non-Preferred
+CARDIOVASCULAR – ACE INHIBITORS AND COMBINATIONS,Quinapril,quinapril (generic for Accupril),Preferred
+CENTRAL NERVOUS SYSTEM – CALCITONIN GENE-RELATED PEPTIDE INHIBITORS – MIGRAINE AND CLUSTER HEADACHE PREVENTION,Qulipta,Qulipta,Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS,Qvar,QVAR RediHaler,Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Rabeprazole sprinkle capsule,rabeprazole (generic for AcipHex),Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Rabeprazole tablet,rabeprazole (generic for AcipHex),Preferred
+CARDIOVASCULAR – ACE INHIBITORS AND COMBINATIONS,Ramipril,ramipril (generic for Altace),Preferred
+UREA CYCLE DISORDERS ORAL,Ravicti,Ravicti,Preferred
+DISEASE MODIFYING THERAPY,Rebif (Interferon Beta-1a) prefilled syringe,Rebif,Non-Preferred
+HEMATOLOGIC – HEMATOPOIETIC AGENTS,Reblozyl (Luspatercept-Aamt) vial,Reblozyl,Non-Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Releuko,Releuko,Non-Preferred
+GENITOURINARYRENAL – ELECTROLYTE DEPLETERS,Renvela,Renvela,Non-Preferred
+OPHTHALMIC – ANTIINFLAMMATORYIMMUNOMODULATORS,Restasis,Restasis,Preferred
+OPHTHALMIC – ANTIINFLAMMATORYIMMUNOMODULATORS,Restasis MultiDose,Restasis Multi-dose,Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Revatio oral suspension,Revatio,Non-Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Revatio tablet,Revatio,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Rexulti Adjunct Treatment of Major Depressive Disorder,Rexulti,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Rexulti Schizophrenia,Rexulti,Non-Preferred
+CENTRAL NERVOUS SYSTEM – TRIPTANS,Reyvow,Reyvow,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Risperdal Consta,Risperdal Consta,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Risperdal oral solution,Risperdal,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Risperdal tablet,Risperdal,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Risperidone ODT,risperidone/ODT (generic for Risperdal/MT),Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Risperidone oral solution,risperidone/ODT (generic for Risperdal/MT),Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Risperidone tablet,risperidone/ODT (generic for Risperdal/MT),Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Rivastigmine capsule,rivastigmine capsule/patch (generic for Exelon capsule/patch),Preferred
+BEHAVIORAL HEALTH – ALZHEIMERS AGENTS,Rivastigmine patch,rivastigmine capsule/patch (generic for Exelon capsule/patch),Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Rolvedon prefilled syringe,Rolvedon,Non-Preferred
+ENDOCRINOLOGY – GLUCAGON-LIKE PEPTIDE-1 GLP-1 AGONISTS AND COMBINATIONS,Rybelsus,Rybelsus,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Rykindo,Rykindo,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Sabril packet for oral solution,Sabril,Preferred
+ANTICONVULSANTS – SECOND GENERATION,Sabril tablet,Sabril,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Saphris,Saphris,Non-Preferred
+HEMATOLOGIC – ANTICOAGULANTS,Savaysa,Savaysa,Non-Preferred
+ENDOCRINOLOGY – WEIGHT MANAGEMENT,Saxenda,Saxenda,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Secuado,Secuado Transdermal System,Non-Preferred
+ENDOCRINOLOGY – SODIUM GLUCOSE CO-TRANSPORTER 2 INHIBITOR AND COMBINATIONS,Segluromet,Segluromet,Non-Preferred
+ENDOCRINOLOGY – INSULINS: LONG ACTING,Semglee,Semglee,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Seroquel,Seroquel/XR,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Seroquel XR,Seroquel/XR,Non-Preferred
+GENITOURINARYRENAL – ELECTROLYTE DEPLETERS,Sevelamer carbonate tablets,sevelamer (generic for Renvela),Preferred
+GENITOURINARYRENAL – ELECTROLYTE DEPLETERS,Sevelamer hydrochloride tablets,sevelamer HCL (generic for Renagel),Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Sildenafil 20 mg,sildenafil (generic for Revatio),Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Sildenafil oral suspension,sildenafil (generic for Revatio),Preferred
+ENDOCRINOLOGY – GROWTH HORMONE,Skytrofa,Skytrofa,Non-Preferred
+UREA CYCLE DISORDERS ORAL,Sodium Phenylbutyrate powder,sodium phenylbutyrate powder,Preferred
+UREA CYCLE DISORDERS ORAL,Sodium Phenylbutyrate tablet,sodium phenylbutyrate tablet,Preferred
+ENDOCRINOLOGY – POTASSIUM BINDERS,Sodium Polystyrene Sulfonate,sodium polystyrene sulfonate,Preferred
+ENDOCRINOLOGY – GROWTH HORMONE,Sogroya,Sogroya,Preferred
+ENDOCRINOLOGY – GLUCAGON-LIKE PEPTIDE-1 GLP-1 AGONISTS AND COMBINATIONS,Soliqua,Soliqua,Non-Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Soma,Soma,Non-Preferred
+TOPICAL – ANTIPARASITICS,Spinosad topical suspension,spinosad (generic for Natroba),Preferred
+SPINAL MUSCULAR ATROPHY,Spinraza,Spinraza,Preferred
+RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Spiriva Handihaler inhalation capsule,Spiriva HandiHaler,Preferred
+RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Spiriva Respimat inhalation aerosol solution,Spiriva Respimat,Preferred
+BEHAVIORAL HEALTH – NOVEL ANTIDEPRESSANTS,Spravato,Spravato (requires additional clinical PA),Non-Preferred
+ENDOCRINOLOGY – SODIUM GLUCOSE CO-TRANSPORTER 2 INHIBITOR AND COMBINATIONS,Steglatro,Steglatro,Non-Preferred
+ENDOCRINOLOGY – DIPEPTIDYL PEPTIDASE-4 DPP4 INHIBITORS AND COMBINATIONS,Steglujan,Steglujan,Non-Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Stimufend prefilled syringe,Stimufend,Non-Preferred
+RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Stiolto Respimat,Stiolto Respimat,Preferred
+BUPRENORPHINE – CONTAINING INJECTABLE,Sublocade,Sublocade,Preferred
+OPIATE DEPENDENCE TREATMENTOPIATE DEPENDENCE TREATMENTBUPRENORPHINE – CONTAINING ORALBUPRENORPHINE – CONTAINING ORAL,Suboxone,Suboxone,Non-Preferred
+CENTRAL NERVOUS SYSTEM – TRIPTANS,Sumatriptan / Naproxen sodium tablet,sumatriptan/naproxen (generic for Treximet),Preferred
+ENDOCRINOLOGY – PITUITARY SUPPRESSIVE AGENTS - LHRH,Supprelin LA,Supprelin LA Kit,Non-Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Symbicort,Symbicort,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Symbyax,Symbyax,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Sympazan oral film,Sympazan,Non-Preferred
+ENDOCRINOLOGY – PITUITARY SUPPRESSIVE AGENTS - LHRH,Synarel,Synarel,Preferred
+ENDOCRINOLOGY – SODIUM GLUCOSE CO-TRANSPORTER 2 INHIBITOR AND COMBINATIONS,Synjardy,Synjardy,Preferred
+ENDOCRINOLOGY – SODIUM GLUCOSE CO-TRANSPORTER 2 INHIBITOR AND COMBINATIONS,Synjardy XR,Synjardy XR,Non-Preferred
+ATOPIC DERMATITIS TREATMENTS,Tacrolimus capsule,tacrolimus (generic for Protopic),Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Tadalafil,tadalafil (generic for Adcirca),Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Tadliq,Tadliq,Non-Preferred
+ANTIVIRALS – TREATMENTPROPHYLAXIS OF INFLUENZA,Tamiflu,Tamiflu,Non-Preferred
+DISEASE MODIFYING THERAPY,Tecfidera (Dimethyl Fumarate) DR capsule,Tecfidera,Non-Preferred
+CARDIOVASCULAR – ANGIOTENSIN II RECEPTOR BLOCKERS AND COMBINATIONS,Telmisartan,telmisartan (generic for Micardis),Preferred
+DISEASE MODIFYING THERAPY,Teriflunomide,teriflunomide (generic for Aubagio),Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Tetrabenazine,tetrabenazine (generic for Xenazine),Preferred
+ANTIBIOTICS – INHALED,Tobi,Tobi,Non-Preferred
+ANTIBIOTICS – INHALED,Tobi Podhaler,Tobi Podhaler,Preferred
+ANTIBIOTICS – INHALED,Tobramycin,tobramycin (generic for Bethkis),Preferred
+ANTICONVULSANTS – SECOND GENERATION,Topamax Sprinkle,Topamax sprinkle,Preferred
+ANTICONVULSANTS – SECOND GENERATION,Topiramate tablet,topiramate (generic for Topamax),Preferred
+ENDOCRINOLOGY – INSULINS: LONG ACTING,Toujeo Max Solostar,Toujeo Solostar/Max Solostar,Non-Preferred
+ENDOCRINOLOGY – INSULINS: LONG ACTING,Toujeo Solostar,Toujeo Solostar/Max Solostar,Non-Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Tracleer,Tracleer,Non-Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Tracleer tablet for oral suspension,Tracleer,Non-Preferred
+ENDOCRINOLOGY – DIPEPTIDYL PEPTIDASE-4 DPP4 INHIBITORS AND COMBINATIONS,Tradjenta,Tradjenta,Preferred
+CARDIOVASCULAR – ACE INHIBITORS AND COMBINATIONS,Trandolapril,trandolapril (generic for Mavik),Preferred
+RESPIRATORY – LONG ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Trelegy Ellipta,Trelegy Ellipta,Non-Preferred
+ENDOCRINOLOGY – INSULINS: LONG ACTING,"Tresiba FlexTouch, U-100",Tresiba FlexTouch pen,Non-Preferred
+ENDOCRINOLOGY – INSULINS: LONG ACTING,"Tresiba FlexTouch, U-200",Tresiba FlexTouch pen,Non-Preferred
+ENDOCRINOLOGY – INSULINS: LONG ACTING,Tresiba vial,Tresiba vial,Non-Preferred
+BEHAVIORAL HEALTH – NOVEL ANTIDEPRESSANTS,Trintellix,Trintellix,Non-Preferred
+ENDOCRINOLOGY – PITUITARY SUPPRESSIVE AGENTS - LHRH,Triptodur,Triptodur,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Trokendi XR ER capsule,Trokendi XR,Non-Preferred
+ENDOCRINOLOGY – GLUCAGON-LIKE PEPTIDE-1 GLP-1 AGONISTS AND COMBINATIONS,Trulicity,Trulicity,Preferred
+RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Tudorza Pressair,Tudorza Pressair,Preferred
+DISEASE MODIFYING THERAPY,Tysabri,Tysabri,Non-Preferred
+CENTRAL NERVOUS SYSTEM – CALCITONIN GENE-RELATED PEPTIDE INHIBITORS – MIGRAINE AND CLUSTER HEADACHE TREATMENT,Ubrelvy,Ubrelvy,Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Udenyca,Udenyca,Non-Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Uptravi tablet,Uptravi,Non-Preferred
+CARDIOVASCULAR – ORAL PULMONARY HYPERTENSION AGENTS,Uptravi vial,Uptravi,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Uzedy,Uzedy,Preferred
+CARDIOVASCULAR – ANGIOTENSIN II RECEPTOR BLOCKERS AND COMBINATIONS,Valsartan,valsartan (generic for Diovan),Preferred
+ANTICONVULSANTS – ACUTE TREATMENT,Valtoco,Valtoco,Preferred
+ANTIBIOTICS – VAGINAL,Vandazole,Vandazole,Non-Preferred
+ENDOCRINOLOGY – POTASSIUM BINDERS,Veltassa,Veltassa,Non-Preferred
+RESPIRATORY – SHORT ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Ventolin HFA,Ventolin HFA,Preferred
+OPHTHALMIC – ANTIINFLAMMATORYIMMUNOMODULATORS,Verkazia,Verkazia,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Versacloz,Versacloz,Non-Preferred
+OPHTHALMIC – ANTIINFLAMMATORYIMMUNOMODULATORS,Vevye ophthalmic solution,Vevye,Non-Preferred
+GASTROINTESTINAL – BOWEL DISORDERSGI MOTILITY CHRONIC,Viberzi,Viberzi,Non-Preferred
+ENDOCRINOLOGY – GLUCAGON-LIKE PEPTIDE-1 GLP-1 AGONISTS AND COMBINATIONS,Victoza,Victoza,Preferred
+ANTICONVULSANTS – SECOND GENERATION,Vigabatrin packet for oral solution,vigabatrin (generic for Sabril),Preferred
+ANTICONVULSANTS – SECOND GENERATION,Vigabatrin tablet,vigabatrin (generic for Sabril),Preferred
+BEHAVIORAL HEALTH – NOVEL ANTIDEPRESSANTS,Viibryd,Viibryd,Non-Preferred
+DUCHENNE MUSCULAR DYSTROPHY TREATMENTS,Viltepso,Viltepso,Preferred
+ANTICONVULSANTS – SECOND GENERATION,Vimpat,Vimpat,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Vraylar Adjunct Treatment of Major Depressive Disorder,Vraylar,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Vraylar Bipolar I Disorder,Vraylar,Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Vraylar Schizophrenia,Vraylar,Preferred
+TOPICAL – TOPICAL AGENTS FOR PSORIASIS,Vtama Atopic Dermatitis,Vtama,Non-Preferred
+TOPICAL – TOPICAL AGENTS FOR PSORIASIS,Vtama Plaque Psoriasis,Vtama,Non-Preferred
+CENTRAL NERVOUS SYSTEM – CALCITONIN GENE-RELATED PEPTIDE INHIBITORS – MIGRAINE AND CLUSTER HEADACHE PREVENTION,Vyepti,Vyepti,Non-Preferred
+DUCHENNE MUSCULAR DYSTROPHY TREATMENTS,Vyondys 53,Vyondys 53,Preferred
+BEHAVIORAL HEALTH – ANTIHYPERKINESIS,Vyvanse capsule,Vyvanse,Preferred
+BEHAVIORAL HEALTH – ANTIHYPERKINESIS,Vyvanse chewable tablet,Vyvanse,Preferred
+ENDOCRINOLOGY – WEIGHT MANAGEMENT,Wegovy,Wegovy,Preferred
+RESPIRATORY – INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Wixela,Wixela Inhub (generic for Advair Diskus),Preferred
+ANTIBIOTICS – VAGINAL,Xaciato,Xaciato,Non-Preferred
+HEMATOLOGIC – ANTICOAGULANTS,Xarelto,Xarelto,Preferred
+HEMATOLOGIC – ANTICOAGULANTS,Xarelto 2.5 mg,Xarelto,Preferred
+HEMATOLOGIC – ANTICOAGULANTS,Xarelto oral suspension,Xarelto suspension,Preferred
+HEMATOLOGIC – ANTICOAGULANTS,Xarelto starter pack,Xarelto dose pack,Preferred
+ANTICONVULSANTS – SECOND GENERATION,Xcopri,Xcopri,Non-Preferred
+CENTRAL NERVOUS SYSTEM – MOVEMENT DISORDERS,Xenazine,Xenazine,Non-Preferred
+ENDOCRINOLOGY – SODIUM GLUCOSE CO-TRANSPORTER 2 INHIBITOR AND COMBINATIONS,Xigduo XR,Xigduo XR,Preferred
+OPHTHALMIC – ANTIINFLAMMATORYIMMUNOMODULATORS,Xiidra ophthalmic solution,Xiidra,Preferred
+ANTIVIRALS – TREATMENTPROPHYLAXIS OF INFLUENZA,Xofluza,Xofluza,Non-Preferred
+RESPIRATORY – SHORT ACTING BETA ADRENERGICS AND COMBINATIONS – INHALERSNEBS,Xopenex HFA,Xopenex HFA,Preferred
+ENDOCRINOLOGY – GLUCAGON-LIKE PEPTIDE-1 GLP-1 AGONISTS AND COMBINATIONS,Xultophy,Xultophy,Non-Preferred
+RESPIRATORY – CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Yupelri inhalation solution,Yupelri,Non-Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Zanaflex capsule,Zanaflex,Non-Preferred
+MISCELLANEOUS – SKELETAL MUSCLE RELAXANTS,Zanaflex tablet,Zanaflex,Non-Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Zarxio,Zarxio,Non-Preferred
+CENTRAL NERVOUS SYSTEM – CALCITONIN GENE-RELATED PEPTIDE INHIBITORS – MIGRAINE AND CLUSTER HEADACHE PREVENTION,Zavzpret,Zavzpret,Non-Preferred
+GASTROINTESTINAL – PROTON PUMP INHIBITORS AND COMBINATIONS,Zegerid,Zegerid,Non-Preferred
+OPHTHALMICANTIHISTAMINES – ANTIHISTAMINES,Zerviate (Cetirizine) ophthalmic solution,Zerviate,Non-Preferred
+HEMATOLOGIC – COLONY STIMULATING FACTORS,Ziextenzo,Ziextenzo,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Ziprasidone,ziprasidone/IM (generic for Geodon),Preferred
+SPINAL MUSCULAR ATROPHY,Zolgensma,Zolgensma,Preferred
+BEHAVIORAL HEALTH – SEDATIVE HYPNOTICS,Zolpidem,zolpidem capsule,Preferred
+ANTICONVULSANTS – SECOND GENERATION,Zonisade,Zonisade,Non-Preferred
+ANTICONVULSANTS – SECOND GENERATION,Ztalmy,Ztalmy,Non-Preferred
+BEHAVIORAL HEALTH – NOVEL ANTIDEPRESSANTS,Zurzuvae,Zurzuvae,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Zyprexa,Zyprexa/IM/Relprevv/Zydis,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Zyprexa Relprevv,Zyprexa/IM/Relprevv/Zydis,Non-Preferred
+BEHAVIORAL HEALTH – ATYPICAL ANTIPSYCHOTICS AND COMBOS,Zyprexa Zydis,Zyprexa/IM/Relprevv/Zydis,Non-Preferred

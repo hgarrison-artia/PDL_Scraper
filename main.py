@@ -135,7 +135,7 @@ def select_pharmacy_or_clinical():
 
 def clear_all_states_pairings(process_type):
     """Clear old drug pairings for all states"""
-    states = ["AK", "AL", "CT", "FL", "GA", "IL", "MS", "TN", "NH", "UT"]
+    states = ["AK", "AL", "CT", "FL", "GA", "IA", "IL", "MS", "TN", "NC", "NH", "UT"]
     for state in states:
         data_manager = DataManager(state, process_type)
         data_manager.clear_old_drug_pairings()
@@ -207,7 +207,7 @@ def select_state():
     state_var = tk.StringVar(value="AK")
     
     # List of available states
-    states = ["AK", "AL", "CT", "FL", "GA", "IL", "LA", "MS", "TN", "NH"]
+    states = ["AK", "AL", "CT", "FL", "GA", "IA", "IL", "MS", "TN", "NC", "NH", "UT"]
     
     # Create radio buttons for each state
     for st in states:

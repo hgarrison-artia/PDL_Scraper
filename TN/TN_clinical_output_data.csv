@@ -1,0 +1,647 @@
+therapeutic_class,capsule_name,pdl_name,status
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Abilify Asimtufii,Abilify Asimtufii,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Abilify Maintena,Abilify Maintena,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Abilify MyCite,Abilify MyCite,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Abilify tablet,Abilify tablets,Non-Preferred
+"DERMATOLOGICS : Retinoids, Oral",Absorica LD capsule,Absorica &  Absorica LD,Non-Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Accu-Chek Guide Test Strips 100 ct,Accu-Chek Meters: Aviva & Compact Plus,Non-Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Accu-Chek Guide Test Strips 50 ct,Accu-Chek Meters: Aviva & Compact Plus,Non-Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Adcirca,Adcirca,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Adderall XR ER capsule,Adderall XR,Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Adempas,Adempas,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Admelog,Admelog SoloStar,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Admelog SoloStar,Admelog SoloStar,Non-Preferred
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Advair Diskus,Advair Diskus,Preferred
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Advair HFA,Advair HFA,Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: MTOR,Afinitor Disperz,Afinitor Disperz,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Aimovig,Aimovig,Preferred
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Airduo Respiclick,AirDuo RespiClick,Non-Preferred
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Airsupra HFA,Airsupra,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Ajovy,Ajovy autoinjector and prefilled syringe,Non-Preferred
+ONCOLOGY AGENTS : Hormonal Agents: Anti-Androgens Second Generation,Akeega,Akeega,Non-Preferred
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Albuterol HFA generic PROAIR,albuterol HFA,Preferred
+OPHTHALMICS : Ophthalmic Alpha-2 Agonists,Alphagan P 0.001,Alphagan P,Preferred
+RESPIRATORY : Inhaled: Steroids,Alvesco,Alvesco,Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Alyq,Alyq,Preferred
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Ambien,Ambien,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Ambien CR,Ambien CR,Non-Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Ambrisentan,ambrisentan,Preferred
+CARDIOVASCULAR : Calcium Channel Blockers (DHP),Amlodipine tablet,amlodipine,Preferred
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Amrix,Amrix ,Non-Preferred
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Annovera,Annovera,Non-Preferred
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Anoro Ellipta,Anoro Ellipta,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Apidra,Apidra SoloStar,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Apidra SoloStar,Apidra SoloStar,Preferred
+CENTRAL NERVOUS SYSTEM : Antidepressants: New Generation,Aplenzin,Aplenzin,Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Aptiom,Aptiom,Preferred
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Aptivus,Aptivus,Preferred
+RARE CONDITIONS : Lysosomal Storage Disease,Aqneursa oral suspension,Aqneursa,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,Aranesp,Aranesp,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Aricept,Aricept,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Aricept 23 mg,Aricept 23 mg,Non-Preferred
+"ANTI-INFECTIVES : Antibiotics: Aminoglycosides, Oral",Arikayce,Arikayce,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Aripiprazole ODT,aripiprazole ODT,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Aripiprazole oral solution,aripiprazole solution,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Aripiprazole tablet,aripiprazole tablets,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Aristada,Aristada,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Aristada Initio,Aristada Initio,Preferred
+RESPIRATORY : Inhaled: Steroids,Arnuity Ellipta,Arnuity Ellipta,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Asenapine,asenapine,Non-Preferred
+RESPIRATORY : Inhaled: Steroids,Asmanex HFA,Asmanex HFA,Preferred
+RESPIRATORY : Inhaled: Steroids,Asmanex Twisthaler,Asmanex Twisthaler,Preferred
+IMMUNOLOGICS : Immunosuppressants,Astagraf XL ER capsule,Astagraf XL,Non-Preferred
+RARE CONDITIONS : Transthyretin Amyloidosis Agents,Attruby tablet therapy pack,Attruby,Non-Preferred
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Aubagio tablet,Aubagio,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: Tropomyosin Receptor Kinase (TRK),Augtyro capsule,Augtyro,Non-Preferred
+RENAL AND GENITOURINARY : Phosphorus Depletors,Auryxia,Auryxia,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Austedo Huntington’s Disease,Austedo,Preferred
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Austedo Tardive Dyskinesia,Austedo,Preferred
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Austedo XR Huntington's Disease,Austedo XR,Preferred
+CENTRAL NERVOUS SYSTEM : Movement Disorders,"Austedo XR Huntington's Disease, titration pack",Austedo XR,Preferred
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Austedo XR Tardive Dyskinesia,Austedo XR,Preferred
+CENTRAL NERVOUS SYSTEM : Movement Disorders,"Austedo XR Tardive Dyskinesia, titration pack",Austedo XR,Preferred
+CENTRAL NERVOUS SYSTEM : Antidepressants: New Generation,Auvelity,Auvelity,Non-Preferred
+RESPIRATORY : Anaphylaxis Therapy Agents,Auvi-Q 0.1 mg,Auvi-Q,Non-Preferred
+RESPIRATORY : Anaphylaxis Therapy Agents,Auvi-Q 0.15 mg,Auvi-Q,Non-Preferred
+RESPIRATORY : Anaphylaxis Therapy Agents,Auvi-Q 0.3 mg,Auvi-Q,Non-Preferred
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",Avonex auto-injector,Avonex,Preferred
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",Avonex prefilled syringe,Avonex,Preferred
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Azstarys,Azstarys,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Baclofen oral solution,baclofen solution,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Baclofen oral suspension,baclofen suspension,Non-Preferred
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Bafiertam,Bafiertam,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: FGFR,Balversa,Balversa,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Banzel oral suspension,Banzel suspension,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Banzel tablet,Banzel tablets,Non-Preferred
+ANTI-INFECTIVES : Antivirals: Hepatitis B,Baraclude oral solution,Baraclude solution,Non-Preferred
+ANTI-INFECTIVES : Antivirals: Hepatitis B,Baraclude tablet,Baraclude tablets,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Long-Acting Insulins,Basaglar Kwikpen,Basaglar KwikPen,Non-Preferred
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable",Bethkis,Bethkis,Preferred
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Bevespi Aerosphere,Bevespi Aerosphere,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Biktarvy,Biktarvy,Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Bosentan,bosentan,Preferred
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Breo Ellipta,Breo Ellipta,Non-Preferred
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Breyna,Breyna,Non-Preferred
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Breztri Aerosphere,Breztri Aerosphere,Non-Preferred
+CARDIOVASCULAR : Platelet Inhibitors,Brilinta,Brilinta,Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Briviact oral solution,Briviact solution,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Briviact tablet,Briviact tablets,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: BTK,Brukinsa,Brukinsa,Preferred
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Budesonide / Formoterol authorized generic Symbicort,budesonide/ formoterol,Non-Preferred
+RESPIRATORY : Inhaled: Steroids,Budesonide respules (inhalation suspension),budesonide suspension,Preferred
+RARE CONDITIONS : IBAT (Ileal Bile Acid Transporter) Inhibitors,Bylvay,Bylvay,Non-Preferred
+CARDIOVASCULAR : Platelet Inhibitors,Cablivi,Cablivi,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: BTK,Calquence,Calquence,Preferred
+"CARDIOVASCULAR : Cardiac Agents, Miscellaneous",Camzyos,Camzyos,Non-Preferred
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Candesartan,candesartan,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Caplyta,Caplyta,Non-Preferred
+CARDIOVASCULAR : ACE Inhibitors (AEIs),Captopril,captopril,Non-Preferred
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable",Cayston,Cayston,Non-Preferred
+DIABETIC SUPPLIES : Insulin Management Systems,CeQur Simplicity,Cequr Simplicity,Preferred
+OPHTHALMICS : Dry Eye Disease Agents,Cequa,Cequa,Non-Preferred
+RARE CONDITIONS : Lysosomal Storage Disease,Cerdelga,Cerdelga,Non-Preferred
+GASTROINTESTINAL : Gallstone Solubilizing Agents,Cholbam capsule,Cholbam,Non-Preferred
+"ANTI-INFECTIVES : Antibiotics, Vaginal",Cleocin 2% cream,Cleocin cream,Preferred
+"ANTI-INFECTIVES : Antibiotics, Vaginal",Clindamycin 2% Cream,clindamycin phos 2% cream,Non-Preferred
+"ANTI-INFECTIVES : Antibiotics, Vaginal",Clindesse 2% prefilled applicator cream,Clindesse vaginal cream,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Clobazam oral suspension,clobazam suspension,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Clobazam tablet,clobazam tablets,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Clozapine ODT,clozapine ODT,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Clozapine tablet,clozapine,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Clozaril,Clozaril,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Cobenfy capsule,Cobenfy,Non-Preferred
+OPHTHALMICS : Glaucoma Combinations,Combigan,Combigan,Preferred
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Combivent Respimat inhalation aerosol solution,Combivent Respimat,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Complera,Complera,Preferred
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Concerta ER,Concerta,Preferred
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",Copaxone 20 mg,Copaxone,Preferred
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",Copaxone 40 mg,Copaxone,Preferred
+OPHTHALMICS : Dry Eye Disease Agents,Cyclosporine ophthalmic emulsion,cyclosporine emulsion 0.05%,Non-Preferred
+RESPIRATORY : Phosphodiesterase 4 (PDE-4) Inhibitors,Daliresp,Daliresp,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Dapagliflozin,dapagliflozin,Non-Preferred
+RARE CONDITIONS : Rett Syndrome,Daybue oral solution,Daybue,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Descovy,Descovy,Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,DexCom G6 Receiver,Dexcom G6; Dexcom G7,Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,DexCom G6 Sensor,Dexcom G6; Dexcom G7,Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,DexCom G7 Receiver,Dexcom G6; Dexcom G7,Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,DexCom G7 Sensor,Dexcom G6; Dexcom G7,Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Dexcom G6 Transmitter,Dexcom G6; Dexcom G7,Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Diacomit capsule,Diacomit,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Diacomit packet for oral suspension,Diacomit,Non-Preferred
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Dimethyl Fumarate,dimethyl fumarate,Preferred
+RARE CONDITIONS : Fatty Acid Oxidation Disorder (FAOD),Dojolvi,Dojolvi,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Donepezil ODT,donepezil ODT,Preferred
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,"Donepezil tablet, 10 mg",donepezil (excluding 23 mg),Preferred
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,"Donepezil tablet, 23 mg",donepezil 23 mg,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,"Donepezil tablet, 5 mg",donepezil (excluding 23 mg),Preferred
+"CARDIOVASCULAR : Thrombopoietin Agonists, Orals",Doptelet,Doptelet,Non-Preferred
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Duaklir Pressair,Duaklir Pressair,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Estrogen/SERM Combinations,Duavee tablet,Duavee,Non-Preferred
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Dulera,Dulera,Preferred
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Duloxetine 20 mg,"duloxetine 20,30, & 60 mg",Preferred
+CENTRAL NERVOUS SYSTEM : Antidepressants: SNRIs,Duloxetine 30 mg,"duloxetine 20, 30, & 60 mg",Preferred
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Duloxetine 40 mg,duloxetine 40 mg,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antidepressants: SNRIs,Duloxetine 60 mg,"duloxetine 20, 30, & 60 mg",Preferred
+RARE CONDITIONS : Duchenne Muscular Dystrophy (DMD),Duvyzat oral suspension,Duvyzat,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Dyanavel XR,Dyanavel XR,Non-Preferred
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Edarbi,Edarbi™,Non-Preferred
+CARDIOVASCULAR : ARB + Diuretic,Edarbyclor,Edarbyclor,Non-Preferred
+"CARDIOVASCULAR : Anticoagulants, Oral",Eliquis,Eliquis,Preferred
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Eluryng,Eluryng,Non-Preferred
+RARE CONDITIONS : Duchenne Muscular Dystrophy (DMD),Emflaza oral suspension,Emflaza,Preferred
+RARE CONDITIONS : Duchenne Muscular Dystrophy (DMD),Emflaza tablet,Emflaza,Preferred
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Emgality 100 mg,Emgality syringe & pen,Preferred
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Emgality 120 mg,Emgality syringe & pen,Preferred
+RARE CONDITIONS : Paroxysmal Nocturnal Hemoglobinuria (PNH),Empaveli,Empaveli,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTIs,Emtriva capsule,Emtriva,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTIs,Emtriva oral solution,Emtriva,Non-Preferred
+CARDIOVASCULAR : ACE Inhibitors (AEIs),Enalapril oral suspension,enalapril suspension,Non-Preferred
+RARE CONDITIONS : Sickle Cell Disease,Endari,Endari,Non-Preferred
+ANTI-INFECTIVES : Antivirals: Hepatitis B,Entecavir,entecavir,Preferred
+IMMUNOLOGICS : Immunosuppressants,Envarsus XR,Envarsus XR,Non-Preferred
+"ENDOCRINE/METABOLIC AGENTS : Corticosteroids, Oral",Eohilia oral suspension,Eohilia,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Epidiolex,Epidiolex,Preferred
+RESPIRATORY : Anaphylaxis Therapy Agents,Epinephrine (Generic Adrenaclick) 0.15mg,epinephrine auto injector,Preferred
+RESPIRATORY : Anaphylaxis Therapy Agents,Epinephrine (Generic Adrenaclick) 0.3mg,epinephrine auto injector,Preferred
+RESPIRATORY : Anaphylaxis Therapy Agents,Epinephrine (Mylan Ag Epipen And Jr) 0.15mg Mylan's EpiPen Jr AG,epinephrine auto injector,Preferred
+RESPIRATORY : Anaphylaxis Therapy Agents,Epinephrine (Mylan Ag Epipen And Jr) 0.3mg Mylan's EpiPen AG,epinephrine auto injector,Preferred
+RESPIRATORY : Anaphylaxis Therapy Agents,Epipen,EpiPen,Non-Preferred
+RESPIRATORY : Anaphylaxis Therapy Agents,Epipen Jr.,EpiPen-Jr,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTIs,Epivir,Epivir,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTIs,Epivir HBV oral solution,Epivir,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTIs,Epivir HBV tablet,Epivir,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,Epogen,Epogen,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Eprontia,Eprontia solution,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Epzicom,Epzicom,Non-Preferred
+ONCOLOGY AGENTS : Hormonal Agents: Anti-Androgens Second Generation,Erleada,Erleada,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Erzofri prefilled syringe,Erzofri,Preferred
+CARDIOVASCULAR : Pulmonary Fibrosis Agents,Esbriet,Esbriet,Non-Preferred
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Etonogestrel / Ethinyl Estradiol,Etonogestrel-ethinyl estradiol vaginal ring,Non-Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Eversense,Eversense Mis,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Evotaz,Evotaz,Preferred
+RARE CONDITIONS : Spinal Muscular Atrophy (SMA),Evrysdi,Evrysdi,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Exelon,Exelon,Preferred
+OPHTHALMICS : Ophthalmic Steroids,Eysuvis ophthalmic suspension,Eysuvis,Non-Preferred
+RARE CONDITIONS : IgA Nephropathy (IgAN),Fabhalta,Fabhalta,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Fanapt,Fanapt,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Farxiga,Farxiga,Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Felbatol oral suspension,Felbatol and felbamate,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Felbatol tablet,Felbatol and felbamate,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonists / LHRH Analogs,Fensolvi,Fensolvi,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antidepressants: SNRIs,Fetzima,Fetzima,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Fiasp,Fiasp FlexTouch,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Fiasp FlexTouch,Fiasp FlexTouch,Non-Preferred
+RARE CONDITIONS : IgA Nephropathy (IgAN),Filspari,Filspari,Non-Preferred
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Fingolimod capsule,fingolimod,Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Fintepla,Fintepla,Non-Preferred
+OPHTHALMICS : Ophthalmic Steroids,Flarex ophthalmic suspension,Flarex,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Fleqsuvy,Fleqsuvy,Non-Preferred
+RESPIRATORY : Inhaled: Steroids,Flovent Diskus,Flovent Diskus,Preferred
+RESPIRATORY : Inhaled: Steroids,Flovent HFA,Flovent HFA,Preferred
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Fluticasone / Salmeterol generic Advair Diskus,fluticasone/ salmeterol aerosol,Preferred
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Fluticasone / Salmeterol generic Advair HFA,fluticasone/ salmeterol aerosol,Preferred
+ENDOCRINE/METABOLIC AGENTS : Bone: Parathyroid Hormone,Forteo,Forteo,Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),FreeStyle InsuLinx Test Strips 100 ct,"FreeStyle Meters:  Lite, Freedom Lite, InsuLinx",Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),FreeStyle InsuLinx Test Strips 50 ct,"FreeStyle Meters:  Lite, Freedom Lite, InsuLinx",Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,FreeStyle Libre 14 Day Reader,Freestyle; Freestyle Libre 2 Freestyle Libre 3,Non-Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,FreeStyle Libre 14 Day Sensor Kit,Freestyle; Freestyle Libre 2 Freestyle Libre 3,Non-Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,FreeStyle Libre 2 Reader,Freestyle; Freestyle Libre 2 Freestyle Libre 3,Non-Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,FreeStyle Libre 2 Sensor,Freestyle; Freestyle Libre 2 Freestyle Libre 3,Non-Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,FreeStyle Libre 3 Sensor,Freestyle; Freestyle Libre 2 Freestyle Libre 3,Non-Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),FreeStyle Lite Test Strips 100 ct,"FreeStyle Meters:  Lite, Freedom Lite, InsuLinx",Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),FreeStyle Lite Test Strips 50 ct,"FreeStyle Meters:  Lite, Freedom Lite, InsuLinx",Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),FreeStyle Test Strips 100 ct,"Freestyle Test Strips: Lite, InsuLinx",Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),FreeStyle Test Strips 50 ct,"Freestyle Test Strips: Lite, InsuLinx",Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Freestyle Freedom Lite Meter,"FreeStyle Meters:  Lite, Freedom Lite, InsuLinx",Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Freestyle Insulinx Glucose System,"FreeStyle Meters:  Lite, Freedom Lite, InsuLinx",Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Freestyle Libre,Freestyle; Freestyle Libre 2 Freestyle Libre 3,Non-Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Freestyle Libre 14-Day,Freestyle; Freestyle Libre 2 Freestyle Libre 3,Non-Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Freestyle Libre 2,Freestyle; Freestyle Libre 2 Freestyle Libre 3,Non-Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Freestyle Libre 2 Plus,Freestyle Libre Plus (2 and 3),Non-Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Freestyle Libre 3 Plus,Freestyle Libre Plus (2 and 3),Non-Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Freestyle Libre 3 Reader,Freestyle; Freestyle Libre 2 Freestyle Libre 3,Non-Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Freestyle Lite Meter,"FreeStyle Meters:  Lite, Freedom Lite, InsuLinx",Preferred
+"ONCOLOGY AGENTS : Colorectal Cancer Agents, Miscellaneous",Fruzaqla,Fruzaqla,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV Fusion Inhibitors,Fuzeon,Fuzeon,Preferred
+RARE CONDITIONS : Lysosomal Storage Disease,Galafold,Galafold,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Galantamine ER,galantamine ER,Non-Preferred
+RARE CONDITIONS : Glucagon-Like Peptide-2 (GLP-2) Analog,Gattex vial,Gattex,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: RET,Gavreto,Gavreto,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Genotropin,Genotropin,Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Genvoya,Genvoya,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Geodon,Geodon,Non-Preferred
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Gilenya capsule,Gilenya,Non-Preferred
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",Glatiramer Acetate prefilled syringe,glatiramer,Non-Preferred
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",Glatopa (Glatiramer Acetate) prefilled syringe,Glatopa,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Glyxambi,Glyxambi,Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: BRAF Kinase & MEK,Gomekli capsule,Gomekli,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: BRAF Kinase & MEK,Gomekli soluble tablet,Gomekli,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Gralise,Gralise,Non-Preferred
+IMMUNOLOGICS : Allergen Specific Immunotherapy,Grastek,Grastek,Non-Preferred
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Guardian,Guardian CGM supplies,Non-Preferred
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Harvoni,Harvoni tablet,Preferred
+CARDIOVASCULAR : Beta Blockers,Hemangeol,Hemangeol,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Horizant,Horizant,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Humalog Junior KwikPen,Humalog Jr Kwik Pen,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,"Humalog KwikPen, U-100",Humalog KwikPen,Preferred
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Humatrope,Humatrope,Non-Preferred
+OPHTHALMICS : Ophthalmic NSAIDs ,Ilevro ophthalmic suspension,Ilevro,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: BTK,Imbruvica,Imbruvica suspension,Non-Preferred
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Incruse Ellipta,Incruse Ellipta,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Movement Disorders,"Ingrezza Huntington's Disease, sprinkle capsule",Ingrezza,Preferred
+CENTRAL NERVOUS SYSTEM : Movement Disorders,"Ingrezza Huntington's Disease, titration pack",Ingrezza,Preferred
+CENTRAL NERVOUS SYSTEM : Movement Disorders,"Ingrezza Tardive Dyskinesia, sprinkle capsule",Ingrezza,Preferred
+CENTRAL NERVOUS SYSTEM : Movement Disorders,"Ingrezza Tardive Dyskinesia, titration pack",Ingrezza,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Insulin Lispro,insulin lispro KwikPen,Preferred
+ANTI-INFECTIVES : Antivirals: HIV NNRTIs,Intelence,Intelence,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Invega ER,Invega,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Invega Hafyera,Invega Hafyera,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Invega Sustenna,Invega Sustenna,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Invega Trinza,Invega Trinza,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Invokamet,Invokamet,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Invokamet XR,Invokamet XR,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Invokana,Invokana,Preferred
+OPHTHALMICS : Ophthalmic Alpha-2 Agonists,Iopidine ophthalmic solution,Iopidine,Non-Preferred
+GASTROINTESTINAL : Gallstone Solubilizing Agents,Iqirvo tablet,Iqirvo,Non-Preferred
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Irbesartan,irbesartan,Preferred
+ANTI-INFECTIVES : Antivirals: HIV Integrase Inhibitors,Isentress,Isentress,Preferred
+ONCOLOGY AGENTS : Rare/Miscellaneous Oncology Conditions,Iwilfin,Iwilfin,Non-Preferred
+ONCOLOGY AGENTS : Myelofibrosis,Jakafi,Jakafi,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: DPP-4 Inhibitors and Combinations,Janumet,Janumet,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: DPP-4 Inhibitors and Combinations,Januvia,Januvia,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Jardiance,Jardiance,Preferred
+RARE CONDITIONS : Phenylketonuria (PKU),Javygtor packet for oral solution,Javygtor,Non-Preferred
+RARE CONDITIONS : Phenylketonuria (PKU),Javygtor tablet,Javygtor,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: DPP-4 Inhibitors and Combinations,Jentadueto,Jentadueto,Preferred
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Jornay PM,Jornay PM,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Kaletra,Kaletra,Non-Preferred
+"RESPIRATORY : Cystic Fibrosis Agents, Oral",Kalydeco,Kalydeco,Non-Preferred
+CARDIOVASCULAR : Diuretics: Potassium Sparing,Kerendia,Kerendia,Non-Preferred
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",Kesimpta,Kesimpta,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: CDK,Kisqali,Kisqali,Preferred
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable",Kitabis Pak,Kitabis Pak,Preferred
+ANALGESICS : Naloxone Products,Kloxxado,Kloxxado,Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: BRAF Kinase & MEK,Koselugo,Koselugo,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: KRAS,Krazati,Krazati,Non-Preferred
+RARE CONDITIONS : Phenylketonuria (PKU),Kuvan packet for oral solution,Kuvan,Non-Preferred
+RARE CONDITIONS : Phenylketonuria (PKU),Kuvan tablet,Kuvan,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Lamictal ODT,Lamictal ODT,Non-Preferred
+GASTROINTESTINAL : Combination Products for H. pylori,Lansoprazole / Amoxicillin / Clarithromycin,lansoprazole/amox/ clarithromycin,Non-Preferred
+OPHTHALMICS : Ophthalmic Anti-Allergics,Lastacaft,Lastacaft,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Latuda,Latuda,Non-Preferred
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Ledipasvir / Sofosbuvir,ledipasvir/sofosbuvir,Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Letairis,Letairis,Non-Preferred
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Levalbuterol Tartrate inhalation aerosol solution,levalbuterol HFA,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Libervant buccal film,Libervant,Preferred
+GASTROINTESTINAL : Agents for Chronic Constipation,Linzess,Linzess,Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Liqrev,Liqrev,Non-Preferred
+RARE CONDITIONS : IBAT (Ileal Bile Acid Transporter) Inhibitors,Livmarli,Livmarli,Non-Preferred
+VITAMINS/ELECTROLYTES : Potassium Depletors,Lokelma,Lokelma,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: ALK,Lorbrena,Lorbrena,Preferred
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Losartan,losartan,Preferred
+ANALGESICS : Agents for Dependency,Lucemyra,Lucemyra,Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: KRAS,Lumakras,Lumakras,Non-Preferred
+OPHTHALMICS : Ophthalmic Prostaglandin Agonists,Lumigan 2.5 mL,Lumigan,Preferred
+OPHTHALMICS : Ophthalmic Prostaglandin Agonists,Lumigan 5 mL,Lumigan,Preferred
+OPHTHALMICS : Ophthalmic Prostaglandin Agonists,Lumigan 7.5 mL,Lumigan,Preferred
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonists / LHRH Analogs,Lupron Depot-Ped 1-Month,Lupron Ped-Depot,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonists / LHRH Analogs,Lupron Depot-Ped 3-Month,Lupron Ped-Depot,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonists / LHRH Analogs,Lupron Depot-Ped 6-Month,Lupron Ped-Depot,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Lurasidone,lurasidone,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Lybalvi,Lybalvi,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: PARP Inhibitors,Lynparza,Lynparza,Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Lyrica capsule,Lyrica capsules,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Lyrica oral solution,Lyrica solution,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,"Lyumjev KwikPen, U-100",Lyumjev KwikPen,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,"Lyumjev KwikPen, U-200",Lyumjev KwikPen,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Lyumjev vial,Lyumjev vial,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Lyvispah,Lyvispah,Non-Preferred
+OPHTHALMICS : Ophthalmic Steroids,Maxidex ophthalmic suspension,Maxidex,Non-Preferred
+OPHTHALMICS : Ophthalmic Antibiotic/Steroid Combos,Maxitrol ophthalmic ointment,Maxitrol,Non-Preferred
+OPHTHALMICS : Ophthalmic Antibiotic/Steroid Combos,Maxitrol ophthalmic suspension,Maxitrol,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: NMDA Receptor Agent,Memantine XR,memantine ER,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: NMDA Receptor Agent,Memantine oral solution,memantine solution,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: NMDA Receptor Agent,Memantine tablet,memantine tablets,Preferred
+CARDIOVASCULAR : Beta Blockers,Metoprolol Succinate ER tablet,metoprolol succinate ER,Preferred
+"ANTI-INFECTIVES : Antibiotics, Vaginal",Metronidazole 0.75% Gel,metronidazole 0.75% vaginal gel,Preferred
+RARE CONDITIONS : Lysosomal Storage Disease,Miplyffa capsule,Miplyffa,Non-Preferred
+CARDIOVASCULAR : ACE Inhibitors (AEIs),Moexipril,moexipril,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Motpoly XR,Motpoly XR,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Mounjaro,Mounjaro,Non-Preferred
+"CARDIOVASCULAR : Thrombopoietin Agonists, Orals",Mulpleta,Mulpleta,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonist/Antagonist & LNRH Analogs,Myfembree Endometriosis,Myfembree,Preferred
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonist/Antagonist & LNRH Analogs,Myfembree Uterine Fibroids,Myfembree,Preferred
+ANALGESICS : Naloxone Products,Naloxone nasal spray,naloxone nasal spray (Rx & OTC),Preferred
+ANALGESICS : Naloxone Products,Naloxone vial,naloxone injection,Preferred
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: NMDA Receptor Agent,Namzaric,Namzaric,Non-Preferred
+ANALGESICS : Naloxone Products,Narcan,Narcan,Preferred
+DERMATOLOGICS : Pediculocides/Scabicides,Natroba,Natroba,Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Nayzilam,Nayzilam,Preferred
+RESPIRATORY : Anaphylaxis Therapy Agents,Neffy nasal solution,Neffy,Non-Preferred
+OPHTHALMICS : Ophthalmic NSAIDs ,Nevanac ophthalmic suspension,Nevanac,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Ngenla,Ngenla,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Norditropin,Norditropin,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Norgesic Forte,Norgesic Forte,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV Pharmacokinetic Enhancers,Norvir packet,Norvir pack,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV Pharmacokinetic Enhancers,Norvir tablet,Norvir tablet,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Novolog,Novolog FlexPen,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Mixed Insulins,Novolog 70/30,Novolog Mix 70/30 FlexPen,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Mixed Insulins,Novolog 70/30 FlexPen,Novolog Mix 70/30 FlexPen,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Novolog FlexPen,Novolog FlexPen,Non-Preferred
+ONCOLOGY AGENTS : Hormonal Agents: Anti-Androgens Second Generation,Nubeqa,Nubeqa,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Nuplazid,Nuplazid,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Nurtec ODT Acute Treatment,Nurtec ODT,Preferred
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Nurtec ODT Migraine Prophylaxis,Nurtec ODT,Preferred
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Nutropin AQ,Nutropin AQ,Non-Preferred
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Nuvaring,Nuvaring,Preferred
+"ANTI-INFECTIVES : Antibiotics, Vaginal",Nuvessa,Nuvessa,Preferred
+IMMUNOLOGICS : Allergen Specific Immunotherapy,Odactra,Odactra,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Odefsey,Odefsey,Preferred
+CARDIOVASCULAR : Pulmonary Fibrosis Agents,Ofev,Ofev,Preferred
+ONCOLOGY AGENTS : Rare/Miscellaneous Oncology Conditions,Ogsiveo,Ogsiveo,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: BRAF Kinase & MEK,Ojemda,Ojemda,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotic/SSRI Combos,Olanzapine And Fluoxetine,fluoxetine/ olanzapine,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Olanzapine ODT,olanzapine ODT,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Olanzapine tablet,olanzapine tablets,Preferred
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Olmesartan,olmesartan,Preferred
+RARE CONDITIONS : Urea Cycle Disorders,Olpruva,Olpruva,Non-Preferred
+GASTROINTESTINAL : Combination Products for H. pylori,Omeclamox-Pak,Omeclamox-Pak,Non-Preferred
+DIABETIC SUPPLIES : Insulin Management Systems,Omnipod 5,Omnipod 5 Omnipod 5 G7 Omnipod Dash,Preferred
+DIABETIC SUPPLIES : Insulin Management Systems,Omnipod 5,Omnipod 5 Omnipod 5 G7 Omnipod Dash,Preferred
+DIABETIC SUPPLIES : Insulin Management Systems,Omnipod Dash,Omnipod 5 Omnipod 5 G7 Omnipod Dash,Preferred
+DIABETIC SUPPLIES : Insulin Management Systems,Omnipod Dash,Omnipod 5 Omnipod 5 G7 Omnipod Dash,Preferred
+DIABETIC SUPPLIES : Insulin Management Systems,Omnipod Go,Omnipod Go,Preferred
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Omnitrope,Omnitrope,Non-Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),One Touch Ultra 2 System,"OneTouch Meters: UltraMini, Ping, Ultra-2, UltraLink, UltraSmart",Non-Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),One Touch Ultra Test Strips 100 ct,"OneTouch Meters: UltraMini, Ping, Ultra-2, UltraLink, UltraSmart",Non-Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),One Touch Ultra Test Strips 25 ct,"OneTouch Meters: UltraMini, Ping, Ultra-2, UltraLink, UltraSmart",Non-Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),One Touch Ultra Test Strips 50 ct,"OneTouch Meters: UltraMini, Ping, Ultra-2, UltraLink, UltraSmart",Non-Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),One Touch Verio,All other OneTouch diabetic supplies,Non-Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),One Touch Verio Test Strips 100 ct,All other OneTouch diabetic supplies,Non-Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),One Touch Verio Test Strips 25 ct,All other OneTouch diabetic supplies,Non-Preferred
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Onetouch Verio Flex System,All other OneTouch diabetic supplies,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Onfi oral suspension,Onfi,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Onfi tablet,Onfi,Non-Preferred
+ONCOLOGY AGENTS : Acute Myeloid Leukemia (AML) Agents,Onureg,Onureg,Non-Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Opsumit,Opsumit,Non-Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Opsynvi tablet,Opsynvi,Non-Preferred
+ANALGESICS : Naloxone Products,Opvee (Nalmefene),Opvee,Preferred
+"DERMATOLOGICS : Atopic Dermatitis, Topical","Opzelura cream, Atopic Dermatitis",Opzelura,Non-Preferred
+"DERMATOLOGICS : Atopic Dermatitis, Topical","Opzelura cream, Nonsegmental Vitiligo",Opzelura,Non-Preferred
+IMMUNOLOGICS : Allergen Specific Immunotherapy,Oralair,Oralair,Non-Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Orenitram ER,Orenitram,Non-Preferred
+RARE CONDITIONS : Tyrosinemia Type 1,Orfadin,Orfadin suspension,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonist/Antagonist & LNRH Analogs,Oriahnn,Oriahnn,Preferred
+ENDOCRINE/METABOLIC AGENTS : GnRH Agonist/Antagonist & LNRH Analogs,Orilissa,Orilissa,Preferred
+RARE CONDITIONS : Hereditary Angioedema (HAE) Agents,Orladeyo,Orladeyo,Non-Preferred
+ANTI-INFECTIVES : Antivirals: Influenza,Oseltamivir,oseltamivir capsules and suspension,Preferred
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Ozempic,Ozempic,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Paliperidone ER,paliperidone ER,Preferred
+RARE CONDITIONS : Phenylketonuria (PKU),Palynziq prefilled syringe,Palynziq,Preferred
+CENTRAL NERVOUS SYSTEM : Antidepressants: SSRI,"Paroxetine 7.5 mg, IR capsule",paroxetine 7.5 mg,Non-Preferred
+ANTI-INFECTIVES : Antivirals: COVID Treatment,"Paxlovid tablet therapy pack, 150 mg / 100 mg",Paxlovid,Preferred
+ANTI-INFECTIVES : Antivirals: COVID Treatment,"Paxlovid tablet therapy pack, 300 mg / 100 mg",Paxlovid,Preferred
+CARDIOVASCULAR : ACE Inhibitors (AEIs),Perindopril,perindopril,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Perseris,Perseris,Preferred
+RARE CONDITIONS : Urea Cycle Disorders,Pheburane,Pheburane,Preferred
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Phexxi,Phexxi,Non-Preferred
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Ponvory starter pack,Ponvory,Non-Preferred
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Ponvory tablet,Ponvory,Non-Preferred
+"CARDIOVASCULAR : Anticoagulants, Oral",Pradaxa,Pradaxa caps,Preferred
+CARDIOVASCULAR : Lipotropics: Antihyperlipidemic Agents,Praluent Cardiovascular disease (CVD) Prevention,Praluent,Preferred
+CARDIOVASCULAR : Lipotropics: Antihyperlipidemic Agents,Praluent Heterozygous familial hypercholesterolemia (HeFH) or homozygous familial hypercholesterolemia (HoFH),Praluent,Preferred
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Prezcobix,Prezcobix,Preferred
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Prezista oral suspension,Prezista suspension,Preferred
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Prezista tablet,Prezista tabs,Non-Preferred
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Proair Respiclick,ProAir RespiClick,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Hematopoietic Agents,Procrit,Procrit,Non-Preferred
+IMMUNOLOGICS : Immunosuppressants,Prograf capsule,Prograf capsules,Non-Preferred
+IMMUNOLOGICS : Immunosuppressants,Prograf packet for oral suspension,Prograf packets,Non-Preferred
+"CARDIOVASCULAR : Thrombopoietin Agonists, Orals",Promacta oral suspension,Promacta suspension,Non-Preferred
+"CARDIOVASCULAR : Thrombopoietin Agonists, Orals",Promacta tablet,Promacta tabs,Non-Preferred
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Proventil HFA,Proventil HFA,Preferred
+RESPIRATORY : Inhaled: Steroids,Pulmicort Flexhaler,Pulmicort Flexhaler,Preferred
+RESPIRATORY : Inhaled: Steroids,"Pulmicort Respules 0.25 mg, 0.5 mg",Pulmicort Respules,Preferred
+RESPIRATORY : Inhaled: Steroids,Pulmicort Respules 1 mg,Pulmicort Respules,Preferred
+GASTROINTESTINAL : Combination Products for H. pylori,Pylera,Pylera,Preferred
+RARE CONDITIONS : Pyruvate Kinase (PK) Deficiency,Pyrukynd tablet,Pyrukynd,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Non-Stimulants,Qelbree,Qelbree,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Qtern,Qtern,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Quetiapine,quetiapine,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Quetiapine ER,quetiapine ER,Preferred
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Quillichew XR,Quillichew ER,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Quillivant XR,Quillivant XR,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Qulipta,Qulipta,Preferred
+RESPIRATORY : Inhaled: Steroids,Qvar,QVAR RediHaler,Preferred
+IMMUNOLOGICS : Allergen Specific Immunotherapy,Ragwitek,Ragwitek,Non-Preferred
+CARDIOVASCULAR : ACE Inhibitors (AEIs),Ramipril,ramipril,Preferred
+"CARDIOVASCULAR : Cardiac Agents, Miscellaneous",Ranexa,Ranexa,Non-Preferred
+RARE CONDITIONS : Urea Cycle Disorders,Ravicti,Ravicti,Non-Preferred
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",Rebif (Interferon Beta-1a) prefilled syringe,Rebif,Non-Preferred
+RENAL AND GENITOURINARY : Phosphorus Depletors,Renvela packet for oral suspension,Renvela packs,Preferred
+RENAL AND GENITOURINARY : Phosphorus Depletors,Renvela tablet,Renvela tablets,Non-Preferred
+CARDIOVASCULAR : Lipotropics: Antihyperlipidemic Agents,Repatha Cardiovascular disease (CVD) Prevention,Repatha,Preferred
+CARDIOVASCULAR : Lipotropics: Antihyperlipidemic Agents,Repatha Heterozygous familial hypercholesterolemia (HeFH) or homozygous familial hypercholesterolemia (HoFH),Repatha,Preferred
+OPHTHALMICS : Dry Eye Disease Agents,Restasis,Restasis,Preferred
+OPHTHALMICS : Dry Eye Disease Agents,Restasis MultiDose,Restasis Multidose,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: RET,Retevmo,Retevmo,Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Revatio oral suspension,Revatio suspension,Non-Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Revatio tablet,Revatio tab,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Rexulti Adjunct Treatment of Major Depressive Disorder,Rexulti,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Rexulti Agitation Associated with Dementia due to Alzheimer's Disease,Rexulti,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Rexulti Schizophrenia,Rexulti,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Reyataz capsule,Reyataz caps,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Reyataz powder packet,Reyataz powder,Preferred
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Reyvow,Reyvow,Non-Preferred
+GASTROINTESTINAL : Hepatotrophics,Rezdiffra,Rezdiffra,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: Isocitrate Dehydrogenase (IDH),Rezlidhia,Rezlidhia,Non-Preferred
+ONCOLOGY AGENTS : Rare/Miscellaneous Oncology Conditions,Rezurock,Rezurock,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Risperdal Consta,Risperdal Consta,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Risperdal oral solution,Risperdal,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Risperdal tablet,Risperdal,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Risperidone ODT,risperidone ODT,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Risperidone oral solution,risperidone solution,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Risperidone tablet,risperidone tabs,Preferred
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Rivastigmine patch,rivastigmine patch,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: Tropomyosin Receptor Kinase (TRK),Rozlytrek (Entrectinib) capsule,Rozlytrek capsules,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: Tropomyosin Receptor Kinase (TRK),Rozlytrek (Entrectinib) pellet packet,Rozlytrek pack,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: PARP Inhibitors,Rubraca,Rubraca,Preferred
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Rybelsus,Rybelsus,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Rykindo,Rykindo,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Sabril packet for oral solution,Sabril,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Sabril tablet,Sabril,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Saphris,Saphris,Non-Preferred
+RARE CONDITIONS : Phenylketonuria (PKU),Sapropterin dihydrochloride packet for oral solution,sapropterin,Preferred
+RARE CONDITIONS : Phenylketonuria (PKU),Sapropterin dihydrochloride tablet,sapropterin,Preferred
+"CARDIOVASCULAR : Anticoagulants, Oral",Savaysa,Savaysa,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Secuado,Secuado,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Segluromet,Segluromet,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV CCR5 Antagonists,Selzentry oral solution,Selzentry solution,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV CCR5 Antagonists,Selzentry tablet,Selzentry tablets,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Long-Acting Insulins,Semglee,Semglee,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Seroquel,Seroquel,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Seroquel XR,Seroquel XR,Non-Preferred
+RENAL AND GENITOURINARY : Phosphorus Depletors,Sevelamer carbonate tablets,sevelamer carbonate tablets,Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Sildenafil 20 mg,sildenafil,Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Sildenafil oral suspension,sildenafil suspension,Non-Preferred
+RARE CONDITIONS : Friedreich's Ataxia,Skyclarys,Skyclarys,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Skytrofa,Skytrofa,Non-Preferred
+RARE CONDITIONS : Urea Cycle Disorders,Sodium Phenylbutyrate powder,sodium phenylbutyrate,Non-Preferred
+RARE CONDITIONS : Urea Cycle Disorders,Sodium Phenylbutyrate tablet,sodium phenylbutyrate,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Growth Hormone Agents PA,Sogroya,Sogroya,Non-Preferred
+RARE CONDITIONS : Fibrodysplasia ossificans progressive (FOP),Sohonos,Sohonos,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Soliqua,Soliqua,Non-Preferred
+"ANTI-INFECTIVES : Anti-Infectives: Antiprotozoals, Oral",Solosec,Solosec,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Soma,Soma,Non-Preferred
+ANTI-INFECTIVES : Antivirals: Hepatitis C Antivirals,Sovaldi,Sovaldi tablets,Non-Preferred
+DERMATOLOGICS : Pediculocides/Scabicides,Spinosad topical suspension,spinosad,Non-Preferred
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Spiriva Handihaler inhalation capsule,Spiriva HandiHaler ,Preferred
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Spiriva Respimat inhalation aerosol solution,Spiriva Respimat,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Steglatro,Steglatro,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Steglujan,Steglujan,Non-Preferred
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Stiolto Respimat,Stiolto Respimat,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Stribild,Stribild,Preferred
+ANALGESICS : Buprenorphine and Buprenorphine/Naloxone,Suboxone,Suboxone film,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Sumatriptan / Naproxen sodium tablet,sumatriptan/ naproxen,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Sunosi,Sunosi,Non-Preferred
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Symbicort,Symbicort,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotic/SSRI Combos,Symbyax,Symbyax,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Sympazan oral film,Sympazan,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Symtuza,Symtuza,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Synjardy,Synjardy,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Synjardy XR,Synjardy XR,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: MET,Tabrecta,Tabrecta,Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tadalafil,tadalafil,Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tadliq,Tadliq,Non-Preferred
+RARE CONDITIONS : Hereditary Angioedema (HAE) Agents,Takhzyro prefilled syringe,Takhzyro,Preferred
+RARE CONDITIONS : Hereditary Angioedema (HAE) Agents,Takhzyro vial,Takhzyro,Preferred
+GASTROINTESTINAL : Combination Products for H. pylori,Talicia,Talicia,Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: PARP Inhibitors,Talzenna,Talzenna,Preferred
+ANTI-INFECTIVES : Antivirals: Influenza,Tamiflu,Tamiflu capsules and suspension,Non-Preferred
+RARE CONDITIONS : IgA Nephropathy (IgAN),Tarpeyo,Tarpeyo,Non-Preferred
+"CARDIOVASCULAR : Thrombopoietin Agonists, Orals",Tavalisse,Tavalisse,Non-Preferred
+RARE CONDITIONS : Antineutrophil Cytoplasmic Autoantibody (ANCA),Tavneos,Tavneos,Non-Preferred
+ONCOLOGY AGENTS : Rare/Miscellaneous Oncology Conditions,Tazverik Epithelioid Sarcoma,Tazverik,Non-Preferred
+ONCOLOGY AGENTS : Rare/Miscellaneous Oncology Conditions,Tazverik Follicular Lymphoma,Tazverik,Non-Preferred
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Tecfidera (Dimethyl Fumarate) DR capsule,Tecfidera,Non-Preferred
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Telmisartan,telmisartan,Non-Preferred
+"IMMUNOLOGICS : Multiple Sclerosis (MS) Agents, Oral",Teriflunomide,teriflunomide,Preferred
+ENDOCRINE/METABOLIC AGENTS : Bone: Parathyroid Hormone,Teriparatide,teriparatide,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Tetrabenazine,tetrabenazine,Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: Isocitrate Dehydrogenase (IDH),Tibsovo,Tibsovo,Preferred
+ANTI-INFECTIVES : Antivirals: HIV Integrase Inhibitors,Tivicay,Tivicay,Preferred
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable",Tobi,TOBI Podhaler and inhalation solution,Non-Preferred
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable",Tobi Podhaler,TOBI Podhaler and inhalation solution,Non-Preferred
+OPHTHALMICS : Ophthalmic Antibiotic/Steroid Combos,Tobradex ST ophthalmic suspension,TobraDex ST,Non-Preferred
+OPHTHALMICS : Ophthalmic Antibiotics,Tobramycin,tobramycin,Preferred
+"RESPIRATORY : Cystic Fibrosis Agents, Inhaled/Injectable",Tobramycin generic Bethkis,tobramycin solution 300 mg/4 mL (generic for Bethkis),Non-Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tracleer,Tracleer tabs,Non-Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tracleer tablet for oral suspension,Tracleer soluble tabs,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: DPP-4 Inhibitors and Combinations,Tradjenta,Tradjenta,Preferred
+CARDIOVASCULAR : ACE Inhibitors (AEIs),Trandolapril,trandolapril,Non-Preferred
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Trelegy Ellipta,Trelegy Ellipta,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Long-Acting Insulins,"Tresiba FlexTouch, U-100",Tresiba FlexTouch,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Long-Acting Insulins,"Tresiba FlexTouch, U-200",Tresiba FlexTouch,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antimigraine: Selective 5-HT1 Agonists,Treximet tablet,Treximet,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antidepressants: SSRI,Trintellix,Trintellix,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Triumeq,Triumeq,Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Trizivir,Trizivir,Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Trokendi XR ER capsule,Trokendi XR,Preferred
+CENTRAL NERVOUS SYSTEM : Antimigraine: Ergotamine Derivatives,Trudhesa,Trudhesa,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Trulicity,Trulicity,Non-Preferred
+ONCOLOGY AGENTS : PI3K Inhibitors,Truqap,Truqap,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Truvada,Truvada,Non-Preferred
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Tudorza Pressair,Tudorza,Non-Preferred
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Twirla,Twirla ,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV Pharmacokinetic Enhancers,Tybost,Tybost,Non-Preferred
+OPHTHALMICS : Dry Eye Disease Agents,Tyrvaya nasal solution,Tyrvaya,Non-Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tyvaso DPI,Tyvaso DPI,Non-Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Tyvaso inhalation solution,Tyvaso,Preferred
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Ubrelvy,Ubrelvy,Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Uptravi tablet,Uptravi,Non-Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Uptravi vial,Uptravi,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Uzedy,Uzedy,Preferred
+DIABETIC SUPPLIES : Insulin Management Systems,V-Go 20,V-Go products,Non-Preferred
+DIABETIC SUPPLIES : Insulin Management Systems,V-Go 30,V-Go products,Non-Preferred
+DIABETIC SUPPLIES : Insulin Management Systems,V-Go 40,V-Go products,Non-Preferred
+"DERMATOLOGICS : Antineoplastics, Topical",Valchlor,Valchlor,Non-Preferred
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Valsartan,valsartan,Preferred
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Valsartan oral solution,valsartan solution,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Valtoco,Valtoco,Preferred
+"ANTI-INFECTIVES : Antibiotics, Vaginal",Vandazole,Vandazole,Preferred
+ONCOLOGY AGENTS : Acute Myeloid Leukemia (AML) Agents,Vanflyta,Vanflyta,Non-Preferred
+VITAMINS/ELECTROLYTES : Potassium Depletors,Veltassa,Veltassa,Non-Preferred
+ANTI-INFECTIVES : Antivirals: Hepatitis B,Vemlidy,Vemlidy,Non-Preferred
+ONCOLOGY AGENTS : Acute Myeloid Leukemia (AML) Agents,Venclexta,Venclexta,Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Ventavis,Ventavis,Preferred
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Ventolin HFA,Ventolin HFA,Preferred
+ENDOCRINE/METABOLIC AGENTS : NK3 Antagonists,Veozah tablet,Veozah,Non-Preferred
+OPHTHALMICS : Ophthalmic Anti-Allergics,Verkazia,Verkazia,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Versacloz,Versacloz,Non-Preferred
+OPHTHALMICS : Dry Eye Disease Agents,Vevye ophthalmic solution,Vevye,Non-Preferred
+GASTROINTESTINAL : Agents for Irritable Bowel Syndrome (IBS),Viberzi,Viberzi,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Victoza,Victoza,Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Vigabatrin packet for oral solution,vigabatrin,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Vigabatrin tablet,vigabatrin,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Vigafyde oral solution,Vigafyde,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antidepressants: SSRI,Viibryd,Viibryd,Non-Preferred
+RARE CONDITIONS : PIK3CA-Related Overgrowth Spectrum (PROS),Vijoice oral packet,Vijoice,Non-Preferred
+RARE CONDITIONS : PIK3CA-Related Overgrowth Spectrum (PROS),Vijoice tablet therapy pack,Vijoice,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Vimpat,Vimpat,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Viracept,Viracept,Preferred
+ANTI-INFECTIVES : Antivirals: Hepatitis B,Viread,Viread tablets,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: Tropomyosin Receptor Kinase (TRK),Vitrakvi capsule,Vitrakvi,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: Tropomyosin Receptor Kinase (TRK),Vitrakvi oral solution,Vitrakvi,Non-Preferred
+ANALGESICS : Agents for Dependency,Vivitrol,Vivitrol injection,Preferred
+ONCOLOGY AGENTS : EGFR Inhibitors,Vizimpro,Vizimpro,Non-Preferred
+GASTROINTESTINAL : Combination Products for H. pylori,Voquezna,Voquezna Dual Pak,Non-Preferred
+GASTROINTESTINAL : Combination Products for H. pylori,Voquezna Dual Pak,Voquezna Dual Pak,Non-Preferred
+GASTROINTESTINAL : Combination Products for H. pylori,Voquezna Triple Pak,Voquezna Triple Pak,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Vraylar Adjunct Treatment of Major Depressive Disorder,Vraylar,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Vraylar Bipolar I Disorder,Vraylar,Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Vraylar Schizophrenia,Vraylar,Preferred
+"DERMATOLOGICS : Antipsoriatics, Topical",Vtama Atopic Dermatitis,Vtama,Non-Preferred
+"DERMATOLOGICS : Antipsoriatics, Topical",Vtama Plaque Psoriasis,Vtama,Non-Preferred
+RARE CONDITIONS : Transthyretin Amyloidosis Agents,Vyndamax,Vyndamax,Non-Preferred
+RARE CONDITIONS : Transthyretin Amyloidosis Agents,Vyndaqel capsule,Vyndaqel,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Vyvanse capsule,Vyvanse capsules and chewables,Preferred
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Stimulants,Vyvanse chewable tablet,Vyvanse capsules and chewables,Preferred
+RARE CONDITIONS : Transthyretin Amyloidosis Agents,Wainua,Wainua,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Wakix,Wakix,Non-Preferred
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Wegovy,Wegovy,Non-Preferred
+ONCOLOGY AGENTS : Rare/Miscellaneous Oncology Conditions,Welireg,Welireg,Non-Preferred
+"DERMATOLOGICS : Acne Agents, Topical ",Winlevi,Winlevi,Non-Preferred
+CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Winrevair vial,Winrevair,Non-Preferred
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Wixela,Wixela,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: ALK,Xalkori sprinkle capsule,Xalkori sprinkles,Non-Preferred
+"CARDIOVASCULAR : Anticoagulants, Oral",Xarelto 2.5 mg,Xarelto,Preferred
+"CARDIOVASCULAR : Anticoagulants, Oral",Xarelto oral suspension,Xarelto suspension,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Xcopri,Xcopri,Non-Preferred
+OPHTHALMICS : Miscellaneous Ophthalmics,Xdemvy,Xdemvy,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Movement Disorders,Xenazine,Xenazine,Preferred
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Xigduo XR,Xigduo XR,Preferred
+OPHTHALMICS : Dry Eye Disease Agents,Xiidra ophthalmic solution,Xiidra,Preferred
+ANTI-INFECTIVES : Antivirals: Influenza,Xofluza,Xofluza,Non-Preferred
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Xopenex HFA,Xopenex HFA,Preferred
+ONCOLOGY AGENTS : Hormonal Agents: Anti-Androgens Second Generation,Xtandi,Xtandi tablets,Non-Preferred
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Xulane,Xulane,Preferred
+ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Xultophy,Xultophy,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Xyrem,Xyrem,Preferred
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Xywav,Xywav,Non-Preferred
+ONCOLOGY AGENTS : Hormonal Agents: Anti-Androgens Second Generation,Yonsa tablet,Yonsa,Non-Preferred
+RESPIRATORY : Inhaled: Anticholinergics and Anticholinergic Combinations,Yupelri inhalation solution,Yupelri,Non-Preferred
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Zafemy,Zafemy,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Antimigraine Preparations: CGRP Antagonists,Zavzpret,Zavzpret,Non-Preferred
+ONCOLOGY AGENTS : Enzyme Inhibitors: PARP Inhibitors,Zejula,Zejula,Preferred
+OPHTHALMICS : Ophthalmic Anti-Allergics,Zerviate (Cetirizine) ophthalmic solution,Zerviate,Non-Preferred
+ANTI-INFECTIVES : Antivirals: HIV NRTIs,Ziagen,Ziagen,Non-Preferred
+RARE CONDITIONS : Myasthenia Gravis,Zilbrysq,Zilbrysq,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Ziprasidone,ziprasidone caps,Preferred
+RARE CONDITIONS : Hutchinson-Gilford Progeria Syndrome,Zokinvy,Zokinvy,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Zolpidem,zolpidem,Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Zonisade,Zonisade,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Ztalmy,Ztalmy,Preferred
+CENTRAL NERVOUS SYSTEM : Antidepressants: New Generation,Zurzuvae,Zurzuvae,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Zyprexa,Zyprexa tablets,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Zyprexa Relprevv,Zyprexa Relprevv,Non-Preferred
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Zyprexa Zydis,Zyprexa Zydis,Non-Preferred

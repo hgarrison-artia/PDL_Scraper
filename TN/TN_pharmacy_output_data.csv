@@ -1,0 +1,331 @@
+therapeutic_class,capsule_name,pdl_name,status
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Abrilada Ankylosing Spondylitis,Abrilada,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Abrilada Crohn's Disease (pediatric),Abrilada,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Abrilada Crohn’s Disease (adult),Abrilada,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Abrilada Hidradenitis Suppurativa,Abrilada,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Abrilada Plaque Psoriasis (adult),Abrilada,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Abrilada Polyarticular Juvenile Idiopathic Arthritis (PJIA),Abrilada,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Abrilada Psoriatic Arthritis (adult),Abrilada,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Abrilada Rheumatoid Arthritis,Abrilada,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Abrilada Ulcerative Colitis (adult),Abrilada,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Abrilada Uveitis (adult),Abrilada,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra ACTPen, Giant Cell Arteritis","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra ACTPen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra ACTPen, Rheumatoid Arthritis","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra prefilled syringe, Giant Cell Arteritis","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra prefilled syringe, Rheumatoid Arthritis","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra vial, Coronavirus Disease 2019","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra vial, Cytokine Release Syndrome","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra vial, Giant Cell Arteritis","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra vial, Rheumatoid Arthritis","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","Actemra, Actemra ACTPen",Non-Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Adbry Atopic Dermatitis (adult),Adbry,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Adbry Atopic Dermatitis (pediatric),Adbry,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Ankylosing Spondylitis,Amjevita,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Crohn’s Disease (adult),Amjevita,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Crohn’s Disease (pediatric),Amjevita,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Hidradenitis Suppurativa,Amjevita,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Plaque Psoriasis (adult),Amjevita,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA),Amjevita,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Psoriatic Arthritis (adult),Amjevita,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Rheumatoid Arthritis,Amjevita,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Ulcerative Colitis (adult),Amjevita,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Amjevita Uveitis (adult),Amjevita,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Arcalyst Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),Arcalyst,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Arcalyst Deficiency of Interleukin-1 Receptor Antagonist (DIRA),Arcalyst,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Arcalyst Recurrent Pericarditis (RP),Arcalyst,Non-Preferred
+IMMUNOLOGICS : Lupus and Lupus Nephritis Agents,Benlysta,Benlysta,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Bimzelx Ankylosing Spondylitis,Bimzelx,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Bimzelx Non-Radiographic Axial Spondyloarthritis,Bimzelx,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Bimzelx Plaque Psoriasis (adult),Bimzelx,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Bimzelx Psoriatic Arthritis (adult),Bimzelx,Non-Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Cibinqo Atopic Dermatitis (adult),Cibinqo,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cimzia Ankylosing Spondylitis,Cimzia,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cimzia Crohn’s Disease (adult),Cimzia,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cimzia Non-Radiographic Axial Spondyloarthritis,Cimzia,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cimzia Plaque Psoriasis (adult),Cimzia,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cimzia Psoriatic Arthritis (adult),Cimzia,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cimzia Rheumatoid Arthritis,Cimzia,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Cosentyx Ankylosing Spondylitis,Cosentyx,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Cosentyx Enthesitis-Related Arthritis (pediatric),Cosentyx,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Cosentyx Hidradenitis Suppurativa,Cosentyx,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Cosentyx Non-Radiographic Axial Spondyloarthritis,Cosentyx,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Cosentyx Plaque Psoriasis (adult),Cosentyx,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Cosentyx Plaque Psoriasis (pediatric),Cosentyx,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Cosentyx Psoriatic Arthritis (adult),Cosentyx,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Cosentyx Psoriatic Arthritis (pediatric),Cosentyx,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cyltezo Ankylosing Spondylitis,Cyltezo,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cyltezo Crohn’s Disease (adult),Cyltezo,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cyltezo Crohn’s Disease (pediatric),Cyltezo,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cyltezo Hidradenitis Suppurativa,Cyltezo,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cyltezo Plaque Psoriasis (adult),Cyltezo,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cyltezo Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cyltezo,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cyltezo Psoriatic Arthritis (adult),Cyltezo,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cyltezo Rheumatoid Arthritis,Cyltezo,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cyltezo Ulcerative Colitis (adult),Cyltezo,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cyltezo Uveitis (adult),Cyltezo,Non-Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Asthma (adult),Dupixent,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Asthma (pediatric),Dupixent,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Atopic Dermatitis (adult),Dupixent,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Atopic Dermatitis (pediatric),Dupixent,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,Dupixent,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Eosinophilic Esophagitis,Dupixent,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Dupixent Prurigo Nodularis,Dupixent,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Ebglyss Atopic Dermatitis (adult),Ebglyss,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Ebglyss Atopic Dermatitis (pediatric),Ebglyss,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel Ankylosing Spondylitis,Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel Plaque Psoriasis (adult),Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel Plaque Psoriasis (pediatric),Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA),Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel Psoriatic Arthritis (adult),Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel Psoriatic Arthritis (pediatric),Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Enbrel Rheumatoid Arthritis,Enbrel; Enbrel Mini Cartridge; Enbrel Sureclick,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Entyvio Crohn’s Disease (adult), vial",Entyvio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Entyvio Ulcerative Colitis (adult), vial",Entyvio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Entyvio prefilled pen, Crohn’s Disease (adult)",Entyvio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Entyvio prefilled pen, Ulcerative Colitis (adult)",Entyvio,Non-Preferred
+"DERMATOLOGICS : Atopic Dermatitis, Topical",Eucrisa,Eucrisa,Non-Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Fasenra auto-injector, Asthma (adult)",Fasenra,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Fasenra auto-injector, Asthma (pediatric)",Fasenra,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Fasenra auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Fasenra,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Fasenra prefilled syringe, Asthma (adult)",Fasenra,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Fasenra prefilled syringe, Asthma (pediatric)",Fasenra,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Fasenra prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Fasenra,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Ankylosing Spondylitis,Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Crohn’s Disease (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Crohn’s Disease (pediatric),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Hidradenitis Suppurativa,Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Plaque Psoriasis (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Psoriatic Arthritis (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Rheumatoid Arthritis,Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Ulcerative Colitis (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hadlima Uveitis (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Ankylosing Spondylitis,Hulio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Crohn’s Disease (adult),Hulio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Crohn’s Disease (pediatric),Hulio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Hidradenitis Suppurativa,Hulio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Plaque Psoriasis (adult),Hulio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Polyarticular Juvenile Idiopathic Arthritis (PJIA),Hulio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Psoriatic Arthritis (adult),Hulio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Rheumatoid Arthritis,Hulio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Ulcerative Colitis (adult),Hulio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hulio Uveitis (adult),Hulio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Ankylosing Spondylitis,Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Crohn's Disease (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Crohn's Disease (pediatric),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Hidradenitis Suppurativa,Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Plaque Psoriasis (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Polyarticular Juvenile Idiopathic Arthritis (PJIA),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Psoriatic Arthritis (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Rheumatoid Arthritis,Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Ulcerative Colitis (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Ulcerative Colitis (pediatric),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Uveitis (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Humira Uveitis (pediatric),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Ankylosing Spondylitis,Hyrimoz,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Crohn’s Disease (adult),Hyrimoz,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Crohn’s Disease (pediatric),Hyrimoz,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Hidradenitis Suppurativa,Hyrimoz,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Plaque Psoriasis (adult),Hyrimoz,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA),Hyrimoz,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Psoriatic Arthritis (adult),Hyrimoz,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Rheumatoid Arthritis,Hyrimoz,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Ulcerative Colitis (adult),Hyrimoz,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Hyrimoz Uveitis (adult),Hyrimoz,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Ankylosing Spondylitis,Idacio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Crohn’s Disease (adult),Idacio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Crohn’s Disease (pediatric),Idacio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Hidradenitis Suppurativa,Idacio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Plaque Psoriasis (adult),Idacio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA),Idacio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Psoriatic Arthritis (adult),Idacio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Rheumatoid Arthritis,Idacio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Ulcerative Colitis (adult),Idacio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Idacio Uveitis (adult),Idacio,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),Kevzara,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kevzara Polymyalgia Rheumatica (PMR),Kevzara,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kevzara Rheumatoid Arthritis,Kevzara,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kineret Deficiency of Interleukin-1 Receptor Antagonist (DIRA),Kineret,Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kineret Neonatal-Onset Multisystem Inflammatory Disease (NOMID),Kineret,Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Kineret Rheumatoid Arthritis,Kineret,Preferred
+IMMUNOLOGICS : Lupus and Lupus Nephritis Agents,Lupkynis,Lupkynis,Non-Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nemluvio auto-injector, Atopic Dermatitis (adult)",Nemluvio,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nemluvio auto-injector, Atopic Dermatitis (pediatric)",Nemluvio,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nemluvio auto-injector, Prurigo Nodularis",Nemluvio,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala auto-injector, Asthma (adult)",Nucala,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala auto-injector, Asthma (pediatric)",Nucala,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",Nucala,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Nucala,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala auto-injector, Hypereosinophilic Syndrome (HES)",Nucala,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala prefilled syringe, Asthma (adult)",Nucala,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala prefilled syringe, Asthma (pediatric)",Nucala,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",Nucala,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Nucala,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala prefilled syringe, Hypereosinophilic Syndrome (HES)",Nucala,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala vial, Asthma (adult)",Nucala,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala vial, Asthma (pediatric)",Nucala,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala vial, Chronic Rhinosinusitis with Nasal Polyposis",Nucala,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala vial, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Nucala,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Nucala vial, Hypereosinophilic Syndrome (HES)",Nucala,Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Olumiant Alopecia Areata,Olumiant,Non-Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Olumiant Coronavirus Disease 2019,Olumiant,Non-Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Olumiant Rheumatoid Arthritis,Olumiant,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia ClickJect, Psoriatic Arthritis (adult)",Orencia,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia ClickJect, Psoriatic Arthritis (pediatric)",Orencia,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia ClickJect, Rheumatoid Arthritis",Orencia,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia prefilled syringe, Psoriatic Arthritis (adult)",Orencia,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)",Orencia,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia prefilled syringe, Rheumatoid Arthritis",Orencia,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia vial, Acute Graft Versus Host Disease (aGVHD)",Orencia,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia vial, Psoriatic Arthritis (adult)",Orencia,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,"Orencia vial, Rheumatoid Arthritis",Orencia,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Otezla Behcet’s Disease,Otezla,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Otezla Plaque Psoriasis (adult),Otezla,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Otezla Plaque Psoriasis (pediatric),Otezla,Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Otezla Psoriatic Arthritis (adult),Otezla,Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Ankylosing Spondylitis,Rinvoq,Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Atopic Dermatitis (adult),Rinvoq,Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Crohn's Disease (adult),Rinvoq,Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Non-Radiographic Axial Spondyloarthritis,Rinvoq,Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA),Rinvoq,Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Psoriatic Arthritis (adult),Rinvoq,Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Psoriatic Arthritis (pediatric),Rinvoq,Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Rheumatoid Arthritis,Rinvoq,Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Rinvoq Ulcerative Colitis (adult),Rinvoq,Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Selarsdi Crohn's Disease (adult), intravenous vial",Selarsdi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Selarsdi Crohn's Disease (adult), prefilled syringe",Selarsdi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Selarsdi Crohn's Disease (adult), subcutaneous vial",Selarsdi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Selarsdi Plaque Psoriasis (adult), prefilled syringe",Selarsdi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Selarsdi Plaque Psoriasis (adult), subcutaneous vial",Selarsdi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Selarsdi Plaque Psoriasis (pediatric), prefilled syringe",Selarsdi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Selarsdi Plaque Psoriasis (pediatric), subcutaneous vial",Selarsdi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Selarsdi Psoriatic Arthritis (adult), prefilled syringe",Selarsdi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Selarsdi Psoriatic Arthritis (adult), subcutaneous vial",Selarsdi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Selarsdi Psoriatic Arthritis (pediatric), prefilled syringe",Selarsdi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Selarsdi Psoriatic Arthritis (pediatric), subcutaneous vial",Selarsdi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Selarsdi Ulcerative Colitis (adult), intravenous vial",Selarsdi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Selarsdi Ulcerative Colitis (adult), prefilled syringe",Selarsdi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Selarsdi Ulcerative Colitis (adult), subcutaneous vial",Selarsdi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Siliq Plaque Psoriasis (adult),Siliq,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Ankylosing Spondylitis,Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Crohn’s Disease (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Crohn’s Disease (pediatric),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Hidradenitis Suppurativa,Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Plaque Psoriasis (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Psoriatic Arthritis (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Rheumatoid Arthritis,Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Ulcerative Colitis (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Simlandi Uveitis (adult),Humira; Hadlima; Simlandi,Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Ankylosing Spondylitis, Aria",Simponi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Ankylosing Spondylitis, prefilled syringe",Simponi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Simponi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Aria, Psoriatic Arthritis (pediatric)",Simponi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Psoriatic Arthritis (adult), Aria",Simponi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Psoriatic Arthritis (adult), prefilled syringe",Simponi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Rheumatoid Arthritis, Aria",Simponi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Rheumatoid Arthritis, prefilled syringe",Simponi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,"Simponi Ulcerative Colitis (adult), prefilled syringe",Simponi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Crohn’s Disease (adult), prefilled cartridge",Skyrizi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Crohn’s Disease (adult), prefilled pen",Skyrizi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Crohn’s Disease (adult), prefilled syringe",Skyrizi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Crohn’s Disease (adult), vial",Skyrizi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Plaque Psoriasis (adult), prefilled pen",Skyrizi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Plaque Psoriasis (adult), prefilled syringe",Skyrizi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Psoriatic Arthritis (adult), prefilled pen",Skyrizi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Psoriatic Arthritis (adult), prefilled syringe",Skyrizi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Ulcerative Colitis (adult), prefilled cartridge",Skyrizi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Ulcerative Colitis (adult), prefilled pen",Skyrizi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Ulcerative Colitis (adult), prefilled syringe",Skyrizi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Skyrizi Ulcerative Colitis (adult), vial",Skyrizi,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Sotyktu Plaque Psoriasis (adult),Sotyktu,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Crohn’s Disease (adult), intravenous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Crohn’s Disease (adult), prefilled syringe",Stelara prefilled syringe and 45 mg/0.5 mL vial,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Crohn’s Disease (adult), subcutaneous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Plaque Psoriasis (adult), prefilled syringe",Stelara prefilled syringe and 45 mg/0.5 mL vial,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Plaque Psoriasis (adult), subcutaneous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Plaque Psoriasis (pediatric), prefilled syringe",Stelara prefilled syringe and 45 mg/0.5 mL vial,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Psoriatic Arthritis (adult), prefilled syringe",Stelara prefilled syringe and 45 mg/0.5 mL vial,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Psoriatic Arthritis (adult), subcutaneous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Psoriatic Arthritis (pediatric), prefilled syringe",Stelara prefilled syringe and 45 mg/0.5 mL vial,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Ulcerative Colitis (adult), intravenous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Ulcerative Colitis (adult), prefilled syringe",Stelara prefilled syringe and 45 mg/0.5 mL vial,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Stelara Ulcerative Colitis (adult), subcutaneous vial",Stelara prefilled syringe and 45 mg/0.5 mL vial,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Taltz Ankylosing Spondylitis,Taltz,Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Taltz Non-Radiographic Axial Spondyloarthritis,Taltz,Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Taltz Plaque Psoriasis (adult),Taltz,Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Taltz Plaque Psoriasis (pediatric),Taltz,Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,Taltz Psoriatic Arthritis (adult),Taltz,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,Tezspire Asthma (adult),Tezspire,Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Tremfya Plaque Psoriasis (adult), prefilled syringe",Tremfya,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Tremfya Psoriatic Arthritis (adult), prefilled syringe",Tremfya,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Tremfya prefilled syringe, Ulcerative Colitis (adult)",Tremfya,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Miscellaneous,Velsipity Ulcerative Colitis (adult),Velsipity,Non-Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Xeljanz Ankylosing Spondylitis,Xeljanz tablet,Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA),Xeljanz tablet,Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Xeljanz Psoriatic Arthritis (adult),Xeljanz tablet,Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Xeljanz Rheumatoid Arthritis,Xeljanz tablet,Preferred
+IMMUNOLOGICS : Anti-Rheumatic: Kinase Inhibitors,Xeljanz Ulcerative Colitis (adult),Xeljanz tablet,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair auto-injector, Asthma (adult)",Xolair,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair auto-injector, Asthma (pediatric)",Xolair,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",Xolair,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair auto-injector, Chronic Spontaneous Urticaria (CSU)",Xolair,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair auto-injector, IgE-Mediated Food Allergy",Xolair,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair prefilled syringe, Asthma (adult)",Xolair,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair prefilled syringe, Asthma (pediatric)",Xolair,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis",Xolair,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair prefilled syringe, Chronic Spontaneous Urticaria (CSU)",Xolair,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair prefilled syringe, IgE-Mediated Food Allergy",Xolair,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair vial, Asthma (adult)",Xolair,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair vial, Asthma (pediatric)",Xolair,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair vial, Chronic Rhinosinusitis with Nasal Polyposis",Xolair,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair vial, Chronic Spontaneous Urticaria (CSU)",Xolair,Preferred
+IMMUNOLOGICS : Respiratory and Allergy Biologics,"Xolair vial, IgE-Mediated Food Allergy",Xolair,Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek intravenous vial, Crohn’s Disease (adult)",Yesintek,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek intravenous vial, Ulcerative Colitis (adult)",Yesintek,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek prefilled syringe, Crohn’s Disease (adult)",Yesintek,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek prefilled syringe, Plaque Psoriasis (adult)",Yesintek,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek prefilled syringe, Plaque Psoriasis (pediatric)",Yesintek,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek prefilled syringe, Psoriatic Arthritis (adult)",Yesintek,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek prefilled syringe, Psoriatic Arthritis (pediatric)",Yesintek,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek prefilled syringe, Ulcerative Colitis (adult)",Yesintek,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek subcutaneous vial, Crohn’s Disease (adult)",Yesintek,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek subcutaneous vial, Plaque Psoriasis (adult)",Yesintek,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek subcutaneous vial, Plaque Psoriasis (pediatric)",Yesintek,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek subcutaneous vial, Psoriatic Arthritis (adult)",Yesintek,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek subcutaneous vial, Psoriatic Arthritis (pediatric)",Yesintek,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: Interleukin Inhibitors,"Yesintek subcutaneous vial, Ulcerative Colitis (adult)",Yesintek,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Ankylosing Spondylitis,Yuflyma,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Crohn’s Disease (adult),Yuflyma,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Crohn’s Disease (pediatric),Yuflyma,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Hidradenitis Suppurativa,Yuflyma,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Plaque Psoriasis (adult),Yuflyma,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA),Yuflyma,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Psoriatic Arthritis (adult),Yuflyma,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Rheumatoid Arthritis,Yuflyma,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Ulcerative Colitis (adult),Yuflyma,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yuflyma Uveitis (adult),Yuflyma,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Ankylosing Spondylitis,Yusimry,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Crohn’s Disease (adult),Yusimry,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Crohn’s Disease (pediatric),Yusimry,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Hidradenitis Suppurativa,Yusimry,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Plaque Psoriasis (adult),Yusimry,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Polyarticular Juvenile Idiopathic Arthritis (PJIA),Yusimry,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Psoriatic Arthritis (adult),Yusimry,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Rheumatoid Arthritis,Yusimry,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Ulcerative Colitis (adult),Yusimry,Non-Preferred
+IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Yusimry Uveitis (adult),Yusimry,Non-Preferred
+"DERMATOLOGICS : Atopic Dermatitis, Topical","Zoryve cream, 0.15%, Atopic Dermatitis",Zoryve 0.15% cream,Non-Preferred
+"DERMATOLOGICS : Antipsoriatics, Topical","Zoryve cream, 0.3%, Plaque Psoriasis",Zoryve 0.3% cream,Non-Preferred
