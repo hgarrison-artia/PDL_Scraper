@@ -19,11 +19,13 @@ class DrugSelectorGUI(Toplevel):
     def __init__(self, master, drug, matches, save_callback, skip_callback, exit_callback, back_callback, current_index, total_drugs, save_to_all_callback=None):
         super().__init__(master)
         self.title(f"Select Match for {drug}")
-        
+
         self.configure(bg=self.theme['bg'])
 
         self.drug = drug
-        self.matches = matches
+        # Keep a copy of all matches so filtering can restore the full list
+        self.all_matches = matches.reset_index(drop=True)
+        self.matches = self.all_matches
         self.save_callback = save_callback
         self.skip_callback = skip_callback
         self.exit_callback = exit_callback
@@ -31,6 +33,9 @@ class DrugSelectorGUI(Toplevel):
         self.save_to_all_callback = save_to_all_callback
         self.current_index = current_index
         self.total_drugs = total_drugs
+
+        # Variable used for live searching
+        self.search_var = tk.StringVar()
 
         self.center_window(1200, 800)
         self.create_widgets()
@@ -102,9 +107,14 @@ class DrugSelectorGUI(Toplevel):
         progress_label = ttk.Label(self, text=f"Remaining drugs to process: {remaining}", style="TLabel")
         progress_label.grid(row=1, column=0, columnspan=3, padx=10, pady=5)
 
+        # Search entry for filtering matches
+        search_entry = ttk.Entry(self, textvariable=self.search_var, font=("Helvetica", 12))
+        search_entry.grid(row=2, column=0, columnspan=3, padx=10, pady=(0, 10), sticky="ew")
+        self.search_var.trace_add('write', lambda *args: self.filter_matches())
+
         # Use a Tkinter Listbox for the match list with larger font and increased size
         self.listbox = tk.Listbox(
-            self, 
+            self,
             width=100,
             height=20,
             font=("Helvetica", 14),
@@ -115,17 +125,16 @@ class DrugSelectorGUI(Toplevel):
             highlightthickness=0,  # Remove border
             relief="flat"  # Remove border
         )
-        self.listbox.grid(row=2, column=0, columnspan=3, padx=10, pady=10, sticky="nsew")
+        self.listbox.grid(row=3, column=0, columnspan=3, padx=10, pady=10, sticky="nsew")
         
         self.listbox.bind("<Double-Button-1>", self.on_double_click)
 
         # Populate the listbox with the match options
-        for _, row in self.matches.iterrows():
-            self.listbox.insert(tk.END, f"{row['pdl_name']} | {row['therapeutic_class']} | {row['status']}")
+        self.populate_listbox()
 
         # Create a frame for buttons to better organize them
         button_frame = ttk.Frame(self, style="TFrame")
-        button_frame.grid(row=3, column=0, columnspan=3, padx=10, pady=10, sticky="ew")
+        button_frame.grid(row=4, column=0, columnspan=3, padx=10, pady=10, sticky="ew")
 
         # Add the Back button
         btn_back = ttk.Button(button_frame, text="Back", command=self.back, style="TButton")
@@ -133,7 +142,7 @@ class DrugSelectorGUI(Toplevel):
 
         # Create another frame for action buttons
         action_frame = ttk.Frame(self, style="TFrame")
-        action_frame.grid(row=4, column=0, columnspan=3, padx=10, pady=10, sticky="ew")
+        action_frame.grid(row=5, column=0, columnspan=3, padx=10, pady=10, sticky="ew")
 
         # Save, Save to All, Skip, and Exit buttons
         btn_save = ttk.Button(action_frame, text="Save", command=self.save_selection, style="TButton")
@@ -149,7 +158,7 @@ class DrugSelectorGUI(Toplevel):
         btn_exit.grid(row=0, column=3, padx=5, pady=5, sticky="ew")
 
         # Configure grid weights for better spacing
-        self.grid_rowconfigure(2, weight=1)  # Make the listbox row expandable
+        self.grid_rowconfigure(3, weight=1)  # Make the listbox row expandable
         self.columnconfigure(0, weight=1)
         self.columnconfigure(1, weight=1)
         self.columnconfigure(2, weight=1)
@@ -213,3 +222,23 @@ class DrugSelectorGUI(Toplevel):
             self.destroy()
         except tk.TclError:
             None
+
+    def populate_listbox(self):
+        """Populate listbox with matches currently stored in self.matches."""
+        self.listbox.delete(0, tk.END)
+        for _, row in self.matches.iterrows():
+            self.listbox.insert(
+                tk.END,
+                f"{row['pdl_name']} | {row['therapeutic_class']} | {row['status']}"
+            )
+
+    def filter_matches(self):
+        """Filter the matches displayed based on the search bar text."""
+        term = self.search_var.get().lower()
+        if term:
+            self.matches = self.all_matches[
+                self.all_matches['pdl_name'].str.lower().str.contains(term)
+            ]
+        else:
+            self.matches = self.all_matches
+        self.populate_listbox()
