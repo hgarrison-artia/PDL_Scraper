@@ -1,0 +1,1438 @@
+therapeutic_class,pdl_name,status
+Analgesic Agents: Gout: ,"allopurinol 100, 300mg",Preferred
+Analgesic Agents: Gout: ,allopurinol 200mg,Non-Preferred
+Analgesic Agents: Gout: ,colchicine tab,Preferred
+Analgesic Agents: Gout: ,febuxostat,Non-Preferred
+Analgesic Agents: Gout: ,probenecid,Preferred
+Analgesic Agents: Gout: ,MITIGARE BvG,Non-Preferred
+Analgesic Agents: Gout: ,probenecid/colchicine,Preferred
+Analgesic Agents: NSAIDS: ,celecoxib,Preferred
+Analgesic Agents: NSAIDS: ,diclofenac/misoprostol,Non-Preferred
+Analgesic Agents: NSAIDS: ,"diclofenac sodium DR, ER, gel 1%",Preferred
+Analgesic Agents: NSAIDS: ,"diclofenac patch 1.3%; soln 1.5%, 2%",Non-Preferred
+Analgesic Agents: NSAIDS: ,"etodolac IR, ER",Preferred
+Analgesic Agents: NSAIDS: ,diclofenac potassium,Non-Preferred
+Analgesic Agents: NSAIDS: ,flurbiprofen,Preferred
+Analgesic Agents: NSAIDS: ,ELYXYB,Non-Preferred
+Analgesic Agents: NSAIDS: ,ibuprofen,Preferred
+Analgesic Agents: NSAIDS: ,fenoprofen,Non-Preferred
+Analgesic Agents: NSAIDS: ,"indomethacin IR, ER cap",Preferred
+Analgesic Agents: NSAIDS: ,ibuprofen/famotidine,Non-Preferred
+Analgesic Agents: NSAIDS: ,ketorolac,Preferred
+Analgesic Agents: NSAIDS: ,"indomethacin supp, susp",Non-Preferred
+Analgesic Agents: NSAIDS: ,mefenamic acid,Preferred
+Analgesic Agents: NSAIDS: ,"ketoprofen IR, ER",Non-Preferred
+Analgesic Agents: NSAIDS: ,meloxicam tab,Preferred
+Analgesic Agents: NSAIDS: ,meclofenamate,Non-Preferred
+Analgesic Agents: NSAIDS: ,nabumetone,Preferred
+Analgesic Agents: NSAIDS: ,meloxicam cap,Non-Preferred
+Analgesic Agents: NSAIDS: ,naproxen IR,Preferred
+Analgesic Agents: NSAIDS: ,"naproxen EC, ER",Non-Preferred
+Analgesic Agents: NSAIDS: ,naproxen susp AR,Preferred
+Analgesic Agents: NSAIDS: ,naproxen/esomeprazole,Non-Preferred
+Analgesic Agents: NSAIDS: ,oxaprozin,Preferred
+Analgesic Agents: NSAIDS: ,RELAFEN DS,Non-Preferred
+Analgesic Agents: NSAIDS: ,piroxicam,Preferred
+Analgesic Agents: NSAIDS: ,sulindac,Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,APAP/codeine,Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,APAP/caffeine/ dihydrocodeine,Non-Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,but/APAP/caff/cod 50/325/40/30mg,Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,but/APAP/caff/cod 50/300/40/30mg,Non-Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,but/ASA/caff/cod,Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,DSUVIA,Non-Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,butorphanol,Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,"hydrocodone/APAP 5, 7.5, 10-300mg",Non-Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,codeine,Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,hydrocodone/ibuprofen,Non-Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,hydrocodone/APAP,Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,levorphanol,Non-Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,hydromorphone IR,Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,meperidine,Non-Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,morphine IR,Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,oxymorphone IR,Non-Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,"oxycodone IR cap, soln, tab",Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,pentazocine/naloxone,Non-Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,oxycodone/APAP,Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,PROLATE,Non-Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,tramadol IR 50mg,Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,ROXYBOND,Non-Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,tramadol/APAP,Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,SEGLENTIS,Non-Preferred
+Analgesic Agents: Opioids: SHORT-ACTING,"tramadol IR soln, 25, 100mg tab",Non-Preferred
+Analgesic Agents: Opioids: LONG-ACTING,BUTRANS BvG PA,Preferred
+Analgesic Agents: Opioids: LONG-ACTING,BELBUCA,Non-Preferred
+Analgesic Agents: Opioids: LONG-ACTING,morphine ER tab PA,Preferred
+Analgesic Agents: Opioids: LONG-ACTING,buprenorphine TD patch weekly,Non-Preferred
+Analgesic Agents: Opioids: LONG-ACTING,fentanyl,Non-Preferred
+Analgesic Agents: Opioids: LONG-ACTING,hydrocodone bitartrate ER 12HR cap,Non-Preferred
+Analgesic Agents: Opioids: LONG-ACTING,hydrocodone bitartrate ER 24HR tab,Non-Preferred
+Analgesic Agents: Opioids: LONG-ACTING,hydromorphone ER,Non-Preferred
+Analgesic Agents: Opioids: LONG-ACTING,methadone,Non-Preferred
+Analgesic Agents: Opioids: LONG-ACTING,morphine ER 24HR cap,Non-Preferred
+Analgesic Agents: Opioids: LONG-ACTING,oxycodone ER,Non-Preferred
+Analgesic Agents: Opioids: LONG-ACTING,oxymorphone ER,Non-Preferred
+Analgesic Agents: Opioids: LONG-ACTING,tramadol ER,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",FULPHILA PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",FYLNETRA,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",NEUPOGEN PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",GRANIX,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",NIVESTYM PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",LEUKINE,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",NYVEPRIA PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",NEULASTA,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",RELEUKO,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",ROLVEDON,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",STIMUFEND,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",UDENYCA,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",ZARXIO,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",ZIEXTENZO,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents: ",EPOGEN PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents: ",ARANESP,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents: ",RETACRIT PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents: ",MIRCERA,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents: ",PROCRIT,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",ADVATE PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",NUWIQ INJ,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",ADYNOVATE PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",OBIZUR,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",AFSTYLA PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",SEVENFACT,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",ALPHANATE PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",VONVENDI,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",ALTUVIIIO PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",CORIFACT PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",ELOCTATE PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",ESPEROCT PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",FEIBA PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",HEMLIBRA PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",HEMOFIL M PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",HUMATE-P PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",JIVI PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",KOATE PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",KOGENATE FS PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",KOVALTRY PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",NOVOEIGHT PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",NOVOSEVEN RT PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",NUWIQ KIT PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",RECOMBINATE PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",WILATE PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",XYNTHA PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",ALPHANINE SD PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",SEVENFACT,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",ALPROLIX PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",SEVENFACT,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",BENEFIX PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",SEVENFACT,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",FEIBA PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",SEVENFACT,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",IDELVION PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",SEVENFACT,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",IXINITY PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",SEVENFACT,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",NOVOSEVEN RT PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",SEVENFACT,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",PROFILNINE PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",SEVENFACT,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",REBINYN PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",SEVENFACT,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",RIXUBIS PA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",SEVENFACT,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations: ",enoxaparin,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations: ",fondaparinux,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations: ",enoxaparin,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Heparin-Related Preparations: ",FRAGMIN,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants: ",ELIQUIS,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants: ",dabigatran cap,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants: ","PRADAXA CAP BvG, PELLET PAK AR",Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants: ",SAVAYSA,Non-Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants: ",warfarin,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants: ","XARELTO SUSP AR, TAB",Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet: ","aspirin IR, ER",Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet: ",aspirin/dipyridamole ER,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet: ",BRILINTA,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet: ",clopidogrel,Preferred
+"Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet: ",prasugrel,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",amlodipine/benazepril,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",benazepril,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",benazepril/HCTZ,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",captopril,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",captopril/HCTZ,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS","enalapril soln, tab",Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",enalapril/HCTZ,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",fosinopril,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",fosinopril/HCTZ,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",lisinopril,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",lisinopril/HCTZ,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",moexipril,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",quinapril,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",quinapril/HCTZ,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",ramipril,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",trandolapril,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",trandolapril/verapamil,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",QBRELIS,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",amlodipine/olmesartan,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",EDARBI,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",amlodipine/valsartan,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",EDARBYCLOR,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",amlodipine/valsartan/HCTZ,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",valsartan soln,Non-Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",candesartan,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",candesartan/HCTZ,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",irbesartan,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",irbesartan/HCTZ,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",losartan,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",losartan/HCTZ,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",olmesartan,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",olmesartan/amlodipine/HCTZ,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",olmesartan/HCTZ,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",telmisartan,Preferred
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",telmisartan/amlodipine,Preferred
+Cardiovascular Agents: Antiarrhythmics: ,amiodarone,Preferred
+Cardiovascular Agents: Antiarrhythmics: ,MULTAQ,Non-Preferred
+Cardiovascular Agents: Antiarrhythmics: ,disopyramide,Preferred
+Cardiovascular Agents: Antiarrhythmics: ,MULTAQ,Non-Preferred
+Cardiovascular Agents: Antiarrhythmics: ,dofetilide,Preferred
+Cardiovascular Agents: Antiarrhythmics: ,MULTAQ,Non-Preferred
+Cardiovascular Agents: Antiarrhythmics: ,flecainide,Preferred
+Cardiovascular Agents: Antiarrhythmics: ,MULTAQ,Non-Preferred
+Cardiovascular Agents: Antiarrhythmics: ,mexiletine,Preferred
+Cardiovascular Agents: Antiarrhythmics: ,MULTAQ,Non-Preferred
+Cardiovascular Agents: Antiarrhythmics: ,NORPACE CR,Preferred
+Cardiovascular Agents: Antiarrhythmics: ,MULTAQ,Non-Preferred
+Cardiovascular Agents: Antiarrhythmics: ,"propafenone IR, ER",Preferred
+Cardiovascular Agents: Antiarrhythmics: ,MULTAQ,Non-Preferred
+Cardiovascular Agents: Antiarrhythmics: ,"quinidine IR, ER",Preferred
+Cardiovascular Agents: Antiarrhythmics: ,MULTAQ,Non-Preferred
+Cardiovascular Agents: Lipotropics: BILE ACID SEQUESTRANTS,"cholestyramine light, regular",Preferred
+Cardiovascular Agents: Lipotropics: BILE ACID SEQUESTRANTS,colesevelam packet,Non-Preferred
+Cardiovascular Agents: Lipotropics: BILE ACID SEQUESTRANTS,colesevelam tab,Preferred
+Cardiovascular Agents: Lipotropics: BILE ACID SEQUESTRANTS,colestipol granules,Non-Preferred
+Cardiovascular Agents: Lipotropics: BILE ACID SEQUESTRANTS,colestipol tab,Preferred
+Cardiovascular Agents: Lipotropics: BILE ACID SEQUESTRANTS,prevalite,Preferred
+Cardiovascular Agents: Lipotropics: FIBRIC ACID DERIVATIVES,"fenofibrate 48, 54, 145, 160mg tab",Preferred
+Cardiovascular Agents: Lipotropics: FIBRIC ACID DERIVATIVES,"fenofibrate IR, DR cap",Non-Preferred
+Cardiovascular Agents: Lipotropics: FIBRIC ACID DERIVATIVES,gemfibrozil,Preferred
+Cardiovascular Agents: Lipotropics: FIBRIC ACID DERIVATIVES,"fenofibrate 40, 120mg tab",Non-Preferred
+Cardiovascular Agents: Lipotropics: FIBRIC ACID DERIVATIVES,fenofibric acid,Non-Preferred
+Cardiovascular Agents: Lipotropics: PCSK9 INHIBITORS,PRALUENT PA,Preferred
+Cardiovascular Agents: Lipotropics: PCSK9 INHIBITORS,REPATHA PA,Preferred
+Cardiovascular Agents: Lipotropics: STATINS/COMBINATIONS,atorvastatin,Preferred
+Cardiovascular Agents: Lipotropics: STATINS/COMBINATIONS,ALTOPREV,Non-Preferred
+Cardiovascular Agents: Lipotropics: STATINS/COMBINATIONS,ezetimibe/simvastatin,Preferred
+Cardiovascular Agents: Lipotropics: STATINS/COMBINATIONS,amlodipine/atorvastatin,Non-Preferred
+Cardiovascular Agents: Lipotropics: STATINS/COMBINATIONS,lovastatin,Preferred
+Cardiovascular Agents: Lipotropics: STATINS/COMBINATIONS,ATORVALIQ,Non-Preferred
+Cardiovascular Agents: Lipotropics: STATINS/COMBINATIONS,pravastatin,Preferred
+Cardiovascular Agents: Lipotropics: STATINS/COMBINATIONS,EZALLOR,Non-Preferred
+Cardiovascular Agents: Lipotropics: STATINS/COMBINATIONS,rosuvastatin,Preferred
+Cardiovascular Agents: Lipotropics: STATINS/COMBINATIONS,"fluvastatin IR, ER",Non-Preferred
+Cardiovascular Agents: Lipotropics: STATINS/COMBINATIONS,simvastatin,Preferred
+Cardiovascular Agents: Lipotropics: STATINS/COMBINATIONS,pitavastatin,Non-Preferred
+Cardiovascular Agents: Lipotropics: STATINS/COMBINATIONS,ZYPITAMAG,Non-Preferred
+Cardiovascular Agents: Lipotropics: OTHER,ezetimibe,Preferred
+Cardiovascular Agents: Lipotropics: OTHER,icosapent ethyl cap,Non-Preferred
+Cardiovascular Agents: Lipotropics: OTHER,"niacin IR, ER OTC",Preferred
+Cardiovascular Agents: Lipotropics: OTHER,JUXTAPID,Non-Preferred
+Cardiovascular Agents: Lipotropics: OTHER,omega-3-acid ethyl esters,Preferred
+Cardiovascular Agents: Lipotropics: OTHER,NEXLETOL,Non-Preferred
+Cardiovascular Agents: Lipotropics: OTHER,NEXLIZET,Non-Preferred
+Cardiovascular Agents: Lipotropics: OTHER,niacin ER tab,Non-Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: ENDOTHELIN RECEPTOR ANTAGONISTS,ambrisentan PA,Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: ENDOTHELIN RECEPTOR ANTAGONISTS,OPSUMIT,Non-Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: ENDOTHELIN RECEPTOR ANTAGONISTS,bosentan PA,Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: ENDOTHELIN RECEPTOR ANTAGONISTS,TRACLEER SUSP,Non-Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PDE5 INHIBITORS,sildenafil PA,Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PDE5 INHIBITORS,LIQREV,Non-Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PDE5 INHIBITORS,sildenafil susp AR PA,Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PDE5 INHIBITORS,LIQREV,Non-Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PDE5 INHIBITORS,tadalafil PA,Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PDE5 INHIBITORS,LIQREV,Non-Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PDE5 INHIBITORS,TADLIQ AR PA,Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PDE5 INHIBITORS,LIQREV,Non-Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PROSTAGLANDINS,epoprostenol,Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PROSTAGLANDINS,ORENITRAM,Non-Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PROSTAGLANDINS,epoprostenol,Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PROSTAGLANDINS,treprostinil,Non-Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PROSTAGLANDINS,epoprostenol,Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PROSTAGLANDINS,TYVASO,Non-Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PROSTAGLANDINS,epoprostenol,Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: PROSTAGLANDINS,VENTAVIS,Non-Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: OTHER,ADEMPAS,Non-Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: OTHER,OPSYNVI,Non-Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: OTHER,UPTRAVI,Non-Preferred
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: OTHER,WINREVAIR,Non-Preferred
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,donepezil AR,Preferred
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,ADLARITY AR,Non-Preferred
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,"galantamine IR tab, ER cap AR",Preferred
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,galantamine soln AR,Non-Preferred
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,"memantine ER, IR tab AR",Preferred
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,memantine soln AR,Non-Preferred
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,rivastigmine cap AR,Preferred
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,NAMZARIC AR,Non-Preferred
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,rivastigmine patch AR,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: CGRP INHIBITORS",NURTEC ODT ST,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: CGRP INHIBITORS",ZAVZPRET,Non-Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: CGRP INHIBITORS",UBRELVY ST,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: CGRP INHIBITORS",ZAVZPRET,Non-Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: TRIPTANS/COMBINATIONS",IMITREX NASAL SPRAY,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: TRIPTANS/COMBINATIONS",almotriptan,Non-Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: TRIPTANS/COMBINATIONS",naratriptan,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: TRIPTANS/COMBINATIONS",eletriptan,Non-Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: TRIPTANS/COMBINATIONS",rizatriptan,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: TRIPTANS/COMBINATIONS",frovatriptan,Non-Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: TRIPTANS/COMBINATIONS","sumatriptan inj, nasal spray, tab",Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: TRIPTANS/COMBINATIONS",sumatriptan/naproxen,Non-Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: TRIPTANS/COMBINATIONS",TOSYMRA,Non-Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: TRIPTANS/COMBINATIONS",zolmitriptan,Non-Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: OTHER",dihydroergotamine,Non-Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: OTHER",MIGERGOT,Non-Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: OTHER",REYVOW,Non-Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache: ","verapamil IR, ER",Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache: ",EMGALITY 100mg/ml,Non-Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",AIMOVIG ST,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",NURTEC ODT,Non-Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",AJOVY ST,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",QULIPTA,Non-Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",EMGALITY 120mg/ml ST,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",Cardiovascular Agents: Beta-,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",Blockers,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",CNS Agents: Anticonvulsants,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",CNS Agents: Serotonin-,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",Norepinephrine Reuptake Inhibitors,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",CNS Agents: Tricyclic,Preferred
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",Antidepressants,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,BANZEL TAB BvG,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,APTIOM,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,"BRIVIACT SOLN AR, TAB",Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,CELONTIN BvG,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,"carbamazepine IR, ER",Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,clonazepam ODT,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,clobazam,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,ELEPSIA XR,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,clonazepam,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,felbamate,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,DIACOMIT PA,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,FINTEPLA,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,"divalproex DR, ER",Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,lamotrigine ER,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,EPIDIOLEX PA,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,levetiracetam ER tab,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,EPRONTIA AR,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,MOTPOLY XR,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,ethosuximide,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,oxcarbazepine susp,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,FYCOMPA ST,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,OXTELLAR XR BvG,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,gabapentin,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,QUDEXY XR BvG,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,lacosamide,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,"rufinamide tab, soln",Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,"lamotrigine chew, IR, ODT",Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,SPRITAM BvG,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,"levetiracetam IR tab, soln",Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,SYMPAZAN,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,oxcarbazepine IR tab,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,tiagabine,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,phenobarbital,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,topiramate sprinkle cap,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,"phenytoin IR, ER",Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,TROKENDI XR BvG,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,pregabalin IR,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,vigabatrin,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,primidone,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,vigabatrin powder AR,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,topiramate IR,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,XCOPRI,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,TRILEPTAL SUSP BvG,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,ZONISADE SUSP,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,valproic acid,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,ZTALMY,Non-Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,VIGAFYDE AR,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,zonisamide cap,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants Rescue: ,diazepam gel,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants Rescue: ,LIBERVANT AR,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants Rescue: ,NAYZILAM AR,Preferred
+Central Nervous System (CNS) Agents: Anticonvulsants Rescue: ,VALTOCO AR,Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: NDRIs,bupropion,Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: NDRIs,APLENZIN,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: NDRIs,bupropion SR (gen of WELLBUTRIN SR),Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: NDRIs,bupropion XL (gen of FORFIVO XL),Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: NDRIs,bupropion XL (gen of WELLBUTRIN XL),Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SNRIs,desvenlafaxine succ ER (gen of PRISTIQ),Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SNRIs,desvenlafaxine ER (gen of KHEDEZLA),Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SNRIs,"duloxetine 20, 30, 60mg",Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SNRIs,DRIZALMA SPRINKLE,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SNRIs,"venlafaxine IR tab, ER cap",Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SNRIs,duloxetine 40mg,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SNRIs,FETZIMA,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SNRIs,venlafaxine ER tab,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SSRIs,"citalopram tab, soln",Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SSRIs,citalopram cap,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SSRIs,escitalopram,Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SSRIs,"fluoxetine IR 60mg, DR",Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SSRIs,"fluoxetine IR 10, 20, 40mg",Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SSRIs,fluvoxamine ER,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SSRIs,fluoxetine soln,Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SSRIs,paroxetine ER tab,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SSRIs,fluvoxamine IR,Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SSRIs,sertraline cap,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SSRIs,"paroxetine IR tab, soln",Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SSRIs,sertraline tab,Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,mirtazapine,Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,AUVELITY,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,nefazodone,Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,CAPLYTA,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,tranylcypromine,Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,clomipramine,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,"trazodone 50, 100, 150mg",Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,EMSAM,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,vilazodone,Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,MARPLAN,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,VRAYLAR ST,Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,phenelzine,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,ZURZUVAE PA,Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,REXULTI,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,trazodone 300mg,Non-Preferred
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,TRINTELLIX,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: NON-STIMULANTS,atomoxetine cap AR,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: NON-STIMULANTS,clonidine ER,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: NON-STIMULANTS,guanfacine ER,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: NON-STIMULANTS,ONYDA XR SUSP AR,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: NON-STIMULANTS,QELBREE ST,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,amphetamine/dextroamphetamine,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,"IR, ER AR",Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,ADZENYS XR ODT,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,amphetamine tab,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,CONCERTA,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,AZSTARYS AR,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,dexmethylphenidate tab AR,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,COTEMPLA XR ODT,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,dexmethylphenidate ER (generic of,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,FOCALIN XR) AR,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,DAYTRANA BvG,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,dextroamphetamine soln AR,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,"dextroamphetamine IR tab, ER cap AR",Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,EVEKEO ODT,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,DYANAVEL XR,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,JORNAY PM,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,FOCALIN XR AR,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,lisdexamfetamine cap,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,"methylphenidate ER cap (generic of METADATE CD, RITALIN LA)",Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,methamphetamine,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,methylphenidate chewable tab AR,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,methylphenidate ER tab (generic of,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,"CONCERTA, METHYLIN ER, RITALIN SR)",Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,"methylphenidate ER cap, tab (generic of",Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,"APTENSIO XR, RELEXXII)",Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,methylphenidate soln AR,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,MYDAYIS BvG,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,methylphenidate tab,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,VYVANSE CHEWABLE TAB BvG,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,PROCENTRA BvG AR,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,XELSTRYM AR,Non-Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,QUILLICHEW ER AR,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,QUILLIVANT XR AR,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,RITALIN LA,Preferred
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,VYVANSE CAP BvG,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,"ABILIFY ASIMTUFII, MAINTENA",Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,ABILIFY MYCITE,Non-Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,aripiprazole,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,"aripiprazole ODT, soln",Non-Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,ARISTADA,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,CAPLYTA,Non-Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,ARISTADA INITIO,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,clozapine ODT,Non-Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,asenapine ST,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,COBENFY,Non-Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,clozapine,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,fluoxetine/olanzapine,Non-Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,FANAPT ST,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,LYBALVI,Non-Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,GEODON,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,NUPLAZID,Non-Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,INVEGA HAFYERA ER PA,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,REXULTI,Non-Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,INVEGA SUSTENNA,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,risperidone microspheres,Non-Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,INVEGA TRINZA,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,SECUADO,Non-Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,lurasidone,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,VERSACLOZ,Non-Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,olanzapine,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,ZYPREXA RELPREVV,Non-Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,paliperidone tab,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,PERSERIS,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,"quetiapine IR, ER",Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,RISPERDAL CONSTA BvG,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,risperidone,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,RYKINDO,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,UZEDY,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,VRAYLAR ST,Preferred
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,ziprasidone,Preferred
+Central Nervous System (CNS) Agents: Fibromyalgia Agents: ,pregabalin IR,Preferred
+Central Nervous System (CNS) Agents: Fibromyalgia Agents: ,SAVELLA,Non-Preferred
+Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction: ,BRIXADI,Preferred
+Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction: ,buprenorphine,Non-Preferred
+Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction: ,buprenorphine/naloxone,Preferred
+Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction: ,LUCEMYRA BvG,Non-Preferred
+Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction: ,"clonidine IR, ER",Preferred
+Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction: ,SUBLOCADE,Preferred
+Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction: ,SUBOXONE,Preferred
+Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction: ,VIVITROL,Preferred
+Central Nervous System (CNS) Agents: Medication Assisted Treatment of Opioid Addiction: ,ZUBSOLV,Preferred
+Central Nervous System (CNS) Agents: Movement Disorders: ,"AUSTEDO IR, XR PA ST",Preferred
+Central Nervous System (CNS) Agents: Movement Disorders: ,INGREZZA PA ST,Preferred
+Central Nervous System (CNS) Agents: Movement Disorders: ,tetrabenazine,Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,AVONEX,Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,BAFIERTAM,Non-Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,BETASERON,Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,glatiramer,Non-Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,COPAXONE BvG,Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,glatopa,Non-Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,dalfampridine,Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,MAVENCLAD,Non-Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,dimethyl fumarate,Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,MAYZENT,Non-Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,fingolimod,Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,OCREVUS,Non-Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,GILENYA,Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,PLEGRIDY,Non-Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,KESIMPTA,Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,PONVORY,Non-Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,REBIF,Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,TASCENSO ODT,Non-Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,teriflunomide,Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,VUMERITY,Non-Preferred
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,ZEPOSIA,Non-Preferred
+Central Nervous System (CNS) Agents: Narcolepsy: ,amphetamine/,Preferred
+Central Nervous System (CNS) Agents: Narcolepsy: ,dextroamphetamine IR/ER AR,Preferred
+Central Nervous System (CNS) Agents: Narcolepsy: ,SUNOSI,Non-Preferred
+Central Nervous System (CNS) Agents: Narcolepsy: ,WAKIX,Non-Preferred
+Central Nervous System (CNS) Agents: Narcolepsy: ,armodafinil,Preferred
+Central Nervous System (CNS) Agents: Narcolepsy: ,XYREM BvG,Non-Preferred
+Central Nervous System (CNS) Agents: Narcolepsy: ,dextroamphetamine ER AR,Preferred
+Central Nervous System (CNS) Agents: Narcolepsy: ,XYWAV,Non-Preferred
+Central Nervous System (CNS) Agents: Narcolepsy: ,methylphenidate ER,Preferred
+Central Nervous System (CNS) Agents: Narcolepsy: ,methylphenidate tab,Preferred
+Central Nervous System (CNS) Agents: Narcolepsy: ,modafinil,Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: DIBENZAZEPINES,"carbamazepine IR, ER",Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: DIBENZAZEPINES,oxcarbazepine susp,Non-Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: DIBENZAZEPINES,oxcarbazepine tab,Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: DIBENZAZEPINES,oxcarbazepine susp,Non-Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: DIBENZAZEPINES,TRILEPTAL SUSP BvG,Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: DIBENZAZEPINES,oxcarbazepine susp,Non-Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: GAPAPENTINOIDS,gabapentin IR,Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: GAPAPENTINOIDS,GRALISE BvG,Non-Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: GAPAPENTINOIDS,gabapentin IR,Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: GAPAPENTINOIDS,HORIZANT,Non-Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: TRICYCLIC ANTIDEPRESSANTS,amitriptyline,Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: TRICYCLIC ANTIDEPRESSANTS,desipramine,Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: TRICYCLIC ANTIDEPRESSANTS,"doxepin 10, 25, 50, 75, 100, 150mg",Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: TRICYCLIC ANTIDEPRESSANTS,doxepin soln,Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: TRICYCLIC ANTIDEPRESSANTS,imipramine,Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: TRICYCLIC ANTIDEPRESSANTS,nortriptyline,Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: OTHER,"duloxetine 20, 30, 60mg",Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: OTHER,duloxetine 40mg,Non-Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: OTHER,lidocaine patch,Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: OTHER,pregabalin ER,Non-Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: OTHER,pregabalin IR,Preferred
+Central Nervous System (CNS) Agents: Neuropathic Pain: OTHER,ZTLIDO ST,Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: COMT INHIBITORS,entacapone,Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: COMT INHIBITORS,ONGENTYS,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: COMT INHIBITORS,entacapone,Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: COMT INHIBITORS,tolcapone,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: DOPAMINE AGONISTS,pramipexole IR,Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: DOPAMINE AGONISTS,apomorphine,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: DOPAMINE AGONISTS,"ropinirole IR, ER",Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: DOPAMINE AGONISTS,KYNMOBI,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: DOPAMINE AGONISTS,NEUPRO,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: DOPAMINE AGONISTS,pramipexole ER,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: MAO-B INHIBITORS,selegiline,Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: MAO-B INHIBITORS,rasagiline,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: MAO-B INHIBITORS,selegiline,Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: MAO-B INHIBITORS,XADAGO,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: MAO-B INHIBITORS,selegiline,Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: MAO-B INHIBITORS,ZELAPAR,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: OTHER,"amantadine cap, tab",Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: OTHER,amantadine soln,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: OTHER,carbidopa,Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: OTHER,carbidopa/levodopa dispersible,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: OTHER,"carbidopa/levodopa IR, ER",Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: OTHER,carbidopa/levodopa/entacapone,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: OTHER,CREXONT,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: OTHER,GOCOVRI,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: OTHER,INBRIJA,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: OTHER,NOURIANZ,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: OTHER,OSMOLEX ER,Non-Preferred
+Central Nervous System (CNS) Agents: Parkinson's Agents: OTHER,RYTARY,Non-Preferred
+Central Nervous System (CNS) Agents: Restless Legs Syndrome: ,pramipexole IR,Preferred
+Central Nervous System (CNS) Agents: Restless Legs Syndrome: ,HORIZANT,Non-Preferred
+Central Nervous System (CNS) Agents: Restless Legs Syndrome: ,"ropinirole IR, ER",Preferred
+Central Nervous System (CNS) Agents: Restless Legs Syndrome: ,NEUPRO,Non-Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ",BELSOMRA,Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ",DAYVIGO,Non-Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ",estazolam,Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ","doxepin 3, 6mg",Non-Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ",eszopiclone,Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ",EDLUAR,Non-Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ",ramelteon,Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ",flurazepam,Non-Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ",temazepam,Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ",quazepam,Non-Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ",triazolam,Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ",QUVIVIQ,Non-Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ",zaleplon,Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ","zolpidem cap, SL",Non-Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ","zolpidem tab ER, IR",Preferred
+"Central Nervous System (CNS) Agents: Sedative-Hypnotics, Non-Barbiturate: ",ZOLPIMIST,Non-Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ","baclofen susp AR, tab",Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",baclofen soln,Non-Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",chlorzoxazone 500mg,Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",carisoprodol,Non-Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",cyclobenzaprine IR,Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ","chlorzoxazone 250, 375, 750mg",Non-Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",dantrolene,Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",cyclobenzaprine ER,Non-Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",metaxalone 800mg,Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",FLEQSUVY AR,Non-Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",methocarbamol,Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",LYVISPAH,Non-Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",orphenadrine,Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",metaxalone 400mg,Non-Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",tizanidine,Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",orphenadrine/ASA/caffeine,Non-Preferred
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",TANLOR,Non-Preferred
+Central Nervous System (CNS) Agents: Smoking Deterrents: ,bupropion SR,Preferred
+Central Nervous System (CNS) Agents: Smoking Deterrents: ,CHANTIX,Preferred
+Central Nervous System (CNS) Agents: Smoking Deterrents: ,nicotine,Preferred
+Central Nervous System (CNS) Agents: Smoking Deterrents: ,varenicline,Preferred
+Dermatologic Agents: Oral Acne Products: ,amnesteem PA,Preferred
+Dermatologic Agents: Oral Acne Products: ,ABSORICA,Non-Preferred
+Dermatologic Agents: Oral Acne Products: ,claravis PA,Preferred
+Dermatologic Agents: Oral Acne Products: ,ABSORICA LD,Non-Preferred
+Dermatologic Agents: Oral Acne Products: ,isotretinoin PA,Preferred
+Dermatologic Agents: Oral Acne Products: ,zenatane PA,Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,azelaic acid gel,Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,CLINDACIN KIT,Non-Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,benzoyl peroxide,Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,clindamycin foam,Non-Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,"clindamycin gel, lot, soln, swabs",Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,clindamycin/benz perox 1.2-3.75%,Non-Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,"clind/benz perox 1-5%, 1.2-2.5%, 1.2-5%",Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,dapsone gel,Non-Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,erythromycin,Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,FINACEA FOAM,Non-Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,erythromycin/benzoyl peroxide,Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,NEUAC,Non-Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,ONEXTON GEL BvG,Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,sodium sulfacetamide/sulfur,Non-Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,"sodium sulfacetamide gel, liq",Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,sodium sulfacetamide pads,Non-Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,WINLEVI,Non-Preferred
+Dermatologic Agents: Topical Acne Products: NON-RETINOIDS,ZMA CLEAR SUSP,Non-Preferred
+Dermatologic Agents: Topical Acne Products: RETINOIDS/COMBINATIONS,"adapalene gel AR 0.1%, 0.3%",Preferred
+Dermatologic Agents: Topical Acne Products: RETINOIDS/COMBINATIONS,adapalene cream AR,Non-Preferred
+Dermatologic Agents: Topical Acne Products: RETINOIDS/COMBINATIONS,adapalene/benzoyl peroxide AR,Preferred
+Dermatologic Agents: Topical Acne Products: RETINOIDS/COMBINATIONS,ARAZLO AR,Non-Preferred
+Dermatologic Agents: Topical Acne Products: RETINOIDS/COMBINATIONS,ALTRENO AR,Preferred
+Dermatologic Agents: Topical Acne Products: RETINOIDS/COMBINATIONS,CABTREO GEL AR,Non-Preferred
+Dermatologic Agents: Topical Acne Products: RETINOIDS/COMBINATIONS,"RETIN-A MICRO AR BvG 0.04%, 0.1%",Preferred
+Dermatologic Agents: Topical Acne Products: RETINOIDS/COMBINATIONS,clindamycin/tretinoin AR,Non-Preferred
+Dermatologic Agents: Topical Acne Products: RETINOIDS/COMBINATIONS,"tretinoin AR cream, gel",Preferred
+Dermatologic Agents: Topical Acne Products: RETINOIDS/COMBINATIONS,"RETIN-A MICRO AR 0.06%, 0.08% BvG",Non-Preferred
+Dermatologic Agents: Topical Acne Products: RETINOIDS/COMBINATIONS,"tazarotene AR cream, foam, gel 0.1%",Non-Preferred
+Dermatologic Agents: Topical Acne Products: RETINOIDS/COMBINATIONS,"tretinoin micro AR 0.04%, 0.1%",Non-Preferred
+Endocrine Agents: Androgens: ,depo-testosterone AR PA,Preferred
+Endocrine Agents: Androgens: ,AVEED AR,Non-Preferred
+Endocrine Agents: Androgens: ,testosterone cypionate AR PA,Preferred
+Endocrine Agents: Androgens: ,JATENZO AR,Non-Preferred
+Endocrine Agents: Androgens: ,testosterone gel 1% packet AR PA,Preferred
+Endocrine Agents: Androgens: ,methyltestosterone AR,Non-Preferred
+Endocrine Agents: Androgens: ,testosterone gel 1.62% pump AR PA,Preferred
+Endocrine Agents: Androgens: ,NATESTO AR,Non-Preferred
+Endocrine Agents: Androgens: ,TESTOPEL AR,Non-Preferred
+Endocrine Agents: Androgens: ,testosterone gel 1% pump AR,Non-Preferred
+Endocrine Agents: Androgens: ,testosterone gel 1.62% packet AR,Non-Preferred
+Endocrine Agents: Androgens: ,testosterone gel 2% AR,Non-Preferred
+Endocrine Agents: Androgens: ,testosterone soln 30mg/ACT AR,Non-Preferred
+Endocrine Agents: Androgens: ,TLANDO AR,Non-Preferred
+Endocrine Agents: Androgens: ,XYOSTED AR,Non-Preferred
+Endocrine Agents: Diabetes – Hypoglycemia Treatments: ,BAQSIMI,Preferred
+Endocrine Agents: Diabetes – Hypoglycemia Treatments: ,glucagon emerg kit [labeler 63323],Non-Preferred
+Endocrine Agents: Diabetes – Hypoglycemia Treatments: ,GLUCAGEN HYPOKIT,Preferred
+Endocrine Agents: Diabetes – Hypoglycemia Treatments: ,glucagon emerg kit [labeler 63323],Non-Preferred
+Endocrine Agents: Diabetes – Hypoglycemia Treatments: ,glucagon emerg kit [labeler 00548],Preferred
+Endocrine Agents: Diabetes – Hypoglycemia Treatments: ,glucagon emerg kit [labeler 63323],Non-Preferred
+Endocrine Agents: Diabetes – Hypoglycemia Treatments: ,GVOKE,Preferred
+Endocrine Agents: Diabetes – Hypoglycemia Treatments: ,glucagon emerg kit [labeler 63323],Non-Preferred
+Endocrine Agents: Diabetes – Hypoglycemia Treatments: ,ZEGALOGUE,Preferred
+Endocrine Agents: Diabetes – Hypoglycemia Treatments: ,glucagon emerg kit [labeler 63323],Non-Preferred
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,APIDRA,Preferred
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,ADMELOG,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,"HUMALOG U-100 KWIKPEN, VIAL",Preferred
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,AFREZZA,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,insulin aspart,Preferred
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,FIASP,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,insulin lispro,Preferred
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,HUMALOG U-100 TEMPO PEN,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,HUMALOG U-200,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,LYUMJEV,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,NOVOLOG U-100,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: SHORT-ACTING,HUMULIN R U-500,Preferred
+Endocrine Agents: Diabetes – Insulin: SHORT-ACTING,HUMULIN R U-100,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: SHORT-ACTING,HUMULIN R U-500,Preferred
+Endocrine Agents: Diabetes – Insulin: SHORT-ACTING,NOVOLIN R U-100,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: INTERMEDIATE-ACTING,HUMULIN N U-100,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: INTERMEDIATE-ACTING,NOVOLIN N U-100,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: LONG-ACTING,LANTUS BvG,Preferred
+Endocrine Agents: Diabetes – Insulin: LONG-ACTING,BASAGLAR,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: LONG-ACTING,LEVEMIR,Preferred
+Endocrine Agents: Diabetes – Insulin: LONG-ACTING,insulin degludec,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: LONG-ACTING,TOUJEO BvG,Preferred
+Endocrine Agents: Diabetes – Insulin: LONG-ACTING,insulin glargine,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: LONG-ACTING,TRESIBA BvG ST,Preferred
+Endocrine Agents: Diabetes – Insulin: LONG-ACTING,REZVOGLAR,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: LONG-ACTING,SEMGLEE BvG,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: MIXED INSULIN,HUMALOG 50-50,Preferred
+Endocrine Agents: Diabetes – Insulin: MIXED INSULIN,NOVOLIN 70-30,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: MIXED INSULIN,HUMALOG 75-25,Preferred
+Endocrine Agents: Diabetes – Insulin: MIXED INSULIN,NOVOLOG 70-30,Non-Preferred
+Endocrine Agents: Diabetes – Insulin: MIXED INSULIN,HUMULIN 70-30,Preferred
+Endocrine Agents: Diabetes – Insulin: MIXED INSULIN,insulin aspart pro/insulin aspart,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,JANUMET,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,alogliptin,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,JANUMET XR,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,alogliptin/metformin,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,JANUVIA,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,alogliptin/pioglitazone,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,JENTADUETO,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,JENTADUETO XR,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,KOMBIGLYZE XR BvG,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,saxagliptin,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,ONGLYZA BvG,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,saxagliptin/metformin,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,TRADJENTA,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,sitagliptin/metformin (gen of ZITUVIMET),Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: DPP4 INHIBITORS/COMBINATIONS,ZITUVIO BvG,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: GLP-1 RECEPTOR AGONISTS/COMBINATIONS,BYETTA,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: GLP-1 RECEPTOR AGONISTS/COMBINATIONS,BYDUREON BCISE,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: GLP-1 RECEPTOR AGONISTS/COMBINATIONS,TRULICITY,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: GLP-1 RECEPTOR AGONISTS/COMBINATIONS,liraglutide,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: GLP-1 RECEPTOR AGONISTS/COMBINATIONS,VICTOZA BvG,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: GLP-1 RECEPTOR AGONISTS/COMBINATIONS,MOUNJARO,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: GLP-1 RECEPTOR AGONISTS/COMBINATIONS,OZEMPIC,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: GLP-1 RECEPTOR AGONISTS/COMBINATIONS,RYBELSUS,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: GLP-1 RECEPTOR AGONISTS/COMBINATIONS,SOLIQUA,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: GLP-1 RECEPTOR AGONISTS/COMBINATIONS,XULTOPHY,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: METFORMIN,metformin ER (gen of GLUCOPHAGE XR),Preferred
+Endocrine Agents: Diabetes – Non-Insulin: METFORMIN,"metformin ER (gen of FORTAMET, GLUMETZA)",Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: METFORMIN,"metformin IR 500, 850, 1000mg",Preferred
+Endocrine Agents: Diabetes – Non-Insulin: METFORMIN,metformin IR 625mg,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: METFORMIN,metformin soln,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,FARXIGA BvG,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,dapagliflozin,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,JARDIANCE,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,dapagliflozin/metformin ER,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,SYNJARDY,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,GLYXAMBI,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,XIGDUO XR BvG,Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,INVOKAMET,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,INVOKANA,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,QTERN,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,SEGLUROMET,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,STEGLATRO,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,STEGLUJAN,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,SYNJARDY XR,Non-Preferred
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,TRIJARDY XR,Non-Preferred
+Endocrine Agents: Endometriosis: ,danazol ST,Preferred
+Endocrine Agents: Endometriosis: ,SYNAREL,Non-Preferred
+Endocrine Agents: Endometriosis: ,DEPO-SUBQ PROVERA 104 ST,Preferred
+Endocrine Agents: Endometriosis: ,SYNAREL,Non-Preferred
+Endocrine Agents: Endometriosis: ,"LUPRON DEPOT ST 3.75, 11.25mg",Preferred
+Endocrine Agents: Endometriosis: ,SYNAREL,Non-Preferred
+Endocrine Agents: Endometriosis: ,MYFEMBREE ST,Preferred
+Endocrine Agents: Endometriosis: ,SYNAREL,Non-Preferred
+Endocrine Agents: Endometriosis: ,ORILISSA ST,Preferred
+Endocrine Agents: Endometriosis: ,SYNAREL,Non-Preferred
+Endocrine Agents: Estrogenic Agents: ORAL,ANGELIQ,Preferred
+Endocrine Agents: Estrogenic Agents: ORAL,DUAVEE,Non-Preferred
+Endocrine Agents: Estrogenic Agents: ORAL,estradiol tab,Preferred
+Endocrine Agents: Estrogenic Agents: ORAL,estradiol/norethindrone,Non-Preferred
+Endocrine Agents: Estrogenic Agents: ORAL,ethinyl estradiol/norethindrone,Preferred
+Endocrine Agents: Estrogenic Agents: ORAL,MENEST,Non-Preferred
+Endocrine Agents: Estrogenic Agents: ORAL,PREMARIN TAB,Preferred
+Endocrine Agents: Estrogenic Agents: ORAL,PREMPHASE,Preferred
+Endocrine Agents: Estrogenic Agents: ORAL,PREMPRO,Preferred
+Endocrine Agents: Estrogenic Agents: TOPICAL,DIVIGEL BvG,Preferred
+Endocrine Agents: Estrogenic Agents: TOPICAL,estradiol gel 0.06% (generic of ESTROGEL),Non-Preferred
+Endocrine Agents: Estrogenic Agents: TOPICAL,ELESTRIN,Preferred
+Endocrine Agents: Estrogenic Agents: TOPICAL,estradiol gel 0.06% (generic of ESTROGEL),Non-Preferred
+Endocrine Agents: Estrogenic Agents: TOPICAL,estradiol cream,Preferred
+Endocrine Agents: Estrogenic Agents: TOPICAL,estradiol gel 0.06% (generic of ESTROGEL),Non-Preferred
+Endocrine Agents: Estrogenic Agents: TRANSDERMAL,CLIMARA,Preferred
+Endocrine Agents: Estrogenic Agents: TRANSDERMAL,EVAMIST,Non-Preferred
+Endocrine Agents: Estrogenic Agents: TRANSDERMAL,COMBIPATCH,Preferred
+Endocrine Agents: Estrogenic Agents: TRANSDERMAL,MENOSTAR,Non-Preferred
+Endocrine Agents: Estrogenic Agents: TRANSDERMAL,dotti,Preferred
+Endocrine Agents: Estrogenic Agents: TRANSDERMAL,estradiol patch,Preferred
+Endocrine Agents: Estrogenic Agents: TRANSDERMAL,lyllana,Preferred
+Endocrine Agents: Estrogenic Agents: TRANSDERMAL,MINIVELLE,Preferred
+Endocrine Agents: Estrogenic Agents: TRANSDERMAL,VIVELLE -DOT,Preferred
+Endocrine Agents: Estrogenic Agents: VAGINAL,ESTRING,Preferred
+Endocrine Agents: Estrogenic Agents: VAGINAL,estradiol 10mcg vag tab,Non-Preferred
+Endocrine Agents: Estrogenic Agents: VAGINAL,PREMARIN CREAM,Preferred
+Endocrine Agents: Estrogenic Agents: VAGINAL,FEMRING,Non-Preferred
+Endocrine Agents: Growth Hormone: DAILY-DOSING,GENOTROPIN PA,Preferred
+Endocrine Agents: Growth Hormone: DAILY-DOSING,HUMATROPE,Non-Preferred
+Endocrine Agents: Growth Hormone: DAILY-DOSING,NORDITROPIN PA,Preferred
+Endocrine Agents: Growth Hormone: DAILY-DOSING,NUTROPIN,Non-Preferred
+Endocrine Agents: Growth Hormone: DAILY-DOSING,OMNITROPE,Non-Preferred
+Endocrine Agents: Growth Hormone: DAILY-DOSING,SEROSTIM,Non-Preferred
+Endocrine Agents: Growth Hormone: DAILY-DOSING,ZOMACTON,Non-Preferred
+Endocrine Agents: Growth Hormone: WEEKLY-DOSING,SKYTROFA PA ST,Preferred
+Endocrine Agents: Growth Hormone: WEEKLY-DOSING,NGENLA,Non-Preferred
+Endocrine Agents: Growth Hormone: WEEKLY-DOSING,SKYTROFA PA ST,Preferred
+Endocrine Agents: Growth Hormone: WEEKLY-DOSING,SOGROYA,Non-Preferred
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: BISPHOSPHONATES,alendronate tab,Preferred
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: BISPHOSPHONATES,alendronate soln,Non-Preferred
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: BISPHOSPHONATES,ibandronate,Preferred
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: BISPHOSPHONATES,BINOSTO,Non-Preferred
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: BISPHOSPHONATES,FOSAMAX PLUS D,Non-Preferred
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: BISPHOSPHONATES,risedronate,Non-Preferred
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: BISPHOSPHONATES,zoledronic acid,Non-Preferred
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: OTHER BONE RESORPTION SUPPRESSION AND RELATED AGENTS,calcitonin-salmon,Preferred
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: OTHER BONE RESORPTION SUPPRESSION AND RELATED AGENTS,EVENITY,Non-Preferred
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: OTHER BONE RESORPTION SUPPRESSION AND RELATED AGENTS,FORTEO BvG PA,Preferred
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: OTHER BONE RESORPTION SUPPRESSION AND RELATED AGENTS,PROLIA,Non-Preferred
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: OTHER BONE RESORPTION SUPPRESSION AND RELATED AGENTS,raloxifene,Preferred
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: OTHER BONE RESORPTION SUPPRESSION AND RELATED AGENTS,teriparatide,Non-Preferred
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: OTHER BONE RESORPTION SUPPRESSION AND RELATED AGENTS,TYMLOS,Non-Preferred
+Endocrine Agents: Progestin Agents: ,medroxyprogesterone acetate tab,Preferred
+Endocrine Agents: Progestin Agents: ,megestrol,Preferred
+Endocrine Agents: Progestin Agents: ,norethindrone acetate,Preferred
+Endocrine Agents: Progestin Agents: ,progesterone,Preferred
+Endocrine Agents: Progestin Agents: ,progesterone in oil,Preferred
+Endocrine Agents: Uterine Fibroids: ,"LUPRON DEPOT PA 3.75, 11.25mg",Preferred
+Endocrine Agents: Uterine Fibroids: ,MYFEMBREE PA,Preferred
+Endocrine Agents: Uterine Fibroids: ,ORIAHNN PA,Preferred
+Gastrointestinal Agents: Anti-Emetics: 5-HT3 ANTAGONISTS,granisetron tab,Preferred
+Gastrointestinal Agents: Anti-Emetics: 5-HT3 ANTAGONISTS,ondansetron 16mg,Non-Preferred
+Gastrointestinal Agents: Anti-Emetics: 5-HT3 ANTAGONISTS,"ondansetron 4, 8mg",Preferred
+Gastrointestinal Agents: Anti-Emetics: 5-HT3 ANTAGONISTS,SANCUSO,Non-Preferred
+Gastrointestinal Agents: Anti-Emetics: ANTICHOLINERGICS,scopolamine,Preferred
+Gastrointestinal Agents: Anti-Emetics: ANTIHISTAMINES and ANTIHISTAMINE COMBINATIONS,dimenhydrinate,Preferred
+Gastrointestinal Agents: Anti-Emetics: ANTIHISTAMINES and ANTIHISTAMINE COMBINATIONS,BONJESTA,Non-Preferred
+Gastrointestinal Agents: Anti-Emetics: ANTIHISTAMINES and ANTIHISTAMINE COMBINATIONS,diphenhydramine,Preferred
+Gastrointestinal Agents: Anti-Emetics: ANTIHISTAMINES and ANTIHISTAMINE COMBINATIONS,BONJESTA,Non-Preferred
+Gastrointestinal Agents: Anti-Emetics: ANTIHISTAMINES and ANTIHISTAMINE COMBINATIONS,doxylamine/pyridoxine,Preferred
+Gastrointestinal Agents: Anti-Emetics: ANTIHISTAMINES and ANTIHISTAMINE COMBINATIONS,BONJESTA,Non-Preferred
+Gastrointestinal Agents: Anti-Emetics: ANTIHISTAMINES and ANTIHISTAMINE COMBINATIONS,meclizine,Preferred
+Gastrointestinal Agents: Anti-Emetics: ANTIHISTAMINES and ANTIHISTAMINE COMBINATIONS,BONJESTA,Non-Preferred
+Gastrointestinal Agents: Anti-Emetics: ANTIHISTAMINES and ANTIHISTAMINE COMBINATIONS,trimethobenzamide,Preferred
+Gastrointestinal Agents: Anti-Emetics: ANTIHISTAMINES and ANTIHISTAMINE COMBINATIONS,BONJESTA,Non-Preferred
+Gastrointestinal Agents: Anti-Emetics: PHENOTHIAZINES,prochlorperazine,Preferred
+Gastrointestinal Agents: Anti-Emetics: PHENOTHIAZINES,promethazine,Preferred
+Gastrointestinal Agents: Anti-Emetics: SUBSTANCE P/NEUROKININ 1 (NK-1) ANTAGONISTS,"aprepitant 40mg, tripac",Preferred
+Gastrointestinal Agents: Anti-Emetics: SUBSTANCE P/NEUROKININ 1 (NK-1) ANTAGONISTS,EMEND 125mg SUSP,Preferred
+Gastrointestinal Agents: Anti-Emetics: SUBSTANCE P/NEUROKININ 1 (NK-1) ANTAGONISTS,"aprepitant 80, 125mg",Non-Preferred
+Gastrointestinal Agents: Anti-Emetics: OTHER,dronabinol PA,Preferred
+Gastrointestinal Agents: Anti-Emetics: OTHER,metoclopramide ODT,Non-Preferred
+Gastrointestinal Agents: Anti-Emetics: OTHER,metoclopramide,Preferred
+Gastrointestinal Agents: Anti-Emetics: OTHER,metoclopramide ODT,Non-Preferred
+Gastrointestinal Agents: Bowel Preparations: ,CLENPIQ,Preferred
+Gastrointestinal Agents: Bowel Preparations: ,MOVIPREP,Non-Preferred
+Gastrointestinal Agents: Bowel Preparations: ,GAVILYTE -C,Preferred
+Gastrointestinal Agents: Bowel Preparations: ,PLENVU,Non-Preferred
+Gastrointestinal Agents: Bowel Preparations: ,GAVILYTE -G,Preferred
+Gastrointestinal Agents: Bowel Preparations: ,SUFLAVE,Non-Preferred
+Gastrointestinal Agents: Bowel Preparations: ,GAVILYTE -N,Preferred
+Gastrointestinal Agents: Bowel Preparations: ,SUTAB,Non-Preferred
+Gastrointestinal Agents: Bowel Preparations: ,GOLYTELY,Preferred
+Gastrointestinal Agents: Bowel Preparations: ,sod sulf-potass sulf-mag sulf soln,Preferred
+Gastrointestinal Agents: Crohn’s Disease: ,azathioprine 50mg,Preferred
+Gastrointestinal Agents: Crohn’s Disease: ,"azathioprine 75, 100mg",Non-Preferred
+Gastrointestinal Agents: Crohn’s Disease: ,budesonide ER,Preferred
+Gastrointestinal Agents: Crohn’s Disease: ,"azathioprine 75, 100mg",Non-Preferred
+Gastrointestinal Agents: Crohn’s Disease: ,mercaptopurine,Preferred
+Gastrointestinal Agents: Crohn’s Disease: ,"azathioprine 75, 100mg",Non-Preferred
+Gastrointestinal Agents: Crohn’s Disease: ,methotrexate,Preferred
+Gastrointestinal Agents: Crohn’s Disease: ,"azathioprine 75, 100mg",Non-Preferred
+Gastrointestinal Agents: Crohn’s Disease: ,"sulfasalazine IR, DR",Preferred
+Gastrointestinal Agents: Crohn’s Disease: ,"azathioprine 75, 100mg",Non-Preferred
+Gastrointestinal Agents: Hepatic Encephalopathy: ,lactulose XIFAXAN ST,Preferred
+Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea: ,diphenoxylate/atropine,Preferred
+Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea: ,alosetron,Non-Preferred
+Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea: ,loperamide,Preferred
+Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea: ,VIBERZI,Non-Preferred
+Gastrointestinal Agents: Irritable Bowel Syndrome (IBS) with Diarrhea: ,XIFAXAN ST,Preferred
+Gastrointestinal Agents: Pancreatic Enzymes: ,CREON,Preferred
+Gastrointestinal Agents: Pancreatic Enzymes: ,VIOKACE,Non-Preferred
+Gastrointestinal Agents: Pancreatic Enzymes: ,PERTZYE ST,Preferred
+Gastrointestinal Agents: Pancreatic Enzymes: ,VIOKACE,Non-Preferred
+Gastrointestinal Agents: Pancreatic Enzymes: ,ZENPEP,Preferred
+Gastrointestinal Agents: Pancreatic Enzymes: ,VIOKACE,Non-Preferred
+Gastrointestinal Agents: Proton Pump Inhibitors: ,esomeprazole,Preferred
+Gastrointestinal Agents: Proton Pump Inhibitors: ,DEXILANT BvG,Non-Preferred
+Gastrointestinal Agents: Proton Pump Inhibitors: ,lansoprazole cap,Preferred
+Gastrointestinal Agents: Proton Pump Inhibitors: ,esomeprazole granules,Non-Preferred
+Gastrointestinal Agents: Proton Pump Inhibitors: ,NEXIUM GRANULES BvG,Preferred
+Gastrointestinal Agents: Proton Pump Inhibitors: ,KONVOMEP,Non-Preferred
+Gastrointestinal Agents: Proton Pump Inhibitors: ,omeprazole,Preferred
+Gastrointestinal Agents: Proton Pump Inhibitors: ,lansoprazole ODT,Non-Preferred
+Gastrointestinal Agents: Proton Pump Inhibitors: ,pantoprazole tab,Preferred
+Gastrointestinal Agents: Proton Pump Inhibitors: ,omeprazole/sodium bicarbonate,Non-Preferred
+Gastrointestinal Agents: Proton Pump Inhibitors: ,PROTONIX PAK AR BvG,Preferred
+Gastrointestinal Agents: Proton Pump Inhibitors: ,pantoprazole packet AR,Non-Preferred
+Gastrointestinal Agents: Proton Pump Inhibitors: ,rabeprazole,Preferred
+Gastrointestinal Agents: Proton Pump Inhibitors: ,PRILOSEC SUSP,Non-Preferred
+Gastrointestinal Agents: Ulcerative Colitis: ORAL,balsalazide disodium,Preferred
+Gastrointestinal Agents: Ulcerative Colitis: ORAL,DIPENTUM,Non-Preferred
+Gastrointestinal Agents: Ulcerative Colitis: ORAL,budesonide ER tab,Preferred
+Gastrointestinal Agents: Ulcerative Colitis: ORAL,mesalamine DR tab 800mg,Non-Preferred
+Gastrointestinal Agents: Ulcerative Colitis: ORAL,"mesalamine DR cap, tab 1.2gm",Preferred
+Gastrointestinal Agents: Ulcerative Colitis: ORAL,mesalamine ER cap 500mg,Non-Preferred
+Gastrointestinal Agents: Ulcerative Colitis: ORAL,mesalamine ER cap 0.375gm,Preferred
+Gastrointestinal Agents: Ulcerative Colitis: ORAL,VELSIPITY,Non-Preferred
+Gastrointestinal Agents: Ulcerative Colitis: ORAL,PENTASA BvG,Preferred
+Gastrointestinal Agents: Ulcerative Colitis: ORAL,ZEPOSIA,Non-Preferred
+Gastrointestinal Agents: Ulcerative Colitis: ORAL,"sulfasalazine IR, DR",Preferred
+Gastrointestinal Agents: Ulcerative Colitis: RECTAL,"mesalamine enema, supp",Preferred
+Gastrointestinal Agents: Ulcerative Colitis: RECTAL,mesalamine enema kit,Non-Preferred
+Gastrointestinal Agents: Ulcerative Colitis: RECTAL,"mesalamine enema, supp",Preferred
+Gastrointestinal Agents: Ulcerative Colitis: RECTAL,SF ROWASA,Non-Preferred
+Gastrointestinal Agents: Ulcerative Colitis: RECTAL,"mesalamine enema, supp",Preferred
+Gastrointestinal Agents: Ulcerative Colitis: RECTAL,UCERIS FOAM BvG,Non-Preferred
+Gastrointestinal Agents: Unspecified GI: ,bisacodyl,Preferred
+Gastrointestinal Agents: Unspecified GI: ,AEMCOLO,Non-Preferred
+Gastrointestinal Agents: Unspecified GI: ,dicyclomine,Preferred
+Gastrointestinal Agents: Unspecified GI: ,AMITIZA,Non-Preferred
+Gastrointestinal Agents: Unspecified GI: ,diphenoxylate/atropine,Preferred
+Gastrointestinal Agents: Unspecified GI: ,GATTEX,Non-Preferred
+Gastrointestinal Agents: Unspecified GI: ,lactulose,Preferred
+Gastrointestinal Agents: Unspecified GI: ,IBSRELA,Non-Preferred
+Gastrointestinal Agents: Unspecified GI: ,LINZESS,Preferred
+Gastrointestinal Agents: Unspecified GI: ,MOTEGRITY,Non-Preferred
+Gastrointestinal Agents: Unspecified GI: ,loperamide,Preferred
+Gastrointestinal Agents: Unspecified GI: ,MYTESI,Non-Preferred
+Gastrointestinal Agents: Unspecified GI: ,lubiprostone ST,Preferred
+Gastrointestinal Agents: Unspecified GI: ,RELISTOR,Non-Preferred
+Gastrointestinal Agents: Unspecified GI: ,MOVANTIK ST,Preferred
+Gastrointestinal Agents: Unspecified GI: ,SYMPROIC,Non-Preferred
+Gastrointestinal Agents: Unspecified GI: ,polyethylene glycol,Preferred
+Gastrointestinal Agents: Unspecified GI: ,senna,Preferred
+Gastrointestinal Agents: Unspecified GI: ,TRULANCE ST,Preferred
+Gastrointestinal Agents: Unspecified GI: ,XIFAXAN ST,Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: ALPHA BLOCKERS,alfuzosin,Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: ALPHA BLOCKERS,CARDURA XL,Non-Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: ALPHA BLOCKERS,doxazosin,Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: ALPHA BLOCKERS,CARDURA XL,Non-Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: ALPHA BLOCKERS,prazosin,Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: ALPHA BLOCKERS,CARDURA XL,Non-Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: ALPHA BLOCKERS,silodosin,Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: ALPHA BLOCKERS,CARDURA XL,Non-Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: ALPHA BLOCKERS,tamsulosin,Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: ALPHA BLOCKERS,CARDURA XL,Non-Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: ALPHA BLOCKERS,terazosin,Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: ALPHA BLOCKERS,CARDURA XL,Non-Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: 5-ALPHA-REDUCTASE (5AR) INHIBITORS,dutasteride,Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: 5-ALPHA-REDUCTASE (5AR) INHIBITORS,finasteride 5mg,Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: ALPHA BLOCKER/5AR/PDE5 INHIBITOR COMBINATIONS,dutasteride/tamsulosin,Non-Preferred
+Genitourinary Agents: Benign Prostatic Hyperplasia: PHOSPHODIESTERASE 5 (PDE5) INHIBITORS,"tadalafil PA 2.5, 5mg",Preferred
+Genitourinary Agents: Electrolyte Depleter Agents: CALCIUM BASED,"calcium acetate, carbonate",Preferred
+Genitourinary Agents: Electrolyte Depleter Agents: CALCIUM BASED,PHOSLYRA SOLN,Preferred
+Genitourinary Agents: Electrolyte Depleter Agents: IRON BASED,VELPHORO ST,Preferred
+Genitourinary Agents: Electrolyte Depleter Agents: IRON BASED,AURYXIA,Non-Preferred
+Genitourinary Agents: Electrolyte Depleter Agents: OTHER,sevelamer,Preferred
+Genitourinary Agents: Electrolyte Depleter Agents: OTHER,FOSRENOL POWDER,Non-Preferred
+Genitourinary Agents: Electrolyte Depleter Agents: OTHER,sevelamer,Preferred
+Genitourinary Agents: Electrolyte Depleter Agents: OTHER,lanthanum carbonate,Non-Preferred
+Genitourinary Agents: Electrolyte Depleter Agents: OTHER,sevelamer,Preferred
+Genitourinary Agents: Electrolyte Depleter Agents: OTHER,XPHOZAH,Non-Preferred
+Genitourinary Agents: Urinary Antispasmodics: ANTIMUSCARINICS,fesoterodine,Preferred
+Genitourinary Agents: Urinary Antispasmodics: ANTIMUSCARINICS,darifenacin,Non-Preferred
+Genitourinary Agents: Urinary Antispasmodics: ANTIMUSCARINICS,"oxybutynin IR, ER",Preferred
+Genitourinary Agents: Urinary Antispasmodics: ANTIMUSCARINICS,"tolterodine IR, ER",Non-Preferred
+Genitourinary Agents: Urinary Antispasmodics: ANTIMUSCARINICS,OXYTROL,Preferred
+Genitourinary Agents: Urinary Antispasmodics: ANTIMUSCARINICS,VESICARE LS AR,Non-Preferred
+Genitourinary Agents: Urinary Antispasmodics: ANTIMUSCARINICS,solifenacin,Preferred
+Genitourinary Agents: Urinary Antispasmodics: ANTIMUSCARINICS,"trospium IR, ER",Preferred
+Genitourinary Agents: Urinary Antispasmodics: BETA-3 AGONISTS,MYRBETRIQ TAB BvG,Preferred
+Genitourinary Agents: Urinary Antispasmodics: BETA-3 AGONISTS,GEMTESA,Non-Preferred
+Genitourinary Agents: Urinary Antispasmodics: BETA-3 AGONISTS,MYRBETRIQ TAB BvG,Preferred
+Genitourinary Agents: Urinary Antispasmodics: BETA-3 AGONISTS,mirabegron tab,Non-Preferred
+Genitourinary Agents: Urinary Antispasmodics: BETA-3 AGONISTS,MYRBETRIQ TAB BvG,Preferred
+Genitourinary Agents: Urinary Antispasmodics: BETA-3 AGONISTS,MYRBETRIQ GRANULES AR,Non-Preferred
+Hyperkalemia Agents: Potassium Binders: ,LOKELMA,Preferred
+Hyperkalemia Agents: Potassium Binders: ,kionex susp,Non-Preferred
+Hyperkalemia Agents: Potassium Binders: ,LOKELMA,Preferred
+Hyperkalemia Agents: Potassium Binders: ,sodium polystyrene sulfonate,Non-Preferred
+Hyperkalemia Agents: Potassium Binders: ,LOKELMA,Preferred
+Hyperkalemia Agents: Potassium Binders: ,VELTASSA,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,ADBRY PA,Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,ACTEMRA,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,DUPIXENT PA,Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,BIMZELX,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,EBGLYSS PA,Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,COSENTYX,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,KINERET PA,Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,ILUMYA,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,SKYRIZI INJ PA,Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,KEVZARA,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,TALTZ PA ST,Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,OMVOH,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,TREMFYA PA,Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,SILIQ,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,TYENNE PA (Bio of ACTEMRA),Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,SKYRIZI IV SOLN,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,STELARA,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,RINVOQ PA,Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,CIBINQO,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,XELJANZ IR PA,Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,LITFULO,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,OLUMIANT,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,"XELJANZ SOLN, XR",Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,adalimumab-adaz PA (gen of HYRIMOZ),Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,ABRILADA (Bio of HUMIRA),Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,adalimumab-fkjp PA (gen of HULIO),Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,adalimumab-aacf (gen of IDACIO),Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,AMJEVITA PA 10/0.1ml (Bio of HUMIRA),Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,adalimumab-aaty (gen of YUFLYMA),Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,ENBREL PA,Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,adalimumab-adbm (gen of CYLTEZO),Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,HUMIRA PA,Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,adalimumab-ryvk (gen of SIMLANDI),Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,INFLECTRA PA (Bio of REMICADE),Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,AMJEVITA 10/0.2ml (Bio of HUMIRA),Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,SIMLANDI BvG PA (Bio of HUMIRA),Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,AVSOLA (Bio of REMICADE),Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,CIMZIA,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,HADLIMA (Bio of HUMIRA),Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,HYRIMOZ (Bio of HUMIRA),Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,infliximab (gen of REMICADE),Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,RENFLEXIS (Bio of REMICADE),Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,SIMPONI,Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,YUSIMRY (Bio of HUMIRA),Non-Preferred
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,ZYMFENTRA,Non-Preferred
+Infectious Disease Agents: Antibiotics – Cephalosporins: ,"cefaclor IR, ER",Preferred
+Infectious Disease Agents: Antibiotics – Cephalosporins: ,cefixime cap,Non-Preferred
+Infectious Disease Agents: Antibiotics – Cephalosporins: ,cefaclor susp AR,Preferred
+Infectious Disease Agents: Antibiotics – Cephalosporins: ,cefixime susp AR,Non-Preferred
+Infectious Disease Agents: Antibiotics – Cephalosporins: ,cefadroxil,Preferred
+Infectious Disease Agents: Antibiotics – Cephalosporins: ,cefpodoxime,Non-Preferred
+Infectious Disease Agents: Antibiotics – Cephalosporins: ,cefdinir,Preferred
+Infectious Disease Agents: Antibiotics – Cephalosporins: ,"cephalexin cap 750mg, tab",Non-Preferred
+Infectious Disease Agents: Antibiotics – Cephalosporins: ,cefprozil,Preferred
+Infectious Disease Agents: Antibiotics – Cephalosporins: ,cefprozil susp AR,Preferred
+Infectious Disease Agents: Antibiotics – Cephalosporins: ,cefuroxime,Preferred
+Infectious Disease Agents: Antibiotics – Cephalosporins: ,"cephalexin cap 250, 500mg",Preferred
+Infectious Disease Agents: Antibiotics – Cephalosporins: ,cephalexin susp AR,Preferred
+Infectious Disease Agents: Antibiotics – Inhaled: ,tobramycin 300mg/5ml neb soln PA,Preferred
+Infectious Disease Agents: Antibiotics – Inhaled: ,ARIKAYCE,Non-Preferred
+Infectious Disease Agents: Antibiotics – Inhaled: ,tobramycin inj,Preferred
+Infectious Disease Agents: Antibiotics – Inhaled: ,CAYSTON,Non-Preferred
+Infectious Disease Agents: Antibiotics – Inhaled: ,TOBI PODHALER,Non-Preferred
+Infectious Disease Agents: Antibiotics – Inhaled: ,tobramycin 300mg/4ml neb soln,Non-Preferred
+Infectious Disease Agents: Antibiotics – Macrolides: ,azithromycin,Preferred
+Infectious Disease Agents: Antibiotics – Macrolides: ,clarithromycin ER,Non-Preferred
+Infectious Disease Agents: Antibiotics – Macrolides: ,"clarithromycin IR, susp AR",Preferred
+Infectious Disease Agents: Antibiotics – Macrolides: ,"erythromycin IR, ER",Non-Preferred
+Infectious Disease Agents: Antibiotics – Quinolones: ,CIPRO ORAL SUSP AR,Preferred
+Infectious Disease Agents: Antibiotics – Quinolones: ,BAXDELA,Non-Preferred
+Infectious Disease Agents: Antibiotics – Quinolones: ,ciprofloxacin,Preferred
+Infectious Disease Agents: Antibiotics – Quinolones: ,ofloxacin,Non-Preferred
+Infectious Disease Agents: Antibiotics – Quinolones: ,ciprofloxacin susp AR,Preferred
+Infectious Disease Agents: Antibiotics – Quinolones: ,"levofloxacin soln AR, tab",Preferred
+Infectious Disease Agents: Antibiotics – Quinolones: ,moxifloxacin,Preferred
+Infectious Disease Agents: Antibiotics – Tetracyclines: ,"doxycycline 20, 50, 100mg",Preferred
+Infectious Disease Agents: Antibiotics – Tetracyclines: ,demeclocycline,Non-Preferred
+Infectious Disease Agents: Antibiotics – Tetracyclines: ,doxycycline susp AR,Preferred
+Infectious Disease Agents: Antibiotics – Tetracyclines: ,"doxycycline 75, 150mg",Non-Preferred
+Infectious Disease Agents: Antibiotics – Tetracyclines: ,minocycline IR,Preferred
+Infectious Disease Agents: Antibiotics – Tetracyclines: ,doxycycline DR,Non-Preferred
+Infectious Disease Agents: Antibiotics – Tetracyclines: ,tetracycline,Preferred
+Infectious Disease Agents: Antibiotics – Tetracyclines: ,minocycline ER,Non-Preferred
+Infectious Disease Agents: Antibiotics – Tetracyclines: ,MINOLIRA,Non-Preferred
+Infectious Disease Agents: Antibiotics – Tetracyclines: ,NUZYRA,Non-Preferred
+Infectious Disease Agents: Antifungals: ,clotrimazole,Preferred
+Infectious Disease Agents: Antifungals: ,BREXAFEMME,Non-Preferred
+Infectious Disease Agents: Antifungals: ,fluconazole,Preferred
+Infectious Disease Agents: Antifungals: ,CRESEMBA,Non-Preferred
+Infectious Disease Agents: Antifungals: ,griseofulvin,Preferred
+Infectious Disease Agents: Antifungals: ,flucytosine,Non-Preferred
+Infectious Disease Agents: Antifungals: ,itraconazole cap,Preferred
+Infectious Disease Agents: Antifungals: ,itraconazole soln,Non-Preferred
+Infectious Disease Agents: Antifungals: ,ketoconazole,Preferred
+Infectious Disease Agents: Antifungals: ,NOXAFIL PAK,Non-Preferred
+Infectious Disease Agents: Antifungals: ,nystatin,Preferred
+Infectious Disease Agents: Antifungals: ,ORAVIG,Non-Preferred
+Infectious Disease Agents: Antifungals: ,terbinafine,Preferred
+Infectious Disease Agents: Antifungals: ,posaconazole,Non-Preferred
+Infectious Disease Agents: Antifungals: ,"voriconazole susp AR, tab",Preferred
+Infectious Disease Agents: Antifungals: ,TOLSURA,Non-Preferred
+Infectious Disease Agents: Antifungals: ,VIVJOA,Non-Preferred
+Infectious Disease Agents: Antivirals – Hepatitis C Agents: ,MAVYRET PA,Preferred
+Infectious Disease Agents: Antivirals – Hepatitis C Agents: ,HARVONI,Non-Preferred
+Infectious Disease Agents: Antivirals – Hepatitis C Agents: ,PEGASYS PA,Preferred
+Infectious Disease Agents: Antivirals – Hepatitis C Agents: ,ledipasvir/sofosbuvir,Non-Preferred
+Infectious Disease Agents: Antivirals – Hepatitis C Agents: ,ribavirin PA,Preferred
+Infectious Disease Agents: Antivirals – Hepatitis C Agents: ,SOVALDI,Non-Preferred
+Infectious Disease Agents: Antivirals – Hepatitis C Agents: ,sofosbuvir/velpatasvir PA,Preferred
+Infectious Disease Agents: Antivirals – Hepatitis C Agents: ,VOSEVI,Non-Preferred
+Infectious Disease Agents: Antivirals – Hepatitis C Agents: ,ZEPATIER,Non-Preferred
+Infectious Disease Agents: Antivirals – Herpes: ,acyclovir,Preferred
+Infectious Disease Agents: Antivirals – Herpes: ,famciclovir,Non-Preferred
+Infectious Disease Agents: Antivirals – Herpes: ,valacyclovir,Preferred
+Infectious Disease Agents: Antivirals – Herpes: ,SITAVIG,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: INTEGRASE STRAND TRANSFER INHIBITORS,APRETUDE,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: INTEGRASE STRAND TRANSFER INHIBITORS,VOCABRIA,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: INTEGRASE STRAND TRANSFER INHIBITORS,ISENTRESS,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: INTEGRASE STRAND TRANSFER INHIBITORS,VOCABRIA,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: INTEGRASE STRAND TRANSFER INHIBITORS,ISENTRESS CHEW TAB AR,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: INTEGRASE STRAND TRANSFER INHIBITORS,VOCABRIA,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: INTEGRASE STRAND TRANSFER INHIBITORS,TIVICAY,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: INTEGRASE STRAND TRANSFER INHIBITORS,VOCABRIA,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: INTEGRASE STRAND TRANSFER INHIBITORS,TIVICAY PD,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: INTEGRASE STRAND TRANSFER INHIBITORS,VOCABRIA,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,abacavir,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,abacavir soln,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,emtricitabine,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,lamivudine tab,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,entecavir,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,lamivudine soln AR,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,tenofovir dis fum 300mg,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,"VIREAD TAB, POWDER",Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,zidovudine,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,efavirenz,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,EDURANT,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,nevirapine soln AR,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,etravirine,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,PIFELTRO,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,"nevirapine IR, ER tab",Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: PROTEASE INHIBITORS,atazanavir,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: PROTEASE INHIBITORS,APTIVUS,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: PROTEASE INHIBITORS,"darunavir 600, 800mg tab",Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: PROTEASE INHIBITORS,fosamprenavir,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: PROTEASE INHIBITORS,EVOTAZ,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: PROTEASE INHIBITORS,NORVIR POWDER,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: PROTEASE INHIBITORS,PREZCOBIX,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: PROTEASE INHIBITORS,"PREZISTA SUSP, 75, 150mg TAB",Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: PROTEASE INHIBITORS,REYATAZ POWDER,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: PROTEASE INHIBITORS,VIRACEPT,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: PROTEASE INHIBITORS,ritonavir tab,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: OTHER SINGLE INGREDIENT PRODUCTS,RUKOBIA PA,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: OTHER SINGLE INGREDIENT PRODUCTS,FUZEON,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: OTHER SINGLE INGREDIENT PRODUCTS,RUKOBIA PA,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: OTHER SINGLE INGREDIENT PRODUCTS,SELZENTRY BvG,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: OTHER SINGLE INGREDIENT PRODUCTS,RUKOBIA PA,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: OTHER SINGLE INGREDIENT PRODUCTS,SUNLENCA,Non-Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: OTHER SINGLE INGREDIENT PRODUCTS,RUKOBIA PA,Preferred
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: OTHER SINGLE INGREDIENT PRODUCTS,TYBOST,Non-Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,bacitracin-polymyxin,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,AZASITE,Non-Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,CILOXAN,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,bacitracin,Non-Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,ciprofloxacin,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,BESIVANCE,Non-Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,erythromycin,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,gatifloxacin,Non-Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,gentamicin,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,moxifloxacin (generic of MOXEZA),Non-Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,moxifloxacin,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,neo/poly/hydrocortisone,Non-Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,neo/poly/bacitracin,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,sulfacetamide sodium oint 10%,Non-Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,neo/poly/bacitracin/hydrocortisone,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,TOBRADEX ST,Non-Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,neo/poly/dexamethasone,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,ZYLET,Non-Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,neo/poly/gramicidin,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,ofloxacin,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,polymyxin/trimethoprim,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,sulfacetamide sodium soln 10%,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,sulfacetamide/prednisolone,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,TOBRADEX OINT,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,tobramycin,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,tobramycin/dexameth 0.3/0.1%,Preferred
+Ophthalmic Agents: Antibiotic and Antibiotic-Steroid Combination Drops and Ointments: ,TOBREX OINT,Preferred
+Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers: ,azelastine,Preferred
+Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers: ,alomide,Non-Preferred
+Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers: ,BEPREVE BvG,Preferred
+Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers: ,bepotastine,Non-Preferred
+Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers: ,cromolyn,Preferred
+Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers: ,epinastine,Non-Preferred
+Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers: ,ketotifen,Preferred
+Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers: ,ZERVIATE,Non-Preferred
+Ophthalmic Agents: Antihistamines & Mast Cell Stabilizers: ,olopatadine,Preferred
+Ophthalmic Agents: Dry Eye Treatments: ,RESTASIS TRAYS BvG,Preferred
+Ophthalmic Agents: Dry Eye Treatments: ,CEQUA,Non-Preferred
+Ophthalmic Agents: Dry Eye Treatments: ,XIIDRA ST,Preferred
+Ophthalmic Agents: Dry Eye Treatments: ,cyclosporine,Non-Preferred
+Ophthalmic Agents: Dry Eye Treatments: ,EYSUVIS,Non-Preferred
+Ophthalmic Agents: Dry Eye Treatments: ,MIEBO,Non-Preferred
+Ophthalmic Agents: Dry Eye Treatments: ,RESTASIS MULTI-DOSE,Non-Preferred
+Ophthalmic Agents: Dry Eye Treatments: ,TYRVAYA,Non-Preferred
+Ophthalmic Agents: Dry Eye Treatments: ,VEVYE,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: ALPHA-2 AGONISTS,ALPHAGAN P 0.1% BvG,Preferred
+Ophthalmic Agents: Glaucoma Agents: ALPHA-2 AGONISTS,apraclonidine,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: ALPHA-2 AGONISTS,ALPHAGAN P 0.15% BvG,Preferred
+Ophthalmic Agents: Glaucoma Agents: ALPHA-2 AGONISTS,"brimonidine 0.1%, 0.15%",Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: ALPHA-2 AGONISTS,brimonidine 0.2%,Preferred
+Ophthalmic Agents: Glaucoma Agents: ALPHA-2 AGONISTS,IOPIDINE,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: BETA BLOCKERS,betaxolol,Preferred
+Ophthalmic Agents: Glaucoma Agents: BETA BLOCKERS,BETIMOL,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: BETA BLOCKERS,carteolol,Preferred
+Ophthalmic Agents: Glaucoma Agents: BETA BLOCKERS,BETOPTIC S,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: BETA BLOCKERS,levobunolol,Preferred
+Ophthalmic Agents: Glaucoma Agents: BETA BLOCKERS,"timolol maleate once daily, PF",Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: BETA BLOCKERS,"timolol gel, soln",Preferred
+Ophthalmic Agents: Glaucoma Agents: CARBONIC ANHYDRASE INHIBITORS,AZOPT BvG ST,Preferred
+Ophthalmic Agents: Glaucoma Agents: CARBONIC ANHYDRASE INHIBITORS,brinzolamide,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: CARBONIC ANHYDRASE INHIBITORS,dorzolamide,Preferred
+Ophthalmic Agents: Glaucoma Agents: CARBONIC ANHYDRASE INHIBITORS,brinzolamide,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: PROSTAGLANDINS,latanoprost,Preferred
+Ophthalmic Agents: Glaucoma Agents: PROSTAGLANDINS,bimatoprost,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: PROSTAGLANDINS,TRAVATAN Z BvG ST,Preferred
+Ophthalmic Agents: Glaucoma Agents: PROSTAGLANDINS,IYUZEH,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: PROSTAGLANDINS,LUMIGAN,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: PROSTAGLANDINS,tafluprost,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: PROSTAGLANDINS,travoprost,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: PROSTAGLANDINS,VYZULTA,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: PROSTAGLANDINS,XELPROS,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: OTHER,COMBIGAN BvG ST,Preferred
+Ophthalmic Agents: Glaucoma Agents: OTHER,brimonidine/timolol,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: OTHER,dorzolamide/timolol,Preferred
+Ophthalmic Agents: Glaucoma Agents: OTHER,brimonidine/timolol,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: OTHER,RHOPRESSA,Preferred
+Ophthalmic Agents: Glaucoma Agents: OTHER,brimonidine/timolol,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: OTHER,ROCKLATAN,Preferred
+Ophthalmic Agents: Glaucoma Agents: OTHER,brimonidine/timolol,Non-Preferred
+Ophthalmic Agents: Glaucoma Agents: OTHER,SIMBRINZA,Preferred
+Ophthalmic Agents: Glaucoma Agents: OTHER,brimonidine/timolol,Non-Preferred
+Ophthalmic Agents: NSAIDs: ,diclofenac,Preferred
+Ophthalmic Agents: NSAIDs: ,ACUVAIL,Non-Preferred
+Ophthalmic Agents: NSAIDs: ,flurbiprofen,Preferred
+Ophthalmic Agents: NSAIDs: ,bromfenac,Non-Preferred
+Ophthalmic Agents: NSAIDs: ,ketorolac,Preferred
+Ophthalmic Agents: NSAIDs: ,ILEVRO,Non-Preferred
+Ophthalmic Agents: NSAIDs: ,NEVANAC,Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,ALREX BvG,Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,INVELTYS,Non-Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,dexamethasone sodium phosphate,Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,LOTEMAX SM,Non-Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,difluprednate,Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,loteprednol,Non-Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,DUREZOL,Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,FLAREX,Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,fluorometholone,Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,FML FORTE,Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,LOTEMAX BvG,Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,MAXIDEX,Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,PRED FORTE,Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,PRED MILD,Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,prednisolone acetate,Preferred
+Ophthalmic Agents: Ophthalmic Steroids: ,prednisolone sodium phosphate,Preferred
+Otic Agents: Antibacterial and Antibacterial/Steroid Combinations: ,CIPRO HC,Preferred
+Otic Agents: Antibacterial and Antibacterial/Steroid Combinations: ,ciprofloxacin ciprofloxacin/fluocinolone,Non-Preferred
+Otic Agents: Antibacterial and Antibacterial/Steroid Combinations: ,ciprofloxacin/dexamethasone,Preferred
+Otic Agents: Antibacterial and Antibacterial/Steroid Combinations: ,ciprofloxacin ciprofloxacin/fluocinolone,Non-Preferred
+Otic Agents: Antibacterial and Antibacterial/Steroid Combinations: ,CORTISPORIN-TC,Preferred
+Otic Agents: Antibacterial and Antibacterial/Steroid Combinations: ,ciprofloxacin ciprofloxacin/fluocinolone,Non-Preferred
+Otic Agents: Antibacterial and Antibacterial/Steroid Combinations: ,neomycin/poly B/hydrocortisone,Preferred
+Otic Agents: Antibacterial and Antibacterial/Steroid Combinations: ,ciprofloxacin ciprofloxacin/fluocinolone,Non-Preferred
+Otic Agents: Antibacterial and Antibacterial/Steroid Combinations: ,ofloxacin,Preferred
+Otic Agents: Antibacterial and Antibacterial/Steroid Combinations: ,ciprofloxacin ciprofloxacin/fluocinolone,Non-Preferred
+Respiratory Agents: Antihistamines – Second Generation: ,"cetirizine cap, syr, tab",Preferred
+Respiratory Agents: Antihistamines – Second Generation: ,cetirizine chewable AR,Non-Preferred
+Respiratory Agents: Antihistamines – Second Generation: ,cetirizine/pseudoephedrine,Preferred
+Respiratory Agents: Antihistamines – Second Generation: ,CLARINEX-D,Non-Preferred
+Respiratory Agents: Antihistamines – Second Generation: ,desloratadine,Preferred
+Respiratory Agents: Antihistamines – Second Generation: ,loratadine chewable AR,Non-Preferred
+Respiratory Agents: Antihistamines – Second Generation: ,fexofenadine,Preferred
+Respiratory Agents: Antihistamines – Second Generation: ,fexofenadine/pseudoephedrine,Non-Preferred
+Respiratory Agents: Antihistamines – Second Generation: ,levocetirizine,Preferred
+Respiratory Agents: Antihistamines – Second Generation: ,loratadine rapid dissolve,Preferred
+Respiratory Agents: Antihistamines – Second Generation: ,"loratadine syr, tab",Preferred
+Respiratory Agents: Antihistamines – Second Generation: ,loratadine/pseudoephedrine,Preferred
+Respiratory Agents: Cystic Fibrosis: ,KALYDECO PA,Preferred
+Respiratory Agents: Cystic Fibrosis: ,BRONCHITOL,Non-Preferred
+Respiratory Agents: Cystic Fibrosis: ,ORKAMBI PA,Preferred
+Respiratory Agents: Cystic Fibrosis: ,BRONCHITOL,Non-Preferred
+Respiratory Agents: Cystic Fibrosis: ,PULMOZYME PA,Preferred
+Respiratory Agents: Cystic Fibrosis: ,BRONCHITOL,Non-Preferred
+Respiratory Agents: Cystic Fibrosis: ,SYMDEKO PA,Preferred
+Respiratory Agents: Cystic Fibrosis: ,BRONCHITOL,Non-Preferred
+Respiratory Agents: Cystic Fibrosis: ,"TRIKAFTA PA PAK AR, TAB",Preferred
+Respiratory Agents: Cystic Fibrosis: ,BRONCHITOL,Non-Preferred
+Respiratory Agents: Epinephrine Auto-Injectors: ,epinephrine (labeler 49502),Preferred
+Respiratory Agents: Epinephrine Auto-Injectors: ,AUVI-Q,Non-Preferred
+Respiratory Agents: Epinephrine Auto-Injectors: ,EPIPEN,Preferred
+Respiratory Agents: Epinephrine Auto-Injectors: ,AUVI-Q,Non-Preferred
+Respiratory Agents: Epinephrine Auto-Injectors: ,EPIPEN JR,Preferred
+Respiratory Agents: Epinephrine Auto-Injectors: ,AUVI-Q,Non-Preferred
+Respiratory Agents: Hereditary Angioedema: ACUTE,BERINERT PA,Preferred
+Respiratory Agents: Hereditary Angioedema: ACUTE,KALBITOR,Non-Preferred
+Respiratory Agents: Hereditary Angioedema: ACUTE,icatibant acetate PA,Preferred
+Respiratory Agents: Hereditary Angioedema: ACUTE,RUCONEST,Non-Preferred
+Respiratory Agents: Hereditary Angioedema: PROPHYLAXIS,TAKHZYRO PA,Preferred
+Respiratory Agents: Hereditary Angioedema: PROPHYLAXIS,CINRYZE,Non-Preferred
+Respiratory Agents: Hereditary Angioedema: PROPHYLAXIS,TAKHZYRO PA,Preferred
+Respiratory Agents: Hereditary Angioedema: PROPHYLAXIS,HAEGARDA,Non-Preferred
+Respiratory Agents: Hereditary Angioedema: PROPHYLAXIS,TAKHZYRO PA,Preferred
+Respiratory Agents: Hereditary Angioedema: PROPHYLAXIS,ORLADEYO,Non-Preferred
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,ANORO ELLIPTA,Preferred
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,BEVESPI AEROSPHERE,Non-Preferred
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,ATROVENT HFA,Preferred
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,DUAKLIR PRESSAIR,Non-Preferred
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,COMBIVENT RESPIMAT,Preferred
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,tiotropium inhaled caps,Non-Preferred
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,INCRUSE ELLIPTA,Preferred
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,TUDORZA,Non-Preferred
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,ipratropium,Preferred
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,YUPELRI,Non-Preferred
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,ipratropium/albuterol neb soln,Preferred
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,SPIRIVA BvG,Preferred
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,STIOLTO,Preferred
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,albuterol HFA,Preferred
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,arformoterol neb,Non-Preferred
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,"albuterol neb 0.021% (0.63mg/3mL),",Preferred
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,formoterol fumarate,Non-Preferred
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,0.042% (1.25mg/3mL) AR,Preferred
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,levalbuterol,Non-Preferred
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,albuterol neb 0.083% (2.5mg/3mL),Preferred
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,"PROAIR DIGIHALER, RESPICLICK",Non-Preferred
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,albuterol neb 0.5% (5mg/mL) conc,Preferred
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,BROVANA BvG,Preferred
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,SEREVENT DISKUS,Preferred
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,STRIVERDI RESPIMAT,Preferred
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,VENTOLIN HFA,Preferred
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,XOPENEX HFA BvG,Preferred
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,ADVAIR DISKUS BvG,Preferred
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,AIRDUO DIGIHALER,Non-Preferred
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,ADVAIR HFA BvG,Preferred
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,AIRSUPRA,Non-Preferred
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,DULERA,Preferred
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,BREO ELLIPTA BvG,Non-Preferred
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,SYMBICORT BvG,Preferred
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,BREYNA,Non-Preferred
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,BREZTRI AEROSPHERE,Non-Preferred
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,budesonide/formoterol,Non-Preferred
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,fluticasone/salmeterol,Non-Preferred
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,TRELEGY ELLIPTA,Non-Preferred
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,WIXELA INHUB,Non-Preferred
+Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors: ,montelukast,Preferred
+Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors: ,zileuton ER,Non-Preferred
+Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors: ,zafirlukast ST,Preferred
+Respiratory Agents: Leukotriene Receptor Modifiers & Inhibitors: ,ZYFLO,Non-Preferred
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,DUPIXENT PA,Preferred
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,CINQAIR,Non-Preferred
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,FASENRA PA,Preferred
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,NUCALA,Non-Preferred
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,XOLAIR PA,Preferred
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,TEZSPIRE,Non-Preferred
+Respiratory Agents: Nasal Preparations: GLUCOCORTICOIDS/COMBINATIONS,flunisolide,Preferred
+Respiratory Agents: Nasal Preparations: GLUCOCORTICOIDS/COMBINATIONS,azelastine/fluticasone spray,Non-Preferred
+Respiratory Agents: Nasal Preparations: GLUCOCORTICOIDS/COMBINATIONS,fluticasone (generic of FLONASE),Preferred
+Respiratory Agents: Nasal Preparations: GLUCOCORTICOIDS/COMBINATIONS,BECONASE AQ,Non-Preferred
+Respiratory Agents: Nasal Preparations: GLUCOCORTICOIDS/COMBINATIONS,mometasone,Non-Preferred
+Respiratory Agents: Nasal Preparations: GLUCOCORTICOIDS/COMBINATIONS,OMNARIS,Non-Preferred
+Respiratory Agents: Nasal Preparations: GLUCOCORTICOIDS/COMBINATIONS,QNASL,Non-Preferred
+Respiratory Agents: Nasal Preparations: GLUCOCORTICOIDS/COMBINATIONS,RYALTRIS,Non-Preferred
+Respiratory Agents: Nasal Preparations: GLUCOCORTICOIDS/COMBINATIONS,XHANCE,Non-Preferred
+Respiratory Agents: Nasal Preparations: GLUCOCORTICOIDS/COMBINATIONS,ZETONNA,Non-Preferred
+Respiratory Agents: Nasal Preparations: OTHER,azelastine,Preferred
+Respiratory Agents: Nasal Preparations: OTHER,ipratropium,Preferred
+Respiratory Agents: Nasal Preparations: OTHER,olopatadine,Preferred
+Respiratory Agents: Pulmonary Fibrosis: ,OFEV PA,Preferred
+Respiratory Agents: Pulmonary Fibrosis: ,pirfenidone,Non-Preferred
+Topical Agents: Antifungals: ,ALEVAZOL,Preferred
+Topical Agents: Antifungals: ,ciclopirox kit,Non-Preferred
+Topical Agents: Antifungals: ,butenafine,Preferred
+Topical Agents: Antifungals: ,ERTACZO,Non-Preferred
+Topical Agents: Antifungals: ,ciclopirox,Preferred
+Topical Agents: Antifungals: ,JUBLIA,Non-Preferred
+Topical Agents: Antifungals: ,clotrimazole,Preferred
+Topical Agents: Antifungals: ,ketoconazole foam,Non-Preferred
+Topical Agents: Antifungals: ,clotrimazole/betamethasone,Preferred
+Topical Agents: Antifungals: ,luliconazole,Non-Preferred
+Topical Agents: Antifungals: ,econazole,Preferred
+Topical Agents: Antifungals: ,miconazole/zinc/white petrolatum oint,Non-Preferred
+Topical Agents: Antifungals: ,ketoconazole,Preferred
+Topical Agents: Antifungals: ,naftifine,Non-Preferred
+Topical Agents: Antifungals: ,miconazole,Preferred
+Topical Agents: Antifungals: ,oxiconazole,Non-Preferred
+Topical Agents: Antifungals: ,nystatin,Preferred
+Topical Agents: Antifungals: ,OXISTAT,Non-Preferred
+Topical Agents: Antifungals: ,nystatin/triamcinolone,Preferred
+Topical Agents: Antifungals: ,tavaborole,Non-Preferred
+Topical Agents: Antifungals: ,terbinafine,Preferred
+Topical Agents: Antifungals: ,tolnaftate,Preferred
+Topical Agents: Antiparasitics: ,NATROBA BvG,Preferred
+Topical Agents: Antiparasitics: ,CROTAN,Non-Preferred
+Topical Agents: Antiparasitics: ,permethrin,Preferred
+Topical Agents: Antiparasitics: ,ivermectin lot,Non-Preferred
+Topical Agents: Antiparasitics: ,piperonyl butoxide/pyrethrins,Preferred
+Topical Agents: Antiparasitics: ,malathion,Non-Preferred
+Topical Agents: Antiparasitics: ,VANALICE,Preferred
+Topical Agents: Antiparasitics: ,spinosad,Non-Preferred
+Topical Agents: Corticosteroids: LOW POTENCY,"desonide cream, oint",Preferred
+Topical Agents: Corticosteroids: LOW POTENCY,alclometasone,Non-Preferred
+Topical Agents: Corticosteroids: LOW POTENCY,"fluocinolone acetonide 0.01% cream, soln",Preferred
+Topical Agents: Corticosteroids: LOW POTENCY,desonide lotion,Non-Preferred
+Topical Agents: Corticosteroids: LOW POTENCY,hydrocortisone,Preferred
+Topical Agents: Corticosteroids: LOW POTENCY,TEXACORT,Non-Preferred
+Topical Agents: Corticosteroids: MEDIUM POTENCY,betamethasone valerate,Preferred
+Topical Agents: Corticosteroids: MEDIUM POTENCY,betamethasone val aerosol foam,Non-Preferred
+Topical Agents: Corticosteroids: MEDIUM POTENCY,fluocinolone acetonide 0.01% oil,Preferred
+Topical Agents: Corticosteroids: MEDIUM POTENCY,clocortolone pivalate,Non-Preferred
+Topical Agents: Corticosteroids: MEDIUM POTENCY,flurandrenolide,Preferred
+Topical Agents: Corticosteroids: MEDIUM POTENCY,fluocinolone acetonide 0.025%,Non-Preferred
+Topical Agents: Corticosteroids: MEDIUM POTENCY,"fluticasone propionate cream, oint",Preferred
+Topical Agents: Corticosteroids: MEDIUM POTENCY,"hydrocortisone butyrate, valerate",Non-Preferred
+Topical Agents: Corticosteroids: MEDIUM POTENCY,prednicarbate,Preferred
+Topical Agents: Corticosteroids: MEDIUM POTENCY,PANDEL,Non-Preferred
+Topical Agents: Corticosteroids: MEDIUM POTENCY,"triamcinolone cream, lotion, oint",Preferred
+Topical Agents: Corticosteroids: MEDIUM POTENCY,triamcinolone spray,Non-Preferred
+Topical Agents: Corticosteroids: HIGH POTENCY,betamethasone dip/calcipotriene oint,Preferred
+Topical Agents: Corticosteroids: HIGH POTENCY,betamethasone dip,Non-Preferred
+Topical Agents: Corticosteroids: HIGH POTENCY,fluocinonide 0.05%,Preferred
+Topical Agents: Corticosteroids: HIGH POTENCY,betamethasone dip/calcipotriene susp,Non-Preferred
+Topical Agents: Corticosteroids: HIGH POTENCY,mometasone furoate,Preferred
+Topical Agents: Corticosteroids: HIGH POTENCY,desoximetasone,Non-Preferred
+Topical Agents: Corticosteroids: HIGH POTENCY,diflorasone diacetate,Non-Preferred
+Topical Agents: Corticosteroids: HIGH POTENCY,ENSTILAR,Non-Preferred
+Topical Agents: Corticosteroids: HIGH POTENCY,fluticasone propionate lotion,Non-Preferred
+Topical Agents: Corticosteroids: HIGH POTENCY,fluocinonide 0.1%,Non-Preferred
+Topical Agents: Corticosteroids: HIGH POTENCY,halcinonide,Non-Preferred
+Topical Agents: Corticosteroids: HIGH POTENCY,HALOG,Non-Preferred
+Topical Agents: Corticosteroids: ULTRA HIGH POTENCY,clobetasol propionate,Preferred
+Topical Agents: Corticosteroids: ULTRA HIGH POTENCY,APEXICON E,Non-Preferred
+Topical Agents: Corticosteroids: ULTRA HIGH POTENCY,clobetasol propionate,Preferred
+Topical Agents: Corticosteroids: ULTRA HIGH POTENCY,BRYHALI,Non-Preferred
+Topical Agents: Corticosteroids: ULTRA HIGH POTENCY,clobetasol propionate,Preferred
+Topical Agents: Corticosteroids: ULTRA HIGH POTENCY,halobetasol propionate,Non-Preferred
+Topical Agents: Corticosteroids: ULTRA HIGH POTENCY,clobetasol propionate,Preferred
+Topical Agents: Corticosteroids: ULTRA HIGH POTENCY,ULTRAVATE,Non-Preferred
+Topical Agents: Immunomodulators: ,ELIDEL AR BvG,Preferred
+Topical Agents: Immunomodulators: ,EUCRISA,Non-Preferred
+Topical Agents: Immunomodulators: ,tacrolimus AR,Preferred
+Topical Agents: Immunomodulators: ,HYFTOR,Non-Preferred
+Topical Agents: Immunomodulators: ,OPZELURA,Non-Preferred
+Topical Agents: Immunomodulators: ,pimecrolimus AR,Non-Preferred
+Topical Agents: Immunomodulators: ,VTAMA,Non-Preferred
+Topical Agents: Immunomodulators: ,"ZORYVE CREAM, FOAM",Non-Preferred
