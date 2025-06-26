@@ -1,0 +1,558 @@
+therapeutic_class,capsule_name,pdl_name,status
+Mental Health: Atypical Antipsychotics,Abilify Asimtufii,Abilify Asimtufii,Preferred
+Mental Health: Atypical Antipsychotics,Abilify Maintena,Abilify Maintena,Preferred
+Mental Health: Atypical Antipsychotics,Abilify MyCite,Abilify Mycite,Non-Preferred
+Mental Health: Atypical Antipsychotics,Abilify tablet,Abilify,Non-Preferred
+Dermatological: Oral Acne Products,Absorica LD capsule,Absorica,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Aciphex,Aciphex,Non-Preferred
+Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Adcirca,Adcirca,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Adderall XR ER capsule,Adderall XR,Preferred
+Antidiabetics: Short Acting Insulin,Admelog,Admelog,Non-Preferred
+Antidiabetics: Short Acting Insulin,Admelog SoloStar,Admelog,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,Advair Diskus,Advair,Preferred
+Respiratory: Asthma & COPD - Combination Products,Advair HFA,Advair,Preferred
+Antihemophilia: Factor VIII,Advate,Advate,Non-Preferred
+Antihemophilia: Factor VIII,Adynovate,Adynovate,Preferred
+Antihemophilia: Factor VIII,Afstyla,Afstyla,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Aimovig,Aimovig,Preferred
+Respiratory: Asthma & COPD - Combination Products,Airduo Digihaler,AirDuo,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,Airduo Respiclick,AirDuo,Non-Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Airsupra HFA,Airsupra,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Ajovy,Ajovy,Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Albuterol HFA generic PROAIR,albuterol HFA,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Almotriptan,almotriptan,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Alpha Adrenergics,Alphagan P 0.001,Alphagan P 0.1%,Preferred
+Antihemophilia: Factor IX,Alprolix,Alprolix,Preferred
+Antihemophilia: Factor VIII,Altuviiio,Altuviiio,Non-Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Alvesco,Alvesco,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Ambien,Ambien,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Ambien CR,Ambien CR,Non-Preferred
+Pulmonary Hypertension: Endothelin Antagonists,Ambrisentan,ambrisentan,Preferred
+Cardiovascular: Calcium Channel Blocking Agents,Amlodipine tablet,amlodipine,Preferred
+Muscle Relaxants: Antispasmodic Agents,Amrix,Amrix,Non-Preferred
+Respiratory: Asthma & COPD - LABA/LAMA Combinations,Anoro Ellipta,Anoro Ellipta,Preferred
+Antidiabetics: Short Acting Insulin,Apidra,Apidra,Preferred
+Antidiabetics: Short Acting Insulin,Apidra SoloStar,Apidra,Preferred
+Mental Health: Antidepressants - Miscellaneous,Aplenzin,Aplenzin,Preferred
+Mental Health: Anticonvulsants,Aptiom,Aptiom,Preferred
+Antivirals: Protease Inhibitors,Aptivus,Aptivus,Non-Preferred
+Hematopoietics: Erythropoiesis Stimulating Agents (ESAs),Aranesp,Aranesp,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,Aricept,Aricept,Non-Preferred
+Respiratory: Cystic Fibrosis: Inhaled Aminoglycosides,Arikayce,Arikayce,Non-Preferred
+Mental Health: Atypical Antipsychotics,Aripiprazole ODT,aripiprazole ODT,Non-Preferred
+Mental Health: Atypical Antipsychotics,Aripiprazole oral solution,aripiprazole solution,Non-Preferred
+Mental Health: Atypical Antipsychotics,Aripiprazole tablet,aripiprazole tablet,Preferred
+Mental Health: Atypical Antipsychotics,Aristada,Aristada,Preferred
+Mental Health: Atypical Antipsychotics,Aristada Initio,Aristada,Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Armonair Digihaler,Armonair,Non-Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Arnuity Ellipta,Arnuity Ellipta,Preferred
+Mental Health: Atypical Antipsychotics,Asenapine,asenapine SL tablet,Non-Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Asmanex HFA,Asmanex,Non-Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Asmanex Twisthaler,Asmanex,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Atripla,Atripla,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Aubagio tablet,Aubagio,Non-Preferred
+Gastrointestinal (GI): Phosphate Binders,Auryxia,Auryxia,Non-Preferred
+Neurological: Movement Disorder Treatments - VMAT-2 Inhibitors,Austedo,"Austedo, XR",Preferred
+Neurological: Movement Disorder Treatments - VMAT-2 Inhibitors,Austedo XR,"Austedo, XR",Preferred
+Neurological: Movement Disorder Treatments - VMAT-2 Inhibitors,Austedo XR titration pack,"Austedo, XR",Preferred
+Mental Health: Antidepressants - Miscellaneous,Auvelity,Auvelity,Non-Preferred
+Epinephrine: Injection Devices,Auvi-Q 0.1 mg,Auvi-Q,Non-Preferred
+Epinephrine: Injection Devices,Auvi-Q 0.15 mg,Auvi-Q,Non-Preferred
+Epinephrine: Injection Devices,Auvi-Q 0.3 mg,Auvi-Q,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Avonex auto-injector,Avonex,Preferred
+Neurological: Multiple Sclerosis Agents,Avonex prefilled syringe,Avonex,Preferred
+Mental Health: Long Acting ADHD Stimulants,Azstarys,Azstarys,Non-Preferred
+Muscle Relaxants: Antispasticity Agents,Baclofen 15 mg,baclofen 15mg tablet,Non-Preferred
+Muscle Relaxants: Antispasticity Agents,Baclofen oral solution,baclofen suspension,Preferred
+Muscle Relaxants: Antispasticity Agents,Baclofen tablet,"baclofen 5mg, 10mg, 20mg tablet",Preferred
+Neurological: Multiple Sclerosis Agents,Bafiertam,Bafiertam,Non-Preferred
+Mental Health: Anticonvulsants,Banzel oral suspension,Banzel,Non-Preferred
+Mental Health: Anticonvulsants,Banzel tablet,Banzel,Non-Preferred
+Antidiabetics: Long Acting Insulin,Basaglar Kwikpen,Basaglar,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Benazepril,benazepril,Preferred
+Antihemophilia: Factor IX,Benefix,Benefix,Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,Betapace,Betapace,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,Betapace AF,Betapace AF,Non-Preferred
+Respiratory: Cystic Fibrosis: Inhaled Aminoglycosides,Bethkis,Bethkis,Non-Preferred
+Respiratory: Asthma & COPD - LABA/LAMA Combinations,Bevespi Aerosphere,Bevespi,Non-Preferred
+Estrogens: Oral Combination,Bijuva capsule,Bijuva,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Biktarvy,Biktarvy,Preferred
+Pulmonary Hypertension: Endothelin Antagonists,Bosentan,bosentan,Preferred
+Neurological: Migraine - Prophylactic Therapy,Botox,Botox,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Botox Migraine prophylaxis,Botox,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,Breo Ellipta,Breo Ellipta,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,Breyna,Breyna,Non-Preferred
+Respiratory: Asthma & COPD - LABA/LAMA Combinations,Breztri Aerosphere,Breztri,Non-Preferred
+Cardiovascular: Platelet Aggregation Inhibitors,Brilinta,Brilinta,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Briumvi,Briumvi,Non-Preferred
+Mental Health: Anticonvulsants,Briviact,Briviact,Preferred
+Respiratory: Asthma & COPD - Combination Products,Budesonide / Formoterol authorized generic Symbicort,budesonide/formoterol,Non-Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Budesonide respules (inhalation suspension),budesonide nebulizer,Preferred
+Antidiabetics: GLP-1 Agonists,Bydureon Bcise,Bydureon BCise,Non-Preferred
+Antidiabetics: GLP-1 Agonists,Byetta,Byetta,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),Candesartan,candesartan,Non-Preferred
+Mental Health: Atypical Antipsychotics,Caplyta,Caplyta,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Captopril,captopril,Non-Preferred
+Anti-infectives (NOS): Vaginal,Cleocin 2% cream,Cleocin,Non-Preferred
+Anti-infectives (NOS): Vaginal,Cleocin ovules / vaginal suppository,Cleocin,Non-Preferred
+Anti-infectives (NOS): Vaginal,Clindamycin 2% Cream,clindamycin vaginal cream,Preferred
+Anti-infectives (NOS): Vaginal,Clindesse 2% prefilled applicator cream,Clindesse,Non-Preferred
+Mental Health: Anticonvulsants,Clobazam oral suspension,clobazam,Preferred
+Mental Health: Anticonvulsants,Clobazam tablet,clobazam,Preferred
+Mental Health: Atypical Antipsychotics,Clozapine ODT,clozapine ODT,Non-Preferred
+Mental Health: Atypical Antipsychotics,Clozapine tablet,clozapine tablet,Preferred
+Mental Health: Atypical Antipsychotics,Clozaril,Clozaril,Non-Preferred
+Mental Health: Atypical Antipsychotics,Cobenfy capsule,Cobenfy,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Beta Blockers,Combigan,Combigan,Preferred
+Respiratory: Asthma & COPD - Combination Products,Combivent Respimat inhalation aerosol solution,Combivent,Preferred
+Antivirals: Antiretrovirals- Combination Products,Complera,Complera,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Concerta ER,Concerta,Preferred
+Neurological: Multiple Sclerosis Agents,Copaxone 20 mg,Copaxone 20mg,Preferred
+Neurological: Multiple Sclerosis Agents,Copaxone 40 mg,Copaxone 40mg,Non-Preferred
+Gastrointestinal (GI): Pancreatic Enzymes,Creon,Creon,Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Cuvitru,Cuvitru,Non-Preferred
+Muscle Relaxants: Antispasticity Agents,Dantrium,Dantrium,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitors,Dapagliflozin,dapagliflozin,Non-Preferred
+Mental Health: Anticonvulsants,Depakote,Depakote,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Descovy,Descovy,Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,DexCom G6 Receiver,Dexcom G6 Receiver,Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,DexCom G6 Sensor,Dexcom G6 Sensor,Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,DexCom G7 Receiver,Dexcom G7 Receiver,Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,DexCom G7 Sensor,Dexcom G7 Sensor,Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,Dexcom G6 Transmitter,Dexcom G6 Transmitter,Preferred
+Mental Health: Anticonvulsants,Diacomit capsule,Diacomit,Non-Preferred
+Mental Health: Anticonvulsants,Diacomit packet for oral suspension,Diacomit,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Dihydroergotamine Mesylate,dihydroergotamine,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Dimethyl Fumarate,dimethyl fumarate,Preferred
+Central Nervous System: Antidementia Agents - Oral,Donepezil ODT,donepezil ODT,Preferred
+Central Nervous System: Antidementia Agents - Oral,Donepezil tablet,"donepezil 5, 10mg",Preferred
+Respiratory: Asthma & COPD - LABA/LAMA Combinations,Duaklir Pressair,Duaklir,Non-Preferred
+Estrogens: Oral Combination,Duavee tablet,Duavee,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,Dulera,Dulera,Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Duloxetine,"duloxetine 20, 30, 60mg",Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,Durysta,Durysta,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Dyanavel XR oral suspension,Dyanavel XR suspension,Preferred
+Mental Health: Long Acting ADHD Stimulants,Dyanavel XR tablet,Dyanavel XR chewable,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),Edarbi,Edarbi,Preferred
+Cardiovascular: Angiotensin Receptor Blocker (ARB) + Thiazide Combinations,Edarbyclor,Edarbyclor,Preferred
+Antivirals: Antiretrovirals - Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs),Edurant,Edurant,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Eletriptan,eletriptan,Non-Preferred
+Anticoagulants: Oral,Eliquis,Eliquis,Preferred
+Antihemophilia: Factor VIII,Eloctate,Eloctate,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Elyxyb,Elyxyb,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Emgality 100 mg,Emgality,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Emgality 120 mg,Emgality,Non-Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),Emtriva capsule,Emtriva,Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),Emtriva oral solution,Emtriva,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Enalapril,enalapril,Preferred
+Mental Health: Anticonvulsants,Epidiolex,Epidiolex,Non-Preferred
+Epinephrine: Injection Devices,Epinephrine (Generic Adrenaclick) 0.15mg,epinephrine,Non-Preferred
+Epinephrine: Injection Devices,Epinephrine (Generic Adrenaclick) 0.3mg,epinephrine,Non-Preferred
+Epinephrine: Injection Devices,Epinephrine (Mylan Ag Epipen And Jr) 0.15mg Mylan's EpiPen Jr AG,Mylan epinephrine,Preferred
+Epinephrine: Injection Devices,Epinephrine (Mylan Ag Epipen And Jr) 0.3mg Mylan's EpiPen AG,Mylan epinephrine,Preferred
+Epinephrine: Injection Devices,Epipen,EpiPen,Non-Preferred
+Epinephrine: Injection Devices,Epipen Jr.,EpiPen,Non-Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),Epivir,Epivir,Non-Preferred
+Hematopoietics: Erythropoiesis Stimulating Agents (ESAs),Epogen,Epogen,Preferred
+Mental Health: Anticonvulsants,Eprontia,Eprontia,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Epzicom,Epzicom,Non-Preferred
+Mental Health: Atypical Antipsychotics,Erzofri prefilled syringe,Erzofri,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Esomeprazole,esomeprazole capsule,Preferred
+Antihemophilia: Factor VIII,Esperoct,Esperoct,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Evenity,Evenity,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Evotaz,Evotaz,Preferred
+Neurological: Therapies for Spinal Muscular Atrophy,Evrysdi,Evrysdi,Preferred
+Central Nervous System: Antidementia Agents - Topical,Exelon,Exelon,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,Eysuvis ophthalmic suspension,Eysuvis,Non-Preferred
+Mental Health: Atypical Antipsychotics,Fanapt,Fanapt,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitors,Farxiga,Farxiga,Preferred
+Mental Health: Anticonvulsants,Felbatol oral suspension,Felbatol,Non-Preferred
+Mental Health: Anticonvulsants,Felbatol tablet,Felbatol,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Femlyv,Femlyv,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Fetzima,Fetzima,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,Fexmid,Fexmid,Non-Preferred
+Antidiabetics: Short Acting Insulin,Fiasp,Fiasp,Non-Preferred
+Antidiabetics: Short Acting Insulin,Fiasp FlexTouch,Fiasp,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Fingolimod capsule,fingolimod,Non-Preferred
+Mental Health: Anticonvulsants,Fintepla,Fintepla,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,Flarex ophthalmic suspension,Flarex,Preferred
+Muscle Relaxants: Antispasticity Agents,Fleqsuvy,Fleqsuvy,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,Fluticasone / Salmeterol generic Advair Diskus,fluticasone/salmeterol,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,Fluticasone / Salmeterol generic Advair HFA,fluticasone/salmeterol,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Forteo,Forteo,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Fosinopril,fosinopril,Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,FreeStyle Libre 14 Day Reader,FreeStyle Libre Reader,Non-Preferred
+Diagnostic Products: Diabetic Continuous Glucose Monitors,FreeStyle Libre 14 Day Sensor Kit,FreeStyle Libre Sensor,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Frova,Frova,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Frovatriptan,frovatriptan,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Fulphila,Fulphila,Non-Preferred
+"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors",Fuzeon,Fuzeon,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Fylnetra,Fylnetra,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,Galantamine ER,galantamine ER,Non-Preferred
+Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Gammagard,Gammagard,Preferred
+Growth Hormone: Chronic Gout,Genotropin,Genotropin,Preferred
+Antivirals: Antiretrovirals- Combination Products,Genvoya,Genvoya,Preferred
+Mental Health: Atypical Antipsychotics,Geodon,Geodon capsule,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Gilenya capsule,Gilenya,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Glatiramer Acetate prefilled syringe,glatiramer,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,Glyxambi,Glyxambi,Non-Preferred
+Mental Health: Anticonvulsants,Gralise,Gralise,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Granix,Granix,Non-Preferred
+Hepatitis C: Direct Acting Antivirals (DAAs),Harvoni,Harvoni,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Nonselective,Hemangeol,Hemangeol,Non-Preferred
+Mental Health: Anticonvulsants,Horizant,Horizant,Non-Preferred
+Antidiabetics: Short Acting Insulin,"Humalog KwikPen, U-100",Humalog U-100,Preferred
+Growth Hormone: Chronic Gout,Humatrope,Humatrope,Non-Preferred
+Antihemophilia: Factor IX,Idelvion,Idelvion,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - NSAIDs,Ilevro ophthalmic suspension,Ilevro,Non-Preferred
+Respiratory: Asthma & COPD - Anticholinergics,Incruse Ellipta,Incruse Ellipta,Non-Preferred
+Neurological: Movement Disorder Treatments - VMAT-2 Inhibitors,Ingrezza,Ingrezza,Non-Preferred
+Neurological: Movement Disorder Treatments - VMAT-2 Inhibitors,Ingrezza sprinkle capsule,Ingrezza,Non-Preferred
+Neurological: Movement Disorder Treatments - VMAT-2 Inhibitors,Ingrezza titration pack,Ingrezza,Non-Preferred
+Antidiabetics: Long Acting Insulin,Insulin Glargine,insulin glargine,Non-Preferred
+Antidiabetics: Short Acting Insulin,Insulin Lispro,insulin lispro,Non-Preferred
+Antivirals: Antiretrovirals - Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs),Intelence,Intelence,Preferred
+Mental Health: Atypical Antipsychotics,Invega ER,Invega,Non-Preferred
+Mental Health: Atypical Antipsychotics,Invega Hafyera,Invega Hafyera,Preferred
+Mental Health: Atypical Antipsychotics,Invega Sustenna,Invega Sustenna,Preferred
+Mental Health: Atypical Antipsychotics,Invega Trinza,Invega Trinza,Preferred
+Antivirals: Protease Inhibitors,Invirase,Invirase,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Invokamet,Invokamet,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Invokamet XR,Invokamet XR,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitors,Invokana,Invokana,Non-Preferred
+Ophthalmics: Anti-Glaucoma - Alpha Adrenergics,Iopidine ophthalmic solution,Iopidine,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,Ipratropium/Albuterol nebulized solution,ipratropium/albuterol,Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),Irbesartan,irbesartan,Preferred
+Antivirals: Antiretrovirals - Integrase Inhibitors,Isentress,Isentress,Preferred
+Antihemophilia: Factor IX,Ixinity,Ixinity,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,Janumet,"Janumet, XR",Preferred
+Antidiabetics: DPP- 4 Inhibitors,Januvia,Januvia,Preferred
+Antidiabetics: SGLT-2 Inhibitors,Jardiance,Jardiance,Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,Jentadueto,"Jentadueto, XR",Preferred
+Antihemophilia: Factor VIII,Jivi,Jivi,Preferred
+Mental Health: Long Acting ADHD Stimulants,Jornay PM,Jornay PM,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Kaletra,Kaletra,Non-Preferred
+Respiratory: Cystic Fibrosis: CFTR Modulators,Kalydeco,Kalydeco,Preferred
+Mental Health: Anticonvulsants,Keppra XR,Keppra,Non-Preferred
+Mental Health: Anticonvulsants,Keppra oral solution,Keppra,Non-Preferred
+Mental Health: Anticonvulsants,Keppra tablet,Keppra,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Kesimpta,Kesimpta,Non-Preferred
+Respiratory: Cystic Fibrosis: Inhaled Aminoglycosides,Kitabis Pak,Kitabis Pak,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,Kombiglyze XR,Kombiglyze XR,Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Konvomep,Konvomep,Non-Preferred
+Antihemophilia: Factor VIII,Kovaltry,Kovaltry,Preferred
+Mental Health: Anticonvulsants,Lamictal ODT,Lamictal ODT,Non-Preferred
+Mental Health: Anticonvulsants,Lamictal tablet,Lamictal,Non-Preferred
+Mental Health: Anticonvulsants,Lamotrigine,lamotrigine tablet,Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Lansoprazole,lansoprazole capsule,Non-Preferred
+Antidiabetics: Long Acting Insulin,Lantus SoloStar,Lantus,Preferred
+Antidiabetics: Long Acting Insulin,Lantus vial,Lantus,Preferred
+Mental Health: Atypical Antipsychotics,Latuda,Latuda,Non-Preferred
+Hepatitis C: Direct Acting Antivirals (DAAs),Ledipasvir / Sofosbuvir,sofosbuvir/ledipasvir,Non-Preferred
+Pulmonary Hypertension: Endothelin Antagonists,Letairis,Letairis,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Leukine,Leukine,Non-Preferred
+Antidiabetics: Long Acting Insulin,Levemir FlexTouch,Levemir,Preferred
+Antidiabetics: Long Acting Insulin,Levemir vial,Levemir,Preferred
+Antivirals: Protease Inhibitors,Lexiva,Lexiva,Non-Preferred
+Mental Health: Anticonvulsants,Libervant buccal film,Libervant,Non-Preferred
+Gastrointestinal (GI): Irritable Bowel Syndrome Agents,Linzess,Linzess,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Lisinopril,lisinopril,Preferred
+Contraceptives: Bi-phasic - Oral,Lo Loestrin Fe,Lo Loestrin,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,Lorzone,Lorzone,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),Losartan,losartan,Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,Lumigan 2.5 mL,Lumigan,Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,Lumigan 5 mL,Lumigan,Preferred
+Ophthalmics: Anti-Glaucoma - Prostaglandins,Lumigan 7.5 mL,Lumigan,Preferred
+Mental Health: Atypical Antipsychotics,Lurasidone,lurasidone,Preferred
+Mental Health: Atypical Antipsychotics,Lybalvi,Lybalvi,Non-Preferred
+Mental Health: Anticonvulsants,Lyrica,Lyrica capsule,Preferred
+Antidiabetics: Short Acting Insulin,"Lyumjev KwikPen, U-100",Lyumjev,Non-Preferred
+Antidiabetics: Short Acting Insulin,"Lyumjev KwikPen, U-200",Lyumjev,Non-Preferred
+Antidiabetics: Short Acting Insulin,Lyumjev vial,Lyumjev,Non-Preferred
+Muscle Relaxants: Antispasticity Agents,Lyvispah,Lyvispah,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,Maxidex ophthalmic suspension,Maxidex,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Combinations,Maxitrol ophthalmic ointment,Maxitrol,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Combinations,Maxitrol ophthalmic suspension,Maxitrol,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,Memantine XR,memantine ER,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,Memantine oral solution,memantine solution,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,Memantine tablet,memantine tablet,Preferred
+Muscle Relaxants: Antispasmodic Agents,Metaxalone,metaxalone,Non-Preferred
+Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,Metoprolol Succinate ER tablet,metoprolol succinate,Preferred
+Anti-infectives (NOS): Vaginal,Metronidazole 0.75% Gel,metronidazole vaginal,Preferred
+Neurological: Migraine - Abortive Therapy,Migranal,Migranal spray,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Moexipril,moexipril,Non-Preferred
+Mental Health: Anticonvulsants,Motpoly XR,Motpoly XR,Non-Preferred
+Antidiabetics: GLP-1 Agonists,Mounjaro,Mounjaro,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,Namenda,Namenda tablet,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,Namenda XR,Namenda XR,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,Namzaric,Namzaric,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Naratriptan,naratriptan,Non-Preferred
+Dermatological: Scabicides/Pediculicides,Natroba,Natroba,Preferred
+Mental Health: Anticonvulsants,Nayzilam,Nayzilam,Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Neulasta,Neulasta,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Neulasta Onpro,Neulasta,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Neupogen,Neupogen,Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - NSAIDs,Nevanac ophthalmic suspension,Nevanac,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Nexium DR capsule,Nexium capsule,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Nexium DR packet for oral suspension,Nexium granules,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Nextstellis,Nextstellis,Non-Preferred
+Growth Hormone: Chronic Gout,Ngenla,Ngenla,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Nivestym,Nivestym,Non-Preferred
+Growth Hormone: Chronic Gout,Norditropin,Norditropin,Preferred
+Antivirals: Protease Inhibitors,Norvir,Norvir tablet,Non-Preferred
+Antihemophilia: Factor VIII,Novoeight,Novoeight,Preferred
+Antidiabetics: Insulin Mixtures,Novolin 70/30,Novolin 70/30,Non-Preferred
+Antidiabetics: Insulin Mixtures,Novolin 70/30 Flexpen OTC,Novolin 70/30,Non-Preferred
+Antidiabetics: Intermediate Acting Insulin,Novolin N,Novolin-N,Preferred
+Antidiabetics: Short Acting Insulin,Novolin R,Novolin-R,Non-Preferred
+Antidiabetics: Short Acting Insulin,Novolog,Novolog,Preferred
+Antidiabetics: Insulin Mixtures,Novolog 70/30,Novolog 70/30,Preferred
+Antidiabetics: Insulin Mixtures,Novolog 70/30 FlexPen,Novolog 70/30,Preferred
+Antidiabetics: Short Acting Insulin,Novolog FlexPen,Novolog,Preferred
+Antidiabetics: Short Acting Insulin,Novolog cartridge,Novolog,Preferred
+Neurological: Parkinson - Non-ergot Derived Dopamine Receptor Agonists and Others,Nuplazid,Nuplazid,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Nurtec ODT Acute Treatment,Nurtec ODT,Preferred
+Neurological: Migraine - Abortive Therapy,Nurtec ODT Migraine Prophylaxis,Nurtec ODT,Preferred
+Growth Hormone: Chronic Gout,Nutropin AQ,Nutropin,Non-Preferred
+Anti-infectives (NOS): Vaginal,Nuvessa,Nuvessa,Non-Preferred
+Antihemophilia: Factor VIII,Nuwiq,Nuwiq,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Nyvepria,Nyvepria,Preferred
+Neurological: Multiple Sclerosis Agents,Ocrevus,Ocrevus,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Ocrevus Zunovo subcutaneous vial,Ocrevus,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Odefsey,Odefsey,Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Olanzapine And Fluoxetine,olanzapine/fluoxetine,Non-Preferred
+Mental Health: Atypical Antipsychotics,Olanzapine ODT,olanzapine ODT,Preferred
+Mental Health: Atypical Antipsychotics,Olanzapine tablet,olanzapine,Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),Olmesartan,olmesartan,Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Omeprazole capsule,omeprazole,Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Omeprazole tablet,omeprazole,Preferred
+Growth Hormone: Chronic Gout,Omnitrope,Omnitrope,Non-Preferred
+Mental Health: Anticonvulsants,Onfi oral suspension,Onfi,Non-Preferred
+Mental Health: Anticonvulsants,Onfi tablet,Onfi,Non-Preferred
+Pulmonary Hypertension: Endothelin Antagonists,Opsumit,Opsumit,Non-Preferred
+Pulmonary Hypertension: Endothelin Antagonists,Opsynvi tablet,Opsynvi,Non-Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),"Opzelura cream, Atopic Dermatitis",Opzelura,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,Orenitram ER,Orenitram,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,Orphenadrine ER,orphenadrine,Preferred
+Antivirals: Anti-Influenza - Oral,Oseltamivir,oseltamivir,Preferred
+Antidiabetics: GLP-1 Agonists,Ozempic,Ozempic,Non-Preferred
+Mental Health: Atypical Antipsychotics,Paliperidone ER,paliperidone,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Pantoprazole DR packet for oral suspension,pantoprazole pak,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Pantoprazole tablet,"pantoprazole tablet, injection",Preferred
+Mental Health: Antidepressants - SSRI/SNRI,"Paroxetine 7.5 mg, IR capsule",paroxetine 7.5mg,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Perindopril,perindopril,Non-Preferred
+Mental Health: Atypical Antipsychotics,Perseris,Perseris,Preferred
+Neurological: Multiple Sclerosis Agents,Ponvory starter pack,Ponvory,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Ponvory tablet,Ponvory,Non-Preferred
+Anticoagulants: Oral,Pradaxa,Pradaxa,Preferred
+Cardiovascular: PCSK-9 Inhibitors,Praluent,Praluent,Non-Preferred
+Diagnostic Products: Diabetic Testing Strips,Precision Test Strips 100 ct,Precision Test Strips,Preferred
+Diagnostic Products: Diabetic Testing Strips,Precision Test Strips 50 ct,Precision Test Strips,Preferred
+Estrogens: Oral Single Ingredient,Premarin tablet,Premarin,Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Prevacid SoluTab,Prevacid Solutabs,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Prevacid capsule,Prevacid capsule,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Prezcobix,Prezcobix,Preferred
+Antivirals: Protease Inhibitors,Prezista oral suspension,Prezista,Preferred
+Antivirals: Protease Inhibitors,Prezista tablet,Prezista,Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Prilosec DR capsule,Prilosec,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Prilosec DR packet for oral suspension,Prilosec,Non-Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Proair HFA,ProAir HFA,Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Proair Respiclick,ProAir RespiClick,Non-Preferred
+Hematopoietics: Erythropoiesis Stimulating Agents (ESAs),Procrit,Procrit,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Protonix DR packet oral suspension,Protonix pak,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Protonix DR tablet,"Protonix tablet, injection",Non-Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Proventil HFA,Proventil HFA,Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Pulmicort Flexhaler,Pulmicort Flexhaler,Preferred
+Mental Health: Non-Stimulants for ADHD,Qelbree,Qelbree,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,Qtern,Qtern,Non-Preferred
+Mental Health: Atypical Antipsychotics,Quetiapine,quetiapine,Preferred
+Mental Health: Atypical Antipsychotics,Quetiapine ER,quetiapine ER,Preferred
+Mental Health: Long Acting ADHD Stimulants,Quillichew XR,Quillichew ER,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Quinapril,quinapril,Preferred
+Neurological: Migraine - Prophylactic Therapy,Qulipta,Qulipta,Non-Preferred
+Respiratory: Asthma & COPD - Corticosteroids,Qvar,Qvar,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Rabeprazole sprinkle capsule,rabeprazole,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Rabeprazole tablet,rabeprazole,Non-Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Ramipril,ramipril,Preferred
+Cardiovascular: Antianginal Agents,Ranexa,Ranexa,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Rebif (Interferon Beta-1a) prefilled syringe,Rebif,Non-Preferred
+Antihemophilia: Factor IX,Rebinyn,Rebinyn,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Releuko,Releuko,Non-Preferred
+Gastrointestinal (GI): Phosphate Binders,Renvela,Renvela tablet,Preferred
+Cardiovascular: PCSK-9 Inhibitors,Repatha,Repatha,Preferred
+Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Revatio oral suspension,Revatio,Non-Preferred
+Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Revatio tablet,Revatio,Non-Preferred
+Mental Health: Atypical Antipsychotics,Rexulti Adjunct Treatment of Major Depressive Disorder,Rexulti,Non-Preferred
+Mental Health: Atypical Antipsychotics,Rexulti Schizophrenia,Rexulti,Non-Preferred
+Antivirals: Protease Inhibitors,Reyataz,Reyataz capsule,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Reyvow,Reyvow,Non-Preferred
+Mental Health: Atypical Antipsychotics,Risperdal Consta,Risperdal Consta,Non-Preferred
+Mental Health: Atypical Antipsychotics,Risperdal oral solution,Risperdal,Non-Preferred
+Mental Health: Atypical Antipsychotics,Risperdal tablet,Risperdal,Non-Preferred
+Mental Health: Atypical Antipsychotics,Risperidone ODT,risperidone ODT,Non-Preferred
+Mental Health: Atypical Antipsychotics,Risperidone oral solution,risperidone solution,Preferred
+Mental Health: Atypical Antipsychotics,Risperidone tablet,risperidone tablet,Preferred
+Central Nervous System: Antidementia Agents - Oral,Rivastigmine capsule,rivastigmine capsule,Preferred
+Central Nervous System: Antidementia Agents - Topical,Rivastigmine patch,rivastigmine patch,Non-Preferred
+Antihemophilia: Factor IX,Rixubis,Rixubis,Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Rolvedon prefilled syringe,Rolvedon,Non-Preferred
+Antidiabetics: GLP-1 Agonists,Rybelsus,Rybelsus,Non-Preferred
+Mental Health: Atypical Antipsychotics,Rykindo,Rykindo,Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Ryzneuta prefilled syringe,Ryzneuta,Non-Preferred
+Mental Health: Anticonvulsants,Sabril packet for oral solution,Sabril,Non-Preferred
+Mental Health: Anticonvulsants,Sabril tablet,Sabril,Non-Preferred
+Growth Hormone: Chronic Gout,Saizen,Saizen,Non-Preferred
+Mental Health: Atypical Antipsychotics,Saphris,Saphris,Preferred
+Anticoagulants: Oral,Savaysa,Savaysa,Non-Preferred
+Mental Health: Atypical Antipsychotics,Secuado,Secuado,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Segluromet,Segluromet,Non-Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Select-Ob + Dha,Select-OB+DHA,Preferred
+"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors","Selzentry tablet, 150 mg","Selzentry 150mg, 300mg tablet",Non-Preferred
+"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors","Selzentry tablet, 25 mg","Selzentry 25mg, 75mg tablet",Preferred
+"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors","Selzentry tablet, 300 mg","Selzentry 150mg, 300mg tablet",Non-Preferred
+"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors","Selzentry tablet, 75 mg","Selzentry 25mg, 75mg tablet",Preferred
+Antidiabetics: Long Acting Insulin,Semglee,Semglee,Non-Preferred
+Mental Health: Atypical Antipsychotics,Seroquel,Seroquel,Non-Preferred
+Mental Health: Atypical Antipsychotics,Seroquel XR,Seroquel XR,Non-Preferred
+Gastrointestinal (GI): Phosphate Binders,Sevelamer carbonate tablets,sevelamer carbonate,Non-Preferred
+Gastrointestinal (GI): Phosphate Binders,Sevelamer hydrochloride tablets,sevelamer hydrochloride,Non-Preferred
+Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Sildenafil 20 mg,sildenafil,Preferred
+Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Sildenafil oral suspension,sildenafil,Preferred
+Growth Hormone: Chronic Gout,Skytrofa,Skytrofa,Non-Preferred
+Growth Hormone: Chronic Gout,Sogroya,Sogroya,Non-Preferred
+Antidiabetics: Long Acting Insulin,Soliqua,Soliqua,Non-Preferred
+Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,Solosec,Solosec,Non-Preferred
+Muscle Relaxants: Antispasmodic Agents,Soma,Soma,Non-Preferred
+Hepatitis C: Direct Acting Antivirals (DAAs),Sovaldi,Sovaldi,Non-Preferred
+Dermatological: Scabicides/Pediculicides,Spinosad topical suspension,spinosad,Non-Preferred
+Neurological: Therapies for Spinal Muscular Atrophy,Spinraza,Spinraza,Preferred
+Respiratory: Asthma & COPD - Anticholinergics,Spiriva Handihaler inhalation capsule,Spiriva,Preferred
+Respiratory: Asthma & COPD - Anticholinergics,Spiriva Respimat inhalation aerosol solution,Spiriva,Preferred
+Antidiabetics: SGLT-2 Inhibitors,Steglatro,Steglatro,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitor Combinations,Steglujan,Steglujan,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Stimufend prefilled syringe,Stimufend,Non-Preferred
+Respiratory: Asthma & COPD - LABA/LAMA Combinations,Stiolto Respimat,Stiolto,Preferred
+Antivirals: Antiretrovirals- Combination Products,Stribild,Stribild,Non-Preferred
+Analgesics: Opioid Use Disorder Treatments,Sublocade,Sublocade,Preferred
+Analgesics: Opioid Use Disorder Treatments,Suboxone,Suboxone film,Preferred
+Neurological: Migraine - Abortive Therapy,Sumatriptan / Naproxen sodium tablet,sumatriptan/naproxen,Non-Preferred
+Mental Health: Wakefulness Promoting Agents,Sunosi,Sunosi,Non-Preferred
+Respiratory: Asthma & COPD - Combination Products,Symbicort,Symbicort,Preferred
+Neurological: Migraine - Abortive Therapy,Symbravo tablet,Symbravo,Non-Preferred
+Mental Health: Antidepressants - SSRI/SNRI,Symbyax,Symbyax,Non-Preferred
+Epinephrine: Injection Devices,Symjepi 0.15 mg,Symjepi,Non-Preferred
+Epinephrine: Injection Devices,Symjepi 0.3 mg,Symjepi,Non-Preferred
+Mental Health: Anticonvulsants,Sympazan oral film,Sympazan,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Symtuza,Symtuza,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Synjardy,"Synjardy, XR",Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Synjardy XR,"Synjardy, XR",Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),Tacrolimus capsule,tacrolimus,Preferred
+Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Tadalafil,tadalafil,Preferred
+Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Tadliq,Tadliq,Non-Preferred
+Antivirals: Anti-Influenza - Oral,Tamiflu,Tamiflu,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Taytulla,Taytulla,Non-Preferred
+Neurological: Multiple Sclerosis Agents,Tecfidera (Dimethyl Fumarate) DR capsule,Tecfidera,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),Telmisartan,telmisartan,Preferred
+Neurological: Multiple Sclerosis Agents,Teriflunomide,teriflunomide,Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Teriparatide,teriparatide,Non-Preferred
+Neurological: Movement Disorder Treatments - VMAT-2 Inhibitors,Tetrabenazine,tetrabenazine,Preferred
+Antivirals: Antiretrovirals - Integrase Inhibitors,Tivicay,Tivicay,Preferred
+Respiratory: Cystic Fibrosis: Inhaled Aminoglycosides,Tobi,Tobi  nebulizer,Non-Preferred
+Respiratory: Cystic Fibrosis: Inhaled Aminoglycosides,Tobi Podhaler,Tobi Podhaler capsule,Non-Preferred
+Ophthalmics: Ophthalmic - Anti-Inflammatory - Combinations,Tobradex ST ophthalmic suspension,Tobradex ST,Non-Preferred
+Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,Tobramycin,tobramycin drops,Preferred
+Mental Health: Anticonvulsants,Topamax Sprinkle,Topamax,Non-Preferred
+Mental Health: Anticonvulsants,Topiramate tablet,topiramate tablet,Preferred
+Antidiabetics: Long Acting Insulin,Toujeo Max Solostar,Toujeo,Preferred
+Antidiabetics: Long Acting Insulin,Toujeo Solostar,Toujeo,Preferred
+Pulmonary Hypertension: Endothelin Antagonists,Tracleer,Tracleer,Non-Preferred
+Pulmonary Hypertension: Endothelin Antagonists,Tracleer tablet for oral suspension,Tracleer,Non-Preferred
+Antidiabetics: DPP- 4 Inhibitors,Tradjenta,Tradjenta,Preferred
+Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Trandolapril,trandolapril,Preferred
+Respiratory: Asthma & COPD - LABA/LAMA Combinations,Trelegy Ellipta,Trelegy Ellipta,Non-Preferred
+Antidiabetics: Long Acting Insulin,"Tresiba FlexTouch, U-100",Tresiba,Non-Preferred
+Antidiabetics: Long Acting Insulin,"Tresiba FlexTouch, U-200",Tresiba,Non-Preferred
+Antidiabetics: Long Acting Insulin,Tresiba vial,Tresiba,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,Trintellix,Trintellix,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Triumeq,Triumeq,Preferred
+Antivirals: Antiretrovirals- Combination Products,Trizivir,Trizivir,Non-Preferred
+Mental Health: Anticonvulsants,Trokendi XR ER capsule,Trokendi XR,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Trudhesa,Trudhesa,Non-Preferred
+Antidiabetics: GLP-1 Agonists,Trulicity,Trulicity,Preferred
+Antivirals: Antiretrovirals- Combination Products,Truvada,Truvada,Non-Preferred
+Respiratory: Asthma & COPD - Anticholinergics,Tudorza Pressair,Tudorza Pressair,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Tyblume,Tyblume,Preferred
+Neurological: Multiple Sclerosis Agents,Tysabri,Tysabri,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,Tyvaso DPI,Tyvaso,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,Tyvaso inhalation solution,Tyvaso,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Ubrelvy,Ubrelvy,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Udenyca,Udenyca,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,Uptravi tablet,Uptravi,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,Uptravi vial,Uptravi,Non-Preferred
+Mental Health: Atypical Antipsychotics,Uzedy,Uzedy,Non-Preferred
+Cardiovascular: Angiotensin Receptor Blockers (ARBs),Valsartan,valsartan,Preferred
+Mental Health: Anticonvulsants,Valtoco,Valtoco,Preferred
+Anti-infectives (NOS): Vaginal,Vandazole,Vandazole,Preferred
+Pulmonary Hypertension: Prostacyclins,Veletri,Veletri,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,Ventavis,Ventavis,Non-Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Ventolin HFA,Ventolin HFA,Preferred
+Mental Health: Atypical Antipsychotics,Versacloz,Versacloz,Non-Preferred
+Gastrointestinal (GI): Irritable Bowel Syndrome Agents,Viberzi,Viberzi,Non-Preferred
+Antidiabetics: GLP-1 Agonists,Victoza,Victoza,Preferred
+Mental Health: Anticonvulsants,Vigabatrin packet for oral solution,vigabatrin,Non-Preferred
+Mental Health: Anticonvulsants,Vigabatrin tablet,vigabatrin,Non-Preferred
+Mental Health: Anticonvulsants,Vigafyde oral solution,Vigafyde,Non-Preferred
+Mental Health: Antidepressants - Miscellaneous,Viibryd,Viibryd,Non-Preferred
+Mental Health: Anticonvulsants,Vimpat,Vimpat,Non-Preferred
+Antivirals: Protease Inhibitors,Viracept,Viracept,Non-Preferred
+Antivirals: Antiretrovirals - Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs),Viramune XR,Viramune,Non-Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),Viread,Viread (all except 300mg),Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Vitafol Fe+,Vitafol Fe+,Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Vitafol Ultra,Vitafol Ultra,Preferred
+Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Vitafol-Ob,Vitafol-OB+DHA,Preferred
+Analgesics: Opioid Use Disorder Treatments,Vivitrol,Vivitrol,Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Voquezna,Voquezna,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Voquezna Dual Pak,Voquezna,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Voquezna Triple Pak,Voquezna,Non-Preferred
+Mental Health: Atypical Antipsychotics,Vraylar Adjunct Treatment of Major Depressive Disorder,Vraylar,Non-Preferred
+Mental Health: Atypical Antipsychotics,Vraylar Bipolar I Disorder,Vraylar,Non-Preferred
+Mental Health: Atypical Antipsychotics,Vraylar Schizophrenia,Vraylar,Non-Preferred
+Neurological: Migraine - Prophylactic Therapy,Vyepti,Vyepti,Non-Preferred
+Mental Health: Long Acting ADHD Stimulants,Vyvanse capsule,Vyvanse cap,Preferred
+Mental Health: Long Acting ADHD Stimulants,Vyvanse chewable tablet,Vyvanse chewable,Non-Preferred
+Mental Health: Wakefulness Promoting Agents,Wakix,Wakix,Non-Preferred
+Dermatological: Topical Acne Products - Miscellaneous,Winlevi,Winlevi,Non-Preferred
+Anti-infectives (NOS): Vaginal,Xaciato,Xaciato,Non-Preferred
+Anticoagulants: Oral,Xarelto,Xarelto,Preferred
+Anticoagulants: Oral,Xarelto 2.5 mg,Xarelto,Preferred
+Anticoagulants: Oral,Xarelto oral suspension,Xarelto,Preferred
+Anticoagulants: Oral,Xarelto starter pack,Xarelto,Preferred
+Mental Health: Anticonvulsants,Xcopri,Xcopri,Preferred
+Neurological: Movement Disorder Treatments - VMAT-2 Inhibitors,Xenazine,Xenazine,Non-Preferred
+Antidiabetics: SGLT-2 Inhibitor Combinations,Xigduo XR,Xigduo XR,Preferred
+Antivirals: Anti-Influenza - Oral,Xofluza,Xofluza,Non-Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Xopenex HFA,Xopenex HFA,Non-Preferred
+Antidiabetics: Long Acting Insulin,Xultophy,Xultophy,Non-Preferred
+Antihemophilia: Factor VIII,Xyntha,Xyntha,Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Yorvipath,Yorvipath,Non-Preferred
+Respiratory: Asthma & COPD - Anticholinergics,Yupelri inhalation solution,Yupelri,Non-Preferred
+Muscle Relaxants: Antispasticity Agents,Zanaflex capsule,Zanaflex,Non-Preferred
+Muscle Relaxants: Antispasticity Agents,Zanaflex tablet,Zanaflex,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Zarxio,Zarxio,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Zavzpret,Zavzpret,Non-Preferred
+Gastrointestinal (GI): Proton Pump Inhibitors,Zegerid,Zegerid,Non-Preferred
+Neurological: Migraine - Abortive Therapy,Zembrace SymTouch,Zembrace,Non-Preferred
+Ophthalmics: Ophthalmic - Antihistamines,Zerviate (Cetirizine) ophthalmic solution,Zerviate,Non-Preferred
+Antivirals: Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs),Ziagen,Ziagen,Non-Preferred
+Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Ziextenzo,Ziextenzo,Non-Preferred
+Mental Health: Atypical Antipsychotics,Ziprasidone,ziprasidone,Preferred
+Neurological: Therapies for Spinal Muscular Atrophy,Zolgensma,Zolgensma,Preferred
+Neurological: Migraine - Abortive Therapy,Zolmitriptan,zolmitriptan,Non-Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Zolpidem,zolpidem tablet,Preferred
+"Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Zolpidem CR,zolpidem CR tablet,Preferred
+Mental Health: Anticonvulsants,Zonisade,Zonisade,Preferred
+Cardiovascular: Platelet Aggregation Inhibitors,Zontivity,Zontivity,Non-Preferred
+Mental Health: Anticonvulsants,Ztalmy,Ztalmy,Non-Preferred
+Mental Health: Atypical Antipsychotics,Zyprexa,Zyprexa,Non-Preferred
+Mental Health: Atypical Antipsychotics,Zyprexa Relprevv,Zyprexa Relprevv,Preferred
+Mental Health: Atypical Antipsychotics,Zyprexa Zydis,Zyprexa Zydis,Non-Preferred
