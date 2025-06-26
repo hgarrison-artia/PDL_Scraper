@@ -121,6 +121,7 @@ for table_idx, table in enumerate(all_data):
 if all_temps:
     final_df = pd.concat(all_temps).reset_index(drop=True)
     final_df['pdl_name'] = [name.replace('*', '') for name in final_df['pdl_name']]
+    final_df['therapeutic_class'] = [name.replace('–', '-') for name in final_df['therapeutic_class']]
     final_df = final_df[~final_df['pdl_name'].str.contains('Trial and failure', case=False, na=False)].reset_index(drop=True)
     final_df.to_csv('NH_PDL.csv', index=False)
 else:
