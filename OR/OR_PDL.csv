@@ -1,0 +1,1008 @@
+therapeutic_class,pdl_name,status
+Allergy/Cold: Anaphylaxis Rescue,epinephrine AUTO INJCT,Preferred
+Allergy/Cold: Anaphylaxis Rescue,epinephrine (AUVI-Q ™) AUTO INJCT,Preferred
+"Allergy/Cold: Antihistamines, Second Generation",cetirizine HCl cetirizine HCl SOLUTION *** TABLET,Preferred
+"Allergy/Cold: Antihistamines, Second Generation",loratadine SOLUTION,Preferred
+"Allergy/Cold: Antihistamines, Second Generation",loratadine TAB RAPDIS ***,Preferred
+"Allergy/Cold: Antihistamines, Second Generation",loratadine TABLET,Preferred
+Allergy/Cold: Cough and Cold,codeine phosphate/guaifenesin * LIQUID,Preferred
+Allergy/Cold: Cough and Cold,codeine phosphate/guaifenesin * SYRUP,Preferred
+Allergy/Cold: Cough and Cold,codeine phosphate/guaifenesin * TABLET,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin ‡ GRAN PACK,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin ‡ LIQUID,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin ‡ SYRUP,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin ‡ TAB ER 12H,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin ‡ TABLET,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin ‡ TABLET ER,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin/dextromethorphan ‡ CAPSULE,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin/dextromethorphan ‡ DROPS,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin/dextromethorphan ‡ ELIXIR,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin/dextromethorphan ‡ GRAN PACK,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin/dextromethorphan ‡ LIQUID,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin/dextromethorphan ‡ LIQUID PKT,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin/dextromethorphan ‡ SYRUP,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin/dextromethorphan ‡ TAB ER 12H,Preferred
+Allergy/Cold: Cough and Cold,guaifenesin/dextromethorphan ‡ TABLET,Preferred
+Allergy/Cold: Cough and Cold,pseudoephedrine HCl ‡ CAPSULE,Preferred
+Allergy/Cold: Cough and Cold,pseudoephedrine HCl ‡ TABLET,Preferred
+Allergy/Cold: Hereditary Angioedema,C1 esterase inhibitor * KIT,Preferred
+Allergy/Cold: Hereditary Angioedema,C1 esterase inhibitor * VIAL,Preferred
+Allergy/Cold: Nasal Allergy Inhalers,fluticasone propionate ‡ SPRAY SUSP,Preferred
+Analgesics: CGRP Inhibitors,erenumab-aooe * AUTO INJCT,Preferred
+Analgesics: CGRP Inhibitors,fremanezumab-vfrm (AJOVY AUTOINJECTOR ™) * AUTO INJCT,Preferred
+Analgesics: CGRP Inhibitors,fremanezumab-vfrm (AJOVY SYRINGE ™) * SYRINGE,Preferred
+Analgesics: CGRP Inhibitors,ubrogepant (UBRELVY ™) * TABLET,Preferred
+Analgesics: Gout,allopurinol TABLET ***,Preferred
+Analgesics: Gout,colchicine ** TABLET,Preferred
+Analgesics: Gout,probenecid/colchicine TABLET,Preferred
+"Analgesics: Muscle Relaxants, Oral",baclofen TABLET ***,Preferred
+"Analgesics: Muscle Relaxants, Oral",cyclobenzaprine HCl TABLET ***,Preferred
+"Analgesics: Muscle Relaxants, Oral",methocarbamol TABLET ***,Preferred
+"Analgesics: Muscle Relaxants, Oral",tizanidine HCl TABLET,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,celecoxib diclofenac potassium CAPSULE TABLET ***,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,diclofenac sodium TABLET DR,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,etodolac TABLET,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,ibuprofen CAPSULE,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,ibuprofen DROPS SUSP,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,ibuprofen ORAL SUSP,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,ibuprofen TAB CHEW,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,ibuprofen TABLET,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,indomethacin CAPSULE,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,ketoprofen CAPSULE,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,meloxicam TABLET,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,nabumetone TABLET,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,naproxen TABLET,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,naproxen TABLET DR,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,naproxen sodium TABLET,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,oxaprozin TABLET,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,salsalate TABLET,Preferred
+Analgesics: Non-Steroidal Anti- Inflammatory Drugs,sulindac TABLET,Preferred
+"Analgesics: Opioids, Long-Acting",fentanyl * PATCH TD72,Preferred
+"Analgesics: Opioids, Long-Acting",morphine sulfate * TABLET ER,Preferred
+"Analgesics: Opioids, Short-Acting",acetaminophen with codeine * ELIXIR,Preferred
+"Analgesics: Opioids, Short-Acting",acetaminophen with codeine * SOLUTION,Preferred
+"Analgesics: Opioids, Short-Acting",acetaminophen with codeine * TABLET,Preferred
+"Analgesics: Opioids, Short-Acting",butorphanol tartrate ** SPRAY,Preferred
+"Analgesics: Opioids, Short-Acting",codeine sulfate * TABLET,Preferred
+"Analgesics: Opioids, Short-Acting",hydrocodone/acetaminophen ** SOLUTION,Preferred
+"Analgesics: Opioids, Short-Acting",hydrocodone/acetaminophen ** TABLET,Preferred
+"Analgesics: Opioids, Short-Acting",hydromorphone HCl ** SUPP.RECT,Preferred
+"Analgesics: Opioids, Short-Acting",hydromorphone HCl ** TABLET,Preferred
+"Analgesics: Opioids, Short-Acting",morphine sulfate ** SOLUTION,Preferred
+"Analgesics: Opioids, Short-Acting",morphine sulfate ** SUPP.RECT,Preferred
+"Analgesics: Opioids, Short-Acting",morphine sulfate ** TABLET,Preferred
+"Analgesics: Opioids, Short-Acting",opium/belladonna alkaloids ** SUPP.RECT,Preferred
+"Analgesics: Opioids, Short-Acting",oxycodone HCl ** SOLUTION,Preferred
+"Analgesics: Opioids, Short-Acting",oxycodone HCl ** TABLET,Preferred
+"Analgesics: Opioids, Short-Acting",oxycodone HCl/acetaminophen ** CAPSULE,Preferred
+"Analgesics: Opioids, Short-Acting",oxycodone HCl/acetaminophen ** TABLET,Preferred
+"Analgesics: Opioids, Short-Acting",tramadol HCl ** TABLET,Preferred
+"Analgesics: Pain Medications, Topical",capsaicin CREAM (G),Preferred
+"Analgesics: Pain Medications, Topical",diclofenac sodium GEL (GRAM) ***,Preferred
+"Analgesics: Pain Medications, Topical",lidocaine HCl CREAM (G),Preferred
+"Analgesics: Pain Medications, Topical",lidocaine HCl JEL/PF APP,Preferred
+"Analgesics: Pain Medications, Topical",lidocaine HCl SOLUTION,Preferred
+"Analgesics: Pain Medications, Topical",lidocaine/prilocaine CREAM (G),Preferred
+"Analgesics: Serotonin Agonists, Nasal",sumatriptan ** SPRAY,Preferred
+"Analgesics: Serotonin Agonists, Nasal",zolmitriptan ** SPRAY,Preferred
+"Analgesics: Serotonin Agonists, Oral",naratriptan HCl ** TABLET,Preferred
+"Analgesics: Serotonin Agonists, Oral",sumatriptan succinate ** TABLET,Preferred
+"Analgesics: Serotonin Agonists, Oral",zolmitriptan ** TAB RAPDIS,Preferred
+"Analgesics: Serotonin Agonists, Oral",zolmitriptan ** TABLET,Preferred
+"Analgesics: Serotonin Agonists, Subcutaneous",sumatriptan succinate ** sumatriptan succinate ** CARTRIDGE PEN INJCTR,Preferred
+"Analgesics: Serotonin Agonists, Subcutaneous",sumatriptan succinate ** VIAL,Preferred
+"Antibiotics: Amoxicillin and Clavulanate, Oral",amoxicillin/potassium clav amoxicillin/potassium clav SUSP RECON TAB CHEW,Preferred
+"Antibiotics: Amoxicillin and Clavulanate, Oral",amoxicillin/potassium clav TABLET,Preferred
+"Antibiotics: Antibiotics, Vaginal",clindamycin phosphate CREAM/APPL,Preferred
+"Antibiotics: Antibiotics, Vaginal",clindamycin phosphate SUPP.VAG,Preferred
+"Antibiotics: Antibiotics, Vaginal",metronidazole GEL W/APPL ***,Preferred
+"Antibiotics: Cephalosporins (1st Gen), Oral",cephalexin CAPSULE ***,Preferred
+"Antibiotics: Cephalosporins (1st Gen), Oral",cephalexin SUSP RECON,Preferred
+"Antibiotics: Cephalosporins (2nd Gen), Oral",cefprozil cefprozil SUSP RECON TABLET,Preferred
+"Antibiotics: Cephalosporins (2nd Gen), Oral",cefuroxime axetil TABLET,Preferred
+"Antibiotics: Cephalosporins (3rd Gen), Oral",cefdinir CAPSULE,Preferred
+"Antibiotics: Cephalosporins (3rd Gen), Oral",cefdinir SUSP RECON,Preferred
+Antibiotics: Clostridioides difficile Drugs,metronidazole TABLET ***,Preferred
+Antibiotics: Clostridioides difficile Drugs,vancomycin HCl CAPSULE,Preferred
+Antibiotics: Clostridioides difficile Drugs,vancomycin HCl VIAL ***,Preferred
+"Antibiotics: Fluoroquinolones, Oral",ciprofloxacin SUS MC REC,Preferred
+"Antibiotics: Fluoroquinolones, Oral",ciprofloxacin HCl TABLET,Preferred
+"Antibiotics: Fluoroquinolones, Oral",levofloxacin SOLUTION,Preferred
+"Antibiotics: Fluoroquinolones, Oral",levofloxacin TABLET,Preferred
+"Antibiotics: Fluoroquinolones, Oral",moxifloxacin HCl TABLET,Preferred
+"Antibiotics: Macrolides, Oral",azithromycin SUSP RECON,Preferred
+"Antibiotics: Macrolides, Oral",azithromycin TABLET,Preferred
+"Antibiotics: Macrolides, Oral",clarithromycin TABLET,Preferred
+"Antibiotics: Oxazolidinones, Oral",linezolid SUSP RECON,Preferred
+"Antibiotics: Oxazolidinones, Oral",linezolid TABLET,Preferred
+"Antibiotics: Tetracyclines, Oral",doxycycline hyclate ** CAPSULE,Preferred
+"Antibiotics: Tetracyclines, Oral",doxycycline hyclate ** TABLET,Preferred
+"Antibiotics: Tetracyclines, Oral",doxycycline monohydrate ** CAPSULE,Preferred
+"Antibiotics: Tetracyclines, Oral",doxycycline monohydrate ** SUSP RECON,Preferred
+"Antibiotics: Tetracyclines, Oral",tetracycline HCl ** CAPSULE,Preferred
+"Antifungal: Antifungals, Oral",clotrimazole TROCHE,Preferred
+"Antifungal: Antifungals, Oral",fluconazole SUSP RECON,Preferred
+"Antifungal: Antifungals, Oral",fluconazole TABLET,Preferred
+"Antifungal: Antifungals, Oral",nystatin ORAL SUSP,Preferred
+"Antifungal: Antifungals, Oral",nystatin TABLET,Preferred
+"Antifungal: Antifungals, Vaginal",clotrimazole CREAM/APPL,Preferred
+"Antifungal: Antifungals, Vaginal",clotrimazole TABLET,Preferred
+"Antifungal: Antifungals, Vaginal",miconazole nitrate CMB PF CRM,Preferred
+"Antifungal: Antifungals, Vaginal",miconazole nitrate CREAM/APPL,Preferred
+"Antifungal: Antifungals, Vaginal",miconazole nitrate CRM/PF APP,Preferred
+"Antifungal: Antifungals, Vaginal",miconazole nitrate SUPP.VAG,Preferred
+"Antifungal: Antifungals, Vaginal",terconazole CREAM/APPL,Preferred
+"Antifungal: Antifungals, Vaginal",tioconazole OIN/PF APP,Preferred
+Antivirals: Coronavirus Antivirals,nirmatrelvir/ritonavir TAB DS PK,Preferred
+Antivirals: Coronavirus Antivirals,nirmatrelvir/ritonavir (PAXLOVID ™) TAB DS PK,Preferred
+Antivirals: Coronavirus Antivirals,remdesivir VIAL,Preferred
+Antivirals: Hepatitis B,lamivudine * TABLET,Preferred
+Antivirals: Hepatitis B,tenofovir disoproxil fumarate * TABLET,Preferred
+"Antivirals: Hepatitis C, Direct-Acting Antivirals",glecaprevir/pibrentasvir (MAVYRET ™) ** sofosbuvir/velpatasvir (SOFOSBUVIR-VELPATASVIR ™) ** TABLET TABLET,Preferred
+"Antivirals: Hepatitis C, Other Agents",peginterferon alfa-2a SYRINGE,Preferred
+"Antivirals: Hepatitis C, Other Agents",peginterferon alfa-2a VIAL,Preferred
+"Antivirals: Hepatitis C, Other Agents",ribavirin CAPSULE,Preferred
+"Antivirals: Hepatitis C, Other Agents",ribavirin TABLET,Preferred
+Antivirals: Herpes Simplex,acyclovir CAPSULE,Preferred
+Antivirals: Herpes Simplex,acyclovir ORAL SUSP,Preferred
+Antivirals: Herpes Simplex,acyclovir TABLET,Preferred
+Antivirals: Herpes Simplex,valacyclovir HCl TABLET,Preferred
+Antivirals: HIV,abacavir sulfate SOLUTION,Preferred
+Antivirals: HIV,abacavir sulfate TABLET,Preferred
+Antivirals: HIV,abacavir sulfate/lamivudine TABLET,Preferred
+Antivirals: HIV,abacavir/dolutegravir/lamivudi TAB SUSP,Preferred
+Antivirals: HIV,abacavir/dolutegravir/lamivudi (TRIUMEQ ™) TABLET,Preferred
+Antivirals: HIV,atazanavir sulfate CAPSULE,Preferred
+Antivirals: HIV,atazanavir sulfate POWD PACK,Preferred
+Antivirals: HIV,atazanavir sulfate/cobicistat (EVOTAZ ™) TABLET,Preferred
+Antivirals: HIV,bictegrav/emtricit/tenofov ala (BIKTARVY ™) TABLET,Preferred
+Antivirals: HIV,cabotegravir SUSER VIAL,Preferred
+Antivirals: HIV,cabotegravir (APRETUDE ™) SUSER VIAL,Preferred
+Antivirals: HIV,cabotegravir sodium TABLET,Preferred
+Antivirals: HIV,cabotegravir/rilpivirine (CABENUVA ™) SUSER VIAL,Preferred
+Antivirals: HIV,cobicistat TABLET,Preferred
+Antivirals: HIV,darunavir ORAL SUSP,Preferred
+Antivirals: HIV,darunavir TABLET,Preferred
+Antivirals: HIV,darunavir/cob/emtri/tenof alaf (SYMTUZA ™) TABLET,Preferred
+Antivirals: HIV,darunavir/cobicistat (PREZCOBIX ™) TABLET,Preferred
+Antivirals: HIV,dolutegravir sodium TAB SUSP,Preferred
+Antivirals: HIV,dolutegravir sodium TABLET,Preferred
+Antivirals: HIV,dolutegravir sodium/lamivudine (DOVATO ™) TABLET,Preferred
+Antivirals: HIV,dolutegravir/rilpivirine (JULUCA ™) TABLET,Preferred
+Antivirals: HIV,doravirine (PIFELTRO ™) TABLET,Preferred
+Antivirals: HIV,doravirine/lamivu/tenofov diso (DELSTRIGO ™) TABLET,Preferred
+Antivirals: HIV,efavirenz CAPSULE,Preferred
+Antivirals: HIV,efavirenz TABLET,Preferred
+Antivirals: HIV,efavirenz/emtricit/tenofovr df TABLET,Preferred
+Antivirals: HIV,efavirenz/lamivu/tenofov disop TABLET,Preferred
+Antivirals: HIV,efavirenz/lamivu/tenofov disop (SYMFI ™) TABLET,Preferred
+Antivirals: HIV,efavirenz/lamivu/tenofov disop (SYMFI LO ™) TABLET,Preferred
+Antivirals: HIV,elviteg/cob/emtri/tenof alafen (GENVOYA ™) TABLET,Preferred
+Antivirals: HIV,elviteg/cob/emtri/tenofo disop TABLET,Preferred
+Antivirals: HIV,emtricita/rilpivirine/tenof DF TABLET,Preferred
+Antivirals: HIV,emtricitab/rilpiviri/tenof ala (ODEFSEY ™) TABLET,Preferred
+Antivirals: HIV,emtricitabine CAPSULE,Preferred
+Antivirals: HIV,emtricitabine SOLUTION,Preferred
+Antivirals: HIV,emtricitabine/tenofov alafenam (DESCOVY ™) TABLET,Preferred
+Antivirals: HIV,emtricitabine/tenofovir (TDF) TABLET,Preferred
+Antivirals: HIV,enfuvirtide VIAL,Preferred
+Antivirals: HIV,etravirine TABLET,Preferred
+Antivirals: HIV,fosamprenavir calcium TABLET,Preferred
+Antivirals: HIV,fostemsavir tromethamine TAB ER 12H,Preferred
+Antivirals: HIV,ibalizumab-uiyk VIAL,Preferred
+Antivirals: HIV,lamivudine SOLUTION,Preferred
+Antivirals: HIV,lamivudine TABLET,Preferred
+Antivirals: HIV,lamivudine/tenofovir disop fum (CIMDUO ™) TABLET,Preferred
+Antivirals: HIV,lamivudine/zidovudine TABLET,Preferred
+Antivirals: HIV,lenacapavir sodium TABLET,Preferred
+Antivirals: HIV,lenacapavir sodium VIAL,Preferred
+Antivirals: HIV,lopinavir/ritonavir SOLUTION,Preferred
+Antivirals: HIV,lopinavir/ritonavir TABLET,Preferred
+Antivirals: HIV,maraviroc SOLUTION,Preferred
+Antivirals: HIV,maraviroc TABLET,Preferred
+Antivirals: HIV,nevirapine ORAL SUSP,Preferred
+Antivirals: HIV,nevirapine TAB ER 24H,Preferred
+Antivirals: HIV,nevirapine TABLET,Preferred
+Antivirals: HIV,raltegravir potassium POWD PACK,Preferred
+Antivirals: HIV,raltegravir potassium TAB CHEW,Preferred
+Antivirals: HIV,raltegravir potassium TABLET,Preferred
+Antivirals: HIV,rilpivirine SUSER VIAL,Preferred
+Antivirals: HIV,rilpivirine HCl TABLET,Preferred
+Antivirals: HIV,ritonavir POWD PACK,Preferred
+Antivirals: HIV,ritonavir TABLET,Preferred
+Antivirals: HIV,tipranavir CAPSULE,Preferred
+Antivirals: HIV,zidovudine CAPSULE,Preferred
+Antivirals: HIV,zidovudine SYRUP,Preferred
+Antivirals: HIV,zidovudine TABLET,Preferred
+Antivirals: HIV,zidovudine VIAL,Preferred
+Antivirals: Influenza,oseltamivir phosphate ** CAPSULE,Preferred
+Antivirals: Influenza,oseltamivir phosphate ** SUSP RECON,Preferred
+Cardiovascular: Antianginals,isosorbide dinitrate TABLET,Preferred
+Cardiovascular: Antianginals,isosorbide mononitrate TABLET,Preferred
+Cardiovascular: Antianginals,nitroglycerin PATCH TD24,Preferred
+Cardiovascular: Antianginals,nitroglycerin TAB SUBL,Preferred
+"Cardiovascular: Anticoagulants, Oral and SQ",apixaban (ELIQUIS ™) TAB DS PK,Preferred
+"Cardiovascular: Anticoagulants, Oral and SQ",apixaban (ELIQUIS ™) TABLET,Preferred
+"Cardiovascular: Anticoagulants, Oral and SQ",dabigatran etexilate mesylate CAPSULE,Preferred
+"Cardiovascular: Anticoagulants, Oral and SQ",edoxaban tosylate TABLET,Preferred
+"Cardiovascular: Anticoagulants, Oral and SQ",enoxaparin sodium SYRINGE,Preferred
+"Cardiovascular: Anticoagulants, Oral and SQ",enoxaparin sodium VIAL,Preferred
+"Cardiovascular: Anticoagulants, Oral and SQ",rivaroxaban (XARELTO ™) TAB DS PK,Preferred
+"Cardiovascular: Anticoagulants, Oral and SQ",rivaroxaban (XARELTO ™) TABLET,Preferred
+"Cardiovascular: Anticoagulants, Oral and SQ",warfarin sodium TABLET,Preferred
+"Cardiovascular: Beta-Blockers, Oral",acebutolol HCl CAPSULE,Preferred
+"Cardiovascular: Beta-Blockers, Oral",atenolol TABLET,Preferred
+"Cardiovascular: Beta-Blockers, Oral",carvedilol TABLET,Preferred
+"Cardiovascular: Beta-Blockers, Oral",labetalol HCl TABLET ***,Preferred
+"Cardiovascular: Beta-Blockers, Oral",metoprolol succinate TAB ER 24H,Preferred
+"Cardiovascular: Beta-Blockers, Oral",metoprolol tartrate TABLET,Preferred
+"Cardiovascular: Beta-Blockers, Oral",nadolol TABLET,Preferred
+"Cardiovascular: Beta-Blockers, Oral",propranolol HCl CAP SA 24H,Preferred
+"Cardiovascular: Beta-Blockers, Oral",propranolol HCl SOLUTION,Preferred
+"Cardiovascular: Beta-Blockers, Oral",propranolol HCl TABLET,Preferred
+"Cardiovascular: Calcium Channel Blockers - Dihydropyridine, Oral",amlodipine besylate nicardipine HCl TABLET CAPSULE,Preferred
+"Cardiovascular: Calcium Channel Blockers - Dihydropyridine, Oral",nifedipine TAB ER 24,Preferred
+"Cardiovascular: Calcium Channel Blockers - Dihydropyridine, Oral",nifedipine TABLET ER,Preferred
+"Cardiovascular: Calcium Channel Blockers - Non-Dihydropyridine, Oral",diltiazem HCl diltiazem HCl CAP ER 12H CAP ER 24H,Preferred
+"Cardiovascular: Calcium Channel Blockers - Non-Dihydropyridine, Oral",diltiazem HCl CAP ER DEG,Preferred
+"Cardiovascular: Calcium Channel Blockers - Non-Dihydropyridine, Oral",diltiazem HCl CAP SA 24H,Preferred
+"Cardiovascular: Calcium Channel Blockers - Non-Dihydropyridine, Oral",diltiazem HCl TABLET,Preferred
+"Cardiovascular: Calcium Channel Blockers - Non-Dihydropyridine, Oral",verapamil HCl CAP24H PEL,Preferred
+"Cardiovascular: Calcium Channel Blockers - Non-Dihydropyridine, Oral",verapamil HCl TABLET,Preferred
+"Cardiovascular: Calcium Channel Blockers - Non-Dihydropyridine, Oral",verapamil HCl TABLET ER,Preferred
+Cardiovascular: Combination  Antihypertensives,amlodipine bes/olmesartan med benazepril/hydrochlorothiazide TABLET TABLET,Preferred
+Cardiovascular: Combination  Antihypertensives,enalapril/hydrochlorothiazide TABLET,Preferred
+Cardiovascular: Combination  Antihypertensives,lisinopril/hydrochlorothiazide TABLET,Preferred
+Cardiovascular: Combination  Antihypertensives,losartan/hydrochlorothiazide TABLET,Preferred
+Cardiovascular: Combination  Antihypertensives,olmesartan/amlodipin/hcthiazid TABLET,Preferred
+Cardiovascular: Combination  Antihypertensives,olmesartan/hydrochlorothiazide TABLET,Preferred
+Cardiovascular: Combination  Antihypertensives,telmisartan/hydrochlorothiazid TABLET,Preferred
+"Cardiovascular: Diuretics, Oral",amiloride HCl TABLET,Preferred
+"Cardiovascular: Diuretics, Oral",amiloride/hydrochlorothiazide TABLET,Preferred
+"Cardiovascular: Diuretics, Oral",bumetanide TABLET,Preferred
+"Cardiovascular: Diuretics, Oral",chlorthalidone TABLET,Preferred
+"Cardiovascular: Diuretics, Oral",furosemide SOLUTION ***,Preferred
+"Cardiovascular: Diuretics, Oral",furosemide TABLET,Preferred
+"Cardiovascular: Diuretics, Oral",hydrochlorothiazide CAPSULE,Preferred
+"Cardiovascular: Diuretics, Oral",hydrochlorothiazide SOLUTION,Preferred
+"Cardiovascular: Diuretics, Oral",hydrochlorothiazide TABLET,Preferred
+"Cardiovascular: Diuretics, Oral",indapamide TABLET,Preferred
+"Cardiovascular: Diuretics, Oral",spironolact/hydrochlorothiazid TABLET,Preferred
+"Cardiovascular: Diuretics, Oral",spironolactone TABLET,Preferred
+"Cardiovascular: Diuretics, Oral",torsemide TABLET,Preferred
+"Cardiovascular: Diuretics, Oral",triamterene CAPSULE,Preferred
+"Cardiovascular: Diuretics, Oral",triamterene/hydrochlorothiazid CAPSULE,Preferred
+"Cardiovascular: Diuretics, Oral",triamterene/hydrochlorothiazid TABLET,Preferred
+Cardiovascular: Inhibitors of the ReninAngiotensin-Aldosterone  System (RAAS),benazepril HCl candesartan cilexetil enalapril maleate TABLET TABLET TABLET,Preferred
+Cardiovascular: Inhibitors of the ReninAngiotensin-Aldosterone  System (RAAS),fosinopril sodium TABLET,Preferred
+Cardiovascular: Inhibitors of the ReninAngiotensin-Aldosterone  System (RAAS),irbesartan TABLET,Preferred
+Cardiovascular: Inhibitors of the ReninAngiotensin-Aldosterone  System (RAAS),lisinopril TABLET,Preferred
+Cardiovascular: Inhibitors of the ReninAngiotensin-Aldosterone  System (RAAS),losartan potassium TABLET,Preferred
+Cardiovascular: Inhibitors of the ReninAngiotensin-Aldosterone  System (RAAS),olmesartan medoxomil TABLET,Preferred
+Cardiovascular: Inhibitors of the ReninAngiotensin-Aldosterone  System (RAAS),quinapril HCl TABLET,Preferred
+Cardiovascular: Inhibitors of the ReninAngiotensin-Aldosterone  System (RAAS),ramipril CAPSULE,Preferred
+Cardiovascular: Inhibitors of the ReninAngiotensin-Aldosterone  System (RAAS),telmisartan TABLET,Preferred
+Cardiovascular: Inhibitors of the ReninAngiotensin-Aldosterone  System (RAAS),valsartan TABLET,Preferred
+Cardiovascular: Other Dyslipidemia Drugs,cholestyramine (with sugar) POWD PACK,Preferred
+Cardiovascular: Other Dyslipidemia Drugs,cholestyramine (with sugar) POWDER,Preferred
+Cardiovascular: Other Dyslipidemia Drugs,cholestyramine/aspartame POWD PACK,Preferred
+Cardiovascular: Other Dyslipidemia Drugs,cholestyramine/aspartame POWDER,Preferred
+Cardiovascular: Other Dyslipidemia Drugs,evolocumab (REPATHA PUSHTRONEX ™) * WEAR INJCT,Preferred
+Cardiovascular: Other Dyslipidemia Drugs,evolocumab (REPATHA SURECLICK ™) * PEN INJCTR,Preferred
+Cardiovascular: Other Dyslipidemia Drugs,evolocumab (REPATHA SYRINGE ™) * SYRINGE,Preferred
+Cardiovascular: Other Dyslipidemia Drugs,ezetimibe TABLET,Preferred
+Cardiovascular: Other Dyslipidemia Drugs,fenofibrate TABLET ***,Preferred
+Cardiovascular: Other Dyslipidemia Drugs,fenofibrate nanocrystallized TABLET,Preferred
+Cardiovascular: Other Dyslipidemia Drugs,"fenofibrate,micronized CAPSULE",Preferred
+Cardiovascular: Other Dyslipidemia Drugs,fenofibric acid (choline) CAPSULE DR,Preferred
+Cardiovascular: Other Dyslipidemia Drugs,omega-3 acid ethyl esters * CAPSULE,Preferred
+Cardiovascular: Platelet Inhibitors,aspirin TAB CHEW,Preferred
+Cardiovascular: Platelet Inhibitors,aspirin TABLET,Preferred
+Cardiovascular: Platelet Inhibitors,aspirin TABLET DR,Preferred
+Cardiovascular: Platelet Inhibitors,aspirin/dipyridamole CPMP 12HR,Preferred
+Cardiovascular: Platelet Inhibitors,cilostazol TABLET,Preferred
+Cardiovascular: Platelet Inhibitors,clopidogrel bisulfate TABLET,Preferred
+Cardiovascular: Platelet Inhibitors,dipyridamole TABLET,Preferred
+Cardiovascular: Platelet Inhibitors,prasugrel HCl TABLET,Preferred
+Cardiovascular: Platelet Inhibitors,ticagrelor TABLET,Preferred
+Cardiovascular: Statins & Combos,atorvastatin calcium TABLET,Preferred
+Cardiovascular: Statins & Combos,lovastatin TABLET,Preferred
+Cardiovascular: Statins & Combos,pravastatin sodium TABLET,Preferred
+Cardiovascular: Statins & Combos,rosuvastatin calcium TABLET,Preferred
+Cardiovascular: Statins & Combos,simvastatin TABLET,Preferred
+Dermatologicals: Acne,adapalene * CREAM (G),Preferred
+Dermatologicals: Acne,adapalene * GEL (GRAM),Preferred
+Dermatologicals: Acne,adapalene * GEL W/PUMP,Preferred
+Dermatologicals: Acne,adapalene * LOTION,Preferred
+Dermatologicals: Acne,adapalene/benzoyl peroxide * GEL W/PUMP,Preferred
+Dermatologicals: Acne,azelaic acid * GEL (GRAM),Preferred
+Dermatologicals: Acne,benzoyl peroxide * CLEANSER,Preferred
+Dermatologicals: Acne,benzoyl peroxide * FOAM,Preferred
+Dermatologicals: Acne,benzoyl peroxide * GEL (GRAM),Preferred
+Dermatologicals: Acne,benzoyl peroxide * LOTION,Preferred
+Dermatologicals: Acne,clindamycin phos/benzoyl perox * GEL (GRAM),Preferred
+Dermatologicals: Acne,clindamycin phos/benzoyl perox * GEL W/PUMP,Preferred
+Dermatologicals: Acne,clindamycin phosphate * FOAM,Preferred
+Dermatologicals: Acne,clindamycin phosphate * GEL (GRAM),Preferred
+Dermatologicals: Acne,clindamycin phosphate * LOTION,Preferred
+Dermatologicals: Acne,clindamycin phosphate * MED. SWAB,Preferred
+Dermatologicals: Acne,clindamycin phosphate * SOLUTION,Preferred
+Dermatologicals: Acne,clindamycin/tretinoin * GEL (GRAM),Preferred
+Dermatologicals: Acne,dapsone * GEL (GRAM),Preferred
+Dermatologicals: Acne,erythromycin base in ethanol * GEL (GRAM),Preferred
+Dermatologicals: Acne,erythromycin base in ethanol * MED. SWAB,Preferred
+Dermatologicals: Acne,erythromycin base in ethanol * SOLUTION,Preferred
+Dermatologicals: Acne,erythromycin/benzoyl peroxide * GEL (GRAM),Preferred
+Dermatologicals: Acne,isotretinoin * CAPSULE,Preferred
+Dermatologicals: Acne,sulfacetamide sodium * SUSPENSION,Preferred
+Dermatologicals: Acne,tretinoin * CREAM (G),Preferred
+Dermatologicals: Acne,tretinoin * GEL (GRAM),Preferred
+Dermatologicals: Acne,tretinoin microspheres * GEL (GRAM),Preferred
+Dermatologicals: Acne,tretinoin microspheres * GEL W/PUMP,Preferred
+"Dermatologicals: Antibiotics, Topical",bacitracin OINT. (G) ***,Preferred
+"Dermatologicals: Antibiotics, Topical",bacitracin zinc OINT. (G),Preferred
+"Dermatologicals: Antibiotics, Topical",bacitracin zinc/polymyxin B OINT. (G),Preferred
+"Dermatologicals: Antibiotics, Topical",bacitracin/polymyxin B sulfate OINT. (G),Preferred
+"Dermatologicals: Antibiotics, Topical",gentamicin sulfate CREAM (G),Preferred
+"Dermatologicals: Antibiotics, Topical",mupirocin OINT. (G),Preferred
+"Dermatologicals: Antibiotics, Topical",neomycin/bacitracin/polymyxinB OINT. (G),Preferred
+"Dermatologicals: Antifungals, Topical",miconazole nitrate CREAM (G),Preferred
+"Dermatologicals: Antifungals, Topical",nystatin CREAM (G),Preferred
+"Dermatologicals: Antifungals, Topical",nystatin OINT. (G),Preferred
+"Dermatologicals: Antiparasitics, Topical",permethrin COMBO. PKG,Preferred
+"Dermatologicals: Antiparasitics, Topical",permethrin CREAM (G),Preferred
+"Dermatologicals: Antiparasitics, Topical",permethrin LIQUID,Preferred
+"Dermatologicals: Antiparasitics, Topical",piperonyl but/pyrethins/permet KIT,Preferred
+"Dermatologicals: Antiparasitics, Topical",piperonyl butoxide/pyrethrins GEL (GRAM),Preferred
+"Dermatologicals: Antiparasitics, Topical",piperonyl butoxide/pyrethrins KIT,Preferred
+"Dermatologicals: Antiparasitics, Topical",piperonyl butoxide/pyrethrins LIQUID,Preferred
+"Dermatologicals: Antiparasitics, Topical",piperonyl butoxide/pyrethrins SHAMPOO,Preferred
+"Dermatologicals: Moisturizers, Topical",ammonium lactate CREAM (G),Preferred
+"Dermatologicals: Moisturizers, Topical",ammonium lactate LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical",calamine/phenol liquid LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical",calamine/zinc oxide CREAM (G),Preferred
+"Dermatologicals: Moisturizers, Topical",calamine/zinc oxide LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical","ceramides 1,3,6-II LOTION",Preferred
+"Dermatologicals: Moisturizers, Topical",cetyl alc/stearyl alc/pg/sls CREAM (G),Preferred
+"Dermatologicals: Moisturizers, Topical",cetyl alcohol/stearyl alcohol LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical",colloidal oatmeal CREAM (G),Preferred
+"Dermatologicals: Moisturizers, Topical",colloidal oatmeal CREAM(ML),Preferred
+"Dermatologicals: Moisturizers, Topical",colloidal oatmeal LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical","dimethic/zinc ox/vits A,D/aloe CREAM (G)",Preferred
+"Dermatologicals: Moisturizers, Topical",dimethicone CREAM (G),Preferred
+"Dermatologicals: Moisturizers, Topical",dimethicone/colloidal oatmeal LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical",dimethicone/zinc oxide CREAM (G),Preferred
+"Dermatologicals: Moisturizers, Topical",emollient combination no.116 LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical",emollient combination no.40 LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical","gly/benzyl alc/petrolat,wht LOTION",Preferred
+"Dermatologicals: Moisturizers, Topical","gly/dimeth/petrolat,wht/water CREAM (G)",Preferred
+"Dermatologicals: Moisturizers, Topical",glycerin/dimeth/surfactants LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical",lactic acid/urea LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical",lanolin CREAM (G),Preferred
+"Dermatologicals: Moisturizers, Topical",lanolin OINT. (G),Preferred
+"Dermatologicals: Moisturizers, Topical",lanolin/mineral oil LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical",lecithin/glycerin/dimethicone LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical",menthol/zinc oxide OINT. (G),Preferred
+"Dermatologicals: Moisturizers, Topical",menthol/zinc/aloe/chamomil oil OINT. (G),Preferred
+"Dermatologicals: Moisturizers, Topical",min oil/petrolatum/castor oil LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical",mineral oil/i-prop myr/water LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical","mineral oil/petrolatum,white CREAM (G)",Preferred
+"Dermatologicals: Moisturizers, Topical","petrolatum,white CREAM (G)",Preferred
+"Dermatologicals: Moisturizers, Topical","petrolatum,white OINT. (G)",Preferred
+"Dermatologicals: Moisturizers, Topical","petrolatum/vits A,C,E/aloe xt OINT.(ML)",Preferred
+"Dermatologicals: Moisturizers, Topical",vit A/vitamin D3/E/aloe v/zinc OINT. (G),Preferred
+"Dermatologicals: Moisturizers, Topical",vit E acet/gly/dimeth/water LOTION,Preferred
+"Dermatologicals: Moisturizers, Topical",vitamin E CREAM (G),Preferred
+"Dermatologicals: Moisturizers, Topical",vitamin E/vitamins A and D CREAM (G),Preferred
+"Dermatologicals: Moisturizers, Topical",vitamins A and D CREAM (G),Preferred
+"Dermatologicals: Moisturizers, Topical",vits A and D/white pet/lanolin OINT. (G),Preferred
+"Dermatologicals: Moisturizers, Topical",zinc oxide CREAM (G),Preferred
+"Dermatologicals: Moisturizers, Topical",zinc oxide OINT. (G),Preferred
+"Dermatologicals: Moisturizers, Topical",zinc oxide/cod liver oil OINT. (G),Preferred
+"Dermatologicals: Moisturizers, Topical",zinc oxide/menthol/calamine OINT. (G),Preferred
+"Dermatologicals: Moisturizers, Topical",zinc oxide/panthenol/vitamin E CREAM (G),Preferred
+"Dermatologicals: Steroids, Topical",alclometasone dipropionate CREAM (G),Preferred
+"Dermatologicals: Steroids, Topical",alclometasone dipropionate OINT. (G),Preferred
+"Dermatologicals: Steroids, Topical",betamethasone dipropionate CREAM (G),Preferred
+"Dermatologicals: Steroids, Topical",betamethasone dipropionate LOTION,Preferred
+"Dermatologicals: Steroids, Topical",betamethasone dipropionate OINT. (G),Preferred
+"Dermatologicals: Steroids, Topical",betamethasone valerate CREAM (G),Preferred
+"Dermatologicals: Steroids, Topical",betamethasone valerate OINT. (G),Preferred
+"Dermatologicals: Steroids, Topical",betamethasone/propylene glyc CREAM (G),Preferred
+"Dermatologicals: Steroids, Topical",clobetasol propionate CREAM (G),Preferred
+"Dermatologicals: Steroids, Topical",clobetasol propionate OINT. (G),Preferred
+"Dermatologicals: Steroids, Topical",clobetasol propionate SOLUTION,Preferred
+"Dermatologicals: Steroids, Topical",desonide CREAM (G),Preferred
+"Dermatologicals: Steroids, Topical",desonide OINT. (G),Preferred
+"Dermatologicals: Steroids, Topical",desoximetasone CREAM (G),Preferred
+"Dermatologicals: Steroids, Topical",fluocinolone acetonide CREAM (G),Preferred
+"Dermatologicals: Steroids, Topical",fluocinolone acetonide SOLUTION,Preferred
+"Dermatologicals: Steroids, Topical",fluocinonide CREAM (G),Preferred
+"Dermatologicals: Steroids, Topical",fluocinonide SOLUTION,Preferred
+"Dermatologicals: Steroids, Topical",fluocinonide/emollient base CREAM (G),Preferred
+"Dermatologicals: Steroids, Topical",hydrocortisone CREAM (G),Preferred
+"Dermatologicals: Steroids, Topical",hydrocortisone OINT. (G),Preferred
+"Dermatologicals: Steroids, Topical",hydrocortisone acetate CREAM (G),Preferred
+"Dermatologicals: Steroids, Topical",hydrocortisone butyrate SOLUTION,Preferred
+"Dermatologicals: Steroids, Topical",triamcinolone acetonide CREAM (G),Preferred
+"Dermatologicals: Steroids, Topical",triamcinolone acetonide OINT. (G),Preferred
+Dermatologicals: Topical Products for  Inflammatory Skin Diseases,calcipotriene ‡ calcipotriene/betamethasone ‡ CREAM (G) OINT. (G),Preferred
+Dermatologicals: Topical Products for  Inflammatory Skin Diseases,pimecrolimus ‡ CREAM (G),Preferred
+Dermatologicals: Topical Products for  Inflammatory Skin Diseases,tacrolimus ‡ OINT. (G),Preferred
+Dermatologicals: Topical Products for  Inflammatory Skin Diseases,tazarotene ‡ CREAM (G),Preferred
+"Endocrine: Androgens, Topical & Parenteral",testosterone * testosterone * GEL (GRAM) GEL MD PMP,Preferred
+"Endocrine: Androgens, Topical & Parenteral",testosterone * GEL PACKET,Preferred
+"Endocrine: Androgens, Topical & Parenteral",testosterone cypionate * VIAL,Preferred
+"Endocrine: Androgens, Topical & Parenteral",testosterone enanthate * VIAL,Preferred
+Endocrine: Bone Metabolism Drugs,alendronate sodium TABLET,Preferred
+Endocrine: Bone Metabolism Drugs,ibandronate sodium TABLET,Preferred
+Endocrine: Bone Metabolism Drugs,risedronate sodium TABLET,Preferred
+"Endocrine: Diabetes, DPP-4 Inhibitors",saxagliptin HCl * TABLET,Preferred
+"Endocrine: Diabetes, DPP-4 Inhibitors",sitagliptin phos/metformin HCl * TABLET,Preferred
+"Endocrine: Diabetes, DPP-4 Inhibitors",sitagliptin phosphate * TABLET,Preferred
+"Endocrine: Diabetes, GLP-1 Receptor Agonists and GIP Therapies",dulaglutide (TRULICITY ™) * exenatide * PEN INJCTR PEN INJCTR,Preferred
+"Endocrine: Diabetes, GLP-1 Receptor Agonists and GIP Therapies",liraglutide * PEN INJCTR,Preferred
+"Endocrine: Diabetes, Glucagon",glucagon VIAL,Preferred
+"Endocrine: Diabetes, Glucagon",glucagon (BAQSIMI ™) SPRAY,Preferred
+"Endocrine: Diabetes, Insulins",HUMALOG ™ - BRAND ONLY CARTRIDGE,Preferred
+"Endocrine: Diabetes, Insulins",HUMALOG ™ - BRAND ONLY VIAL,Preferred
+"Endocrine: Diabetes, Insulins",HUMALOG KWIKPEN U-100 ™ - BRAND ONLY INSULN PEN,Preferred
+"Endocrine: Diabetes, Insulins",insulin lispro INS PEN HF,Preferred
+"Endocrine: Diabetes, Insulins",insulin lispro INSULN PEN,Preferred
+"Endocrine: Diabetes, Insulins",INSULIN LISPRO - GENERIC ONLY VIAL,Preferred
+"Endocrine: Diabetes, Insulins",insulin lispro protamin/lispro INSULN PEN,Preferred
+"Endocrine: Diabetes, Insulins",insulin lispro protamin/lispro VIAL,Preferred
+"Endocrine: Diabetes, Insulins",insulin NPH hum/reg insulin hm * INSULN PEN,Preferred
+"Endocrine: Diabetes, Insulins",insulin NPH hum/reg insulin hm * VIAL,Preferred
+"Endocrine: Diabetes, Insulins",insulin NPH human isophane VIAL,Preferred
+"Endocrine: Diabetes, Insulins","insulin regular, human INSULN PEN",Preferred
+"Endocrine: Diabetes, Insulins","insulin regular, human VIAL",Preferred
+"Endocrine: Diabetes, Insulins",insulin zinc human recombinant VIAL,Preferred
+"Endocrine: Diabetes, Insulins",LANTUS ™ - BRAND ONLY VIAL,Preferred
+"Endocrine: Diabetes, Insulins",LANTUS SOLOSTAR ™ - BRAND ONLY INSULN PEN,Preferred
+"Endocrine: Diabetes, Miscellaneous Antidiabetic Agents",metformin HCl metformin HCl TAB ER 24H TABLET ***,Preferred
+"Endocrine: Diabetes, SGLT-2 Inhibitors",dapagliflozin propanediol TABLET,Preferred
+"Endocrine: Diabetes, SGLT-2 Inhibitors",empagliflozin TABLET,Preferred
+"Endocrine: Diabetes, Sulfonylureas",glimepiride TABLET ***,Preferred
+"Endocrine: Diabetes, Sulfonylureas",glipizide TABLET ***,Preferred
+"Endocrine: Diabetes, Sulfonylureas",glyburide TABLET,Preferred
+"Endocrine: Diabetes, Thiazolidinediones",pioglitazone HCl TABLET,Preferred
+"Endocrine: Estrogen Replacement, Oral",drospirenone/estradiol TABLET,Preferred
+"Endocrine: Estrogen Replacement, Oral",estradiol TABLET,Preferred
+"Endocrine: Estrogen Replacement, Oral","estrogen,con/m-progest acet TABLET",Preferred
+"Endocrine: Estrogen Replacement, Oral","estrogens, conjugated TABLET",Preferred
+"Endocrine: Estrogen Replacement, Oral","estrogens,conj.,synthetic A TABLET",Preferred
+"Endocrine: Estrogen Replacement, Oral",estropipate TABLET,Preferred
+"Endocrine: Estrogen Replacement, Topical",estradiol GEL MD PMP,Preferred
+"Endocrine: Estrogen Replacement, Topical",estradiol PATCH TDSW,Preferred
+"Endocrine: Estrogen Replacement, Topical",estradiol PATCH TDWK,Preferred
+"Endocrine: Estrogen Replacement, Vaginal",estradiol estradiol CREAM/APPL TABLET,Preferred
+"Endocrine: Estrogen Replacement, Vaginal",estradiol VAG RING,Preferred
+"Endocrine: Estrogen Replacement, Vaginal",estradiol acetate VAG RING,Preferred
+"Endocrine: Estrogen Replacement, Vaginal","estrogens, conjugated CREAM/APPL",Preferred
+"Endocrine: Glucocorticoids, Oral",cortisone acetate TABLET,Preferred
+"Endocrine: Glucocorticoids, Oral",dexamethasone DROPS,Preferred
+"Endocrine: Glucocorticoids, Oral",dexamethasone ELIXIR,Preferred
+"Endocrine: Glucocorticoids, Oral",dexamethasone SOLUTION,Preferred
+"Endocrine: Glucocorticoids, Oral",dexamethasone TAB DS PK,Preferred
+"Endocrine: Glucocorticoids, Oral",dexamethasone TABLET,Preferred
+"Endocrine: Glucocorticoids, Oral",hydrocortisone TABLET,Preferred
+"Endocrine: Glucocorticoids, Oral",methylprednisolone TAB DS PK,Preferred
+"Endocrine: Glucocorticoids, Oral",methylprednisolone TABLET,Preferred
+"Endocrine: Glucocorticoids, Oral",prednisolone SOLUTION,Preferred
+"Endocrine: Glucocorticoids, Oral",prednisone ORAL CONC,Preferred
+"Endocrine: Glucocorticoids, Oral",prednisone SOLUTION,Preferred
+"Endocrine: Glucocorticoids, Oral",prednisone TAB DS PK,Preferred
+"Endocrine: Glucocorticoids, Oral",prednisone TABLET,Preferred
+"Endocrine: Glucocorticoids, Oral",prednisone TABLET DR,Preferred
+Endocrine: GnRH Agonists,leuprolide acetate * KIT,Preferred
+Endocrine: Growth Hormones,somatropin (GENOTROPIN ™) * CARTRIDGE,Preferred
+Endocrine: Growth Hormones,somatropin (GENOTROPIN ™) * SYRINGE,Preferred
+Endocrine: Growth Hormones,somatropin (NORDITROPIN FLEXPRO ™) * PEN INJCTR,Preferred
+Endocrine: Progestational Agents,medroxyprogesterone acetate TABLET,Preferred
+Endocrine: Progestational Agents,norethindrone acetate TABLET,Preferred
+Endocrine: Progestational Agents,"progesterone, micronized CAPSULE",Preferred
+"Endocrine: Thyroid Hormone, Oral",levothyroxine sodium TABLET,Preferred
+Endocrine: Vitamin D Analogs,calcitriol CAPSULE,Preferred
+Endocrine: Vitamin D Analogs,calcitriol SOLUTION,Preferred
+"Gastrointestinal: Antacid, H. pylori",bismuth/metronid/tetracycline CAPSULE,Preferred
+"Gastrointestinal: Antacid, H. pylori",lansoprazole/amoxiciln/clarith COMBO. PKG,Preferred
+"Gastrointestinal: Antacid, H. pylori",omeprazole/amoxicill/rifabutin CAP IR DR,Preferred
+"Gastrointestinal: Antacid, H2 Antagonists",famotidine TABLET,Preferred
+"Gastrointestinal: Antacid, H2 Antagonists",famotidine/Ca carb/mag hydrox TAB CHEW,Preferred
+"Gastrointestinal: Antacid, H2 Antagonists",ranitidine HCl SYRUP,Preferred
+"Gastrointestinal: Antacid, H2 Antagonists",ranitidine HCl TABLET,Preferred
+"Gastrointestinal: Antacid, Proton Pump Inhibitors",esomeprazole magnesium ** lansoprazole ** CAPSULE DR CAPSULE DR,Preferred
+"Gastrointestinal: Antacid, Proton Pump Inhibitors",omeprazole ** CAPSULE DR,Preferred
+"Gastrointestinal: Antacid, Proton Pump Inhibitors",pantoprazole sodium ** TABLET DR,Preferred
+"Gastrointestinal: Antacid, Proton Pump Inhibitors",rabeprazole sodium ** TABLET DR,Preferred
+Gastrointestinal: Antidiarrheals,loperamide HCl ** CAPSULE,Preferred
+Gastrointestinal: Antidiarrheals,loperamide HCl ** LIQUID,Preferred
+Gastrointestinal: Antidiarrheals,loperamide HCl ** TABLET,Preferred
+"Gastrointestinal: Antiemetics, Conventional",metoclopramide HCl ORAL CONC,Preferred
+"Gastrointestinal: Antiemetics, Conventional",metoclopramide HCl SOLUTION,Preferred
+"Gastrointestinal: Antiemetics, Conventional",metoclopramide HCl TABLET,Preferred
+"Gastrointestinal: Antiemetics, Conventional",phosphorated carbo(dext-fruct) SOLUTION,Preferred
+"Gastrointestinal: Antiemetics, Conventional",prochlorperazine SUPP.RECT,Preferred
+"Gastrointestinal: Antiemetics, Conventional",prochlorperazine edisylate SYRUP,Preferred
+"Gastrointestinal: Antiemetics, Conventional",prochlorperazine maleate TABLET,Preferred
+"Gastrointestinal: Antiemetics, Conventional",promethazine HCl SUPP.RECT,Preferred
+"Gastrointestinal: Antiemetics, Conventional",promethazine HCl SYRUP,Preferred
+"Gastrointestinal: Antiemetics, Conventional",promethazine HCl TABLET,Preferred
+"Gastrointestinal: Antiemetics, Newer",ondansetron TAB RAPDIS ***,Preferred
+"Gastrointestinal: Antiemetics, Newer",ondansetron HCl SOLUTION,Preferred
+"Gastrointestinal: Antiemetics, Newer",ondansetron HCl TABLET,Preferred
+Gastrointestinal: Bile Therapy,ursodiol CAPSULE ***,Preferred
+Gastrointestinal: Bile Therapy,ursodiol TABLET,Preferred
+Gastrointestinal: Bowel Preparation Agents,peg3350/sod sul/NaCl/KCl/asb/C POWD PK SQ,Preferred
+Gastrointestinal: Bowel Preparation Agents,"peg3350/sod sulf,bicarb,Cl/KCl SOLN RECON",Preferred
+Gastrointestinal: Bowel Preparation Agents,sodium chloride/NaHCO3/KCl/peg SOLN RECON,Preferred
+Gastrointestinal: Bowel Preparation Agents,"sodium phosphate,mono-dibasic LIQUID",Preferred
+Gastrointestinal: Bowel Preparation Agents,"sodium phosphate,mono-dibasic SOLUTION",Preferred
+Gastrointestinal: Bowel Preparation Agents,"sodium, potassium,mag sulfates SOLN RECON",Preferred
+Gastrointestinal: Hyoscyamine,hyoscyamine sulfate ELIXIR,Preferred
+Gastrointestinal: Hyoscyamine,hyoscyamine sulfate TAB RAPDIS,Preferred
+Gastrointestinal: Inflammatory Bowel Disease,balsalazide disodium CAPSULE,Preferred
+Gastrointestinal: Inflammatory Bowel Disease,budesonide CAPDR - ER,Preferred
+Gastrointestinal: Inflammatory Bowel Disease,mesalamine CAP ER 24H,Preferred
+Gastrointestinal: Inflammatory Bowel Disease,mesalamine SUPP.RECT,Preferred
+Gastrointestinal: Inflammatory Bowel Disease,mesalamine TABLET DR,Preferred
+Gastrointestinal: Inflammatory Bowel Disease,olsalazine sodium CAPSULE,Preferred
+Gastrointestinal: Inflammatory Bowel Disease,sulfasalazine TABLET,Preferred
+Gastrointestinal: Inflammatory Bowel Disease,sulfasalazine TABLET DR,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",bisacodyl bisacodyl TABLET TABLET DR,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",calcium polycarbophil TABLET,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",cellulose POWDER,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",docusate calcium CAPSULE,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",docusate sodium CAPSULE,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",docusate sodium LIQUID,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",docusate sodium SYRUP,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",docusate sodium TABLET,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",fructooligosaccharides/polydex LIQUID,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",guar gum PACKET,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",guar gum POWDER,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",inulin TAB CHEW,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",lactulose SOLUTION,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",magnesium citrate SOLUTION,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",magnesium hydroxide ORAL SUSP,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",magnesium hydroxide TAB CHEW ***,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",magnesium sulfate GRANULES,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",methylcellulose TABLET,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",methylcellulose (with sugar) POWDER ***,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",polyethylene glycol 3350 POWDER,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",psyllium husk CAPSULE ***,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",psyllium husk POWDER,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",psyllium husk (with sugar) POWDER,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",psyllium husk/aspartame POWD PACK,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",psyllium husk/aspartame POWDER,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",psyllium seed POWDER,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",psyllium seed (with dextrose) PACKET,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",psyllium seed (with dextrose) POWDER,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",psyllium seed (with sugar) POWDER,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",psyllium seed/aspartame POWDER,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",psyllium seed/sod bicarb PACKET,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",psyllium/sucr/sacchar/dextrose POWD PACK,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",senna leaf extract SYRUP,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",senna/psyllium seed GRANULES,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",sennosides CAPSULE,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",sennosides SYRUP,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",sennosides TAB CHEW,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",sennosides TABLET,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",sennosides/docusate sodium TABLET,Preferred
+"Gastrointestinal: Laxatives, Chronic Constipation",soluble corn fiber POWDER,Preferred
+Gastrointestinal: Pancreatic Enzymes,lipase/protease/amylase CAPSULE DR,Preferred
+Gastrointestinal: Pancreatic Enzymes,lipase/protease/amylase (ZENPEP ™) CAPSULE DR,Preferred
+Genito-Urinary: Benign Prostate Hypertrophy Drugs,doxazosin mesylate finasteride TABLET TABLET,Preferred
+Genito-Urinary: Benign Prostate Hypertrophy Drugs,tamsulosin HCl CAPSULE,Preferred
+Genito-Urinary: Benign Prostate Hypertrophy Drugs,terazosin HCl CAPSULE,Preferred
+Genito-Urinary: Overactive Bladder Drugs,fesoterodine fumarate TAB ER 24H,Preferred
+Genito-Urinary: Overactive Bladder Drugs,oxybutynin PATCH TDSW,Preferred
+Genito-Urinary: Overactive Bladder Drugs,oxybutynin chloride SYRUP,Preferred
+Genito-Urinary: Overactive Bladder Drugs,oxybutynin chloride TAB ER 24,Preferred
+Genito-Urinary: Overactive Bladder Drugs,oxybutynin chloride TABLET ***,Preferred
+Genito-Urinary: Overactive Bladder Drugs,solifenacin succinate TABLET,Preferred
+Hematology-Oncology: Colony Stimulating Factors,filgrastim (NEUPOGEN ™) SYRINGE,Preferred
+Hematology-Oncology: Colony Stimulating Factors,filgrastim (NEUPOGEN ™) VIAL,Preferred
+Hematology-Oncology: Colony Stimulating Factors,sargramostim VIAL,Preferred
+Hematology-Oncology: Erythropoiesis Stimulating Agents,darbepoetin alfa in polysorbat (ARANESP ™) darbepoetin alfa in polysorbat (ARANESP ™) SYRINGE VIAL,Preferred
+Hematology-Oncology: Iron Chelators,deferoxamine mesylate VIAL,Preferred
+Hematology-Oncology: Sickle Cell Disease,hydroxyurea CAPSULE,Preferred
+Hematology-Oncology: Thrombocytopenia Drugs,eltrombopag olamine POWD PACK,Preferred
+Hematology-Oncology: Thrombocytopenia Drugs,eltrombopag olamine TABLET,Preferred
+Hematology-Oncology: Thrombocytopenia Drugs,romiplostim VIAL,Preferred
+Immunological: Immunoglobulins,immun glob G(IgG)/gly/IgA ov50 VIAL,Preferred
+Immunological: Immunoglobulins,immun glob G(IgG)/pro/IgA 0-50 SYRINGE,Preferred
+Immunological: Immunoglobulins,immun glob G(IgG)/pro/IgA 0-50 VIAL,Preferred
+Immunological: Immunosuppressants,azathioprine TABLET,Preferred
+Immunological: Immunosuppressants,cyclosporine CAPSULE,Preferred
+Immunological: Immunosuppressants,cyclosporine SOLUTION,Preferred
+Immunological: Immunosuppressants,"cyclosporine, modified CAPSULE",Preferred
+Immunological: Immunosuppressants,"cyclosporine, modified SOLUTION",Preferred
+Immunological: Immunosuppressants,everolimus TABLET,Preferred
+Immunological: Immunosuppressants,mycophenolate mofetil CAPSULE,Preferred
+Immunological: Immunosuppressants,mycophenolate mofetil SUSP RECON,Preferred
+Immunological: Immunosuppressants,mycophenolate mofetil TABLET,Preferred
+Immunological: Immunosuppressants,mycophenolate sodium TABLET DR,Preferred
+Immunological: Immunosuppressants,sirolimus SOLUTION,Preferred
+Immunological: Immunosuppressants,sirolimus TABLET,Preferred
+Immunological: Immunosuppressants,tacrolimus CAP ER 24H,Preferred
+Immunological: Immunosuppressants,tacrolimus CAPSULE,Preferred
+Immunological: Immunosuppressants,tacrolimus GRAN PACK,Preferred
+Immunological: Immunosuppressants,tacrolimus TAB ER 24H,Preferred
+Immunological: Targeted Immune Modulators,adalimumab (HUMIRA ™) * SYRINGEKIT,Preferred
+Immunological: Targeted Immune Modulators,adalimumab (HUMIRA PEN ™) * PEN IJ KIT,Preferred
+Immunological: Targeted Immune Modulators,adalimumab (HUMIRA(CF) ™) * SYRINGEKIT,Preferred
+Immunological: Targeted Immune Modulators,adalimumab (HUMIRA(CF) PEN ™) * PEN IJ KIT,Preferred
+Immunological: Targeted Immune Modulators,adalimumab (HUMIRA(CF) PEN CROHN'S-UC-HS ™) * PEN IJ KIT,Preferred
+Immunological: Targeted Immune Modulators,adalimumab (HUMIRA(CF) PEN PEDIATRIC UC ™) * PEN IJ KIT,Preferred
+Immunological: Targeted Immune Modulators,adalimumab (HUMIRA(CF) PEN PSOR-UV-ADOL HS ™) * PEN IJ KIT,Preferred
+Immunological: Targeted Immune Modulators,adalimumab-atto (AMJEVITA(CF) ™) * SYRINGE,Preferred
+Immunological: Targeted Immune Modulators,adalimumab-atto (AMJEVITA(CF) AUTOINJECTOR ™) * AUTO INJCT,Preferred
+Immunological: Targeted Immune Modulators,adalimumab-fkjp (ADALIMUMAB-FKJP(CF) ™) * SYRINGEKIT,Preferred
+Immunological: Targeted Immune Modulators,adalimumab-fkjp (ADALIMUMAB-FKJP(CF) PEN ™) * PEN IJ KIT,Preferred
+Immunological: Targeted Immune Modulators,adalimumab-ryvk (SIMLANDI(CF) AUTOINJECTOR ™) * AUTOINJKIT,Preferred
+Immunological: Targeted Immune Modulators,apremilast * TAB DS PK,Preferred
+Immunological: Targeted Immune Modulators,apremilast * TABLET,Preferred
+Immunological: Targeted Immune Modulators,etanercept (ENBREL ™) * SYRINGE,Preferred
+Immunological: Targeted Immune Modulators,etanercept (ENBREL ™) * VIAL,Preferred
+Immunological: Targeted Immune Modulators,etanercept (ENBREL MINI ™) * CARTRIDGE,Preferred
+Immunological: Targeted Immune Modulators,etanercept (ENBREL SURECLICK ™) * PEN INJCTR,Preferred
+Immunological: Targeted Immune Modulators,infliximab-axxq * VIAL,Preferred
+Immunological: Targeted Immune Modulators,ixekizumab (TALTZ AUTOINJECTOR ™) * AUTO INJCT,Preferred
+Immunological: Targeted Immune Modulators,ixekizumab (TALTZ AUTOINJECTOR (2 PACK) ™) * AUTO INJCT,Preferred
+Immunological: Targeted Immune Modulators,ixekizumab (TALTZ AUTOINJECTOR (3 PACK) ™) * AUTO INJCT,Preferred
+Immunological: Targeted Immune Modulators,ixekizumab (TALTZ SYRINGE ™) * SYRINGE,Preferred
+Immunological: Targeted Immune Modulators,tofacitinib citrate * SOLUTION,Preferred
+Immunological: Targeted Immune Modulators,tofacitinib citrate * TAB ER 24H,Preferred
+Immunological: Targeted Immune Modulators,tofacitinib citrate * TABLET,Preferred
+Metabolic Disorders: Lysosomal Storage Disorders,taliglucerase alfa * VIAL,Preferred
+Metabolic Disorders: Urea Cycle Disorders,sodium phenylbutyrate GRANULES,Preferred
+Metabolic Disorders: Urea Cycle Disorders,sodium phenylbutyrate POWDER,Preferred
+Metabolic Disorders: Urea Cycle Disorders,sodium phenylbutyrate TABLET,Preferred
+"Neurology: Alzheimer's Disease, Noninjectable Drugs",donepezil HCl donepezil HCl TAB RAPDIS TABLET,Preferred
+"Neurology: Alzheimer's Disease, Noninjectable Drugs",galantamine HBr CAP24H PEL,Preferred
+"Neurology: Alzheimer's Disease, Noninjectable Drugs",galantamine HBr TABLET,Preferred
+"Neurology: Alzheimer's Disease, Noninjectable Drugs",memantine HCl CAP SPR 24,Preferred
+"Neurology: Alzheimer's Disease, Noninjectable Drugs",memantine HCl SOLUTION,Preferred
+"Neurology: Alzheimer's Disease, Noninjectable Drugs",memantine HCl TAB DS PK,Preferred
+"Neurology: Alzheimer's Disease, Noninjectable Drugs",memantine HCl TABLET,Preferred
+"Neurology: Alzheimer's Disease, Noninjectable Drugs",memantine HCl/donepezil HCl CAP SPR 24,Preferred
+"Neurology: Alzheimer's Disease, Noninjectable Drugs",rivastigmine PATCH TD24,Preferred
+"Neurology: Alzheimer's Disease, Noninjectable Drugs",rivastigmine tartrate CAPSULE,Preferred
+Neurology: Amyotrophic Lateral Sclerosis,riluzole TABLET,Preferred
+"Neurology: Antiepileptics, Outpatient",carbamazepine ORAL SUSP,Preferred
+"Neurology: Antiepileptics, Outpatient",carbamazepine TAB CHEW ***,Preferred
+"Neurology: Antiepileptics, Outpatient",carbamazepine TAB ER 12H,Preferred
+"Neurology: Antiepileptics, Outpatient",carbamazepine TABLET,Preferred
+"Neurology: Antiepileptics, Outpatient",diazepam KIT,Preferred
+"Neurology: Antiepileptics, Outpatient",diazepam (VALTOCO ™) SPRAY,Preferred
+"Neurology: Antiepileptics, Outpatient",ethosuximide CAPSULE,Preferred
+"Neurology: Antiepileptics, Outpatient",ethosuximide SOLUTION,Preferred
+"Neurology: Antiepileptics, Outpatient",gabapentin CAPSULE,Preferred
+"Neurology: Antiepileptics, Outpatient",gabapentin TABLET,Preferred
+"Neurology: Antiepileptics, Outpatient",lacosamide TABLET,Preferred
+"Neurology: Antiepileptics, Outpatient",levetiracetam SOLUTION,Preferred
+"Neurology: Antiepileptics, Outpatient",levetiracetam TABLET,Preferred
+"Neurology: Antiepileptics, Outpatient",methsuximide CAPSULE,Preferred
+"Neurology: Antiepileptics, Outpatient",midazolam (NAYZILAM ™) SPRAY,Preferred
+"Neurology: Antiepileptics, Outpatient",oxcarbazepine ORAL SUSP,Preferred
+"Neurology: Antiepileptics, Outpatient",oxcarbazepine TABLET,Preferred
+"Neurology: Antiepileptics, Outpatient",phenobarbital ELIXIR ***,Preferred
+"Neurology: Antiepileptics, Outpatient",phenobarbital TABLET,Preferred
+"Neurology: Antiepileptics, Outpatient",phenytoin ORAL SUSP,Preferred
+"Neurology: Antiepileptics, Outpatient",phenytoin TAB CHEW,Preferred
+"Neurology: Antiepileptics, Outpatient",phenytoin sodium extended CAPSULE,Preferred
+"Neurology: Antiepileptics, Outpatient",primidone TABLET ***,Preferred
+"Neurology: Antiepileptics, Outpatient",rufinamide TABLET,Preferred
+"Neurology: Antiepileptics, Outpatient",tiagabine HCl TABLET,Preferred
+"Neurology: Antiepileptics, Outpatient",topiramate TABLET,Preferred
+"Neurology: Antiepileptics, Outpatient",zonisamide CAPSULE,Preferred
+Neurology: Duchenne Muscular Dystrophy,deflazacort (EMFLAZA ™) * TABLET,Preferred
+Neurology: Duchenne Muscular Dystrophy,deflazacort * TABLET,Preferred
+Neurology: Multiple Sclerosis,COPAXONE ™ - BRAND ONLY * SYRINGE,Preferred
+Neurology: Multiple Sclerosis,interferon beta-1a PEN IJ KIT,Preferred
+Neurology: Multiple Sclerosis,interferon beta-1a SYRINGE,Preferred
+Neurology: Multiple Sclerosis,interferon beta-1a SYRINGEKIT,Preferred
+Neurology: Multiple Sclerosis,interferon beta-1a/albumin PEN INJCTR,Preferred
+Neurology: Multiple Sclerosis,interferon beta-1a/albumin SYRINGE,Preferred
+Neurology: Multiple Sclerosis,interferon beta-1b (BETASERON ™) KIT,Preferred
+Neurology: Multiple Sclerosis,peginterferon beta-1a (PLEGRIDY ™) SYRINGE,Preferred
+Neurology: Multiple Sclerosis,peginterferon beta-1a (PLEGRIDY PEN ™) PEN INJCTR,Preferred
+"Neurology: Parkinson's Disease Drugs, Oral & Topical",amantadine HCl amantadine HCl CAPSULE TABLET,Preferred
+"Neurology: Parkinson's Disease Drugs, Oral & Topical",benztropine mesylate TABLET,Preferred
+"Neurology: Parkinson's Disease Drugs, Oral & Topical",carbidopa/levodopa TABLET,Preferred
+"Neurology: Parkinson's Disease Drugs, Oral & Topical",carbidopa/levodopa TABLET ER,Preferred
+"Neurology: Parkinson's Disease Drugs, Oral & Topical",carbidopa/levodopa/entacapone TABLET,Preferred
+"Neurology: Parkinson's Disease Drugs, Oral & Topical",entacapone TABLET,Preferred
+"Neurology: Parkinson's Disease Drugs, Oral & Topical",pramipexole di-HCl TABLET,Preferred
+"Neurology: Parkinson's Disease Drugs, Oral & Topical",ropinirole HCl TABLET,Preferred
+"Neurology: Parkinson's Disease Drugs, Oral & Topical",selegiline HCl CAPSULE,Preferred
+"Neurology: Parkinson's Disease Drugs, Oral & Topical",trihexyphenidyl HCl SOLUTION,Preferred
+"Neurology: Parkinson's Disease Drugs, Oral & Topical",trihexyphenidyl HCl TABLET,Preferred
+Neurology: Spinal Muscular Atrophy,onasemnogene abeparvovec-xioi * KIT,Preferred
+"Nutritional: B-vitamins, Oral",cyanocobalamin (vitamin B-12) TABLET ***,Preferred
+"Nutritional: B-vitamins, Oral",pyridoxine HCl (vitamin B6) TABLET,Preferred
+"Nutritional: B-vitamins, Oral",thiamine HCl TABLET ***,Preferred
+"Nutritional: B-vitamins, Oral",thiamine mononitrate (vit B1) TABLET,Preferred
+"Nutritional: Calcium/Vit D Replacement, Oral",calcium carbonate calcium carbonate ORAL SUSP TABLET,Preferred
+"Nutritional: Calcium/Vit D Replacement, Oral",calcium carbonate/vitamin D3 TAB CHEW,Preferred
+"Nutritional: Calcium/Vit D Replacement, Oral",calcium carbonate/vitamin D3 TABLET ***,Preferred
+"Nutritional: Calcium/Vit D Replacement, Oral",cholecalciferol (vitamin D3) CAPSULE ***,Preferred
+"Nutritional: Calcium/Vit D Replacement, Oral",cholecalciferol (vitamin D3) DROPS ***,Preferred
+"Nutritional: Calcium/Vit D Replacement, Oral",cholecalciferol (vitamin D3) TABLET ***,Preferred
+"Nutritional: Calcium/Vit D Replacement, Oral",ergocalciferol (vitamin D2) CAPSULE ***,Preferred
+"Nutritional: Iron Replacement, Oral",ferrous gluconate TABLET ***,Preferred
+"Nutritional: Iron Replacement, Oral",ferrous sulfate LIQUID,Preferred
+"Nutritional: Iron Replacement, Oral",ferrous sulfate TABLET,Preferred
+"Nutritional: Iron Replacement, Oral",ferrous sulfate TABLET DR,Preferred
+"Nutritional: Iron Replacement, Oral",ferrous sulfate TABLET ER ***,Preferred
+"Nutritional: Magnesium Replacement,",magnesium TABLET,Preferred
+"Nutritional: Magnesium Replacement,",magnesium oxide/vit B6 TABLET,Preferred
+"Nutritional: Multivitamins, Oral","beta-carotene(A)-vits C,E/mins * TABLET",Preferred
+"Nutritional: Multivitamins, Oral",folic acid/vit B complex and C * TABLET,Preferred
+"Nutritional: Multivitamins, Oral",multivit 38/folate no.6/ginger * TABLET,Preferred
+"Nutritional: Multivitamins, Oral",multivit 47/iron/folate 1/dha * CAPSULE,Preferred
+"Nutritional: Multivitamins, Oral",multivit no.40/iron/folat1/dha * CAPSULE,Preferred
+"Nutritional: Multivitamins, Oral",multivit no.42/iron/folate/dha * CAPSULE,Preferred
+"Nutritional: Multivitamins, Oral",multivit no.48/iron fum/FA/dha * CAPSULE,Preferred
+"Nutritional: Multivitamins, Oral",multivit with minerals/lutein * TABLET,Preferred
+"Nutritional: Multivitamins, Oral",multivit37/iron/Lmfolate/algal * CAPSULE,Preferred
+"Nutritional: Multivitamins, Oral",multivit41/iron/folate8/ps-dha * CAP IR DR,Preferred
+"Nutritional: Multivitamins, Oral",multivitamin * TABLET,Preferred
+"Nutritional: Multivitamins, Oral",multivitamin no.36/folate no.6 * TAB CHEW,Preferred
+"Nutritional: Multivitamins, Oral","multivitamin,therapeutic * TABLET",Preferred
+"Nutritional: Multivitamins, Oral",multivitamin/iron/folic acid * TABLET,Preferred
+"Nutritional: Multivitamins, Oral",multivit-min/FA/lycopen/lutein * TABLET,Preferred
+"Nutritional: Multivitamins, Oral",multivit-min69/iron/folic acid * TABLET,Preferred
+"Nutritional: Multivitamins, Oral",mv-mins 71/iron/folic no.1/dha * CAPSULE,Preferred
+"Nutritional: Multivitamins, Oral",mvn no.53/iron/folic/dss/dha * CAPSULE,Preferred
+"Nutritional: Multivitamins, Oral",mvn-min 74/iron fum/iron/FA * CAPSULE,Preferred
+"Nutritional: Multivitamins, Oral",mvn-min75/iron/iron ps/om3/dha * CAPSULE,Preferred
+"Nutritional: Multivitamins, Oral",vitamin B complex * CAPSULE,Preferred
+"Nutritional: Potassium and K-Phos, Oral",potassium TABLET,Preferred
+"Nutritional: Potassium and K-Phos, Oral",potassium bicarbonate/cit ac TABLET EFF ***,Preferred
+"Nutritional: Potassium and K-Phos, Oral",potassium chloride TAB ER PRT,Preferred
+"Nutritional: Potassium and K-Phos, Oral",potassium chloride TABLET ER ***,Preferred
+"Nutritional: Potassium and K-Phos, Oral","potassium phosphate,monobasic TABLET SOL",Preferred
+"Nutritional: Potassium and K-Phos, Oral","sod phos di, mono/K phos mono TABLET",Preferred
+"Nutritional: Potassium and K-Phos, Oral","sod phos,m-b/K phos,monob TABLET",Preferred
+"Nutritional: Potassium and K-Phos, Oral","sodium,potassium phosphates POWD PACK",Preferred
+Nutritional: Prenatal Vitamins,PNV 11/iron fum/folic acid/om3 CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,PNV 119/iron fum/folic acid TABLET,Preferred
+Nutritional: Prenatal Vitamins,"PNV 30/iron carb,ag/folic/om3 CAPSULE",Preferred
+Nutritional: Prenatal Vitamins,PNV 66/iron/folic/docusate/dha CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,PNV 67/iron ps/folate no.1/dha CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,PNV 69/iron/folic/docusate/dha CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,PNV 80/iron fum/folic/dss/dha CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,PNV 85/iron/folic/dha/fish oil CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,PNV cmb 52/iron/FA/omega-3/dha COMBO. PKG,Preferred
+Nutritional: Prenatal Vitamins,PNV no.118/iron fumarate/FA TAB CHEW,Preferred
+Nutritional: Prenatal Vitamins,PNV no.164/iron/folate no.6 TABLET,Preferred
+Nutritional: Prenatal Vitamins,PNV w-CA8/iron/FA/Lmefolate Ca TABLET,Preferred
+Nutritional: Prenatal Vitamins,"PNV,Ca42/iron/FA/Lmefolate/dha CAPSULE",Preferred
+Nutritional: Prenatal Vitamins,"PNV,calcium 72/iron/folic acid TABLET",Preferred
+Nutritional: Prenatal Vitamins,"PNV/iron fum,b-g/folic acid TABLET",Preferred
+Nutritional: Prenatal Vitamins,PNV/iron ps cplx/folic acid TABLET,Preferred
+Nutritional: Prenatal Vitamins,"PNV59/iron,carb,fum/FA/dss/dha CAPSULE",Preferred
+Nutritional: Prenatal Vitamins,"PNV72/iron,gluc/folic/dss/dha COMBO. PKG",Preferred
+Nutritional: Prenatal Vitamins,"PNV73/iron,gluc/folic/dss/dha COMBO. PKG",Preferred
+Nutritional: Prenatal Vitamins,"PNV83/iron,carb,asp/folic acid TABLET",Preferred
+Nutritional: Prenatal Vitamins,prenatal 114/iron a-g/folate 1 TABLET,Preferred
+Nutritional: Prenatal Vitamins,prenatal 118/iron/folate 6/dha CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,prenatal 25/iron/folate 6/dha CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,prenatal 26/iron ps/folic/dha CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,prenatal 59/iron/folic/dss/dha CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,prenatal 78/iron/folate 1/dha CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,prenatal 87/iron bis/folic/dha COMBO. PKG,Preferred
+Nutritional: Prenatal Vitamins,prenatal no.75/iron/folate no1 TABLET,Preferred
+Nutritional: Prenatal Vitamins,prenatal no.77/iron asp gly/FA TABLET,Preferred
+Nutritional: Prenatal Vitamins,prenatal no13/iron ps/folate 1 TAB CHEW,Preferred
+Nutritional: Prenatal Vitamins,prenatal vit 10/iron fum/folic TABLET,Preferred
+Nutritional: Prenatal Vitamins,prenatal vit 10/iron/folic/dha COMBO. PKG,Preferred
+Nutritional: Prenatal Vitamins,prenatal vit 14/iron fum/folic TAB CHEW,Preferred
+Nutritional: Prenatal Vitamins,prenatal vit 33/iron/folic/dha COMBO. PKG,Preferred
+Nutritional: Prenatal Vitamins,prenatal vit 85/iron/FA 1/dha CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,prenatal vit 87/iron/folic/dha CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,"prenatal vit,calc76/iron/folic TABLET",Preferred
+Nutritional: Prenatal Vitamins,prenatal vit/iron carb&sulf/FA TABLET,Preferred
+Nutritional: Prenatal Vitamins,prenatal vit/iron fum/folic ac TABLET,Preferred
+Nutritional: Prenatal Vitamins,prenatal vit103/iron fum/folic TABLET,Preferred
+Nutritional: Prenatal Vitamins,prenatal vit128/iron/folic acd TAB CHEW,Preferred
+Nutritional: Prenatal Vitamins,prenatal vit136/iron/folic acd TABLET,Preferred
+Nutritional: Prenatal Vitamins,"prenatal vit27,calcium/iron/FA TABLET",Preferred
+Nutritional: Prenatal Vitamins,prenatal vit68/iron/FA no6/dha CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,prenatal vit69/iron/folate6/dh CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,prenatal vit86/iron/folic acid TABLET,Preferred
+Nutritional: Prenatal Vitamins,"prenatal,calc.40/iron/folate 1 TABLET",Preferred
+Nutritional: Prenatal Vitamins,prenatal56/iron/folic acid/dha CAPSULE,Preferred
+Nutritional: Prenatal Vitamins,prenatal71/iron/folic acid/dha CAP IR DR,Preferred
+Nutritional: Prenatal Vitamins,Pv w-o Vit A/iron/docus/FA/Zn CAP SEQ,Preferred
+Nutritional: Prenatal Vitamins, ,Preferred
+"Ophthalmics: Antibiotics, Ophthalmic",bacitracin/polymyxin B sulfate OINT. (G),Preferred
+"Ophthalmics: Antibiotics, Ophthalmic",ciprofloxacin HCl DROPS,Preferred
+"Ophthalmics: Antibiotics, Ophthalmic",ciprofloxacin HCl OINT. (G),Preferred
+"Ophthalmics: Antibiotics, Ophthalmic",erythromycin base OINT. (G),Preferred
+"Ophthalmics: Antibiotics, Ophthalmic",gentamicin sulfate DROPS,Preferred
+"Ophthalmics: Antibiotics, Ophthalmic",moxifloxacin HCl DROPS,Preferred
+"Ophthalmics: Antibiotics, Ophthalmic",natamycin DROPS SUSP,Preferred
+"Ophthalmics: Antibiotics, Ophthalmic",neomycin/polymyxn B/gramicidin DROPS,Preferred
+"Ophthalmics: Antibiotics, Ophthalmic",ofloxacin DROPS,Preferred
+"Ophthalmics: Antibiotics, Ophthalmic",polymyxin B sulf/trimethoprim DROPS,Preferred
+"Ophthalmics: Antibiotics, Ophthalmic",sulfacetamide sodium DROPS,Preferred
+"Ophthalmics: Antibiotics, Ophthalmic",tobramycin DROPS,Preferred
+"Ophthalmics: Antibiotics, Ophthalmic",tobramycin OINT. (G),Preferred
+"Ophthalmics: Antibiotic-Steroids,  Ophthalmic",neomycin/polymyxin B/dexametha neomycin/polymyxin B/dexametha DROPS SUSP OINT. (G),Preferred
+"Ophthalmics: Antibiotic-Steroids,  Ophthalmic",tobramycin/dexamethasone DROPS SUSP,Preferred
+"Ophthalmics: Antibiotic-Steroids,  Ophthalmic",tobramycin/dexamethasone OINT. (G),Preferred
+"Ophthalmics: Anti-Inflammatory Drugs, Ophthalmic",dexamethasone dexamethasone sodium phosphate DROPS SUSP DROPS,Preferred
+"Ophthalmics: Anti-Inflammatory Drugs, Ophthalmic",diclofenac sodium DROPS ***,Preferred
+"Ophthalmics: Anti-Inflammatory Drugs, Ophthalmic",fluorometholone DROPS SUSP,Preferred
+"Ophthalmics: Anti-Inflammatory Drugs, Ophthalmic",flurbiprofen sodium DROPS,Preferred
+"Ophthalmics: Anti-Inflammatory Drugs, Ophthalmic",ketorolac tromethamine DROPS,Preferred
+"Ophthalmics: Anti-Inflammatory Drugs, Ophthalmic",loteprednol etabonate DROPS SUSP ***,Preferred
+"Ophthalmics: Anti-Inflammatory Drugs, Ophthalmic",prednisolone acetate DROPS SUSP,Preferred
+Ophthalmics: Glaucoma Drugs,betaxolol HCl DROPS,Preferred
+Ophthalmics: Glaucoma Drugs,brimonidine tartrate DROPS,Preferred
+Ophthalmics: Glaucoma Drugs,brinzolamide DROPS SUSP,Preferred
+Ophthalmics: Glaucoma Drugs,carteolol HCl DROPS,Preferred
+Ophthalmics: Glaucoma Drugs,dorzolamide HCl/timolol maleat DROPS,Preferred
+Ophthalmics: Glaucoma Drugs,dorzolamide/timolol/PF DROPERETTE,Preferred
+Ophthalmics: Glaucoma Drugs,latanoprost DROPS,Preferred
+Ophthalmics: Glaucoma Drugs,latanoprost DRPS EMULS,Preferred
+Ophthalmics: Glaucoma Drugs,pilocarpine HCl DROPS,Preferred
+Ophthalmics: Glaucoma Drugs,timolol maleate DROPS,Preferred
+Ophthalmics: Glaucoma Drugs,travoprost DROPS,Preferred
+Ophthalmics: Vascular Endothelial Growth Factors,bevacizumab VIAL,Preferred
+Otics: Otic Antibiotics,neomyc/colist/hydrocort/thonzn DROPS SUSP,Preferred
+Otics: Otic Antibiotics,neomycin/polymyxin B/hydrocort DROPS SUSP ***,Preferred
+Otics: Otic Antibiotics,ofloxacin DROPS,Preferred
+Psychiatric: ADHD Drugs,amphetamine sulfate ** ‡ TABLET,Preferred
+Psychiatric: ADHD Drugs,dexmethylphenidate HCl ** ‡ CPBP 50-50,Preferred
+Psychiatric: ADHD Drugs,dexmethylphenidate HCl ** ‡ TABLET,Preferred
+Psychiatric: ADHD Drugs,dextroamphetamine sulfate ** ‡ CAPSULE ER,Preferred
+Psychiatric: ADHD Drugs,dextroamphetamine/amphetamine ** ‡ CAP ER 24H,Preferred
+Psychiatric: ADHD Drugs,dextroamphetamine/amphetamine ** ‡ TABLET,Preferred
+Psychiatric: ADHD Drugs,lisdexamfetamine dimesylate ** ‡ CAPSULE,Preferred
+Psychiatric: ADHD Drugs,lisdexamfetamine dimesylate ** ‡ TAB CHEW,Preferred
+Psychiatric: ADHD Drugs,methylphenidate ** ‡ PATCH TD24,Preferred
+Psychiatric: ADHD Drugs,methylphenidate HCl ** ‡ CPBP 30-70,Preferred
+Psychiatric: ADHD Drugs,methylphenidate HCl ** ‡ TAB ER 24,Preferred
+Psychiatric: ADHD Drugs,methylphenidate HCl ** ‡ TABLET,Preferred
+Psychiatric: ADHD Drugs,methylphenidate HCl ** ‡ TABLET ER,Preferred
+Psychiatric: Benzodiazepines,clonazepam ** TABLET,Preferred
+Psychiatric: Opioid Reversal Agents,nalmefene HCl (OPVEE ™) SPRAY,Preferred
+Psychiatric: Opioid Reversal Agents,naloxone HCl AMPUL,Preferred
+Psychiatric: Opioid Reversal Agents,naloxone HCl CARTRIDGE,Preferred
+Psychiatric: Opioid Reversal Agents,naloxone HCl SPRAY,Preferred
+Psychiatric: Opioid Reversal Agents,naloxone HCl SYRINGE,Preferred
+Psychiatric: Opioid Reversal Agents,naloxone HCl VIAL,Preferred
+Psychiatric: Opioid Reversal Agents,naloxone HCl (KLOXXADO ™) SPRAY,Preferred
+Psychiatric: Sedatives,melatonin * TABLET,Preferred
+Psychiatric: Sedatives,ramelteon * TABLET,Preferred
+Psychiatric: Sedatives,zolpidem tartrate * TABLET,Preferred
+"Psychiatric: Substance Use Disorders, Opioid & Alcohol",acamprosate calcium buprenorphine (BRIXADI ™) TABLET DR SOLER SYR,Preferred
+"Psychiatric: Substance Use Disorders, Opioid & Alcohol",buprenorphine (SUBLOCADE ™) SOLER SYR,Preferred
+"Psychiatric: Substance Use Disorders, Opioid & Alcohol",buprenorphine HCl/naloxone HCl (ZUBSOLV ™) ** TAB SUBL,Preferred
+"Psychiatric: Substance Use Disorders, Opioid & Alcohol",buprenorphine HCl/naloxone HCl ** FILM,Preferred
+"Psychiatric: Substance Use Disorders, Opioid & Alcohol",buprenorphine HCl/naloxone HCl ** TAB SUBL,Preferred
+"Psychiatric: Substance Use Disorders, Opioid & Alcohol",naltrexone HCl TABLET,Preferred
+"Psychiatric: Substance Use Disorders, Opioid & Alcohol",naltrexone microspheres (VIVITROL ™) SUS ER REC,Preferred
+Psychiatric: Tobacco Smoking Cessation,bupropion HCl TAB ER 12H,Preferred
+Psychiatric: Tobacco Smoking Cessation,nicotine PATCH DYSQ,Preferred
+Psychiatric: Tobacco Smoking Cessation,nicotine PATCH TD24,Preferred
+Psychiatric: Tobacco Smoking Cessation,nicotine polacrilex GUM,Preferred
+Psychiatric: Tobacco Smoking Cessation,nicotine polacrilex LOZENGE,Preferred
+Psychiatric: Tobacco Smoking Cessation,nicotine polacrilex LOZNG MINI,Preferred
+Psychiatric: Tobacco Smoking Cessation,varenicline tartrate ‡ TAB DS PK,Preferred
+Psychiatric: Tobacco Smoking Cessation,varenicline tartrate ‡ TABLET,Preferred
+"Pulmonary: Beta-Agonists, Inhaled Long Acting",salmeterol xinafoate BLST W/DEV,Preferred
+"Pulmonary: Beta-Agonists, Inhaled ShortActing",albuterol sulfate albuterol sulfate HFA AER AD VIAL-NEB,Preferred
+"Pulmonary: Corticosteroids, Inhaled",beclomethasone dipropionate HFA AEROBA,Preferred
+"Pulmonary: Corticosteroids, Inhaled",budesonide AER POW BA,Preferred
+"Pulmonary: Corticosteroids, Inhaled",fluticasone furoate BLST W/DEV,Preferred
+"Pulmonary: Corticosteroids, Inhaled",fluticasone propionate BLST W/DEV,Preferred
+"Pulmonary: Corticosteroids, Inhaled",mometasone furoate AER POW BA,Preferred
+"Pulmonary: Corticosteroids, Inhaled",mometasone furoate HFA AER AD,Preferred
+"Pulmonary: Corticosteroids/Beta-Agonist Combination, Inhaled",fluticasone propion/salmeterol fluticasone propion/salmeterol AER POW BA BLST W/DEV,Preferred
+"Pulmonary: Corticosteroids/Beta-Agonist Combination, Inhaled",fluticasone propion/salmeterol HFA AER AD,Preferred
+"Pulmonary: Corticosteroids/Beta-Agonist Combination, Inhaled",mometasone/formoterol HFA AER AD,Preferred
+"Pulmonary: Corticosteroids/Beta-Agonist Combination, Inhaled",SYMBICORT ™ - BRAND ONLY HFA AER AD,Preferred
+Pulmonary: Cystic Fibrosis,dornase alfa SOLUTION,Preferred
+Pulmonary: Cystic Fibrosis,sodium chloride for inhalation VIAL-NEB,Preferred
+Pulmonary: Cystic Fibrosis,tobramycin in 0.225% sod chlor AMPUL-NEB,Preferred
+"Pulmonary: LAMA/LABA Combination,  Inhalers",tiotropium Br/olodaterol HCl (STIOLTO RESPIMAT ™) umeclidinium brm/vilanterol tr MIST INHAL BLST W/DEV,Preferred
+Pulmonary: Miscellaneous Pulmonary Agents,montelukast sodium montelukast sodium TAB CHEW TABLET,Preferred
+"Pulmonary: Muscarinic Antagonists, Inhaled",ipratropium bromide ipratropium bromide HFA AER AD SOLUTION,Preferred
+"Pulmonary: Muscarinic Antagonists, Inhaled",ipratropium/albuterol sulfate AMPUL-NEB,Preferred
+"Pulmonary: Muscarinic Antagonists, Inhaled",ipratropium/albuterol sulfate (COMBIVENT RESPIMAT ™) MIST INHAL,Preferred
+"Pulmonary: Muscarinic Antagonists, Inhaled",tiotropium bromide (SPIRIVA RESPIMAT ™) MIST INHAL,Preferred
+"Pulmonary: Muscarinic Antagonists, Inhaled",umeclidinium bromide BLST W/DEV,Preferred
+Pulmonary: Pulmonary Arterial  Hypertension Oral and  Inhaled Drugs,bosentan sildenafil citrate * tadalafil * TABLET TABLET TABLET,Preferred
+Pulmonary: Pulmonary Arterial  Hypertension Parenteral Drugs,epoprostenol sodium (glycine) VIAL,Preferred
+Renal: Phosphate Binders & Absorption Inhibitors,calcium acetate calcium acetate CAPSULE TABLET ***,Preferred
+Renal: Phosphate Binders & Absorption Inhibitors,sevelamer carbonate TABLET,Preferred
+"Neurology: Antiepileptics, Outpatient",divalproex sodium CAP DR SPR,Preferred
+"Neurology: Antiepileptics, Outpatient",divalproex sodium TAB ER 24H,Preferred
+"Neurology: Antiepileptics, Outpatient",divalproex sodium TABLET DR,Preferred
+"Neurology: Antiepileptics, Outpatient",lamotrigine TABLET,Preferred
+"Neurology: Antiepileptics, Outpatient",valproic acid CAPSULE,Preferred
+"Neurology: Antiepileptics, Outpatient",valproic acid (as sodium salt) SOLUTION,Preferred
+Neurology: Other Stimulants,armodafinil * TABLET,Preferred
+Neurology: Other Stimulants,modafinil * TABLET,Preferred
+Psychiatric: ADHD Drugs,atomoxetine HCl ** ‡ CAPSULE,Preferred
+Psychiatric: ADHD Drugs,clonidine HCl TAB ER 12H,Preferred
+Psychiatric: ADHD Drugs,guanfacine HCl TAB ER 24H,Preferred
+Psychiatric: ADHD Drugs,viloxazine HCl (QELBREE ™) ** ‡ CAP ER 24H,Preferred
+Psychiatric: Antidepressants,amitriptyline HCl ‡ TABLET,Preferred
+Psychiatric: Antidepressants,bupropion HCl TAB ER 24H,Preferred
+Psychiatric: Antidepressants,bupropion HCl TAB SR 12H,Preferred
+Psychiatric: Antidepressants,bupropion HCl TABLET,Preferred
+Psychiatric: Antidepressants,citalopram hydrobromide SOLUTION,Preferred
+Psychiatric: Antidepressants,citalopram hydrobromide TABLET,Preferred
+Psychiatric: Antidepressants,desipramine HCl ‡ TABLET,Preferred
+Psychiatric: Antidepressants,desvenlafaxine succinate TAB ER 24H,Preferred
+Psychiatric: Antidepressants,doxepin HCl ‡ CAPSULE,Preferred
+Psychiatric: Antidepressants,doxepin HCl ‡ ORAL CONC,Preferred
+Psychiatric: Antidepressants,duloxetine HCl CAPSULE DR,Preferred
+Psychiatric: Antidepressants,escitalopram oxalate TABLET,Preferred
+Psychiatric: Antidepressants,fluoxetine HCl CAPSULE,Preferred
+Psychiatric: Antidepressants,fluoxetine HCl SOLUTION,Preferred
+Psychiatric: Antidepressants,fluoxetine HCl TABLET,Preferred
+Psychiatric: Antidepressants,fluvoxamine maleate TABLET,Preferred
+Psychiatric: Antidepressants,imipramine HCl ‡ TABLET,Preferred
+Psychiatric: Antidepressants,mirtazapine TAB RAPDIS,Preferred
+Psychiatric: Antidepressants,mirtazapine TABLET,Preferred
+Psychiatric: Antidepressants,nefazodone HCl TABLET,Preferred
+Psychiatric: Antidepressants,nortriptyline HCl ‡ CAPSULE,Preferred
+Psychiatric: Antidepressants,nortriptyline HCl ‡ SOLUTION,Preferred
+Psychiatric: Antidepressants,paroxetine HCl TABLET,Preferred
+Psychiatric: Antidepressants,sertraline HCl ORAL CONC,Preferred
+Psychiatric: Antidepressants,sertraline HCl TABLET,Preferred
+Psychiatric: Antidepressants,venlafaxine HCl CAP ER 24H,Preferred
+Psychiatric: Antidepressants,venlafaxine HCl TABLET,Preferred
+"Psychiatric: Antipsychotics, 1st Gen",chlorpromazine HCl ‡ ORAL CONC,Preferred
+"Psychiatric: Antipsychotics, 1st Gen",fluphenazine HCl ‡ ELIXIR,Preferred
+"Psychiatric: Antipsychotics, 1st Gen",fluphenazine HCl ‡ ORAL CONC,Preferred
+"Psychiatric: Antipsychotics, 1st Gen",fluphenazine HCl ‡ TABLET,Preferred
+"Psychiatric: Antipsychotics, 1st Gen",haloperidol ‡ TABLET,Preferred
+"Psychiatric: Antipsychotics, 1st Gen",haloperidol lactate ‡ ORAL CONC,Preferred
+"Psychiatric: Antipsychotics, 1st Gen",loxapine succinate ‡ CAPSULE,Preferred
+"Psychiatric: Antipsychotics, 1st Gen",perphenazine ‡ TABLET,Preferred
+"Psychiatric: Antipsychotics, 1st Gen",thioridazine HCl ‡ ORAL CONC,Preferred
+"Psychiatric: Antipsychotics, 1st Gen",thioridazine HCl ‡ TABLET,Preferred
+"Psychiatric: Antipsychotics, 1st Gen",thiothixene ‡ CAPSULE,Preferred
+"Psychiatric: Antipsychotics, 1st Gen",thiothixene HCl ‡ ORAL CONC,Preferred
+"Psychiatric: Antipsychotics, 1st Gen",trifluoperazine HCl ‡ TABLET,Preferred
+"Psychiatric: Antipsychotics, 2nd Gen",aripiprazole ‡ TABLET,Preferred
+"Psychiatric: Antipsychotics, 2nd Gen",asenapine maleate ‡ TAB SUBL,Preferred
+"Psychiatric: Antipsychotics, 2nd Gen",cariprazine HCl (VRAYLAR ™) ‡ CAPSULE,Preferred
+"Psychiatric: Antipsychotics, 2nd Gen",clozapine ‡ TABLET,Preferred
+"Psychiatric: Antipsychotics, 2nd Gen",lurasidone HCl ‡ TABLET,Preferred
+"Psychiatric: Antipsychotics, 2nd Gen",olanzapine ‡ TABLET,Preferred
+"Psychiatric: Antipsychotics, 2nd Gen",quetiapine fumarate ** ‡ TAB ER 24H,Preferred
+"Psychiatric: Antipsychotics, 2nd Gen",quetiapine fumarate ** ‡ TAB24HDSPK,Preferred
+"Psychiatric: Antipsychotics, 2nd Gen",quetiapine fumarate ** ‡ TABLET,Preferred
+"Psychiatric: Antipsychotics, 2nd Gen",risperidone ‡ SOLUTION,Preferred
+"Psychiatric: Antipsychotics, 2nd Gen",risperidone ‡ TABLET,Preferred
+"Psychiatric: Antipsychotics, 2nd Gen",ziprasidone HCl ‡ CAPSULE,Preferred
+"Psychiatric: Antipsychotics, Parenteral",aripiprazole (ABILIFY ASIMTUFII ™) SUSER SYR,Preferred
+"Psychiatric: Antipsychotics, Parenteral",aripiprazole (ABILIFY MAINTENA ™) SUSER SYR,Preferred
+"Psychiatric: Antipsychotics, Parenteral",aripiprazole (ABILIFY MAINTENA ™) SUSER VIAL,Preferred
+"Psychiatric: Antipsychotics, Parenteral",aripiprazole lauroxil (ARISTADA ™) SUSER SYR,Preferred
+"Psychiatric: Antipsychotics, Parenteral","aripiprazole lauroxil,submicr. (ARISTADA INITIO ™) SUSER SYR",Preferred
+"Psychiatric: Antipsychotics, Parenteral",chlorpromazine HCl AMPUL,Preferred
+"Psychiatric: Antipsychotics, Parenteral",chlorpromazine HCl VIAL,Preferred
+"Psychiatric: Antipsychotics, Parenteral",fluphenazine decanoate VIAL,Preferred
+"Psychiatric: Antipsychotics, Parenteral",fluphenazine HCl VIAL,Preferred
+"Psychiatric: Antipsychotics, Parenteral",haloperidol decanoate AMPUL,Preferred
+"Psychiatric: Antipsychotics, Parenteral",haloperidol decanoate VIAL,Preferred
+"Psychiatric: Antipsychotics, Parenteral",haloperidol lactate SYRINGE,Preferred
+"Psychiatric: Antipsychotics, Parenteral",haloperidol lactate VIAL,Preferred
+"Psychiatric: Antipsychotics, Parenteral",paliperidone palmitate (ERZOFRI ™) SYRINGE,Preferred
+"Psychiatric: Antipsychotics, Parenteral",paliperidone palmitate (INVEGA HAFYERA ™) SYRINGE,Preferred
+"Psychiatric: Antipsychotics, Parenteral",paliperidone palmitate (INVEGA SUSTENNA ™) SYRINGE,Preferred
+"Psychiatric: Antipsychotics, Parenteral",paliperidone palmitate (INVEGA TRINZA ™) SYRINGE,Preferred
+"Psychiatric: Antipsychotics, Parenteral",RISPERDAL CONSTA ™ - BRAND ONLY ** VIAL,Preferred
+"Psychiatric: Antipsychotics, Parenteral",risperidone (PERSERIS ™) SUSER SYR,Preferred
+"Psychiatric: Antipsychotics, Parenteral",risperidone (UZEDY ™) SUSER SYR,Preferred
+"Psychiatric: Antipsychotics, Parenteral",RYKINDO ™ - BRAND ONLY ** VIAL,Preferred
