@@ -16,7 +16,7 @@ class DrugSelectorGUI(Toplevel):
         'button_active_fg': "white"     # White text for button hover
     }
 
-    def __init__(self, master, drug, matches, save_callback, skip_callback, exit_callback, back_callback, current_index, total_drugs, save_to_all_callback=None):
+    def __init__(self, master, drug, matches, save_callback, skip_callback, exit_callback, back_callback, current_index, total_drugs, save_to_all_callback=None, permanent_skip_callback=None):
         super().__init__(master)
         self.title(f"Select Match for {drug}")
 
@@ -31,6 +31,7 @@ class DrugSelectorGUI(Toplevel):
         self.exit_callback = exit_callback
         self.back_callback = back_callback
         self.save_to_all_callback = save_to_all_callback
+        self.permanent_skip_callback = permanent_skip_callback
         self.current_index = current_index
         self.total_drugs = total_drugs
 
@@ -154,8 +155,11 @@ class DrugSelectorGUI(Toplevel):
         btn_skip = ttk.Button(action_frame, text="Skip", command=self.skip_drug, style="TButton")
         btn_skip.grid(row=0, column=2, padx=5, pady=5, sticky="ew")
 
+        btn_perm_skip = ttk.Button(action_frame, text="Permanently Skip", command=self.permanent_skip, style="TButton")
+        btn_perm_skip.grid(row=0, column=3, padx=5, pady=5, sticky="ew")
+
         btn_exit = ttk.Button(action_frame, text="Exit and Save", command=self.exit_program, style="TButton")
-        btn_exit.grid(row=0, column=3, padx=5, pady=5, sticky="ew")
+        btn_exit.grid(row=0, column=4, padx=5, pady=5, sticky="ew")
 
         # Configure grid weights for better spacing
         self.grid_rowconfigure(3, weight=1)  # Make the listbox row expandable
@@ -175,6 +179,7 @@ class DrugSelectorGUI(Toplevel):
         action_frame.columnconfigure(1, weight=1)
         action_frame.columnconfigure(2, weight=1)
         action_frame.columnconfigure(3, weight=1)
+        action_frame.columnconfigure(4, weight=1)
 
     def on_double_click(self, event):
         """Handler for double-click events in the listbox to trigger save functionality."""
@@ -204,6 +209,14 @@ class DrugSelectorGUI(Toplevel):
 
     def skip_drug(self):
         self.skip_callback()
+        try:
+            self.destroy()
+        except tk.TclError:
+            None
+
+    def permanent_skip(self):
+        if self.permanent_skip_callback:
+            self.permanent_skip_callback()
         try:
             self.destroy()
         except tk.TclError:
