@@ -132,6 +132,11 @@ class DataManager:
         if not self.banned_data.empty:
             banned_capsules = set(self.banned_data['capsule_name'])
             self.not_in_data = [d for d in self.not_in_data if d not in banned_capsules]
+            # Ensure these banned capsules appear in the skipped list
+            existing = {d['capsule_name'] for d in self.skipped_drugs}
+            for capsule in banned_capsules:
+                if capsule not in existing:
+                    self.skipped_drugs.append({'capsule_name': capsule})
 
     def add_banned_pairings(self, capsule_name, matches_df):
         """Record all match options for a capsule drug as permanently skipped."""
@@ -140,6 +145,8 @@ class DataManager:
         new_rows = matches_df[['therapeutic_class', 'pdl_name']].copy()
         new_rows['capsule_name'] = capsule_name
         self.banned_data = pd.concat([self.banned_data, new_rows], ignore_index=True)
+        # Also track the capsule as skipped for this process
+        self.add_skipped_drug(capsule_name)
 
     def remove_last_assignment(self):
         """Remove the last assignment from statuses and state_data, and add the drug back to not_in_data."""
