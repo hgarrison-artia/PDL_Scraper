@@ -135,17 +135,26 @@ class DrugMatcherApp:
                         )
                     ]
                 )
-        
+
+        def permanent_skip_callback():
+            self.data_manager.add_banned_pairings(drug, matches)
+            # Remove the current drug from the queue
+            if drug in self.not_in_data:
+                self.not_in_data.remove(drug)
+            self.current_index += 1
+            self.process_next(self.current_index)
+
         selector = DrugSelectorGUI(
-            self.root, 
-            drug, 
-            matches, 
-            save_callback, 
-            skip_callback, 
-            exit_callback, 
+            self.root,
+            drug,
+            matches,
+            save_callback,
+            skip_callback,
+            exit_callback,
             back_callback,
             self.current_index,
             len(self.not_in_data),
-            self.save_to_all_matching_drugs
+            self.save_to_all_matching_drugs,
+            permanent_skip_callback
         )
         selector.grab_set()  # Makes the window modal

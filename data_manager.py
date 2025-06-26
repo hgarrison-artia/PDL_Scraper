@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 
 class DataManager:
     def __init__(self, state, process_type):
@@ -13,6 +14,11 @@ class DataManager:
         self.not_in_data = []
         self.statuses = []
         self.skipped_drugs = []
+        banned_file = f'{state}/{state}_banned_data.csv'
+        if os.path.exists(banned_file):
+            self.banned_data = pd.read_csv(banned_file)
+        else:
+            self.banned_data = pd.DataFrame(columns=['therapeutic_class', 'capsule_name', 'pdl_name'])
         
     def build_initial_data(self):
         # Filter drugs based on process type
@@ -43,6 +49,9 @@ class DataManager:
                     })
             else:
                 self.not_in_data.append(drug)
+
+        # Remove any drugs that have been permanently skipped
+        self.filter_banned_drugs()
                 
     def process_existing_data(self):
         # Process drugs already in data to set statuses
@@ -72,6 +81,9 @@ class DataManager:
                                                   (self.state_data['capsule_name']!=entry['capsule_name']) & 
                                                   (self.state_data['pdl_name']!=entry['pdl_name'])]
                 self.not_in_data.append(entry['capsule_name'])
+
+        # Remove any banned drugs that may have been added back
+        self.filter_banned_drugs()
                 
     def add_status(self, therapeutic_class, capsule_name, pdl_name, status):
         self.statuses.append({
@@ -97,7 +109,11 @@ class DataManager:
     def save_dataframes(self):
         output_df = pd.DataFrame(self.statuses)
         skipped_df = pd.DataFrame(self.skipped_drugs).drop_duplicates()
-        
+
+        banned_filename = f'{self.state}/{self.state}_banned_data.csv'
+        if not self.banned_data.empty:
+            self.banned_data.drop_duplicates().to_csv(banned_filename, index=False)
+
         # Save with process type in filename
         output_filename = f'{self.state}/{self.state}_{self.process_type.lower()}_output_data.csv'
         skipped_filename = f'{self.state}/{self.state}_{self.process_type.lower()}_skipped_data.csv'
@@ -110,6 +126,20 @@ class DataManager:
             self.state_data.sort_values('capsule_name').to_csv(f'{self.state}/{self.state}_data.csv', index=False)
         
         print(f"Dataframes saved successfully for {self.process_type} processing.")
+
+    def filter_banned_drugs(self):
+        """Remove any drugs from not_in_data that are listed in banned_data."""
+        if not self.banned_data.empty:
+            banned_capsules = set(self.banned_data['capsule_name'])
+            self.not_in_data = [d for d in self.not_in_data if d not in banned_capsules]
+
+    def add_banned_pairings(self, capsule_name, matches_df):
+        """Record all match options for a capsule drug as permanently skipped."""
+        if matches_df is None or matches_df.empty:
+            return
+        new_rows = matches_df[['therapeutic_class', 'pdl_name']].copy()
+        new_rows['capsule_name'] = capsule_name
+        self.banned_data = pd.concat([self.banned_data, new_rows], ignore_index=True)
 
     def remove_last_assignment(self):
         """Remove the last assignment from statuses and state_data, and add the drug back to not_in_data."""
