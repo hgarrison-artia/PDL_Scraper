@@ -2,7 +2,7 @@ import pandas as pd
 import docx
 from docx.oxml.ns import qn
 
-doc = docx.Document('TN_criteria.docx')
+doc = docx.Document('TN.docx')
 
 all_data = []
 
