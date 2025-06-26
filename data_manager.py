@@ -102,8 +102,8 @@ class DataManager:
         output_filename = f'{self.state}/{self.state}_{self.process_type.lower()}_output_data.csv'
         skipped_filename = f'{self.state}/{self.state}_{self.process_type.lower()}_skipped_data.csv'
         
-        output_df.sort_values('capsule_name').to_csv(output_filename, index=False)
-        skipped_df.to_csv(skipped_filename, index=False)
+        output_df.sort_values('capsule_name').to_csv(output_filename, index=False, encoding='UTF-8')
+        skipped_df.to_csv(skipped_filename, index=False, encoding='UTF-8')
         
         # Only update state_data.csv if there are changes
         if len(self.statuses) > 0:
