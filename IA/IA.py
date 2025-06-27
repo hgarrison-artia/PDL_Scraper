@@ -4,40 +4,38 @@ import docx
 doc_path = 'IA.docx'
 doc = docx.Document(doc_path)
 
-header_keywords = ["B, G or O", "Comment", "P, N, R or NR", "Therapeutic Category", "PA Form Link"]
-
 matching_tables = []
 for table in doc.tables:
     data = []
     for row in table.rows:
         data.append([cell.text.strip() for cell in row.cells])
     df = pd.DataFrame(data)
-    if df.shape[0] > 0 and all(keyword in df.iloc[0].tolist() for keyword in header_keywords):
+    if df.shape[1] == 5:
         matching_tables.append(df)
 
 combined_df = pd.concat(matching_tables, ignore_index=True)
-combined_df = combined_df[~((combined_df.iloc[:, 0] == 'PDL Categories') & (combined_df.iloc[:, 1] == 'PDL Categories'))]
 
 therapeutic_category = None
 records = []
 for _, row in combined_df.iterrows():
-    if row[0] in ["B", "G", "O"]:
+    if row[0] not in ["B", "G", "O"] and row[0] != "PDL Categories":
+        therapeutic_category = row[0]
+    elif row[0] in ["B", "G", "O"]:
+        pdl_name = row[3]
+        for prefix in ["Step 1 - ", "Step 2 - ", "Step 3 - "]:
+            if pdl_name.startswith(prefix):
+                pdl_name = pdl_name[len(prefix):]
+                break
         records.append({
-            "pdl_name": row[3],
+            "pdl_name": pdl_name,
             "therapeutic_class": therapeutic_category,
             "pdl_status": row[2]
         })
-    else:
-        therapeutic_category = row[0]
 
 def map_status(val):
-    if val == "P":
+    if val == "P" or val == "R":
         return "Preferred"
-    elif val == "N":
-        return "Non-Preferred"
-    elif val == "R":
-        return "Preferred"
-    elif val == "NR":
+    elif val == "N" or val == "NR":
         return "Non-Preferred"
     return val
 
