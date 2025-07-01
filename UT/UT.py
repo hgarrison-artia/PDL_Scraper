@@ -1,7 +1,6 @@
 import pandas as pd
 import openpyxl
 
-
 wb = openpyxl.load_workbook("UT.xlsx")
 
 Class_Color = 'FFFFD966'
@@ -11,12 +10,11 @@ drugs = []
 previous_class = None
 previous_subclass = None
 
-for sheet_name in wb.sheetnames[1:]:
-    ws = wb[sheet_name]
-    current_class = previous_class
-    current_subclass = previous_subclass
+ws = wb.active
 
-    for row in ws.iter_rows():
+for row in ws.iter_rows():
+        current_class = previous_class
+        current_subclass = previous_subclass
         # Update class/subclass if found in this row, otherwise keep previous
         for cell in row:
             value = cell.value
@@ -43,25 +41,14 @@ for sheet_name in wb.sheetnames[1:]:
         # Extract status from second cell if not class/subclass color
         status = None
         if len(row) > 1:
-            statuscell = row[1]
+            statuscell = row[3]
             status_value = statuscell.value
-            status_fill = statuscell.fill
-            if (
-                status_value
-                and str(status_value).strip() in ["Preferred", "Non Preferred"]
-                and not (
-                    status_fill and status_fill.fill_type == 'solid' and (
-                        status_fill.start_color.rgb == Class_Color or status_fill.start_color.rgb == SubClass_Color
-                    )
-                )
-            ):
+            if status_value and str(status_value).strip() in ["Preferred", "Non Preferred"]:
                 status = status_value
 
         # Only append if drug and status are found
         if drug and status:
             drugs.append((current_class, current_subclass, drug, status))
-            
-
 
 df = pd.DataFrame(drugs, columns=['therapeutic_class', 'Subclass', 'pdl_name', 'status'])
 df['therapeutic_class'] = df['therapeutic_class'].fillna('').astype(str) + ': ' + df['Subclass'].fillna('').astype(str)

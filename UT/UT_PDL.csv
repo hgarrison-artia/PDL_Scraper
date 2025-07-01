@@ -200,6 +200,7 @@ Antidiabetics: Short Acting Insulin,Humalog U-200,Non-Preferred
 Antidiabetics: Short Acting Insulin,Humulin-R,Non-Preferred
 Antidiabetics: Short Acting Insulin,insulin lispro,Non-Preferred
 Antidiabetics: Short Acting Insulin,Lyumjev,Non-Preferred
+Antidiabetics: Short Acting Insulin,Merilog,Non-Preferred
 Antidiabetics: Short Acting Insulin,Myxredlin,Non-Preferred
 Antidiabetics: Short Acting Insulin,Novolin-R,Non-Preferred
 Antidiabetics: Intermediate Acting Insulin,Novolin-N,Preferred
@@ -356,6 +357,7 @@ Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,pentamidine,Non-Preferre
 Anti-infectives (NOS): Amebicide & Antiprotozoal Agents,Solosec,Non-Preferred
 Anti-infectives (NOS): Antimalarials,hydroxychloroquine,Preferred
 Anti-infectives (NOS): Antimalarials,primaquine,Preferred
+Anti-infectives (NOS): Antimalarials,Arakoda,Non-Preferred
 Anti-infectives (NOS): Antimalarials,Artesunate,Non-Preferred
 Anti-infectives (NOS): Antimalarials,atovaquone/proguanil,Non-Preferred
 Anti-infectives (NOS): Antimalarials,chloroquine,Non-Preferred
@@ -450,13 +452,17 @@ Antivirals: Antiretrovirals- Combination Products,Cabenuva,Non-Preferred
 Antivirals: Antiretrovirals- Combination Products,Combivir,Non-Preferred
 Antivirals: Antiretrovirals- Combination Products,Complera,Non-Preferred
 Antivirals: Antiretrovirals- Combination Products,efavirenz/lamivudine/tenofovir,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,emtricitabine/rilpivirine/tenofovir,Non-Preferred
 Antivirals: Antiretrovirals- Combination Products,Epzicom,Non-Preferred
 Antivirals: Antiretrovirals- Combination Products,Juluca,Non-Preferred
 Antivirals: Antiretrovirals- Combination Products,Kaletra,Non-Preferred
 Antivirals: Antiretrovirals- Combination Products,Stribild,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Sunlenca,Non-Preferred
 Antivirals: Antiretrovirals- Combination Products,Symtuza,Non-Preferred
 Antivirals: Antiretrovirals- Combination Products,Trizivir,Non-Preferred
 Antivirals: Antiretrovirals- Combination Products,Truvada,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Vocabria,Non-Preferred
+Antivirals: Antiretrovirals- Combination Products,Yeztugo,Non-Preferred
 Hepatitis C: Direct Acting Antivirals (DAAs),Mavyret,Preferred
 Hepatitis C: Direct Acting Antivirals (DAAs),sofosbuvir/velpatasvir,Preferred
 Hepatitis C: Direct Acting Antivirals (DAAs),Epclusa,Non-Preferred
@@ -498,6 +504,7 @@ Bone Density Regulators: Direct Acting Antivirals (DAAs),Actonel,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),alendronate solution,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),Atelvia,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),Boniva,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Bonsity,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),calcitonin,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),Evenity,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),Forteo,Non-Preferred
@@ -506,10 +513,12 @@ Bone Density Regulators: Direct Acting Antivirals (DAAs),Fosamax-D,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),ibandronate,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),Jubbonti,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),Miacalcin,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Osenvelt,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),pamidronate,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),Prolia,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),risedronate,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),Reclast,Non-Preferred
+Bone Density Regulators: Direct Acting Antivirals (DAAs),Stoboclo,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),teriparatide,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),Tymlos,Non-Preferred
 Bone Density Regulators: Direct Acting Antivirals (DAAs),Wyost,Non-Preferred
@@ -917,6 +926,7 @@ Mental Health: Anticonvulsants,Onfi,Non-Preferred
 Mental Health: Anticonvulsants,oxcarbazepine ER tablet,Non-Preferred
 Mental Health: Anticonvulsants,oxcarbazepine suspension,Non-Preferred
 Mental Health: Anticonvulsants,Oxtellar XR,Non-Preferred
+Mental Health: Anticonvulsants,perampanel,Non-Preferred
 Mental Health: Anticonvulsants,Phenytek,Non-Preferred
 Mental Health: Anticonvulsants,pregabalin solution,Non-Preferred
 Mental Health: Anticonvulsants,Qudexy XR,Non-Preferred
@@ -1175,6 +1185,7 @@ Contraceptives: Low Dose and Mono-phasic - Oral,Yasmin,Preferred
 Contraceptives: Low Dose and Mono-phasic - Oral,Yaz,Preferred
 Contraceptives: Low Dose and Mono-phasic - Oral,zumandimine,Preferred
 Contraceptives: Low Dose and Mono-phasic - Oral,aurovela 1.5/30,Non-Preferred
+Contraceptives: Low Dose and Mono-phasic - Oral,Averi,Non-Preferred
 Contraceptives: Low Dose and Mono-phasic - Oral,Balcoltra,Non-Preferred
 Contraceptives: Low Dose and Mono-phasic - Oral,blisovi 24 FE 1/20,Non-Preferred
 Contraceptives: Low Dose and Mono-phasic - Oral,briellyn,Non-Preferred
@@ -1265,6 +1276,7 @@ Contraceptives: Extended and Continuous Cycle - Oral,levonorgestrel/ee [84 day],
 Contraceptives: Extended and Continuous Cycle - Oral,norethindrone/ee FE,Non-Preferred
 Contraceptives: Extended and Continuous Cycle - Oral,Quartette,Non-Preferred
 Contraceptives: Extended and Continuous Cycle - Oral,rivelsa,Non-Preferred
+Contraceptives: Extended and Continuous Cycle - Oral,rosyrah,Non-Preferred
 Cytokine Modulators: Immunomodulators,Avsola,Preferred
 Cytokine Modulators: Immunomodulators,Enbrel,Preferred
 Cytokine Modulators: Immunomodulators,Humira,Preferred
@@ -1286,6 +1298,7 @@ Cytokine Modulators: Immunomodulators,Inflectra,Non-Preferred
 Cytokine Modulators: Immunomodulators,infliximab,Non-Preferred
 Cytokine Modulators: Immunomodulators,Kevzara,Non-Preferred
 Cytokine Modulators: Immunomodulators,Kineret,Non-Preferred
+Cytokine Modulators: Immunomodulators,Leqselvi,Non-Preferred
 Cytokine Modulators: Immunomodulators,Litfulo,Non-Preferred
 Cytokine Modulators: Immunomodulators,Nemluvio,Non-Preferred
 Cytokine Modulators: Immunomodulators,Olumiant,Non-Preferred
@@ -1389,6 +1402,7 @@ Dermatological: Topical Antivirals,acyclovir cream,Non-Preferred
 Dermatological: Topical Antivirals,Denavir,Non-Preferred
 Dermatological: Topical Antivirals,penciclovir,Non-Preferred
 Dermatological: Topical Antivirals,Xerese,Non-Preferred
+Dermatological: Topical Antivirals,Zelsuvmi,Non-Preferred
 Dermatological: Topical Antivirals,Zovirax,Non-Preferred
 Dermatological: Atopic Dermatitis (Non-Steroidal),Adbry,Preferred
 Dermatological: Atopic Dermatitis (Non-Steroidal),Dupixent,Preferred
@@ -1397,6 +1411,7 @@ Dermatological: Atopic Dermatitis (Non-Steroidal),tacrolimus,Preferred
 Dermatological: Atopic Dermatitis (Non-Steroidal),Cibinqo,Non-Preferred
 Dermatological: Atopic Dermatitis (Non-Steroidal),Ebglyss,Non-Preferred
 Dermatological: Atopic Dermatitis (Non-Steroidal),Eucrisa,Non-Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),Hyftor,Non-Preferred
 Dermatological: Atopic Dermatitis (Non-Steroidal),Opzelura,Non-Preferred
 Dermatological: Atopic Dermatitis (Non-Steroidal),pimecrolimus,Non-Preferred
 Dermatological: Atopic Dermatitis (Non-Steroidal),Rinvoq,Non-Preferred
@@ -1670,8 +1685,7 @@ Gastrointestinal (GI): Pancreatic Enzymes,Viokace,Non-Preferred
 Gastrointestinal (GI): Phosphate Binders,calcium acetate,Preferred
 Gastrointestinal (GI): Phosphate Binders,Fosrenol chewable,Preferred
 Gastrointestinal (GI): Phosphate Binders,Phoslyra solution,Preferred
-Gastrointestinal (GI): Phosphate Binders,Renvela powder,Preferred
-Gastrointestinal (GI): Phosphate Binders,Renvela tablet,Preferred
+Gastrointestinal (GI): Phosphate Binders,sevelamer carbonate,Preferred
 Gastrointestinal (GI): Phosphate Binders,Auryxia,Non-Preferred
 Gastrointestinal (GI): Phosphate Binders,Fosrenol powder,Non-Preferred
 Gastrointestinal (GI): Phosphate Binders,lanthanum,Non-Preferred
@@ -2139,6 +2153,7 @@ Pulmonary Hypertension: Prostacyclins,Tyvaso,Non-Preferred
 Pulmonary Hypertension: Prostacyclins,Uptravi,Non-Preferred
 Pulmonary Hypertension: Prostacyclins,Veletri,Non-Preferred
 Pulmonary Hypertension: Prostacyclins,Ventavis,Non-Preferred
+Pulmonary Hypertension: Prostacyclins,Yutrepia,Non-Preferred
 Respiratory: Monoclonal Antibodies for Asthma,Cinqair,Preferred
 Respiratory: Monoclonal Antibodies for Asthma,Dupixent,Preferred
 Respiratory: Monoclonal Antibodies for Asthma,Fasenra,Preferred
