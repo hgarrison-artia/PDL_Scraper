@@ -1,0 +1,917 @@
+therapeutic_class,capsule_name,pdl_name
+Incretin Mimetics,Bydureon Pen,Bydureon Bcise
+Antiarrhythmic Agents,iLet Bionic Pancreas System,mexiletine
+Antigout Agents,Lo Loestrin Fe,allopurinol
+Antigout Agents,Lo Loestrin Fe,Aloprim
+Antigout Agents,Lo Loestrin Fe,Gloperba
+Antigout Agents,Lo Loestrin Fe,Uloric
+First Generation Antihistamine Agents,Lo Loestrin Fe,Ryclora
+Antimalarials (continued),Lo Loestrin Fe,chloroquine
+Antimalarials (continued),Lo Loestrin Fe,hydroxychloroquine
+Antimalarials (continued),Lo Loestrin Fe,mefloquine
+Antituberculosis Agents,Lo Loestrin Fe,cycloserine
+Cephalosporins,Lo Loestrin Fe,cefaclor
+Chloramphenicol,Lo Loestrin Fe,chloramphenicol
+Miscellaneous Antibacterials,Lo Loestrin Fe,Aemcolo DR
+Miscellaneous Antiprotozoals,Lo Loestrin Fe,Solosec
+Miscellaneous Antivirals,Lo Loestrin Fe,Paxlovid
+Nucleosides and Nucleotides,Lo Loestrin Fe,valganciclovir
+Nucleosides and Nucleotides,Lo Loestrin Fe,valacyclovir
+Nucleosides and Nucleotides,Lo Loestrin Fe,acyclovir
+Nucleosides and Nucleotides,Lo Loestrin Fe,famciclovir
+Nucleosides and Nucleotides,Lo Loestrin Fe,ganciclovir
+Penicillins,Lo Loestrin Fe,dicloxacillin
+Quinolones,Lo Loestrin Fe,ciprofloxacin
+Quinolones,Lo Loestrin Fe,ciprofloxacin ER
+Quinolones,Lo Loestrin Fe,levofloxacin
+Quinolones,Lo Loestrin Fe,moxifloxacin
+Quinolones,Lo Loestrin Fe,ofloxacin
+Tetracyclines,Lo Loestrin Fe,demeclocycline
+Alzheimer’s Agents,Lo Loestrin Fe,Exelon
+Antidepressants,Lo Loestrin Fe,clomipramine
+Antidepressants,Lo Loestrin Fe,citalopram
+Antidepressants,Lo Loestrin Fe,duloxetine
+Antidepressants,Lo Loestrin Fe,escitalopram
+Antidepressants,Lo Loestrin Fe,Pamelor
+Antidepressants,Lo Loestrin Fe,Zoloft
+Antidepressants,Lo Loestrin Fe,amitriptyline and chlordiazepoxide
+"Anxiolytics, Sedatives, and Hypnotics: Benzodiazepines",Lo Loestrin Fe,lorazepam
+"Anxiolytics, Sedatives, and Hypnotics: Benzodiazepines",Lo Loestrin Fe,clonazepam
+"Anxiolytics, Sedatives, and Hypnotics: Benzodiazepines",Lo Loestrin Fe,Klonopin
+"Anxiolytics, Sedatives, and Hypnotics: Benzodiazepines",Lo Loestrin Fe,Loreev XR
+"Anxiolytics, Sedatives, and Hypnotics: Benzodiazepines",Lo Loestrin Fe,clorazepate
+"Anxiolytics, Sedatives, and Hypnotics: Benzodiazepines",Lo Loestrin Fe,chlordiazepoxide
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",Lo Loestrin Fe,eszopiclone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",Lo Loestrin Fe,zaleplon
+Cerebral Stimulants/ Agents Used for ADHD (Long-Acting),Lo Loestrin Fe,clonidine ER
+ACE Inhibitors,Lo Loestrin Fe,Lotensin
+ACE Inhibitors,Lo Loestrin Fe,Lotensin HCT
+Angiotensin II Receptor Antagonists,Lo Loestrin Fe,losartan
+Angiotensin II Receptor Antagonists,Lo Loestrin Fe,Edarbyclor
+Angiotensin II Receptor Antagonists,Lo Loestrin Fe,losartan and HCTZ
+Angiotensin II Receptor Antagonists,Lo Loestrin Fe,"olmesartan, amlodipine, and HCTZ"
+Angiotensin II Receptor Antagonists,Lo Loestrin Fe,telmisartan and amlodipine
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,sotalol
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,nebivolol
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,nadolol
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,propranolol
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,metoprolol
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,Lopressor
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,atenolol and chlorthalidone
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,atenolol
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,bisoprolol and HCTZ
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,acebutolol
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,betaxolol
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,bisoprolol
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,carvedilol
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,labetalol
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,metoprolol and HCTZ
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,nadolol and bendroflumethiazide
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,pindolol
+Beta-Adrenergic Blocking Agents,Lo Loestrin Fe,timolol
+Calcium-Channel Blocking Agents,Lo Loestrin Fe,amlodipine and olmesartan
+Calcium-Channel Blocking Agents,Lo Loestrin Fe,amlodipine and valsartan
+Calcium-Channel Blocking Agents,Lo Loestrin Fe,"amlodipine, valsartan and HCTZ"
+Calcium-Channel Blocking Agents,Lo Loestrin Fe,amlodipine and benazepril
+Calcium-Channel Blocking Agents,Lo Loestrin Fe,Lotrel
+Calcium-Channel Blocking Agents,Lo Loestrin Fe,amlodipine
+Calcium-Channel Blocking Agents,Lo Loestrin Fe,felodipine
+Central Alpha-Agonists,Lo Loestrin Fe,clonidine patches
+Central Alpha-Agonists,Lo Loestrin Fe,clonidine
+Diuretics,Lo Loestrin Fe,amiloride
+Diuretics,Lo Loestrin Fe,amiloride and HCTZ
+Diuretics,Lo Loestrin Fe,chlorthalidone
+Diuretics,Lo Loestrin Fe,chlorothiazide
+Diuretics,Lo Loestrin Fe,hydrochlorothiazide (HCTZ)
+Diuretics,Lo Loestrin Fe,methyclothiazide
+"Platelet-aggregation Inhibitors/ Vasodilating Agents, Misc",Lo Loestrin Fe,clopidogrel
+"Platelet-aggregation Inhibitors/ Vasodilating Agents, Misc",Lo Loestrin Fe,cilostazol
+Fibric Acid Derivatives,Lo Loestrin Fe,Lopid
+HMG-CoA Reductase Inhibitors,Lo Loestrin Fe,amlodipine/atorvastatin
+HMG-CoA Reductase Inhibitors,Lo Loestrin Fe,Ezallor
+HMG-CoA Reductase Inhibitors,Lo Loestrin Fe,Livalo
+HMG-CoA Reductase Inhibitors,Lo Loestrin Fe,lovastatin
+Miscellaneous Antilipemic Agents,Lo Loestrin Fe,Lovaza
+Dipeptidyl Peptidase-4 (DPP-4) Inhibitors,Lo Loestrin Fe,alogliptin-metformin (generic)
+Dipeptidyl Peptidase-4 (DPP-4) Inhibitors,Lo Loestrin Fe,alogliptin (generic)
+Dipeptidyl Peptidase-4 (DPP-4) Inhibitors,Lo Loestrin Fe,alogliptin-pioglitazone (generic)
+Insulins,Lo Loestrin Fe,Humalog Mix
+Insulins,Lo Loestrin Fe,Novolog
+Insulins,Lo Loestrin Fe,Novolog Mix
+Insulins,Lo Loestrin Fe,Admelog
+Insulins,Lo Loestrin Fe,Apidra Solostar
+Insulins,Lo Loestrin Fe,Humalog
+Sodium-glucose Co-transporter 2 Inhibitor,Lo Loestrin Fe,dapagliflozin
+Sodium-glucose Co-transporter 2 Inhibitor,Lo Loestrin Fe,dapagliflozin/metformin ER
+Therapeutics Immunomodulators/ Disease-Modifying Antirheumatic Agents,Lo Loestrin Fe,Saphnelo
+Antiallergic Agents,Lo Loestrin Fe,Alomide
+Antiallergic Agents,Lo Loestrin Fe,olopatadine
+Antibacterials,Lo Loestrin Fe,ciprofloxacin
+Antibacterials,Lo Loestrin Fe,Ciloxan
+Antibacterials,Lo Loestrin Fe,ofloxacin
+Antibacterials,Lo Loestrin Fe,Ocuflox
+Antibacterials,Lo Loestrin Fe,ciprofloxacin and fluocinolone
+Antibacterials,Lo Loestrin Fe,moxifloxacin
+Antibacterials,Lo Loestrin Fe,gatifloxacin
+Antibacterials,Lo Loestrin Fe,ciprofloxacin and dexamethasone
+Antibacterials,Lo Loestrin Fe,levofloxacin
+Antibacterials,Lo Loestrin Fe,sulfacetamide and prednisolone
+5-HT3 Receptor Antagonists,Lo Loestrin Fe,palonosetron
+Antiemetic Antihistamines,Lo Loestrin Fe,prochlorperazine
+Antiulcer Agents and Acid Suppressants,Lo Loestrin Fe,Prilosec
+Androgens,Lo Loestrin Fe,oxandrolone
+Immunomodulatory Agents used to treat MS,Lo Loestrin Fe,Zeposia (follow TIMs criteria for UC indication)
+Centrally Acting Skeletal Muscle Relaxants,Lo Loestrin Fe,cyclobenzaprine
+Centrally Acting Skeletal Muscle Relaxants,Lo Loestrin Fe,chlorzoxazone
+Centrally Acting Skeletal Muscle Relaxants,Lo Loestrin Fe,Lorzone
+Centrally Acting Skeletal Muscle Relaxants,Lo Loestrin Fe,metaxalone
+GABA-derivative Skeletal Muscle Relaxants,Lo Loestrin Fe,baclofen
+GABA-derivative Skeletal Muscle Relaxants,Lo Loestrin Fe,Gablofen
+Opiate Partial Agonists,Lo Loestrin Fe,Sublocade
+Opiate Partial Agonists,Lo Loestrin Fe,buprenorphine/naloxone film (generic)
+Opiate Partial Agonists,Lo Loestrin Fe,buprenorphine/naloxone tablets
+Opiate Partial Agonists,Lo Loestrin Fe,pentazocine/naloxone
+Leukotriene Modifiers,Lo Loestrin Fe,Zyflo
+Respiratory Corticosteroids,Lo Loestrin Fe,Flovent Diskus
+Respiratory Corticosteroids,Lo Loestrin Fe,Flovent HFA
+Antibacterials,Lo Loestrin Fe,Sulfamylon
+Antifungals,Lo Loestrin Fe,ciclopirox
+Antifungals,Lo Loestrin Fe,Ciclodan
+Antifungals,Lo Loestrin Fe,Loprox
+Antifungals,Lo Loestrin Fe,clotrimazole
+Antifungals,Lo Loestrin Fe,clotrimazole and betamethasone
+Antifungals,Lo Loestrin Fe,nystatin and triamcinolone
+Corticosteroids,Lo Loestrin Fe,clobetasol
+Corticosteroids,Lo Loestrin Fe,Clodan
+Corticosteroids,Lo Loestrin Fe,fluocinolone
+Corticosteroids,Lo Loestrin Fe,triamcinolone
+Corticosteroids,Lo Loestrin Fe,Kenalog
+Corticosteroids,Lo Loestrin Fe,halobetasol
+Corticosteroids,Lo Loestrin Fe,Locoid
+Corticosteroids,Lo Loestrin Fe,Locoid lipocream
+Corticosteroids,Lo Loestrin Fe,Oralone
+Corticosteroids,Lo Loestrin Fe,alclometasone
+Corticosteroids,Lo Loestrin Fe,clocortolone
+Corticosteroids,Lo Loestrin Fe,diflorasone
+Antipruritics and Local Anesthetics,Lo Loestrin Fe,Zonalon
+Antipruritics and Local Anesthetics,Lo Loestrin Fe,lidocaine and prilocaine
+Antivirals,Lo Loestrin Fe,penciclovir
+Antivirals,Lo Loestrin Fe,acyclovir
+Keratolytic Agents,Lo Loestrin Fe,podofilox
+Keratolytic Agents,Lo Loestrin Fe,Condylox
+Prenatal Vitamins,Lo Loestrin Fe,Citranatal Bloom
+Opiate Partial Agonists,Naloxone carpuject,buprenorphine/naloxone film (generic)
+Opiate Partial Agonists,Naloxone carpuject,buprenorphine/naloxone tablets
+Opiate Partial Agonists,Naloxone carpuject,pentazocine/naloxone
+Opiate Partial Agonists,Naloxone nasal spray,buprenorphine/naloxone film (generic)
+Opiate Partial Agonists,Naloxone nasal spray,buprenorphine/naloxone tablets
+Opiate Partial Agonists,Naloxone nasal spray,pentazocine/naloxone
+Opiate Partial Agonists,Naloxone vial,buprenorphine/naloxone film (generic)
+Opiate Partial Agonists,Naloxone vial,buprenorphine/naloxone tablets
+Opiate Partial Agonists,Naloxone vial,pentazocine/naloxone
+Miscellaneous Cardiac Drugs,NP Thyroid,Inpefa
+Amylinomimetics,NP Thyroid,SymlinPen
+Antimalarials,One Touch Ultra 2 System,atovaquone and proguanil
+Antimalarials,One Touch Ultra 2 System,Malarone
+Cephalosporins,One Touch Ultra 2 System,ceftriaxone
+Miscellaneous Antimycobacterials,One Touch Ultra 2 System,dapsone
+Miscellaneous Antiprotozoals,One Touch Ultra 2 System,atovaquone
+Alzheimer’s Agents,One Touch Ultra 2 System,donepezil
+Antidepressants,One Touch Ultra 2 System,vilazodone
+Antidepressants,One Touch Ultra 2 System,nefazodone
+Antidepressants,One Touch Ultra 2 System,trazodone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Ultra 2 System,eszopiclone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Ultra 2 System,buspirone
+Antiarrhythmic Agents,One Touch Ultra 2 System,Nexterone
+Antiarrhythmic Agents,One Touch Ultra 2 System,amiodarone
+Antiarrhythmic Agents,One Touch Ultra 2 System,Pacerone
+Antiarrhythmic Agents,One Touch Ultra 2 System,propafenone
+Beta-Adrenergic Blocking Agents,One Touch Ultra 2 System,atenolol and chlorthalidone
+Diuretics,One Touch Ultra 2 System,Thalitone
+Diuretics,One Touch Ultra 2 System,chlorthalidone
+Diuretics,One Touch Ultra 2 System,metolazone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra 2 System,spironolactone and HCTZ
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra 2 System,spironolactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra 2 System,Aldactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra 2 System,eplerenone
+"Antidiabetic Agents, Miscellaneous",One Touch Ultra 2 System,mifepristone
+Dipeptidyl Peptidase-4 (DPP-4) Inhibitors,One Touch Ultra 2 System,alogliptin-pioglitazone (generic)
+Thiazolidinediones,One Touch Ultra 2 System,pioglitazone and metformin
+Thiazolidinediones,One Touch Ultra 2 System,pioglitazone
+Thiazolidinediones,One Touch Ultra 2 System,pioglitazone and glimepiride
+Antibacterials,One Touch Ultra 2 System,"neomycin, polymyxin B and dexamethasone"
+Antibacterials,One Touch Ultra 2 System,ciprofloxacin and fluocinolone
+Antibacterials,One Touch Ultra 2 System,tobramycin and dexamethasone
+Antibacterials,One Touch Ultra 2 System,ciprofloxacin and dexamethasone
+Antibacterials,One Touch Ultra 2 System,"neomycin, bacitracin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Ultra 2 System,"neomycin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Ultra 2 System,sulfacetamide and prednisolone
+Intranasal Corticosteroids,One Touch Ultra 2 System,azelastine/fluticasone (generic)
+Intranasal Corticosteroids,One Touch Ultra 2 System,mometasone nasal spray
+Intranasal Corticosteroids,One Touch Ultra 2 System,fluticasone
+Androgens,One Touch Ultra 2 System,testosterone
+Androgens,One Touch Ultra 2 System,testosterone cypionate
+Androgens,One Touch Ultra 2 System,Depo-Testosterone
+Androgens,One Touch Ultra 2 System,methyltestosterone
+Androgens,One Touch Ultra 2 System,oxandrolone
+Androgens,One Touch Ultra 2 System,testosterone enanthate
+Complement Inhibitors for the Treatment of Hereditary Angioedema (HAE),One Touch Ultra 2 System,Ruconest
+Immunomodulatory Agents used to treat MS,One Touch Ultra 2 System,Avonex
+Immunomodulatory Agents used to treat MS,One Touch Ultra 2 System,Copaxone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Ultra 2 System,chlorzoxazone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Ultra 2 System,Lorzone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Ultra 2 System,metaxalone
+Opiate Agonists,One Touch Ultra 2 System,benzhydrocodone/acetaminophen
+Opiate Agonists,One Touch Ultra 2 System,hydromorphone
+Opiate Agonists,One Touch Ultra 2 System,methadone (generic)
+Opiate Agonists (continued),One Touch Ultra 2 System,oxycodone/acetaminophen
+Opiate Agonists (continued),One Touch Ultra 2 System,oxycodone
+Opiate Agonists (continued),One Touch Ultra 2 System,Roxicodone
+Opiate Agonists (continued),One Touch Ultra 2 System,hydrocodone/acetaminophen
+Opiate Agonists (continued),One Touch Ultra 2 System,hydrocodone/ibuprofen
+Opiate Agonists (continued),One Touch Ultra 2 System,ibuprofen/oxycodone
+Opiate Agonists (continued),One Touch Ultra 2 System,oxycodone/aspirin
+Opiate Agonists (continued),One Touch Ultra 2 System,oxymorphone
+Opiate Partial Agonists,One Touch Ultra 2 System,Suboxone
+Opiate Partial Agonists,One Touch Ultra 2 System,buprenorphine/naloxone film (generic)
+Opiate Partial Agonists,One Touch Ultra 2 System,buprenorphine/naloxone tablets
+Opiate Partial Agonists,One Touch Ultra 2 System,pentazocine/naloxone
+Respiratory Corticosteroids,One Touch Ultra 2 System,fluticasone/salmeterol (Diskus)
+Respiratory Corticosteroids,One Touch Ultra 2 System,fluticasone/salmeterol (HFA)
+Respiratory Corticosteroids,One Touch Ultra 2 System,fluticasone/vilanterol
+Respiratory Corticosteroids,One Touch Ultra 2 System,fluticasone
+Antifungals,One Touch Ultra 2 System,clotrimazole and betamethasone
+Antifungals,One Touch Ultra 2 System,nystatin and triamcinolone
+Corticosteroids,One Touch Ultra 2 System,hydrocortisone
+Corticosteroids,One Touch Ultra 2 System,fluticasone
+Corticosteroids,One Touch Ultra 2 System,fluocinolone
+Corticosteroids,One Touch Ultra 2 System,betamethasone dipropionate and propylene glycol
+Corticosteroids,One Touch Ultra 2 System,triamcinolone
+Corticosteroids,One Touch Ultra 2 System,hydrocortisone butyrate
+Corticosteroids,One Touch Ultra 2 System,Oralone
+Corticosteroids,One Touch Ultra 2 System,desoximetasone
+Corticosteroids,One Touch Ultra 2 System,alclometasone
+Corticosteroids,One Touch Ultra 2 System,betamethasone dipropionate
+Corticosteroids,One Touch Ultra 2 System,betamethasone valerate
+Corticosteroids,One Touch Ultra 2 System,clocortolone
+Corticosteroids,One Touch Ultra 2 System,diflorasone
+Corticosteroids,One Touch Ultra 2 System,mometasone
+Estrogens/Treatments for menopausal symptoms,One Touch Ultra 2 System,estradiol and norethindrone
+Estrogens/Treatments for menopausal symptoms,One Touch Ultra 2 System,ethinyl estradiol and norethindrone
+Prenatal Vitamins,One Touch Ultra 2 System,Vitafol-One softgel
+Prenatal Vitamins,One Touch Ultra 2 System,Nestabs One
+Prenatal Vitamins,One Touch Ultra 2 System,OB Complete One
+Antimalarials,One Touch Ultra Test Strips 100 ct,atovaquone and proguanil
+Antimalarials,One Touch Ultra Test Strips 100 ct,Malarone
+Cephalosporins,One Touch Ultra Test Strips 100 ct,ceftriaxone
+Miscellaneous Antimycobacterials,One Touch Ultra Test Strips 100 ct,dapsone
+Miscellaneous Antiprotozoals,One Touch Ultra Test Strips 100 ct,atovaquone
+Alzheimer’s Agents,One Touch Ultra Test Strips 100 ct,donepezil
+Antidepressants,One Touch Ultra Test Strips 100 ct,vilazodone
+Antidepressants,One Touch Ultra Test Strips 100 ct,nefazodone
+Antidepressants,One Touch Ultra Test Strips 100 ct,trazodone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Ultra Test Strips 100 ct,eszopiclone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Ultra Test Strips 100 ct,buspirone
+Antiarrhythmic Agents,One Touch Ultra Test Strips 100 ct,Nexterone
+Antiarrhythmic Agents,One Touch Ultra Test Strips 100 ct,amiodarone
+Antiarrhythmic Agents,One Touch Ultra Test Strips 100 ct,Pacerone
+Antiarrhythmic Agents,One Touch Ultra Test Strips 100 ct,propafenone
+Beta-Adrenergic Blocking Agents,One Touch Ultra Test Strips 100 ct,atenolol and chlorthalidone
+Diuretics,One Touch Ultra Test Strips 100 ct,Thalitone
+Diuretics,One Touch Ultra Test Strips 100 ct,chlorthalidone
+Diuretics,One Touch Ultra Test Strips 100 ct,metolazone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra Test Strips 100 ct,spironolactone and HCTZ
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra Test Strips 100 ct,spironolactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra Test Strips 100 ct,Aldactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra Test Strips 100 ct,eplerenone
+"Antidiabetic Agents, Miscellaneous",One Touch Ultra Test Strips 100 ct,mifepristone
+Dipeptidyl Peptidase-4 (DPP-4) Inhibitors,One Touch Ultra Test Strips 100 ct,alogliptin-pioglitazone (generic)
+Thiazolidinediones,One Touch Ultra Test Strips 100 ct,pioglitazone and metformin
+Thiazolidinediones,One Touch Ultra Test Strips 100 ct,pioglitazone
+Thiazolidinediones,One Touch Ultra Test Strips 100 ct,pioglitazone and glimepiride
+Antibacterials,One Touch Ultra Test Strips 100 ct,"neomycin, polymyxin B and dexamethasone"
+Antibacterials,One Touch Ultra Test Strips 100 ct,ciprofloxacin and fluocinolone
+Antibacterials,One Touch Ultra Test Strips 100 ct,tobramycin and dexamethasone
+Antibacterials,One Touch Ultra Test Strips 100 ct,ciprofloxacin and dexamethasone
+Antibacterials,One Touch Ultra Test Strips 100 ct,"neomycin, bacitracin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Ultra Test Strips 100 ct,"neomycin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Ultra Test Strips 100 ct,sulfacetamide and prednisolone
+Intranasal Corticosteroids,One Touch Ultra Test Strips 100 ct,azelastine/fluticasone (generic)
+Intranasal Corticosteroids,One Touch Ultra Test Strips 100 ct,mometasone nasal spray
+Intranasal Corticosteroids,One Touch Ultra Test Strips 100 ct,fluticasone
+Androgens,One Touch Ultra Test Strips 100 ct,testosterone
+Androgens,One Touch Ultra Test Strips 100 ct,testosterone cypionate
+Androgens,One Touch Ultra Test Strips 100 ct,Depo-Testosterone
+Androgens,One Touch Ultra Test Strips 100 ct,methyltestosterone
+Androgens,One Touch Ultra Test Strips 100 ct,oxandrolone
+Androgens,One Touch Ultra Test Strips 100 ct,testosterone enanthate
+Complement Inhibitors for the Treatment of Hereditary Angioedema (HAE),One Touch Ultra Test Strips 100 ct,Ruconest
+Immunomodulatory Agents used to treat MS,One Touch Ultra Test Strips 100 ct,Avonex
+Immunomodulatory Agents used to treat MS,One Touch Ultra Test Strips 100 ct,Copaxone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Ultra Test Strips 100 ct,chlorzoxazone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Ultra Test Strips 100 ct,Lorzone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Ultra Test Strips 100 ct,metaxalone
+Opiate Agonists,One Touch Ultra Test Strips 100 ct,benzhydrocodone/acetaminophen
+Opiate Agonists,One Touch Ultra Test Strips 100 ct,hydromorphone
+Opiate Agonists,One Touch Ultra Test Strips 100 ct,methadone (generic)
+Opiate Agonists (continued),One Touch Ultra Test Strips 100 ct,oxycodone/acetaminophen
+Opiate Agonists (continued),One Touch Ultra Test Strips 100 ct,oxycodone
+Opiate Agonists (continued),One Touch Ultra Test Strips 100 ct,Roxicodone
+Opiate Agonists (continued),One Touch Ultra Test Strips 100 ct,hydrocodone/acetaminophen
+Opiate Agonists (continued),One Touch Ultra Test Strips 100 ct,hydrocodone/ibuprofen
+Opiate Agonists (continued),One Touch Ultra Test Strips 100 ct,ibuprofen/oxycodone
+Opiate Agonists (continued),One Touch Ultra Test Strips 100 ct,oxycodone/aspirin
+Opiate Agonists (continued),One Touch Ultra Test Strips 100 ct,oxymorphone
+Opiate Partial Agonists,One Touch Ultra Test Strips 100 ct,Suboxone
+Opiate Partial Agonists,One Touch Ultra Test Strips 100 ct,buprenorphine/naloxone film (generic)
+Opiate Partial Agonists,One Touch Ultra Test Strips 100 ct,buprenorphine/naloxone tablets
+Opiate Partial Agonists,One Touch Ultra Test Strips 100 ct,pentazocine/naloxone
+Respiratory Corticosteroids,One Touch Ultra Test Strips 100 ct,fluticasone/salmeterol (Diskus)
+Respiratory Corticosteroids,One Touch Ultra Test Strips 100 ct,fluticasone/salmeterol (HFA)
+Respiratory Corticosteroids,One Touch Ultra Test Strips 100 ct,fluticasone/vilanterol
+Respiratory Corticosteroids,One Touch Ultra Test Strips 100 ct,fluticasone
+Antifungals,One Touch Ultra Test Strips 100 ct,clotrimazole and betamethasone
+Antifungals,One Touch Ultra Test Strips 100 ct,nystatin and triamcinolone
+Corticosteroids,One Touch Ultra Test Strips 100 ct,hydrocortisone
+Corticosteroids,One Touch Ultra Test Strips 100 ct,fluticasone
+Corticosteroids,One Touch Ultra Test Strips 100 ct,fluocinolone
+Corticosteroids,One Touch Ultra Test Strips 100 ct,betamethasone dipropionate and propylene glycol
+Corticosteroids,One Touch Ultra Test Strips 100 ct,triamcinolone
+Corticosteroids,One Touch Ultra Test Strips 100 ct,hydrocortisone butyrate
+Corticosteroids,One Touch Ultra Test Strips 100 ct,Oralone
+Corticosteroids,One Touch Ultra Test Strips 100 ct,desoximetasone
+Corticosteroids,One Touch Ultra Test Strips 100 ct,alclometasone
+Corticosteroids,One Touch Ultra Test Strips 100 ct,betamethasone dipropionate
+Corticosteroids,One Touch Ultra Test Strips 100 ct,betamethasone valerate
+Corticosteroids,One Touch Ultra Test Strips 100 ct,clocortolone
+Corticosteroids,One Touch Ultra Test Strips 100 ct,diflorasone
+Corticosteroids,One Touch Ultra Test Strips 100 ct,mometasone
+Estrogens/Treatments for menopausal symptoms,One Touch Ultra Test Strips 100 ct,estradiol and norethindrone
+Estrogens/Treatments for menopausal symptoms,One Touch Ultra Test Strips 100 ct,ethinyl estradiol and norethindrone
+Prenatal Vitamins,One Touch Ultra Test Strips 100 ct,Vitafol-One softgel
+Prenatal Vitamins,One Touch Ultra Test Strips 100 ct,Nestabs One
+Prenatal Vitamins,One Touch Ultra Test Strips 100 ct,OB Complete One
+Antimalarials,One Touch Ultra Test Strips 25 ct,atovaquone and proguanil
+Antimalarials,One Touch Ultra Test Strips 25 ct,Malarone
+Cephalosporins,One Touch Ultra Test Strips 25 ct,ceftriaxone
+Miscellaneous Antimycobacterials,One Touch Ultra Test Strips 25 ct,dapsone
+Miscellaneous Antiprotozoals,One Touch Ultra Test Strips 25 ct,atovaquone
+Alzheimer’s Agents,One Touch Ultra Test Strips 25 ct,donepezil
+Antidepressants,One Touch Ultra Test Strips 25 ct,vilazodone
+Antidepressants,One Touch Ultra Test Strips 25 ct,nefazodone
+Antidepressants,One Touch Ultra Test Strips 25 ct,trazodone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Ultra Test Strips 25 ct,eszopiclone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Ultra Test Strips 25 ct,buspirone
+Antiarrhythmic Agents,One Touch Ultra Test Strips 25 ct,Nexterone
+Antiarrhythmic Agents,One Touch Ultra Test Strips 25 ct,amiodarone
+Antiarrhythmic Agents,One Touch Ultra Test Strips 25 ct,Pacerone
+Antiarrhythmic Agents,One Touch Ultra Test Strips 25 ct,propafenone
+Beta-Adrenergic Blocking Agents,One Touch Ultra Test Strips 25 ct,atenolol and chlorthalidone
+Diuretics,One Touch Ultra Test Strips 25 ct,Thalitone
+Diuretics,One Touch Ultra Test Strips 25 ct,chlorthalidone
+Diuretics,One Touch Ultra Test Strips 25 ct,metolazone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra Test Strips 25 ct,spironolactone and HCTZ
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra Test Strips 25 ct,spironolactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra Test Strips 25 ct,Aldactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra Test Strips 25 ct,eplerenone
+"Antidiabetic Agents, Miscellaneous",One Touch Ultra Test Strips 25 ct,mifepristone
+Dipeptidyl Peptidase-4 (DPP-4) Inhibitors,One Touch Ultra Test Strips 25 ct,alogliptin-pioglitazone (generic)
+Thiazolidinediones,One Touch Ultra Test Strips 25 ct,pioglitazone and metformin
+Thiazolidinediones,One Touch Ultra Test Strips 25 ct,pioglitazone
+Thiazolidinediones,One Touch Ultra Test Strips 25 ct,pioglitazone and glimepiride
+Antibacterials,One Touch Ultra Test Strips 25 ct,"neomycin, polymyxin B and dexamethasone"
+Antibacterials,One Touch Ultra Test Strips 25 ct,ciprofloxacin and fluocinolone
+Antibacterials,One Touch Ultra Test Strips 25 ct,tobramycin and dexamethasone
+Antibacterials,One Touch Ultra Test Strips 25 ct,ciprofloxacin and dexamethasone
+Antibacterials,One Touch Ultra Test Strips 25 ct,"neomycin, bacitracin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Ultra Test Strips 25 ct,"neomycin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Ultra Test Strips 25 ct,sulfacetamide and prednisolone
+Intranasal Corticosteroids,One Touch Ultra Test Strips 25 ct,azelastine/fluticasone (generic)
+Intranasal Corticosteroids,One Touch Ultra Test Strips 25 ct,mometasone nasal spray
+Intranasal Corticosteroids,One Touch Ultra Test Strips 25 ct,fluticasone
+Androgens,One Touch Ultra Test Strips 25 ct,testosterone
+Androgens,One Touch Ultra Test Strips 25 ct,testosterone cypionate
+Androgens,One Touch Ultra Test Strips 25 ct,Depo-Testosterone
+Androgens,One Touch Ultra Test Strips 25 ct,methyltestosterone
+Androgens,One Touch Ultra Test Strips 25 ct,oxandrolone
+Androgens,One Touch Ultra Test Strips 25 ct,testosterone enanthate
+Complement Inhibitors for the Treatment of Hereditary Angioedema (HAE),One Touch Ultra Test Strips 25 ct,Ruconest
+Immunomodulatory Agents used to treat MS,One Touch Ultra Test Strips 25 ct,Avonex
+Immunomodulatory Agents used to treat MS,One Touch Ultra Test Strips 25 ct,Copaxone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Ultra Test Strips 25 ct,chlorzoxazone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Ultra Test Strips 25 ct,Lorzone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Ultra Test Strips 25 ct,metaxalone
+Opiate Agonists,One Touch Ultra Test Strips 25 ct,benzhydrocodone/acetaminophen
+Opiate Agonists,One Touch Ultra Test Strips 25 ct,hydromorphone
+Opiate Agonists,One Touch Ultra Test Strips 25 ct,methadone (generic)
+Opiate Agonists (continued),One Touch Ultra Test Strips 25 ct,oxycodone/acetaminophen
+Opiate Agonists (continued),One Touch Ultra Test Strips 25 ct,oxycodone
+Opiate Agonists (continued),One Touch Ultra Test Strips 25 ct,Roxicodone
+Opiate Agonists (continued),One Touch Ultra Test Strips 25 ct,hydrocodone/acetaminophen
+Opiate Agonists (continued),One Touch Ultra Test Strips 25 ct,hydrocodone/ibuprofen
+Opiate Agonists (continued),One Touch Ultra Test Strips 25 ct,ibuprofen/oxycodone
+Opiate Agonists (continued),One Touch Ultra Test Strips 25 ct,oxycodone/aspirin
+Opiate Agonists (continued),One Touch Ultra Test Strips 25 ct,oxymorphone
+Opiate Partial Agonists,One Touch Ultra Test Strips 25 ct,Suboxone
+Opiate Partial Agonists,One Touch Ultra Test Strips 25 ct,buprenorphine/naloxone film (generic)
+Opiate Partial Agonists,One Touch Ultra Test Strips 25 ct,buprenorphine/naloxone tablets
+Opiate Partial Agonists,One Touch Ultra Test Strips 25 ct,pentazocine/naloxone
+Respiratory Corticosteroids,One Touch Ultra Test Strips 25 ct,fluticasone/salmeterol (Diskus)
+Respiratory Corticosteroids,One Touch Ultra Test Strips 25 ct,fluticasone/salmeterol (HFA)
+Respiratory Corticosteroids,One Touch Ultra Test Strips 25 ct,fluticasone/vilanterol
+Respiratory Corticosteroids,One Touch Ultra Test Strips 25 ct,fluticasone
+Antifungals,One Touch Ultra Test Strips 25 ct,clotrimazole and betamethasone
+Antifungals,One Touch Ultra Test Strips 25 ct,nystatin and triamcinolone
+Corticosteroids,One Touch Ultra Test Strips 25 ct,hydrocortisone
+Corticosteroids,One Touch Ultra Test Strips 25 ct,fluticasone
+Corticosteroids,One Touch Ultra Test Strips 25 ct,fluocinolone
+Corticosteroids,One Touch Ultra Test Strips 25 ct,betamethasone dipropionate and propylene glycol
+Corticosteroids,One Touch Ultra Test Strips 25 ct,triamcinolone
+Corticosteroids,One Touch Ultra Test Strips 25 ct,hydrocortisone butyrate
+Corticosteroids,One Touch Ultra Test Strips 25 ct,Oralone
+Corticosteroids,One Touch Ultra Test Strips 25 ct,desoximetasone
+Corticosteroids,One Touch Ultra Test Strips 25 ct,alclometasone
+Corticosteroids,One Touch Ultra Test Strips 25 ct,betamethasone dipropionate
+Corticosteroids,One Touch Ultra Test Strips 25 ct,betamethasone valerate
+Corticosteroids,One Touch Ultra Test Strips 25 ct,clocortolone
+Corticosteroids,One Touch Ultra Test Strips 25 ct,diflorasone
+Corticosteroids,One Touch Ultra Test Strips 25 ct,mometasone
+Estrogens/Treatments for menopausal symptoms,One Touch Ultra Test Strips 25 ct,estradiol and norethindrone
+Estrogens/Treatments for menopausal symptoms,One Touch Ultra Test Strips 25 ct,ethinyl estradiol and norethindrone
+Prenatal Vitamins,One Touch Ultra Test Strips 25 ct,Vitafol-One softgel
+Prenatal Vitamins,One Touch Ultra Test Strips 25 ct,Nestabs One
+Prenatal Vitamins,One Touch Ultra Test Strips 25 ct,OB Complete One
+Antimalarials,One Touch Ultra Test Strips 50 ct,atovaquone and proguanil
+Antimalarials,One Touch Ultra Test Strips 50 ct,Malarone
+Cephalosporins,One Touch Ultra Test Strips 50 ct,ceftriaxone
+Miscellaneous Antimycobacterials,One Touch Ultra Test Strips 50 ct,dapsone
+Miscellaneous Antiprotozoals,One Touch Ultra Test Strips 50 ct,atovaquone
+Alzheimer’s Agents,One Touch Ultra Test Strips 50 ct,donepezil
+Antidepressants,One Touch Ultra Test Strips 50 ct,vilazodone
+Antidepressants,One Touch Ultra Test Strips 50 ct,nefazodone
+Antidepressants,One Touch Ultra Test Strips 50 ct,trazodone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Ultra Test Strips 50 ct,eszopiclone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Ultra Test Strips 50 ct,buspirone
+Antiarrhythmic Agents,One Touch Ultra Test Strips 50 ct,Nexterone
+Antiarrhythmic Agents,One Touch Ultra Test Strips 50 ct,amiodarone
+Antiarrhythmic Agents,One Touch Ultra Test Strips 50 ct,Pacerone
+Antiarrhythmic Agents,One Touch Ultra Test Strips 50 ct,propafenone
+Beta-Adrenergic Blocking Agents,One Touch Ultra Test Strips 50 ct,atenolol and chlorthalidone
+Diuretics,One Touch Ultra Test Strips 50 ct,Thalitone
+Diuretics,One Touch Ultra Test Strips 50 ct,chlorthalidone
+Diuretics,One Touch Ultra Test Strips 50 ct,metolazone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra Test Strips 50 ct,spironolactone and HCTZ
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra Test Strips 50 ct,spironolactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra Test Strips 50 ct,Aldactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Ultra Test Strips 50 ct,eplerenone
+"Antidiabetic Agents, Miscellaneous",One Touch Ultra Test Strips 50 ct,mifepristone
+Dipeptidyl Peptidase-4 (DPP-4) Inhibitors,One Touch Ultra Test Strips 50 ct,alogliptin-pioglitazone (generic)
+Thiazolidinediones,One Touch Ultra Test Strips 50 ct,pioglitazone and metformin
+Thiazolidinediones,One Touch Ultra Test Strips 50 ct,pioglitazone
+Thiazolidinediones,One Touch Ultra Test Strips 50 ct,pioglitazone and glimepiride
+Antibacterials,One Touch Ultra Test Strips 50 ct,"neomycin, polymyxin B and dexamethasone"
+Antibacterials,One Touch Ultra Test Strips 50 ct,ciprofloxacin and fluocinolone
+Antibacterials,One Touch Ultra Test Strips 50 ct,tobramycin and dexamethasone
+Antibacterials,One Touch Ultra Test Strips 50 ct,ciprofloxacin and dexamethasone
+Antibacterials,One Touch Ultra Test Strips 50 ct,"neomycin, bacitracin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Ultra Test Strips 50 ct,"neomycin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Ultra Test Strips 50 ct,sulfacetamide and prednisolone
+Intranasal Corticosteroids,One Touch Ultra Test Strips 50 ct,azelastine/fluticasone (generic)
+Intranasal Corticosteroids,One Touch Ultra Test Strips 50 ct,mometasone nasal spray
+Intranasal Corticosteroids,One Touch Ultra Test Strips 50 ct,fluticasone
+Androgens,One Touch Ultra Test Strips 50 ct,testosterone
+Androgens,One Touch Ultra Test Strips 50 ct,testosterone cypionate
+Androgens,One Touch Ultra Test Strips 50 ct,Depo-Testosterone
+Androgens,One Touch Ultra Test Strips 50 ct,methyltestosterone
+Androgens,One Touch Ultra Test Strips 50 ct,oxandrolone
+Androgens,One Touch Ultra Test Strips 50 ct,testosterone enanthate
+Complement Inhibitors for the Treatment of Hereditary Angioedema (HAE),One Touch Ultra Test Strips 50 ct,Ruconest
+Immunomodulatory Agents used to treat MS,One Touch Ultra Test Strips 50 ct,Avonex
+Immunomodulatory Agents used to treat MS,One Touch Ultra Test Strips 50 ct,Copaxone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Ultra Test Strips 50 ct,chlorzoxazone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Ultra Test Strips 50 ct,Lorzone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Ultra Test Strips 50 ct,metaxalone
+Opiate Agonists,One Touch Ultra Test Strips 50 ct,benzhydrocodone/acetaminophen
+Opiate Agonists,One Touch Ultra Test Strips 50 ct,hydromorphone
+Opiate Agonists,One Touch Ultra Test Strips 50 ct,methadone (generic)
+Opiate Agonists (continued),One Touch Ultra Test Strips 50 ct,oxycodone/acetaminophen
+Opiate Agonists (continued),One Touch Ultra Test Strips 50 ct,oxycodone
+Opiate Agonists (continued),One Touch Ultra Test Strips 50 ct,Roxicodone
+Opiate Agonists (continued),One Touch Ultra Test Strips 50 ct,hydrocodone/acetaminophen
+Opiate Agonists (continued),One Touch Ultra Test Strips 50 ct,hydrocodone/ibuprofen
+Opiate Agonists (continued),One Touch Ultra Test Strips 50 ct,ibuprofen/oxycodone
+Opiate Agonists (continued),One Touch Ultra Test Strips 50 ct,oxycodone/aspirin
+Opiate Agonists (continued),One Touch Ultra Test Strips 50 ct,oxymorphone
+Opiate Partial Agonists,One Touch Ultra Test Strips 50 ct,Suboxone
+Opiate Partial Agonists,One Touch Ultra Test Strips 50 ct,buprenorphine/naloxone film (generic)
+Opiate Partial Agonists,One Touch Ultra Test Strips 50 ct,buprenorphine/naloxone tablets
+Opiate Partial Agonists,One Touch Ultra Test Strips 50 ct,pentazocine/naloxone
+Respiratory Corticosteroids,One Touch Ultra Test Strips 50 ct,fluticasone/salmeterol (Diskus)
+Respiratory Corticosteroids,One Touch Ultra Test Strips 50 ct,fluticasone/salmeterol (HFA)
+Respiratory Corticosteroids,One Touch Ultra Test Strips 50 ct,fluticasone/vilanterol
+Respiratory Corticosteroids,One Touch Ultra Test Strips 50 ct,fluticasone
+Antifungals,One Touch Ultra Test Strips 50 ct,clotrimazole and betamethasone
+Antifungals,One Touch Ultra Test Strips 50 ct,nystatin and triamcinolone
+Corticosteroids,One Touch Ultra Test Strips 50 ct,hydrocortisone
+Corticosteroids,One Touch Ultra Test Strips 50 ct,fluticasone
+Corticosteroids,One Touch Ultra Test Strips 50 ct,fluocinolone
+Corticosteroids,One Touch Ultra Test Strips 50 ct,betamethasone dipropionate and propylene glycol
+Corticosteroids,One Touch Ultra Test Strips 50 ct,triamcinolone
+Corticosteroids,One Touch Ultra Test Strips 50 ct,hydrocortisone butyrate
+Corticosteroids,One Touch Ultra Test Strips 50 ct,Oralone
+Corticosteroids,One Touch Ultra Test Strips 50 ct,desoximetasone
+Corticosteroids,One Touch Ultra Test Strips 50 ct,alclometasone
+Corticosteroids,One Touch Ultra Test Strips 50 ct,betamethasone dipropionate
+Corticosteroids,One Touch Ultra Test Strips 50 ct,betamethasone valerate
+Corticosteroids,One Touch Ultra Test Strips 50 ct,clocortolone
+Corticosteroids,One Touch Ultra Test Strips 50 ct,diflorasone
+Corticosteroids,One Touch Ultra Test Strips 50 ct,mometasone
+Estrogens/Treatments for menopausal symptoms,One Touch Ultra Test Strips 50 ct,estradiol and norethindrone
+Estrogens/Treatments for menopausal symptoms,One Touch Ultra Test Strips 50 ct,ethinyl estradiol and norethindrone
+Prenatal Vitamins,One Touch Ultra Test Strips 50 ct,Vitafol-One softgel
+Prenatal Vitamins,One Touch Ultra Test Strips 50 ct,Nestabs One
+Prenatal Vitamins,One Touch Ultra Test Strips 50 ct,OB Complete One
+Antimalarials,One Touch Verio,atovaquone and proguanil
+Antimalarials,One Touch Verio,Malarone
+Cephalosporins,One Touch Verio,ceftriaxone
+Miscellaneous Antimycobacterials,One Touch Verio,dapsone
+Miscellaneous Antiprotozoals,One Touch Verio,atovaquone
+Alzheimer’s Agents,One Touch Verio,donepezil
+Antidepressants,One Touch Verio,vilazodone
+Antidepressants,One Touch Verio,nefazodone
+Antidepressants,One Touch Verio,trazodone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Verio,eszopiclone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Verio,buspirone
+Antiarrhythmic Agents,One Touch Verio,Nexterone
+Antiarrhythmic Agents,One Touch Verio,amiodarone
+Antiarrhythmic Agents,One Touch Verio,Pacerone
+Antiarrhythmic Agents,One Touch Verio,propafenone
+Beta-Adrenergic Blocking Agents,One Touch Verio,atenolol and chlorthalidone
+Diuretics,One Touch Verio,Thalitone
+Diuretics,One Touch Verio,chlorthalidone
+Diuretics,One Touch Verio,metolazone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio,spironolactone and HCTZ
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio,spironolactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio,Aldactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio,eplerenone
+"Antidiabetic Agents, Miscellaneous",One Touch Verio,mifepristone
+Dipeptidyl Peptidase-4 (DPP-4) Inhibitors,One Touch Verio,alogliptin-pioglitazone (generic)
+Thiazolidinediones,One Touch Verio,pioglitazone and metformin
+Thiazolidinediones,One Touch Verio,pioglitazone
+Thiazolidinediones,One Touch Verio,pioglitazone and glimepiride
+Antibacterials,One Touch Verio,"neomycin, polymyxin B and dexamethasone"
+Antibacterials,One Touch Verio,ciprofloxacin and fluocinolone
+Antibacterials,One Touch Verio,tobramycin and dexamethasone
+Antibacterials,One Touch Verio,ciprofloxacin and dexamethasone
+Antibacterials,One Touch Verio,"neomycin, bacitracin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Verio,"neomycin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Verio,sulfacetamide and prednisolone
+Intranasal Corticosteroids,One Touch Verio,azelastine/fluticasone (generic)
+Intranasal Corticosteroids,One Touch Verio,mometasone nasal spray
+Intranasal Corticosteroids,One Touch Verio,fluticasone
+Androgens,One Touch Verio,testosterone
+Androgens,One Touch Verio,testosterone cypionate
+Androgens,One Touch Verio,Depo-Testosterone
+Androgens,One Touch Verio,methyltestosterone
+Androgens,One Touch Verio,oxandrolone
+Androgens,One Touch Verio,testosterone enanthate
+Complement Inhibitors for the Treatment of Hereditary Angioedema (HAE),One Touch Verio,Ruconest
+Immunomodulatory Agents used to treat MS,One Touch Verio,Avonex
+Immunomodulatory Agents used to treat MS,One Touch Verio,Copaxone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Verio,chlorzoxazone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Verio,Lorzone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Verio,metaxalone
+Opiate Agonists,One Touch Verio,benzhydrocodone/acetaminophen
+Opiate Agonists,One Touch Verio,hydromorphone
+Opiate Agonists,One Touch Verio,methadone (generic)
+Opiate Agonists (continued),One Touch Verio,oxycodone/acetaminophen
+Opiate Agonists (continued),One Touch Verio,oxycodone
+Opiate Agonists (continued),One Touch Verio,Roxicodone
+Opiate Agonists (continued),One Touch Verio,hydrocodone/acetaminophen
+Opiate Agonists (continued),One Touch Verio,hydrocodone/ibuprofen
+Opiate Agonists (continued),One Touch Verio,ibuprofen/oxycodone
+Opiate Agonists (continued),One Touch Verio,oxycodone/aspirin
+Opiate Agonists (continued),One Touch Verio,oxymorphone
+Opiate Partial Agonists,One Touch Verio,Suboxone
+Opiate Partial Agonists,One Touch Verio,buprenorphine/naloxone film (generic)
+Opiate Partial Agonists,One Touch Verio,buprenorphine/naloxone tablets
+Opiate Partial Agonists,One Touch Verio,pentazocine/naloxone
+Respiratory Corticosteroids,One Touch Verio,fluticasone/salmeterol (Diskus)
+Respiratory Corticosteroids,One Touch Verio,fluticasone/salmeterol (HFA)
+Respiratory Corticosteroids,One Touch Verio,fluticasone/vilanterol
+Respiratory Corticosteroids,One Touch Verio,fluticasone
+Antifungals,One Touch Verio,clotrimazole and betamethasone
+Antifungals,One Touch Verio,nystatin and triamcinolone
+Corticosteroids,One Touch Verio,hydrocortisone
+Corticosteroids,One Touch Verio,fluticasone
+Corticosteroids,One Touch Verio,fluocinolone
+Corticosteroids,One Touch Verio,betamethasone dipropionate and propylene glycol
+Corticosteroids,One Touch Verio,triamcinolone
+Corticosteroids,One Touch Verio,hydrocortisone butyrate
+Corticosteroids,One Touch Verio,Oralone
+Corticosteroids,One Touch Verio,desoximetasone
+Corticosteroids,One Touch Verio,alclometasone
+Corticosteroids,One Touch Verio,betamethasone dipropionate
+Corticosteroids,One Touch Verio,betamethasone valerate
+Corticosteroids,One Touch Verio,clocortolone
+Corticosteroids,One Touch Verio,diflorasone
+Corticosteroids,One Touch Verio,mometasone
+Estrogens/Treatments for menopausal symptoms,One Touch Verio,estradiol and norethindrone
+Estrogens/Treatments for menopausal symptoms,One Touch Verio,ethinyl estradiol and norethindrone
+Prenatal Vitamins,One Touch Verio,Vitafol-One softgel
+Prenatal Vitamins,One Touch Verio,Nestabs One
+Prenatal Vitamins,One Touch Verio,OB Complete One
+Antimalarials,One Touch Verio Test Strips 100 ct,atovaquone and proguanil
+Antimalarials,One Touch Verio Test Strips 100 ct,Malarone
+Cephalosporins,One Touch Verio Test Strips 100 ct,ceftriaxone
+Miscellaneous Antimycobacterials,One Touch Verio Test Strips 100 ct,dapsone
+Miscellaneous Antiprotozoals,One Touch Verio Test Strips 100 ct,atovaquone
+Alzheimer’s Agents,One Touch Verio Test Strips 100 ct,donepezil
+Antidepressants,One Touch Verio Test Strips 100 ct,vilazodone
+Antidepressants,One Touch Verio Test Strips 100 ct,nefazodone
+Antidepressants,One Touch Verio Test Strips 100 ct,trazodone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Verio Test Strips 100 ct,eszopiclone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Verio Test Strips 100 ct,buspirone
+Antiarrhythmic Agents,One Touch Verio Test Strips 100 ct,Nexterone
+Antiarrhythmic Agents,One Touch Verio Test Strips 100 ct,amiodarone
+Antiarrhythmic Agents,One Touch Verio Test Strips 100 ct,Pacerone
+Antiarrhythmic Agents,One Touch Verio Test Strips 100 ct,propafenone
+Beta-Adrenergic Blocking Agents,One Touch Verio Test Strips 100 ct,atenolol and chlorthalidone
+Diuretics,One Touch Verio Test Strips 100 ct,Thalitone
+Diuretics,One Touch Verio Test Strips 100 ct,chlorthalidone
+Diuretics,One Touch Verio Test Strips 100 ct,metolazone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio Test Strips 100 ct,spironolactone and HCTZ
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio Test Strips 100 ct,spironolactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio Test Strips 100 ct,Aldactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio Test Strips 100 ct,eplerenone
+"Antidiabetic Agents, Miscellaneous",One Touch Verio Test Strips 100 ct,mifepristone
+Dipeptidyl Peptidase-4 (DPP-4) Inhibitors,One Touch Verio Test Strips 100 ct,alogliptin-pioglitazone (generic)
+Thiazolidinediones,One Touch Verio Test Strips 100 ct,pioglitazone and metformin
+Thiazolidinediones,One Touch Verio Test Strips 100 ct,pioglitazone
+Thiazolidinediones,One Touch Verio Test Strips 100 ct,pioglitazone and glimepiride
+Antibacterials,One Touch Verio Test Strips 100 ct,"neomycin, polymyxin B and dexamethasone"
+Antibacterials,One Touch Verio Test Strips 100 ct,ciprofloxacin and fluocinolone
+Antibacterials,One Touch Verio Test Strips 100 ct,tobramycin and dexamethasone
+Antibacterials,One Touch Verio Test Strips 100 ct,ciprofloxacin and dexamethasone
+Antibacterials,One Touch Verio Test Strips 100 ct,"neomycin, bacitracin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Verio Test Strips 100 ct,"neomycin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Verio Test Strips 100 ct,sulfacetamide and prednisolone
+Intranasal Corticosteroids,One Touch Verio Test Strips 100 ct,azelastine/fluticasone (generic)
+Intranasal Corticosteroids,One Touch Verio Test Strips 100 ct,mometasone nasal spray
+Intranasal Corticosteroids,One Touch Verio Test Strips 100 ct,fluticasone
+Androgens,One Touch Verio Test Strips 100 ct,testosterone
+Androgens,One Touch Verio Test Strips 100 ct,testosterone cypionate
+Androgens,One Touch Verio Test Strips 100 ct,Depo-Testosterone
+Androgens,One Touch Verio Test Strips 100 ct,methyltestosterone
+Androgens,One Touch Verio Test Strips 100 ct,oxandrolone
+Androgens,One Touch Verio Test Strips 100 ct,testosterone enanthate
+Complement Inhibitors for the Treatment of Hereditary Angioedema (HAE),One Touch Verio Test Strips 100 ct,Ruconest
+Immunomodulatory Agents used to treat MS,One Touch Verio Test Strips 100 ct,Avonex
+Immunomodulatory Agents used to treat MS,One Touch Verio Test Strips 100 ct,Copaxone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Verio Test Strips 100 ct,chlorzoxazone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Verio Test Strips 100 ct,Lorzone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Verio Test Strips 100 ct,metaxalone
+Opiate Agonists,One Touch Verio Test Strips 100 ct,benzhydrocodone/acetaminophen
+Opiate Agonists,One Touch Verio Test Strips 100 ct,hydromorphone
+Opiate Agonists,One Touch Verio Test Strips 100 ct,methadone (generic)
+Opiate Agonists (continued),One Touch Verio Test Strips 100 ct,oxycodone/acetaminophen
+Opiate Agonists (continued),One Touch Verio Test Strips 100 ct,oxycodone
+Opiate Agonists (continued),One Touch Verio Test Strips 100 ct,Roxicodone
+Opiate Agonists (continued),One Touch Verio Test Strips 100 ct,hydrocodone/acetaminophen
+Opiate Agonists (continued),One Touch Verio Test Strips 100 ct,hydrocodone/ibuprofen
+Opiate Agonists (continued),One Touch Verio Test Strips 100 ct,ibuprofen/oxycodone
+Opiate Agonists (continued),One Touch Verio Test Strips 100 ct,oxycodone/aspirin
+Opiate Agonists (continued),One Touch Verio Test Strips 100 ct,oxymorphone
+Opiate Partial Agonists,One Touch Verio Test Strips 100 ct,Suboxone
+Opiate Partial Agonists,One Touch Verio Test Strips 100 ct,buprenorphine/naloxone film (generic)
+Opiate Partial Agonists,One Touch Verio Test Strips 100 ct,buprenorphine/naloxone tablets
+Opiate Partial Agonists,One Touch Verio Test Strips 100 ct,pentazocine/naloxone
+Respiratory Corticosteroids,One Touch Verio Test Strips 100 ct,fluticasone/salmeterol (Diskus)
+Respiratory Corticosteroids,One Touch Verio Test Strips 100 ct,fluticasone/salmeterol (HFA)
+Respiratory Corticosteroids,One Touch Verio Test Strips 100 ct,fluticasone/vilanterol
+Respiratory Corticosteroids,One Touch Verio Test Strips 100 ct,fluticasone
+Antifungals,One Touch Verio Test Strips 100 ct,clotrimazole and betamethasone
+Antifungals,One Touch Verio Test Strips 100 ct,nystatin and triamcinolone
+Corticosteroids,One Touch Verio Test Strips 100 ct,hydrocortisone
+Corticosteroids,One Touch Verio Test Strips 100 ct,fluticasone
+Corticosteroids,One Touch Verio Test Strips 100 ct,fluocinolone
+Corticosteroids,One Touch Verio Test Strips 100 ct,betamethasone dipropionate and propylene glycol
+Corticosteroids,One Touch Verio Test Strips 100 ct,triamcinolone
+Corticosteroids,One Touch Verio Test Strips 100 ct,hydrocortisone butyrate
+Corticosteroids,One Touch Verio Test Strips 100 ct,Oralone
+Corticosteroids,One Touch Verio Test Strips 100 ct,desoximetasone
+Corticosteroids,One Touch Verio Test Strips 100 ct,alclometasone
+Corticosteroids,One Touch Verio Test Strips 100 ct,betamethasone dipropionate
+Corticosteroids,One Touch Verio Test Strips 100 ct,betamethasone valerate
+Corticosteroids,One Touch Verio Test Strips 100 ct,clocortolone
+Corticosteroids,One Touch Verio Test Strips 100 ct,diflorasone
+Corticosteroids,One Touch Verio Test Strips 100 ct,mometasone
+Estrogens/Treatments for menopausal symptoms,One Touch Verio Test Strips 100 ct,estradiol and norethindrone
+Estrogens/Treatments for menopausal symptoms,One Touch Verio Test Strips 100 ct,ethinyl estradiol and norethindrone
+Prenatal Vitamins,One Touch Verio Test Strips 100 ct,Vitafol-One softgel
+Prenatal Vitamins,One Touch Verio Test Strips 100 ct,Nestabs One
+Prenatal Vitamins,One Touch Verio Test Strips 100 ct,OB Complete One
+Antimalarials,One Touch Verio Test Strips 25 ct,atovaquone and proguanil
+Antimalarials,One Touch Verio Test Strips 25 ct,Malarone
+Cephalosporins,One Touch Verio Test Strips 25 ct,ceftriaxone
+Miscellaneous Antimycobacterials,One Touch Verio Test Strips 25 ct,dapsone
+Miscellaneous Antiprotozoals,One Touch Verio Test Strips 25 ct,atovaquone
+Alzheimer’s Agents,One Touch Verio Test Strips 25 ct,donepezil
+Antidepressants,One Touch Verio Test Strips 25 ct,vilazodone
+Antidepressants,One Touch Verio Test Strips 25 ct,nefazodone
+Antidepressants,One Touch Verio Test Strips 25 ct,trazodone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Verio Test Strips 25 ct,eszopiclone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Verio Test Strips 25 ct,buspirone
+Antiarrhythmic Agents,One Touch Verio Test Strips 25 ct,Nexterone
+Antiarrhythmic Agents,One Touch Verio Test Strips 25 ct,amiodarone
+Antiarrhythmic Agents,One Touch Verio Test Strips 25 ct,Pacerone
+Antiarrhythmic Agents,One Touch Verio Test Strips 25 ct,propafenone
+Beta-Adrenergic Blocking Agents,One Touch Verio Test Strips 25 ct,atenolol and chlorthalidone
+Diuretics,One Touch Verio Test Strips 25 ct,Thalitone
+Diuretics,One Touch Verio Test Strips 25 ct,chlorthalidone
+Diuretics,One Touch Verio Test Strips 25 ct,metolazone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio Test Strips 25 ct,spironolactone and HCTZ
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio Test Strips 25 ct,spironolactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio Test Strips 25 ct,Aldactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio Test Strips 25 ct,eplerenone
+"Antidiabetic Agents, Miscellaneous",One Touch Verio Test Strips 25 ct,mifepristone
+Dipeptidyl Peptidase-4 (DPP-4) Inhibitors,One Touch Verio Test Strips 25 ct,alogliptin-pioglitazone (generic)
+Thiazolidinediones,One Touch Verio Test Strips 25 ct,pioglitazone and metformin
+Thiazolidinediones,One Touch Verio Test Strips 25 ct,pioglitazone
+Thiazolidinediones,One Touch Verio Test Strips 25 ct,pioglitazone and glimepiride
+Antibacterials,One Touch Verio Test Strips 25 ct,"neomycin, polymyxin B and dexamethasone"
+Antibacterials,One Touch Verio Test Strips 25 ct,ciprofloxacin and fluocinolone
+Antibacterials,One Touch Verio Test Strips 25 ct,tobramycin and dexamethasone
+Antibacterials,One Touch Verio Test Strips 25 ct,ciprofloxacin and dexamethasone
+Antibacterials,One Touch Verio Test Strips 25 ct,"neomycin, bacitracin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Verio Test Strips 25 ct,"neomycin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Verio Test Strips 25 ct,sulfacetamide and prednisolone
+Intranasal Corticosteroids,One Touch Verio Test Strips 25 ct,azelastine/fluticasone (generic)
+Intranasal Corticosteroids,One Touch Verio Test Strips 25 ct,mometasone nasal spray
+Intranasal Corticosteroids,One Touch Verio Test Strips 25 ct,fluticasone
+Androgens,One Touch Verio Test Strips 25 ct,testosterone
+Androgens,One Touch Verio Test Strips 25 ct,testosterone cypionate
+Androgens,One Touch Verio Test Strips 25 ct,Depo-Testosterone
+Androgens,One Touch Verio Test Strips 25 ct,methyltestosterone
+Androgens,One Touch Verio Test Strips 25 ct,oxandrolone
+Androgens,One Touch Verio Test Strips 25 ct,testosterone enanthate
+Complement Inhibitors for the Treatment of Hereditary Angioedema (HAE),One Touch Verio Test Strips 25 ct,Ruconest
+Immunomodulatory Agents used to treat MS,One Touch Verio Test Strips 25 ct,Avonex
+Immunomodulatory Agents used to treat MS,One Touch Verio Test Strips 25 ct,Copaxone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Verio Test Strips 25 ct,chlorzoxazone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Verio Test Strips 25 ct,Lorzone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Verio Test Strips 25 ct,metaxalone
+Opiate Agonists,One Touch Verio Test Strips 25 ct,benzhydrocodone/acetaminophen
+Opiate Agonists,One Touch Verio Test Strips 25 ct,hydromorphone
+Opiate Agonists,One Touch Verio Test Strips 25 ct,methadone (generic)
+Opiate Agonists (continued),One Touch Verio Test Strips 25 ct,oxycodone/acetaminophen
+Opiate Agonists (continued),One Touch Verio Test Strips 25 ct,oxycodone
+Opiate Agonists (continued),One Touch Verio Test Strips 25 ct,Roxicodone
+Opiate Agonists (continued),One Touch Verio Test Strips 25 ct,hydrocodone/acetaminophen
+Opiate Agonists (continued),One Touch Verio Test Strips 25 ct,hydrocodone/ibuprofen
+Opiate Agonists (continued),One Touch Verio Test Strips 25 ct,ibuprofen/oxycodone
+Opiate Agonists (continued),One Touch Verio Test Strips 25 ct,oxycodone/aspirin
+Opiate Agonists (continued),One Touch Verio Test Strips 25 ct,oxymorphone
+Opiate Partial Agonists,One Touch Verio Test Strips 25 ct,Suboxone
+Opiate Partial Agonists,One Touch Verio Test Strips 25 ct,buprenorphine/naloxone film (generic)
+Opiate Partial Agonists,One Touch Verio Test Strips 25 ct,buprenorphine/naloxone tablets
+Opiate Partial Agonists,One Touch Verio Test Strips 25 ct,pentazocine/naloxone
+Respiratory Corticosteroids,One Touch Verio Test Strips 25 ct,fluticasone/salmeterol (Diskus)
+Respiratory Corticosteroids,One Touch Verio Test Strips 25 ct,fluticasone/salmeterol (HFA)
+Respiratory Corticosteroids,One Touch Verio Test Strips 25 ct,fluticasone/vilanterol
+Respiratory Corticosteroids,One Touch Verio Test Strips 25 ct,fluticasone
+Antifungals,One Touch Verio Test Strips 25 ct,clotrimazole and betamethasone
+Antifungals,One Touch Verio Test Strips 25 ct,nystatin and triamcinolone
+Corticosteroids,One Touch Verio Test Strips 25 ct,hydrocortisone
+Corticosteroids,One Touch Verio Test Strips 25 ct,fluticasone
+Corticosteroids,One Touch Verio Test Strips 25 ct,fluocinolone
+Corticosteroids,One Touch Verio Test Strips 25 ct,betamethasone dipropionate and propylene glycol
+Corticosteroids,One Touch Verio Test Strips 25 ct,triamcinolone
+Corticosteroids,One Touch Verio Test Strips 25 ct,hydrocortisone butyrate
+Corticosteroids,One Touch Verio Test Strips 25 ct,Oralone
+Corticosteroids,One Touch Verio Test Strips 25 ct,desoximetasone
+Corticosteroids,One Touch Verio Test Strips 25 ct,alclometasone
+Corticosteroids,One Touch Verio Test Strips 25 ct,betamethasone dipropionate
+Corticosteroids,One Touch Verio Test Strips 25 ct,betamethasone valerate
+Corticosteroids,One Touch Verio Test Strips 25 ct,clocortolone
+Corticosteroids,One Touch Verio Test Strips 25 ct,diflorasone
+Corticosteroids,One Touch Verio Test Strips 25 ct,mometasone
+Estrogens/Treatments for menopausal symptoms,One Touch Verio Test Strips 25 ct,estradiol and norethindrone
+Estrogens/Treatments for menopausal symptoms,One Touch Verio Test Strips 25 ct,ethinyl estradiol and norethindrone
+Prenatal Vitamins,One Touch Verio Test Strips 25 ct,Vitafol-One softgel
+Prenatal Vitamins,One Touch Verio Test Strips 25 ct,Nestabs One
+Prenatal Vitamins,One Touch Verio Test Strips 25 ct,OB Complete One
+Antimalarials,One Touch Verio Test Strips 50 ct,atovaquone and proguanil
+Antimalarials,One Touch Verio Test Strips 50 ct,Malarone
+Cephalosporins,One Touch Verio Test Strips 50 ct,ceftriaxone
+Miscellaneous Antimycobacterials,One Touch Verio Test Strips 50 ct,dapsone
+Miscellaneous Antiprotozoals,One Touch Verio Test Strips 50 ct,atovaquone
+Alzheimer’s Agents,One Touch Verio Test Strips 50 ct,donepezil
+Antidepressants,One Touch Verio Test Strips 50 ct,vilazodone
+Antidepressants,One Touch Verio Test Strips 50 ct,nefazodone
+Antidepressants,One Touch Verio Test Strips 50 ct,trazodone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Verio Test Strips 50 ct,eszopiclone
+"Anxiolytics, Sedatives, and Hypnotics: Miscellaneous Agents",One Touch Verio Test Strips 50 ct,buspirone
+Antiarrhythmic Agents,One Touch Verio Test Strips 50 ct,Nexterone
+Antiarrhythmic Agents,One Touch Verio Test Strips 50 ct,amiodarone
+Antiarrhythmic Agents,One Touch Verio Test Strips 50 ct,Pacerone
+Antiarrhythmic Agents,One Touch Verio Test Strips 50 ct,propafenone
+Beta-Adrenergic Blocking Agents,One Touch Verio Test Strips 50 ct,atenolol and chlorthalidone
+Diuretics,One Touch Verio Test Strips 50 ct,Thalitone
+Diuretics,One Touch Verio Test Strips 50 ct,chlorthalidone
+Diuretics,One Touch Verio Test Strips 50 ct,metolazone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio Test Strips 50 ct,spironolactone and HCTZ
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio Test Strips 50 ct,spironolactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio Test Strips 50 ct,Aldactone
+Mineralocorticoid (Aldosterone) Receptor Antagonists,One Touch Verio Test Strips 50 ct,eplerenone
+"Antidiabetic Agents, Miscellaneous",One Touch Verio Test Strips 50 ct,mifepristone
+Dipeptidyl Peptidase-4 (DPP-4) Inhibitors,One Touch Verio Test Strips 50 ct,alogliptin-pioglitazone (generic)
+Thiazolidinediones,One Touch Verio Test Strips 50 ct,pioglitazone and metformin
+Thiazolidinediones,One Touch Verio Test Strips 50 ct,pioglitazone
+Thiazolidinediones,One Touch Verio Test Strips 50 ct,pioglitazone and glimepiride
+Antibacterials,One Touch Verio Test Strips 50 ct,"neomycin, polymyxin B and dexamethasone"
+Antibacterials,One Touch Verio Test Strips 50 ct,ciprofloxacin and fluocinolone
+Antibacterials,One Touch Verio Test Strips 50 ct,tobramycin and dexamethasone
+Antibacterials,One Touch Verio Test Strips 50 ct,ciprofloxacin and dexamethasone
+Antibacterials,One Touch Verio Test Strips 50 ct,"neomycin, bacitracin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Verio Test Strips 50 ct,"neomycin, polymyxin B and hydrocortisone"
+Antibacterials,One Touch Verio Test Strips 50 ct,sulfacetamide and prednisolone
+Intranasal Corticosteroids,One Touch Verio Test Strips 50 ct,azelastine/fluticasone (generic)
+Intranasal Corticosteroids,One Touch Verio Test Strips 50 ct,mometasone nasal spray
+Intranasal Corticosteroids,One Touch Verio Test Strips 50 ct,fluticasone
+Androgens,One Touch Verio Test Strips 50 ct,testosterone
+Androgens,One Touch Verio Test Strips 50 ct,testosterone cypionate
+Androgens,One Touch Verio Test Strips 50 ct,Depo-Testosterone
+Androgens,One Touch Verio Test Strips 50 ct,methyltestosterone
+Androgens,One Touch Verio Test Strips 50 ct,oxandrolone
+Androgens,One Touch Verio Test Strips 50 ct,testosterone enanthate
+Complement Inhibitors for the Treatment of Hereditary Angioedema (HAE),One Touch Verio Test Strips 50 ct,Ruconest
+Immunomodulatory Agents used to treat MS,One Touch Verio Test Strips 50 ct,Avonex
+Immunomodulatory Agents used to treat MS,One Touch Verio Test Strips 50 ct,Copaxone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Verio Test Strips 50 ct,chlorzoxazone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Verio Test Strips 50 ct,Lorzone
+Centrally Acting Skeletal Muscle Relaxants,One Touch Verio Test Strips 50 ct,metaxalone
+Opiate Agonists,One Touch Verio Test Strips 50 ct,benzhydrocodone/acetaminophen
+Opiate Agonists,One Touch Verio Test Strips 50 ct,hydromorphone
+Opiate Agonists,One Touch Verio Test Strips 50 ct,methadone (generic)
+Opiate Agonists (continued),One Touch Verio Test Strips 50 ct,oxycodone/acetaminophen
+Opiate Agonists (continued),One Touch Verio Test Strips 50 ct,oxycodone
+Opiate Agonists (continued),One Touch Verio Test Strips 50 ct,Roxicodone
+Opiate Agonists (continued),One Touch Verio Test Strips 50 ct,hydrocodone/acetaminophen
+Opiate Agonists (continued),One Touch Verio Test Strips 50 ct,hydrocodone/ibuprofen
+Opiate Agonists (continued),One Touch Verio Test Strips 50 ct,ibuprofen/oxycodone
+Opiate Agonists (continued),One Touch Verio Test Strips 50 ct,oxycodone/aspirin
+Opiate Agonists (continued),One Touch Verio Test Strips 50 ct,oxymorphone
+Opiate Partial Agonists,One Touch Verio Test Strips 50 ct,Suboxone
+Opiate Partial Agonists,One Touch Verio Test Strips 50 ct,buprenorphine/naloxone film (generic)
+Opiate Partial Agonists,One Touch Verio Test Strips 50 ct,buprenorphine/naloxone tablets
+Opiate Partial Agonists,One Touch Verio Test Strips 50 ct,pentazocine/naloxone
+Respiratory Corticosteroids,One Touch Verio Test Strips 50 ct,fluticasone/salmeterol (Diskus)
+Respiratory Corticosteroids,One Touch Verio Test Strips 50 ct,fluticasone/salmeterol (HFA)
+Respiratory Corticosteroids,One Touch Verio Test Strips 50 ct,fluticasone/vilanterol
+Respiratory Corticosteroids,One Touch Verio Test Strips 50 ct,fluticasone
+Antifungals,One Touch Verio Test Strips 50 ct,clotrimazole and betamethasone
+Antifungals,One Touch Verio Test Strips 50 ct,nystatin and triamcinolone
+Corticosteroids,One Touch Verio Test Strips 50 ct,hydrocortisone
+Corticosteroids,One Touch Verio Test Strips 50 ct,fluticasone
+Corticosteroids,One Touch Verio Test Strips 50 ct,fluocinolone
+Corticosteroids,One Touch Verio Test Strips 50 ct,betamethasone dipropionate and propylene glycol
+Corticosteroids,One Touch Verio Test Strips 50 ct,triamcinolone
+Corticosteroids,One Touch Verio Test Strips 50 ct,hydrocortisone butyrate
+Corticosteroids,One Touch Verio Test Strips 50 ct,Oralone
+Corticosteroids,One Touch Verio Test Strips 50 ct,desoximetasone
+Corticosteroids,One Touch Verio Test Strips 50 ct,alclometasone
+Corticosteroids,One Touch Verio Test Strips 50 ct,betamethasone dipropionate
+Corticosteroids,One Touch Verio Test Strips 50 ct,betamethasone valerate
+Corticosteroids,One Touch Verio Test Strips 50 ct,clocortolone
+Corticosteroids,One Touch Verio Test Strips 50 ct,diflorasone
+Corticosteroids,One Touch Verio Test Strips 50 ct,mometasone
+Estrogens/Treatments for menopausal symptoms,One Touch Verio Test Strips 50 ct,estradiol and norethindrone
+Estrogens/Treatments for menopausal symptoms,One Touch Verio Test Strips 50 ct,ethinyl estradiol and norethindrone
+Prenatal Vitamins,One Touch Verio Test Strips 50 ct,Vitafol-One softgel
+Prenatal Vitamins,One Touch Verio Test Strips 50 ct,Nestabs One
+Prenatal Vitamins,One Touch Verio Test Strips 50 ct,OB Complete One
+Respiratory Beta-Adrenergic Agonists,Proair HFA,ProAir Digihaler
+Respiratory Beta-Adrenergic Agonists,Proair HFA,ProAir Respiclick
+Urinary Anti-infectives,Sodium Phenylbutyrate powder,"methenamine, methylene blue, phenyl salicylate, sodium phosphate, and hyoscyamine"
+Urinary Anti-infectives,Sodium Phenylbutyrate powder,"methenamine, sodium phosphate, methylene blue and hyoscyamine"
+"Anxiolytics, Sedatives, and Hypnotics: Barbiturates",Sodium Phenylbutyrate powder,Amytal Sodium
+Antiulcer Agents and Acid Suppressants,Sodium Phenylbutyrate powder,omeprazole/sodium bicarbonate (generic)
+Inhaled Mast-Cell Stabilizers,Sodium Phenylbutyrate powder,cromolyn sodium
+Urinary Anti-infectives,Sodium Phenylbutyrate tablet,"methenamine, methylene blue, phenyl salicylate, sodium phosphate, and hyoscyamine"
+Urinary Anti-infectives,Sodium Phenylbutyrate tablet,"methenamine, sodium phosphate, methylene blue and hyoscyamine"
+"Anxiolytics, Sedatives, and Hypnotics: Barbiturates",Sodium Phenylbutyrate tablet,Amytal Sodium
+Antiulcer Agents and Acid Suppressants,Sodium Phenylbutyrate tablet,omeprazole/sodium bicarbonate (generic)
+Inhaled Mast-Cell Stabilizers,Sodium Phenylbutyrate tablet,cromolyn sodium
+Urinary Anti-infectives,Sodium Polystyrene Sulfonate,"methenamine, methylene blue, phenyl salicylate, sodium phosphate, and hyoscyamine"
+Urinary Anti-infectives,Sodium Polystyrene Sulfonate,"methenamine, sodium phosphate, methylene blue and hyoscyamine"
+"Anxiolytics, Sedatives, and Hypnotics: Barbiturates",Sodium Polystyrene Sulfonate,Amytal Sodium
+Antiulcer Agents and Acid Suppressants,Sodium Polystyrene Sulfonate,omeprazole/sodium bicarbonate (generic)
+Inhaled Mast-Cell Stabilizers,Sodium Polystyrene Sulfonate,cromolyn sodium
+Prenatal Vitamins,Vitafol Nano,Vitafol FE+ softgel
+Prenatal Vitamins,Vitafol Nano,Vitafol Prenatal w/iron Gummies
+Prenatal Vitamins,Vitafol Nano,Vitafol-OB
+Prenatal Vitamins,Vitafol Nano,Vitafol-OB+DHA
+Prenatal Vitamins,Vitafol Nano,Vitafol-One softgel
+Prenatal Vitamins,Vitafol Nano,Vitafol Ultra softgel
+Prenatal Vitamins (continued),Vitafol Nano,Vitafol Fe + Docusate

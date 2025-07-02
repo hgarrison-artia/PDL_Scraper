@@ -141,7 +141,7 @@ class DrugMatcherApp:
             # Remove the current drug from the queue
             if drug in self.not_in_data:
                 self.not_in_data.remove(drug)
-            self.current_index += 1
+            # Process the next drug without changing the current index
             self.process_next(self.current_index)
 
         selector = DrugSelectorGUI(

@@ -184,10 +184,17 @@ AUTONOMIC AND CNS MEDICATIONS,"Fingolimod capsule, 0.5 mg",fingolimod 0.5mg gene
 AUTONOMIC AND CNS MEDICATIONS,Fintepla,FINTEPLA,Non-Preferred
 ENDOCRINE MEDICATIONS,Forteo,FORTEO,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Fosinopril,fosinopril generic,Preferred
+DIABETIC SUPPLIES,FreeStyle Libre 14 Day Reader,"FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred
+DIABETIC SUPPLIES,FreeStyle Libre 14 Day Sensor Kit,"FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred
+DIABETIC SUPPLIES,FreeStyle Libre 2 Reader,"FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred
+DIABETIC SUPPLIES,FreeStyle Libre 2 Sensor,"FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred
+DIABETIC SUPPLIES,FreeStyle Libre 3 Sensor,"FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred
 DIABETIC SUPPLIES,Freestyle Libre,"FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred
+DIABETIC SUPPLIES,Freestyle Libre 14-Day,"FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred
 DIABETIC SUPPLIES,Freestyle Libre 2,"FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred
 DIABETIC SUPPLIES,Freestyle Libre 2 Plus,"FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred
 DIABETIC SUPPLIES,Freestyle Libre 3 Plus,"FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred
+DIABETIC SUPPLIES,Freestyle Libre 3 Reader,"FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred
 IMMUNOSUPPRESSANT DRUGS,Fruzaqla,FRUZAQLA,Preferred
 IMMUNOLOGICALS,Fulphila,FULPHILA,Non-Preferred
 ANTIINFECTIVES,Fuzeon,FUZEON,Non-Preferred
@@ -284,6 +291,7 @@ GASTROINTESTINAL MEDICATIONS,Linzess,LINZESS,Preferred
 CARDIOVASCULAR MEDICATIONS,Lisinopril,lisinopril generic,Preferred
 GASTROINTESTINAL MEDICATIONS,Livdelzi capsule,LIVDELZI,Non-Preferred
 GASTROINTESTINAL MEDICATIONS,Livmarli,LIVMARLI,Non-Preferred
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Lo Loestrin Fe,LO LOESTRIN FE,Non-Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Lokelma,LOKELMA,Preferred
 IMMUNOSUPPRESSANT DRUGS,Lorbrena,LORBRENA,Preferred
 CARDIOVASCULAR MEDICATIONS,Losartan,losartan generic,Preferred
@@ -292,6 +300,8 @@ IMMUNOSUPPRESSANT DRUGS,Lumakras,LUMAKRAS,Non-Preferred
 OPHTHALMIC MEDICATIONS,Lumigan 2.5 mL,LUMIGAN,Preferred
 OPHTHALMIC MEDICATIONS,Lumigan 5 mL,LUMIGAN,Preferred
 OPHTHALMIC MEDICATIONS,Lumigan 7.5 mL,LUMIGAN,Preferred
+IMMUNOSUPPRESSANT DRUGS,Lupron Depot-Ped 1-Month,"LUPRON DEPOT PEDIATRIC 7.5MG, 15MG",Preferred
+IMMUNOSUPPRESSANT DRUGS,Lupron Depot-Ped 3-Month,"LUPRON DEPOT PEDIATRIC 11.25MG, 30MG",Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Lurasidone,lurasidone generic,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Lybalvi,LYBALVI,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Lynparza,LYNPARZA,Preferred
@@ -320,6 +330,7 @@ OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Myfembree Uterine Fibroids,MYFEMBREE,Pre
 ENDOCRINE MEDICATIONS,"NP Thyroid 30 mg, Tablet","np thyroid 30mg, 60mg 90mg tab generic",Preferred
 ENDOCRINE MEDICATIONS,"NP Thyroid 60 mg, Tablet","np thyroid 30mg, 60mg 90mg tab generic",Preferred
 ENDOCRINE MEDICATIONS,"NP Thyroid 90 mg, Tablet","np thyroid 30mg, 60mg 90mg tab generic",Preferred
+AUTONOMIC AND CNS MEDICATIONS,Naloxone carpuject,naloxone injection generic,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Naloxone nasal spray,naloxone nasal spray OTC,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Naloxone vial,naloxone injection generic,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Namzaric,NAMZARIC,Non-Preferred
@@ -419,6 +430,7 @@ ANTIINFECTIVES,Prezcobix,PREZCOBIX,Preferred
 ANTIINFECTIVES,Prezista oral suspension,"PREZISTA 75mg, 150mg, suspension",Preferred
 ANTIINFECTIVES,"Prezista tablet, 150 mg","PREZISTA 75mg, 150mg, suspension",Preferred
 ANTIINFECTIVES,"Prezista tablet, 75 mg","PREZISTA 75mg, 150mg, suspension",Preferred
+GASTROINTESTINAL MEDICATIONS,Prilosec DR packet for oral suspension,PRILOSEC POWDER,Non-Preferred
 IMMUNOLOGICALS,Procrit,PROCRIT,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Prograf packet for oral suspension,PROGRAF GRANULES,Non-Preferred
 IMMUNOLOGICALS,Promacta oral suspension,PROMACTA,Preferred
@@ -669,6 +681,7 @@ AUTONOMIC AND CNS MEDICATIONS,Zilbrysq,ZILBRYSQ,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Ziprasidone,ziprasidone caps generic,Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Zokinvy,ZOKINVY,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Zolpidem,zolpidem generic,Preferred
+AUTONOMIC AND CNS MEDICATIONS,Zolpidem CR,zolpidem er generic,Preferred
 IMMUNOLOGICALS,Zomacton,ZOMACTON,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Zonisade,ZONISADE,Non-Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Zontivity,ZONTIVITY,Non-Preferred

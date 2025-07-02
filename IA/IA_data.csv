@@ -1,4 +1,8 @@
 therapeutic_class,capsule_name,pdl_name
+ANTIPSYCHOTICS - ATYPICALS,Abilify Asimtufii,Abilify Asimtufii
+ANTIPSYCHOTICS - ATYPICALS,Abilify Maintena,ABILIFY MAINTENA
+ANTIPSYCHOTICS - ATYPICALS,Abilify MyCite,Abilify MyCite
+ANTIPSYCHOTICS - ATYPICALS,Abilify tablet,ABILIFY
 "ANTI-INFLAMMATORIES, NON-NSAID",Abrilada Ankylosing Spondylitis,Abrilada
 "ANTI-INFLAMMATORIES, NON-NSAID",Abrilada Crohn's Disease (pediatric),Abrilada
 "ANTI-INFLAMMATORIES, NON-NSAID",Abrilada Crohn’s Disease (adult),Abrilada
@@ -134,8 +138,14 @@ Erythropoeisis Stimulating Agents,Aranesp,ARANESP ALBUMIN FREE
 "ANTI-INFLAMMATORIES, NON-NSAID",Arcalyst Recurrent Pericarditis (RP),Arcalyst
 Alzheimer - Cholinomimetics,Aricept,ARICEPT
 Amino Glycosides,Arikayce,Arikayce
+ANTIPSYCHOTICS - ATYPICALS,Aripiprazole ODT,aripiprazole odt
+ANTIPSYCHOTICS - ATYPICALS,Aripiprazole oral solution,aripiprazole sol
+ANTIPSYCHOTICS - ATYPICALS,Aripiprazole tablet,aripiprazole tablets
+ANTIPSYCHOTICS - ATYPICALS,Aristada,ARISTADA
+ANTIPSYCHOTICS - ATYPICALS,Aristada Initio,ARISTADA
 THYROID HORMONES,Armour Thyroid,ARMOUR THYROID
 ANTIASTHMATIC - STEROID INHALANTS,Arnuity Ellipta,ARNUITY ELLIPTA
+ANTIPSYCHOTICS - ATYPICALS,Asenapine,Asenapine
 ANTIASTHMATIC - STEROID INHALANTS,Asmanex HFA,Asmanex HFA
 ANTIASTHMATIC - STEROID INHALANTS,Asmanex Twisthaler,ASMANEX
 IMMUNOSUPPRESSANTS,Astagraf XL ER capsule,ASTAGRAF XL
@@ -190,6 +200,7 @@ GI - MISC.,Bylvay Progressive Familial Intrahepatic Cholestatis (PFIC),Bylvay
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Calquence,Calquence
 Cardiovascular Agents – Other,Camzyos,Camzyos
 ARB'S,Candesartan,Candesartan Cilexetil
+ANTIPSYCHOTICS - ATYPICALS,Caplyta,Caplyta
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Caprelsa,CAPRELSA
 ACE Inhibitors,Captopril,Captopril
 ANTIBIOTICS - MISC.,Cayston,CAYSTON
@@ -201,10 +212,15 @@ GI - MISC.,Cholbam capsule,CHOLBAM
 "ANTI-INFLAMMATORIES, NON-NSAID",Cibinqo Atopic Dermatitis (pediatric),Cibinqo
 "ANTI-INFLAMMATORIES, NON-NSAID",Cimzia,CIMZIA
 Vaginal - Antibacterials,Cleocin 2% cream,CLEOCIN	CRE 2% VAG
+Vaginal - Antibacterials,Cleocin ovules / vaginal suppository,CLEOCIN	SUP 100MG
 Vaginal - Antibacterials,Clindamycin 2% Cream,Clindamycin Phosphate Vaginal
 Vaginal - Antibacterials,Clindesse 2% prefilled applicator cream,CLINDESSE
 ANTICONVULSANTS,Clobazam oral suspension,Clobazam
 ANTICONVULSANTS,Clobazam tablet,Clobazam
+Antipsychotics - Special Atypicals,Clozapine ODT,CLOZAPINE ODT
+Antipsychotics - Special Atypicals,Clozapine tablet,Clozapine
+Antipsychotics - Special Atypicals,Clozaril,CLOZARIL
+Psychotherapeutic Combination,Cobenfy capsule,Cobenfy
 OP. CARBONIC ANHYDRASE INHIBITORS/COMBO,Combigan,COMBIGAN
 ANTIASTHMATIC - ADRENERGIC COMBOS,Combivent Respimat inhalation aerosol solution,COMBIVENT RESPIMAT
 Antiretrovirals - Combinations,Complera,COMPLERA
@@ -287,8 +303,10 @@ ANTICONVULSANTS,Eprontia,Eprontia
 ANTICONVULSANTS,Equetro,EQUETRO
 Antineoplastics - Antiandrogens,Erleada,Erleada
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Erlotinib,erlotinib
+ANTIPSYCHOTICS - ATYPICALS,Erzofri prefilled syringe,Erzofri
 Idiopathic Pulmonary Fibrosis,Esbriet,ESBRIET
 GI - PROTON PUMP INHIBITOR,Esomeprazole Capsule,Esomeprazole mag caps
+GI - PROTON PUMP INHIBITOR,Esomeprazole Packet,esomeprazole granule
 Antihemophilia Factor VIII Agents,Esperoct,Esperoct
 Atopic Dermatitis,Eucrisa,Eucrisa
 Antiretrovirals - Combinations,Evotaz,EVOTAZ
@@ -296,6 +314,7 @@ Muscular Atrophy Agents,Evrysdi,Evrysdi
 Alzheimer - Cholinomimetics,Exelon,EXELON DIS
 OP. ANTIINFLAMMATORY / STEROIDS OPHTH.,Eysuvis ophthalmic suspension,Eysuvis
 Complement Inhibitors,Fabhalta,Fabhalta
+ANTIPSYCHOTICS - ATYPICALS,Fanapt,FANAPT
 Diabetic- Sodium-Glucose Co-Transporter 2 (SGLT2) Inhibitors,Farxiga,FARXIGA
 ANTI-IGE & ANTI-INTERLEUKIN ANTIBODIES,Fasenra auto-injector,Fasenra
 ANTI-IGE & ANTI-INTERLEUKIN ANTIBODIES,Fasenra prefilled syringe,Fasenra
@@ -330,6 +349,7 @@ Gi - Antiperistaltic Agents,Gattex vial,GATTEX
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Gavreto,Gavreto
 GROWTH HORMONE,Genotropin,GENOTROPIN
 Antiretrovirals - Combinations,Genvoya,Genvoya
+ANTIPSYCHOTICS - ATYPICALS,Geodon,GEODON
 Multiple Sclerosis Agents – Non-Interferons,Gilenya capsule,GILENYA
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Gilotrif,GILOTRIF
 MULTIPLE SCLEROSIS AGENTS,Glatiramer Acetate prefilled syringe,Glatiramer
@@ -416,6 +436,10 @@ NEUROLOGICS - MISC.,Ingrezza titration pack,Ingrezza
 DIABETIC - INSULIN,Insulin Glargine,Insulin glargine
 DIABETIC - INSULIN,Insulin Lispro,insulin lispro
 Antiretrovirals - Rti - Non - Nucleoside Analogues,Intelence,INTELENCE
+ANTIPSYCHOTICS - ATYPICALS,Invega ER,INVEGA
+ANTIPSYCHOTICS - ATYPICALS,Invega Hafyera,Invega Hafyera
+ANTIPSYCHOTICS - ATYPICALS,Invega Sustenna,INVEGA SUSTENNA
+ANTIPSYCHOTICS - ATYPICALS,Invega Trinza,INVEGA TRINZA
 Diabetic- SGLT2 Inhibitor Combinations,Invokamet,INVOKAMET
 Diabetic- SGLT2 Inhibitor Combinations,Invokamet XR,Invokamet XR
 Diabetic- Sodium-Glucose Co-Transporter 2 (SGLT2) Inhibitors,Invokana,INVOKANA
@@ -464,6 +488,7 @@ GI - PROTON PUMP INHIBITOR,Lansoprazole DR capsule,lansoprazole caps
 GI - PROTON PUMP INHIBITOR,Lansoprazole ODT,Lansoprazole odt
 DIABETIC - INSULIN PENFILLS,Lantus SoloStar,LANTUS SOLOSTAR
 DIABETIC - INSULIN,Lantus vial,LANTUS	INJ 100/ML
+ANTIPSYCHOTICS - ATYPICALS,Latuda,LATUDA
 HEPATITIS C AGENTS,Ledipasvir / Sofosbuvir,Ledipasvir/Sofosbuvir
 Pulmonary Anti-Hypertensives-Endothelin Receptor Antagonist,Letairis,LETAIRIS
 GRANULOCYTE CSF,Leukine,LEUKINE
@@ -487,6 +512,8 @@ OP. PROSTAGLANDINS,Lumigan 2.5 mL,LUMIGAN
 OP. PROSTAGLANDINS,Lumigan 5 mL,LUMIGAN
 OP. PROSTAGLANDINS,Lumigan 7.5 mL,LUMIGAN
 SLE agents,Lupkynis,Lupkynis
+ANTIPSYCHOTICS - ATYPICALS,Lurasidone,Lurasidone
+ANTIPSYCHOTICS - ATYPICALS,Lybalvi,Lybalvi
 Antineoplastics - Parp Inhibitors,Lynparza,LYNPARZA
 ANTICONVULSANTS,Lyrica,LYRICA
 DIABETIC - INSULIN PENFILLS,"Lyumjev KwikPen, U-100",Lyumjev KwikPen
@@ -514,6 +541,7 @@ ANTI-THROMBOCYTOPENICS,Mulpleta,Mulpleta
 Estrogen Combos,Myfembree Endometriosis,Myfembree
 Estrogen Combos,Myfembree Uterine Fibroids,Myfembree
 THYROID HORMONES,NP Thyroid,NP Thyroid
+NARCOTIC - ANTAGONISTS,Naloxone carpuject,naloxone injection solution
 NARCOTIC - ANTAGONISTS,Naloxone nasal spray,naloxone nasal
 NARCOTIC - ANTAGONISTS,Naloxone vial,naloxone injection solution
 Alzheimer - Cholinomimetics,Namenda,NAMENDA
@@ -545,10 +573,12 @@ DIABETIC - INSULIN,Novolog,NOVOLOG
 DIABETIC - INSULIN,Novolog 70/30,NOVOLOG MIX 70/30
 DIABETIC - INSULIN PENFILLS,Novolog 70/30 FlexPen,Novolog Mix FlexPen
 DIABETIC - INSULIN PENFILLS,Novolog FlexPen,Novolog Flexpen
+DIABETIC - INSULIN,Novolog cartridge,NOVOLOG
 Antihemophilia Factor VII Agents,Novoseven RT,NOVOSEVEN
 ANTI-THROMBOCYTOPENICS,Nplate,NPLATE
 Antineoplastics - Antiandrogens,Nubeqa,Nubeqa
 ANTI-IGE & ANTI-INTERLEUKIN ANTIBODIES,Nucala,Nucala Auto-Injector
+ANTIPSYCHOTICS - ATYPICALS,Nuplazid,Nuplazid
 CGRP INHIBITORS,Nurtec ODT Acute Treatment,Nurtec
 CGRP INHIBITORS,Nurtec ODT Migraine Prophylaxis,Nurtec
 GROWTH HORMONE,Nutropin AQ,NUTROPIN AQ
@@ -562,6 +592,8 @@ Idiopathic Pulmonary Fibrosis,Ofev,OFEV
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Ogsiveo,Ogsiveo
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Ojemda,Ojemda
 Psychotherapeutic Combination,Olanzapine And Fluoxetine,Olanzapine-Fluoxetine HCl
+ANTIPSYCHOTICS - ATYPICALS,Olanzapine ODT,olanzapine tablet disperse
+ANTIPSYCHOTICS - ATYPICALS,Olanzapine tablet,olanzapine
 ARB'S,Olmesartan,Olmesartan
 UREA CYCLE DISORDER - AGENTS,Olpruva,Olpruva
 "ANTI-INFLAMMATORIES, NON-NSAID",Olumiant,Olumiant
@@ -590,12 +622,15 @@ Muscle Relaxants,Orphenadrine ER,orphenadrine citrate er tab
 Influenza Agents,Oseltamivir,Oseltamivir
 "ANTI-INFLAMMATORIES, NON-NSAID",Otezla,OTEZLA
 Diabetic- GLP-1 Receptor Agonists,Ozempic,Ozempic
+ANTIPSYCHOTICS - ATYPICALS,Paliperidone ER,paliperidone er
 Phenylketonuria,Palynziq prefilled syringe,Palynziq
 GI - PROTON PUMP INHIBITOR,Pantoprazole DR packet for oral suspension,Pantoprazole oral packet
 GI - PROTON PUMP INHIBITOR,Pantoprazole tablet,Pantoprazole Sodium
+Antidepressants - Selected SSRI's,"Paroxetine 7.5 mg, IR capsule",Paroxetine HCl
 COVID-19 AGENTS,"Paxlovid tablet therapy pack, 150 mg / 100 mg",Paxlovid
 COVID-19 AGENTS,"Paxlovid tablet therapy pack, 300 mg / 100 mg",Paxlovid
 ACE Inhibitors,Perindopril,Perindopril Erbumine
+ANTIPSYCHOTICS - ATYPICALS,Perseris,Perseris
 UREA CYCLE DISORDER - AGENTS,Pheburane,Pheburane Pellet
 CONTRACEPTIVES - PATCHES/ VAGINAL PRODUCTS,Phexxi,Phexxi
 MULTIPLE SCLEROSIS AGENTS,Ponvory starter pack,Ponvory
@@ -627,6 +662,8 @@ GI - ULCER ANTI-INFECTIVE,Pylera,PYLERA
 PYRUVATE KINASE ACTIVATORS,Pyrukynd tablet,Pyrukynd
 STIMULANTS - OTHER STIMULANTS / LIKE STIMULANTS,Qelbree,Qelbree
 Diabetic- SGLT2 Inhibitor Combinations,Qtern,Qtern
+ANTIPSYCHOTICS - ATYPICALS,Quetiapine,quetiapine fumarate
+ANTIPSYCHOTICS - ATYPICALS,Quetiapine ER,Quetiapine ER
 STIMULANTS - METHYLPHENIDATE - LONG ACTING,Quillichew XR,Quillichew ER
 STIMULANTS - METHYLPHENIDATE - LONG ACTING,Quillivant XR,QUILLIVANT XR
 ACE Inhibitors,Quinapril,Quinapril HCl
@@ -649,12 +686,20 @@ ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Retevmo,Retevmo
 PULMONARY ANTI-HYPERTENSIVES,Revatio oral suspension,Revatio
 PULMONARY ANTI-HYPERTENSIVES,Revatio tablet,Revatio
 ANTINEOPLASTICS - MISC.,Revlimid,REVLIMID
+ANTIPSYCHOTICS - ATYPICALS,Rexulti Adjunct Treatment of Major Depressive Disorder,REXULTI
+ANTIPSYCHOTICS - ATYPICALS,Rexulti Schizophrenia,REXULTI
 Antiretrovirals - Protease Inhibitors,Reyataz,REYATAZ
 MIGRAINE - SELECTIVE SEROTONIN AGONISTS (5HT)--Tabs,Reyvow,Reyvow
 Endocrine Metabolic Agents,Rezdiffra,Rezdiffra
 ANTINEOPLASTICS - MISC.,Rezlidhia,Rezlidhia
 IMMUNOSUPPRESSANTS,Rezurock,Rezurock
 "ANTI-INFLAMMATORIES, NON-NSAID",Rinvoq,Rinvoq
+ANTIPSYCHOTICS - ATYPICALS,Risperdal Consta,RISPERDAL CONSTA
+ANTIPSYCHOTICS - ATYPICALS,Risperdal oral solution,RISPERDAL
+ANTIPSYCHOTICS - ATYPICALS,Risperdal tablet,RISPERDAL
+ANTIPSYCHOTICS - ATYPICALS,Risperidone ODT,risperidone tablet disperse
+ANTIPSYCHOTICS - ATYPICALS,Risperidone oral solution,risperidone
+ANTIPSYCHOTICS - ATYPICALS,Risperidone tablet,risperidone
 Alzheimer - Cholinomimetics,Rivastigmine capsule,RIVASTIGMINE CAP
 Antihemophilia Factor IX Agents,Rixubis,RIXUBIS
 GRANULOCYTE CSF,Rolvedon prefilled syringe,Rolvedon
@@ -664,12 +709,15 @@ Antineoplastics - Parp Inhibitors,Rubraca,Rubraca
 Hereditary Angioedema Agents,Ruconest,Ruconest
 Diabetic- GLP-1 Receptor Agonists,Rybelsus,Rybelsus
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Rydapt,Rydapt
+ANTIPSYCHOTICS - ATYPICALS,Rykindo,Rykindo
 K Removing Resins,SPS,SPS
 ANTICONVULSANTS,Sabril packet for oral solution,SABRIL
 ANTICONVULSANTS,Sabril tablet,SABRIL
+ANTIPSYCHOTICS - ATYPICALS,Saphris,SAPHRIS
 Phenylketonuria,Sapropterin dihydrochloride packet for oral solution,Sapropterin
 Phenylketonuria,Sapropterin dihydrochloride tablet,Sapropterin
 ANTICOAGULANTS,Savaysa,SAVAYSA
+ANTIPSYCHOTICS - ATYPICALS,Secuado,Secuado
 Diabetic- SGLT2 Inhibitor Combinations,Segluromet,Segluromet
 "ANTI-INFLAMMATORIES, NON-NSAID","Selarsdi Crohn's Disease (adult), intravenous vial",Selarsdi
 "ANTI-INFLAMMATORIES, NON-NSAID","Selarsdi Crohn's Disease (adult), prefilled syringe",Selarsdi
@@ -687,6 +735,8 @@ Diabetic- SGLT2 Inhibitor Combinations,Segluromet,Segluromet
 "ANTI-INFLAMMATORIES, NON-NSAID","Selarsdi Ulcerative Colitis (adult), subcutaneous vial",Selarsdi
 ANTIRETROVIRALS - ENTRY INHIBITORS,Selzentry,SELZENTRY
 DIABETIC - INSULIN,Semglee,Semglee
+ANTIPSYCHOTICS - ATYPICALS,Seroquel,SEROQUEL
+ANTIPSYCHOTICS - ATYPICALS,Seroquel XR,SEROQUEL XR
 PHOSPHATE BINDERS,Sevelamer Carbonate Pak,Sevelamer carbonate Pak
 PHOSPHATE BINDERS,Sevelamer carbonate tablets,Sevelamer carbonate Tablets
 PHOSPHATE BINDERS,Sevelamer hydrochloride tablets,sevelamer hcl
@@ -711,6 +761,7 @@ GROWTH HORMONE,Skytrofa,Skytrofa
 Contraceptives - Progestin Only,Slynd,Slynd
 UREA CYCLE DISORDER - AGENTS,Sodium Phenylbutyrate powder,Sodium phenylbutyrate
 UREA CYCLE DISORDER - AGENTS,Sodium Phenylbutyrate tablet,Sodium phenylbutyrate
+K Removing Resins,Sodium Polystyrene Sulfonate,Sodium Polystyrene Sulfonate
 HEPATITIS C AGENTS,Sofosbuvir / Velpatasvir,Sofosbuvir/Velpatasvir
 GROWTH HORMONE,Sogroya,Sogroya
 Endocrine Metabolic Agents,Sohonos,Sohonos
@@ -803,6 +854,7 @@ CGRP INHIBITORS,Ubrelvy,Ubrelvy
 GRANULOCYTE CSF,Udenyca,Udenyca
 PULMONARY ANTI-HYPERTENSIVES,Uptravi tablet,Uptravi
 PULMONARY ANTI-HYPERTENSIVES,Uptravi vial,Uptravi
+ANTIPSYCHOTICS - ATYPICALS,Uzedy,Uzedy
 Topical - Antineoplastics,Valchlor,Valchlor
 ARB'S,Valsartan,Valsartan
 ARB'S,Valsartan oral solution,Valsartan oral solution
@@ -817,6 +869,7 @@ PULMONARY ANTI-HYPERTENSIVES,Ventavis,VENTAVIS
 ANTIASTHMATIC - BETA - ADRENERGICS,Ventolin HFA,VENTOLIN HFA
 Endocrine Metabolic Agents,Veozah tablet,Veozah
 OP. MISC,Verkazia,Verkazia
+Antipsychotics - Special Atypicals,Versacloz,VERSACLOZ
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Verzenio,Verzenio
 OP. MISC,Vevye ophthalmic solution,Vevye
 "GI, Constipation - IBS-OIC",Viberzi,Viberzi
@@ -840,6 +893,9 @@ GI - MISC.,Voquezna,Voquezna
 GI - ULCER ANTI-INFECTIVE,Voquezna Dual Pak,Voquezna Pak
 GI - ULCER ANTI-INFECTIVE,Voquezna Triple Pak,Voquezna Pak
 HEPATITIS C AGENTS,Vosevi,Vosevi
+ANTIPSYCHOTICS - ATYPICALS,Vraylar Adjunct Treatment of Major Depressive Disorder,VRAYLAR
+ANTIPSYCHOTICS - ATYPICALS,Vraylar Bipolar I Disorder,VRAYLAR
+ANTIPSYCHOTICS - ATYPICALS,Vraylar Schizophrenia,VRAYLAR
 ANTI-PSORIATICS - NON-BIOLOGICALS,Vtama Atopic Dermatitis,Vtama
 ANTI-PSORIATICS - NON-BIOLOGICALS,Vtama Plaque Psoriasis,Vtama
 Amyloidosis Treatments,Vyndamax,Vyndamax
@@ -923,7 +979,10 @@ Op. Antiallergics - Antihistamines,Zerviate (Cetirizine) ophthalmic solution,Zer
 Antiretrovirals - Rti - Nucleoside/Nucleotide Analogues,Ziagen,ZIAGEN
 GRANULOCYTE CSF,Ziextenzo,Ziextenzo
 Complement Inhibitors,Zilbrysq,Zilbrysq
+ANTIPSYCHOTICS - ATYPICALS,Ziprasidone Injectable,Ziprasidone Inj
+ANTIPSYCHOTICS - ATYPICALS,Ziprasidone Oral,ziprasidone hcl
 Progeria Treatments,Zokinvy,Zokinvy
+SEDATIVE/HYPNOTICS - Non-Benzodiazepines,Zolpidem CR,Zolpidem Tartrate Tablet ER
 SEDATIVE/HYPNOTICS - Non-Benzodiazepines,Zolpidem capsule,Zolpidem Cap
 SEDATIVE/HYPNOTICS - Non-Benzodiazepines,Zolpidem tablet,Zolpidem Tartrate tabs
 ANTI-PSORIATICS - NON-BIOLOGICALS,"Zoryve cream, 0.15%, Atopic Dermatitis",Zoryve
@@ -931,4 +990,7 @@ ANTI-PSORIATICS - NON-BIOLOGICALS,"Zoryve cream, 0.3%, Plaque Psoriasis",Zoryve
 ANTICONVULSANTS,Ztalmy,Ztalmy
 ANTIDEPRESSANTS- MISC,Zurzuvae,Zurzuvae
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Zydelig,ZYDELIG
+ANTIPSYCHOTICS - ATYPICALS,Zyprexa,ZYPREXA
+ANTIPSYCHOTICS - ATYPICALS,Zyprexa Relprevv,Zyprexa Relprevv
+ANTIPSYCHOTICS - ATYPICALS,Zyprexa Zydis,ZYPREXA ZYDIS
 Antineoplastics - Androgen Biosynthesis Inhibitor.,Zytiga,ZYTIGA

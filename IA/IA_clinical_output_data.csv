@@ -1,4 +1,8 @@
 therapeutic_class,capsule_name,pdl_name,status
+ANTIPSYCHOTICS - ATYPICALS,Abilify Asimtufii,Abilify Asimtufii,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Abilify Maintena,ABILIFY MAINTENA,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Abilify MyCite,Abilify MyCite,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Abilify tablet,ABILIFY,Non-Preferred
 Acne Products: Isotretinoin,Absorica LD capsule,ABSORICA,Non-Preferred
 GI - PROTON PUMP INHIBITOR,Aciphex,ACIPHEX,Non-Preferred
 PULMONARY ANTI-HYPERTENSIVES,Adcirca,ADCIRCA,Non-Preferred
@@ -43,8 +47,14 @@ NEUROLOGICS - MISC.,Aqneursa oral suspension,Aqneursa,Non-Preferred
 Erythropoeisis Stimulating Agents,Aranesp,ARANESP ALBUMIN FREE,Non-Preferred
 Alzheimer - Cholinomimetics,Aricept,ARICEPT,Non-Preferred
 Amino Glycosides,Arikayce,Arikayce,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Aripiprazole ODT,aripiprazole odt,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Aripiprazole oral solution,aripiprazole sol,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Aripiprazole tablet,aripiprazole tablets,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Aristada,ARISTADA,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Aristada Initio,ARISTADA,Preferred
 THYROID HORMONES,Armour Thyroid,ARMOUR THYROID,Preferred
 ANTIASTHMATIC - STEROID INHALANTS,Arnuity Ellipta,ARNUITY ELLIPTA,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Asenapine,Asenapine,Non-Preferred
 ANTIASTHMATIC - STEROID INHALANTS,Asmanex HFA,Asmanex HFA,Preferred
 ANTIASTHMATIC - STEROID INHALANTS,Asmanex Twisthaler,ASMANEX,Preferred
 IMMUNOSUPPRESSANTS,Astagraf XL ER capsule,ASTAGRAF XL,Non-Preferred
@@ -93,6 +103,7 @@ GI - MISC.,Bylvay Progressive Familial Intrahepatic Cholestatis (PFIC),Bylvay,No
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Calquence,Calquence,Non-Preferred
 Cardiovascular Agents – Other,Camzyos,Camzyos,Non-Preferred
 ARB'S,Candesartan,Candesartan Cilexetil,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Caplyta,Caplyta,Non-Preferred
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Caprelsa,CAPRELSA,Preferred
 ACE Inhibitors,Captopril,Captopril,Preferred
 ANTIBIOTICS - MISC.,Cayston,CAYSTON,Non-Preferred
@@ -101,10 +112,15 @@ Agents For Gaucher Disease,Cerdelga,CERDELGA,Non-Preferred
 Agents For Gaucher Disease,Cerezyme 400 Units,CEREZYME,Non-Preferred
 GI - MISC.,Cholbam capsule,CHOLBAM,Non-Preferred
 Vaginal - Antibacterials,Cleocin 2% cream,CLEOCIN	CRE 2% VAG,Preferred
+Vaginal - Antibacterials,Cleocin ovules / vaginal suppository,CLEOCIN	SUP 100MG,Preferred
 Vaginal - Antibacterials,Clindamycin 2% Cream,Clindamycin Phosphate Vaginal,Preferred
 Vaginal - Antibacterials,Clindesse 2% prefilled applicator cream,CLINDESSE,Non-Preferred
 ANTICONVULSANTS,Clobazam oral suspension,Clobazam,Preferred
 ANTICONVULSANTS,Clobazam tablet,Clobazam,Preferred
+Antipsychotics - Special Atypicals,Clozapine ODT,CLOZAPINE ODT,Non-Preferred
+Antipsychotics - Special Atypicals,Clozapine tablet,Clozapine,Preferred
+Antipsychotics - Special Atypicals,Clozaril,CLOZARIL,Non-Preferred
+Psychotherapeutic Combination,Cobenfy capsule,Cobenfy,Non-Preferred
 OP. CARBONIC ANHYDRASE INHIBITORS/COMBO,Combigan,COMBIGAN,Preferred
 ANTIASTHMATIC - ADRENERGIC COMBOS,Combivent Respimat inhalation aerosol solution,COMBIVENT RESPIMAT,Preferred
 Antiretrovirals - Combinations,Complera,COMPLERA,Preferred
@@ -171,14 +187,17 @@ ANTICONVULSANTS,Eprontia,Eprontia,Non-Preferred
 ANTICONVULSANTS,Equetro,EQUETRO,Non-Preferred
 Antineoplastics - Antiandrogens,Erleada,Erleada,Preferred
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Erlotinib,erlotinib,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Erzofri prefilled syringe,Erzofri,Preferred
 Idiopathic Pulmonary Fibrosis,Esbriet,ESBRIET,Non-Preferred
 GI - PROTON PUMP INHIBITOR,Esomeprazole Capsule,Esomeprazole mag caps,Preferred
+GI - PROTON PUMP INHIBITOR,Esomeprazole Packet,esomeprazole granule,Non-Preferred
 Antihemophilia Factor VIII Agents,Esperoct,Esperoct,Non-Preferred
 Antiretrovirals - Combinations,Evotaz,EVOTAZ,Preferred
 Muscular Atrophy Agents,Evrysdi,Evrysdi,Non-Preferred
 Alzheimer - Cholinomimetics,Exelon,EXELON DIS,Non-Preferred
 OP. ANTIINFLAMMATORY / STEROIDS OPHTH.,Eysuvis ophthalmic suspension,Eysuvis,Non-Preferred
 Complement Inhibitors,Fabhalta,Fabhalta,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Fanapt,FANAPT,Non-Preferred
 Diabetic- Sodium-Glucose Co-Transporter 2 (SGLT2) Inhibitors,Farxiga,FARXIGA,Preferred
 ANTICONVULSANTS,Felbatol oral suspension,FELBATOL,Non-Preferred
 ANTICONVULSANTS,Felbatol tablet,FELBATOL,Non-Preferred
@@ -211,6 +230,7 @@ Gi - Antiperistaltic Agents,Gattex vial,GATTEX,Non-Preferred
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Gavreto,Gavreto,Non-Preferred
 GROWTH HORMONE,Genotropin,GENOTROPIN,Preferred
 Antiretrovirals - Combinations,Genvoya,Genvoya,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Geodon,GEODON,Non-Preferred
 Multiple Sclerosis Agents – Non-Interferons,Gilenya capsule,GILENYA,Non-Preferred
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Gilotrif,GILOTRIF,Non-Preferred
 MULTIPLE SCLEROSIS AGENTS,Glatiramer Acetate prefilled syringe,Glatiramer,Preferred
@@ -244,6 +264,10 @@ NEUROLOGICS - MISC.,Ingrezza titration pack,Ingrezza,Preferred
 DIABETIC - INSULIN,Insulin Glargine,Insulin glargine,Preferred
 DIABETIC - INSULIN,Insulin Lispro,insulin lispro,Preferred
 Antiretrovirals - Rti - Non - Nucleoside Analogues,Intelence,INTELENCE,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Invega ER,INVEGA,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Invega Hafyera,Invega Hafyera,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Invega Sustenna,INVEGA SUSTENNA,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Invega Trinza,INVEGA TRINZA,Preferred
 Diabetic- SGLT2 Inhibitor Combinations,Invokamet,INVOKAMET,Non-Preferred
 Diabetic- SGLT2 Inhibitor Combinations,Invokamet XR,Invokamet XR,Non-Preferred
 Diabetic- Sodium-Glucose Co-Transporter 2 (SGLT2) Inhibitors,Invokana,INVOKANA,Non-Preferred
@@ -289,6 +313,7 @@ GI - PROTON PUMP INHIBITOR,Lansoprazole DR capsule,lansoprazole caps,Preferred
 GI - PROTON PUMP INHIBITOR,Lansoprazole ODT,Lansoprazole odt,Non-Preferred
 DIABETIC - INSULIN PENFILLS,Lantus SoloStar,LANTUS SOLOSTAR,Preferred
 DIABETIC - INSULIN,Lantus vial,LANTUS	INJ 100/ML,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Latuda,LATUDA,Non-Preferred
 HEPATITIS C AGENTS,Ledipasvir / Sofosbuvir,Ledipasvir/Sofosbuvir,Non-Preferred
 Pulmonary Anti-Hypertensives-Endothelin Receptor Antagonist,Letairis,LETAIRIS,Non-Preferred
 GRANULOCYTE CSF,Leukine,LEUKINE,Non-Preferred
@@ -311,6 +336,8 @@ ANTINEOPLASTICS - MISC.,Lumakras,Lumakras,Non-Preferred
 OP. PROSTAGLANDINS,Lumigan 2.5 mL,LUMIGAN,Non-Preferred
 OP. PROSTAGLANDINS,Lumigan 5 mL,LUMIGAN,Non-Preferred
 OP. PROSTAGLANDINS,Lumigan 7.5 mL,LUMIGAN,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Lurasidone,Lurasidone,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Lybalvi,Lybalvi,Non-Preferred
 Antineoplastics - Parp Inhibitors,Lynparza,LYNPARZA,Non-Preferred
 ANTICONVULSANTS,Lyrica,LYRICA,Non-Preferred
 DIABETIC - INSULIN PENFILLS,"Lyumjev KwikPen, U-100",Lyumjev KwikPen,Non-Preferred
@@ -338,6 +365,7 @@ ANTI-THROMBOCYTOPENICS,Mulpleta,Mulpleta,Non-Preferred
 Estrogen Combos,Myfembree Endometriosis,Myfembree,Preferred
 Estrogen Combos,Myfembree Uterine Fibroids,Myfembree,Preferred
 THYROID HORMONES,NP Thyroid,NP Thyroid,Preferred
+NARCOTIC - ANTAGONISTS,Naloxone carpuject,naloxone injection solution,Preferred
 NARCOTIC - ANTAGONISTS,Naloxone nasal spray,naloxone nasal,Preferred
 NARCOTIC - ANTAGONISTS,Naloxone vial,naloxone injection solution,Preferred
 Alzheimer - Cholinomimetics,Namenda,NAMENDA,Non-Preferred
@@ -369,9 +397,11 @@ DIABETIC - INSULIN,Novolog,NOVOLOG,Non-Preferred
 DIABETIC - INSULIN,Novolog 70/30,NOVOLOG MIX 70/30,Non-Preferred
 DIABETIC - INSULIN PENFILLS,Novolog 70/30 FlexPen,Novolog Mix FlexPen,Non-Preferred
 DIABETIC - INSULIN PENFILLS,Novolog FlexPen,Novolog Flexpen,Non-Preferred
+DIABETIC - INSULIN,Novolog cartridge,NOVOLOG,Non-Preferred
 Antihemophilia Factor VII Agents,Novoseven RT,NOVOSEVEN,Preferred
 ANTI-THROMBOCYTOPENICS,Nplate,NPLATE,Preferred
 Antineoplastics - Antiandrogens,Nubeqa,Nubeqa,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Nuplazid,Nuplazid,Non-Preferred
 CGRP INHIBITORS,Nurtec ODT Acute Treatment,Nurtec,Preferred
 CGRP INHIBITORS,Nurtec ODT Migraine Prophylaxis,Nurtec,Preferred
 GROWTH HORMONE,Nutropin AQ,NUTROPIN AQ,Preferred
@@ -385,6 +415,8 @@ Idiopathic Pulmonary Fibrosis,Ofev,OFEV,Preferred
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Ogsiveo,Ogsiveo,Non-Preferred
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Ojemda,Ojemda,Non-Preferred
 Psychotherapeutic Combination,Olanzapine And Fluoxetine,Olanzapine-Fluoxetine HCl,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Olanzapine ODT,olanzapine tablet disperse,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Olanzapine tablet,olanzapine,Preferred
 ARB'S,Olmesartan,Olmesartan,Non-Preferred
 UREA CYCLE DISORDER - AGENTS,Olpruva,Olpruva,Non-Preferred
 GI - PROTON PUMP INHIBITOR,Omeprazole capsule,Omeprazole,Preferred
@@ -409,12 +441,15 @@ Hereditary Angioedema Agents,Orladeyo,Orladeyo,Preferred
 Muscle Relaxants,Orphenadrine ER,orphenadrine citrate er tab,Preferred
 Influenza Agents,Oseltamivir,Oseltamivir,Preferred
 Diabetic- GLP-1 Receptor Agonists,Ozempic,Ozempic,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Paliperidone ER,paliperidone er,Preferred
 Phenylketonuria,Palynziq prefilled syringe,Palynziq,Non-Preferred
 GI - PROTON PUMP INHIBITOR,Pantoprazole DR packet for oral suspension,Pantoprazole oral packet,Non-Preferred
 GI - PROTON PUMP INHIBITOR,Pantoprazole tablet,Pantoprazole Sodium,Preferred
+Antidepressants - Selected SSRI's,"Paroxetine 7.5 mg, IR capsule",Paroxetine HCl,Preferred
 COVID-19 AGENTS,"Paxlovid tablet therapy pack, 150 mg / 100 mg",Paxlovid,Preferred
 COVID-19 AGENTS,"Paxlovid tablet therapy pack, 300 mg / 100 mg",Paxlovid,Preferred
 ACE Inhibitors,Perindopril,Perindopril Erbumine,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Perseris,Perseris,Preferred
 UREA CYCLE DISORDER - AGENTS,Pheburane,Pheburane Pellet,Non-Preferred
 CONTRACEPTIVES - PATCHES/ VAGINAL PRODUCTS,Phexxi,Phexxi,Non-Preferred
 MULTIPLE SCLEROSIS AGENTS,Ponvory starter pack,Ponvory,Non-Preferred
@@ -446,6 +481,8 @@ GI - ULCER ANTI-INFECTIVE,Pylera,PYLERA,Preferred
 PYRUVATE KINASE ACTIVATORS,Pyrukynd tablet,Pyrukynd,Non-Preferred
 STIMULANTS - OTHER STIMULANTS / LIKE STIMULANTS,Qelbree,Qelbree,Preferred
 Diabetic- SGLT2 Inhibitor Combinations,Qtern,Qtern,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Quetiapine,quetiapine fumarate,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Quetiapine ER,Quetiapine ER,Preferred
 STIMULANTS - METHYLPHENIDATE - LONG ACTING,Quillichew XR,Quillichew ER,Preferred
 STIMULANTS - METHYLPHENIDATE - LONG ACTING,Quillivant XR,QUILLIVANT XR,Preferred
 ACE Inhibitors,Quinapril,Quinapril HCl,Preferred
@@ -468,11 +505,19 @@ ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Retevmo,Retevmo,Non-Preferr
 PULMONARY ANTI-HYPERTENSIVES,Revatio oral suspension,Revatio,Non-Preferred
 PULMONARY ANTI-HYPERTENSIVES,Revatio tablet,Revatio,Non-Preferred
 ANTINEOPLASTICS - MISC.,Revlimid,REVLIMID,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Rexulti Adjunct Treatment of Major Depressive Disorder,REXULTI,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Rexulti Schizophrenia,REXULTI,Non-Preferred
 Antiretrovirals - Protease Inhibitors,Reyataz,REYATAZ,Non-Preferred
 MIGRAINE - SELECTIVE SEROTONIN AGONISTS (5HT)--Tabs,Reyvow,Reyvow,Non-Preferred
 Endocrine Metabolic Agents,Rezdiffra,Rezdiffra,Non-Preferred
 ANTINEOPLASTICS - MISC.,Rezlidhia,Rezlidhia,Non-Preferred
 IMMUNOSUPPRESSANTS,Rezurock,Rezurock,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Risperdal Consta,RISPERDAL CONSTA,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Risperdal oral solution,RISPERDAL,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Risperdal tablet,RISPERDAL,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Risperidone ODT,risperidone tablet disperse,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Risperidone oral solution,risperidone,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Risperidone tablet,risperidone,Preferred
 Alzheimer - Cholinomimetics,Rivastigmine capsule,RIVASTIGMINE CAP,Preferred
 Antihemophilia Factor IX Agents,Rixubis,RIXUBIS,Preferred
 GRANULOCYTE CSF,Rolvedon prefilled syringe,Rolvedon,Non-Preferred
@@ -482,15 +527,20 @@ Antineoplastics - Parp Inhibitors,Rubraca,Rubraca,Non-Preferred
 Hereditary Angioedema Agents,Ruconest,Ruconest,Non-Preferred
 Diabetic- GLP-1 Receptor Agonists,Rybelsus,Rybelsus,Non-Preferred
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Rydapt,Rydapt,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Rykindo,Rykindo,Preferred
 K Removing Resins,SPS,SPS,Non-Preferred
 ANTICONVULSANTS,Sabril packet for oral solution,SABRIL,Non-Preferred
 ANTICONVULSANTS,Sabril tablet,SABRIL,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Saphris,SAPHRIS,Non-Preferred
 Phenylketonuria,Sapropterin dihydrochloride packet for oral solution,Sapropterin,Non-Preferred
 Phenylketonuria,Sapropterin dihydrochloride tablet,Sapropterin,Non-Preferred
 ANTICOAGULANTS,Savaysa,SAVAYSA,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Secuado,Secuado,Non-Preferred
 Diabetic- SGLT2 Inhibitor Combinations,Segluromet,Segluromet,Non-Preferred
 ANTIRETROVIRALS - ENTRY INHIBITORS,Selzentry,SELZENTRY,Preferred
 DIABETIC - INSULIN,Semglee,Semglee,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Seroquel,SEROQUEL,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Seroquel XR,SEROQUEL XR,Non-Preferred
 PHOSPHATE BINDERS,Sevelamer Carbonate Pak,Sevelamer carbonate Pak,Non-Preferred
 PHOSPHATE BINDERS,Sevelamer carbonate tablets,Sevelamer carbonate Tablets,Preferred
 PHOSPHATE BINDERS,Sevelamer hydrochloride tablets,sevelamer hcl,Non-Preferred
@@ -502,6 +552,7 @@ GROWTH HORMONE,Skytrofa,Skytrofa,Preferred
 Contraceptives - Progestin Only,Slynd,Slynd,Non-Preferred
 UREA CYCLE DISORDER - AGENTS,Sodium Phenylbutyrate powder,Sodium phenylbutyrate,Non-Preferred
 UREA CYCLE DISORDER - AGENTS,Sodium Phenylbutyrate tablet,Sodium phenylbutyrate,Non-Preferred
+K Removing Resins,Sodium Polystyrene Sulfonate,Sodium Polystyrene Sulfonate,Non-Preferred
 HEPATITIS C AGENTS,Sofosbuvir / Velpatasvir,Sofosbuvir/Velpatasvir,Preferred
 GROWTH HORMONE,Sogroya,Sogroya,Non-Preferred
 Endocrine Metabolic Agents,Sohonos,Sohonos,Non-Preferred
@@ -589,6 +640,7 @@ CGRP INHIBITORS,Ubrelvy,Ubrelvy,Preferred
 GRANULOCYTE CSF,Udenyca,Udenyca,Non-Preferred
 PULMONARY ANTI-HYPERTENSIVES,Uptravi tablet,Uptravi,Non-Preferred
 PULMONARY ANTI-HYPERTENSIVES,Uptravi vial,Uptravi,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Uzedy,Uzedy,Preferred
 Topical - Antineoplastics,Valchlor,Valchlor,Non-Preferred
 ARB'S,Valsartan,Valsartan,Preferred
 ARB'S,Valsartan oral solution,Valsartan oral solution,Non-Preferred
@@ -602,6 +654,7 @@ PULMONARY ANTI-HYPERTENSIVES,Ventavis,VENTAVIS,Non-Preferred
 ANTIASTHMATIC - BETA - ADRENERGICS,Ventolin HFA,VENTOLIN HFA,Preferred
 Endocrine Metabolic Agents,Veozah tablet,Veozah,Preferred
 OP. MISC,Verkazia,Verkazia,Non-Preferred
+Antipsychotics - Special Atypicals,Versacloz,VERSACLOZ,Non-Preferred
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Verzenio,Verzenio,Preferred
 OP. MISC,Vevye ophthalmic solution,Vevye,Non-Preferred
 "GI, Constipation - IBS-OIC",Viberzi,Viberzi,Non-Preferred
@@ -625,6 +678,9 @@ GI - MISC.,Voquezna,Voquezna,Non-Preferred
 GI - ULCER ANTI-INFECTIVE,Voquezna Dual Pak,Voquezna Pak,Non-Preferred
 GI - ULCER ANTI-INFECTIVE,Voquezna Triple Pak,Voquezna Pak,Non-Preferred
 HEPATITIS C AGENTS,Vosevi,Vosevi,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Vraylar Adjunct Treatment of Major Depressive Disorder,VRAYLAR,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Vraylar Bipolar I Disorder,VRAYLAR,Preferred
+ANTIPSYCHOTICS - ATYPICALS,Vraylar Schizophrenia,VRAYLAR,Preferred
 ANTI-PSORIATICS - NON-BIOLOGICALS,Vtama Atopic Dermatitis,Vtama,Non-Preferred
 ANTI-PSORIATICS - NON-BIOLOGICALS,Vtama Plaque Psoriasis,Vtama,Non-Preferred
 Amyloidosis Treatments,Vyndamax,Vyndamax,Non-Preferred
@@ -673,10 +729,16 @@ Op. Antiallergics - Antihistamines,Zerviate (Cetirizine) ophthalmic solution,Zer
 Antiretrovirals - Rti - Nucleoside/Nucleotide Analogues,Ziagen,ZIAGEN,Non-Preferred
 GRANULOCYTE CSF,Ziextenzo,Ziextenzo,Non-Preferred
 Complement Inhibitors,Zilbrysq,Zilbrysq,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Ziprasidone Injectable,Ziprasidone Inj,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Ziprasidone Oral,ziprasidone hcl,Preferred
 Progeria Treatments,Zokinvy,Zokinvy,Non-Preferred
+SEDATIVE/HYPNOTICS - Non-Benzodiazepines,Zolpidem CR,Zolpidem Tartrate Tablet ER,Non-Preferred
 SEDATIVE/HYPNOTICS - Non-Benzodiazepines,Zolpidem capsule,Zolpidem Cap,Non-Preferred
 SEDATIVE/HYPNOTICS - Non-Benzodiazepines,Zolpidem tablet,Zolpidem Tartrate tabs,Preferred
 ANTICONVULSANTS,Ztalmy,Ztalmy,Non-Preferred
 ANTIDEPRESSANTS- MISC,Zurzuvae,Zurzuvae,Non-Preferred
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Zydelig,ZYDELIG,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Zyprexa,ZYPREXA,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Zyprexa Relprevv,Zyprexa Relprevv,Non-Preferred
+ANTIPSYCHOTICS - ATYPICALS,Zyprexa Zydis,ZYPREXA ZYDIS,Non-Preferred
 Antineoplastics - Androgen Biosynthesis Inhibitor.,Zytiga,ZYTIGA,Non-Preferred

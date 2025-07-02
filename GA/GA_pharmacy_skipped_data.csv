@@ -1,4 +1,21 @@
 capsule_name
+"Xolair prefilled syringe, Asthma (pediatric)"
+"Nucala prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)"
+"Nucala vial, Asthma (pediatric)"
+"Xolair prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis"
+"Nucala vial, Asthma (adult)"
+"Xolair prefilled syringe, Chronic Spontaneous Urticaria (CSU)"
+"Nucala prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis"
+"Xolair prefilled syringe, IgE-Mediated Food Allergy"
+"Nucala prefilled syringe, Asthma (pediatric)"
+"Nucala vial, Eosinophilic Granulomatosis with Polyangitis (EGPA)"
+"Nucala vial, Hypereosinophilic Syndrome (HES)"
+"Nucala vial, Chronic Rhinosinusitis with Nasal Polyposis"
+"Nucala prefilled syringe, Hypereosinophilic Syndrome (HES)"
+"Fasenra prefilled syringe, Asthma (adult)"
+"Nucala prefilled syringe, Asthma (adult)"
+"Fasenra prefilled syringe, Asthma (pediatric)"
+"Xolair prefilled syringe, Asthma (adult)"
 Abrilada Ankylosing Spondylitis
 Abrilada Crohn’s Disease (adult)
 Abrilada Crohn's Disease (pediatric)
@@ -52,8 +69,6 @@ Cyltezo Ulcerative Colitis (adult)
 Cyltezo Uveitis (adult)
 Ebglyss Atopic Dermatitis (adult)
 Ebglyss Atopic Dermatitis (pediatric)
-"Fasenra prefilled syringe, Asthma (adult)"
-"Fasenra prefilled syringe, Asthma (pediatric)"
 Hadlima Ankylosing Spondylitis
 Hadlima Crohn’s Disease (adult)
 Hadlima Crohn’s Disease (pediatric)
@@ -106,16 +121,6 @@ Inflectra Ulcerative Colitis (adult)
 "Nemluvio auto-injector, Atopic Dermatitis (adult)"
 "Nemluvio auto-injector, Atopic Dermatitis (pediatric)"
 "Nemluvio auto-injector, Prurigo Nodularis"
-"Nucala prefilled syringe, Asthma (adult)"
-"Nucala vial, Asthma (adult)"
-"Nucala prefilled syringe, Asthma (pediatric)"
-"Nucala prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis"
-"Nucala prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)"
-"Nucala prefilled syringe, Hypereosinophilic Syndrome (HES)"
-"Nucala vial, Asthma (pediatric)"
-"Nucala vial, Chronic Rhinosinusitis with Nasal Polyposis"
-"Nucala vial, Eosinophilic Granulomatosis with Polyangitis (EGPA)"
-"Nucala vial, Hypereosinophilic Syndrome (HES)"
 Remicade Ankylosing Spondylitis
 Remicade Crohn’s Disease (adult)
 Remicade Crohn’s Disease (pediatric)
@@ -158,11 +163,6 @@ Simlandi Ulcerative Colitis (adult)
 Simlandi Uveitis (adult)
 Tzield
 Uplizna Neuromyelitis Optica Spectrum Disorder (NMOSD)
-"Xolair prefilled syringe, Asthma (adult)"
-"Xolair prefilled syringe, Asthma (pediatric)"
-"Xolair prefilled syringe, Chronic Rhinosinusitis with Nasal Polyposis"
-"Xolair prefilled syringe, Chronic Spontaneous Urticaria (CSU)"
-"Xolair prefilled syringe, IgE-Mediated Food Allergy"
 "Yesintek intravenous vial, Crohn’s Disease (adult)"
 "Yesintek intravenous vial, Ulcerative Colitis (adult)"
 "Yesintek prefilled syringe, Crohn’s Disease (adult)"
