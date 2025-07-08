@@ -1,0 +1,4 @@
+TX PDL can be converted into a word document and some tables have extractable elements. BUT about 30-40% of the tables are merged into one cell, and there is no intuitive delimeters between drugs.
+
+Creator Application: Microsoft® Word for Microsoft 365
+Author: Texas Health and Human Services
