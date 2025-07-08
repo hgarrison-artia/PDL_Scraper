@@ -1,0 +1,442 @@
+therapeutic_class,capsule_name,pdl_name
+ONCOLOGY AGENTS : Enzyme Inhibitors: MTOR,Afinitor tablet,Afinitor Disperz
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Airduo Digihaler,AirDuo RespiClick
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Baclofen tablet,baclofen solution
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Baclofen tablet,baclofen suspension
+CARDIOVASCULAR : ACEIs + Calcium Channel Blockers,Benazepril,benazepril/ amlodipine
+CARDIOVASCULAR : ACEIs + Diuretics,Benazepril,benazepril/HCTZ
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Contour,Bayer Meters: Breeze-2 & Contour
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Contour Next Next Gen,Bayer Meters: Breeze-2 & Contour
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Contour Next Test In Vitro Strips 100 ct,Bayer Meters: Breeze-2 & Contour
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Contour Next Test In Vitro Strips 25 ct,Bayer Meters: Breeze-2 & Contour
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Contour Next Test In Vitro Strips 50 ct,Bayer Meters: Breeze-2 & Contour
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Contour Plus Test In Vitro Strips 50 ct,Bayer Meters: Breeze-2 & Contour
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Contour Test In Vitro Strips 100 ct,Bayer Meters: Breeze-2 & Contour
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Contour Test In Vitro Strips 25 ct,Bayer Meters: Breeze-2 & Contour
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Contour Test In Vitro Strips 50 ct,Bayer Meters: Breeze-2 & Contour
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Dexcom G4,Dexcom G6; Dexcom G7
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Dexcom G5,Dexcom G6; Dexcom G7
+CARDIOVASCULAR : ACE Inhibitors (AEIs),Enalapril tablet,enalapril suspension
+ANALGESICS : NSAID/Anti-Ulcer Agents,Esomeprazole,naproxen/  esomeprazole
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Freestyle Precision Neo Meter,"FreeStyle Meters:  Lite, Freedom Lite, InsuLinx"
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Freestyle Precision Neo Meter,"Freestyle Test Strips: Lite, InsuLinx"
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Freestyle Precision Neo Meter,Freestyle; Freestyle Libre 2 Freestyle Libre 3
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,Freestyle Precision Neo Meter,Freestyle Libre Plus (2 and 3)
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),FreeStyle Precision Neo Strips 25 ct,"FreeStyle Meters:  Lite, Freedom Lite, InsuLinx"
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),FreeStyle Precision Neo Strips 25 ct,"Freestyle Test Strips: Lite, InsuLinx"
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,FreeStyle Precision Neo Strips 25 ct,Freestyle; Freestyle Libre 2 Freestyle Libre 3
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,FreeStyle Precision Neo Strips 25 ct,Freestyle Libre Plus (2 and 3)
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),FreeStyle Precision Neo Strips 50 ct,"FreeStyle Meters:  Lite, Freedom Lite, InsuLinx"
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),FreeStyle Precision Neo Strips 50 ct,"Freestyle Test Strips: Lite, InsuLinx"
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,FreeStyle Precision Neo Strips 50 ct,Freestyle; Freestyle Libre 2 Freestyle Libre 3
+DIABETIC SUPPLIES : Continuous Glucose Monitors and Supplies,FreeStyle Precision Neo Strips 50 ct,Freestyle Libre Plus (2 and 3)
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Galantamine oral solution,galantamine ER
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Galantamine tablet,galantamine ER
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Humalog vial,Humalog KwikPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Humalog vial,Humalog Jr Kwik Pen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Humalog vial,Humalog U-200 KwikPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Humalog vial,Humalog TempoPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Mixed Insulins,Humalog vial,Humalog Mix 50/50 KwikPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Mixed Insulins,Humalog vial,Humalog Mix 75/25 KwikPen
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Insulin Glargine,"FreeStyle Meters:  Lite, Freedom Lite, InsuLinx"
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),Insulin Glargine,"Freestyle Test Strips: Lite, InsuLinx"
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Insulin Glargine,insulin lispro KwikPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Insulin Glargine,insulin lispro Jr Kwikpen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Mixed Insulins,Insulin Glargine,insulin aspart mix 70/30 FlexPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Mixed Insulins,Insulin Glargine,insulin lispro mix 75/25 KwikPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Long-Acting Insulins,Insulin Glargine,insulin degludec FlexTouch
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Lamictal tablet,Lamictal ODT
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Lamictal tablet,Lamictal XR
+CENTRAL NERVOUS SYSTEM : Mood Stabilizers,Lamictal tablet,Lamictal ODT
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Lamotrigine tablet,lamotrigine ER
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Lamotrigine tablet,lamotrigine ODT
+GASTROINTESTINAL : Combination Products for H. pylori,Lansoprazole,lansoprazole/amox/ clarithromycin
+ANALGESICS : Agents for Dependency,Lo Loestrin Fe,lofexidine
+ANALGESICS : Buprenorphine and Buprenorphine/Naloxone,Lo Loestrin Fe,buprenorphine/ naloxone tablets
+ANALGESICS : Buprenorphine and Buprenorphine/Naloxone,Lo Loestrin Fe,buprenorphine/ naloxone film
+ANALGESICS : Transmucosal Fentanyl Products,Lo Loestrin Fe,fentanyl lozenge
+ANALGESICS : Naloxone Products,Lo Loestrin Fe,Kloxxado
+ANALGESICS : Naloxone Products,Lo Loestrin Fe,naloxone injection
+ANALGESICS : Naloxone Products,Lo Loestrin Fe,naloxone nasal spray (Rx & OTC)
+ANALGESICS : Narcotic Agonist/Antagonists,Lo Loestrin Fe,pentazocine/ naloxone
+"ANALGESICS : Narcotics, Short-Acting ",Lo Loestrin Fe,Lortab
+"ANALGESICS : Narcotics, Short-Acting ",Lo Loestrin Fe,Nalocet
+"ANALGESICS : Narcotics, Short-Acting ",Lo Loestrin Fe,Qdolo
+ANALGESICS : NSAIDs,Lo Loestrin Fe,diclofenac 1% gel
+ANALGESICS : NSAIDs,Lo Loestrin Fe,"diclofenac caps,"
+ANALGESICS : NSAIDs,Lo Loestrin Fe,diclofenac patch
+ANALGESICS : NSAIDs,Lo Loestrin Fe,diclofenac potassium 25 mg tabs
+ANALGESICS : NSAIDs,Lo Loestrin Fe,Lofena
+ANALGESICS : NSAIDs,Lo Loestrin Fe,meloxicam caps
+ANALGESICS : NSAID/Anti-Ulcer Agents,Lo Loestrin Fe,diclofenac/ misoprostol
+ANTI-INFECTIVES : Antibiotics: Agents for Diarrhea,Lo Loestrin Fe,Aemcolo
+"ANTI-INFECTIVES : Antibiotics: Quinolones, Oral",Lo Loestrin Fe,ciprofloxacin suspension
+"ANTI-INFECTIVES : Antibiotics: Quinolones, Oral",Lo Loestrin Fe,Levofloxacin solution
+"ANTI-INFECTIVES : Antibiotics: Quinolones, Oral",Lo Loestrin Fe,moxifloxacin
+ANTI-INFECTIVES : Antibiotics: Tetracyclines,Lo Loestrin Fe,demeclocycline
+ANTI-INFECTIVES : Antibiotics: Tetracyclines,Lo Loestrin Fe,Solodyn
+"ANTI-INFECTIVES : Anti-Infectives: Antiprotozoals, Oral",Lo Loestrin Fe,Solosec
+ANTI-INFECTIVES : Antivirals: COVID Treatment,Lo Loestrin Fe,Paxlovid
+"ANTI-INFECTIVES : Antivirals: Herpes Agents, Oral",Lo Loestrin Fe,famciclovir
+"ANTI-INFECTIVES : Antivirals: Herpes Agents, Oral",Lo Loestrin Fe,valacyclovir
+ANTI-INFECTIVES : Antivirals: HIV NRTI Combos,Lo Loestrin Fe,Symfi Lo
+ANTI-INFECTIVES : Antivirals: HIV Protease Inhibitors,Lo Loestrin Fe,lopinavir/ritonavir
+CARDIOVASCULAR : ACEIs + Calcium Channel Blockers,Lo Loestrin Fe,benazepril/ amlodipine
+CARDIOVASCULAR : ACEIs + Calcium Channel Blockers,Lo Loestrin Fe,Lotrel
+CARDIOVASCULAR : Alpha-Beta Blockers,Lo Loestrin Fe,carvedilol
+CARDIOVASCULAR : Alpha-Beta Blockers,Lo Loestrin Fe,carvedilol ER
+CARDIOVASCULAR : Angiotensin II Receptor Antagonists (ARBs),Lo Loestrin Fe,losartan
+CARDIOVASCULAR : ARB + Calcium Channel Blocker,Lo Loestrin Fe,valsartan/ amlodipine
+CARDIOVASCULAR : ARB + Calcium Channel Blocker,Lo Loestrin Fe,valsartan/ amlodipine/HCTZ
+CARDIOVASCULAR : ARB + Calcium Channel Blocker,Lo Loestrin Fe,olmesartan/ amlodipine
+CARDIOVASCULAR : ARB + Calcium Channel Blocker,Lo Loestrin Fe,olmesartan/ amlodipine/HCTZ
+CARDIOVASCULAR : ARB + Calcium Channel Blocker,Lo Loestrin Fe,telmisartan/ amlodipine
+CARDIOVASCULAR : ARB + Diuretic,Lo Loestrin Fe,losartan/HCTZ
+CARDIOVASCULAR : ARB + Diuretic,Lo Loestrin Fe,Edarbyclor
+"CARDIOVASCULAR : Anticoagulants, Injectable",Lo Loestrin Fe,Lovenox
+"CARDIOVASCULAR : Antihypertensives, Miscellaneous",Lo Loestrin Fe,clonidine weekly patch
+"CARDIOVASCULAR : Antihypertensives, Miscellaneous",Lo Loestrin Fe,clonidine 24hr ER
+CARDIOVASCULAR : Beta Blockers,Lo Loestrin Fe,metoprolol succinate ER
+CARDIOVASCULAR : Calcium Channel Blockers (DHP),Lo Loestrin Fe,amlodipine
+CARDIOVASCULAR : Diuretics: Carbonic Anhydrase,Lo Loestrin Fe,dichlorphenamide
+CARDIOVASCULAR : Lipotropics: Fibric Acid Derivatives,Lo Loestrin Fe,Lofibra
+CARDIOVASCULAR : Lipotropics: Omega-3 Fatty Acids,Lo Loestrin Fe,Lovaza
+CARDIOVASCULAR : Lipotropics: Low and Moderate Intensity Statins,Lo Loestrin Fe,lovastatin
+CARDIOVASCULAR : Lipotropics: Low and Moderate Intensity Statins,Lo Loestrin Fe,Ezallor Sprinkles
+CARDIOVASCULAR : Lipotropics: Low and Moderate Intensity Statins,Lo Loestrin Fe,Flolipid
+CARDIOVASCULAR : Lipotropics: Low and Moderate Intensity Statins,Lo Loestrin Fe,Livalo
+CARDIOVASCULAR : Lipotropics: High Intensity Statins,Lo Loestrin Fe,Ezallor Sprinkles
+CARDIOVASCULAR : Lipotropics: Statin + Calcium Channel Blocker,Lo Loestrin Fe,amlodipine/ atorvastatin
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Lo Loestrin Fe,"duloxetine 20,30, & 60 mg"
+CENTRAL NERVOUS SYSTEM : Agents for Neuropathic Pain and Fibromyalgia ,Lo Loestrin Fe,duloxetine 40 mg
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Lo Loestrin Fe,Exelon
+CENTRAL NERVOUS SYSTEM : Anti-Anxiety and Anti-Panic Agents,Lo Loestrin Fe,chlordiazepoxide
+CENTRAL NERVOUS SYSTEM : Anti-Anxiety and Anti-Panic Agents,Lo Loestrin Fe,clonazepam
+CENTRAL NERVOUS SYSTEM : Anti-Anxiety and Anti-Panic Agents,Lo Loestrin Fe,clorazepate
+CENTRAL NERVOUS SYSTEM : Anti-anxiety Agents (continued),Lo Loestrin Fe,lorazepam tablets   and concentrate
+CENTRAL NERVOUS SYSTEM : Anti-anxiety Agents (continued),Lo Loestrin Fe,Loreev XR
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Lo Loestrin Fe,clobazam tablets
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Lo Loestrin Fe,clonazepam
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Lo Loestrin Fe,clobazam suspension
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Lo Loestrin Fe,clonazepam ODT
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Lo Loestrin Fe,Klonopin
+CENTRAL NERVOUS SYSTEM : Antidepressants: SNRIs,Lo Loestrin Fe,"duloxetine 20, 30, & 60 mg"
+CENTRAL NERVOUS SYSTEM : Antidepressants: SNRIs,Lo Loestrin Fe,duloxetine 40 mg
+CENTRAL NERVOUS SYSTEM : Antidepressants: SSRI,Lo Loestrin Fe,citalopram
+CENTRAL NERVOUS SYSTEM : Antidepressants: SSRI,Lo Loestrin Fe,escitalopram
+CENTRAL NERVOUS SYSTEM : Antidepressants: SSRI,Lo Loestrin Fe,escitalopram solution
+CENTRAL NERVOUS SYSTEM : Antidepressants: SSRI,Lo Loestrin Fe,Zoloft
+CENTRAL NERVOUS SYSTEM : Antidepressants: Tricyclics,Lo Loestrin Fe,clomipramine
+CENTRAL NERVOUS SYSTEM : Antidepressants: Tricyclics,Lo Loestrin Fe,Pamelor
+CENTRAL NERVOUS SYSTEM : Antihyperkinesis: Non-Stimulants,Lo Loestrin Fe,clonidine 12hr ER
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Lo Loestrin Fe,clozapine
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Lo Loestrin Fe,clozapine ODT
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Lo Loestrin Fe,Clozaril
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Lo Loestrin Fe,Versacloz
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Lo Loestrin Fe,eszopiclone
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Lo Loestrin Fe,zaleplon
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Lo Loestrin Fe,baclofen solution
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Lo Loestrin Fe,baclofen suspension
+CENTRAL NERVOUS SYSTEM : Skeletal Muscle Relaxants,Lo Loestrin Fe,cyclobenzaprine ER
+CENTRAL NERVOUS SYSTEM : Typical Antipsychotics,Lo Loestrin Fe,chlorpromazine
+CENTRAL NERVOUS SYSTEM : Typical Antipsychotics,Lo Loestrin Fe,haloperidol
+CENTRAL NERVOUS SYSTEM : Typical Antipsychotics,Lo Loestrin Fe,loxapine
+"DERMATOLOGICS : Acne Agents, Topical ",Lo Loestrin Fe,"clindamycin phosphate (excluding foam, lotion, & 75 mL bottle of gel)"
+"DERMATOLOGICS : Acne Agents, Topical ",Lo Loestrin Fe,dermatological kits
+"DERMATOLOGICS : Agents for Burns, Topical",Lo Loestrin Fe,Sulfamylon
+"DERMATOLOGICS : Agents for Rosacea, Topical ",Lo Loestrin Fe,"metronidazole cream, lotion, and gel"
+"DERMATOLOGICS : Anesthetics, Topical",Lo Loestrin Fe,"lidocaine (excluding lotion, solution, kits)"
+"DERMATOLOGICS : Anesthetics, Topical",Lo Loestrin Fe,lidocaine/prilocaine
+"DERMATOLOGICS : Anesthetics, Topical",Lo Loestrin Fe,Pramosone 2.5-1% lotion
+"DERMATOLOGICS : Antifungal Agents, Topical",Lo Loestrin Fe,ciclopirox cream
+"DERMATOLOGICS : Antifungal Agents, Topical",Lo Loestrin Fe,ciclopirox solution 8%
+"DERMATOLOGICS : Antifungal Agents, Topical",Lo Loestrin Fe,clotrimazole 1% cream & soln (OTC)
+"DERMATOLOGICS : Antifungal Agents, Topical",Lo Loestrin Fe,clotrimazole 1% cream (Rx)
+"DERMATOLOGICS : Antifungal Agents, Topical",Lo Loestrin Fe,clotrimazole/ betamethasone
+"DERMATOLOGICS : Antifungal Agents, Topical",Lo Loestrin Fe,nystatin/ triamcinolone
+"DERMATOLOGICS : Antifungal Agents, Topical",Lo Loestrin Fe,ciclopirox gel and suspension
+"DERMATOLOGICS : Antifungal Agents, Topical",Lo Loestrin Fe,ciclopirox nail kit
+"DERMATOLOGICS : Antifungal Agents, Topical",Lo Loestrin Fe,clotrimazole 1% solution (Rx)
+"DERMATOLOGICS : Antineoplastics, Topical",Lo Loestrin Fe,diclofenac 3% gel
+"DERMATOLOGICS : Antineoplastics, Topical",Lo Loestrin Fe,Valchlor
+"DERMATOLOGICS : Antipruritics/Antihistamines, Topical",Lo Loestrin Fe,Zonalon
+"DERMATOLOGICS : Antipsoriatics, Topical",Lo Loestrin Fe,Taclonex
+DERMATOLOGICS : Antiseborrheic Agents,Lo Loestrin Fe,selenium sulfide 2.5% lotion
+"DERMATOLOGICS : Antivirals, Topical",Lo Loestrin Fe,acyclovir 5% ointment
+"DERMATOLOGICS : Antivirals, Topical",Lo Loestrin Fe,penciclovir cream
+"DERMATOLOGICS : Antivirals, Topical",Lo Loestrin Fe,acyclovir cream
+DERMATOLOGICS : Genital Warts,Lo Loestrin Fe,Condylox
+DERMATOLOGICS : Pediculocides/Scabicides,Lo Loestrin Fe,ivermectin lotion
+"DERMATOLOGICS : Retinoids, Topical",Lo Loestrin Fe,Arazlo
+DERMATOLOGICS : Topical Steroids: Least Potent,Lo Loestrin Fe,"hydrocortisone 1% cream, lotion, gel, and ointment (Rx & OTC)"
+DERMATOLOGICS : Topical Steroids: Least Potent,Lo Loestrin Fe,"hydrocortisone 2.5% cream, lotion, and ointment"
+DERMATOLOGICS : Topical Steroids: Mild,Lo Loestrin Fe,"fluocinolone 0.01% cream, oil, solution"
+DERMATOLOGICS : Topical Steroids: Lower Mid-Strength,Lo Loestrin Fe,betamethasone dipropionate 0.05% lotion
+DERMATOLOGICS : Topical Steroids: Lower Mid-Strength,Lo Loestrin Fe,Locoid Lipocream
+DERMATOLOGICS : Topical Steroids: Lower Mid-Strength,Lo Loestrin Fe,clocortolone 0.1% cream and pump
+DERMATOLOGICS : Topical Steroids: Lower Mid-Strength,Lo Loestrin Fe,desonide 0.05% lotion
+DERMATOLOGICS : Topical Steroids: Lower Mid-Strength,Lo Loestrin Fe,"hydrocortisone butyrate 0.1% cream, lotion, ointment, solution"
+DERMATOLOGICS : Topical Steroids: Lower Mid-Strength,Lo Loestrin Fe,Locoid lotion
+DERMATOLOGICS : Topical Steroids: Mid-Strength,Lo Loestrin Fe,triamcinolone acetonide 0.1% cream
+DERMATOLOGICS : Topical Steroids: Upper Mid-Strength,Lo Loestrin Fe,"triamcinolone acetonide 0.025% cream, lotion and ointment"
+DERMATOLOGICS : Topical Steroids: Upper Mid-Strength,Lo Loestrin Fe,triamcinolone acetonide 0.05% ointment
+DERMATOLOGICS : Topical Steroids: Upper Mid-Strength,Lo Loestrin Fe,triamcinolone acetonide 0.1% lotion and ointment
+DERMATOLOGICS : Topical Steroids: Upper Mid-Strength,Lo Loestrin Fe,triamcinolone acetonide 0.5% cream and ointment
+DERMATOLOGICS : Topical Steroids: Upper Mid-Strength,Lo Loestrin Fe,amcinonide 0.1% cream and lotion
+DERMATOLOGICS : Topical Steroids: Potent,Lo Loestrin Fe,"betamethasone dipropionate, augmented 0.05% lotion"
+DERMATOLOGICS : Topical Steroids: Potent,Lo Loestrin Fe,diflorasone diacetate 0.05% cream and ointment
+DERMATOLOGICS : Topical Steroids: Potent,Lo Loestrin Fe,Halog 0.1% ointment and cream
+DERMATOLOGICS : Topical Steroids: Potent,Lo Loestrin Fe,Halog solution
+DERMATOLOGICS : Topical Steroids: Super Potent,Lo Loestrin Fe,"clobetasol propionate 0.05% cream, gel, ointment, lotion, and solution"
+DERMATOLOGICS : Topical Steroids: Super Potent,Lo Loestrin Fe,clobetasol propionate emollient base 0.05% cream
+DERMATOLOGICS : Topical Steroids: Super Potent,Lo Loestrin Fe,Bryhali lotion
+DERMATOLOGICS : Topical Steroids: Super Potent,Lo Loestrin Fe,clobetasol 0.025% cream
+DERMATOLOGICS : Topical Steroids: Super Potent,Lo Loestrin Fe,"clobetasol propionate 0.05% foam, shampoo, and spray"
+DERMATOLOGICS : Topical Steroids: Super Potent,Lo Loestrin Fe,clobetasol propionate emollient base 0.05% foam
+DERMATOLOGICS : Topical Steroids: Super Potent,Lo Loestrin Fe,halobetasol propionate 0.05%
+DERMATOLOGICS : Topical Steroids: Super Potent,Lo Loestrin Fe,Ultravate 0.05% lotion
+ENDOCRINE/METABOLIC AGENTS : Agents for Gout,Lo Loestrin Fe,Gloperba
+ENDOCRINE/METABOLIC AGENTS : Agents for Gout,Lo Loestrin Fe,Uloric
+ENDOCRINE/METABOLIC AGENTS : Bone: Parathyroid Hormone,Lo Loestrin Fe,Tymlos
+ENDOCRINE/METABOLIC AGENTS : Bone: SERMs,Lo Loestrin Fe,raloxifene
+"ENDOCRINE/METABOLIC AGENTS : Contraceptives, Non-Oral",Lo Loestrin Fe,Haloette
+"ENDOCRINE/METABOLIC AGENTS : Corticosteroids, Oral",Lo Loestrin Fe,prednisolone ODT
+ENDOCRINE/METABOLIC AGENTS : Diabetes: DPP-4 Inhibitors and Combinations,Lo Loestrin Fe,alogliptin
+ENDOCRINE/METABOLIC AGENTS : Diabetes: DPP-4 Inhibitors and Combinations,Lo Loestrin Fe,alogliptin/metformin
+ENDOCRINE/METABOLIC AGENTS : Diabetes: DPP-4 Inhibitors and Combinations,Lo Loestrin Fe,alogliptin/ pioglitazone
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Lo Loestrin Fe,Apidra SoloStar
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Lo Loestrin Fe,Humalog KwikPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Lo Loestrin Fe,Humalog Jr Kwik Pen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Lo Loestrin Fe,Admelog SoloStar
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Lo Loestrin Fe,Humalog U-200 KwikPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Lo Loestrin Fe,Humalog TempoPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Lo Loestrin Fe,Novolog FlexPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Mixed Insulins,Lo Loestrin Fe,Humalog Mix 50/50 KwikPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Mixed Insulins,Lo Loestrin Fe,Humalog Mix 75/25 KwikPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Mixed Insulins,Lo Loestrin Fe,Novolog Mix 70/30 FlexPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Lo Loestrin Fe,dapagliflozin
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,Lo Loestrin Fe,dapagliflozin/ metformin ER
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Glucagon Agents,Lo Loestrin Fe,Zegalogue
+"ENDOCRINE/METABOLIC AGENTS : Estrogens, Transdermal",Lo Loestrin Fe,Alora
+GASTROINTESTINAL : Agents for Chronic Constipation,Lo Loestrin Fe,prucalopride
+GASTROINTESTINAL : Agents for Irritable Bowel Syndrome (IBS),Lo Loestrin Fe,alosetron
+GASTROINTESTINAL : Agents for Irritable Bowel Syndrome (IBS),Lo Loestrin Fe,Lotronex
+GASTROINTESTINAL : Motility Agents,Lo Loestrin Fe,metoclopramide
+GASTROINTESTINAL : Motility Agents,Lo Loestrin Fe,metoclopramide solution
+GASTROINTESTINAL : Motility Agents,Lo Loestrin Fe,metoclopramide ODT
+MISCELLANEOUS : Saliva Stimulating Agents,Lo Loestrin Fe,pilocarpine
+"ONCOLOGY AGENTS : Colorectal Cancer Agents, Miscellaneous",Lo Loestrin Fe,Lonsurf
+ONCOLOGY AGENTS : Enzyme Inhibitors: ALK,Lo Loestrin Fe,Lorbrena
+ONCOLOGY AGENTS : Rare/Miscellaneous Oncology Conditions,Lo Loestrin Fe,Qinlock
+OPHTHALMICS : Dry Eye Disease Agents,Lo Loestrin Fe,cyclosporine emulsion 0.05%
+OPHTHALMICS : Ophthalmic Alpha-2 Agonists,Lo Loestrin Fe,apraclonidine
+OPHTHALMICS : Ophthalmic Antibiotics,Lo Loestrin Fe,ciprofloxacin
+OPHTHALMICS : Ophthalmic Antibiotics,Lo Loestrin Fe,moxifloxacin
+OPHTHALMICS : Ophthalmic Antibiotics,Lo Loestrin Fe,Ciloxan
+OPHTHALMICS : Ophthalmic Antibiotics,Lo Loestrin Fe,gatifloxacin 0.5% soln
+OPHTHALMICS : Ophthalmic Antibiotics,Lo Loestrin Fe,levofloxacin 0.5% soln
+OPHTHALMICS : Ophthalmic Antibiotics,Lo Loestrin Fe,moxifloxacin (3X Day)
+OPHTHALMICS : Ophthalmic Antibiotic/Steroid Combos,Lo Loestrin Fe,sulfacetamide/ prednisolone
+OPHTHALMICS : Ophthalmic Anti-Allergics,Lo Loestrin Fe,olopatadine
+OPHTHALMICS : Ophthalmic Anti-Allergics,Lo Loestrin Fe,Alocril
+OPHTHALMICS : Ophthalmic Anti-Allergics,Lo Loestrin Fe,Alomide
+OPHTHALMICS : Ophthalmic Beta Blockers,Lo Loestrin Fe,carteolol
+OPHTHALMICS : Ophthalmic Beta Blockers,Lo Loestrin Fe,timolol maleate
+OPHTHALMICS : Ophthalmic Beta Blockers,Lo Loestrin Fe,Betaxolol
+OPHTHALMICS : Ophthalmic Beta Blockers,Lo Loestrin Fe,Istalol
+OPHTHALMICS : Ophthalmic Beta Blockers,Lo Loestrin Fe,levobunolol
+OPHTHALMICS : Ophthalmic Beta Blockers,Lo Loestrin Fe,timolol gel solution
+OPHTHALMICS : Ophthalmic Carbonic Anhydrase Inhibitors,Lo Loestrin Fe,dorzolamide/timolol
+OPHTHALMICS : Glaucoma Combinations,Lo Loestrin Fe,brimonidine/timolol
+OPHTHALMICS : Ophthalmic NSAIDs ,Lo Loestrin Fe,diclofenac
+OPHTHALMICS : Ophthalmic Steroids,Lo Loestrin Fe,fluorometholone
+OPHTHALMICS : Ophthalmic Steroids,Lo Loestrin Fe,Lotemax suspension
+OPHTHALMICS : Ophthalmic Steroids,Lo Loestrin Fe,prednisolone acetate
+OPHTHALMICS : Ophthalmic Steroids,Lo Loestrin Fe,Lotemax SM gel
+OPHTHALMICS : Ophthalmic Steroids,Lo Loestrin Fe,Lotemax ointment
+OPHTHALMICS : Ophthalmic Steroids,Lo Loestrin Fe,loteprednol gel
+OPHTHALMICS : Ophthalmic Steroids,Lo Loestrin Fe,loteprednol suspension
+OPHTHALMICS : Ophthalmic Steroids,Lo Loestrin Fe,prednisolone sodium phosphate
+OTICS : Otic Quinolones,Lo Loestrin Fe,ciprofloxacin otic
+OTICS : Otic Quinolones,Lo Loestrin Fe,ofloxacin otic
+OTICS : Otic Steroid/Antibiotic Combinations,Lo Loestrin Fe,ciprofloxacindexamethasone
+RARE CONDITIONS : Hyperoxaluria Agents,Lo Loestrin Fe,Rivfloza
+RARE CONDITIONS : Sickle Cell Disease,Lo Loestrin Fe,Siklos
+RARE CONDITIONS : Somatostatins and Related Agents,Lo Loestrin Fe,Xermelo
+RENAL AND GENITOURINARY : Alpha Blockers for BPH,Lo Loestrin Fe,tamsulosin
+RENAL AND GENITOURINARY : Alpha Blockers for BPH,Lo Loestrin Fe,Flomax
+RENAL AND GENITOURINARY : Agents for BPH,Lo Loestrin Fe,dutasteride/ tamsulosin
+"RESPIRATORY : Antihistamines, Nasal",Lo Loestrin Fe,olopatadine
+"RESPIRATORY : Antihistamines: Non-Sedating, Oral (Covered for recipients < 21 years old only)",Lo Loestrin Fe,loratadine tablets
+"RESPIRATORY : Antihistamines: Non-Sedating, Oral (Covered for recipients < 21 years old only)",Lo Loestrin Fe,loratadine syrup
+"RESPIRATORY : Antihistamines: Non-Sedating, Oral (Covered for recipients < 21 years old only)",Lo Loestrin Fe,loratadine chewable
+"RESPIRATORY : Antihistamines: Non-Sedating, Oral (Covered for recipients < 21 years old only)",Lo Loestrin Fe,loratadine RDT
+"RESPIRATORY : Antihistamines: Non-Sedating, Oral (Covered for recipients < 21 years old only)",Lo Loestrin Fe,loratadine/PSE
+"RESPIRATORY : Antihistamines: Non-Sedating, Oral (Covered for recipients < 21 years old only)",Lo Loestrin Fe,desloratadine
+"RESPIRATORY : Antihistamines: Non-Sedating, Oral (Covered for recipients < 21 years old only)",Lo Loestrin Fe,desloratadine ODT
+RESPIRATORY : Inhaled: Steroids,Lo Loestrin Fe,Flovent Diskus
+RESPIRATORY : Inhaled: Steroids,Lo Loestrin Fe,Flovent HFA
+RESPIRATORY : Intranasal: Steroids,Lo Loestrin Fe,triamcinolone acetonide
+RESPIRATORY : Leukotriene Modifiers,Lo Loestrin Fe,Zyflo
+RESPIRATORY : Miscellaneous: OTC Products,Lo Loestrin Fe,Peak Flow Meters
+SMOKING CESSATION AGENTS : Smoking Cessation Agents,Lo Loestrin Fe,nicotine polacrilex lozenge
+VITAMINS/ELECTROLYTES : Potassium Depletors,Lo Loestrin Fe,Lokelma
+ANTI-INFECTIVES : Antivirals: HIV Pharmacokinetic Enhancers,Norvir oral solution,Norvir pack
+ANTI-INFECTIVES : Antivirals: HIV Pharmacokinetic Enhancers,Norvir oral solution,Norvir tablet
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Rapid-Acting Insulins,Novolog cartridge,Novolog FlexPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Mixed Insulins,Novolog cartridge,Novolog Mix 70/30 FlexPen
+DIABETIC SUPPLIES : Insulin Management Systems,NP Thyroid,InPen
+ENDOCRINE/METABOLIC AGENTS : Diabetes: SGLT2 Inhibitors and Combinations,NP Thyroid,Inpefa
+ONCOLOGY AGENTS : Enzyme Inhibitors: PARP Inhibitors,NP Thyroid,Lynparza
+ANALGESICS : NSAID/Anti-Ulcer Agents,Omeprazole capsule,naproxen/  esomeprazole
+ANALGESICS : NSAID/Anti-Ulcer Agents,Omeprazole tablet,naproxen/  esomeprazole
+ANALGESICS : Buprenorphine and Buprenorphine/Naloxone,One Touch Verio Test Strips 50 ct,buprenorphine/ naloxone tablets
+ANALGESICS : Buprenorphine and Buprenorphine/Naloxone,One Touch Verio Test Strips 50 ct,buprenorphine/ naloxone film
+ANALGESICS : Buprenorphine and Buprenorphine/Naloxone,One Touch Verio Test Strips 50 ct,Suboxone film
+ANALGESICS : Naloxone Products,One Touch Verio Test Strips 50 ct,naloxone injection
+ANALGESICS : Naloxone Products,One Touch Verio Test Strips 50 ct,naloxone nasal spray (Rx & OTC)
+ANALGESICS : Narcotic Agonist/Antagonists,One Touch Verio Test Strips 50 ct,pentazocine/ naloxone
+"ANALGESICS : Narcotics, Long-Acting ",One Touch Verio Test Strips 50 ct,hydrocodone   ER
+"ANALGESICS : Narcotics, Long-Acting ",One Touch Verio Test Strips 50 ct,hydromorphone ER
+"ANALGESICS : Narcotics, Long-Acting ",One Touch Verio Test Strips 50 ct,methadone
+"ANALGESICS : Narcotics, Long-Acting ",One Touch Verio Test Strips 50 ct,oxycodone ER
+"ANALGESICS : Narcotics, Long-Acting ",One Touch Verio Test Strips 50 ct,Oxymorphone  ER
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,hydrocodone/ APAP 325 mg
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,hydrocodone/ ibuprofen
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,hydromorphone tabs
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,oxycodone/ APAP 325mg
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,oxycodone concentrate
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,oxycodone tabs
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,oxycodone soln
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,benzhydrocodone/ APAP
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,hydrocodone/ APAP 300 mg
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,hydromorphone liquid
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,hydromorphone suppositories
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,oxycodone/ APAP 300 mg
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,oxycodone caps
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,oxymorphone
+"ANALGESICS : Narcotics, Short-Acting ",One Touch Verio Test Strips 50 ct,Roxicodone
+"ANTI-INFECTIVES : Anti-Infectives: Antiprotozoals, Oral",One Touch Verio Test Strips 50 ct,atovaquone
+CARDIOVASCULAR : Diuretics: Potassium Sparing,One Touch Verio Test Strips 50 ct,eplerenone
+CARDIOVASCULAR : Diuretics: Potassium Sparing,One Touch Verio Test Strips 50 ct,spironolactone susp
+CARDIOVASCULAR : Pulmonary Fibrosis Agents,One Touch Verio Test Strips 50 ct,pirfenidone tablets
+CARDIOVASCULAR : Pulmonary Fibrosis Agents,One Touch Verio Test Strips 50 ct,pirfenidone capsules
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,One Touch Verio Test Strips 50 ct,donepezil (excluding 23 mg)
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,One Touch Verio Test Strips 50 ct,donepezil ODT
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,One Touch Verio Test Strips 50 ct,donepezil 23 mg
+CENTRAL NERVOUS SYSTEM : Anti-Anxiety and Anti-Panic Agents,One Touch Verio Test Strips 50 ct,buspirone
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,One Touch Verio Test Strips 50 ct,Vigadrone
+CENTRAL NERVOUS SYSTEM : Antidepressants: New Generation,One Touch Verio Test Strips 50 ct,trazodone (excluding 300mg)
+CENTRAL NERVOUS SYSTEM : Antidepressants: New Generation,One Touch Verio Test Strips 50 ct,nefazodone
+CENTRAL NERVOUS SYSTEM : Antidepressants: New Generation,One Touch Verio Test Strips 50 ct,trazodone 300mg
+CENTRAL NERVOUS SYSTEM : Antidepressants: SSRI,One Touch Verio Test Strips 50 ct,vilazodone
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,One Touch Verio Test Strips 50 ct,lurasidone
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,One Touch Verio Test Strips 50 ct,paliperidone ER
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,One Touch Verio Test Strips 50 ct,risperidone ODT
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,One Touch Verio Test Strips 50 ct,risperidone solution
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,One Touch Verio Test Strips 50 ct,risperidone tabs
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,One Touch Verio Test Strips 50 ct,ziprasidone injection
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,One Touch Verio Test Strips 50 ct,ziprasidone caps
+CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,One Touch Verio Test Strips 50 ct,risperidone ER injection
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,One Touch Verio Test Strips 50 ct,eszopiclone
+CENTRAL NERVOUS SYSTEM : Typical Antipsychotics,One Touch Verio Test Strips 50 ct,molindone
+"DERMATOLOGICS : Acne Agents, Topical ",One Touch Verio Test Strips 50 ct,Aczone
+"DERMATOLOGICS : Acne Agents, Topical ",One Touch Verio Test Strips 50 ct,dapsone gel
+"DERMATOLOGICS : Anesthetics, Topical",One Touch Verio Test Strips 50 ct,lidocaine/ hydrocortisone
+"DERMATOLOGICS : Anesthetics, Topical",One Touch Verio Test Strips 50 ct,Pramosone 2.5-1% lotion
+"DERMATOLOGICS : Antifungal Agents, Topical",One Touch Verio Test Strips 50 ct,clotrimazole/ betamethasone
+"DERMATOLOGICS : Antifungal Agents, Topical",One Touch Verio Test Strips 50 ct,nystatin/ triamcinolone
+"DERMATOLOGICS : Antipsoriatics, Topical",One Touch Verio Test Strips 50 ct,Taclonex
+"DERMATOLOGICS : Antipsoriatics, Topical",One Touch Verio Test Strips 50 ct,calcipotriene/ betamethasone
+DERMATOLOGICS : Topical Steroids: Least Potent,One Touch Verio Test Strips 50 ct,hydrocortisone 0.5% cream and ointment (Rx & OTC)
+DERMATOLOGICS : Topical Steroids: Least Potent,One Touch Verio Test Strips 50 ct,"hydrocortisone 1% cream, lotion, gel, and ointment (Rx & OTC)"
+DERMATOLOGICS : Topical Steroids: Least Potent,One Touch Verio Test Strips 50 ct,"hydrocortisone 2.5% cream, lotion, and ointment"
+DERMATOLOGICS : Topical Steroids: Mild,One Touch Verio Test Strips 50 ct,"fluocinolone 0.01% cream, oil, solution"
+DERMATOLOGICS : Topical Steroids: Lower Mid-Strength,One Touch Verio Test Strips 50 ct,betamethasone dipropionate 0.05% lotion
+DERMATOLOGICS : Topical Steroids: Lower Mid-Strength,One Touch Verio Test Strips 50 ct,betamethasone valerate 0.1% cream
+DERMATOLOGICS : Topical Steroids: Lower Mid-Strength,One Touch Verio Test Strips 50 ct,clocortolone 0.1% cream and pump
+DERMATOLOGICS : Topical Steroids: Lower Mid-Strength,One Touch Verio Test Strips 50 ct,"hydrocortisone butyrate 0.1% cream, lotion, ointment, solution"
+DERMATOLOGICS : Topical Steroids: Lower Mid-Strength,One Touch Verio Test Strips 50 ct,hydrocortisone valerate 0.2% cream
+DERMATOLOGICS : Topical Steroids: Mid-Strength,One Touch Verio Test Strips 50 ct,triamcinolone acetonide 0.1% cream
+DERMATOLOGICS : Topical Steroids: Mid-Strength,One Touch Verio Test Strips 50 ct,hydrocortisone
+DERMATOLOGICS : Topical Steroids: Upper Mid-Strength,One Touch Verio Test Strips 50 ct,betamethasone valerate 0.1% ointment
+DERMATOLOGICS : Topical Steroids: Upper Mid-Strength,One Touch Verio Test Strips 50 ct,fluticasone
+DERMATOLOGICS : Topical Steroids: Upper Mid-Strength,One Touch Verio Test Strips 50 ct,"triamcinolone acetonide 0.025% cream, lotion and ointment"
+DERMATOLOGICS : Topical Steroids: Upper Mid-Strength,One Touch Verio Test Strips 50 ct,triamcinolone acetonide 0.05% ointment
+DERMATOLOGICS : Topical Steroids: Upper Mid-Strength,One Touch Verio Test Strips 50 ct,triamcinolone acetonide 0.1% lotion and ointment
+DERMATOLOGICS : Topical Steroids: Upper Mid-Strength,One Touch Verio Test Strips 50 ct,triamcinolone acetonide 0.5% cream and ointment
+DERMATOLOGICS : Topical Steroids: Upper Mid-Strength,One Touch Verio Test Strips 50 ct,betamethasone dipropionate 0.05% cream
+DERMATOLOGICS : Topical Steroids: Upper Mid-Strength,One Touch Verio Test Strips 50 ct,betamethasone valerate 0.12% foam
+DERMATOLOGICS : Topical Steroids: Upper Mid-Strength,One Touch Verio Test Strips 50 ct,desoximetasone 0.05% cream
+DERMATOLOGICS : Topical Steroids: Potent,One Touch Verio Test Strips 50 ct,"betamethasone dipropionate, augmented 0.05% cream"
+DERMATOLOGICS : Topical Steroids: Potent,One Touch Verio Test Strips 50 ct,"betamethasone dipropionate, augmented 0.05% lotion"
+DERMATOLOGICS : Topical Steroids: Potent,One Touch Verio Test Strips 50 ct,betamethasone dipropionate 0.05% ointment
+DERMATOLOGICS : Topical Steroids: Potent,One Touch Verio Test Strips 50 ct,desoximetasone 0.05% gel and
+DERMATOLOGICS : Topical Steroids: Potent,One Touch Verio Test Strips 50 ct,"desoximetasone 0.25% cream, ointment, spray"
+DERMATOLOGICS : Topical Steroids: Potent,One Touch Verio Test Strips 50 ct,diflorasone diacetate 0.05% cream and ointment
+DERMATOLOGICS : Topical Steroids: Super Potent,One Touch Verio Test Strips 50 ct,"betamethasone dipropionate, augmented 0.05% gel and ointment"
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),One Touch Verio Test Strips 50 ct,"OneTouch Meters: UltraMini, Ping, Ultra-2, UltraLink, UltraSmart"
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),One Touch Verio Test Strips 50 ct,All other OneTouch diabetic supplies
+DIABETIC SUPPLIES : Blood Glucose Meters and Test Strips  (OTC),One Touch Verio Test Strips 50 ct,Ketone Testing Strips
+ENDOCRINE/METABOLIC AGENTS : Androgens,One Touch Verio Test Strips 50 ct,testosterone gel (excluding 2%)
+ENDOCRINE/METABOLIC AGENTS : Androgens,One Touch Verio Test Strips 50 ct,testosterone cypionate
+ENDOCRINE/METABOLIC AGENTS : Androgens,One Touch Verio Test Strips 50 ct,Depo-Testosterone
+ENDOCRINE/METABOLIC AGENTS : Androgens,One Touch Verio Test Strips 50 ct,methyltestosterone
+ENDOCRINE/METABOLIC AGENTS : Androgens,One Touch Verio Test Strips 50 ct,testosterone enanthate injection
+ENDOCRINE/METABOLIC AGENTS : Androgens,One Touch Verio Test Strips 50 ct,Testosterone 2%  gel
+ENDOCRINE/METABOLIC AGENTS : Bone: Bisphosphonate,One Touch Verio Test Strips 50 ct,Actonel
+"ENDOCRINE/METABOLIC AGENTS : Corticosteroids, Oral",One Touch Verio Test Strips 50 ct,prednisolone ODT
+ENDOCRINE/METABOLIC AGENTS : Diabetes: DPP-4 Inhibitors and Combinations,One Touch Verio Test Strips 50 ct,alogliptin/ pioglitazone
+ENDOCRINE/METABOLIC AGENTS : Diabetes: TZDs and Combinations,One Touch Verio Test Strips 50 ct,pioglitazone
+ENDOCRINE/METABOLIC AGENTS : Diabetes: TZDs and Combinations,One Touch Verio Test Strips 50 ct,pioglitazone/    metformin
+ENDOCRINE/METABOLIC AGENTS : Diabetes: TZDs and Combinations,One Touch Verio Test Strips 50 ct,pioglitazone/ glimepiride
+"ENDOCRINE/METABOLIC AGENTS : Progestins, Oral",One Touch Verio Test Strips 50 ct,norethindrone acetate
+GASTROINTESTINAL : Agents for Chronic Constipation,One Touch Verio Test Strips 50 ct,lubiprostone
+GASTROINTESTINAL : Agents for Irritable Bowel Syndrome (IBS),One Touch Verio Test Strips 50 ct,lubiprostone
+GASTROINTESTINAL : Agents for Irritable Bowel Syndrome (IBS),One Touch Verio Test Strips 50 ct,Lotronex
+GASTROINTESTINAL : Gallstone Solubilizing Agents,One Touch Verio Test Strips 50 ct,Reltone
+"GASTROINTESTINAL : Inflammatory Bowel Disease, Miscellaneous Agents",One Touch Verio Test Strips 50 ct,hydrocortisone AC suppository
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",One Touch Verio Test Strips 50 ct,Avonex
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",One Touch Verio Test Strips 50 ct,Avonex Pack
+"IMMUNOLOGICS : Multiple Sclerosis Agents, Injectable",One Touch Verio Test Strips 50 ct,Copaxone
+MISCELLANEOUS : Oral Iron Chelators,One Touch Verio Test Strips 50 ct,deferiprone
+OPHTHALMICS : Ophthalmic Antibiotic/Steroid Combos,One Touch Verio Test Strips 50 ct,sulfacetamide/ prednisolone
+OPHTHALMICS : Ophthalmic Antibiotic/Steroid Combos,One Touch Verio Test Strips 50 ct,tobramycin/ dexamethasone
+OPHTHALMICS : Ophthalmic Steroids,One Touch Verio Test Strips 50 ct,fluorometholone
+OPHTHALMICS : Ophthalmic Steroids,One Touch Verio Test Strips 50 ct,prednisolone acetate
+OPHTHALMICS : Ophthalmic Steroids,One Touch Verio Test Strips 50 ct,dexamethasone
+OPHTHALMICS : Ophthalmic Steroids,One Touch Verio Test Strips 50 ct,prednisolone sodium phosphate
+OTICS : Otic Steroid/Antibiotic Combinations,One Touch Verio Test Strips 50 ct,ciprofloxacindexamethasone
+RARE CONDITIONS : Somatostatins and Related Agents,One Touch Verio Test Strips 50 ct,Mifepristone 300 mg tablet
+RARE CONDITIONS : Tyrosinemia Type 1,One Touch Verio Test Strips 50 ct,nitisinone capsule
+"RESPIRATORY : Antihistamines, Nasal",One Touch Verio Test Strips 50 ct,azelastine/ fluticasone
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,One Touch Verio Test Strips 50 ct,fluticasone/ salmeterol aerosol
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,One Touch Verio Test Strips 50 ct,fluticasone/ salmeterol powder
+RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,One Touch Verio Test Strips 50 ct,fluticasone/ vilanterol
+RESPIRATORY : Inhaled: Steroids,One Touch Verio Test Strips 50 ct,fluticasone HFA
+RESPIRATORY : Intranasal: Steroids,One Touch Verio Test Strips 50 ct,fluticasone propionate
+RESPIRATORY : Intranasal: Steroids,One Touch Verio Test Strips 50 ct,mometasone furoate
+RESPIRATORY : Intranasal: Steroids,One Touch Verio Test Strips 50 ct,Nasonex
+RESPIRATORY : Intranasal: Steroids,One Touch Verio Test Strips 50 ct,triamcinolone acetonide
+VITAMINS/ELECTROLYTES : Vitamin K Products,One Touch Verio Test Strips 50 ct,phytonadione
+"ENDOCRINE/METABOLIC AGENTS : Estrogens, Vaginal",Premarin tablet,Premarin cream
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Proair Digihaler,ProAir RespiClick
+"RESPIRATORY : Inhaled: Beta Agonists, Short Acting",Proair HFA,ProAir RespiClick
+IMMUNOLOGICS : Immunosuppressants,Prograf vial,Prograf capsules
+IMMUNOLOGICS : Immunosuppressants,Prograf vial,Prograf packets
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Rivastigmine capsule,rivastigmine patch
+CENTRAL NERVOUS SYSTEM : Alzheimer’s: Cholinesterase Inhibitors,Rivastigmine oral solution,rivastigmine patch
+RENAL AND GENITOURINARY : Phosphorus Depletors,Sevelamer hydrochloride tablets,sevelamer carbonate tablets
+RENAL AND GENITOURINARY : Phosphorus Depletors,Sevelamer hydrochloride tablets,sevelamer carbonate packs
+CENTRAL NERVOUS SYSTEM : Agents for Narcolepsy,Sodium Polystyrene Sulfonate,sodium oxybate
+"DERMATOLOGICS : Acne Agents, Topical ",Sodium Polystyrene Sulfonate,sodium sulfacetamide/ sulfur
+"DERMATOLOGICS : Acne Agents, Topical ",Sodium Polystyrene Sulfonate,"All branded single agent and combination products of benzoyl peroxide, clindamycin, erythromycin, and sodium sulfacetamide"
+OPHTHALMICS : Ophthalmic Anti-Allergics,Sodium Polystyrene Sulfonate,cromolyn sodium
+OPHTHALMICS : Ophthalmic Steroids,Sodium Polystyrene Sulfonate,prednisolone sodium phosphate
+RARE CONDITIONS : Urea Cycle Disorders,Sodium Polystyrene Sulfonate,sodium phenylbutyrate
+"DERMATOLOGICS : Atopic Dermatitis, Topical",Tacrolimus capsule,tacrolimus ointment
+CENTRAL NERVOUS SYSTEM : Anticonvulsants,Topiramate tablet,topiramate ER
+ENDOCRINE/METABOLIC AGENTS : Diabetes: Long-Acting Insulins,Tresiba vial,Tresiba FlexTouch
+ONCOLOGY AGENTS : Enzyme Inhibitors: ALK,Xalkori capsule,Xalkori sprinkles
+"CARDIOVASCULAR : Anticoagulants, Oral",Xarelto starter pack,Xarelto
+"CARDIOVASCULAR : Anticoagulants, Oral",Xarelto starter pack,Xarelto suspension

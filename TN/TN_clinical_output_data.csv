@@ -102,6 +102,7 @@ OPHTHALMICS : Dry Eye Disease Agents,Cequa,Cequa,Non-Preferred
 RARE CONDITIONS : Lysosomal Storage Disease,Cerdelga,Cerdelga,Non-Preferred
 GASTROINTESTINAL : Gallstone Solubilizing Agents,Cholbam capsule,Cholbam,Non-Preferred
 "ANTI-INFECTIVES : Antibiotics, Vaginal",Cleocin 2% cream,Cleocin cream,Preferred
+"ANTI-INFECTIVES : Antibiotics: Lincosamides, Oral",Cleocin ovules / vaginal suppository,Cleocin Pediatric granules,Non-Preferred
 "ANTI-INFECTIVES : Antibiotics, Vaginal",Clindamycin 2% Cream,clindamycin phos 2% cream,Non-Preferred
 "ANTI-INFECTIVES : Antibiotics, Vaginal",Clindesse 2% prefilled applicator cream,Clindesse vaginal cream,Non-Preferred
 CENTRAL NERVOUS SYSTEM : Anticonvulsants,Clobazam oral suspension,clobazam suspension,Non-Preferred
@@ -331,6 +332,7 @@ ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Mounjaro,Mounjaro,Non-Preferred
 "CARDIOVASCULAR : Thrombopoietin Agonists, Orals",Mulpleta,Mulpleta,Non-Preferred
 ENDOCRINE/METABOLIC AGENTS : GnRH Agonist/Antagonist & LNRH Analogs,Myfembree Endometriosis,Myfembree,Preferred
 ENDOCRINE/METABOLIC AGENTS : GnRH Agonist/Antagonist & LNRH Analogs,Myfembree Uterine Fibroids,Myfembree,Preferred
+ANALGESICS : Naloxone Products,Naloxone carpuject,naloxone injection,Preferred
 ANALGESICS : Naloxone Products,Naloxone nasal spray,naloxone nasal spray (Rx & OTC),Preferred
 ANALGESICS : Naloxone Products,Naloxone vial,naloxone injection,Preferred
 CENTRAL NERVOUS SYSTEM : Alzheimer’s: NMDA Receptor Agent,Namzaric,Namzaric,Non-Preferred
@@ -614,6 +616,7 @@ ONCOLOGY AGENTS : Rare/Miscellaneous Oncology Conditions,Welireg,Welireg,Non-Pre
 CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Winrevair vial,Winrevair,Non-Preferred
 RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Wixela,Wixela,Non-Preferred
 ONCOLOGY AGENTS : Enzyme Inhibitors: ALK,Xalkori sprinkle capsule,Xalkori sprinkles,Non-Preferred
+"CARDIOVASCULAR : Anticoagulants, Oral",Xarelto,Xarelto,Preferred
 "CARDIOVASCULAR : Anticoagulants, Oral",Xarelto 2.5 mg,Xarelto,Preferred
 "CARDIOVASCULAR : Anticoagulants, Oral",Xarelto oral suspension,Xarelto suspension,Non-Preferred
 CENTRAL NERVOUS SYSTEM : Anticonvulsants,Xcopri,Xcopri,Non-Preferred
@@ -639,6 +642,7 @@ RARE CONDITIONS : Myasthenia Gravis,Zilbrysq,Zilbrysq,Non-Preferred
 CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Ziprasidone,ziprasidone caps,Preferred
 RARE CONDITIONS : Hutchinson-Gilford Progeria Syndrome,Zokinvy,Zokinvy,Non-Preferred
 CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Zolpidem,zolpidem,Preferred
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Zolpidem CR,zolpidem ER,Non-Preferred
 CENTRAL NERVOUS SYSTEM : Anticonvulsants,Zonisade,Zonisade,Non-Preferred
 CENTRAL NERVOUS SYSTEM : Anticonvulsants,Ztalmy,Ztalmy,Preferred
 CENTRAL NERVOUS SYSTEM : Antidepressants: New Generation,Zurzuvae,Zurzuvae,Non-Preferred

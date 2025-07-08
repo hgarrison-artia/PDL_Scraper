@@ -148,6 +148,7 @@ ANTICOAGULANTS (continued): ORAL,Eliquis,ELIQUIS (apixaban),Preferred
 NSAIDS: COX II SELECTIVE,Elyxyb,ELYXYB (celecoxib),Non-Preferred
 MUSCULAR DYSTROPHY AGENTS,Emflaza oral suspension,EMFLAZA (deflazacort),Preferred
 MUSCULAR DYSTROPHY AGENTS,Emflaza tablet,EMFLAZA (deflazacort),Preferred
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES","Emgality 100 mg/ml (300 mg total dose), syringe",EMGALITY Syringe (galcanezumab-gnlm) 300 mg/mL,Non-Preferred
 "ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES","Emgality 120 mg, pen",EMGALITY Pen (galcanezumab-gnlm) DUR+,Preferred
 "ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES","Emgality 120 mg, syringe",EMGALITY Syringe (galcanezumab-gnlm) 120 mg/mL DUR+,Preferred
 ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Emtriva capsule,EMTRIVA (emtricitabine),Preferred
@@ -270,6 +271,7 @@ GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Konvomep,KONVOMEP (omeprazole/sodium 
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Krazati,KRAZATI (adagrasib),Non-Preferred
 ANTICONVULSANTS : ADJUVANTS,Lamictal ODT,LAMICTAL (lamotrigine),Non-Preferred
 ANTICONVULSANTS : ADJUVANTS,Lamictal tablet,LAMICTAL (lamotrigine),Non-Preferred
+ANTICONVULSANTS : ADJUVANTS,"Lamotrigine ODT, ER",lamotrigine ODT,Non-Preferred
 ANTICONVULSANTS : ADJUVANTS,Lamotrigine tablet,lamotrigine,Preferred
 GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Lansoprazole,lansoprazole Rx,Non-Preferred
 H. PYLORI COMBINATION TREATMENTS,Lansoprazole / Amoxicillin / Clarithromycin,lansoprazole/amoxicillin/clarithromycin,Non-Preferred
@@ -287,6 +289,7 @@ PULMONARY ANTIHYPERTENSIVE AGENTS (continued): PDE5 INHIBITORS,Liqrev,LIQREV (si
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Lisinopril,lisinopril,Preferred
 BILE SALTS,Livdelzi capsule,LIVDELZI (seladelpar),Non-Preferred
 BILE SALTS,Livmarli,LIVMARLI (maralixibat),Non-Preferred
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,Lo Loestrin Fe,LO LOESTRIN FE (norethindrone/ethinyl estradiol/iron),Non-Preferred
 SKELETAL MUSCLE RELAXANTS,Lorzone,LORZONE (chlorzoxazone),Non-Preferred
 ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Losartan,losartan,Preferred
 OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,Lucemyra,LUCEMYRA (lofexidine),Non-Preferred
@@ -304,6 +307,7 @@ ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,Memantine tablet,memantine,Pref
 SKELETAL MUSCLE RELAXANTS,Metaxalone,metaxalone,Non-Preferred
 "BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : BETA-BLOCKERS",Metoprolol Succinate ER tablet,metoprolol succinate,Preferred
 ROSACEA TREATMENTS,Metrogel 0.75%,METROGEL (metronidazole),Non-Preferred
+ROSACEA TREATMENTS,Metronidazole 0.75% Gel,metronidazole,Preferred
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Moexipril,moexipril,Non-Preferred
 ANTICONVULSANTS : ADJUVANTS,Motpoly XR,MOTPOLY XR (lacosamide),Non-Preferred
 "HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Mounjaro,MOUNJARO (tirzepatide),Non-Preferred
@@ -614,6 +618,7 @@ ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Z
 COLONY STIMULATING FACTORS (continued),Ziextenzo,ZIEXTENZO (pegfilgrastim-bmez),Non-Preferred
 "ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Ziprasidone Injectable,ziprasidone,Preferred
 "ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Ziprasidone Oral,ziprasidone,Preferred
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,Zolpidem CR,zolpidem ER,Non-Preferred
 SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,"Zolpidem capsule, sublingual",zolpidem capsule,Non-Preferred
 SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,Zolpidem tablet,zolpidem tablet,Preferred
 ANTICONVULSANTS (continued): ADJUVANTS (continued),Zonisade,ZONISADE (zonisamide) suspension,Non-Preferred

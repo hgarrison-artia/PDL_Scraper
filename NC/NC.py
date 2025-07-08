@@ -54,4 +54,6 @@ df['therapeutic_class'] = df['therapeutic_class'].fillna('') + ': ' + df['Subcla
 df = df.drop(['Subclass', 'Sub2class'], axis=1)
 df = df[df['pdl_name'].str.len() <= 200]
 
+df['pdl_name'] = df['pdl_name'].str.replace(r'\s*[-:]*\s*(clinical|clincal).*$', '', case=False, regex=True).str.strip()
+
 df.to_csv('NC_PDL.csv', index=False)

@@ -251,6 +251,7 @@ ANTICOAGULANTS (continued): ORAL,Eliquis,ELIQUIS (apixaban)
 NSAIDS: COX II SELECTIVE,Elyxyb,ELYXYB (celecoxib)
 MUSCULAR DYSTROPHY AGENTS,Emflaza oral suspension,EMFLAZA (deflazacort)
 MUSCULAR DYSTROPHY AGENTS,Emflaza tablet,EMFLAZA (deflazacort)
+"ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES","Emgality 100 mg/ml (300 mg total dose), syringe",EMGALITY Syringe (galcanezumab-gnlm) 300 mg/mL
 "ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES","Emgality 120 mg, pen",EMGALITY Pen (galcanezumab-gnlm) DUR+
 "ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES","Emgality 120 mg, syringe",EMGALITY Syringe (galcanezumab-gnlm) 120 mg/mL DUR+
 ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Emtriva capsule,EMTRIVA (emtricitabine)
@@ -450,6 +451,7 @@ GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Konvomep,KONVOMEP (omeprazole/sodium 
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Krazati,KRAZATI (adagrasib)
 ANTICONVULSANTS : ADJUVANTS,Lamictal ODT,LAMICTAL (lamotrigine)
 ANTICONVULSANTS : ADJUVANTS,Lamictal tablet,LAMICTAL (lamotrigine)
+ANTICONVULSANTS : ADJUVANTS,"Lamotrigine ODT, ER",lamotrigine ODT
 ANTICONVULSANTS : ADJUVANTS,Lamotrigine tablet,lamotrigine
 GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Lansoprazole,lansoprazole Rx
 H. PYLORI COMBINATION TREATMENTS,Lansoprazole / Amoxicillin / Clarithromycin,lansoprazole/amoxicillin/clarithromycin
@@ -468,6 +470,7 @@ ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Lisinopr
 CYTOKINE & CAM ANTAGONISTS (continued),Litfulo Alopecia Areata,LITFULO (ritlecitinib)
 BILE SALTS,Livdelzi capsule,LIVDELZI (seladelpar)
 BILE SALTS,Livmarli,LIVMARLI (maralixibat)
+SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,Lo Loestrin Fe,LO LOESTRIN FE (norethindrone/ethinyl estradiol/iron)
 SKELETAL MUSCLE RELAXANTS,Lorzone,LORZONE (chlorzoxazone)
 ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Losartan,losartan
 OPIATE DEPENDENCE TREATMENTS: DEPENDENCE,Lucemyra,LUCEMYRA (lofexidine)
@@ -485,6 +488,7 @@ ALZHEIMER’S AGENTS : NMDA RECETPOR ANTAGONISTS,Memantine tablet,memantine
 SKELETAL MUSCLE RELAXANTS,Metaxalone,metaxalone
 "BETA BLOCKERS, ANTIANGINALS & SINUS NODE AGENTS : BETA-BLOCKERS",Metoprolol Succinate ER tablet,metoprolol succinate
 ROSACEA TREATMENTS,Metrogel 0.75%,METROGEL (metronidazole)
+ROSACEA TREATMENTS,Metronidazole 0.75% Gel,metronidazole
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Moexipril,moexipril
 ANTICONVULSANTS : ADJUVANTS,Motpoly XR,MOTPOLY XR (lacosamide)
 "HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Mounjaro,MOUNJARO (tirzepatide)
@@ -886,6 +890,7 @@ ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Z
 COLONY STIMULATING FACTORS (continued),Ziextenzo,ZIEXTENZO (pegfilgrastim-bmez)
 "ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Ziprasidone Injectable,ziprasidone
 "ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Ziprasidone Oral,ziprasidone
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,Zolpidem CR,zolpidem ER
 SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,"Zolpidem capsule, sublingual",zolpidem capsule
 SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,Zolpidem tablet,zolpidem tablet
 ANTICONVULSANTS (continued): ADJUVANTS (continued),Zonisade,ZONISADE (zonisamide) suspension

@@ -155,6 +155,7 @@ IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cimzia Plaque Psoriasis (adult),
 IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cimzia Psoriatic Arthritis (adult),Cimzia
 IMMUNOLOGICS : Immunomodulators: TNF Inhibitors,Cimzia Rheumatoid Arthritis,Cimzia
 "ANTI-INFECTIVES : Antibiotics, Vaginal",Cleocin 2% cream,Cleocin cream
+"ANTI-INFECTIVES : Antibiotics: Lincosamides, Oral",Cleocin ovules / vaginal suppository,Cleocin Pediatric granules
 "ANTI-INFECTIVES : Antibiotics, Vaginal",Clindamycin 2% Cream,clindamycin phos 2% cream
 "ANTI-INFECTIVES : Antibiotics, Vaginal",Clindesse 2% prefilled applicator cream,Clindesse vaginal cream
 CENTRAL NERVOUS SYSTEM : Anticonvulsants,Clobazam oral suspension,clobazam suspension
@@ -488,6 +489,7 @@ ENDOCRINE/METABOLIC AGENTS : GLP-1 Agonists,Mounjaro,Mounjaro
 "CARDIOVASCULAR : Thrombopoietin Agonists, Orals",Mulpleta,Mulpleta
 ENDOCRINE/METABOLIC AGENTS : GnRH Agonist/Antagonist & LNRH Analogs,Myfembree Endometriosis,Myfembree
 ENDOCRINE/METABOLIC AGENTS : GnRH Agonist/Antagonist & LNRH Analogs,Myfembree Uterine Fibroids,Myfembree
+ANALGESICS : Naloxone Products,Naloxone carpuject,naloxone injection
 ANALGESICS : Naloxone Products,Naloxone nasal spray,naloxone nasal spray (Rx & OTC)
 ANALGESICS : Naloxone Products,Naloxone vial,naloxone injection
 CENTRAL NERVOUS SYSTEM : Alzheimer’s: NMDA Receptor Agent,Namzaric,Namzaric
@@ -887,6 +889,7 @@ ONCOLOGY AGENTS : Rare/Miscellaneous Oncology Conditions,Welireg,Welireg
 CARDIOVASCULAR : Pulmonary Arterial Hypertension (PAH) Agents,Winrevair vial,Winrevair
 RESPIRATORY : Inhaled: Beta Agonists-Corticosteroid Combination Products,Wixela,Wixela
 ONCOLOGY AGENTS : Enzyme Inhibitors: ALK,Xalkori sprinkle capsule,Xalkori sprinkles
+"CARDIOVASCULAR : Anticoagulants, Oral",Xarelto,Xarelto
 "CARDIOVASCULAR : Anticoagulants, Oral",Xarelto 2.5 mg,Xarelto
 "CARDIOVASCULAR : Anticoagulants, Oral",Xarelto oral suspension,Xarelto suspension
 CENTRAL NERVOUS SYSTEM : Anticonvulsants,Xcopri,Xcopri
@@ -966,6 +969,7 @@ RARE CONDITIONS : Myasthenia Gravis,Zilbrysq,Zilbrysq
 CENTRAL NERVOUS SYSTEM : Atypical Antipsychotics,Ziprasidone,ziprasidone caps
 RARE CONDITIONS : Hutchinson-Gilford Progeria Syndrome,Zokinvy,Zokinvy
 CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Zolpidem,zolpidem
+CENTRAL NERVOUS SYSTEM : Sedative Hypnotics,Zolpidem CR,zolpidem ER
 CENTRAL NERVOUS SYSTEM : Anticonvulsants,Zonisade,Zonisade
 "DERMATOLOGICS : Atopic Dermatitis, Topical","Zoryve cream, 0.15%, Atopic Dermatitis",Zoryve 0.15% cream
 "DERMATOLOGICS : Antipsoriatics, Topical","Zoryve cream, 0.3%, Plaque Psoriasis",Zoryve 0.3% cream
