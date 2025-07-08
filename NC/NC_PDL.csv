@@ -35,7 +35,7 @@ ANALGESICS: OPIOID ANALGESICS: Long Acting Opioids,oxycodone ER tablet (generic 
 ANALGESICS: OPIOID ANALGESICS: Long Acting Opioids,oxymorphone ER tablet,Non-Preferred
 ANALGESICS: OPIOID ANALGESICS: Long Acting Opioids,tramadol ER capsule (generic for Conzip®),Non-Preferred
 ANALGESICS: OPIOID ANALGESICS: Orally Disintegrating / Oral Spray Schedule II Opioids,Actiq® Lozenge,Preferred
-ANALGESICS: OPIOID ANALGESICS: Orally Disintegrating / Oral Spray Schedule II Opioids,Dsuvia™  SL Tablet,Non-Preferred
+ANALGESICS: OPIOID ANALGESICS: Orally Disintegrating / Oral Spray Schedule II Opioids,Dsuvia™ SL Tablet,Non-Preferred
 ANALGESICS: OPIOID ANALGESICS: Orally Disintegrating / Oral Spray Schedule II Opioids,fentanyl citrate buccal tablet (generic for Fentora®),Non-Preferred
 ANALGESICS: OPIOID ANALGESICS: Orally Disintegrating / Oral Spray Schedule II Opioids,fentanyl citrate lozenge (generic for Actiq®),Non-Preferred
 ANALGESICS: OPIOID ANALGESICS: Orally Disintegrating / Oral Spray Schedule II Opioids,Fentora® Buccal Tablet,Non-Preferred
@@ -73,10 +73,10 @@ ANALGESICS: OPIOID ANALGESICS: Short Acting Schedule III – IV Opioids / Analge
 ANALGESICS: OPIOID ANALGESICS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,dihydrocodeine-acetaminophen-caffeine tablet (generic for Panlor SS®),Non-Preferred
 ANALGESICS: OPIOID ANALGESICS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Fioricet with Codeine® Capsule,Non-Preferred
 ANALGESICS: OPIOID ANALGESICS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,pentazocine-naloxone tablet (generic for Talwin NX®),Non-Preferred
-ANALGESICS: OPIOID ANALGESICS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Qdolo™ Solution,Non-Preferred
 ANALGESICS: OPIOID ANALGESICS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Seglentis® Tablet,Non-Preferred
 ANALGESICS: OPIOID ANALGESICS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,tramadol solution (generic for Qdolo™),Non-Preferred
 ANALGESICS: OPIOID ANALGESICS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,tramadol tablet (25 mg),Non-Preferred
+ANALGESICS: OPIOID ANALGESICS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,tramadol tablet (75 mg),Non-Preferred
 ANALGESICS: NSAIDS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,celecoxib capsule (generic for Celebrex®),Preferred
 ANALGESICS: NSAIDS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Arthrotec® Tablet,Non-Preferred
 ANALGESICS: NSAIDS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,ibuprofen suspension / tablet (generic for Motrin®),Preferred
@@ -105,7 +105,6 @@ ANALGESICS: NSAIDS: Short Acting Schedule III – IV Opioids / Analgesic Combina
 ANALGESICS: NSAIDS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,indomethacin suppository,Non-Preferred
 ANALGESICS: NSAIDS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,ketoprofen capsule (generic for Orudis®),Non-Preferred
 ANALGESICS: NSAIDS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,ketoprofen ER capsule (generic for Oruvail®),Non-Preferred
-ANALGESICS: NSAIDS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,ketorolac tromethamine nasal spray (generic for Sprix®),Non-Preferred
 ANALGESICS: NSAIDS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Kiprofen™ (ketoprofen) Capsule (branded generic for Orudis®),Non-Preferred
 ANALGESICS: NSAIDS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Lofena™ Tablet,Non-Preferred
 ANALGESICS: NSAIDS: Short Acting Schedule III – IV Opioids / Analgesic Combinations,meclofenamate capsule (generic for Meclomen®),Non-Preferred
@@ -129,7 +128,7 @@ ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analges
 ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,gabapentin capsule / solution / tablet (generic for Neurontin®),Preferred
 ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,DermacinRx™ Lidocan Patch,Non-Preferred
 ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,lidocaine patch (generic for Lidoderm®),Preferred
-ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Drizalma™  Sprinkle,Non-Preferred
+ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Drizalma™ Sprinkle,Non-Preferred
 ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,pregabalin capsule /solution (generic for Lyrica®),Preferred
 ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,duloxetine capsule (generic for Irenka®),Non-Preferred
 ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,gabapentin ER tablet (generic for Gralise®),Non-Preferred
@@ -143,7 +142,7 @@ ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analges
 ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Qutenza® Kit,Non-Preferred
 ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Savella® Tablet / Titration Pack,Non-Preferred
 ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Tridacaine™ Patch,Non-Preferred
-ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,ZTLido™  Patch,Non-Preferred
+ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,ZTLido™ Patch,Non-Preferred
 ANTICONVULSANTS: CARBAMAZEPINE DERIVATIVES: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Aptiom® Tablet,Preferred
 ANTICONVULSANTS: CARBAMAZEPINE DERIVATIVES: Short Acting Schedule III – IV Opioids / Analgesic Combinations,carbamazepine ER capsule (generic for Carbatrol®),Non-Preferred
 ANTICONVULSANTS: CARBAMAZEPINE DERIVATIVES: Short Acting Schedule III – IV Opioids / Analgesic Combinations,carbamazepine tablet / suspension / chewable tablet / XR tablet (generic for Tegretol® / XR),Preferred
@@ -175,59 +174,58 @@ ANTICONVULSANTS: FIRST GENERATION: Short Acting Schedule III – IV Opioids / An
 ANTICONVULSANTS: FIRST GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,phenytoin extended capsules (generic for Phenytek®),Preferred
 ANTICONVULSANTS: FIRST GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,primidone Tablet (generic for Mysoline®),Preferred
 ANTICONVULSANTS: FIRST GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,valproic acid capsule / solution (generic for Depakene®),Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Banzel® Tablet+B171:C198,Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Banzel® Suspension,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Briviact® Tablet / Solution,Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,clonazepam ODT (generic for Klonopin® Wafer),Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Banzel® Suspension,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,clobazam suspension / tablet  (generic for Onfi®),Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Elepsia™ XR Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Banzel® Tablet,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,clonazepam tablet (generic for Klonopin®),Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Keppra® Tablet / Solution / XR Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,clonazepam ODT (generic for Klonopin® Wafer),Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Diacomit® Capsule / Powder Pack,Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Klonopin® Tablet,Non-Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Diastat® Acudial® / Pedi System,Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Lamictal® Chewable / ODT / ODT Starter Kit / Starter Kit / Tablet / XR / XR Starter Kit,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Elepsia™ XR Tablet,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,diazepam rectal / system (generic for Diastat® Accudial / Pedi System),Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,lamotrigine starter kits  (generic for Lamictal®),Non-Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Epidiolex® Solution,Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Libervant™ (diazepam) Buccal Film,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Epidiolex® Solution,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Eprontia™ Solution,Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Lyrica® Capsule / Solution,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Keppra® Tablet / Solution / XR Tablet,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Fintepla®  Solution,Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Motopoly XR™ (lacosamide extended release) Capsule,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Klonopin® Tablet,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Fycompa® Tablet / Suspension,Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Neurontin® Capsule / Solution / Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Lamictal® Chewable / ODT / ODT Starter Kit / Starter Kit / Tablet / XR / XR Starter Kit,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,gabapentin capsule / solution / tablet (generic for Neurontin®),Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Onfi® Suspension / Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,lamotrigine starter kits  (generic for Lamictal®),Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,lacosamide solution / tablet (generic for Vimpat®),Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Qudexy® XR Capsule,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Libervant™ (diazepam) Buccal Film,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,lamotrigine chewable / tablet (generic for Lamictal®),Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,rufinamide tablet (generic for Banzel®),Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Lyrica® Capsule / Solution,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,lamotrigine ER tablet / ODT / ODT Starter Kit / Starter Kit (generic for Lamictal® XR / ODT),Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Spritam® Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Motopoly XR™ (lacosamide extended release) Capsule,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,levetiracetam tablet / ER tablet / solution (generic for Keppra® / XR),Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Sympazan® Film,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Neurontin® Capsule / Solution / Tablet,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Nayzilam® Nasal Spray,Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Topamax® Sprinkle Capsule / Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Onfi® Suspension / Tablet,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Roweepra™ Tablet,Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,topiramate ER capsule (generic for Qudexy®),Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Qudexy® XR Capsule,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,rufinamide suspension (generic for Banzel®),Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,topiramate ER capsule (generic for Trokendi XR®),Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Spritam® Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,rufinamide tablet (generic for Banzel®),Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Sympazan® Film,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Sabril® Tablet / Powder Packet,Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Trokendi® XR Capsule,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Topamax® Sprinkle Capsule / Tablet,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Subvenite® Tablet / Tab Start Kit,Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,vigabatrin tablet (generic for Sabril®),Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,topiramate ER capsule (generic for Trokendi XR®),Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,tiagabine tablet (generic for Gabitril®),Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vigadrone® Powder Packet / Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,topiramate ER sprinkle capsule (generic for Qudexy®),Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,topiramate sprinkle capsule / tablet (generic for Topamax®),Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vigafyde™ Solution,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Trokendi® XR Capsule,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Valtoco® Nasal Spray,Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vigpoder™ Powder Packet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,vigabatrin tablet (generic for Sabril®),Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,vigabatrin powder packet (generic for Sabril®),Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vimpat® Solution / Starter Kit / Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vigadrone® Powder Packet / Tablet,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Xcopri® Tablet / Titration Pack,Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Zonisade™ Oral Suspension,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vigafyde™ Solution,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,zonisamide capsule (generic for Zonegran®),Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vigpoder™ Powder Packet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vimpat® Solution / Starter Kit / Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Zonisade™ Oral Suspension,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Ztalmy® Oral Suspension,Non-Preferred
 "ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Penicillins, Cephalosporins and Related","amoxicillin capsule / chewable / suspension / tablet (generic for Amoxil®, Trimox®)",Preferred
 "ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Penicillins, Cephalosporins and Related",amoxicillin-clavulanate chewable tablet (generic for Augmentin®),Non-Preferred
@@ -288,13 +286,13 @@ ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Nitroimidazoles (Gastrointestinal Antib
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Nitroimidazoles (Gastrointestinal Antibiotics),neomycin tablet (generic for Mycifradin®),Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Nitroimidazoles (Gastrointestinal Antibiotics),nitazoxanide tablet (generic for Alinia® Tablet),Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Nitroimidazoles (Gastrointestinal Antibiotics),paromomycin capsule (generic for Humatin®),Non-Preferred
-ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Nitroimidazoles (Gastrointestinal Antibiotics),Solosec™  Granules,Non-Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Nitroimidazoles (Gastrointestinal Antibiotics),Solosec™ Granules,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Nitroimidazoles (Gastrointestinal Antibiotics),tinidazole tablet (generic for Tindamax®),Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Nitroimidazoles (Gastrointestinal Antibiotics),Vancocin® Capsule,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Nitroimidazoles (Gastrointestinal Antibiotics),Vowst™ Capsule,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Nitroimidazoles (Gastrointestinal Antibiotics),Xifaxan® Tablet,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Quinolones,Cipro® Suspension,Preferred
-ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Quinolones,Baxdela™  Tablet,Non-Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Quinolones,Baxdela™ Tablet,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Quinolones,ciprofloxacin tablet (generic for Cipro®),Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Quinolones,Cipro® Tablet,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Quinolones,levofloxacin tablet (generic for Levaquin®),Preferred
@@ -321,8 +319,7 @@ ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Tetracycline Derivatives,Nuzyra™ Tabl
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Tetracycline Derivatives,Solodyn® ER Tablet,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Tetracycline Derivatives,tetracycline capsule (generic for Sumycin®),Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Tetracycline Derivatives,tetracycline tablet (generic for Sumycin® / Panmycin®),Non-Preferred
-ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Tetracycline Derivatives,Vibramycin® Capsule,Non-Preferred
-ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antifungals,clotrimazole troche (generic for Mycelex® Troche),Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antifungals,clotrimazole troche / lozenge (generic for Mycelex® Troche),Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antifungals,Ancobon® Capsule,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antifungals,fluconazole suspension / tablet (generic for Diflucan®),Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antifungals,Brexafemme® Tablet,Non-Preferred
@@ -341,7 +338,7 @@ ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antifungals,Noxafil® Suspension / Tabl
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antifungals,Oravig® Buccal Tablet,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antifungals,posaconazole tablet / suspension (generic for Noxafil®),Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antifungals,Sporanox® Capsule / Solution,Non-Preferred
-ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antifungals,Tolsura™  Capsule,Non-Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antifungals,Tolsura™ Capsule,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antifungals,Vfend® Suspension / Tablet,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antifungals,Vivjoa® Capsule,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antifungals,voriconazole suspension / tablet (generic for Vfend®),Non-Preferred
@@ -349,11 +346,11 @@ ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis B Agents),entecav
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis B Agents),adefovir tablet (generic for Hepsera® ),Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis B Agents),lamivudine HBV tablet (generic for Epivir® HBV),Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis B Agents),Baraclude® Solution / Tablet,Non-Preferred
-ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis B Agents),tenofovir tablet (generic for Viread®),Preferred
-ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis B Agents),Vemlidy® Tablet,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis B Agents),Viread® Powder / Tablet,Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis B Agents),Vemlidy® Tablet,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),Pegasys® Syringe / Vial,Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),"ribavirin capsule / tablet (generic for Copegus®, Rebetol®)",Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),All genotypes without cirrhosis,Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),Epclusa® Pellet Pack/Tablet,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),Mavyret® Tablet (8 weeks of therapy),Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),Harvoni® Pellet Pack / Tablet,Non-Preferred
@@ -362,10 +359,12 @@ ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),ledipas
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),sofosbuvir-velpatasvir tablet (generic for Epclusa®),Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),Sovaldi® Pellet Pack / Tablet,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),Zepatier® Tablet,Non-Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),All genotypes with compensated cirrhosis (Child Pugh-A),Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),Mavyret® Tablet (Up to 12 weeks of therapy),Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),Mavyret® Pellet Pack,Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),sofosbuvir-velpatasvir tablet (generic for Epclusa®),Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),Vosevi™ Tablet,Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),All genotypes with decompensated cirrhosis,Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis C Agents),sofosbuvir-velpatasvir tablet (generic for Epclusa®),Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Herpes Treatments),acyclovir capsule / tablet / suspension (generic for Zovirax®),Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Herpes Treatments),Sitavig® Buccal Tablet,Non-Preferred
@@ -378,14 +377,14 @@ ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Influenza),rimantadine tabl
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Influenza),Flumadine® Tablet,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Influenza),Relenza® Diskhaler,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Influenza),Tamiflu® Capsule / Suspension,Non-Preferred
-ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Influenza),Xofluza™  Tablet,Non-Preferred
-"ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antibiotics, Inhaled",Kitabis™  Pak,Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Influenza),Xofluza™ Tablet,Non-Preferred
+"ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antibiotics, Inhaled",Kitabis™ Pak,Preferred
 "ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antibiotics, Inhaled",Arikayce® Vial,Non-Preferred
 "ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antibiotics, Inhaled",Bethkis® Ampule,Preferred
 "ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antibiotics, Inhaled",Cayston® Solution,Non-Preferred
 "ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antibiotics, Inhaled",tobramycin inhalation solution (generic for Tobi™),Preferred
 "ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antibiotics, Inhaled",tobramycin inhalation pak (generic for Kitabis™),Non-Preferred
-"ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antibiotics, Inhaled",Tobi™ Podhaler™  / Solution,Non-Preferred
+"ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antibiotics, Inhaled",Tobi™ Podhaler™ / Solution,Non-Preferred
 "ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antibiotics, Inhaled",tobramycin Ampule (generic for Bethkis),Non-Preferred
 BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,bupropion tablet / SR tablet / XL tablet (generic for Wellbutrin® Tablet / SR / XL),Preferred
 BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,Aplenzin® Tablet,Non-Preferred
@@ -410,7 +409,7 @@ BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,Marplan® Tablet,Non-Preferred
 BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,vilazodone tablet (generic for Viibryd®),Preferred
 BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,nefazodone tablet (generic for Serzone®),Non-Preferred
 BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,Pristiq® ER Tablet,Non-Preferred
-BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,Remeron® Soltab™  / Tablet,Non-Preferred
+BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,Remeron® Soltab™ / Tablet,Non-Preferred
 BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,Trintellix® Tablet,Non-Preferred
 BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,venlafaxine besylate ER tablet,Non-Preferred
 BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,venlafaxine ER tablet,Non-Preferred
@@ -478,7 +477,7 @@ BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibit
 BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),methylphenidate LA capsule (generic for Ritalin® LA),Non-Preferred
 BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),methylphenidate patch (generic for Daytrana®),Non-Preferred
 BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Mydayis® ER Capsule,Non-Preferred
-BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Onyda XR Suspension-T/F of preferred agents not required for children < 12 years of age,Non-Preferred
+BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Onyda XR Suspension,Non-Preferred
 BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),ProCentra® Solution,Non-Preferred
 BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Qelbree™ Capsule,Non-Preferred
 BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Quillichew® ER Tablet,Non-Preferred
@@ -489,9 +488,10 @@ BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibit
 BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Strattera® Capsule,Non-Preferred
 BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Xelstrym® Patch,Non-Preferred
 BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Zenzedi® Tablet,Non-Preferred
-BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Abilify Maintena® Syringe / Vial,Preferred
 BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Abilify Asimtufii® Syringe Kit,Preferred
-BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Aristada® / Initio™  Syringe,Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Abilify Maintena® Syringe / Vial,Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Aristada® / Initio™ Syringe,Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Erzofri® (paliperidone palmitate) extended-release injectable suspension,Preferred
 BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,fluphenazine decanoate vial (generic for Prolixin decanoate®),Preferred
 BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Haldol® decanoate Ampule,Preferred
 BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,haloperidol decanoate ampule / vial (generic for Haldol decanoate®),Preferred
@@ -503,13 +503,13 @@ BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Risperdal®
 BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,risperidone ER vial (generic for Risperdal® Consta),Preferred
 BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Rykindo® Vial / Vial Kit,Preferred
 BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Uzedy™ Syringe Kit,Preferred
-BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Zyprexa® Relprevv™  Vial Kit,Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Zyprexa® Relprevv™ Vial Kit,Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,aripiprazole Tablet / Solution  (generic for Abilify®),Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Abilify® Tablet / Abilify® MyCite® Tablet,Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,asenapine SL tablet (generic for Saphris® SL),Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,aripiprazole ODT  (generic for Abilify® Discmelt®),Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,clozapine tablet (generic for Clozaril®),Preferred
-BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Caplyta™  Capsule,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Caplyta™ Capsule,Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,lurasidone tablet (generic for Latuda®),Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,clozapine ODT (generic for FazaClo®),Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,olanzapine ODT / tablet (generic for Zyprexa®),Preferred
@@ -520,15 +520,15 @@ BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,quetiapine tablet
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Cobenfy Starter Pack,Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,risperidone ODT / solution / tablet (generic for Risperdal®),Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Fanapt® Tablet / Titration Pack,Non-Preferred
-BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Symbyax® Capsule,Preferred
-BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Geodon® Capsule,Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Vraylar® Capsule,Preferred
-BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Invega® Tablet,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Geodon® Capsule,Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,ziprasidone capsule (generic for Geodon®),Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Invega® Tablet,Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Latuda® Tablet,Non-Preferred
-BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Lybalvi™  Tablet,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Lybalvi™ Tablet,Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Nuplazid® Tablet / Capsule,Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,olanzapine-fluoxetine capsule (generic for Symbyax®),Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Opipza™ (Aripiprazole) Oral Film,Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Rexulti® Tablet / 7-Day Pack / 14-Day Pack,Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Risperdal® Solution / Tablet,Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Saphris® SL Tablet,Non-Preferred
@@ -605,6 +605,7 @@ CARDIOVASCULAR: ANGIOTENSIN II RECEPTOR BLOCKER DIURETIC COMBINATIONS: Oral / Tr
 CARDIOVASCULAR: ANGIOTENSIN II RECEPTOR BLOCKER DIURETIC COMBINATIONS: Oral / Transdermal,telmisartan-HCTZ tablet (generic for Micardis® HCT),Non-Preferred
 CARDIOVASCULAR: ANGIOTENSIN II RECEPTOR / NEPRILYSIN BLOCKER COMBINATIONS: Oral / Transdermal,Entresto® Tablet,Preferred
 CARDIOVASCULAR: ANGIOTENSIN II RECEPTOR / NEPRILYSIN BLOCKER COMBINATIONS: Oral / Transdermal,Entresto® (sacubitril / valsartan) Sprinkle Pellet-T/F of preferred agents not required for children < 12 years of age,Non-Preferred
+CARDIOVASCULAR: ANGIOTENSIN II RECEPTOR / NEPRILYSIN BLOCKER COMBINATIONS: Oral / Transdermal,sacubitril and valsartan tablet (generic for Entresto®),Non-Preferred
 CARDIOVASCULAR: ANTI-ARRHYTHMICS: Oral / Transdermal,amiodarone tablet (generic for Cordarone®),Preferred
 CARDIOVASCULAR: ANTI-ARRHYTHMICS: Oral / Transdermal,Multaq® Tablet,Non-Preferred
 CARDIOVASCULAR: ANTI-ARRHYTHMICS: Oral / Transdermal,disopyramide capsule (generic for Norpace®),Preferred
@@ -614,9 +615,8 @@ CARDIOVASCULAR: ANTI-ARRHYTHMICS: Oral / Transdermal,Pacerone® Tablet,Non-Prefe
 CARDIOVASCULAR: ANTI-ARRHYTHMICS: Oral / Transdermal,flecainide tablet (generic for Tambocor®),Preferred
 CARDIOVASCULAR: ANTI-ARRHYTHMICS: Oral / Transdermal,quinidine gluconate ER tablet (generic for Quinaglute DuraTabs®),Non-Preferred
 CARDIOVASCULAR: ANTI-ARRHYTHMICS: Oral / Transdermal,mexiletine capsule (generic for Mexitil®),Preferred
-CARDIOVASCULAR: ANTI-ARRHYTHMICS: Oral / Transdermal,Rythmol SR® Capsule,Non-Preferred
-CARDIOVASCULAR: ANTI-ARRHYTHMICS: Oral / Transdermal,propafenone tablet (generic for Rythmol®),Preferred
 CARDIOVASCULAR: ANTI-ARRHYTHMICS: Oral / Transdermal,Tikosyn® Capsule,Non-Preferred
+CARDIOVASCULAR: ANTI-ARRHYTHMICS: Oral / Transdermal,propafenone tablet (generic for Rythmol®),Preferred
 CARDIOVASCULAR: ANTI-ARRHYTHMICS: Oral / Transdermal,propafenone SR capsule (generic for Rythmol SR®),Preferred
 CARDIOVASCULAR: ANTI-ARRHYTHMICS: Oral / Transdermal,quinidine sulfate tablet (generic for Quinidex® Tablet),Preferred
 CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,atenolol tablet (generic for Tenormin®),Preferred
@@ -634,12 +634,11 @@ CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,carvedilol ER capsule (generic
 CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,nebivolol tablet (generic for Bystolic®),Preferred
 CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,Coreg® Tablet / CR Capsule,Non-Preferred
 CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,propranolol solution / tablet / ER capsule (generic for Inderal®),Preferred
-CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,Corgard® Tablet,Non-Preferred
-CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,Sorine® Tablet,Preferred
 CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,Inderal® LA Capsule / XL Capsule,Non-Preferred
-CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,"sotalol tablet / AF tablet (generic for Betapace® / AF, Sorine®)",Preferred
+CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,Sorine® Tablet,Preferred
 CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,Innopran® XL Capsule,Non-Preferred
-CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,Kapspargo™  Sprinkle -  T/F of preferred agents not required for children < 12 years of age,Non-Preferred
+CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,"sotalol tablet / AF tablet (generic for Betapace® / AF, Sorine®)",Preferred
+CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,Kapspargo™ Sprinkle -  T/F of preferred agents not required for children < 12 years of age,Non-Preferred
 CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,Lopressor® Tablet,Non-Preferred
 CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,nadolol tablet (generic for Corgard®),Non-Preferred
 CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,pindolol tablet (generic for Visken®),Non-Preferred
@@ -686,6 +685,7 @@ CARDIOVASCULAR: CHOLESTEROL LOWERING AGENTS: Oral / Transdermal,Vytorin® Tablet
 CARDIOVASCULAR: CHOLESTEROL LOWERING AGENTS: Oral / Transdermal,Zetia® Tablet,Non-Preferred
 CARDIOVASCULAR: CHOLESTEROL LOWERING AGENTS: Oral / Transdermal,Zocor® Tablet,Non-Preferred
 CARDIOVASCULAR: CHOLESTEROL LOWERING AGENTS: Oral / Transdermal,Zypitamag™ Tablet,Non-Preferred
+CARDIOVASCULAR: CHOLESTEROL LOWERING AGENTS: Oral / Transdermal,Crestor®,Non-Preferred
 CARDIOVASCULAR: CORONARY VASODILATORS: Oral / Transdermal,"isosorbide dinitrate tablet (generic for Isordil® Titradose®, IsoDitrate®, et.al.)",Preferred
 CARDIOVASCULAR: CORONARY VASODILATORS: Oral / Transdermal,Gonitro® Sublingual Powder,Non-Preferred
 CARDIOVASCULAR: CORONARY VASODILATORS: Oral / Transdermal,"isosorbide mononitrate tablet / ER tablet (generic for Ismo®, Monoket®, Imdur®)",Preferred
@@ -701,7 +701,7 @@ CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,fel
 CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,nifedipine capsule (generic for Procardia®),Preferred
 CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,isradipine capsule (generic for Dynacirc®),Non-Preferred
 CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,nifedipine ER tablet (generic for Adalat CC® / Procardia XL®),Preferred
-CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Katerzia™  Suspension,Non-Preferred
+CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Katerzia™ Suspension,Non-Preferred
 CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,levamlodipine tablet (generic for Conjupri®),Non-Preferred
 CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,nicardipine capsule (generic for Cardene®),Non-Preferred
 CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,nimodipine capsule (generic for Nimotop®),Non-Preferred
@@ -709,7 +709,7 @@ CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,nim
 CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,nisoldipine ER tablet (generic for Sular®),Non-Preferred
 CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Norliqva® Solution,Non-Preferred
 CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Norvasc® Tablet,Non-Preferred
-CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Nymalize® Solution,Non-Preferred
+CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Nymalize® Solution / oral syringe,Non-Preferred
 CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Procardia® XL Tablet,Non-Preferred
 CARDIOVASCULAR: DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Sular® Tablet,Non-Preferred
 CARDIOVASCULAR: DIRECT RENIN INHIBITOR: Oral / Transdermal,Tekturna® Tablet,Preferred
@@ -729,17 +729,17 @@ CARDIOVASCULAR: NIACIN DERIVATIVES: Oral / Transdermal,niacin ER tablet (generic
 CARDIOVASCULAR: NITRATE COMBINATION: Oral / Transdermal,Bidil® Tablet,Preferred
 CARDIOVASCULAR: NITRATE COMBINATION: Oral / Transdermal,isosorbide dinit/hydralazine tablet (generic for Bidil®),Non-Preferred
 CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Cartia XT® Capsule (branded generic for Cardizem CD®),Preferred
-CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Calan SR® Caplet,Non-Preferred
-CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Dilt XR® Capsule (branded generic for Dilacor XR®),Preferred
 CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Cardizem CD® Capsule,Non-Preferred
-CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,"diltiazem ER 24 hour capsule (generic for Dilacor XR®, Tiazac®)",Preferred
+CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Dilt XR® Capsule (branded generic for Dilacor XR®),Preferred
 CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Cardizem® Tablet / LA Tablet,Non-Preferred
-CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,diltiazem tablet / CD capsule / ER 12 hour capsule (generic for Cardizem® / CD / SR),Preferred
+CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,"diltiazem ER 24 hour capsule (generic for Dilacor XR®, Tiazac®)",Preferred
 CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,diltiazem LA tablet (generic for Cardizem LA®),Non-Preferred
-CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Taztia XT® Capsule (branded generic for Tiazac®),Preferred
+CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,diltiazem tablet / CD capsule / ER 12 hour capsule (generic for Cardizem® / CD / SR),Preferred
 CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Matzim® LA Tablet (generic for Cardizem LA®),Non-Preferred
-CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Tiadylt® ER Capsule,Preferred
+CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Taztia XT® Capsule (branded generic for Tiazac®),Preferred
 CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Tiazac® Capsule,Non-Preferred
+CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Tiadylt® ER Capsule,Preferred
+CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Verapamil Capsule SR (generic for Verelan®),Non-Preferred
 CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,verapamil tablet / ER tablet (generic for Calan® / SR),Preferred
 CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,verapamil ER capsule / PM capsule (generic for Verelan® / Verelan® PM),Non-Preferred
 CARDIOVASCULAR: NON-DIHYDROPYRIDINE CALCIUM CHANNEL BLOCKERS: Oral / Transdermal,Verelan® PM Capsule,Non-Preferred
@@ -785,6 +785,7 @@ CARDIOVASCULAR: TRIGLYCERIDE LOWERING AGENTS: Oral / Transdermal,Lovaza® Capsul
 CARDIOVASCULAR: TRIGLYCERIDE LOWERING AGENTS: Oral / Transdermal,Tricor® Tablet,Non-Preferred
 CARDIOVASCULAR: TRIGLYCERIDE LOWERING AGENTS: Oral / Transdermal,Trilipix® Capsule,Non-Preferred
 "CARDIOVASCULAR: CARDIOVASCULAR, OTHER: Oral / Transdermal",Camzyos® Capsule,Preferred
+"CARDIOVASCULAR: CARDIOVASCULAR, OTHER: Oral / Transdermal",Lodoco®,Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,rizatriptan tablet / ODT (generic for Maxalt®),Preferred
 CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,almotriptan tablet  (generic for Axert®),Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,sumatriptan nasal spray / tablet / vial  (generic for Imitrex®),Preferred
@@ -797,10 +798,10 @@ CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,Imitrex® Cartri
 CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,Maxalt® Tablet / MLT Tablet,Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,naratriptan tablet (generic for Amerge®),Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,Relpax® Tablet,Non-Preferred
-CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,Reyvow™  Tablet,Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,Reyvow™ Tablet,Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,sumatriptan injection kit / refill / syringe (generic for Imitrex®),Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,sumatriptan / naproxen tablet (generic for Treximet®),Non-Preferred
-CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,Tosymra™  Nasal Spray,Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,Tosymra™ Nasal Spray,Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,Zembrace® SymTouch®,Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,zolmitriptan nasal spray / ODT / tablet (generic for Zomig®),Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,Zomig® Nasal Spray / Tablet,Non-Preferred
@@ -817,7 +818,7 @@ CENTRAL NERVOUS SYSTEM: ANTI-NARCOLEPSY: CGRP Blockers/Modulators ACUTE TREATMEN
 CENTRAL NERVOUS SYSTEM: ANTI-NARCOLEPSY: CGRP Blockers/Modulators ACUTE TREATMENT,armodafinil tablet (generic for Nuvigil®),Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTI-NARCOLEPSY: CGRP Blockers/Modulators ACUTE TREATMENT,Provigil® Tablet,Preferred
 CENTRAL NERVOUS SYSTEM: ANTI-NARCOLEPSY: CGRP Blockers/Modulators ACUTE TREATMENT,modafinil tablet (generic for Provigil®),Non-Preferred
-CENTRAL NERVOUS SYSTEM: ANTI-NARCOLEPSY: CGRP Blockers/Modulators ACUTE TREATMENT,Sunosi™  Tablet,Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTI-NARCOLEPSY: CGRP Blockers/Modulators ACUTE TREATMENT,Sunosi™ Tablet,Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTI-NARCOLEPSY: CGRP Blockers/Modulators ACUTE TREATMENT,Wakix® Tablet,Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,amantadine capsule / solution (generic for Symmetrel®),Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Apokyn® Cartridge,Non-Preferred
@@ -830,24 +831,22 @@ CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blo
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,carbidopa-levodopa tablet / ER tablet (generic for Sinemet® / CR),Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,carbidopa-levodopa-entacapone tablet (generic for Stalevo®),Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,pramipexole tablet (generic for Mirapex®),Preferred
-CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Comtan® Tablet,Non-Preferred
-CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,ropinirole tablet (generic for Requip®),Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Crexont Capsule ER,Non-Preferred
-CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,selegiline capsule / tablet (generic for Emsam®),Preferred
+CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,ropinirole tablet (generic for Requip®),Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Dhivy Tablet™,Non-Preferred
-CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,trihexyphenidyl elixir / tablet (generic for Artane®),Preferred
+CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,selegiline capsule / tablet (generic for Emsam®),Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Duopa® Suspension,Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,trihexyphenidyl elixir / tablet (generic for Artane®),Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,entacapone tablet (generic for Comtan®),Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Gocovri® Capsule,Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Horizant® Tablet,Non-Preferred
-CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Inbrija™  Inhalation,Non-Preferred
-CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Kynmobi™  Titration Kit,Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Inbrija™ Inhalation,Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Kynmobi™ Titration Kit,Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Lodosyn® Tablet,Non-Preferred
-CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Mirapex® ER Tablet,Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Neupro® Patch,Non-Preferred
-CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Nourianz™  Tablet,Non-Preferred
-CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Ongentys® Capsule -,Non-Preferred
-CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Osmolex ER™  Tablet,Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Nourianz™ Tablet,Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Ongentys® Capsule,Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Osmolex ER™ Tablet,Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,pramipexole ER tablet (generic for Mirapex ER®),Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,rasagiline tablet (generic for Azilect®),Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIPARKINSON AND RESTLESS LEG SYNDROME AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,ropinirole ER tablet (generic for Requip XL®),Non-Preferred
@@ -877,28 +876,28 @@ CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Ampyra® Tablet,Non-Preferred
 CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,dimethyl fumarate DR capsule / starter pack (generic for Tecfidera® Capsule / Starter Pack),Preferred
 CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Aubagio® Tablet,Non-Preferred
 CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,fingolimod capsule (generic for Gilenya®),Preferred
-CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Bafiertam™  Capsule,Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Bafiertam™ Capsule,Non-Preferred
 CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,teriflunomide tablet (generic for Aubagio®),Preferred
 CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Gilenya® Capsule,Non-Preferred
 CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Mavenclad® Tablet,Non-Preferred
 CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Mayzent® Starter Pack / Tablet,Non-Preferred
-CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Ponvory™  Starter Pack / Tablet,Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Ponvory™ Starter Pack / Tablet,Non-Preferred
 CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Tascenso ODT™,Non-Preferred
 CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Tecfidera® Capsule / Starter Pack,Non-Preferred
-CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Vumerity™  Capsule,Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Vumerity™ Capsule,Non-Preferred
 CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Zeposia® Starter Pack / Capsule,Non-Preferred
 CENTRAL NERVOUS SYSTEM: AMYOTROPHIC LATERAL SCLEROSIS (ALS) AGENTS: Oral,riluzole tablet (generic for Rilutek®),Preferred
 CENTRAL NERVOUS SYSTEM: AMYOTROPHIC LATERAL SCLEROSIS (ALS) AGENTS: Oral,edaravone infusion bag (generic for Radicava®),Non-Preferred
-CENTRAL NERVOUS SYSTEM: AMYOTROPHIC LATERAL SCLEROSIS (ALS) AGENTS: Oral,Exservan™ Oral Film,Non-Preferred
-CENTRAL NERVOUS SYSTEM: AMYOTROPHIC LATERAL SCLEROSIS (ALS) AGENTS: Oral,Qalsody® Vial,Non-Preferred
-CENTRAL NERVOUS SYSTEM: AMYOTROPHIC LATERAL SCLEROSIS (ALS) AGENTS: Oral,Tiglutik® Suspension,Non-Preferred
+CENTRAL NERVOUS SYSTEM: AMYOTROPHIC LATERAL SCLEROSIS (ALS) AGENTS: Oral,edaravone Vial (generic for Radicava®),Non-Preferred
+CENTRAL NERVOUS SYSTEM: AMYOTROPHIC LATERAL SCLEROSIS (ALS) AGENTS: Oral,Qalsody® Vial T/F of preferred agents not required for SOD1 gene mutation,Non-Preferred
 CENTRAL NERVOUS SYSTEM: AMYOTROPHIC LATERAL SCLEROSIS (ALS) AGENTS: Oral,Radicava® ORS® Suspension / ORS® Starter Kit Suspension / Infusion Bag,Non-Preferred
+CENTRAL NERVOUS SYSTEM: AMYOTROPHIC LATERAL SCLEROSIS (ALS) AGENTS: Oral,Tiglutik® Suspension,Non-Preferred
 CENTRAL NERVOUS SYSTEM: SEDATIVE HYPNOTICS: Oral,eszopiclone tablet (generic for Lunesta®),Preferred
 CENTRAL NERVOUS SYSTEM: SEDATIVE HYPNOTICS: Oral,Ambien® Tablet / CR Tablet,Non-Preferred
 CENTRAL NERVOUS SYSTEM: SEDATIVE HYPNOTICS: Oral,flurazepam capsule (generic for Dalmane®),Preferred
 CENTRAL NERVOUS SYSTEM: SEDATIVE HYPNOTICS: Oral,Belsomra® Tablet,Non-Preferred
 CENTRAL NERVOUS SYSTEM: SEDATIVE HYPNOTICS: Oral,ramelteon tablet (generic for Rozerem® Tablet),Preferred
-CENTRAL NERVOUS SYSTEM: SEDATIVE HYPNOTICS: Oral,Dayvigo™  Tablet,Non-Preferred
+CENTRAL NERVOUS SYSTEM: SEDATIVE HYPNOTICS: Oral,Dayvigo™ Tablet,Non-Preferred
 CENTRAL NERVOUS SYSTEM: SEDATIVE HYPNOTICS: Oral,"temazepam 15mg, 30mg capsule (generic for Restoril®)",Preferred
 CENTRAL NERVOUS SYSTEM: SEDATIVE HYPNOTICS: Oral,Doral® Tablet,Non-Preferred
 CENTRAL NERVOUS SYSTEM: SEDATIVE HYPNOTICS: Oral,zaleplon capsule (generic for Sonata®),Preferred
@@ -931,7 +930,6 @@ ENDOCRINOLOGY: GROWTH HORMONE: Oral,Norditropin® Flexpro®,Preferred
 ENDOCRINOLOGY: GROWTH HORMONE: Oral,Ngenla® Pen,Non-Preferred
 ENDOCRINOLOGY: GROWTH HORMONE: Oral,Nutropin® AQ NuSpin®,Non-Preferred
 ENDOCRINOLOGY: GROWTH HORMONE: Oral,Omnitrope® Cartridge / Vial,Non-Preferred
-ENDOCRINOLOGY: GROWTH HORMONE: Oral,Saizen® Vial,Non-Preferred
 ENDOCRINOLOGY: GROWTH HORMONE: Oral,Serostim® Vial,Non-Preferred
 ENDOCRINOLOGY: GROWTH HORMONE: Oral,Skytrofa® Cartridge,Non-Preferred
 ENDOCRINOLOGY: GROWTH HORMONE: Oral,Sogroya® Pen,Non-Preferred
@@ -947,11 +945,12 @@ ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Fiasp® FlexTouc
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,insulin lispro U-100 Junior KwikPen® (generic for Humalog® Junior),Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Humalog® U-200 KwikPen®,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,insulin lispro U-100 KwikPen® / vial (generic for Humalog®),Preferred
-ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,insulin aspart U-100 cartridge (generic for Novolog®),Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,insulin aspart U-100 Penfill (generic for Novolog®),Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Novolog® U-100 Penfill / FlexPen® / Vial,Preferred
-ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Lyumjev™  U-100 KwikPen® /  U-200 KwikPen® / Vial,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Lyumjev™ U-100 KwikPen® /  U-200 KwikPen® / Vial,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Relion Novolog®  U-100 FlexPen® / Vial,Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Short Acting Insulin,Humulin® R Vial,Preferred
-ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Short Acting Insulin,Myxredlin™  Injection,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Short Acting Insulin,Myxredlin™ Injection,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Short Acting Insulin,Humulin® R U-500 KwikPen® / U500 Vial,Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Short Acting Insulin,Novolin® R Vial / ReliOn® R Vial,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Short Acting Insulin,Novolin R FlexPen®,Non-Preferred
@@ -967,30 +966,33 @@ ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Levemir® / FlexP
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,insulin glargine SoloStar® / Max SoloStar® (generic for Toujeo®),Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,insulin glargine-yfgn pen / vial (generic for Semglee™ yfgn),Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Rezvoglar™ Kwikpen®,Non-Preferred
-ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Semglee™  yfgn Pen / Vial,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Semglee™ yfgn Pen / Vial,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Toujeo® SoloStar® / Max SoloStar®,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Tresiba® FlexTouch® / Vial,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed Rapid Combination Insulin,Humalog® 50/50 Mix KwikPen®,Preferred
-ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed Rapid Combination Insulin,insulin lispro protamine 75/25 KwikPen® (generic for Humalog® 75/25 Mix),Non-Preferred
-ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed Rapid Combination Insulin,Humalog® 75/25 Mix KwikPen® / Vial,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed Rapid Combination Insulin,Humalog® 75/25 Mix KwikPen®,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed Rapid Combination Insulin,Humalog® 75/25 Vial,Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed Rapid Combination Insulin,Novolog® Mix 70/30 Vial,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed Rapid Combination Insulin,insulin aspart protamine-aspart 70/30 U-100 FlexPen® /(generic for Novolog® Mix 70/30),Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed Rapid Combination Insulin,insulin lispro protamine 75/25 KwikPen® (generic for Humalog® 75/25 Mix),Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed Rapid Combination Insulin,Novolog® Mix 70/30 FlexPen®,Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed 70/30 Combination Insulin,Humulin® 70/30 KwikPen® / Vial,Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed 70/30 Combination Insulin,Novolin® 70/30 FlexPen® / Vial,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed 70/30 Combination Insulin,Relion Novolin® 70/30 Vial,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed 70/30 Combination Insulin,Relion Novolin® (human insulin NPH / human insulin) 70/30 FlexPen®,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed 70/30 Combination Insulin,Relion Novolin® (human insulin NPH / human insulin) 70/30 FlexPen®,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Amylin Analogs,Symlin® Pen Injector,Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Byetta® Pen,Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Bydureon® BCise™,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Trulicity® Pen,Preferred
-ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,liraglutide pen (generic for Victoza®),Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,exenatide Pen (generic for Byetta®),Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Victoza® Pen,Preferred
-ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Rybelsus®  Tablet,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,liraglutide pen (generic for Victoza®),Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Ozempic® Pen,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Mounjaro™ Pen,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Rybelsus®  Tablet,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Soliqua® Pen,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Xultophy® Pen,Non-Preferred
-ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Mounjaro™ Pen,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: 2nd Generation Sulfonylureas,glimepiride tablet (generic for Amaryl®),Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: 2nd Generation Sulfonylureas,glipizide tablet / ER tablet (generic for Glucotrol® / XL),Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: 2nd Generation Sulfonylureas,Glucotrol® XL Tablet,Preferred
@@ -1044,8 +1046,8 @@ ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Synjardy
 ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Invokamet® Tablet / XR Tablet,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Xigduo® XR Tablet,Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Invokana® Tablet,Non-Preferred
-ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Segluromet™  Tablet,Non-Preferred
-ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Steglatro™  Tablet,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Segluromet™ Tablet,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Steglatro™ Tablet,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: Thiazolidinediones and Combinations,pioglitazone tablet (generic for Actos®),Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: Thiazolidinediones and Combinations,ActoPlus Met® Tablet,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: Thiazolidinediones and Combinations,Actos® Tablet,Non-Preferred
@@ -1066,34 +1068,35 @@ GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinat
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Bonjesta® Tablet,Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,prochlorperazine tablet (generic for Compazine®),Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Cinvanti® Vial,Non-Preferred
-GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Promethegan® (promethazine) Suppository (12.5 mg and 25 mg),Preferred
-GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Compro® Suppository,Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,promethazine syrup / suppository (12.5 mg and 25 mg) / tablet / ampule / vial (generic for Phenergan®),Preferred
+GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Compro® Suppository,Non-Preferred
+GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Promethegan® (promethazine) Suppository (12.5 mg and 25 mg),Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,doxylamine-pyridoxine tablet (generic for Diclegis®),Non-Preferred
-GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Transderm-Scop® Patch,Preferred
+GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,scopolamine patch (generic for Transderm-Scop®),Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,dronabinol capsule (generic for Marinol®),Non-Preferred
+GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Transderm-Scop® Patch,Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Emend® Capsule / Powder Packet / Trifold Pack,Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Emend® Vial,Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Focinvez™ (fosaprepitant) Vial,Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,fosaprepitant vial (generic for Emend®),Non-Preferred
-GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Gimoti™  Nasal Spray,Non-Preferred
+GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Gimoti™ Nasal Spray,Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,granisetron vial / tablet (generic for Kytril®),Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Marinol® Capsule,Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,metoclopramide vial,Non-Preferred
-GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,ondansetron vial,Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,ondansetron ODT (16 mg),Non-Preferred
+GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,ondansetron vial,Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,palonosetron injection (generic for Aloxi®),Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Phenergan® Ampule / Vial,Non-Preferred
+GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Posfrea™ Ψ Vial,Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,prochlorperazine vial / suppository (generic for Compazine®),Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Promethegan® Suppository (50 mg),Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Reglan® Tablet,Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Sancuso® Patch,Non-Preferred
-GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,scopolamine patch (generic for Transderm-Scop®),Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Sustol® Syringe,Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,Tigan® Vial,Non-Preferred
 GASTROINTESTINAL: ANTIEMETIC-ANTIVERTIGO AGENTS: Thiazolidinediones and Combinations,trimethobenzamide capsule (generic for Tigan®),Non-Preferred
 GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,ursodiol capsule (generic for Actigall®),Preferred
-GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Bylvay™  Capsule / Pellet,Non-Preferred
+GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Bylvay™ Capsule / Pellet,Non-Preferred
 GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,ursodiol tablet (generic for Urso®),Preferred
 GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Chenodal® Tablet,Non-Preferred
 GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Cholbam® Capsule,Non-Preferred
@@ -1101,8 +1104,7 @@ GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Iqirvo® 
 GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Livdelzi Capsule,Non-Preferred
 GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Livmarli® Oral Solution,Non-Preferred
 GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Ocaliva® Tablet,Non-Preferred
-GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Reltone™  Capsule,Non-Preferred
-GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Urso® Tablet / Urso® Forte Tablet,Non-Preferred
+GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Reltone™ Capsule,Non-Preferred
 GASTROINTESTINAL: H. PYLORI COMBINATIONS: Thiazolidinediones and Combinations,Pylera® Capsule,Preferred
 GASTROINTESTINAL: H. PYLORI COMBINATIONS: Thiazolidinediones and Combinations,bismuth / metronidazole / tetracycline capsule (generic for Pylera®),Non-Preferred
 GASTROINTESTINAL: H. PYLORI COMBINATIONS: Thiazolidinediones and Combinations,lansoprazole-amoxicillin-clarithromycin pack (generic for Prevpac®),Non-Preferred
@@ -1150,7 +1152,7 @@ GASTROINTESTINAL: SELECTIVE CONSTIPATION AGENTS: Thiazolidinediones and Combinat
 GASTROINTESTINAL: SELECTIVE CONSTIPATION AGENTS: Thiazolidinediones and Combinations,Ibsrela® Tablet,Non-Preferred
 GASTROINTESTINAL: SELECTIVE CONSTIPATION AGENTS: Thiazolidinediones and Combinations,lubiprostone capsule (generic for Amitiza®),Preferred
 GASTROINTESTINAL: SELECTIVE CONSTIPATION AGENTS: Thiazolidinediones and Combinations,Lotronex® Tablet,Non-Preferred
-GASTROINTESTINAL: SELECTIVE CONSTIPATION AGENTS: Thiazolidinediones and Combinations,Motegrity™  Tablet,Non-Preferred
+GASTROINTESTINAL: SELECTIVE CONSTIPATION AGENTS: Thiazolidinediones and Combinations,Motegrity™ Tablet,Non-Preferred
 GASTROINTESTINAL: SELECTIVE CONSTIPATION AGENTS: Thiazolidinediones and Combinations,Movantik® Tablet,Non-Preferred
 GASTROINTESTINAL: SELECTIVE CONSTIPATION AGENTS: Thiazolidinediones and Combinations,Relistor®  Syringe / Vial / Tablet,Non-Preferred
 GASTROINTESTINAL: SELECTIVE CONSTIPATION AGENTS: Thiazolidinediones and Combinations,Symproic® Tablet,Non-Preferred
@@ -1186,7 +1188,6 @@ GENITOURINARY / RENAL: ELECTROLYTE DEPLETERS (KIDNEY DISEASE): Rectal,Fosrenol®
 GENITOURINARY / RENAL: ELECTROLYTE DEPLETERS (KIDNEY DISEASE): Rectal,sevelamer carbonate powder pack / tablet (generic for Renvela®),Preferred
 GENITOURINARY / RENAL: ELECTROLYTE DEPLETERS (KIDNEY DISEASE): Rectal,lanthanum carbonate chewable tablet (generic for Fosrenol®),Non-Preferred
 GENITOURINARY / RENAL: ELECTROLYTE DEPLETERS (KIDNEY DISEASE): Rectal,MagneBind® 400 Rx Tablet,Non-Preferred
-GENITOURINARY / RENAL: ELECTROLYTE DEPLETERS (KIDNEY DISEASE): Rectal,Phoslyra® (calcium acetate) Solution,Non-Preferred
 GENITOURINARY / RENAL: ELECTROLYTE DEPLETERS (KIDNEY DISEASE): Rectal,Renvela® Powder Pack / Tablet,Non-Preferred
 GENITOURINARY / RENAL: ELECTROLYTE DEPLETERS (KIDNEY DISEASE): Rectal,sevelamer hydrochloride tablet (generic for Renagel®),Non-Preferred
 GENITOURINARY / RENAL: ELECTROLYTE DEPLETERS (KIDNEY DISEASE): Rectal,Velphoro® Chewable,Non-Preferred
@@ -1214,7 +1215,6 @@ GENITOURINARY / RENAL: URINARY ANTISPASMODICS: Rectal,Detrol® Tablet / LA Capsu
 GENITOURINARY / RENAL: URINARY ANTISPASMODICS: Rectal,solifenacin tablet (generic for Vesicare®),Preferred
 GENITOURINARY / RENAL: URINARY ANTISPASMODICS: Rectal,flavoxate tablet (generic for Urispas®),Non-Preferred
 GENITOURINARY / RENAL: URINARY ANTISPASMODICS: Rectal,tolterodine tablet / ER capsule (generic for Detrol® / LA),Preferred
-GENITOURINARY / RENAL: URINARY ANTISPASMODICS: Rectal,Gelnique® Gel Sachets,Non-Preferred
 GENITOURINARY / RENAL: URINARY ANTISPASMODICS: Rectal,Gemtesa® Tablet,Non-Preferred
 GENITOURINARY / RENAL: URINARY ANTISPASMODICS: Rectal,mirabegron ER Tablet (generic for Myrbetriq®),Non-Preferred
 GENITOURINARY / RENAL: URINARY ANTISPASMODICS: Rectal,Myrbetriq® Granules / ER Tablet,Non-Preferred
@@ -1278,18 +1278,18 @@ HEMATOLOGIC: THROMBOPOIESIS STIMULATING AGENTS: Oral,Alvaiz™ Tablet,Non-Prefer
 HEMATOLOGIC: THROMBOPOIESIS STIMULATING AGENTS: Oral,Promacta® Suspension / Tablet,Preferred
 HEMATOLOGIC: THROMBOPOIESIS STIMULATING AGENTS: Oral,Doptlet,Non-Preferred
 HEMATOLOGIC: THROMBOPOIESIS STIMULATING AGENTS: Oral,Mulpleta,Non-Preferred
-HEMATOLOGIC: THROMBOPOIESIS STIMULATING AGENTS: Oral,Tavalisse™  Tablet,Non-Preferred
+HEMATOLOGIC: THROMBOPOIESIS STIMULATING AGENTS: Oral,Tavalisse™ Tablet,Non-Preferred
 OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,cromolyn sodium drops (generic for Crolom®),Preferred
-OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,Alocril® Drops,Non-Preferred
-OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,"olopatadine drops (generic for Pataday®, Patanol®)",Preferred
 OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,Alomide® Drops,Non-Preferred
+OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,"olopatadine drops (generic for Pataday®, Patanol®)",Preferred
 OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,Alrex® Drops,Non-Preferred
+OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,"olopatadine drops (generic for Pataday®, Patanol®) (OTC)",Preferred
 OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,azelastine drops (generic for Optivar®),Non-Preferred
 OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,bepotastine drops (gneric for Bepreve®),Non-Preferred
 OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,Bepreve® Drops,Non-Preferred
 OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,epinastine drops (generic for Elestat®),Non-Preferred
 OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,loteprednol drops (generic for Alrex®),Non-Preferred
-OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,Zerviate™  Drops,Non-Preferred
+OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,Zerviate™ Drops,Non-Preferred
 OPHTHALMIC: ANTIBIOTICS: Oral,bacitracin-polymyxin ointment (generic for Polysporin®),Preferred
 OPHTHALMIC: ANTIBIOTICS: Oral,Azasite® Drops,Non-Preferred
 OPHTHALMIC: ANTIBIOTICS: Oral,ciprofloxacin solution drops (generic for Ciloxan®),Preferred
@@ -1343,7 +1343,7 @@ OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Ilevro® Drops,Non-Preferred
 OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Nevanac® Droptainer,Preferred
 OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Iluvien® Implant,Non-Preferred
 OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Pred Mild® Drops,Preferred
-OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Inveltys™  Drops,Non-Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Inveltys™ Drops,Non-Preferred
 OPHTHALMIC: ANTI-INFLAMMATORY: Oral,prednisolone acetate drops (generic for Pred Forte®),Preferred
 OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Lotemax® Gel / SM Gel / Ointment,Non-Preferred
 OPHTHALMIC: ANTI-INFLAMMATORY: Oral,loteprednol drops / gel (generic for Lotemax®),Non-Preferred
@@ -1355,8 +1355,8 @@ OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Prolensa® Drops,Non-Preferred
 OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Retisert® Implant,Non-Preferred
 OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Triesence® Vial,Non-Preferred
 OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Xipere™  (Intraocular),Non-Preferred
-OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Yutiq™  Implant,Non-Preferred
-OPHTHALMIC: ANTI-INFLAMMATORY / IMMUNOMODULATOR: Oral,Restasis® Drops / Restasis® Multidose™  Drops,Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Yutiq™ Implant,Non-Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY / IMMUNOMODULATOR: Oral,Restasis® Drops / Restasis® Multidose™ Drops,Preferred
 OPHTHALMIC: ANTI-INFLAMMATORY / IMMUNOMODULATOR: Oral,Cequa™ Drops,Non-Preferred
 OPHTHALMIC: ANTI-INFLAMMATORY / IMMUNOMODULATOR: Oral,Xiidra® Drops,Preferred
 OPHTHALMIC: ANTI-INFLAMMATORY / IMMUNOMODULATOR: Oral,cyclosporine emulsion (generic for Restasis®),Non-Preferred
@@ -1379,6 +1379,7 @@ OPHTHALMIC: BETA BLOCKER AGENTS / COMBINATIONS: Oral,brimonidine tartrate / timo
 OPHTHALMIC: BETA BLOCKER AGENTS / COMBINATIONS: Oral,carteolol drops (generic for Ocupress®),Non-Preferred
 OPHTHALMIC: BETA BLOCKER AGENTS / COMBINATIONS: Oral,Istalol® Drops,Non-Preferred
 OPHTHALMIC: BETA BLOCKER AGENTS / COMBINATIONS: Oral,levobunolol drops (generic for Betagan®),Non-Preferred
+OPHTHALMIC: BETA BLOCKER AGENTS / COMBINATIONS: Oral,timolol hemihydrate (generic for Betimol® drops),Non-Preferred
 OPHTHALMIC: BETA BLOCKER AGENTS / COMBINATIONS: Oral,timolol drop (generic for Istalol® Drops),Non-Preferred
 OPHTHALMIC: BETA BLOCKER AGENTS / COMBINATIONS: Oral,timolol maleate drop (generic for Timoptic® Ocudose® Drops),Non-Preferred
 OPHTHALMIC: BETA BLOCKER AGENTS / COMBINATIONS: Oral,Timoptic® Drops / Ocudose® Drops / XE® Solution,Non-Preferred
@@ -1411,7 +1412,7 @@ OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,alendronate s
 OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,Atelvia® Tablet,Non-Preferred
 OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,Binosto® Effervescent Tablet,Non-Preferred
 OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,calcitonin salmon nasal spray (generic for Miacalcin®),Non-Preferred
-OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,Evenity™  Syringe,Non-Preferred
+OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,Evenity™ Syringe,Non-Preferred
 OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,Evista® Tablet,Non-Preferred
 OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,Forteo® Pen,Non-Preferred
 OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,Fosamax® Tablet / Plus D Tablet,Non-Preferred
@@ -1421,13 +1422,12 @@ OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,risedronate t
 OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,risedronate DR tablet (generic for Atelvia®),Non-Preferred
 OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,teriparatide pen (generic for Forteo®),Non-Preferred
 OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,Tymlos® Pen,Non-Preferred
-OTIC: ANTIBIOTICS: Oral,Ciprodex® Suspension,Preferred
-OTIC: ANTIBIOTICS: Oral,Cipro® HC Suspension,Non-Preferred
 OTIC: ANTIBIOTICS: Oral,ciprofloxacin-dexamethasone suspension (generic for Ciprodex®),Preferred
-OTIC: ANTIBIOTICS: Oral,ciprofloxacin solution (generic for Cetraxal®),Non-Preferred
+OTIC: ANTIBIOTICS: Oral,Cipro® HC Suspension,Non-Preferred
 OTIC: ANTIBIOTICS: Oral,neomycin-polymyxin-hydrocortisone solution / suspension (generic for Cortisporin®),Preferred
-OTIC: ANTIBIOTICS: Oral,ciprofloxacin-fluocinolone drops (generic for Otovel®),Non-Preferred
+OTIC: ANTIBIOTICS: Oral,ciprofloxacin solution (generic for Cetraxal®),Non-Preferred
 OTIC: ANTIBIOTICS: Oral,ofloxacin drops (generic for Floxin®),Preferred
+OTIC: ANTIBIOTICS: Oral,ciprofloxacin-fluocinolone drops (generic for Otovel®),Non-Preferred
 OTIC: ANTIBIOTICS: Oral,Cortisporin-TC® Suspension,Non-Preferred
 OTIC: ANTIBIOTICS: Oral,Otovel® Drops,Non-Preferred
 OTIC: ANTI-INFECTIVES AND ANESTHETICS: Oral,acetic acid solution (generic for Vosol®),Preferred
@@ -1469,10 +1469,11 @@ RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,Tudorza® Press
 RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,ipratropium / albuterol solution (generic for Duoneb®),Preferred
 RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,Yupelri™ Solution,Non-Preferred
 RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,roflumilast tablet (generic for Daliresp®),Preferred
+RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,Ohtuvayre™ Inhalation suspension,Non-Preferred
 RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,Spiriva® Handihaler® / Respimat® Inhalation Spray,Preferred
 RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,Stiolto® Respimat® Inhalation Spray,Preferred
 RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Alvesco® Inhaler,Preferred
-RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,ArmonAir™  Digihaler™,Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,ArmonAir™ Digihaler™,Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Arnuity® Ellipta® Inhaler,Preferred
 RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,fluticasone propionate diskus (generic for Flovent® Diskus),Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Asmanex® HFA Inhaler / Twisthaler®,Preferred
@@ -1480,24 +1481,24 @@ RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Pulmicort®  Flexhaler,Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,"budesonide suspension 0.25mg, 0.5mg, 1mg (generic for Pulmicort® Respules)",Preferred
 RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,"Pulmicort® Respules 0.25mg, 0.5mg, 1mg",Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Flovent® Diskus / HFA Inhaler,Preferred
-RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,fluticasone propionate HFA (generic for Flovent® HFA),Preferred
+RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,fluticasone propionate HFA / diskus (generic for Flovent® HFA / Diskus),Preferred
 RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,QVAR® RediHaler™,Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Advair® Diskus®,Preferred
-RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,AirDuo® Digihaler™  / RespiClick®,Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,AirDuo® Digihaler™ / RespiClick®,Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Advair® HFA Inhaler,Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,AirSupra™ Inhaler,Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Dulera® Inhaler,Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Breo® Ellipta®,Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Symbicort® Inhaler,Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Breyna™ Inhaler,Non-Preferred
-RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Breztri™  Aerosphere™,Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Breztri™ Aerosphere™,Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,budesonide / formoterol inhalation (generic for Symbicort®),Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,fluticasone / salmeterol HFA inhaler (generic for Advair® HFA),Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,fluticasone / salmeterol inhalation (generic for Advair® Diskus®),Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,fluticasone / salmeterol inhalation (generic for AirDuo®),Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,fluticasone / vilanterol inhalation (generic for Breo® Ellipta®),Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Trelegy® Ellipta®,Non-Preferred
-RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Wixela™  Inhub™,Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Wixela™ Inhub™,Non-Preferred
 RESPIRATORY: INTRANASAL RHINITIS AGENTS: Oral,azelastine spray (generic for Astelin®),Preferred
 RESPIRATORY: INTRANASAL RHINITIS AGENTS: Oral,T/F of preferred agents not required in children < 4 years of age for steroid-containing products,Non-Preferred
 RESPIRATORY: INTRANASAL RHINITIS AGENTS: Oral,Dymista® Nasal Spray,Preferred
@@ -1513,8 +1514,8 @@ RESPIRATORY: INTRANASAL RHINITIS AGENTS: Oral,Omnaris® Nasal Spray,Non-Preferre
 RESPIRATORY: INTRANASAL RHINITIS AGENTS: Oral,Patanase® Nasal Spray,Non-Preferred
 RESPIRATORY: INTRANASAL RHINITIS AGENTS: Oral,QNasl® Nasal Spray  / Children's Spray,Non-Preferred
 RESPIRATORY: INTRANASAL RHINITIS AGENTS: Oral,Ryaltris® Nasal Spray,Non-Preferred
-RESPIRATORY: INTRANASAL RHINITIS AGENTS: Oral,Sinuva™  Implant,Non-Preferred
-RESPIRATORY: INTRANASAL RHINITIS AGENTS: Oral,Xhance™  Nasal Spray,Non-Preferred
+RESPIRATORY: INTRANASAL RHINITIS AGENTS: Oral,Sinuva™ Implant,Non-Preferred
+RESPIRATORY: INTRANASAL RHINITIS AGENTS: Oral,Xhance™ Nasal Spray,Non-Preferred
 RESPIRATORY: INTRANASAL RHINITIS AGENTS: Oral,Zetonna® Nasal Spray,Non-Preferred
 RESPIRATORY: LEUKOTRIENE MODIFIERS: Oral,montelukast chewable / tablet (generic for Singulair®),Preferred
 RESPIRATORY: LEUKOTRIENE MODIFIERS: Oral,Accolate® Tablet,Non-Preferred
@@ -1556,27 +1557,30 @@ TOPICALS: ACNE AGENTS: Oral,Acanya® Gel Pump,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,adapalene / benzoyl peroxide (generic for Epiduo® Gel),Preferred
 TOPICALS: ACNE AGENTS: Oral,adapalene gel pump (generic for Differin®),Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,adapalene cream / gel (generic for Differin®),Preferred
-TOPICALS: ACNE AGENTS: Oral,Altreno® Lotion (Topical),Non-Preferred
+TOPICALS: ACNE AGENTS: Oral,Aklief®,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,azelaic acid gel (generic for Finacea®),Preferred
-TOPICALS: ACNE AGENTS: Oral,Arazlo™  Lotion,Non-Preferred
+TOPICALS: ACNE AGENTS: Oral,Altreno® Lotion (Topical),Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,"clindamycin phosphate gel / lotion (generic for Cleocin-T®, Clindagel®)",Preferred
-TOPICALS: ACNE AGENTS: Oral,Atralin® Gel,Non-Preferred
+TOPICALS: ACNE AGENTS: Oral,Arazlo™ Lotion,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,clindamycin phosphate pledgets / solution (generic for Cleocin-T®),Preferred
-TOPICALS: ACNE AGENTS: Oral,Avar® Cleanser / LS Cleanser,Non-Preferred
-TOPICALS: ACNE AGENTS: Oral,clindamycin-benzoyl peroxide gel (generic for Duac®),Preferred
-TOPICALS: ACNE AGENTS: Oral,Avar-E® Emollient Cream / Green Emollient Cream / LS Cream,Non-Preferred
+TOPICALS: ACNE AGENTS: Oral,Atralin® Gel,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,"erythromycin gel  (generic for Emcin®, Erycette®,  EryGel®, et. al.)",Preferred
-TOPICALS: ACNE AGENTS: Oral,Benzamycin® Gel,Non-Preferred
+TOPICALS: ACNE AGENTS: Oral,Avar® Cleanser / LS Cleanser,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,"erythromycin solution (generic for Emcin®, EryDerm®, EryMax®, et. al)",Preferred
-TOPICALS: ACNE AGENTS: Oral,BP® 10-1 Wash / Cleansing Wash,Non-Preferred
+TOPICALS: ACNE AGENTS: Oral,Avar-E® Emollient Cream / Green Emollient Cream / LS Cream,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,erythromycin-benzoyl peroxide gel (generic for Benzamycin®),Preferred
-TOPICALS: ACNE AGENTS: Oral,Cabtreo™ Gel,Non-Preferred
+TOPICALS: ACNE AGENTS: Oral,Benzamycin® Gel,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,Finacea® Gel,Preferred
-TOPICALS: ACNE AGENTS: Oral,Cleocin® T Lotion,Non-Preferred
+TOPICALS: ACNE AGENTS: Oral,BP® 10-1 Wash / Cleansing Wash,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,Retin-A® Cream / Gel,Preferred
-TOPICALS: ACNE AGENTS: Oral,Clindacin® ETZ Pledget / Kit / P Foam / P Pledgets / PAC Kit,Non-Preferred
+TOPICALS: ACNE AGENTS: Oral,Cabtreo™ Gel,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,Retin-A® Micro Gel,Preferred
+TOPICALS: ACNE AGENTS: Oral,Cleocin® T Lotion,Non-Preferred
+TOPICALS: ACNE AGENTS: Oral,Epiduo® gel pump,Preferred
+TOPICALS: ACNE AGENTS: Oral,Clindacin® ETZ Pledget / Kit / P Foam / P Pledgets / PAC Kit,Non-Preferred
+TOPICALS: ACNE AGENTS: Oral,Differin® lotion/cream,Preferred
 TOPICALS: ACNE AGENTS: Oral,Clindagel® Gel,Non-Preferred
+TOPICALS: ACNE AGENTS: Oral,Differin® gel pump,Preferred
 TOPICALS: ACNE AGENTS: Oral,clindamycin / tretinoin (generic for Veltin®),Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,clindamycin phosphate foam (generic for Evoclin®),Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,clindamycin-benzoyl peroxide gel (generic for Neuac®),Non-Preferred
@@ -1594,6 +1598,7 @@ TOPICALS: ACNE AGENTS: Oral,Neuac® Gel / Kit,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,Onexton® Gel / Gel Pump,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,Ovace® Plus Cleansing Cream / Gel / Lotion / Shampoo / Wash,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,Retin-A® Micro Pump Gel,Non-Preferred
+TOPICALS: ACNE AGENTS: Oral,Rosanil Cleanser lotion,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,Rosula® Cloths / Wash,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,sodium sulfacetamide cleanser / cream (generic for Avar® / LS),Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,sodium sulfacetamide lotion (generic for Klaron®),Non-Preferred
@@ -1608,6 +1613,7 @@ TOPICALS: ACNE AGENTS: Oral,Sumaxin® Cleansing Pads / CP Kit / TS Topical Suspe
 TOPICALS: ACNE AGENTS: Oral,"tazarotene cream / foam / gel (generic for Tazorac®, Fabior®)",Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,tretinoin cream / gel (generic for Retin-A®),Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,tretinoin microsphere gel / microsphere gel pump (generic for Retin-A® Micro),Non-Preferred
+TOPICALS: ACNE AGENTS: Oral,Twyneo® Cream,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,Winlevi® Cream,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,Ziana® Gel,Non-Preferred
 TOPICALS: ACNE AGENTS: Oral,Zma Clear™ Cleanser,Non-Preferred
@@ -1616,7 +1622,7 @@ TOPICALS: ANDROGENIC AGENTS: Oral,Androgel® Packet,Non-Preferred
 TOPICALS: ANDROGENIC AGENTS: Oral,testosterone gel pump (generic for Androgel®),Preferred
 TOPICALS: ANDROGENIC AGENTS: Oral,Natesto® Nasal Gel,Non-Preferred
 TOPICALS: ANDROGENIC AGENTS: Oral,Testim® Gel,Non-Preferred
-TOPICALS: ANDROGENIC AGENTS: Oral,"testosterone gel / packet (generic for Testim®, Vogelxo®)",Non-Preferred
+TOPICALS: ANDROGENIC AGENTS: Oral,rer,Non-Preferred
 TOPICALS: ANDROGENIC AGENTS: Oral,"testosterone gel pump (generic for Fortesta®, Axiron®)",Non-Preferred
 TOPICALS: ANDROGENIC AGENTS: Oral,testosterone packet (generic for Androgel®),Non-Preferred
 TOPICALS: ANDROGENIC AGENTS: Oral,Vogelxo® Gel / Packet / Pump,Non-Preferred
@@ -1671,8 +1677,9 @@ TOPICALS: ANTIFUNGALS: Oral,salicylic acid ointment (generic for Bensal HP®),No
 TOPICALS: ANTIFUNGALS: Oral,tavaborole topical solution (generic for Kerydin®),Non-Preferred
 TOPICALS: ANTIFUNGALS: Oral,Vusion® Ointment,Non-Preferred
 TOPICALS: ANTIPARASITICS: Oral,Natroba® Topical Suspension,Preferred
-TOPICALS: ANTIPARASITICS: Oral,Crotan™  Lotion,Non-Preferred
+TOPICALS: ANTIPARASITICS: Oral,Crotan™ Lotion,Non-Preferred
 TOPICALS: ANTIPARASITICS: Oral,permethrin cream (generic for Elimite®),Preferred
+TOPICALS: ANTIPARASITICS: Oral,Elimite™ Cream,Non-Preferred
 TOPICALS: ANTIPARASITICS: Oral,Eurax® Cream / Lotion,Non-Preferred
 TOPICALS: ANTIPARASITICS: Oral,lindane shampoo,Non-Preferred
 TOPICALS: ANTIPARASITICS: Oral,malathion lotion (generic for Ovide®),Non-Preferred
@@ -1697,39 +1704,46 @@ TOPICALS: PSORIASIS: Imidazoquinolinamines,calcipotriene cream / solution (gener
 TOPICALS: PSORIASIS: Imidazoquinolinamines,"calcipotriene ointment / foam (generic for Dovonex®, Sorilux®)",Non-Preferred
 TOPICALS: PSORIASIS: Imidazoquinolinamines,calcipotriene-betamethasone suspension / ointment (generic for Talconex®),Non-Preferred
 TOPICALS: PSORIASIS: Imidazoquinolinamines,calcitriol ointment (generic for Vectical®),Non-Preferred
-TOPICALS: PSORIASIS: Imidazoquinolinamines,Duobrii™  Lotion,Non-Preferred
+TOPICALS: PSORIASIS: Imidazoquinolinamines,Duobrii™ Lotion,Non-Preferred
 TOPICALS: PSORIASIS: Imidazoquinolinamines,Enstilar® Foam,Non-Preferred
 TOPICALS: PSORIASIS: Imidazoquinolinamines,Sorilux® Foam,Non-Preferred
 TOPICALS: PSORIASIS: Imidazoquinolinamines,Taclonex® Ointment / Suspension,Non-Preferred
+TOPICALS: PSORIASIS: Imidazoquinolinamines,Vectical Ointment,Non-Preferred
 TOPICALS: PSORIASIS: Imidazoquinolinamines,Vtama® Cream,Non-Preferred
 TOPICALS: PSORIASIS: Imidazoquinolinamines,Zoryve® 0.3% Cream,Non-Preferred
 TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,azelaic acid gel (generic for Finacea®),Preferred
 TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,brimonidine gel pump (generic for Mirvaso®),Non-Preferred
 TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,Finacea® Gel,Preferred
+TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,Epsolay® (benzoyl peroxide),Non-Preferred
+TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,MetroCream®,Preferred
 TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,Finacea® Foam,Non-Preferred
-TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,metronidazole cream (generic for MetroCream®),Preferred
+TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,MetroGel®,Preferred
 TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,ivermectin cream (generic for Soolantra®),Non-Preferred
-TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,metronidazole gel / pump (generic for MetroGel®),Preferred
+TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,metronidazole cream (generic for MetroCream®),Preferred
 TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,metronidazole lotion (generic for MetroLotion®),Non-Preferred
+TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,metronidazole gel / pump (generic for MetroGel®),Preferred
+TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,Mirvaso® (brimonidine),Non-Preferred
 TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,Rosadan® Cream / Gel,Preferred
 TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,Noritate® Cream,Non-Preferred
 TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,Rhofade® Cream,Non-Preferred
 TOPICALS: ROSACEA AGENTS: Imidazoquinolinamines,Rosadan® Kit,Non-Preferred
-TOPICALS: STEROIDS: Low Potency,DermaSmoothe® FS Scalp and Body Oil,Preferred
-TOPICALS: STEROIDS: Low Potency,alclometasone dipropionate cream / ointment (generic for Aclovate®),Non-Preferred
 TOPICALS: STEROIDS: Low Potency,desonide cream / ointment (generic for DesOwen®),Preferred
-TOPICALS: STEROIDS: Low Potency,desonide lotion (generic for DesOwen® Lotion),Non-Preferred
+TOPICALS: STEROIDS: Low Potency,alclometasone dipropionate cream / ointment (generic for Aclovate®),Non-Preferred
+TOPICALS: STEROIDS: Low Potency,fluocinolone body / scalp oil (generic for DermaSmoothe® FS Scalp / Body Oil),Preferred
+TOPICALS: STEROIDS: Low Potency,Capex®,Non-Preferred
 TOPICALS: STEROIDS: Low Potency,hydrocortisone cream / lotion / ointment (generic for Hytone®),Preferred
-TOPICALS: STEROIDS: Low Potency,fluocinolone body / scalp oil (generic for DermaSmoothe® FS Scalp / Body Oil),Non-Preferred
+TOPICALS: STEROIDS: Low Potency,DermaSmoothe® FS Scalp and Body Oil,Non-Preferred
+TOPICALS: STEROIDS: Low Potency,desonide lotion (generic for DesOwen® Lotion),Non-Preferred
+TOPICALS: STEROIDS: Low Potency,Hydrocortisone Solution,Non-Preferred
 TOPICALS: STEROIDS: Low Potency,Hydroxym™ Gel,Non-Preferred
 TOPICALS: STEROIDS: Low Potency,Texacort® Solution,Non-Preferred
 TOPICALS: STEROIDS: Medium Potency,fluticasone cream / ointment (generic for Cutivate®),Preferred
-TOPICALS: STEROIDS: Medium Potency,Beser™  Lotion / Kit,Non-Preferred
+TOPICALS: STEROIDS: Medium Potency,Beser™ Lotion / Kit,Non-Preferred
 TOPICALS: STEROIDS: Medium Potency,mometasone cream / ointment / solution (generic for Elocon®),Preferred
 TOPICALS: STEROIDS: Medium Potency,clocortolone cream (generic for Cloderm®),Non-Preferred
 TOPICALS: STEROIDS: Medium Potency,Cloderm® Cream / Pump,Non-Preferred
 TOPICALS: STEROIDS: Medium Potency,fluocinolone cream / ointment / solution (generic for Synalar®),Non-Preferred
-TOPICALS: STEROIDS: Medium Potency,flurandrenolide / lotion / ointment (generic for Cordran®),Non-Preferred
+TOPICALS: STEROIDS: Medium Potency,flurandernolide Lotion / Ointment,Non-Preferred
 TOPICALS: STEROIDS: Medium Potency,fluticasone lotion (generic for Cutivate® Lotion),Non-Preferred
 TOPICALS: STEROIDS: Medium Potency,hydrocortisone butyrate cream / lipid cream / lotion / ointment / solution (generic for Locoid®),Non-Preferred
 TOPICALS: STEROIDS: Medium Potency,hydrocortisone valerate cream / ointment (generic for Westcort®),Non-Preferred
@@ -1757,19 +1771,20 @@ TOPICALS: STEROIDS: High Potency,triamcinolone spray (generic for Kenalog®),Non
 TOPICALS: STEROIDS: High Potency,Vanos® Cream,Non-Preferred
 TOPICALS: STEROIDS: Very High Potency,clobetasol cream / emollient cream / gel / ointment (generic for Temovate®),Preferred
 TOPICALS: STEROIDS: Very High Potency,ApexiCon® E Cream,Non-Preferred
-TOPICALS: STEROIDS: Very High Potency,clobetasol solution (generic for Cormax®),Preferred
-TOPICALS: STEROIDS: Very High Potency,Bryhali™  Lotion,Non-Preferred
-TOPICALS: STEROIDS: Very High Potency,halobetasol propionate cream / ointment (generic for Ultravate®),Preferred
-TOPICALS: STEROIDS: Very High Potency,clobetasol foam / emollient foam / emulsion foam (generic for Olux® / Olux-E®),Non-Preferred
 TOPICALS: STEROIDS: Very High Potency,clobetasol shampoo (generic for Clobex®),Preferred
+TOPICALS: STEROIDS: Very High Potency,Bryhali™ Lotion,Non-Preferred
+TOPICALS: STEROIDS: Very High Potency,clobetasol solution (generic for Cormax®),Preferred
+TOPICALS: STEROIDS: Very High Potency,clobetasol foam / emollient foam / emulsion foam (generic for Olux® / Olux-E®),Non-Preferred
+TOPICALS: STEROIDS: Very High Potency,Clobex® Shampoo,Preferred
 TOPICALS: STEROIDS: Very High Potency,clobetasol lotion / spray (generic for Clobex®),Non-Preferred
+TOPICALS: STEROIDS: Very High Potency,halobetasol propionate cream / ointment (generic for Ultravate®),Preferred
 TOPICALS: STEROIDS: Very High Potency,Clodan® Kit / Shampoo,Non-Preferred
 TOPICALS: STEROIDS: Very High Potency,halobetasol propionate foam (generic for Lexette®),Non-Preferred
-TOPICALS: STEROIDS: Very High Potency,Impeklo™  Lotion,Non-Preferred
+TOPICALS: STEROIDS: Very High Potency,Impeklo™ Lotion,Non-Preferred
 TOPICALS: STEROIDS: Very High Potency,Lexette® Foam,Non-Preferred
 TOPICALS: STEROIDS: Very High Potency,Olux® Foam,Non-Preferred
 TOPICALS: STEROIDS: Very High Potency,Temovate® Ointment,Non-Preferred
-TOPICALS: STEROIDS: Very High Potency,Tovet™  Foam / Foam Kit,Non-Preferred
+TOPICALS: STEROIDS: Very High Potency,Tovet™ Foam / Foam Kit,Non-Preferred
 TOPICALS: STEROIDS: Very High Potency,Ultravate® Lotion,Non-Preferred
 MISCELLANEOUS: WEIGHT MANAGEMENT AGENTS: GLP-1 Receptor Agonists indicated for the treatment of obesity (Incretin Mimemetics),Wegovy® Pen,Preferred
 MISCELLANEOUS: WEIGHT MANAGEMENT AGENTS: GLP-1 Receptor Agonists indicated for the treatment of obesity (Incretin Mimemetics),Saxenda® (liraglutide) Pen,Non-Preferred
@@ -1780,262 +1795,254 @@ MISCELLANEOUS: WEIGHT MANAGEMENT AGENTS: Weight Management Other (Non-Incretin M
 MISCELLANEOUS: WEIGHT MANAGEMENT AGENTS: Weight Management Other (Non-Incretin Mimetics),orlistat capsule (generic for Xenical®),Non-Preferred
 MISCELLANEOUS: WEIGHT MANAGEMENT AGENTS: Weight Management Other (Non-Incretin Mimetics),phentermine tablet / capsule,Preferred
 MISCELLANEOUS: WEIGHT MANAGEMENT AGENTS: Weight Management Other (Non-Incretin Mimetics),Xenical® (orlistat) Capsule,Non-Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Asthma: Weight Management Other (Non-Incretin Mimetics)",Fasenra® Pen / Syringe,Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Asthma: Weight Management Other (Non-Incretin Mimetics)",Cinqair® Vial,Non-Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Asthma: Weight Management Other (Non-Incretin Mimetics)",Xolair® (omalizumab) Autoinjector/Syringe,Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Asthma: Weight Management Other (Non-Incretin Mimetics)",Nucala® Syringe / Vial / Autoinjector,Non-Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Asthma: Weight Management Other (Non-Incretin Mimetics)",Tezspire® Pen / Syringe,Non-Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Asthma: Weight Management Other (Non-Incretin Mimetics)",Xolair® Vial,Non-Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Atopic Dermatitis: Weight Management Other (Non-Incretin Mimetics)",Adbry® Syringe,Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Atopic Dermatitis: Weight Management Other (Non-Incretin Mimetics)",Adbry® (tralokinumab-ldrm) Autoinjector,Non-Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Atopic Dermatitis: Weight Management Other (Non-Incretin Mimetics)",Dupixent® Pen / Syringe,Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Atopic Dermatitis: Weight Management Other (Non-Incretin Mimetics)",Ebglyss Pen,Non-Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Atopic Dermatitis: Weight Management Other (Non-Incretin Mimetics)",Elidel® Cream,Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Atopic Dermatitis: Weight Management Other (Non-Incretin Mimetics)",Opzelura™ Cream,Non-Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Atopic Dermatitis: Weight Management Other (Non-Incretin Mimetics)",Eucrisa® 2% Ointment,Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Atopic Dermatitis: Weight Management Other (Non-Incretin Mimetics)",pimecrolimus cream (generic for Elidel®),Non-Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Atopic Dermatitis: Weight Management Other (Non-Incretin Mimetics)",tacrolimus ointment (generic for Protopic®),Preferred
-"MISCELLANEOUS: IMMUNOMODULATORS, Atopic Dermatitis: Weight Management Other (Non-Incretin Mimetics)",Zoryve® (roflumilast) 0.15% Cream,Non-Preferred
-"MISCELLANEOUS: ANTIPSORIATICS, ORAL: Weight Management Other (Non-Incretin Mimetics)",acitretin (generic for Soriatane®),Preferred
-"MISCELLANEOUS: ANTIPSORIATICS, ORAL: Weight Management Other (Non-Incretin Mimetics)",methoxsalen rapid (generic for Oxsoralen-Ultra®),Non-Preferred
-"MISCELLANEOUS: EPINEPHRINE, SELF INJECTED: Weight Management Other (Non-Incretin Mimetics)",Epi-Pen® Auto Injector / 2-Pak / Jr. Auto Injector / Jr. 2-Pak,Preferred
-"MISCELLANEOUS: EPINEPHRINE, SELF INJECTED: Weight Management Other (Non-Incretin Mimetics)",Auvi-Q®Auto Injector,Non-Preferred
-"MISCELLANEOUS: EPINEPHRINE, SELF INJECTED: Weight Management Other (Non-Incretin Mimetics)",epinephrine auto injector (generic for Epi-Pen® / Epi-Pen® Jr.),Preferred
-"MISCELLANEOUS: EPINEPHRINE, SELF INJECTED: Weight Management Other (Non-Incretin Mimetics)",epinephrine auto injector (generic for Adrenaclick®),Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: Weight Management Other (Non-Incretin Mimetics)",Activella® Tablet,Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: Weight Management Other (Non-Incretin Mimetics)",Bijuva® Capsule,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: Weight Management Other (Non-Incretin Mimetics)",Amabelz™ Tablet,Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: Weight Management Other (Non-Incretin Mimetics)",estradiol/norethindrone tablet (generic for Activella®),Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: Weight Management Other (Non-Incretin Mimetics)",Fyavolv™  Tablet,Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: Weight Management Other (Non-Incretin Mimetics)",Jinteli® (branded generic for FemHRT®),Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: Weight Management Other (Non-Incretin Mimetics)",Mimvey® / Lo (branded generic for Activella®),Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: Weight Management Other (Non-Incretin Mimetics)",norethindrone-ethinyl estradiol (generic for FemHRT®),Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: Weight Management Other (Non-Incretin Mimetics)",Premphase® Tablet,Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: Weight Management Other (Non-Incretin Mimetics)",Prempro® Tablet,Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Climara® Pro Patch,Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Climara® Patch,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",CombiPatch® Patch,Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Divigel® Gel Packet,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)","estradiol patch (generic for Climara®, Menostar®, Vivelle-Dot®)",Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Dotti™  Patch,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",estradiol tablet (generic for Estrace®),Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Duavee® Tablet,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Evamist® Spray,Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Elestrin® Gel,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Menest® Tablet,Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Estrace® Tablet,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Premarin® Tablet,Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",estradiol gel packet (generic for Divigel®),Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Lyllana™  Patch,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Menostar® Patch,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Minivelle® Patch,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Osphena® Tablet,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Veozah™ Tablet,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Vivelle-Dot® Patch,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: Weight Management Other (Non-Incretin Mimetics)",Estring® Vaginal Ring,Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: Weight Management Other (Non-Incretin Mimetics)",Estrace® Cream,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: Weight Management Other (Non-Incretin Mimetics)",Premarin® Vaginal Cream,Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: Weight Management Other (Non-Incretin Mimetics)",estradiol vaginal cream / tablet  (generic for Estrace®),Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: Weight Management Other (Non-Incretin Mimetics)",Vagifem® Vaginal Tablet,Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: Weight Management Other (Non-Incretin Mimetics)",Femring® Vaginal Ring,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: Weight Management Other (Non-Incretin Mimetics)",Imvexxy® Vaginal Inserts,Non-Preferred
-"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: Weight Management Other (Non-Incretin Mimetics)",Yuvafem® Vaginal Tablet,Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",budesonide EC capsule (generic for Entocort® EC),Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Alkindi® Sprinkle Capsule,Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",dexamethasone elixir / tablet (generic for Decadron®),Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Cortef® Tablet,Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",dexamethasone solution (generic for Concedix®),Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",cortisone tablet (generic for Patisone®),Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Emflaza® Tablet,Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",deflazacort tablet (generic for Emflaza®),Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",deflazacort suspension (generic for Emflaza®),Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",methylprednisolone 4mg dosepack / tablet (generic for Medrol®),Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",dexamethasone tablet dosepack / Intensol® Drops,Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)","prednisolone sodium phosphate solution (generic for PediaPred®, OraPred®, Veripred®)",Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Emflaza® Suspension - Clincal criteria apply. T/F of preferred agents not required for children < 12 years of age.,Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)","prednisolone solution (generic for Prelone®, Millipred®)",Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Eohilia® Suspension-T/F of preferred agents not required for diagnosis of eosinophilic esophagitis,Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",prednisone dose pack (generic for Sterapred®),Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Hemady™  Tablet,Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",prednisone solution / tablet (generic for Deltasone®),Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Medrol® Dose Pack / Tablet,Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",methylprednisolone 8mg / 16mg / 32mg tablet (generic for Medrol®),Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Millipred® Dose Pack / Tablet,Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",prednisolone ODT (generic for Orapred® ODT),Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",prednisolone tablet,Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Prednisone Intensol® Concentrated Solution,Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Rayos® Tablet,Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Taperdex® Tablet,Non-Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Tarpeyo™ Capsule,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",adalimumab-adaz Pen / Syringe,Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Abrilada™ Pen / Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",adalimumab-fkjp Pen / Syringe,Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Actemra® ACTPen™ / Syringe / Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Cosentyx® Sensoready® Pen / UnoReady® Pen / Syringe,Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",adalimumab-aacf Pen,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Enbrel® Mini Cartridge / Sureclick® Syringe / Syringe / Vial,Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",adalimumab-aaty Autoinjector / Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Hadlima™ Syringe  / PushTouch,Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",adalimumab-adbm Pen / Psoriasis-UV Pen / Crohn's Pen / Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Humira® Crohn's Starter Pack / Ped. Crohn's Starter Pack / Pen / Psoriasis Starter Pack / Syringe,Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",adalimumab-ryvk Autoinjector,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",infliximab vial (generic for Remicade®),Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Amjevita™ Syringe / Autoinjector,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Otezla® Starter Pack / Tablet,Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Arcalyst® SQ Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Avsola® Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Bimzelx® Autoinjector / Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Cibinqo™ Tablet,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Cimzia® Starter Kit / Syringe Kit / Vial Kit,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Cosentyx® Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Cyltezo™ Syringe / Crohn's-UC-HS Pen / Psoriasis Pen / Pen,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Cyltezo™ (adalimumab-adbm) Psoriasis-UV Pen,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Enspryng™  Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Entyvio® Pen / Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Hyrimoz™ Pen / Crohn's-UC Pen / Ped. Crohn's Pen / Syringe / Psoriasis Pen,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Hulio™ Pen / Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Idacio® Pen / Psoriasis Pen / Crohn's-UC Pen / Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Ilaris® Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Ilumya® Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Inflectra™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Kevzara® Syringe / Pen,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Kineret® Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Olumiant® Tablet,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Omvoh™ Pen / Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Omvoh™ (mirikizumab-mrkz) Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Orencia® Clickjet® / Syringe / Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Remicade® Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Renflexis™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Rinvoq® ER Tablet,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Rinvoq® (upadacitinib) LQ Solution,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Siliq® Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Simlandi® Autoinjector,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Simponi® Pen / Syringe / Aria® Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Skyrizi®  On-Body / Vial / Pen / Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Sotyktu® Tablet,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Spevigo® Vial / Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Stelara® Syringe / Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Taltz® Auto-injector / Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Tofidence™ (tocilizumab-bavi) Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Tremfya® Syringe / Injector/ Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Tyenne® Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Tyenne® (tocilizumab-aazg) Autoinjector / Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Uplizna® Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Velsipity® Tablet,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Xeljanz® Tablet / Solution / XR Tablet,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Yuflyma®  Syringe / Autoinjector / Crohn's-UC-HS Autoinjector,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Yusimry™ Pen,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Zymfentra™ Pen / Syringe,Non-Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Astagraf® XL Capsule,Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Azasan® Tablet,Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),azathioprine tablet (generic for Imuran®),Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Cellcept® Capsule / Suspension / Tablet,Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),cyclosporine capsule (generic for Sandimmune®),Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),"cyclosporine modified capsule / solution (generic for Gengraf®, Neoral®)",Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Envarsus® XR Tablet,Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),everolimus tablet (generic for Zortress® Tablet),Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Gengraf® Capsule / Solution,Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Imuran® Tablet,Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),mycophenolate capsule / suspension / tablet (generic for Cellcept®),Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),mycophenolic acid tablet (generic for Myfortic®),Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Myfortic® Tablet,Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Myhibbin™ (mycophenolate mofetil) Suspension,Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Neoral® Capsule / Solution,Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Prograf® Capsule / Granule Packet,Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Rapamune® Solution / Tablet,Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Rezurock™  Tablet,Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Sandimmune® Capsule / Solution,Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),sirolimus tablet / solution (generic for Rapamune® ),Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),"tacrolimus capsule (generic for Hecoria®, Prograf®)",Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Tavneos® Capsule,Preferred
-MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Zortress® Tablet,Preferred
-MISCELLANEOUS: MOVEMENT DISORDERS: Weight Management Other (Non-Incretin Mimetics),Austedo® Tablet,Preferred
-MISCELLANEOUS: MOVEMENT DISORDERS: Weight Management Other (Non-Incretin Mimetics),Ingrezza® (valbenazine) Sprinkle Capsules,Non-Preferred
-MISCELLANEOUS: MOVEMENT DISORDERS: Weight Management Other (Non-Incretin Mimetics),Austedo® XR Tablet / Titration Kit,Preferred
-MISCELLANEOUS: MOVEMENT DISORDERS: Weight Management Other (Non-Incretin Mimetics),Xenazine® Tablet,Non-Preferred
-MISCELLANEOUS: MOVEMENT DISORDERS: Weight Management Other (Non-Incretin Mimetics),Ingrezza® Capsule / Initiation Pack,Preferred
-MISCELLANEOUS: MOVEMENT DISORDERS: Weight Management Other (Non-Incretin Mimetics),tetrabenazine tablet,Preferred
-MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) PROPHYLAXIS AGENTS: Weight Management Other (Non-Incretin Mimetics),Haegarda® Vial,Preferred
-MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) PROPHYLAXIS AGENTS: Weight Management Other (Non-Incretin Mimetics),Cinryze® Vial,Non-Preferred
-MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) PROPHYLAXIS AGENTS: Weight Management Other (Non-Incretin Mimetics),Orladeyo® Capsule,Preferred
-MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) PROPHYLAXIS AGENTS: Weight Management Other (Non-Incretin Mimetics),Takhzyro® Vial / Syringe,Non-Preferred
-MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) TREATMENT AGENTS: Weight Management Other (Non-Incretin Mimetics),Berinert® Vial / Kit,Preferred
-MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) TREATMENT AGENTS: Weight Management Other (Non-Incretin Mimetics),Firazyr® Syringe,Non-Preferred
-MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) TREATMENT AGENTS: Weight Management Other (Non-Incretin Mimetics),icatibant syringe (generic for Firazyr®),Preferred
-MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) TREATMENT AGENTS: Weight Management Other (Non-Incretin Mimetics),Ruconest® Vial,Non-Preferred
-MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) TREATMENT AGENTS: Weight Management Other (Non-Incretin Mimetics),Kalbitor® Vial,Preferred
-MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) TREATMENT AGENTS: Weight Management Other (Non-Incretin Mimetics),Sajazir™ Syringe (branded generic for icatibant),Preferred
-MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),Kloxxado™  Nasal Spray,Preferred
-MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),LifEMS™ naloxone Syringe Kit,Preferred
-MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),naloxone nasal spray (OTC),Preferred
-MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),naloxone syringe / spray / vial (generic for Narcan®),Preferred
-MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),naltrexone tablet,Preferred
-MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),Narcan® Nasal Spray (OTC),Preferred
-MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),Opvee®  Nasal Spray,Preferred
-MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),Rextovy™ (naloxone) Nasal Spray,Preferred
-MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),Vivitrol® Vial / Diluent,Preferred
-MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),Zimhi™ Syringe,Preferred
-MISCELLANEOUS: OPIOID DEPENDENCE: Weight Management Other (Non-Incretin Mimetics),Prior Approval Not Required for Coverage of Preferred Agents,Preferred
-MISCELLANEOUS: OPIOID DEPENDENCE: Weight Management Other (Non-Incretin Mimetics),Clinical Criteria Apply to Non-Preferred Agents,Non-Preferred
-MISCELLANEOUS: OPIOID DEPENDENCE: Weight Management Other (Non-Incretin Mimetics),Brixadi™ Weekly Syringe / Monthly Syringe,Preferred
-MISCELLANEOUS: OPIOID DEPENDENCE: Weight Management Other (Non-Incretin Mimetics),buprenorphine-naloxone SL film (generic for Suboxone®),Non-Preferred
-MISCELLANEOUS: OPIOID DEPENDENCE: Weight Management Other (Non-Incretin Mimetics),buprenorphine-naloxone SL tablet (generic for Suboxone®),Preferred
-MISCELLANEOUS: OPIOID DEPENDENCE: Weight Management Other (Non-Incretin Mimetics),Lofexidine Tablet T/F of preferred agents not required for diagnosis of opioid withdrawal,Non-Preferred
-MISCELLANEOUS: OPIOID DEPENDENCE: Weight Management Other (Non-Incretin Mimetics),buprenorphine SL tablet (generic for Subutex®),Preferred
-MISCELLANEOUS: OPIOID DEPENDENCE: Weight Management Other (Non-Incretin Mimetics),Lucemyra® Tablet,Non-Preferred
-MISCELLANEOUS: OPIOID DEPENDENCE: Weight Management Other (Non-Incretin Mimetics),Suboxone® SL Film,Preferred
-MISCELLANEOUS: OPIOID DEPENDENCE: Weight Management Other (Non-Incretin Mimetics),Zubsolv® Tablet SL,Non-Preferred
-MISCELLANEOUS: OPIOID DEPENDENCE: Weight Management Other (Non-Incretin Mimetics),Sublocade® Syringe,Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),baclofen tablet (generic for Lioresal®),Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Amrix® ER Capsule,Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),cyclobenzaprine tablet (generic for Flexeril®),Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),baclofen oral solution,Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),methocarbamol tablet (generic for Robaxin®),Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),baclofen suspension (generic for Fleqsuvy™),Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),tizanidine tablet (generic for Zanaflex®),Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),chlorzoxazone tablet (generic for Parafon Forte®),Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),cyclobenzaprine ER capsule (generic for Amrix® ER),Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Dantrium® Capsule / Vial,Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),dantrolene sodium capsule (generic for Dantrium®),Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Fexmid® Tablet,Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Fleqsuvy™ Suspension,Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Lorzone® Tablet,Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Lyvispah® Granule Packet,Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),metaxalone tablet (generic for Skelaxin®),Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Norgesic™ Tablet / Forte Tablet,Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),orphenadrine / aspirin / caffeine tablet (generic for Norgesic™),Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),orphenadrine citrate tablet / vial (generic for Norflex®),Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Orphengesic® Forte Tablet,Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Robaxin® Vial,Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Tanlor® Tablet,Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),tizanidine capsules (generic for Zanaflex®),Non-Preferred
-MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Zanaflex® Capsule / Tablet,Non-Preferred
-DISPOSABLE INSULIN DELIVERY DEVICES: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),CeQur Simplicity™,Preferred
-DISPOSABLE INSULIN DELIVERY DEVICES: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),CeQur Simplicity™ Inserter,Preferred
-DISPOSABLE INSULIN DELIVERY DEVICES: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Omnipod 5® G6 Pods (5-Pack) / G6 Intro Kit / G6-G7 Pods / G6-G7 Intro Kit,Preferred
-DISPOSABLE INSULIN DELIVERY DEVICES: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Omnipod DASH® Pods (5-Pack) / Intro Kit,Preferred
-DISPOSABLE INSULIN DELIVERY DEVICES: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Omnipod GO™ Pods,Preferred
-DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: Weight Management Other (Non-Incretin Mimetics),Dexcom G6® Transmitter / Receiver,Preferred
-DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: Weight Management Other (Non-Incretin Mimetics),Freestyle Libre™  14 day Reader,Non-Preferred
-DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: Weight Management Other (Non-Incretin Mimetics),Dexcom G7® Receiver,Preferred
-DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: Weight Management Other (Non-Incretin Mimetics),Freestyle Libre™  2 Reader,Preferred
-DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: Weight Management Other (Non-Incretin Mimetics),Freestyle Libre™  3 Reader,Preferred
-DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: Weight Management Other (Non-Incretin Mimetics),Freestyle Libre™ 2 Sensor,Preferred
-DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: Weight Management Other (Non-Incretin Mimetics),Freestyle Libre™  14 day Sensor,Non-Preferred
-DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: Weight Management Other (Non-Incretin Mimetics),Freestyle Libre™ 3 Sensor,Preferred
-DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: Weight Management Other (Non-Incretin Mimetics),Freestyle Libre™ 3 Plus Sensor,Preferred
-DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: Weight Management Other (Non-Incretin Mimetics),Dexcom G6® Sensor,Preferred
-DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: Weight Management Other (Non-Incretin Mimetics),Dexcom G7® Sensor,Preferred
-DIABETIC SUPPLIES: Lancing Devices: Weight Management Other (Non-Incretin Mimetics),ACCU-CHEK® Guide Retail care kit * (see above for billing),Preferred
-DIABETIC SUPPLIES: Lancing Devices: Weight Management Other (Non-Incretin Mimetics),ACCU-CHEK® Softclix lancing device kit (Black),Non-Preferred
-DIABETIC SUPPLIES: Lancing Devices: Weight Management Other (Non-Incretin Mimetics),ACCU-CHEK® Guide Me Retail care kit * (see above for billing),Preferred
-DIABETIC SUPPLIES: Lancing Devices: Weight Management Other (Non-Incretin Mimetics),ACCU-CHEK® Fastclix lancing device kit,Non-Preferred
-DIABETIC SUPPLIES: Control Solutions: Weight Management Other (Non-Incretin Mimetics),ACCU-CHEK® AVIVA PLUS  50 ct test strips,Preferred
-DIABETIC SUPPLIES: Control Solutions: Weight Management Other (Non-Incretin Mimetics),ACCU-CHEK® Aviva glucose control solution (2 levels),Non-Preferred
-DIABETIC SUPPLIES: Control Solutions: Weight Management Other (Non-Incretin Mimetics),ACCU-CHEK® SMARTVIEW  50 ct test strips,Preferred
-DIABETIC SUPPLIES: Control Solutions: Weight Management Other (Non-Incretin Mimetics),ACCU-CHEK® SmartView glucose control solution (1 level),Non-Preferred
-DIABETIC SUPPLIES: Control Solutions: Weight Management Other (Non-Incretin Mimetics),ACCU-CHEK® Guide 50 ct test strips,Preferred
-DIABETIC SUPPLIES: Control Solutions: Weight Management Other (Non-Incretin Mimetics),ACCU-CHEK® Guide 2-Level control solution (2-levels),Non-Preferred
-DIABETIC SUPPLIES: Control Solutions: Weight Management Other (Non-Incretin Mimetics),ACCU-CHEK® Guide 100 ct test strips,Preferred
-DIABETIC SUPPLIES: Lancets: Weight Management Other (Non-Incretin Mimetics),ACCU-CHEK® Softclix 100 ct Lancets,Preferred
-DIABETIC SUPPLIES: Lancets: Weight Management Other (Non-Incretin Mimetics),ACCU-CHEK® Fastclix  102 ct Lancets,Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: Weight Management Other (Non-Incretin Mimetics)",Fasenra® Pen / Syringe,Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: Weight Management Other (Non-Incretin Mimetics)",Cinqair® Vial,Non-Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: Weight Management Other (Non-Incretin Mimetics)",Xolair® (omalizumab) Autoinjector/Syringe,Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: Weight Management Other (Non-Incretin Mimetics)",Nucala® Syringe / Vial / Autoinjector,Non-Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: Weight Management Other (Non-Incretin Mimetics)",Tezspire® Pen / Syringe,Non-Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: Weight Management Other (Non-Incretin Mimetics)",Xolair® Vial,Non-Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis",Adbry® Syringe,Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis",Adbry® (tralokinumab-ldrm) Autoinjector,Non-Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis",Dupixent® Pen / Syringe,Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis",Ebglyss Pen,Non-Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis",Elidel® Cream,Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis",Ebglyss™ Syringe (lebrikizumab-lbkz),Non-Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis",Eucrisa® 2% Ointment,Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis",Opzelura™ Cream,Non-Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis",tacrolimus ointment (generic for Protopic®),Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis",pimecrolimus cream (generic for Elidel®),Non-Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis",Zoryve® (roflumilast) 0.15% Cream,Non-Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis",Nemluvio®,Non-Preferred
+"MISCELLANEOUS: ANTIPSORIATICS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",acitretin (generic for Soriatane®),Preferred
+"MISCELLANEOUS: ANTIPSORIATICS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",methoxsalen rapid (generic for Oxsoralen-Ultra®),Non-Preferred
+"MISCELLANEOUS: EPINEPHRINE, SELF ADMINISTERED: IMMUNOMODULATORS, Atopic Dermatitis",Auvi-Q®Auto Injector,Preferred
+"MISCELLANEOUS: EPINEPHRINE, SELF ADMINISTERED: IMMUNOMODULATORS, Atopic Dermatitis",epinephrine auto injector (generic for Adrenaclick®),Non-Preferred
+"MISCELLANEOUS: EPINEPHRINE, SELF ADMINISTERED: IMMUNOMODULATORS, Atopic Dermatitis",epinephrine auto injector (generic for Epi-Pen® / Epi-Pen® Jr.),Preferred
+"MISCELLANEOUS: EPINEPHRINE, SELF ADMINISTERED: IMMUNOMODULATORS, Atopic Dermatitis",neffy® nasal spray,Non-Preferred
+"MISCELLANEOUS: EPINEPHRINE, SELF ADMINISTERED: IMMUNOMODULATORS, Atopic Dermatitis",Epi-Pen® Auto Injector / 2-Pak / Jr. Auto Injector / Jr. 2-Pak,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Activella® Tablet,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Bijuva® Capsule,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Amabelz™ Tablet,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: IMMUNOMODULATORS, Atopic Dermatitis",estradiol/norethindrone tablet (generic for Activella®),Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Fyavolv™ Tablet,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Jinteli® (branded generic for FemHRT®),Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Mimvey® / Lo (branded generic for Activella®),Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: IMMUNOMODULATORS, Atopic Dermatitis",norethindrone-ethinyl estradiol (generic for FemHRT®),Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Premphase® Tablet,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, COMBINATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Prempro® Tablet,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Climara® Pro Patch,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Climara® Patch,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",CombiPatch® Patch,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Divigel® Gel Packet,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis","estradiol patch (generic for Climara®, Menostar®, Vivelle-Dot®)",Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Dotti™ Patch,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",estradiol tablet (generic for Estrace®),Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Duavee® Tablet,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Evamist® Spray,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Elestrin® Gel,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Menest® Tablet,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Estrace® Tablet,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Premarin® Tablet,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Estradiol Gel Pump,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",estradiol gel packet (generic for Divigel®),Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Lyllana™ Patch,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Menostar® Patch,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Minivelle® Patch,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Osphena® Tablet,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: IMMUNOMODULATORS, Atopic Dermatitis",Veozah™ Tablet,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Estring® Vaginal Ring,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Estrace® Cream,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Premarin® Vaginal Cream,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: IMMUNOMODULATORS, Atopic Dermatitis",estradiol vaginal cream / tablet  (generic for Estrace®),Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Vagifem® Vaginal Tablet,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Femring® Vaginal Ring,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Imvexxy® Vaginal Inserts,Non-Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, VAGINAL PREPARATIONS: IMMUNOMODULATORS, Atopic Dermatitis",Yuvafem® Vaginal Tablet,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",budesonide EC capsule (generic for Entocort® EC),Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",Alkindi® Sprinkle Capsule,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",dexamethasone elixir / tablet (generic for Decadron®),Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",Cortef® Tablet,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",dexamethasone solution (generic for Concedix®),Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",cortisone tablet (generic for Patisone®),Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",Emflaza® Tablet,Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",deflazacort tablet (generic for Emflaza®),Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",hydrocortisone tablet,Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",deflazacort suspension (generic for Emflaza®),Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",methylprednisolone 4mg dosepack / tablet (generic for Medrol®),Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",dexamethasone tablet dosepack / Intensol® Drops,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis","prednisolone sodium phosphate solution (generic for PediaPred®, OraPred®, Veripred®)",Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",Emflaza® Suspension - Clincal criteria apply. T/F of preferred agents not required for children < 12 years of age.,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis","prednisolone solution (generic for Prelone®, Millipred®)",Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",Eohilia® Suspension-T/F of preferred agents not required for diagnosis of eosinophilic esophagitis,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",prednisone dose pack (generic for Sterapred®),Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",Hemady™ Tablet,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",prednisone solution / tablet (generic for Deltasone®),Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",Medrol® Dose Pack / Tablet,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",methylprednisolone 8mg / 16mg / 32mg tablet (generic for Medrol®),Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",Millipred® Dose Pack / Tablet,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",prednisolone ODT (generic for Orapred® ODT),Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",prednisolone tablet,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",Prednisone Intensol® Concentrated Solution,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",Rayos® Tablet,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",Taperdex® Tablet,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: IMMUNOMODULATORS, Atopic Dermatitis",Tarpeyo™ Capsule,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",adalimumab-adaz Pen / Syringe,Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Abrilada™ Pen / Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",adalimumab-fkjp Pen / Syringe,Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Actemra® ACTPen™ / Syringe / Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Cosentyx® Sensoready® Pen / UnoReady® Pen / Syringe,Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",adalimumab-aacf Pen,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Enbrel® Mini Cartridge / Sureclick® Syringe / Syringe / Vial,Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",adalimumab-aaty Autoinjector / Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Hadlima™ Syringe  / PushTouch,Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",adalimumab-adbm Pen / Psoriasis-UV Pen / Crohn's Pen / Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Humira® Crohn's Starter Pack / Ped. Crohn's Starter Pack / Pen / Psoriasis Starter Pack / Syringe,Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",adalimumab-ryvk Autoinjector / Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",infliximab vial (generic for Remicade®),Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Amjevita™ Syringe / Autoinjector,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Otezla® Starter Pack / Tablet,Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Arcalyst® SQ Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Avsola® Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Bimzelx® Autoinjector / Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Cibinqo™ Tablet,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Cimzia® Starter Kit / Syringe Kit / Vial Kit,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Cosentyx® Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Cyltezo™ (adalimumab-adbm) Psoriasis-UV Pen,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Cyltezo™ Syringe / Crohn's-UC-HS Pen / Psoriasis Pen / Pen,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Enspryng™ Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Entyvio® Pen / Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Hulio™ Pen / Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Hyrimoz™ Pen / Crohn's-UC Pen / Ped. Crohn's Pen / Syringe / Psoriasis Pen,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Idacio® Pen / Psoriasis Pen / Crohn's-UC Pen / Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Ilaris® Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Ilumya® Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Inflectra™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Kevzara® Syringe / Pen,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Kineret® Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Olumiant® Tablet,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Omvoh™ (mirikizumab-mrkz) Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Omvoh™ Pen / Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Orencia® Clickjet® / Syringe / Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Remicade® Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Renflexis™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Rinvoq® (upadacitinib) LQ Solution,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Rinvoq® ER Tablet,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Siliq® Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Simlandi® Autoinjector/kit,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Simponi® Pen / Syringe / Aria® Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Skyrizi®  On-Body / Vial / Pen / Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Sotyktu® Tablet,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Spevigo® Vial / Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Stelara® Syringe / Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Taltz® Auto-injector / Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Tofidence™ (tocilizumab-bavi) Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Tremfya® Syringe / Injector/ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Tyenne® (tocilizumab-aazg) Autoinjector / Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Tyenne® Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Uplizna® Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Velsipity® Tablet,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Xeljanz® Tablet / Solution / XR Tablet,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Yuflyma®  Syringe / Autoinjector / Crohn's-UC-HS Autoinjector,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Yusimry™ Pen,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Zymfentra™ Pen / Syringe,Non-Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Astagraf® XL Capsule,Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Azasan® Tablet,Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",azathioprine tablet (generic for Imuran®),Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Cellcept® Capsule / Suspension / Tablet,Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",cyclosporine capsule (generic for Sandimmune®),Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis","cyclosporine modified capsule / solution (generic for Gengraf®, Neoral®)",Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Envarsus® XR Tablet,Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",everolimus tablet (generic for Zortress® Tablet),Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Gengraf® Capsule / Solution,Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Imuran® Tablet,Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",mycophenolate capsule / suspension / tablet (generic for Cellcept®),Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",mycophenolic acid tablet (generic for Myfortic®),Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Myfortic® Tablet,Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Myhibbin™ (mycophenolate mofetil) Suspension,Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Neoral® Capsule / Solution,Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Prograf® Capsule / Granule Packet,Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Rapamune® Solution / Tablet,Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Rezurock™ Tablet,Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Sandimmune® Capsule / Solution,Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",sirolimus tablet / solution (generic for Rapamune® ),Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis","tacrolimus capsule (generic for Hecoria®, Prograf®)",Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Tavneos® Capsule,Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Zortress® Tablet,Preferred
+"MISCELLANEOUS: MOVEMENT DISORDERS: IMMUNOMODULATORS, Atopic Dermatitis",Austedo® Tablet,Preferred
+"MISCELLANEOUS: MOVEMENT DISORDERS: IMMUNOMODULATORS, Atopic Dermatitis",Ingrezza® (valbenazine) Sprinkle Capsules,Non-Preferred
+"MISCELLANEOUS: MOVEMENT DISORDERS: IMMUNOMODULATORS, Atopic Dermatitis",Austedo® XR Tablet / Titration Kit,Preferred
+"MISCELLANEOUS: MOVEMENT DISORDERS: IMMUNOMODULATORS, Atopic Dermatitis",Xenazine® Tablet,Non-Preferred
+"MISCELLANEOUS: MOVEMENT DISORDERS: IMMUNOMODULATORS, Atopic Dermatitis",Ingrezza® Capsule / Initiation Pack,Preferred
+"MISCELLANEOUS: MOVEMENT DISORDERS: IMMUNOMODULATORS, Atopic Dermatitis",tetrabenazine tablet,Preferred
+"MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) PROPHYLAXIS AGENTS: IMMUNOMODULATORS, Atopic Dermatitis",Haegarda® Vial,Preferred
+"MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) PROPHYLAXIS AGENTS: IMMUNOMODULATORS, Atopic Dermatitis",Cinryze® Vial,Non-Preferred
+"MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) PROPHYLAXIS AGENTS: IMMUNOMODULATORS, Atopic Dermatitis",Orladeyo® Capsule,Preferred
+"MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) PROPHYLAXIS AGENTS: IMMUNOMODULATORS, Atopic Dermatitis",Takhzyro® Vial / Syringe,Non-Preferred
+"MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) TREATMENT AGENTS: IMMUNOMODULATORS, Atopic Dermatitis",Berinert® Vial / Kit,Preferred
+"MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) TREATMENT AGENTS: IMMUNOMODULATORS, Atopic Dermatitis",Firazyr® Syringe,Non-Preferred
+"MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) TREATMENT AGENTS: IMMUNOMODULATORS, Atopic Dermatitis",icatibant syringe (generic for Firazyr®),Preferred
+"MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) TREATMENT AGENTS: IMMUNOMODULATORS, Atopic Dermatitis",Ruconest® Vial,Non-Preferred
+"MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) TREATMENT AGENTS: IMMUNOMODULATORS, Atopic Dermatitis",Kalbitor® Vial,Preferred
+"MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) TREATMENT AGENTS: IMMUNOMODULATORS, Atopic Dermatitis",Sajazir™ Syringe (branded generic for icatibant),Preferred
+"MISCELLANEOUS: OPIOID ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Kloxxado™ Nasal Spray,Preferred
+"MISCELLANEOUS: OPIOID ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",LifEMS™ naloxone Syringe Kit,Preferred
+"MISCELLANEOUS: OPIOID ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",naloxone nasal spray (OTC),Preferred
+"MISCELLANEOUS: OPIOID ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",naloxone syringe / spray / vial (generic for Narcan®),Preferred
+"MISCELLANEOUS: OPIOID ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",naltrexone tablet,Preferred
+"MISCELLANEOUS: OPIOID ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Narcan® Nasal Spray (OTC),Preferred
+"MISCELLANEOUS: OPIOID ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Opvee®  Nasal Spray,Preferred
+"MISCELLANEOUS: OPIOID ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Rextovy™ (naloxone) Nasal Spray,Preferred
+"MISCELLANEOUS: OPIOID ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Vivitrol® Vial / Diluent,Preferred
+"MISCELLANEOUS: OPIOID ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Zimhi™ Syringe,Preferred
+"MISCELLANEOUS: OPIOID DEPENDENCE: IMMUNOMODULATORS, Atopic Dermatitis",Prior Approval Not Required for Coverage of Preferred Agents,Preferred
+"MISCELLANEOUS: OPIOID DEPENDENCE: IMMUNOMODULATORS, Atopic Dermatitis",Clinical Criteria Apply to Non-Preferred Agents,Non-Preferred
+"MISCELLANEOUS: OPIOID DEPENDENCE: IMMUNOMODULATORS, Atopic Dermatitis",Brixadi™ Weekly Syringe / Monthly Syringe,Preferred
+"MISCELLANEOUS: OPIOID DEPENDENCE: IMMUNOMODULATORS, Atopic Dermatitis",buprenorphine-naloxone SL film (generic for Suboxone®),Non-Preferred
+"MISCELLANEOUS: OPIOID DEPENDENCE: IMMUNOMODULATORS, Atopic Dermatitis",buprenorphine-naloxone SL tablet (generic for Suboxone®),Preferred
+"MISCELLANEOUS: OPIOID DEPENDENCE: IMMUNOMODULATORS, Atopic Dermatitis",Lofexidine Tablet T/F of preferred agents not required for diagnosis of opioid withdrawal,Non-Preferred
+"MISCELLANEOUS: OPIOID DEPENDENCE: IMMUNOMODULATORS, Atopic Dermatitis",buprenorphine SL tablet (generic for Subutex®),Preferred
+"MISCELLANEOUS: OPIOID DEPENDENCE: IMMUNOMODULATORS, Atopic Dermatitis",Lucemyra® Tablet,Non-Preferred
+"MISCELLANEOUS: OPIOID DEPENDENCE: IMMUNOMODULATORS, Atopic Dermatitis",Suboxone® SL Film,Preferred
+"MISCELLANEOUS: OPIOID DEPENDENCE: IMMUNOMODULATORS, Atopic Dermatitis",Zubsolv® Tablet SL,Non-Preferred
+"MISCELLANEOUS: OPIOID DEPENDENCE: IMMUNOMODULATORS, Atopic Dermatitis",Sublocade® Syringe,Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",baclofen tablet (generic for Lioresal®),Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",Amrix® ER Capsule,Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",cyclobenzaprine tablet (generic for Flexeril®),Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",baclofen oral solution,Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",methocarbamol tablet (generic for Robaxin®),Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",baclofen suspension (generic for Fleqsuvy™),Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",tizanidine tablet (generic for Zanaflex®),Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",chlorzoxazone tablet (generic for Parafon Forte®),Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",cyclobenzaprine ER capsule (generic for Amrix® ER),Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",Dantrium® Capsule / Vial,Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",dantrolene sodium capsule (generic for Dantrium®),Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",Fexmid® Tablet,Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",Fleqsuvy™ Suspension,Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",Lorzone® Tablet,Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",Lyvispah® Granule Packet,Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",metaxalone tablet (generic for Skelaxin®),Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",Norgesic™ Tablet / Forte Tablet,Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",orphenadrine / aspirin / caffeine tablet (generic for Norgesic™),Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",orphenadrine citrate tablet / vial (generic for Norflex®),Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",Orphengesic® Forte Tablet,Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",Robaxin® Vial,Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",Tanlor® Tablet,Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",tizanidine capsules (generic for Zanaflex®),Non-Preferred
+"MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",Zanaflex® Capsule / Tablet,Non-Preferred
+"DISPOSABLE INSULIN DELIVERY DEVICES: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",CeQur Simplicity™,Preferred
+"DISPOSABLE INSULIN DELIVERY DEVICES: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",CeQur Simplicity™ Inserter,Preferred
+"DISPOSABLE INSULIN DELIVERY DEVICES: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",Omnipod 5® G6 Pods (5-Pack) / G6 Intro Kit / G6-G7 Pods / G6-G7 Intro Kit,Preferred
+"DISPOSABLE INSULIN DELIVERY DEVICES: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",Omnipod DASH® Pods (5-Pack) / Intro Kit,Preferred
+"DISPOSABLE INSULIN DELIVERY DEVICES: SKELETAL MUSCLE RELAXANTS: IMMUNOMODULATORS, Atopic Dermatitis",Omnipod GO™ Pods,Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: IMMUNOMODULATORS, Atopic Dermatitis",Dexcom G6® Transmitter / Receiver,Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: IMMUNOMODULATORS, Atopic Dermatitis",Freestyle Libre™ 14 day Reader,Non-Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: IMMUNOMODULATORS, Atopic Dermatitis",Dexcom G7® Receiver,Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: IMMUNOMODULATORS, Atopic Dermatitis",Freestyle Libre™ 2 Reader,Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: IMMUNOMODULATORS, Atopic Dermatitis",Freestyle Libre™ 3 Reader,Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: IMMUNOMODULATORS, Atopic Dermatitis",Freestyle Libre™ 2 Sensor,Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: IMMUNOMODULATORS, Atopic Dermatitis",Freestyle Libre™ 14 day Sensor,Non-Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: IMMUNOMODULATORS, Atopic Dermatitis",Freestyle Libre™ 2 Plus Sensor,Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: IMMUNOMODULATORS, Atopic Dermatitis",Freestyle Libre™ 3 Sensor,Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: IMMUNOMODULATORS, Atopic Dermatitis",Freestyle Libre™ 3 Plus Sensor,Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: IMMUNOMODULATORS, Atopic Dermatitis",Dexcom G6® Sensor,Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: IMMUNOMODULATORS, Atopic Dermatitis",Dexcom G7® Sensor,Preferred
