@@ -1,7 +1,7 @@
 import pandas as pd
 import docx
 
-doc_path = 'OR PDL.docx' 
+doc_path = 'OR.docx' 
 doc = docx.Document(doc_path)
 
 all_rows = []
