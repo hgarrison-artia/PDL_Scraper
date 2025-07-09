@@ -76,10 +76,14 @@ class DataManager:
                         'status': 'Non-Preferred'
                     })
             else:
-                # If the pdl_name isn't found in the PDL dataframe, add to not_in_data for manual processing
-                self.state_data = self.state_data[(self.state_data['therapeutic_class']!=entry['therapeutic_class']) & 
-                                                  (self.state_data['capsule_name']!=entry['capsule_name']) & 
-                                                  (self.state_data['pdl_name']!=entry['pdl_name'])]
+                # If the pdl_name isn't found in the PDL dataframe, remove only
+                # rows with the same therapeutic_class and pdl_name combination
+                # from state_data. Other rows should remain unaffected.
+                mask = ~(
+                    (self.state_data['therapeutic_class'] == entry['therapeutic_class']) &
+                    (self.state_data['pdl_name'] == entry['pdl_name'])
+                )
+                self.state_data = self.state_data[mask]
                 self.not_in_data.append(entry['capsule_name'])
 
         # Remove any banned drugs that may have been added back
