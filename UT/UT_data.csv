@@ -114,6 +114,7 @@ Mental Health: Anticonvulsants,Briviact,Briviact
 Respiratory: Asthma & COPD - Combination Products,Budesonide / Formoterol authorized generic Symbicort,budesonide/formoterol
 Respiratory: Asthma & COPD - Corticosteroids,Budesonide respules (inhalation suspension),budesonide nebulizer
 Antidiabetics: GLP-1 Agonists,Bydureon Bcise,Bydureon BCise
+Antidiabetics: GLP-1 Agonists,Bydureon Pen,Bydureon BCise
 Antidiabetics: GLP-1 Agonists,Byetta,Byetta
 Cardiovascular: Angiotensin Receptor Blockers (ARBs),Candesartan,candesartan
 Mental Health: Atypical Antipsychotics,Caplyta,Caplyta
@@ -248,12 +249,15 @@ Bone Density Regulators: Direct Acting Antivirals (DAAs),Forteo,Forteo
 Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Fosinopril,fosinopril
 Diagnostic Products: Diabetic Continuous Glucose Monitors,FreeStyle Libre 14 Day Reader,FreeStyle Libre Reader
 Diagnostic Products: Diabetic Continuous Glucose Monitors,FreeStyle Libre 14 Day Sensor Kit,FreeStyle Libre Sensor
+Diagnostic Products: Diabetic Testing Strips,FreeStyle Test Strips 50 ct,Freestyle Test Strips
 Neurological: Migraine - Abortive Therapy,Frova,Frova
 Neurological: Migraine - Abortive Therapy,Frovatriptan,frovatriptan
 Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Fulphila,Fulphila
 "Antivirals: Antiretrovirals - Entry, Fusion Inhibitors",Fuzeon,Fuzeon
 Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Fylnetra,Fylnetra
 Central Nervous System: Antidementia Agents - Oral,Galantamine ER,galantamine ER
+Central Nervous System: Antidementia Agents - Oral,Galantamine oral solution,galantamine ER
+Central Nervous System: Antidementia Agents - Oral,Galantamine tablet,galantamine ER
 Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Gammagard,Gammagard
 Growth Hormone: Chronic Gout,Genotropin,Genotropin
 Antivirals: Antiretrovirals- Combination Products,Genvoya,Genvoya
@@ -341,6 +345,7 @@ Mental Health: Atypical Antipsychotics,Latuda,Latuda
 Hepatitis C: Direct Acting Antivirals (DAAs),Ledipasvir / Sofosbuvir,sofosbuvir/ledipasvir
 Pulmonary Hypertension: Endothelin Antagonists,Letairis,Letairis
 Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Leukine,Leukine
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Levalbuterol Tartrate inhalation aerosol solution,levalbuterol HFA
 Antidiabetics: Long Acting Insulin,Levemir FlexTouch,Levemir
 Antidiabetics: Long Acting Insulin,Levemir vial,Levemir
 Antivirals: Protease Inhibitors,Lexiva,Lexiva
@@ -435,6 +440,7 @@ Mental Health: Anticonvulsants,Onfi tablet,Onfi
 Pulmonary Hypertension: Endothelin Antagonists,Opsumit,Opsumit
 Pulmonary Hypertension: Endothelin Antagonists,Opsynvi tablet,Opsynvi
 Dermatological: Atopic Dermatitis (Non-Steroidal),"Opzelura cream, Atopic Dermatitis",Opzelura
+Dermatological: Atopic Dermatitis (Non-Steroidal),"Opzelura cream, Nonsegmental Vitiligo",Opzelura
 Cytokine Modulators: Immunomodulators,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia
 Cytokine Modulators: Immunomodulators,"Orencia ClickJect, Psoriatic Arthritis (adult)",Orencia
 Cytokine Modulators: Immunomodulators,"Orencia ClickJect, Psoriatic Arthritis (pediatric)",Orencia
@@ -467,6 +473,7 @@ Anticoagulants: Oral,Pradaxa,Pradaxa
 Cardiovascular: PCSK-9 Inhibitors,Praluent,Praluent
 Diagnostic Products: Diabetic Testing Strips,Precision Test Strips 100 ct,Precision Test Strips
 Diagnostic Products: Diabetic Testing Strips,Precision Test Strips 50 ct,Precision Test Strips
+Diagnostic Products: Diabetic Testing Strips,Precision Xtra Beta Ketone Test Strips 10 ct,Precision Test Strips
 Estrogens: Oral Single Ingredient,Premarin tablet,Premarin
 Gastrointestinal (GI): Proton Pump Inhibitors,Prevacid SoluTab,Prevacid Solutabs
 Gastrointestinal (GI): Proton Pump Inhibitors,Prevacid capsule,Prevacid capsule
@@ -499,7 +506,6 @@ Antihemophilia: Factor IX,Rebinyn,Rebinyn
 Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Releuko,Releuko
 Cytokine Modulators: Immunomodulators,Remicade,Remicade
 Cytokine Modulators: Immunomodulators,Renflexis,Renflexis
-Gastrointestinal (GI): Phosphate Binders,Renvela,Renvela tablet
 Cardiovascular: PCSK-9 Inhibitors,Repatha,Repatha
 Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Revatio oral suspension,Revatio
 Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Revatio tablet,Revatio

@@ -117,7 +117,7 @@ therapeutic_class,capsule_name,pdl_name,status
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Enbrel Psoriatic Arthritis (adult),Enbrel® Mini Cartridge / Sureclick® Syringe / Syringe / Vial,Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Enbrel Psoriatic Arthritis (pediatric),Enbrel® Mini Cartridge / Sureclick® Syringe / Syringe / Vial,Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Enbrel Rheumatoid Arthritis,Enbrel® Mini Cartridge / Sureclick® Syringe / Syringe / Vial,Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Enspryng Neuromyelitis Optica Spectrum Disorder (NMOSD),Enspryng™  Syringe,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Enspryng Neuromyelitis Optica Spectrum Disorder (NMOSD),Enspryng™ Syringe,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Entyvio Crohn’s Disease (adult),Entyvio® Pen / Vial,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Entyvio Ulcerative Colitis (adult),Entyvio® Pen / Vial,Non-Preferred
 "MISCELLANEOUS: IMMUNOMODULATORS, Atopic Dermatitis: Weight Management Other (Non-Incretin Mimetics)",Eucrisa,Eucrisa® 2% Ointment,Preferred
@@ -184,20 +184,23 @@ therapeutic_class,capsule_name,pdl_name,status
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Ilaris Systemic-Onset Juvenile Idiopathic Arthritis (SJIA),Ilaris® Vial,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Ilaris Tumor Necrosis Factor Receptor Associated Periodic Syndrome (TRAPS),Ilaris® Vial,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Ilumya Plaque Psoriasis (adult),Ilumya® Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Inflectra Ankylosing Spondylitis,Inflectra™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Inflectra Crohn’s Disease (adult),Inflectra™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Inflectra Crohn’s Disease (pediatric),Inflectra™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Inflectra Plaque Psoriasis (adult),Inflectra™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Inflectra Psoriatic Arthritis (adult),Inflectra™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Inflectra Rheumatoid Arthritis,Inflectra™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Inflectra Ulcerative Colitis (adult),Inflectra™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Inflectra Ulcerative Colitis (pediatric),Inflectra™  Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Inflectra Ankylosing Spondylitis,Inflectra™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Inflectra Crohn’s Disease (adult),Inflectra™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Inflectra Crohn’s Disease (pediatric),Inflectra™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Inflectra Plaque Psoriasis (adult),Inflectra™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Inflectra Psoriatic Arthritis (adult),Inflectra™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Inflectra Rheumatoid Arthritis,Inflectra™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Inflectra Ulcerative Colitis (adult),Inflectra™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Inflectra Ulcerative Colitis (pediatric),Inflectra™ Vial,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),Kevzara® Syringe / Pen,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Kevzara Polymyalgia Rheumatica (PMR),Kevzara® Syringe / Pen,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Kevzara Rheumatoid Arthritis,Kevzara® Syringe / Pen,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Kineret Deficiency of Interleukin-1 Receptor Antagonist (DIRA),Kineret® Syringe,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Kineret Neonatal-Onset Multisystem Inflammatory Disease (NOMID),Kineret® Syringe,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Kineret Rheumatoid Arthritis,Kineret® Syringe,Non-Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis","Nemluvio auto-injector, Atopic Dermatitis (adult)",Nemluvio®,Non-Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis","Nemluvio auto-injector, Atopic Dermatitis (pediatric)",Nemluvio®,Non-Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, ASTHMA: IMMUNOMODULATORS, Atopic Dermatitis","Nemluvio auto-injector, Prurigo Nodularis",Nemluvio®,Non-Preferred
 "MISCELLANEOUS: IMMUNOMODULATORS, Asthma: Weight Management Other (Non-Incretin Mimetics)",Nucala Asthma (adult),Nucala® Syringe / Vial / Autoinjector,Non-Preferred
 "MISCELLANEOUS: IMMUNOMODULATORS, Asthma: Weight Management Other (Non-Incretin Mimetics)",Nucala Asthma (pediatric),Nucala® Syringe / Vial / Autoinjector,Non-Preferred
 "MISCELLANEOUS: IMMUNOMODULATORS, Asthma: Weight Management Other (Non-Incretin Mimetics)",Nucala Chronic Rhinosinusitis with Nasal Polyposis,Nucala® Syringe / Vial / Autoinjector,Non-Preferred
@@ -221,14 +224,14 @@ therapeutic_class,capsule_name,pdl_name,status
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Remicade Rheumatoid Arthritis,Remicade® Vial,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Remicade Ulcerative Colitis (adult),Remicade® Vial,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Remicade Ulcerative Colitis (pediatric),Remicade® Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Renflexis Ankylosing Spondylitis,Renflexis™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Renflexis Crohn’s Disease (adult),Renflexis™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Renflexis Crohn’s Disease (pediatric),Renflexis™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Renflexis Plaque Psoriasis (adult),Renflexis™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Renflexis Psoriatic Arthritis (adult),Renflexis™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Renflexis Rheumatoid Arthritis,Renflexis™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Renflexis Ulcerative Colitis (adult),Renflexis™  Vial,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Renflexis Ulcerative Colitis (pediatric),Renflexis™  Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Renflexis Ankylosing Spondylitis,Renflexis™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Renflexis Crohn’s Disease (adult),Renflexis™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Renflexis Crohn’s Disease (pediatric),Renflexis™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Renflexis Plaque Psoriasis (adult),Renflexis™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Renflexis Psoriatic Arthritis (adult),Renflexis™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Renflexis Rheumatoid Arthritis,Renflexis™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Renflexis Ulcerative Colitis (adult),Renflexis™ Vial,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Renflexis Ulcerative Colitis (pediatric),Renflexis™ Vial,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Rinvoq Ankylosing Spondylitis,Rinvoq® ER Tablet,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Rinvoq Atopic Dermatitis (adult),Rinvoq® ER Tablet,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Rinvoq Crohn's Disease (adult),Rinvoq® ER Tablet,Non-Preferred
@@ -239,16 +242,16 @@ therapeutic_class,capsule_name,pdl_name,status
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Rinvoq Rheumatoid Arthritis,Rinvoq® ER Tablet,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Rinvoq Ulcerative Colitis (adult),Rinvoq® ER Tablet,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Siliq Plaque Psoriasis (adult),Siliq® Syringe,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Simlandi Ankylosing Spondylitis,Simlandi® Autoinjector,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Simlandi Crohn’s Disease (adult),Simlandi® Autoinjector,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Simlandi Crohn’s Disease (pediatric),Simlandi® Autoinjector,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Simlandi Hidradenitis Suppurativa,Simlandi® Autoinjector,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Simlandi Plaque Psoriasis (adult),Simlandi® Autoinjector,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA),Simlandi® Autoinjector,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Simlandi Psoriatic Arthritis (adult),Simlandi® Autoinjector,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Simlandi Rheumatoid Arthritis,Simlandi® Autoinjector,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Simlandi Ulcerative Colitis (adult),Simlandi® Autoinjector,Non-Preferred
-"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)",Simlandi Uveitis (adult),Simlandi® Autoinjector,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Simlandi Ankylosing Spondylitis,Simlandi® Autoinjector/kit,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Simlandi Crohn’s Disease (adult),Simlandi® Autoinjector/kit,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Simlandi Crohn’s Disease (pediatric),Simlandi® Autoinjector/kit,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Simlandi Hidradenitis Suppurativa,Simlandi® Autoinjector/kit,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Simlandi Plaque Psoriasis (adult),Simlandi® Autoinjector/kit,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA),Simlandi® Autoinjector/kit,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Simlandi Psoriatic Arthritis (adult),Simlandi® Autoinjector/kit,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Simlandi Rheumatoid Arthritis,Simlandi® Autoinjector/kit,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Simlandi Ulcerative Colitis (adult),Simlandi® Autoinjector/kit,Non-Preferred
+"MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Simlandi Uveitis (adult),Simlandi® Autoinjector/kit,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)","Simponi Ankylosing Spondylitis, Aria",Simponi® Pen / Syringe / Aria® Vial,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)","Simponi Ankylosing Spondylitis, prefilled syringe",Simponi® Pen / Syringe / Aria® Vial,Non-Preferred
 "MISCELLANEOUS: CYTOKINE AND CAM ANTAGONISTS (previously listed as Immunomodulators, Systemic): Weight Management Other (Non-Incretin Mimetics)","Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Simponi® Pen / Syringe / Aria® Vial,Non-Preferred

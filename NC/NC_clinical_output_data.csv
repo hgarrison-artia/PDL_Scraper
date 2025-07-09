@@ -14,8 +14,8 @@ ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Admelog SoloStar
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Advair Diskus,Advair® Diskus®,Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Advair HFA,Advair® HFA Inhaler,Preferred
 CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: CGRP Blockers/Modulators PREVENTATIVE,Aimovig,Aimovig® Autoinjector,Preferred
-RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Airduo Digihaler,AirDuo® Digihaler™  / RespiClick®,Non-Preferred
-RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Airduo Respiclick,AirDuo® Digihaler™  / RespiClick®,Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Airduo Digihaler,AirDuo® Digihaler™ / RespiClick®,Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Airduo Respiclick,AirDuo® Digihaler™ / RespiClick®,Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Airsupra HFA,AirSupra™ Inhaler,Non-Preferred
 CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: CGRP Blockers/Modulators PREVENTATIVE,Ajovy,Ajovy® Autoinjector / Syringe,Preferred
 "RESPIRATORY: BETA-ADRENERGIC HANDHELD, SHORT ACTING: Oral",Albuterol HFA generic PROAIR,albuterol HFA inhaler (generic for Proair® HFA Inhaler / Proventil® HFA Inhaler / Ventolin® HFA Inhaler),Non-Preferred
@@ -38,9 +38,9 @@ ALZHEIMER’S AGENTS: : ,Aricept,Aricept® Tablet,Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Aripiprazole ODT,aripiprazole ODT  (generic for Abilify® Discmelt®),Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Aripiprazole oral solution,aripiprazole Tablet / Solution  (generic for Abilify®),Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Aripiprazole tablet,aripiprazole Tablet / Solution  (generic for Abilify®),Preferred
-BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Aristada,Aristada® / Initio™  Syringe,Preferred
-BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Aristada Initio,Aristada® / Initio™  Syringe,Preferred
-RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Armonair Digihaler,ArmonAir™  Digihaler™,Non-Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Aristada,Aristada® / Initio™ Syringe,Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Aristada Initio,Aristada® / Initio™ Syringe,Preferred
+RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Armonair Digihaler,ArmonAir™ Digihaler™,Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Arnuity Ellipta,Arnuity® Ellipta® Inhaler,Preferred
 GASTROINTESTINAL: ULCERATIVE COLITIS: Oral,Asacol HD,Asacol® HD Tablet,Non-Preferred
 BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Asenapine,asenapine SL tablet (generic for Saphris® SL),Preferred
@@ -54,17 +54,17 @@ MISCELLANEOUS: MOVEMENT DISORDERS: Weight Management Other (Non-Incretin Mimetic
 MISCELLANEOUS: MOVEMENT DISORDERS: Weight Management Other (Non-Incretin Mimetics),Austedo XR,Austedo® XR Tablet / Titration Kit,Preferred
 MISCELLANEOUS: MOVEMENT DISORDERS: Weight Management Other (Non-Incretin Mimetics),Austedo XR titration pack,Austedo® XR Tablet / Titration Kit,Preferred
 BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,Auvelity,Auvelity® Tablet,Non-Preferred
-"MISCELLANEOUS: EPINEPHRINE, SELF INJECTED: Weight Management Other (Non-Incretin Mimetics)",Auvi-Q 0.1 mg,Auvi-Q®Auto Injector,Non-Preferred
-"MISCELLANEOUS: EPINEPHRINE, SELF INJECTED: Weight Management Other (Non-Incretin Mimetics)",Auvi-Q 0.15 mg,Auvi-Q®Auto Injector,Non-Preferred
-"MISCELLANEOUS: EPINEPHRINE, SELF INJECTED: Weight Management Other (Non-Incretin Mimetics)",Auvi-Q 0.3 mg,Auvi-Q®Auto Injector,Non-Preferred
+"MISCELLANEOUS: EPINEPHRINE, SELF INJECTED: Weight Management Other (Non-Incretin Mimetics)",Auvi-Q 0.1 mg,Auvi-Q®Auto Injector,Preferred
+"MISCELLANEOUS: EPINEPHRINE, SELF INJECTED: Weight Management Other (Non-Incretin Mimetics)",Auvi-Q 0.15 mg,Auvi-Q®Auto Injector,Preferred
+"MISCELLANEOUS: EPINEPHRINE, SELF INJECTED: Weight Management Other (Non-Incretin Mimetics)",Auvi-Q 0.3 mg,Auvi-Q®Auto Injector,Preferred
 CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Injectable,Avonex auto-injector,Avonex® Pack / Pen / Syringe,Preferred
 CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Injectable,Avonex prefilled syringe,Avonex® Pack / Pen / Syringe,Preferred
 BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Azstarys,Azstarys™ Capsule,Non-Preferred
 MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Baclofen oral solution,baclofen oral solution,Non-Preferred
 MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Baclofen tablet,baclofen tablet (generic for Lioresal®),Preferred
-CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Bafiertam,Bafiertam™  Capsule,Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Bafiertam,Bafiertam™ Capsule,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Banzel oral suspension,Banzel® Suspension,Non-Preferred
-ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Banzel tablet,Banzel® Tablet+B171:C198,Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Banzel tablet,Banzel® Tablet,Non-Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis B Agents),Baraclude,Baraclude® Solution / Tablet,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Basaglar Kwikpen,Basaglar® U-100 KwikPen®,Non-Preferred
 CARDIOVASCULAR: ACE INHIBITORS: Oral / Transdermal,Benazepril,benazepril tablet (generic for Lotensin®),Preferred
@@ -76,7 +76,7 @@ RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,Bevespi Aerosph
 CARDIOVASCULAR: ENDOTHELIN RECEPTOR ANTAGONISTS: Oral / Transdermal,Bosentan,bosentan tablet (generic for Tracleer® Tablet),Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Breo Ellipta,Breo® Ellipta®,Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Breyna,Breyna™ Inhaler,Non-Preferred
-RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Breztri Aerosphere,Breztri™  Aerosphere™,Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Breztri Aerosphere,Breztri™ Aerosphere™,Non-Preferred
 CARDIOVASCULAR: PLATELET INHIBITORS: Oral / Transdermal,Brilinta,Brilinta® Tablet,Preferred
 CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Injectable,Briumvi,Briumvi™ Vial,Non-Preferred
 ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Briviact oral solution,Briviact® Tablet / Solution,Preferred
@@ -85,11 +85,11 @@ RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Budesonide / Formoterol a
 RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Budesonide respules (inhalation suspension),"budesonide suspension 0.25mg, 0.5mg, 1mg (generic for Pulmicort® Respules)",Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Bydureon Bcise,Bydureon® BCise™,Non-Preferred
 ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Byetta,Byetta® Pen,Preferred
-GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Bylvay Alagille Syndrome (ALGS),Bylvay™  Capsule / Pellet,Non-Preferred
-GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Bylvay Progressive Familial Intrahepatic Cholestatis (PFIC),Bylvay™  Capsule / Pellet,Non-Preferred
+GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Bylvay Alagille Syndrome (ALGS),Bylvay™ Capsule / Pellet,Non-Preferred
+GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Bylvay Progressive Familial Intrahepatic Cholestatis (PFIC),Bylvay™ Capsule / Pellet,Non-Preferred
 "CARDIOVASCULAR: CARDIOVASCULAR, OTHER: Oral / Transdermal",Camzyos,Camzyos® Capsule,Preferred
 CARDIOVASCULAR: ANGIOTENSIN II RECEPTOR BLOCKERS: Oral / Transdermal,Candesartan,candesartan tablet (generic for Atacand®),Non-Preferred
-BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Caplyta,Caplyta™  Capsule,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Caplyta,Caplyta™ Capsule,Non-Preferred
 CARDIOVASCULAR: ACE INHIBITORS: Oral / Transdermal,Captopril,captopril tablet (generic for Capoten®),Non-Preferred
 "ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antibiotics, Inhaled",Cayston,Cayston® Solution,Non-Preferred
 DISPOSABLE INSULIN DELIVERY DEVICES: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),CeQur Simplicity,CeQur Simplicity™,Preferred
@@ -132,6 +132,8 @@ ALZHEIMER’S AGENTS: : ,"Donepezil tablet, 5 mg","donepezil 5mg, 10mg tablet / 
 RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,Duaklir Pressair,Duaklir® Pressair®,Non-Preferred
 "MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Duavee tablet,Duavee® Tablet,Non-Preferred
 RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Dulera,Dulera® Inhaler,Preferred
+ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Duloxetine generic Cymbalta,duloxetine capsule (generic for Cymbalta®),Preferred
+ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Duloxetine generic Irenka,duloxetine capsule (generic for Irenka®),Non-Preferred
 OPHTHALMIC: PROSTAGLANDIN AGONISTS: Oral,Durysta,Durysta® Implant,Non-Preferred
 BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Dyanavel XR oral suspension,Dyanavel® XR Suspension,Non-Preferred
 BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Dyanavel XR tablet,Dyanavel® XR Tablet,Non-Preferred
@@ -145,4 +147,411 @@ CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: CGRP Blockers/Modulators PREVENTATI
 CARDIOVASCULAR: ACE INHIBITORS: Oral / Transdermal,Enalapril,enalapril tablet (generic for Vasotec®),Preferred
 ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis B Agents),Entecavir,entecavir tablet (generic for Baraclude®),Preferred
 MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Envarsus XR,Envarsus® XR Tablet,Preferred
-"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Eohilia oral suspension,Eohilia® Suspension-T/F of preferred agents not required for diagnosis of eosinophilic esophagitis,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Eohilia oral suspension,Eohilia® Suspension,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)","Eohilia oral suspension, Eosinophilic Esophagitis",Eohilia® Suspension,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Epidiolex,Epidiolex® Solution,Non-Preferred
+"MISCELLANEOUS: EPINEPHRINE, SELF INJECTED: Weight Management Other (Non-Incretin Mimetics)",Epinephrine (Generic Adrenaclick) 0.15mg,epinephrine auto injector (generic for Adrenaclick®),Non-Preferred
+"MISCELLANEOUS: EPINEPHRINE, SELF INJECTED: Weight Management Other (Non-Incretin Mimetics)",Epinephrine (Generic Adrenaclick) 0.3mg,epinephrine auto injector (generic for Adrenaclick®),Non-Preferred
+"MISCELLANEOUS: EPINEPHRINE, SELF INJECTED: Weight Management Other (Non-Incretin Mimetics)",Epinephrine (Mylan Ag Epipen And Jr) 0.15mg Mylan's EpiPen Jr AG,epinephrine auto injector (generic for Epi-Pen® / Epi-Pen® Jr.),Preferred
+"MISCELLANEOUS: EPINEPHRINE, SELF INJECTED: Weight Management Other (Non-Incretin Mimetics)",Epinephrine (Mylan Ag Epipen And Jr) 0.3mg Mylan's EpiPen AG,epinephrine auto injector (generic for Epi-Pen® / Epi-Pen® Jr.),Preferred
+HEMATOLOGIC: HEMATOPOIETIC AGENTS: Oral,Epogen,Epogen® Vial,Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Eprontia,Eprontia™ Solution,Preferred
+CARDIOVASCULAR: ANGIOTENSIN II RECEPTOR BLOCKERS: Oral / Transdermal,Eprosartan,eprosartan tablet (generic for Teveten®),Non-Preferred
+ANTICONVULSANTS: CARBAMAZEPINE DERIVATIVES: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Equetro,Equetro® Capsule,Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Erzofri prefilled syringe,Erzofri® (paliperidone palmitate) extended-release injectable suspension,Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Esomeprazole,esomeprazole magnesium capsule (generic for Nexium® Rx ),Preferred
+OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,Evenity,Evenity™ Syringe,Non-Preferred
+ALZHEIMER’S AGENTS: : ,Exelon,Exelon® Patch,Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY / IMMUNOMODULATOR: Oral,Eysuvis ophthalmic suspension,Eysuvis® Drops,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Fanapt,Fanapt® Tablet / Titration Pack,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Farxiga,Farxiga® Tablet,Preferred
+ANTICONVULSANTS: FIRST GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Felbatol oral suspension,Felbatol® Suspension / Tablet,Preferred
+ANTICONVULSANTS: FIRST GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Felbatol tablet,Felbatol® Suspension / Tablet,Preferred
+BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,Fetzima,Fetzima® Capsule / Titration Pak,Non-Preferred
+MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Fexmid,Fexmid® Tablet,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Fiasp,Fiasp® FlexTouch® / Penfill® / PumpCart® / Vial,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Fiasp FlexTouch,Fiasp® FlexTouch® / Penfill® / PumpCart® / Vial,Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Fingolimod capsule,fingolimod capsule (generic for Gilenya®),Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Fintepla,Fintepla®  Solution,Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Flarex ophthalmic suspension,Flarex® Drops,Preferred
+MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Fleqsuvy,Fleqsuvy™ Suspension,Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Flovent Diskus,Flovent® Diskus / HFA Inhaler,Preferred
+RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Flovent HFA,Flovent® Diskus / HFA Inhaler,Preferred
+RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Fluticasone / Salmeterol generic Advair Diskus,fluticasone / salmeterol inhalation (generic for Advair® Diskus®),Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Fluticasone / Salmeterol generic Advair HFA,fluticasone / salmeterol HFA inhaler (generic for Advair® HFA),Non-Preferred
+OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,Forteo,Forteo® Pen,Non-Preferred
+CARDIOVASCULAR: ACE INHIBITORS: Oral / Transdermal,Fosinopril,fosinopril tablet (generic for Monopril®),Non-Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: IMMUNOMODULATORS, Atopic Dermatitis",FreeStyle Libre 14 Day Reader,Freestyle Libre™ 14 day Reader,Non-Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: IMMUNOMODULATORS, Atopic Dermatitis",FreeStyle Libre 14 Day Sensor Kit,Freestyle Libre™ 14 day Sensor,Non-Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: IMMUNOMODULATORS, Atopic Dermatitis",FreeStyle Libre 2 Reader,Freestyle Libre™ 2 Reader,Preferred
+DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: Weight Management Other (Non-Incretin Mimetics),FreeStyle Libre 2 Sensor,Freestyle Libre™ 2 Sensor,Preferred
+DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: Weight Management Other (Non-Incretin Mimetics),FreeStyle Libre 3 Sensor,Freestyle Libre™ 3 Sensor,Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: IMMUNOMODULATORS, Atopic Dermatitis",Freestyle Libre 14-Day,Freestyle Libre™ 14 day Reader,Non-Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: IMMUNOMODULATORS, Atopic Dermatitis",Freestyle Libre 2,Freestyle Libre™ 2 Reader,Preferred
+DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Sensors: Weight Management Other (Non-Incretin Mimetics),Freestyle Libre 3 Plus,Freestyle Libre™ 3 Plus Sensor,Preferred
+"DIABETIC CONTINUOUS GLUCOSE MONITOR SUPPLIES: Continuous Glucose Monitor Transmitters / Receivers / Readers: IMMUNOMODULATORS, Atopic Dermatitis",Freestyle Libre 3 Reader,Freestyle Libre™ 3 Reader,Preferred
+HEMATOLOGIC: COLONY STIMULATING FACTORS: Oral,Fulphila,Fulphila® Syringe,Preferred
+HEMATOLOGIC: COLONY STIMULATING FACTORS: Oral,Fylnetra,Fylnetra® Syringe,Non-Preferred
+ALZHEIMER’S AGENTS: : ,Galantamine ER,galantamine ER capsule  / solution / tablet (generic for Razadyne® / ER),Non-Preferred
+ALZHEIMER’S AGENTS: : ,Galantamine oral solution,galantamine ER capsule  / solution / tablet (generic for Razadyne® / ER),Non-Preferred
+ALZHEIMER’S AGENTS: : ,Galantamine tablet,galantamine ER capsule  / solution / tablet (generic for Razadyne® / ER),Non-Preferred
+ENDOCRINOLOGY: GROWTH HORMONE: Oral,Genotropin,Genotropin® Cartridge / MiniQuick®,Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Geodon,Geodon® Capsule,Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Gilenya capsule,Gilenya® Capsule,Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Injectable,Glatiramer Acetate prefilled syringe,glatiramer syringe (generic for Copaxone® Syringe),Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Injectable,Glatopa (Glatiramer Acetate) prefilled syringe,Glatopa® Syringe,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: DPP-IV Inhibitors and Combinations,Glyxambi,Glyxambi® Tablet,Non-Preferred
+ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Gralise,Gralise® Tablet,Non-Preferred
+HEMATOLOGIC: COLONY STIMULATING FACTORS: Oral,Granix,Granix® Safe Syringe / Syringe / Vial,Non-Preferred
+CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,Hemangeol,Hemangeol® Solution,Preferred
+ANALGESICS: NEUROPATHIC PAIN: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Horizant,Horizant® Tablet,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Humalog Junior KwikPen,Humalog® U-100 Junior KwikPen®,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,"Humalog KwikPen, U-100",Humalog® U-100 KwikPen® / Vial,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Humalog vial,Humalog® U-100 KwikPen® / Vial,Preferred
+ENDOCRINOLOGY: GROWTH HORMONE: Oral,Humatrope,Humatrope® Cartridge,Non-Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Ilevro ophthalmic suspension,Ilevro® Drops,Non-Preferred
+RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,Incruse Ellipta,Incruse® Ellipta® Inhaler,Preferred
+MISCELLANEOUS: MOVEMENT DISORDERS: Weight Management Other (Non-Incretin Mimetics),Ingrezza,Ingrezza® Capsule / Initiation Pack,Preferred
+MISCELLANEOUS: MOVEMENT DISORDERS: Weight Management Other (Non-Incretin Mimetics),Ingrezza sprinkle capsule,Ingrezza® (valbenazine) Sprinkle Capsules,Non-Preferred
+MISCELLANEOUS: MOVEMENT DISORDERS: Weight Management Other (Non-Incretin Mimetics),Ingrezza titration pack,Ingrezza® Capsule / Initiation Pack,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Insulin Glargine,insulin glargine vial / SoloStar® (authorized biologic for Lantus),Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Insulin Lispro,insulin lispro U-100 KwikPen® / vial (generic for Humalog®),Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Invega ER,Invega® Tablet,Non-Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Invega Hafyera,Invega® Hafyera Prefilled Syringe Kit,Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Invega Sustenna,Invega® Sustenna Prefilled Syringe,Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Invega Trinza,Invega® Trinza Syringe,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Invokamet,Invokamet® Tablet / XR Tablet,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Invokamet XR,Invokamet® Tablet / XR Tablet,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Invokana,Invokana® Tablet,Non-Preferred
+OPHTHALMIC: ALPHA 2 ADRENERGIC AGENTS: Oral,Iopidine ophthalmic solution,Iopidine® Drops,Non-Preferred
+GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Iqirvo tablet,Iqirvo® (elafibranor) Tablet,Non-Preferred
+CARDIOVASCULAR: ANGIOTENSIN II RECEPTOR BLOCKERS: Oral / Transdermal,Irbesartan,irbesartan tablet (generic for Avapro®),Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: DPP-IV Inhibitors and Combinations,Janumet,Janumet® Tablet / XR Tablet,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: DPP-IV Inhibitors and Combinations,Januvia,Januvia® Tablet,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Jardiance,Jardiance® Tablet,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: DPP-IV Inhibitors and Combinations,Jentadueto,Jentadueto® Tablet / XR Tablet,Preferred
+BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Jornay PM,Jornay PM™ Capsule,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Keppra XR,Keppra® Tablet / Solution / XR Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Keppra oral solution,Keppra® Tablet / Solution / XR Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Keppra tablet,Keppra® Tablet / Solution / XR Tablet,Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Injectable,Kesimpta,Kesimpta® Pen,Preferred
+"ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antibiotics, Inhaled",Kitabis Pak,Kitabis™ Pak,Preferred
+"MISCELLANEOUS: OPIOID ANTAGONISTS: IMMUNOMODULATORS, Atopic Dermatitis",Kloxxado,Kloxxado™ Nasal Spray,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: DPP-IV Inhibitors and Combinations,Kombiglyze XR,Kombiglyze® XR Tablet,Non-Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Konvomep,Konvomep™ Suspension,Non-Preferred
+GOUT: URINARY ANTISPASMODICS: Rectal,Krystexxa,Krystexxa® Vial,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Lamictal ODT,Lamictal® Chewable / ODT / ODT Starter Kit / Starter Kit / Tablet / XR / XR Starter Kit,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Lamictal tablet,Lamictal® Chewable / ODT / ODT Starter Kit / Starter Kit / Tablet / XR / XR Starter Kit,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Lamotrigine,lamotrigine chewable / tablet (generic for Lamictal®),Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Lansoprazole,lansoprazole capsule (generic for Prevacid® OTC),Non-Preferred
+GASTROINTESTINAL: H. PYLORI COMBINATIONS: Thiazolidinediones and Combinations,Lansoprazole / Amoxicillin / Clarithromycin,lansoprazole-amoxicillin-clarithromycin pack (generic for Prevpac®),Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Lantus SoloStar,Lantus®  SoloStar® / Vial,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Lantus vial,Lantus®  SoloStar® / Vial,Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Latuda,Latuda® Tablet,Non-Preferred
+CARDIOVASCULAR: ENDOTHELIN RECEPTOR ANTAGONISTS: Oral / Transdermal,Letairis,Letairis® Tablet,Non-Preferred
+HEMATOLOGIC: COLONY STIMULATING FACTORS: Oral,Leukine,Leukine® Vial,Non-Preferred
+"RESPIRATORY: BETA-ADRENERGIC HANDHELD, SHORT ACTING: Oral",Levalbuterol Tartrate inhalation aerosol solution,levalbuterol HFA inhaler (generic for Xopenex® HFA Inhaler),Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Levemir FlexTouch,Levemir® / FlexPen® / FlexTouch® / Vial,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Levemir vial,Levemir® / FlexPen® / FlexTouch® / Vial,Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Libervant buccal film,Libervant™ (diazepam) Buccal Film,Non-Preferred
+GASTROINTESTINAL: SELECTIVE CONSTIPATION AGENTS: Thiazolidinediones and Combinations,Linzess,Linzess® Capsule,Preferred
+CARDIOVASCULAR: ORAL PULMONARY HYPERTENSION: Oral / Transdermal,Liqrev,Liqrev® Suspension,Non-Preferred
+CARDIOVASCULAR: ACE INHIBITORS: Oral / Transdermal,Lisinopril,lisinopril tablet (generic for Prinivil® and Zestril®),Preferred
+GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Livdelzi capsule,Livdelzi Capsule,Non-Preferred
+GASTROINTESTINAL: BILE ACID SALTS: Thiazolidinediones and Combinations,Livmarli,Livmarli® Oral Solution,Non-Preferred
+MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Lorzone,Lorzone® Tablet,Non-Preferred
+CARDIOVASCULAR: ANGIOTENSIN II RECEPTOR BLOCKERS: Oral / Transdermal,Losartan,losartan tablet (generic for Cozaar®),Preferred
+MISCELLANEOUS: OPIOID DEPENDENCE: Weight Management Other (Non-Incretin Mimetics),Lucemyra,Lucemyra® Tablet,Non-Preferred
+OPHTHALMIC: PROSTAGLANDIN AGONISTS: Oral,Lumigan 2.5 mL,Lumigan® Drops,Non-Preferred
+OPHTHALMIC: PROSTAGLANDIN AGONISTS: Oral,Lumigan 5 mL,Lumigan® Drops,Non-Preferred
+OPHTHALMIC: PROSTAGLANDIN AGONISTS: Oral,Lumigan 7.5 mL,Lumigan® Drops,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Lurasidone,lurasidone tablet (generic for Latuda®),Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Lybalvi,Lybalvi™ Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Lyrica,Lyrica® Capsule / Solution,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,"Lyumjev KwikPen, U-100",Lyumjev™ U-100 KwikPen® /  U-200 KwikPen® / Vial,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,"Lyumjev KwikPen, U-200",Lyumjev™ U-100 KwikPen® /  U-200 KwikPen® / Vial,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Lyumjev vial,Lyumjev™ U-100 KwikPen® /  U-200 KwikPen® / Vial,Non-Preferred
+MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Lyvispah,Lyvispah® Granule Packet,Non-Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Maxidex ophthalmic suspension,Maxidex® Drops,Non-Preferred
+OPHTHALMIC: ANTIBIOTICS-STEROID COMBINATIONS: Oral,Maxitrol ophthalmic ointment,Maxitrol® Drops / Ointment,Non-Preferred
+OPHTHALMIC: ANTIBIOTICS-STEROID COMBINATIONS: Oral,Maxitrol ophthalmic suspension,Maxitrol® Drops / Ointment,Non-Preferred
+ALZHEIMER’S AGENTS: : ,Memantine XR,memantine ER capsule / solution (generic for Namenda® XR / Solution),Non-Preferred
+ALZHEIMER’S AGENTS: : ,Memantine oral solution,memantine ER capsule / solution (generic for Namenda® XR / Solution),Non-Preferred
+ALZHEIMER’S AGENTS: : ,Memantine tablet,memantine tablet / titration pack (generic for Namenda®),Preferred
+MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Metaxalone,metaxalone tablet (generic for Skelaxin®),Non-Preferred
+CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,Metoprolol Succinate ER tablet,metoprolol succinate XL tablet (generic for Toprol XL®),Preferred
+TOPICALS: ANTIBIOTICS - VAGINAL: Oral,Metronidazole 0.75% Gel,metronidazole vaginal gel (generic for Metrogel® Vaginal Gel),Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY / IMMUNOMODULATOR: Oral,Miebo,Miebo™ Drops,Non-Preferred
+CARDIOVASCULAR: ACE INHIBITORS: Oral / Transdermal,Moexipril,moexipril tablet (generic for Univasc®),Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Mounjaro,Mounjaro™ Pen,Non-Preferred
+HEMATOLOGIC: THROMBOPOIESIS STIMULATING AGENTS: Oral,Mulpleta,Mulpleta,Non-Preferred
+MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),Naloxone carpuject,naloxone syringe / spray / vial (generic for Narcan®),Preferred
+MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),Naloxone nasal spray,naloxone nasal spray (OTC),Preferred
+MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),Naloxone vial,naloxone syringe / spray / vial (generic for Narcan®),Preferred
+ALZHEIMER’S AGENTS: : ,Namenda,Namenda® Titration Pack / XR Capsule / XR Titration Pack,Non-Preferred
+ALZHEIMER’S AGENTS: : ,Namenda XR,Namenda® Titration Pack / XR Capsule / XR Titration Pack,Non-Preferred
+ALZHEIMER’S AGENTS: : ,Namzaric,Namzaric® Capsule / Titration Pack,Non-Preferred
+MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),Narcan,Narcan® Nasal Spray (OTC),Preferred
+OPHTHALMIC: ANTIBIOTICS: Oral,Natacyn (Natamycin) ophthalmic suspension,Natacyn® Drops,Non-Preferred
+TOPICALS: ANTIPARASITICS: Oral,Natroba,Natroba® Topical Suspension,Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Nayzilam,Nayzilam® Nasal Spray,Preferred
+"MISCELLANEOUS: EPINEPHRINE, SELF ADMINISTERED: IMMUNOMODULATORS, Atopic Dermatitis",Neffy nasal solution,neffy® nasal spray,Non-Preferred
+HEMATOLOGIC: COLONY STIMULATING FACTORS: Oral,Neulasta,Neulasta® Syringe / Kit,Non-Preferred
+HEMATOLOGIC: COLONY STIMULATING FACTORS: Oral,Neupogen,Neupogen® Vial / Syringe,Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Nevanac ophthalmic suspension,Nevanac® Droptainer,Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Nexium DR capsule,Nexium® Rx  Capsule,Non-Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Nexium DR packet for oral suspension,Nexium® Rx Packet,Preferred
+ENDOCRINOLOGY: GROWTH HORMONE: Oral,Ngenla,Ngenla® Pen,Non-Preferred
+HEMATOLOGIC: COLONY STIMULATING FACTORS: Oral,Nivestym,Nivestym™ Syringe / Vial,Non-Preferred
+ENDOCRINOLOGY: GROWTH HORMONE: Oral,Norditropin,Norditropin® Flexpro®,Preferred
+MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Norgesic Forte,Norgesic™ Tablet / Forte Tablet,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed 70/30 Combination Insulin,Novolin 70/30,Novolin® 70/30 FlexPen® / Vial,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed 70/30 Combination Insulin,Novolin 70/30 Flexpen OTC,Novolin® 70/30 FlexPen® / Vial,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Intermediate Acting Insulin,Novolin N,Novolin® N Vial / ReliOn® N Vial,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Short Acting Insulin,Novolin R,Novolin® R Vial / ReliOn® R Vial,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Novolog,Novolog® U-100 Penfill / FlexPen® / Vial,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed Rapid Combination Insulin,Novolog 70/30,Novolog® Mix 70/30 Vial,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Premixed Rapid Combination Insulin,Novolog 70/30 FlexPen,Novolog® Mix 70/30 FlexPen®,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Novolog FlexPen,Novolog® U-100 Penfill / FlexPen® / Vial,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Rapid Acting Insulin,Novolog cartridge,Novolog® U-100 Penfill / FlexPen® / Vial,Preferred
+HEMATOLOGIC: THROMBOPOIESIS STIMULATING AGENTS: Oral,Nplate,Nplate® Vial,Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Nuplazid,Nuplazid® Tablet / Capsule,Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: CGRP Blockers/Modulators PREVENTATIVE,Nurtec ODT Acute Treatment,Nurtec® ODT,Preferred
+CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: CGRP Blockers/Modulators PREVENTATIVE,Nurtec ODT Migraine Prophylaxis,Nurtec® ODT,Preferred
+ENDOCRINOLOGY: GROWTH HORMONE: Oral,Nutropin AQ,Nutropin® AQ NuSpin®,Non-Preferred
+TOPICALS: ANTIBIOTICS - VAGINAL: Oral,Nuvessa,Nuvessa® Vaginal Gel,Preferred
+HEMATOLOGIC: COLONY STIMULATING FACTORS: Oral,Nyvepria,Nyvepria™ Syringe,Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Injectable,Ocrevus,Ocrevus® Vial,Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Injectable,Ocrevus Zunovo subcutaneous vial,Ocrevus® Zonovo Vial,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Olanzapine And Fluoxetine,olanzapine-fluoxetine capsule (generic for Symbyax®),Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Olanzapine ODT,olanzapine ODT / tablet (generic for Zyprexa®),Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Olanzapine tablet,olanzapine ODT / tablet (generic for Zyprexa®),Preferred
+CARDIOVASCULAR: ANGIOTENSIN II RECEPTOR BLOCKERS: Oral / Transdermal,Olmesartan,olmesartan tablet (generic for Benicar®),Preferred
+GASTROINTESTINAL: H. PYLORI COMBINATIONS: Thiazolidinediones and Combinations,Omeclamox-Pak,Omeclamox-Pak® Combo Pack,Non-Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Omeprazole capsule,omeprazole Rx capsule (generic for Prilosec® Rx),Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Omeprazole tablet,omeprazole OTC capsule / ODT / tablet (generic for Prilosec® OTC),Non-Preferred
+DISPOSABLE INSULIN DELIVERY DEVICES: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Omnipod 5,Omnipod 5® G6 Pods (5-Pack) / G6 Intro Kit / G6-G7 Pods / G6-G7 Intro Kit,Preferred
+DISPOSABLE INSULIN DELIVERY DEVICES: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Omnipod Dash,Omnipod DASH® Pods (5-Pack) / Intro Kit,Preferred
+DISPOSABLE INSULIN DELIVERY DEVICES: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Omnipod Go,Omnipod GO™ Pods,Preferred
+ENDOCRINOLOGY: GROWTH HORMONE: Oral,Omnitrope,Omnitrope® Cartridge / Vial,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Onfi oral suspension,Onfi® Suspension / Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Onfi tablet,Onfi® Suspension / Tablet,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: DPP-IV Inhibitors and Combinations,Onglyza,Onglyza® Tablet,Preferred
+CARDIOVASCULAR: ENDOTHELIN RECEPTOR ANTAGONISTS: Oral / Transdermal,Opsumit,Opsumit® Tablet,Non-Preferred
+CARDIOVASCULAR: ENDOTHELIN RECEPTOR ANTAGONISTS: Oral / Transdermal,Opsynvi tablet,Opsynvi® Tablet,Non-Preferred
+MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),Opvee (Nalmefene),Opvee®  Nasal Spray,Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, Atopic Dermatitis: Weight Management Other (Non-Incretin Mimetics)","Opzelura cream, Atopic Dermatitis",Opzelura™ Cream,Non-Preferred
+"MISCELLANEOUS: IMMUNOMODULATORS, Atopic Dermatitis: Weight Management Other (Non-Incretin Mimetics)","Opzelura cream, Nonsegmental Vitiligo",Opzelura™ Cream,Non-Preferred
+CARDIOVASCULAR: ORAL PULMONARY HYPERTENSION: Oral / Transdermal,Orenitram ER,Orenitram® ER Tablet / Titration Kit,Non-Preferred
+MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) PROPHYLAXIS AGENTS: Weight Management Other (Non-Incretin Mimetics),Orladeyo,Orladeyo® Capsule,Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Influenza),Oseltamivir,oseltamivir phosphate capsule / suspension (generic for Tamiflu®),Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Ozempic,Ozempic® Pen,Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY: Oral,Ozurdex,Ozurdex® Implant,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Paliperidone ER,paliperidone ER tablet (generic for Invega®),Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Pantoprazole DR packet for oral suspension,pantoprazole suspension (generic for Protonix®),Non-Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Pantoprazole tablet,pantoprazole tablet (generic for Protonix®),Preferred
+BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Selective Serotonin Reuptake Inhibitor (SSRI),"Paroxetine 7.5 mg, IR capsule",paroxetine capsule (generic for Brisdelle®),Non-Preferred
+CARDIOVASCULAR: ACE INHIBITORS: Oral / Transdermal,Perindopril,perindopril tablet (generic for Aceon®),Non-Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Perseris,Perseris® Syringe,Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Ponvory starter pack,Ponvory™ Starter Pack / Tablet,Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Ponvory tablet,Ponvory™ Starter Pack / Tablet,Non-Preferred
+HEMATOLOGIC: ANTICOAGULANTS: Oral,Pradaxa,Pradaxa® Capsule,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Premarin tablet,Premarin® Tablet,Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Prevacid SoluTab,Prevacid® Rx / OTC Capsule / Solutab,Non-Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Prevacid capsule,Prevacid® Rx / OTC Capsule / Solutab,Non-Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Prilosec DR packet for oral suspension,Prilosec® Rx Suspension,Non-Preferred
+"RESPIRATORY: BETA-ADRENERGIC HANDHELD, SHORT ACTING: Oral",Proair Digihaler,Proair® Digihaler™,Non-Preferred
+"RESPIRATORY: BETA-ADRENERGIC HANDHELD, SHORT ACTING: Oral",Proair Respiclick,Proair® RespiClick®,Non-Preferred
+HEMATOLOGIC: HEMATOPOIETIC AGENTS: Oral,Procrit,Procrit® Vial,Non-Preferred
+MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Prograf capsule,Prograf® Capsule / Granule Packet,Preferred
+MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Prograf packet for oral suspension,Prograf® Capsule / Granule Packet,Preferred
+HEMATOLOGIC: THROMBOPOIESIS STIMULATING AGENTS: Oral,Promacta oral suspension,Promacta® Suspension / Tablet,Preferred
+HEMATOLOGIC: THROMBOPOIESIS STIMULATING AGENTS: Oral,Promacta tablet,Promacta® Suspension / Tablet,Preferred
+CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,Propranolol oral solution,propranolol solution / tablet / ER capsule (generic for Inderal®),Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Protonix DR packet oral suspension,Protonix® Suspension,Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Protonix DR tablet,Protonix® Tablet,Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Pulmicort Flexhaler,Pulmicort®  Flexhaler,Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Pulmicort Respules 0.25 mg,"Pulmicort® Respules 0.25mg, 0.5mg, 1mg",Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Pulmicort Respules 0.5 mg,"Pulmicort® Respules 0.25mg, 0.5mg, 1mg",Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Pulmicort Respules 1 mg,"Pulmicort® Respules 0.25mg, 0.5mg, 1mg",Non-Preferred
+GASTROINTESTINAL: H. PYLORI COMBINATIONS: Thiazolidinediones and Combinations,Pylera,Pylera® Capsule,Preferred
+BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Qelbree,Qelbree™ Capsule,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: DPP-IV Inhibitors and Combinations,Qtern,Qtern® Tablet,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Quetiapine,quetiapine tablet / ER tablet (generic for Seroquel® / XR),Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Quetiapine ER,quetiapine tablet / ER tablet (generic for Seroquel® / XR),Preferred
+BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Quillichew XR,Quillichew® ER Tablet,Non-Preferred
+BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Quillivant XR ER oral suspension,Quillivant® XR Suspension ,Non-Preferred
+CARDIOVASCULAR: ACE INHIBITORS: Oral / Transdermal,Quinapril,quinapril tablet (generic for Accupril®),Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: CGRP Blockers/Modulators PREVENTATIVE,Qulipta,Qulipta® Tablet,Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROIDS: Oral,Qvar,QVAR® RediHaler™,Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Rabeprazole tablet,rabeprazole tablet (generic for Aciphex®),Non-Preferred
+CARDIOVASCULAR: ACE INHIBITORS: Oral / Transdermal,Ramipril,ramipril capsule (generic for Altace®),Preferred
+CARDIOVASCULAR: ANTIANGINAL & ANTI-ISCHEMIC: Oral / Transdermal,Ranexa,Ranexa® Tablet,Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Injectable,Rebif (Interferon Beta-1a) prefilled syringe,Rebif® Rebidose® / Titration Pack / Syringe,Preferred
+HEMATOLOGIC: HEMATOPOIETIC AGENTS: Oral,Reblozyl (Luspatercept-Aamt) vial,Reblozyl® Vial,Non-Preferred
+HEMATOLOGIC: COLONY STIMULATING FACTORS: Oral,Releuko,Releuko®  Syringe / Vial,Non-Preferred
+GENITOURINARY / RENAL: ELECTROLYTE DEPLETERS (KIDNEY DISEASE): Rectal,Renvela,Renvela® Powder Pack / Tablet,Non-Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY / IMMUNOMODULATOR: Oral,Restasis,Restasis® Drops / Restasis® Multidose™ Drops,Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY / IMMUNOMODULATOR: Oral,Restasis MultiDose,Restasis® Drops / Restasis® Multidose™ Drops,Preferred
+CARDIOVASCULAR: ORAL PULMONARY HYPERTENSION: Oral / Transdermal,Revatio oral suspension,Revatio® Suspension / Tablet,Non-Preferred
+CARDIOVASCULAR: ORAL PULMONARY HYPERTENSION: Oral / Transdermal,Revatio tablet,Revatio® Suspension / Tablet,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Rexulti Adjunct Treatment of Major Depressive Disorder,Rexulti® Tablet / 7-Day Pack / 14-Day Pack,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Rexulti Schizophrenia,Rexulti® Tablet / 7-Day Pack / 14-Day Pack,Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,Reyvow,Reyvow™ Tablet,Non-Preferred
+"MISCELLANEOUS: IMMUNOSUPPRESSANTS: IMMUNOMODULATORS, Atopic Dermatitis",Rezurock,Rezurock™ Tablet,Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Risperdal Consta,Risperdal® Consta Vial,Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Risperdal oral solution,Risperdal® Solution / Tablet,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Risperdal tablet,Risperdal® Solution / Tablet,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Risperidone ODT,risperidone ODT / solution / tablet (generic for Risperdal®),Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Risperidone oral solution,risperidone ODT / solution / tablet (generic for Risperdal®),Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Risperidone tablet,risperidone ODT / solution / tablet (generic for Risperdal®),Preferred
+ALZHEIMER’S AGENTS: : ,Rivastigmine capsule,rivastigmine capsule (generic for Exelon®),Preferred
+ALZHEIMER’S AGENTS: : ,Rivastigmine patch,rivastigmine patch (generic for Exelon®),Non-Preferred
+HEMATOLOGIC: COLONY STIMULATING FACTORS: Oral,Rolvedon prefilled syringe,Rolvedon™ Syringe,Non-Preferred
+MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) TREATMENT AGENTS: Weight Management Other (Non-Incretin Mimetics),Ruconest,Ruconest® Vial,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Rybelsus,Rybelsus®  Tablet,Non-Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Rykindo,Rykindo® Vial / Vial Kit,Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Sabril packet for oral solution,Sabril® Tablet / Powder Packet,Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Sabril tablet,Sabril® Tablet / Powder Packet,Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Saphris,Saphris® SL Tablet,Non-Preferred
+HEMATOLOGIC: ANTICOAGULANTS: Oral,Savaysa,Savaysa® Tablet,Non-Preferred
+MISCELLANEOUS: WEIGHT MANAGEMENT AGENTS: GLP-1 Receptor Agonists indicated for the treatment of obesity (Incretin Mimemetics),Saxenda,Saxenda® (liraglutide) Pen,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Secuado,Secuado® Patch,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Segluromet,Segluromet™ Tablet,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Semglee,Semglee™ yfgn Pen / Vial,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Seroquel,Seroquel® Tablet / XR Tablet / XR Sample Kit,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Seroquel XR,Seroquel® Tablet / XR Tablet / XR Sample Kit,Non-Preferred
+GENITOURINARY / RENAL: ELECTROLYTE DEPLETERS (KIDNEY DISEASE): Rectal,Sevelamer carbonate tablets,sevelamer carbonate powder pack / tablet (generic for Renvela®),Preferred
+GENITOURINARY / RENAL: ELECTROLYTE DEPLETERS (KIDNEY DISEASE): Rectal,Sevelamer hydrochloride tablets,sevelamer hydrochloride tablet (generic for Renagel®),Non-Preferred
+CARDIOVASCULAR: ORAL PULMONARY HYPERTENSION: Oral / Transdermal,Sildenafil 20 mg,sildenafil tablet (generic for Revatio®),Preferred
+CARDIOVASCULAR: ORAL PULMONARY HYPERTENSION: Oral / Transdermal,Sildenafil oral suspension,sildenafil suspension (generic for Revatio®),Non-Preferred
+ENDOCRINOLOGY: GROWTH HORMONE: Oral,Skytrofa,Skytrofa® Cartridge,Non-Preferred
+ENDOCRINOLOGY: GROWTH HORMONE: Oral,Sogroya,Sogroya® Pen,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Soliqua,Soliqua® Pen,Non-Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Nitroimidazoles (Gastrointestinal Antibiotics),Solosec,Solosec™ Granules,Non-Preferred
+CARDIOVASCULAR: BETA BLOCKERS: Oral / Transdermal,Sorine,Sorine® Tablet,Preferred
+TOPICALS: ANTIPARASITICS: Oral,Spinosad topical suspension,spinosad topical suspension (generic for Natroba®),Non-Preferred
+RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,Spiriva Handihaler inhalation capsule,Spiriva® Handihaler® / Respimat® Inhalation Spray,Preferred
+RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,Spiriva Respimat inhalation aerosol solution,Spiriva® Handihaler® / Respimat® Inhalation Spray,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Steglatro,Steglatro™ Tablet,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: DPP-IV Inhibitors and Combinations,Steglujan,Steglujan® Tablet,Non-Preferred
+HEMATOLOGIC: COLONY STIMULATING FACTORS: Oral,Stimufend prefilled syringe,Stimufend® Syringe,Non-Preferred
+RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,Stiolto Respimat,Stiolto® Respimat® Inhalation Spray,Preferred
+MISCELLANEOUS: OPIOID DEPENDENCE: Weight Management Other (Non-Incretin Mimetics),Sublocade,Sublocade® Syringe,Preferred
+MISCELLANEOUS: OPIOID DEPENDENCE: Weight Management Other (Non-Incretin Mimetics),Suboxone,Suboxone® SL Film,Preferred
+CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: Oral / Transdermal,Sumatriptan / Naproxen sodium tablet,sumatriptan / naproxen tablet (generic for Treximet®),Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTI-NARCOLEPSY: CGRP Blockers/Modulators ACUTE TREATMENT,Sunosi,Sunosi™ Tablet,Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Symbicort,Symbicort® Inhaler,Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Sympazan oral film,Sympazan® Film,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Synjardy,Synjardy® Tablet,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Synjardy XR,Synjardy® XR Tablet,Preferred
+MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Tacrolimus capsule,"tacrolimus capsule (generic for Hecoria®, Prograf®)",Preferred
+GENITOURINARY / RENAL: BENIGN PROSTATIC HYPERPLASIA TREATMENTS: Rectal,Tadalafil,tadalafil tablet (2.5 mg / 5 mg) (generic for Cialis®),Non-Preferred
+CARDIOVASCULAR: ORAL PULMONARY HYPERTENSION: Oral / Transdermal,Tadliq,Tadliq® Suspension,Non-Preferred
+MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) PROPHYLAXIS AGENTS: Weight Management Other (Non-Incretin Mimetics),Takhzyro prefilled syringe,Takhzyro® Vial / Syringe,Non-Preferred
+MISCELLANEOUS: HEREDITARY ANGIOEDEMA (HAE) PROPHYLAXIS AGENTS: Weight Management Other (Non-Incretin Mimetics),Takhzyro vial,Takhzyro® Vial / Syringe,Non-Preferred
+GASTROINTESTINAL: H. PYLORI COMBINATIONS: Thiazolidinediones and Combinations,Talicia,Talicia® Capsule,Non-Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Influenza),Tamiflu,Tamiflu® Capsule / Suspension,Non-Preferred
+"MISCELLANEOUS: GLUCOCORTICOID STEROIDS, ORAL: Weight Management Other (Non-Incretin Mimetics)",Tarpeyo,Tarpeyo™ Capsule,Non-Preferred
+HEMATOLOGIC: THROMBOPOIESIS STIMULATING AGENTS: Oral,Tavalisse,Tavalisse™ Tablet,Non-Preferred
+MISCELLANEOUS: IMMUNOSUPPRESSANTS: Weight Management Other (Non-Incretin Mimetics),Tavneos,Tavneos® Capsule,Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Tecfidera (Dimethyl Fumarate) DR capsule,Tecfidera® Capsule / Starter Pack,Non-Preferred
+CARDIOVASCULAR: ANGIOTENSIN II RECEPTOR BLOCKERS: Oral / Transdermal,Telmisartan,telmisartan tablet (generic for Micardis®),Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Oral,Teriflunomide,teriflunomide tablet (generic for Aubagio®),Preferred
+OSTEOPOROSIS: BONE RESORPTION SUPPRESSION AND RELATED AGENTS: Oral,Teriparatide,teriparatide pen (generic for Forteo®),Non-Preferred
+MISCELLANEOUS: MOVEMENT DISORDERS: Weight Management Other (Non-Incretin Mimetics),Tetrabenazine,tetrabenazine tablet,Preferred
+"ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antibiotics, Inhaled",Tobi,Tobi™ Podhaler™ / Solution,Non-Preferred
+"ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antibiotics, Inhaled",Tobi Podhaler,Tobi™ Podhaler™ / Solution,Non-Preferred
+OPHTHALMIC: ANTIBIOTICS-STEROID COMBINATIONS: Oral,Tobradex ST ophthalmic suspension,Tobradex® ST Drops,Non-Preferred
+OPHTHALMIC: ANTIBIOTICS: Oral,Tobramycin,tobramycin drops (generic for Tobrex®),Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Topamax Sprinkle,Topamax® Sprinkle Capsule / Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Topiramate tablet,topiramate sprinkle capsule / tablet (generic for Topamax®),Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Toujeo Max Solostar,Toujeo® SoloStar® / Max SoloStar®,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Toujeo Solostar,Toujeo® SoloStar® / Max SoloStar®,Non-Preferred
+CARDIOVASCULAR: ENDOTHELIN RECEPTOR ANTAGONISTS: Oral / Transdermal,Tracleer,Tracleer® Tablet,Preferred
+CARDIOVASCULAR: ENDOTHELIN RECEPTOR ANTAGONISTS: Oral / Transdermal,Tracleer tablet for oral suspension,Tracleer® Suspension,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: DPP-IV Inhibitors and Combinations,Tradjenta,Tradjenta® Tablet,Preferred
+CARDIOVASCULAR: ACE INHIBITORS: Oral / Transdermal,Trandolapril,trandolapril tablet (generic for Mavik®),Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Trelegy Ellipta,Trelegy® Ellipta®,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,"Tresiba FlexTouch, U-100",Tresiba® FlexTouch® / Vial,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,"Tresiba FlexTouch, U-200",Tresiba® FlexTouch® / Vial,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: Long Acting Insulin,Tresiba vial,Tresiba® FlexTouch® / Vial,Non-Preferred
+BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,Trintellix,Trintellix® Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Trokendi XR ER capsule,Trokendi® XR Capsule,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Trulicity,Trulicity® Pen,Preferred
+RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,Tudorza Pressair,Tudorza® Pressair® Inhaler,Non-Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY / IMMUNOMODULATOR: Oral,Tyrvaya nasal solution,Tyrvaya® Nasal Spray,Non-Preferred
+CENTRAL NERVOUS SYSTEM: MULTIPLE SCLEROSIS: Injectable,Tysabri,Tysabri® Vial,Non-Preferred
+CARDIOVASCULAR: INHALED PROSTACYCLIN ANALOGS: Oral / Transdermal,Tyvaso DPI,Tyvaso® DPI,Non-Preferred
+CARDIOVASCULAR: INHALED PROSTACYCLIN ANALOGS: Oral / Transdermal,Tyvaso inhalation solution,Tyvaso® Refill Kit / Solution / Starter Kit,Preferred
+CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Ubrelvy,Ubrelvy® Tablet,Preferred
+HEMATOLOGIC: COLONY STIMULATING FACTORS: Oral,Udenyca,Udenyca® Autoinjector / Syringe,Preferred
+CARDIOVASCULAR: ORAL PULMONARY HYPERTENSION: Oral / Transdermal,Uptravi tablet,Uptravi® Tablet / Titration Pack,Non-Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Uzedy,Uzedy™ Syringe Kit,Preferred
+CARDIOVASCULAR: ANGIOTENSIN II RECEPTOR BLOCKERS: Oral / Transdermal,Valsartan,valsartan tablet (generic for Diovan®),Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Valtoco,Valtoco® Nasal Spray,Preferred
+TOPICALS: ANTIBIOTICS - VAGINAL: Oral,Vandazole,Vandazole® Vaginal Gel,Non-Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis B Agents),Vemlidy,Vemlidy® Tablet,Non-Preferred
+CARDIOVASCULAR: INHALED PROSTACYCLIN ANALOGS: Oral / Transdermal,Ventavis,Ventavis® Solution,Preferred
+"RESPIRATORY: BETA-ADRENERGIC HANDHELD, SHORT ACTING: Oral",Ventolin HFA,Ventolin® HFA Inhaler,Preferred
+"MISCELLANEOUS: ESTROGEN AGENTS, ORAL / TRANSDERMAL: Weight Management Other (Non-Incretin Mimetics)",Veozah tablet,Veozah™ Tablet,Non-Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY / IMMUNOMODULATOR: Oral,Verkazia,Verkazia® Eye Emulsion,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Versacloz,Versacloz® Suspension,Non-Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY / IMMUNOMODULATOR: Oral,Vevye ophthalmic solution,Vevye® Drops,Non-Preferred
+GASTROINTESTINAL: SELECTIVE CONSTIPATION AGENTS: Thiazolidinediones and Combinations,Viberzi,Viberzi® Tablet,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Victoza,Victoza® Pen,Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vigabatrin packet for oral solution,vigabatrin powder packet (generic for Sabril®),Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vigabatrin tablet,vigabatrin tablet (generic for Sabril®),Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vigafyde oral solution,Vigafyde™ Solution,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vigpoder,Vigpoder™ Powder Packet,Non-Preferred
+BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,Viibryd,Viibryd® Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vimpat oral solution,Vimpat® Solution / Starter Kit / Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vimpat tablet,Vimpat® Solution / Starter Kit / Tablet,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Vimpat titration pack,Vimpat® Solution / Starter Kit / Tablet,Non-Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Hepatitis B Agents),Viread,Viread® Powder / Tablet,Preferred
+MISCELLANEOUS: OPIOID ANTAGONISTS: Weight Management Other (Non-Incretin Mimetics),Vivitrol,Vivitrol® Vial / Diluent,Preferred
+GASTROINTESTINAL: H. PYLORI COMBINATIONS: Thiazolidinediones and Combinations,Voquezna,Voquezna® Tablet / Dual Pak  / Triple Pak,Non-Preferred
+GASTROINTESTINAL: H. PYLORI COMBINATIONS: Thiazolidinediones and Combinations,Voquezna Dual Pak,Voquezna® Tablet / Dual Pak  / Triple Pak,Non-Preferred
+GASTROINTESTINAL: H. PYLORI COMBINATIONS: Thiazolidinediones and Combinations,Voquezna Triple Pak,Voquezna® Tablet / Dual Pak  / Triple Pak,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Vraylar Adjunct Treatment of Major Depressive Disorder,Vraylar® Capsule,Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Vraylar Bipolar I Disorder,Vraylar® Capsule,Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Vraylar Schizophrenia,Vraylar® Capsule,Preferred
+TOPICALS: PSORIASIS: Imidazoquinolinamines,Vtama Atopic Dermatitis,Vtama® Cream,Non-Preferred
+TOPICALS: PSORIASIS: Imidazoquinolinamines,Vtama Plaque Psoriasis,Vtama® Cream,Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: CGRP Blockers/Modulators PREVENTATIVE,Vyepti,Vyepti® Vial,Non-Preferred
+BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Vyvanse capsule,Vyvanse® Capsule  / Chewable Tablet,Preferred
+BEHAVIORAL HEALTH: ANTIHYPERKINESIS / ADHD: Selective Serotonin Reuptake Inhibitor (SSRI),Vyvanse chewable tablet,Vyvanse® Capsule  / Chewable Tablet,Preferred
+CENTRAL NERVOUS SYSTEM: ANTI-NARCOLEPSY: CGRP Blockers/Modulators ACUTE TREATMENT,Wakix,Wakix® Tablet,Non-Preferred
+MISCELLANEOUS: WEIGHT MANAGEMENT AGENTS: GLP-1 Receptor Agonists indicated for the treatment of obesity (Incretin Mimemetics),Wegovy,Wegovy® Pen,Preferred
+TOPICALS: ACNE AGENTS: Oral,Winlevi,Winlevi® Cream,Non-Preferred
+RESPIRATORY: INHALED CORTICOSTEROID COMBINATIONS: Oral,Wixela,Wixela™ Inhub™,Non-Preferred
+TOPICALS: ANTIBIOTICS - VAGINAL: Oral,Xaciato,Xaciato® Vaginal Gel,Non-Preferred
+HEMATOLOGIC: ANTICOAGULANTS: Oral,Xarelto,Xarelto® Starter Pack / Tablet,Preferred
+HEMATOLOGIC: ANTICOAGULANTS: Oral,Xarelto 2.5 mg,Xarelto® Starter Pack / Tablet,Preferred
+HEMATOLOGIC: ANTICOAGULANTS: Oral,Xarelto oral suspension,Xarelto® Suspension,Non-Preferred
+HEMATOLOGIC: ANTICOAGULANTS: Oral,Xarelto starter pack,Xarelto® Starter Pack / Tablet,Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Xcopri,Xcopri® Tablet / Titration Pack,Preferred
+MISCELLANEOUS: MOVEMENT DISORDERS: Weight Management Other (Non-Incretin Mimetics),Xenazine,Xenazine® Tablet,Non-Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - ORAL: SGLT-2 Inhibitors and Combinations,Xigduo XR,Xigduo® XR Tablet,Preferred
+OPHTHALMIC: ANTI-INFLAMMATORY / IMMUNOMODULATOR: Oral,Xiidra ophthalmic solution,Xiidra® Drops,Preferred
+ANTI-INFECTIVES - SYSTEMIC: ANTIBIOTICS: Antivirals (Influenza),Xofluza,Xofluza™ Tablet,Non-Preferred
+"RESPIRATORY: BETA-ADRENERGIC HANDHELD, SHORT ACTING: Oral",Xopenex HFA,Xopenex® HFA Inhaler,Preferred
+ENDOCRINOLOGY: HYPOGLYCEMICS - INJECTABLE: GLP-1 Receptor Agonists and Combinations indicated for the treatment of Diabetes,Xultophy,Xultophy® Pen,Non-Preferred
+RESPIRATORY: ORALLY INHALED ANTICHOLINERGICS / COPD AGENTS: Oral,Yupelri inhalation solution,Yupelri™ Solution,Non-Preferred
+MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Zanaflex capsule,Zanaflex® Capsule / Tablet,Non-Preferred
+MISCELLANEOUS: SKELETAL MUSCLE RELAXANTS: Weight Management Other (Non-Incretin Mimetics),Zanaflex tablet,Zanaflex® Capsule / Tablet,Non-Preferred
+HEMATOLOGIC: COLONY STIMULATING FACTORS: Oral,Zarxio,Zarxio® Syringe,Non-Preferred
+CENTRAL NERVOUS SYSTEM: ANTIMIGRAINE AGENTS: CGRP Blockers/Modulators ACUTE TREATMENT,Zavzpret,Zavzpret™ Nasal Spray,Non-Preferred
+GASTROINTESTINAL: PROTON PUMP INHIBITORS: Thiazolidinediones and Combinations,Zegerid,Zegerid® Rx / Capsule / Packet,Non-Preferred
+OPHTHALMIC: ALLERGIC CONJUNCTIVITIS AGENTS: Oral,Zerviate (Cetirizine) ophthalmic solution,Zerviate™ Drops,Non-Preferred
+HEMATOLOGIC: COLONY STIMULATING FACTORS: Oral,Ziextenzo,Ziextenzo® Syringe,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Ziprasidone,ziprasidone capsule (generic for Geodon®),Preferred
+CENTRAL NERVOUS SYSTEM: SEDATIVE HYPNOTICS: Oral,Zolpidem,zolpidem tablet (generic for Ambien®),Preferred
+CENTRAL NERVOUS SYSTEM: SEDATIVE HYPNOTICS: Oral,Zolpidem CR,zolpidem ER tablet (generic for Ambien® CR),Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Zonisade,Zonisade™ Oral Suspension,Non-Preferred
+ANTICONVULSANTS: SECOND GENERATION: Short Acting Schedule III – IV Opioids / Analgesic Combinations,Ztalmy,Ztalmy® Oral Suspension,Non-Preferred
+BEHAVIORAL HEALTH: ANTIDEPRESSANTS: Other,Zurzuvae,Zurzuvae™ Capsule,Non-Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Zyprexa,Zyprexa® Tablet / Zydis® Tablet,Non-Preferred
+BEHAVIORAL HEALTH: INJECTABLE ANTIPSYCHOTICS: Injectable Long Acting,Zyprexa Relprevv,Zyprexa® Relprevv™ Vial Kit,Preferred
+BEHAVIORAL HEALTH: ATYPICAL ANTIPSYCHOTICS: Oral / Transdermal,Zyprexa Zydis,Zyprexa® Tablet / Zydis® Tablet,Non-Preferred
+OPHTHALMIC: PROSTAGLANDIN AGONISTS: Oral,iDose® TR,iDose® TR Implant,Non-Preferred

@@ -135,7 +135,7 @@ def select_pharmacy_or_clinical():
 
 def clear_all_states_pairings(process_type):
     """Clear old drug pairings for all states"""
-    states = ["AK", "AL", "CT", "FL", "GA", "IA", "IL", "MS", "TN", "NC", "NH", "UT"]
+    states = ["AK", "AL", "CT", "FL", "GA", "IA", "IL", "LA", "ME", "MS", "NC", "NH", "OH", "OR", "TN", "UT", "WA"]
     for state in states:
         data_manager = DataManager(state, process_type)
         data_manager.clear_old_drug_pairings()
@@ -198,19 +198,26 @@ def select_state():
     # Create main frame
     main_frame = ttk.Frame(root, style="TFrame")
     main_frame.pack(expand=True, fill="both", padx=20, pady=20)
+
+    # Configure grid columns to expand equally for centering
+    main_frame.grid_columnconfigure(0, weight=1)
+    main_frame.grid_columnconfigure(1, weight=1)
     
     # Title label
     title_label = ttk.Label(main_frame, text="Select a State:", style="TLabel")
-    title_label.pack(pady=(0, 20))
+    title_label.grid(row=0, column=0, columnspan=2, pady=(0, 20), sticky="ew")
     
     # Create a variable to hold the selection; default is "LA"
     state_var = tk.StringVar(value="AK")
     
     # List of available states
-    states = ["AK", "AL", "CT", "FL", "GA", "IA", "IL", "MS", "TN", "NC", "NH", "UT"]
+    states = ["AK", "AL", "CT", "FL", "GA", "IA", "IL", "LA", "ME", "MS", "NC", "NH", "OH", "OR", "TN", "UT", "WA"]
     
-    # Create radio buttons for each state
-    for st in states:
+    # Create radio buttons for each state in two columns
+    num_columns = 2
+    for idx, st in enumerate(states):
+        row = 1 + idx // num_columns
+        col = idx % num_columns
         radio = ttk.Radiobutton(
             main_frame,
             text=st,
@@ -218,7 +225,7 @@ def select_state():
             value=st,
             style="TRadiobutton"
         )
-        radio.pack(anchor=tk.W, padx=40, pady=5)
+        radio.grid(row=row, column=col, sticky="ew", padx=5, pady=5)
     
     # Function to clear old pairings and destroy the window when submit is clicked
     def submit():
@@ -244,7 +251,7 @@ def select_state():
         command=submit,
         style="TButton"
     )
-    submit_button.pack(pady=20)
+    submit_button.grid(row=len(states)//num_columns+2, column=0, columnspan=2, pady=20, sticky="ew")
     
     # Clear old pairings button
     def clear_pairings():
@@ -259,7 +266,7 @@ def select_state():
         command=clear_pairings,
         style="TButton"
     )
-    clear_button.pack(pady=10)
+    clear_button.grid(row=len(states)//num_columns+3, column=0, columnspan=2, pady=10, sticky="ew")
     
     # Clear all states pairings button
     def clear_all_states():
@@ -273,7 +280,7 @@ def select_state():
         command=clear_all_states,
         style="TButton"
     )
-    clear_all_button.pack(pady=10)
+    clear_all_button.grid(row=len(states)//num_columns+4, column=0, columnspan=2, pady=10, sticky="ew")
     
     # Exit button
     def exit_app():
@@ -287,7 +294,7 @@ def select_state():
         command=exit_app,
         style="TButton"
     )
-    exit_button.pack(pady=10)
+    exit_button.grid(row=len(states)//num_columns+5, column=0, columnspan=2, pady=10, sticky="ew")
     
     # Center the window
     root.update_idletasks()

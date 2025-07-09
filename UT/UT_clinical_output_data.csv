@@ -89,6 +89,7 @@ Mental Health: Anticonvulsants,Briviact,Briviact,Preferred
 Respiratory: Asthma & COPD - Combination Products,Budesonide / Formoterol authorized generic Symbicort,budesonide/formoterol,Non-Preferred
 Respiratory: Asthma & COPD - Corticosteroids,Budesonide respules (inhalation suspension),budesonide nebulizer,Preferred
 Antidiabetics: GLP-1 Agonists,Bydureon Bcise,Bydureon BCise,Non-Preferred
+Antidiabetics: GLP-1 Agonists,Bydureon Pen,Bydureon BCise,Non-Preferred
 Antidiabetics: GLP-1 Agonists,Byetta,Byetta,Non-Preferred
 Cardiovascular: Angiotensin Receptor Blockers (ARBs),Candesartan,candesartan,Non-Preferred
 Mental Health: Atypical Antipsychotics,Caplyta,Caplyta,Non-Preferred
@@ -183,12 +184,15 @@ Bone Density Regulators: Direct Acting Antivirals (DAAs),Forteo,Forteo,Non-Prefe
 Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Fosinopril,fosinopril,Preferred
 Diagnostic Products: Diabetic Continuous Glucose Monitors,FreeStyle Libre 14 Day Reader,FreeStyle Libre Reader,Non-Preferred
 Diagnostic Products: Diabetic Continuous Glucose Monitors,FreeStyle Libre 14 Day Sensor Kit,FreeStyle Libre Sensor,Non-Preferred
+Diagnostic Products: Diabetic Testing Strips,FreeStyle Test Strips 50 ct,Freestyle Test Strips,Preferred
 Neurological: Migraine - Abortive Therapy,Frova,Frova,Non-Preferred
 Neurological: Migraine - Abortive Therapy,Frovatriptan,frovatriptan,Non-Preferred
 Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Fulphila,Fulphila,Non-Preferred
 "Antivirals: Antiretrovirals - Entry, Fusion Inhibitors",Fuzeon,Fuzeon,Non-Preferred
 Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Fylnetra,Fylnetra,Non-Preferred
 Central Nervous System: Antidementia Agents - Oral,Galantamine ER,galantamine ER,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,Galantamine oral solution,galantamine ER,Non-Preferred
+Central Nervous System: Antidementia Agents - Oral,Galantamine tablet,galantamine ER,Non-Preferred
 Immune Globulin: Granulocyte Colony Stimulating Factors (G-CSFs),Gammagard,Gammagard,Preferred
 Growth Hormone: Chronic Gout,Genotropin,Genotropin,Preferred
 Antivirals: Antiretrovirals- Combination Products,Genvoya,Genvoya,Preferred
@@ -251,6 +255,7 @@ Mental Health: Atypical Antipsychotics,Latuda,Latuda,Non-Preferred
 Hepatitis C: Direct Acting Antivirals (DAAs),Ledipasvir / Sofosbuvir,sofosbuvir/ledipasvir,Non-Preferred
 Pulmonary Hypertension: Endothelin Antagonists,Letairis,Letairis,Non-Preferred
 Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Leukine,Leukine,Non-Preferred
+Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Levalbuterol Tartrate inhalation aerosol solution,levalbuterol HFA,Non-Preferred
 Antidiabetics: Long Acting Insulin,Levemir FlexTouch,Levemir,Preferred
 Antidiabetics: Long Acting Insulin,Levemir vial,Levemir,Preferred
 Antivirals: Protease Inhibitors,Lexiva,Lexiva,Non-Preferred
@@ -332,6 +337,7 @@ Mental Health: Anticonvulsants,Onfi tablet,Onfi,Non-Preferred
 Pulmonary Hypertension: Endothelin Antagonists,Opsumit,Opsumit,Non-Preferred
 Pulmonary Hypertension: Endothelin Antagonists,Opsynvi tablet,Opsynvi,Non-Preferred
 Dermatological: Atopic Dermatitis (Non-Steroidal),"Opzelura cream, Atopic Dermatitis",Opzelura,Non-Preferred
+Dermatological: Atopic Dermatitis (Non-Steroidal),"Opzelura cream, Nonsegmental Vitiligo",Opzelura,Non-Preferred
 Pulmonary Hypertension: Prostacyclins,Orenitram ER,Orenitram,Non-Preferred
 Muscle Relaxants: Antispasmodic Agents,Orphenadrine ER,orphenadrine,Preferred
 Antivirals: Anti-Influenza - Oral,Oseltamivir,oseltamivir,Preferred
@@ -348,6 +354,7 @@ Anticoagulants: Oral,Pradaxa,Pradaxa,Preferred
 Cardiovascular: PCSK-9 Inhibitors,Praluent,Praluent,Non-Preferred
 Diagnostic Products: Diabetic Testing Strips,Precision Test Strips 100 ct,Precision Test Strips,Preferred
 Diagnostic Products: Diabetic Testing Strips,Precision Test Strips 50 ct,Precision Test Strips,Preferred
+Diagnostic Products: Diabetic Testing Strips,Precision Xtra Beta Ketone Test Strips 10 ct,Precision Test Strips,Preferred
 Estrogens: Oral Single Ingredient,Premarin tablet,Premarin,Preferred
 Gastrointestinal (GI): Proton Pump Inhibitors,Prevacid SoluTab,Prevacid Solutabs,Non-Preferred
 Gastrointestinal (GI): Proton Pump Inhibitors,Prevacid capsule,Prevacid capsule,Non-Preferred
@@ -378,7 +385,6 @@ Cardiovascular: Antianginal Agents,Ranexa,Ranexa,Non-Preferred
 Neurological: Multiple Sclerosis Agents,Rebif (Interferon Beta-1a) prefilled syringe,Rebif,Non-Preferred
 Antihemophilia: Factor IX,Rebinyn,Rebinyn,Non-Preferred
 Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Releuko,Releuko,Non-Preferred
-Gastrointestinal (GI): Phosphate Binders,Renvela,Renvela tablet,Preferred
 Cardiovascular: PCSK-9 Inhibitors,Repatha,Repatha,Preferred
 Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Revatio oral suspension,Revatio,Non-Preferred
 Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Revatio tablet,Revatio,Non-Preferred
@@ -414,7 +420,7 @@ Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Select-Ob + D
 Antidiabetics: Long Acting Insulin,Semglee,Semglee,Non-Preferred
 Mental Health: Atypical Antipsychotics,Seroquel,Seroquel,Non-Preferred
 Mental Health: Atypical Antipsychotics,Seroquel XR,Seroquel XR,Non-Preferred
-Gastrointestinal (GI): Phosphate Binders,Sevelamer carbonate tablets,sevelamer carbonate,Non-Preferred
+Gastrointestinal (GI): Phosphate Binders,Sevelamer carbonate tablets,sevelamer carbonate,Preferred
 Gastrointestinal (GI): Phosphate Binders,Sevelamer hydrochloride tablets,sevelamer hydrochloride,Non-Preferred
 Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Sildenafil 20 mg,sildenafil,Preferred
 Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Sildenafil oral suspension,sildenafil,Preferred

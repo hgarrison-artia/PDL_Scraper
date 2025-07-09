@@ -55,5 +55,7 @@ df = df.drop(['Subclass', 'Sub2class'], axis=1)
 df = df[df['pdl_name'].str.len() <= 200]
 
 df['pdl_name'] = df['pdl_name'].str.replace(r'\s*[-:]*\s*(clinical|clincal).*$', '', case=False, regex=True).str.strip()
+df['pdl_name'] = [name.split('-T/F')[0] for name in df['pdl_name']]
+df['pdl_name'] = [name.split(' T/F')[0] for name in df['pdl_name']]
 
 df.to_csv('NC_PDL.csv', index=False)
