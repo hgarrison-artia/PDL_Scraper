@@ -41,6 +41,8 @@ for row in ws.iter_rows():
 
 df = pd.DataFrame(drugs, columns=['therapeutic_class', 'Subclass', 'Sub2class', 'pdl_name', 'status'])
 
+df = df[df['therapeutic_class'].str.strip().str.upper() != 'DIABETIC SUPPLIES']
+
 # Drop drugs that are identical to any class, subclass, or sub2class
 mask = ~(
     (df['pdl_name'] == df['therapeutic_class']) |
@@ -53,6 +55,8 @@ df = df[~df['pdl_name'].str.lower().isin(['preferred', 'non-preferred'])]
 df['therapeutic_class'] = df['therapeutic_class'].fillna('') + ': ' + df['Subclass'].fillna('') + ': ' + df['Sub2class'].fillna('')
 df = df.drop(['Subclass', 'Sub2class'], axis=1)
 df = df[df['pdl_name'].str.len() <= 200]
+
+
 
 df['pdl_name'] = df['pdl_name'].str.replace(r'\s*[-:]*\s*(clinical|clincal).*$', '', case=False, regex=True).str.strip()
 df['pdl_name'] = [name.split('-T/F')[0] for name in df['pdl_name']]
