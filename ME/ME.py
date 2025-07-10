@@ -16,19 +16,22 @@ df['therapeutic_class'] = df['therapeutic_class'].str.lstrip()
 
 
 def _clean_pdl_name(name: str) -> str:
-    """Remove footnote digits that appear as trailing characters."""
+    """Remove footnote digits that may appear anywhere in the name."""
     if pd.isna(name):
         return name
-    name = re.sub(r'(?<=[^0-9-])(?:[1-9](?:,[1-9])*)$', '', name).rstrip()
-    name = re.sub(r'(?<=\d{3})\d$', '', name)
-    if re.search(r'(mg|mcg)\d$', name, flags=re.IGNORECASE):
-        name = name[:-1]
-    return name
+
+    pattern = r"(?<!\()(?:[1-9](?:,[1-9])*)(?!\.\d)(?=(?:\s|$|[,\-./()\"']))"
+    name = re.sub(pattern, "", str(name))
+    name = re.sub(r"\s+", " ", name)
+    return name.strip()
 
 df['pdl_name'] = df['pdl_name'].astype(str).apply(_clean_pdl_name)
 
 df = df.dropna(subset=['pdl_name'])
 df = df.sort_values('therapeutic_class').reset_index(drop=True)
+
+df = df[df['pdl_name'] != np.nan].reset_index(drop=True)
+df = df[df['pdl_name'] != 'nan'].reset_index(drop=True)
 
 df.to_csv('ME_PDL.csv', index=False)
 
