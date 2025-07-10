@@ -17,10 +17,10 @@ PSORIASIS BIOLOGICALS,Adalimumab-fkjp Hidradenitis Suppurativa,ADALIMUMAB-FKJP,P
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Plaque Psoriasis (adult),ADALIMUMAB-FKJP,Preferred
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Polyarticular Juvenile Idiopathic Arthritis (PJIA),ADALIMUMAB-FKJP,Preferred
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Psoriatic Arthritis (adult),ADALIMUMAB-FKJP,Preferred
-RHEUMATOID ARTHRITIS,Adalimumab-fkjp Rheumatoid Arthritis,ADALIMUMAB-FKJP3,Preferred
+PSORIASIS BIOLOGICALS,Adalimumab-fkjp Rheumatoid Arthritis,ADALIMUMAB-FKJP,Preferred
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Ulcerative Colitis (adult),ADALIMUMAB-FKJP,Preferred
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Uveitis (adult),ADALIMUMAB-FKJP,Preferred
-TOPICAL- ATOPIC DERMATITIS,Adbry Atopic Dermatitis (adult),"ADBRY2,4",Preferred
+TOPICAL- ATOPIC DERMATITIS,Adbry Atopic Dermatitis (adult),ADBRY,Preferred
 PSORIASIS BIOLOGICALS,Amjevita Ankylosing Spondylitis,AMJEVITA,Non-Preferred
 PSORIASIS BIOLOGICALS,Amjevita Crohn’s Disease (adult),AMJEVITA,Non-Preferred
 PSORIASIS BIOLOGICALS,Amjevita Crohn’s Disease (pediatric),AMJEVITA,Non-Preferred
@@ -31,6 +31,50 @@ PSORIASIS BIOLOGICALS,Amjevita Psoriatic Arthritis (adult),AMJEVITA,Non-Preferre
 PSORIASIS BIOLOGICALS,Amjevita Rheumatoid Arthritis,AMJEVITA,Non-Preferred
 PSORIASIS BIOLOGICALS,Amjevita Ulcerative Colitis (adult),AMJEVITA,Non-Preferred
 PSORIASIS BIOLOGICALS,Amjevita Uveitis (adult),AMJEVITA,Non-Preferred
-LUPUS-SLE  ,Benlysta,BENLYSTA1,Non-Preferred
-PSORIASIS BIOLOGICALS,Bimzelx Ankylosing Spondylitis,BIMZELX3,Non-Preferred
-PSORIASIS BIOLOGICALS,Bimzelx Non-Radiographic Axial Spondyloarthritis,BIMZELX3,Non-Preferred
+LUPUS-SLE  ,Benlysta,BENLYSTA,Non-Preferred
+PSORIASIS BIOLOGICALS,Bimzelx Ankylosing Spondylitis,BIMZELX,Non-Preferred
+PSORIASIS BIOLOGICALS,Bimzelx Hidradenitis Suppurativa,BIMZELX,Non-Preferred
+PSORIASIS BIOLOGICALS,Bimzelx Non-Radiographic Axial Spondyloarthritis,BIMZELX,Non-Preferred
+PSORIASIS BIOLOGICALS,Bimzelx Plaque Psoriasis (adult),BIMZELX,Non-Preferred
+PSORIASIS BIOLOGICALS,Bimzelx Psoriatic Arthritis (adult),BIMZELX,Non-Preferred
+TOPICAL- ATOPIC DERMATITIS,Cibinqo Atopic Dermatitis (adult),CIBINQO,Non-Preferred
+RHEUMATOID ARTHRITIS,Cimzia Rheumatoid Arthritis,CIMZIA,Non-Preferred
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Cinqair Asthma (adult),CINQAIR,Non-Preferred
+PSORIASIS BIOLOGICALS,Cosentyx Ankylosing Spondylitis,COSENTYX,Non-Preferred
+PSORIASIS BIOLOGICALS,Cosentyx Enthesitis-Related Arthritis (pediatric),COSENTYX,Non-Preferred
+PSORIASIS BIOLOGICALS,Cosentyx Hidradenitis Suppurativa,COSENTYX,Non-Preferred
+PSORIASIS BIOLOGICALS,Cosentyx Non-Radiographic Axial Spondyloarthritis,COSENTYX,Non-Preferred
+PSORIASIS BIOLOGICALS,Cosentyx Plaque Psoriasis (adult),COSENTYX,Non-Preferred
+PSORIASIS BIOLOGICALS,Cosentyx Plaque Psoriasis (pediatric),COSENTYX,Non-Preferred
+PSORIASIS BIOLOGICALS,Cosentyx Psoriatic Arthritis (adult),COSENTYX,Non-Preferred
+PSORIASIS BIOLOGICALS,Cosentyx Psoriatic Arthritis (pediatric),COSENTYX,Non-Preferred
+PSORIASIS BIOLOGICALS,Cyltezo Ankylosing Spondylitis,CYLTEZO,Non-Preferred
+PSORIASIS BIOLOGICALS,Cyltezo Crohn’s Disease (adult),CYLTEZO,Non-Preferred
+PSORIASIS BIOLOGICALS,Cyltezo Crohn’s Disease (pediatric),CYLTEZO,Non-Preferred
+PSORIASIS BIOLOGICALS,Cyltezo Hidradenitis Suppurativa,CYLTEZO,Non-Preferred
+PSORIASIS BIOLOGICALS,Cyltezo Plaque Psoriasis (adult),CYLTEZO,Non-Preferred
+PSORIASIS BIOLOGICALS,Cyltezo Polyarticular Juvenile Idiopathic Arthritis (PJIA),CYLTEZO,Non-Preferred
+PSORIASIS BIOLOGICALS,Cyltezo Psoriatic Arthritis (adult),CYLTEZO,Non-Preferred
+PSORIASIS BIOLOGICALS,Cyltezo Rheumatoid Arthritis,CYLTEZO,Non-Preferred
+PSORIASIS BIOLOGICALS,Cyltezo Ulcerative Colitis (adult),CYLTEZO,Non-Preferred
+PSORIASIS BIOLOGICALS,Cyltezo Uveitis (adult),CYLTEZO,Non-Preferred
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Asthma (adult),DUPIXENT,Preferred
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Asthma (pediatric),DUPIXENT,Preferred
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Atopic Dermatitis (adult),DUPIXENT,Preferred
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Atopic Dermatitis (pediatric),DUPIXENT,Preferred
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Chronic Obstructive Pulmonary Disease (COPD),DUPIXENT,Preferred
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,DUPIXENT,Preferred
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Eosinophilic Esophagitis,DUPIXENT,Preferred
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Prurigo Nodularis,DUPIXENT,Preferred
+TOPICAL- ATOPIC DERMATITIS,Ebglyss Atopic Dermatitis (adult),EBGLYSS,Non-Preferred
+TOPICAL- ATOPIC DERMATITIS,Ebglyss Atopic Dermatitis (pediatric),EBGLYSS,Non-Preferred
+PSORIASIS BIOLOGICALS,Enbrel Ankylosing Spondylitis,ENBREL,Preferred
+PSORIASIS BIOLOGICALS,Enbrel Plaque Psoriasis (adult),ENBREL,Preferred
+PSORIASIS BIOLOGICALS,Enbrel Plaque Psoriasis (pediatric),ENBREL,Preferred
+PSORIASIS BIOLOGICALS,Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA),ENBREL,Preferred
+PSORIASIS BIOLOGICALS,Enbrel Psoriatic Arthritis (adult),ENBREL,Preferred
+PSORIASIS BIOLOGICALS,Enbrel Psoriatic Arthritis (pediatric),ENBREL,Preferred
+PSORIASIS BIOLOGICALS,Enbrel Rheumatoid Arthritis,ENBREL,Preferred
+MONOCLONAL ANTIBODY,Enspryng Neuromyelitis Optica Spectrum Disorder (NMOSD),ENSPRYNG,Non-Preferred
+TOPICAL- ATOPIC DERMATITIS,Eucrisa,EUCRISA,Preferred
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,"Fasenra auto-injector, Asthma (adult)",FASENRA2 AUTO INJCT,Preferred

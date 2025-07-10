@@ -17,10 +17,10 @@ PSORIASIS BIOLOGICALS,Adalimumab-fkjp Hidradenitis Suppurativa,ADALIMUMAB-FKJP
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Plaque Psoriasis (adult),ADALIMUMAB-FKJP
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Polyarticular Juvenile Idiopathic Arthritis (PJIA),ADALIMUMAB-FKJP
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Psoriatic Arthritis (adult),ADALIMUMAB-FKJP
-RHEUMATOID ARTHRITIS,Adalimumab-fkjp Rheumatoid Arthritis,ADALIMUMAB-FKJP3
+PSORIASIS BIOLOGICALS,Adalimumab-fkjp Rheumatoid Arthritis,ADALIMUMAB-FKJP
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Ulcerative Colitis (adult),ADALIMUMAB-FKJP
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Uveitis (adult),ADALIMUMAB-FKJP
-TOPICAL- ATOPIC DERMATITIS,Adbry Atopic Dermatitis (adult),"ADBRY2,4"
+TOPICAL- ATOPIC DERMATITIS,Adbry Atopic Dermatitis (adult),ADBRY
 PSORIASIS BIOLOGICALS,Amjevita Ankylosing Spondylitis,AMJEVITA
 PSORIASIS BIOLOGICALS,Amjevita Crohn’s Disease (adult),AMJEVITA
 PSORIASIS BIOLOGICALS,Amjevita Crohn’s Disease (pediatric),AMJEVITA
@@ -31,6 +31,50 @@ PSORIASIS BIOLOGICALS,Amjevita Psoriatic Arthritis (adult),AMJEVITA
 PSORIASIS BIOLOGICALS,Amjevita Rheumatoid Arthritis,AMJEVITA
 PSORIASIS BIOLOGICALS,Amjevita Ulcerative Colitis (adult),AMJEVITA
 PSORIASIS BIOLOGICALS,Amjevita Uveitis (adult),AMJEVITA
-LUPUS-SLE  ,Benlysta,BENLYSTA1
-PSORIASIS BIOLOGICALS,Bimzelx Ankylosing Spondylitis,BIMZELX3
-PSORIASIS BIOLOGICALS,Bimzelx Non-Radiographic Axial Spondyloarthritis,BIMZELX3
+LUPUS-SLE  ,Benlysta,BENLYSTA
+PSORIASIS BIOLOGICALS,Bimzelx Ankylosing Spondylitis,BIMZELX
+PSORIASIS BIOLOGICALS,Bimzelx Hidradenitis Suppurativa,BIMZELX
+PSORIASIS BIOLOGICALS,Bimzelx Non-Radiographic Axial Spondyloarthritis,BIMZELX
+PSORIASIS BIOLOGICALS,Bimzelx Plaque Psoriasis (adult),BIMZELX
+PSORIASIS BIOLOGICALS,Bimzelx Psoriatic Arthritis (adult),BIMZELX
+TOPICAL- ATOPIC DERMATITIS,Cibinqo Atopic Dermatitis (adult),CIBINQO
+RHEUMATOID ARTHRITIS,Cimzia Rheumatoid Arthritis,CIMZIA
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Cinqair Asthma (adult),CINQAIR
+PSORIASIS BIOLOGICALS,Cosentyx Ankylosing Spondylitis,COSENTYX
+PSORIASIS BIOLOGICALS,Cosentyx Enthesitis-Related Arthritis (pediatric),COSENTYX
+PSORIASIS BIOLOGICALS,Cosentyx Hidradenitis Suppurativa,COSENTYX
+PSORIASIS BIOLOGICALS,Cosentyx Non-Radiographic Axial Spondyloarthritis,COSENTYX
+PSORIASIS BIOLOGICALS,Cosentyx Plaque Psoriasis (adult),COSENTYX
+PSORIASIS BIOLOGICALS,Cosentyx Plaque Psoriasis (pediatric),COSENTYX
+PSORIASIS BIOLOGICALS,Cosentyx Psoriatic Arthritis (adult),COSENTYX
+PSORIASIS BIOLOGICALS,Cosentyx Psoriatic Arthritis (pediatric),COSENTYX
+PSORIASIS BIOLOGICALS,Cyltezo Ankylosing Spondylitis,CYLTEZO
+PSORIASIS BIOLOGICALS,Cyltezo Crohn’s Disease (adult),CYLTEZO
+PSORIASIS BIOLOGICALS,Cyltezo Crohn’s Disease (pediatric),CYLTEZO
+PSORIASIS BIOLOGICALS,Cyltezo Hidradenitis Suppurativa,CYLTEZO
+PSORIASIS BIOLOGICALS,Cyltezo Plaque Psoriasis (adult),CYLTEZO
+PSORIASIS BIOLOGICALS,Cyltezo Polyarticular Juvenile Idiopathic Arthritis (PJIA),CYLTEZO
+PSORIASIS BIOLOGICALS,Cyltezo Psoriatic Arthritis (adult),CYLTEZO
+PSORIASIS BIOLOGICALS,Cyltezo Rheumatoid Arthritis,CYLTEZO
+PSORIASIS BIOLOGICALS,Cyltezo Ulcerative Colitis (adult),CYLTEZO
+PSORIASIS BIOLOGICALS,Cyltezo Uveitis (adult),CYLTEZO
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Asthma (adult),DUPIXENT
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Asthma (pediatric),DUPIXENT
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Atopic Dermatitis (adult),DUPIXENT
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Atopic Dermatitis (pediatric),DUPIXENT
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Chronic Obstructive Pulmonary Disease (COPD),DUPIXENT
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,DUPIXENT
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Eosinophilic Esophagitis,DUPIXENT
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Prurigo Nodularis,DUPIXENT
+TOPICAL- ATOPIC DERMATITIS,Ebglyss Atopic Dermatitis (adult),EBGLYSS
+TOPICAL- ATOPIC DERMATITIS,Ebglyss Atopic Dermatitis (pediatric),EBGLYSS
+PSORIASIS BIOLOGICALS,Enbrel Ankylosing Spondylitis,ENBREL
+PSORIASIS BIOLOGICALS,Enbrel Plaque Psoriasis (adult),ENBREL
+PSORIASIS BIOLOGICALS,Enbrel Plaque Psoriasis (pediatric),ENBREL
+PSORIASIS BIOLOGICALS,Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA),ENBREL
+PSORIASIS BIOLOGICALS,Enbrel Psoriatic Arthritis (adult),ENBREL
+PSORIASIS BIOLOGICALS,Enbrel Psoriatic Arthritis (pediatric),ENBREL
+PSORIASIS BIOLOGICALS,Enbrel Rheumatoid Arthritis,ENBREL
+MONOCLONAL ANTIBODY,Enspryng Neuromyelitis Optica Spectrum Disorder (NMOSD),ENSPRYNG
+TOPICAL- ATOPIC DERMATITIS,Eucrisa,EUCRISA
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,"Fasenra auto-injector, Asthma (adult)",FASENRA2 AUTO INJCT
