@@ -1,0 +1,721 @@
+therapeutic_class,capsule_name,pdl_name,status
+ANTIPSYCHOTIC AGENTS,Abilify Asimtufii,Aripiprazole Suspension ER (Abilify Asimtufii/Maintena),Preferred
+ANTIPSYCHOTIC AGENTS,Abilify Maintena,Aripiprazole Suspension ER (Abilify Asimtufii/Maintena),Preferred
+ANTIPSYCHOTIC AGENTS,Abilify MyCite,"Aripiprazole Tablet, Tablet with Sensor (Abilify; Abilify Mycite)",Non-Preferred
+ANTIPSYCHOTIC AGENTS,Abilify tablet,"Aripiprazole Tablet, Tablet with Sensor (Abilify; Abilify Mycite)",Non-Preferred
+SICKLE CELL ANEMIA,Adakveo,Crizanlizumab-tmca Infusion (Adakveo),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Adcirca,Tadalafil Tablet (Adcirca),Non-Preferred
+ADD/ADHD,Adderall XR ER capsule,Amphetamine Salt Combo ER Capsule(Adderall XR),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Adempas,Riociguat Tablet (Adempas),Non-Preferred
+DIABETES,Admelog,"Insulin Lispro Pen, Vial (Admelog SoloStar; Admelog)",Non-Preferred
+DIABETES,Admelog SoloStar,"Insulin Lispro Pen, Vial (Admelog SoloStar; Admelog)",Non-Preferred
+ASTHMA/COPD,Advair Diskus,"Fluticasone/Salmeterol DPI, MDI (Advair Diskus; Advair HFA)",Non-Preferred
+ASTHMA/COPD,Advair HFA,"Fluticasone/Salmeterol DPI, MDI (Advair Diskus; Advair HFA)",Non-Preferred
+HEMOPHILIA TREATMENT,Advate,"Factor VIII, Full-Length (Advate)",Non-Preferred
+HEMOPHILIA TREATMENT,Adynovate,"Factor VIII, Full-Length PEGylated (Adynovate)",Non-Preferred
+ONCOLOGY,Afinitor Disperz,Everolimus Tablet for Oral Suspension (Generic; Afinitor Disperz),Non-Preferred
+ONCOLOGY,Afinitor tablet,Everolimus Tablet (Afinitor; Torpenz),Non-Preferred
+HEMOPHILIA TREATMENT,Afstyla,"Factor VIII, Single-Chain, B-Domain Truncated (Afstyla)",Non-Preferred
+PAIN MANAGEMENT,Aimovig,Erenumab-aooe Autoinjector (Aimovig),Preferred
+ASTHMA/COPD,Airduo Digihaler,Fluticasone/Salmeterol Inhalation Powder (AirDuo Digihaler),Non-Preferred
+ASTHMA/COPD,Airduo Respiclick,Fluticasone/Salmeterol Inhalation Powder (AG; AirDuo RespiClick),Non-Preferred
+ASTHMA/COPD,Airsupra HFA,Albuterol/Budesonide (AirSupra HFA),Non-Preferred
+PAIN MANAGEMENT,Ajovy,"Fremanezumab-vfrm Autoinjector, 3-Pack, Syringe (Ajovy)",Preferred
+ONCOLOGY,Akeega,Niraparib/Abiraterone Tablet (Akeega),Non-Preferred
+ASTHMA/COPD,Albuterol HFA generic PROAIR,Albuterol Sulfate MDI (AG; Generic for ProAir HFA),Preferred
+ONCOLOGY,Alecensa,Alectinib HCl Capsule (Alecensa),Preferred
+OPHTHALMIC DISORDERS,Alphagan P 0.001,Brimonidine 0.1% Solution (Generic; Alphagan P),Non-Preferred
+HEMOPHILIA TREATMENT,Alprolix,"Factor IX Recombinant, Fc Fusion Protein (Alprolix)",Non-Preferred
+HEMOPHILIA TREATMENT,Altuviiio,"Factor VIII, Recombinant Fc-VWF-XTEN Fusion Protein-ehtl (Altuviiio)",Non-Preferred
+ONCOLOGY,Alunbrig,Brigatinib Tablet (Alunbrig),Non-Preferred
+ASTHMA/COPD,Alvesco,Ciclesonide MDI (Alvesco),Non-Preferred
+SEDATIVE/HYPNOTICS,Ambien,Zolpidem Tartrate Tablet (Ambien),Non-Preferred
+SEDATIVE/HYPNOTICS,Ambien CR,Zolpidem Tartrate ER Tablet (Ambien CR),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Ambrisentan,Ambrisentan Tablet (Generic),Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Amlodipine tablet,Amlodipine Tablet (Generic),Preferred
+PAIN MANAGEMENT,Amrix,Cyclobenzaprine ER Capsule (AG; Generic; Amrix),Non-Preferred
+ASTHMA/COPD,Anoro Ellipta,Umeclidinium/Vilanterol Inhalation Powder (Anoro Ellipta),Preferred
+DIABETES,Apidra,"Insulin Glulisine Pen, Vial (Apidra SoloStar; Apidra)",Non-Preferred
+DIABETES,Apidra SoloStar,"Insulin Glulisine Pen, Vial (Apidra SoloStar; Apidra)",Non-Preferred
+DEPRESSION,Aplenzin,Bupropion HBr ER 24-Hour Tablet (Aplenzin),Non-Preferred
+ANTICONVULSANTS,Aptiom,Eslicarbazepine Acetate Tablet (Aptiom),Preferred
+HIV-AIDS,Aptivus,Tipranavir Capsule (Aptivus),Preferred
+"HEMATOLOGIC AGENTS, HEMATOPOIETIC AGENTS",Aranesp,Darbepoetin Vial (Aranesp),Preferred
+ALZHEIMER’S AGENTS,Aricept,Donepezil Tablet (Aricept),Non-Preferred
+INFECTIOUS DISORDERS,Arikayce,Amikacin Inhalation Suspension (Arikayce),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Aripiprazole ODT,"Aripiprazole ODT, Solution (Generic)",Non-Preferred
+ANTIPSYCHOTIC AGENTS,Aripiprazole oral solution,"Aripiprazole ODT, Solution (Generic)",Non-Preferred
+ANTIPSYCHOTIC AGENTS,Aripiprazole tablet,Aripiprazole Tablet (Generic),Preferred
+ANTIPSYCHOTIC AGENTS,Aristada,Aripiprazole Lauroxil (Aristada; Aristada Initio),Preferred
+ANTIPSYCHOTIC AGENTS,Aristada Initio,Aripiprazole Lauroxil (Aristada; Aristada Initio),Preferred
+ASTHMA/COPD,Armonair Digihaler,Fluticasone Propionate Inhalation Powder (Armonair Digihaler),Non-Preferred
+ASTHMA/COPD,Arnuity Ellipta,Fluticasone Furoate Inhalation Powder (Arnuity Ellipta),Preferred
+DIGESTIVE DISORDERS,Asacol HD,Mesalamine DR Tablet (Generic for Asacol HD),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Asenapine,Asenapine Sublingual Tablet (AG; Generic; Saphris),Non-Preferred
+ASTHMA/COPD,Asmanex HFA,Mometasone Furoate MDI (Asmanex HFA),Preferred
+ASTHMA/COPD,Asmanex Twisthaler,Mometasone Inhalation Powder (Asmanex Twisthaler),Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Aspirin / Dipyridamole,Aspirin/Dipyridamole ER Capsule (Generic),Preferred
+"IMMUNOSUPPRESSIVES, ORAL",Astagraf XL ER capsule,Tacrolimus ER Capsule (Astagraf XL),Non-Preferred
+MULTIPLE SCLEROSIS,Aubagio tablet,Teriflunomide Tablet (Aubagio),Non-Preferred
+ONCOLOGY,Augtyro capsule,Repotrectinib Capsule (Augtyro),Non-Preferred
+HEMODIALYSIS,Auryxia,Ferric Citrate Tablet (Auryxia),Non-Preferred
+MOVEMENT DISORDERS,Austedo,Deutetrabenazine Tablet (Austedo; Austedo XR),Preferred
+MOVEMENT DISORDERS,Austedo XR,Deutetrabenazine Tablet (Austedo; Austedo XR),Preferred
+MOVEMENT DISORDERS,Austedo XR titration pack,Deutetrabenazine Tablet (Austedo; Austedo XR),Preferred
+DEPRESSION,Auvelity,Dextromethorphan/Bupropion Tablet (Auvelity),Non-Preferred
+"EPINEPHRINE, SELF-INJECTED",Auvi-Q 0.1 mg,"Epinephrine 0.1 mg, 0.15mg, 0.3mg Auto-Injector (Auvi-Q)",Preferred
+"EPINEPHRINE, SELF-INJECTED",Auvi-Q 0.15 mg,"Epinephrine 0.1 mg, 0.15mg, 0.3mg Auto-Injector (Auvi-Q)",Preferred
+"EPINEPHRINE, SELF-INJECTED",Auvi-Q 0.3 mg,"Epinephrine 0.1 mg, 0.15mg, 0.3mg Auto-Injector (Auvi-Q)",Preferred
+MULTIPLE SCLEROSIS,Avonex auto-injector,Interferon β-1a Pen Kit (Avonex Pen),Preferred
+MULTIPLE SCLEROSIS,Avonex prefilled syringe,"Interferon β-1a Syringe, Syringe Kit (Avonex)",Preferred
+ADD/ADHD,Azstarys,Serdexmethylphenidate/Dexmethylphenidate Capsule (Azstarys),Non-Preferred
+PAIN MANAGEMENT,Baclofen oral solution,Baclofen Solution (AG 5mg/5ml; Generic for Ozobax DS 10mg/5ml),Non-Preferred
+PAIN MANAGEMENT,Baclofen tablet,Baclofen Tablet (Generic),Preferred
+MULTIPLE SCLEROSIS,Bafiertam,Monomethyl Fumarate Capsule DR (Bafiertam),Non-Preferred
+ONCOLOGY,Balversa,Erdafitinib Tablet (Balversa),Non-Preferred
+ANTICONVULSANTS,Banzel oral suspension,"Rufinamide Suspension, Tablet (Banzel)",Non-Preferred
+ANTICONVULSANTS,Banzel tablet,"Rufinamide Suspension, Tablet (Banzel)",Non-Preferred
+INFECTIOUS DISORDERS,Baraclude,"Entecavir Solution, Tablet (Baraclude)",Non-Preferred
+DIABETES,Basaglar Kwikpen,Insulin Glargine U-100 (Basaglar KwikPen; Basaglar Tempo Pen),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Benazepril,Benazepril (Generic),Preferred
+HEMOPHILIA TREATMENT,Benefix,Factor IX Human Recombinant (BeneFIX Kit),Preferred
+INFECTIOUS DISORDERS,Bethkis,Tobramycin Solution (AG; Generic; Bethkis),Non-Preferred
+ASTHMA/COPD,Bevespi Aerosphere,Glycopyrrolate/Formoterol Fumarate (Bevespi Aerosphere),Non-Preferred
+HIV-AIDS,Biktarvy,Bictegravir/Emtricitabine/Tenofovir AF Tablet (Biktarvy),Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Bosentan,Bosentan Tablet (Generic),Preferred
+BOTULINUM TOXINS,Botox,OnabotulinumtoxinA (Botox),Preferred
+ASTHMA/COPD,Breo Ellipta,Fluticasone/Vilanterol Inhalation Powder (AG; Breo Ellipta),Non-Preferred
+ASTHMA/COPD,Breztri Aerosphere,Budesonide/Glycopyrrolate/Formoterol Inhalation (Breztri Aerosphere),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Brilinta,Ticagrelor Tablet (Brilinta),Preferred
+MULTIPLE SCLEROSIS,Briumvi,Ublituximab-xiiy Vial (Briumvi),Non-Preferred
+ANTICONVULSANTS,Briviact,"Brivaracetam Solution, Tablet (Briviact)",Preferred
+ONCOLOGY,Brukinsa,Zanubrutinib Capsule (Brukinsa),Non-Preferred
+ASTHMA/COPD,Budesonide / Formoterol authorized generic Symbicort,Budesonide/Formoterol MDI (AG; Generic),Preferred
+ASTHMA/COPD,"Budesonide respules (inhalation suspension), 0.25 mg","Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Generic)",Preferred
+ASTHMA/COPD,"Budesonide respules (inhalation suspension), 0.5 mg","Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Generic)",Preferred
+ASTHMA/COPD,"Budesonide respules (inhalation suspension), 1 mg","Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Generic)",Preferred
+UREA CYCLE DISORDERS,Buphenyl powder,"Sodium Phenylbutyrate Powder, Tablet (Generic; Buphenyl)",Non-Preferred
+UREA CYCLE DISORDERS,Buphenyl tablet,"Sodium Phenylbutyrate Powder, Tablet (Generic; Buphenyl)",Non-Preferred
+DIABETES,Bydureon Bcise,Exenatide Microspheres ER Auto-Injector (Bydureon BCise),Non-Preferred
+DIGESTIVE DISORDERS,Bylvay Alagille Syndrome (ALGS),"Odevixibat Capsule, Pellet (Bylvay)",Non-Preferred
+DIGESTIVE DISORDERS,Bylvay Progressive Familial Intrahepatic Cholestatis (PFIC),"Odevixibat Capsule, Pellet (Bylvay)",Non-Preferred
+ONCOLOGY,Calquence,"Acalabrutinib Capsule, Tablet (Calquence)",Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Candesartan,Candesartan (AG; Generic; Atacand),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Caplyta,Lumateperone Capsule (Caplyta),Non-Preferred
+ONCOLOGY,Caprelsa,Vandetanib Tablet (Caprelsa),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Captopril,Captopril (Generic),Non-Preferred
+SICKLE CELL ANEMIA,Casgevy intravenous suspension,Exagamglogene autotemcel (Casgevy),Non-Preferred
+INFECTIOUS DISORDERS,Cayston,Aztreonam Solution (Cayston),Non-Preferred
+OPHTHALMIC DISORDERS,Cequa,Cyclosporine 0.09% Solution (Cequa),Non-Preferred
+ENZYME REPLACEMENTS,Cerdelga,Eliglustat Capsule (Cerdelga),Non-Preferred
+ENZYME REPLACEMENTS,Cerezyme 400 Units,Imiglucerase 400-unit Vial (Cerezyme),Non-Preferred
+DIGESTIVE DISORDERS,Chenodal tablet,Chenodiol Tablet (Chenodal),Non-Preferred
+DIGESTIVE DISORDERS,Cholbam capsule,Cholic Acid Capsule (Cholbam),Non-Preferred
+INFECTIOUS DISORDERS,Cleocin 2% cream,Clindamycin Vaginal Cream (Cleocin),Non-Preferred
+INFECTIOUS DISORDERS,Cleocin ovules / vaginal suppository,Clindamycin Vaginal Ovules (Cleocin),Non-Preferred
+INFECTIOUS DISORDERS,Clindamycin 2% Cream,Clindamycin Vaginal Cream (Generic for Cleocin),Preferred
+INFECTIOUS DISORDERS,Clindesse 2% prefilled applicator cream,Clindamycin Vaginal Cream (Clindesse),Non-Preferred
+ANTICONVULSANTS,Clobazam oral suspension,"Clobazam Suspension, Tablet (Generic)",Preferred
+ANTICONVULSANTS,Clobazam tablet,"Clobazam Suspension, Tablet (Generic)",Preferred
+ANTIPSYCHOTIC AGENTS,Clozapine ODT,Clozapine ODT (Generic),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Clozapine tablet,Clozapine Tablet (Generic),Preferred
+ANTIPSYCHOTIC AGENTS,Clozaril,Clozapine Tablet (Clozaril),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Cobenfy capsule,"Xanomeline and Trospium Chloride Capsule, Starter Pack (Cobenfy)",Non-Preferred
+OPHTHALMIC DISORDERS,Combigan,Brimonidine/Timolol Solution (Combigan),Non-Preferred
+ASTHMA/COPD,Combivent Respimat inhalation aerosol solution,Ipratropium/Albuterol Sulfate (Combivent Respimat),Preferred
+HIV-AIDS,Complera,Emtricitabine/Rilpivirine/Tenofovir DF Tablet (Complera),Preferred
+ADD/ADHD,Concerta ER,Methylphenidate ER Tablet (Concerta),Non-Preferred
+MULTIPLE SCLEROSIS,Copaxone 20 mg,"Glatiramer Acetate Syringe 20mg, 40mg (Copaxone)",Non-Preferred
+MULTIPLE SCLEROSIS,Copaxone 40 mg,"Glatiramer Acetate Syringe 20mg, 40mg (Copaxone)",Non-Preferred
+DIGESTIVE DISORDERS,Creon,Pancrelipase (Creon),Preferred
+IMMUNE GLOBULINS (IG),Cuvitru,IG Subcutaneous [(Human) Cuvitru],Non-Preferred
+OPHTHALMIC DISORDERS,Cyclosporine ophthalmic emulsion,Cyclosporine 0.05% Emulsion (AG; Generic),Preferred
+ASTHMA/COPD,Daliresp,Roflumilast Tablet (Daliresp),Non-Preferred
+PAIN MANAGEMEN,Dantrium,Dantrolene Sodium Capsule (AG; Generic; Dantrium),Non-Preferred
+DIABETES,Dapagliflozin,Dapagliflozin Tablet (AG),Preferred
+ANTICONVULSANTS,Depakote,"Divalproex Sodium DR Tablet, ER Tablet (Depakote; Depakote ER)",Non-Preferred
+HIV-AIDS,Descovy,Emtricitabine/Tenofovir AF Tablet (Descovy),Preferred
+ANTICONVULSANTS,Diacomit capsule,"Stiripentol Capsule, Powder Pack (Diacomit)",Preferred
+ANTICONVULSANTS,Diacomit packet for oral suspension,"Stiripentol Capsule, Powder Pack (Diacomit)",Preferred
+MULTIPLE SCLEROSIS,Dimethyl Fumarate,Dimethyl Fumarate DR Capsule (Generic),Preferred
+ALZHEIMER’S AGENTS,Donepezil ODT,"Donepezil ODT, Tablet (Generic)",Preferred
+ALZHEIMER’S AGENTS,"Donepezil tablet, 10 mg","Donepezil ODT, Tablet (Generic)",Preferred
+ALZHEIMER’S AGENTS,"Donepezil tablet, 23 mg","Donepezil 23 mg Tablet (Generic, Aricept)",Non-Preferred
+ALZHEIMER’S AGENTS,"Donepezil tablet, 5 mg","Donepezil ODT, Tablet (Generic)",Preferred
+THROMBOPOIESIS STIMULATING PROTEINS,Doptelet,Avatrombopag Tablet (Doptelet),Non-Preferred
+ASTHMA/COPD,Duaklir Pressair,Aclidinium Bromide/Formoterol Fumarate (Duaklir Pressair),Non-Preferred
+ASTHMA/COPD,Dulera,Mometasone/Formoterol MDI (Dulera),Preferred
+PAIN MANAGEMENT,Duloxetine generic Cymbalta,Duloxetine Capsule (Generic for Cymbalta),Preferred
+OPHTHALMIC DISORDERS,Durysta,Bimatoprost Implant (Durysta),Non-Preferred
+ADD/ADHD,Dyanavel XR,"Amphetamine Suspension, Tablet (Dyanavel XR)",Non-Preferred
+BOTULINUM TOXINS,Dysport,AbobotulinumtoxinA (Dysport),Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Edarbi,Azilsartan Medoxomil (Edarbi),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Edarbyclor,Azilsartan/Chlorthalidone (Edarbyclor),Non-Preferred
+HIV-AIDS,Edurant,Rilpivirine HCl Tablet (Edurant),Preferred
+ENZYME REPLACEMENTS,Elelyso,Taliglucerase alfa Vial (Elelyso),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Eliquis,"Apixaban Dose Pack, Tablet (Eliquis)",Preferred
+HEMOPHILIA TREATMENT,Eloctate,"Factor VIII, Recombinant, Fc Fusion (Eloctate)",Non-Preferred
+"GLUCOCORTICOIDS, ORAL",Emflaza oral suspension,"Deflazacort Suspension, Tablet (Emflaza)",Non-Preferred
+"GLUCOCORTICOIDS, ORAL",Emflaza tablet,"Deflazacort Suspension, Tablet (Emflaza)",Non-Preferred
+PAIN MANAGEMENT,Emgality 100 mg,Galcanezumab-gnlm 100 mg Syringe (Emgality),Non-Preferred
+PAIN MANAGEMENT,Emgality 120 mg,"Galcanezumab-gnlm Pen, 120 mg Syringe (Emgality)",Preferred
+HIV-AIDS,Emtriva capsule,Emtricitabine Capsule (Generic; Emtriva),Preferred
+HIV-AIDS,Emtriva oral solution,Emtricitabine Solution (Emtriva),Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Enalapril,Enalapril Tablet (Generic),Preferred
+SICKLE CELL ANEMIA,Endari,L-glutamine Powder Pack (Generic; Endari),Non-Preferred
+INFECTIOUS DISORDERS,Entecavir,Entecavir Tablet (Generic),Preferred
+"IMMUNOSUPPRESSIVES, ORAL",Envarsus XR,Tacrolimus ER Tablet (Envarsus XR),Non-Preferred
+"GLUCOCORTICOIDS, ORAL",Eohilia oral suspension,Budesonide Suspension Packet (Eohilia),Non-Preferred
+INFECTIOUS DISORDERS,Epclusa,"Sofosbuvir/Velpatasvir Pellet Pack, Tablet (Epclusa)",Non-Preferred
+ANTICONVULSANTS,Epidiolex,Cannabidiol Solution (Epidiolex),Preferred
+"EPINEPHRINE, SELF-INJECTED",Epinephrine (Generic Adrenaclick) 0.15mg,"Epinephrine 0.15 mg, 0.3 mg Auto-Injector (AG for Adrenaclick)",Non-Preferred
+"EPINEPHRINE, SELF-INJECTED",Epinephrine (Generic Adrenaclick) 0.3mg,"Epinephrine 0.15 mg, 0.3 mg Auto-Injector (AG for Adrenaclick)",Non-Preferred
+"EPINEPHRINE, SELF-INJECTED",Epinephrine (Mylan Ag Epipen And Jr) 0.15mg Mylan's EpiPen Jr AG,Epinephrine 0.15 mg Auto-Injector (AG; Generic; EpiPen Jr),Preferred
+"EPINEPHRINE, SELF-INJECTED",Epinephrine (Mylan Ag Epipen And Jr) 0.3mg Mylan's EpiPen AG,Epinephrine 0.3 mg Auto-Injector (AG; Generic; EpiPen),Preferred
+"EPINEPHRINE, SELF-INJECTED",Epipen,Epinephrine 0.3 mg Auto-Injector (AG; Generic; EpiPen),Preferred
+"EPINEPHRINE, SELF-INJECTED",Epipen Jr.,Epinephrine 0.15 mg Auto-Injector (AG; Generic; EpiPen Jr),Preferred
+HIV-AIDS,Epivir,"Lamivudine Solution, Tablet (Generic; Epivir)",Preferred
+HIV-AIDS,Epivir HBV oral solution,"Lamivudine Solution, Tablet (Generic; Epivir)",Preferred
+HIV-AIDS,Epivir HBV tablet,"Lamivudine Solution, Tablet (Generic; Epivir)",Preferred
+"HEMATOLOGIC AGENTS, HEMATOPOIETIC AGENTS",Epogen,Epoetin alfa Vial (Epogen),Preferred
+ANTICONVULSANTS,Eprontia,Topiramate Solution (Eprontia),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Eprosartan,Eprosartan (Generic),Non-Preferred
+HIV-AIDS,Epzicom,Abacavir/Lamivudine Tablet (Generic; Epzicom),Preferred
+ANTICONVULSANTS,Equetro,"Carbamazepine ER Capsule (Carbatrol, Equetro)",Non-Preferred
+ONCOLOGY,Erleada,Apalutamide Tablet (Erleada),Non-Preferred
+ONCOLOGY,Erlotinib,Erlotinib HCl Tablet (Generic; Tarceva),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Erzofri prefilled syringe,Paliperidone Palmitate (Erzofri),Non-Preferred
+IDIOPATHIC PULMONARY FIBROSIS,Esbriet,"Pirfenidone Capsule, Tablet (Esbriet)",Non-Preferred
+DIGESTIVE DISORDERS,Esomeprazole,Esomeprazole Capsule (Generic; Nexium),Non-Preferred
+HEMOPHILIA TREATMENT,Esperoct,"Factor VIII, Recombinant Glycopegylated-exei (Esperoct)",Non-Preferred
+OSTEOPOROSIS,Evenity,Romosozumab-aqqg Syringe (Evenity),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Evkeeza,Evinacumab-dgnb Vial (Evkeeza),Non-Preferred
+HIV-AIDS,Evotaz,Atazanavir Sulfate/Cobicistat Tablet (Evotaz),Preferred
+SPINAL MUSCULAR ATROPHY,Evrysdi,Risdiplam (Evrysdi),Non-Preferred
+ALZHEIMER’S AGENTS,Exelon,Rivastigmine Transdermal Patch (Exelon),Non-Preferred
+OPHTHALMIC DISORDERS,Eysuvis ophthalmic suspension,Loteprednol Etabonate Suspension (Eysuvis),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Fanapt,"Iloperidone Tablet, Titration Pack (Fanapt)",Non-Preferred
+DIABETES,Farxiga,Dapagliflozin Tablet (Farxiga),Non-Preferred
+ANTICONVULSANTS,Felbatol oral suspension,Felbamate Tablet (Generic; Felbatol),Preferred
+ANTICONVULSANTS,Felbatol tablet,Felbamate Tablet (Generic; Felbatol),Preferred
+PITUITARY SUPPRESSIVE AGENTS,Fensolvi,Leuprolide Acetate Syringe Kit (Fensolvi),Preferred
+DEPRESSION,Fetzima,"Levomilnacipran ER Capsule, Titration Pack (Fetzima)",Non-Preferred
+PAIN MANAGEMENT,Fexmid,Cyclobenzaprine Tablet (Fexmid),Non-Preferred
+DIABETES,Fiasp,"Insulin Aspart Cartridge, Pen, Vial (Fiasp Penfill/PumpCart/FlexTouch; Fiasp)",Non-Preferred
+DIABETES,Fiasp FlexTouch,"Insulin Aspart Cartridge, Pen, Vial (Fiasp Penfill/PumpCart/FlexTouch; Fiasp)",Non-Preferred
+MULTIPLE SCLEROSIS,Fingolimod capsule,Fingolimod Capsule (Generic for Gilenya),Preferred
+ANTICONVULSANTS,Fintepla,Fenfluramine Solution (Fintepla),Non-Preferred
+OPHTHALMIC DISORDERS,Flarex ophthalmic suspension,Fluorometholone Acetate 0.1% Suspension (Flarex),Non-Preferred
+PAIN MANAGEMENT,Fleqsuvy,Baclofen Suspension (AG; Generic; Fleqsuvy),Non-Preferred
+ASTHMA/COPD,Flovent Diskus,Fluticasone Propionate Inhalation Powder (AG; Flovent Diskus),Non-Preferred
+ASTHMA/COPD,Flovent HFA,Fluticasone MDI (AG; Flovent HFA),Preferred
+ASTHMA/COPD,Fluticasone / Salmeterol generic Advair Diskus,Fluticasone/Salmeterol DPI (AG; Generic for Advair Diskus),Preferred
+ASTHMA/COPD,Fluticasone / Salmeterol generic Advair HFA,Fluticasone/Salmeterol MDI (AG for Advair HFA),Preferred
+OSTEOPOROSIS,Forteo,Teriparatide Pen (Generic; Forteo),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Fosinopril,Fosinopril (Generic),Preferred
+ONCOLOGY,Fruzaqla,Fruquintinib Capsule (Fruzaqla),Non-Preferred
+COLONY STIMULATING FACTORS,Fulphila,Pegfilgrastim-jmdb Syringe (Fulphila),Preferred
+HIV-AIDS,Fuzeon,Enfuvirtide Vial (Fuzeon),Preferred
+COLONY STIMULATING FACTORS,Fylnetra,Pegfilgrastim-pbbk Syringe (Fylnetra),Preferred
+ALZHEIMER’S AGENTS,Galantamine ER,"Galantamine ER Capsule, Solution, Tablet (Generic)",Non-Preferred
+ALZHEIMER’S AGENTS,Galantamine oral solution,"Galantamine ER Capsule, Solution, Tablet (Generic)",Non-Preferred
+ALZHEIMER’S AGENTS,Galantamine tablet,"Galantamine ER Capsule, Solution, Tablet (Generic)",Non-Preferred
+IMMUNE GLOBULINS (IG),Gammagard,IG Intravenous [(Human) Gammagard Liquid],Preferred
+ONCOLOGY,Gavreto,Pralsetinib Capsule (Gavreto),Non-Preferred
+GROWTH DEFICIENCY,Genotropin,"Somatropin Cartridge, Syringe (Genotropin)",Preferred
+HIV-AIDS,Genvoya,Elvitegravir/Cobicistat/Emtricitabine/Tenofovir AF (Genvoya),Preferred
+ANTIPSYCHOTIC AGENTS,Geodon IM injection,Ziprasidone Vial (Geodon),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Geodon capsule,Ziprasidone Capsule (Geodon),Non-Preferred
+MULTIPLE SCLEROSIS,Gilenya capsule,Fingolimod Capsule (Gilenya),Non-Preferred
+ONCOLOGY,Gilotrif,Afatinib Dimaleate Tablet (Gilotrif),Preferred
+MULTIPLE SCLEROSIS,"Glatiramer Acetate prefilled syringe, 20 mg/ml","Glatiramer Acetate Syringe 20mg, 40mg (Generic)",Preferred
+MULTIPLE SCLEROSIS,"Glatiramer Acetate prefilled syringe, 40 mg/ml","Glatiramer Acetate Syringe 20mg, 40mg (Generic)",Preferred
+ONCOLOGY,Gleevec,Imatinib Mesylate Tablet (Gleevec),Non-Preferred
+DIABETES,Glyxambi,Linagliptin/Empagliflozin (Glyxambi) (See SGLT2 Criteria),Non-Preferred
+ONCOLOGY,Gomekli capsule,"Mirdametinib Capsule, Tablet for Suspension (Gomekli)",Non-Preferred
+ONCOLOGY,Gomekli soluble tablet,"Mirdametinib Capsule, Tablet for Suspension (Gomekli)",Non-Preferred
+PAIN MANAGEMENT,Gralise,Gabapentin ER Tablet (Generic; Gralise),Non-Preferred
+COLONY STIMULATING FACTORS,Granix,"Tbo-Filgrastim Injection Syringe, Vial (Granix)",Non-Preferred
+"ANTI-ALLERGENS, ORAL",Grastek,Grass Pollen Allergen Extract [Timothy Grass] Sublingual Tablet (Grastek),Non-Preferred
+INFECTIOUS DISORDERS,Harvoni,Ledipasvir/Sofosbuvir Tablet (AG; Harvoni),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Hemangeol,Propranolol Oral Solution (Hemangeol),Preferred
+HEMOPHILIA TREATMENT,Hemgenix,Etranacogene Dezaparvovec-drlb (Hemgenix),Non-Preferred
+HEMOPHILIA TREATMENT,Hemlibra,Emicizumab-kxwh (Hemlibra),Preferred
+PAIN MANAGEMENT,Horizant,Gabapentin Enacarbil Tablet (Horizant),Non-Preferred
+DIABETES,Humalog Junior KwikPen,Insulin Lispro Pen (Humalog Junior KwikPen/KwikPen/Tempo Pen U-100),Non-Preferred
+DIABETES,"Humalog KwikPen, U-100",Insulin Lispro Pen (Humalog Junior KwikPen/KwikPen/Tempo Pen U-100),Non-Preferred
+DIABETES,Humalog vial,"Insulin Lispro Cartridge, Vial (Humalog)",Non-Preferred
+GROWTH DEFICIENCY,Humatrope,Somatropin Cartridge (Humatrope),Non-Preferred
+ONCOLOGY,Hycamtin capsule,Topotecan HCl Capsule (Hycamtin),Preferred
+ONCOLOGY,Hycamtin vial,Topotecan HCl Capsule (Hycamtin),Preferred
+HEMOPHILIA TREATMENT,Hympavzi auto-injector,Marstacimab-hncq (Hympavzi),Non-Preferred
+ONCOLOGY,Ibrance,"Palbociclib Capsule, Tablet (Ibrance)",Non-Preferred
+ONCOLOGY,Iclusig,Ponatinib HCl Tablet (Iclusig),Non-Preferred
+HEMOPHILIA TREATMENT,Idelvion,"Factor IX Recombinant, Albumin Fusion (Idelvion)",Non-Preferred
+ONCOLOGY,Idhifa,Enasidenib Mesylate Tablet (Idhifa),Non-Preferred
+OPHTHALMIC DISORDERS,Ilevro ophthalmic suspension,Nepafenac 0.3% Suspension (Ilevro),Non-Preferred
+ONCOLOGY,Imatinib,Imatinib Mesylate Tablet (Generic),Preferred
+ONCOLOGY,Imbruvica,Ibrutinib Tablet (Imbruvica),Preferred
+ASTHMA/COPD,Incruse Ellipta,Umeclidinium Inhalation Powder (Incruse Ellipta),Non-Preferred
+MOVEMENT DISORDERS,Ingrezza,"Valbenazine Capsule, Sprinkle (Ingrezza)",Preferred
+MOVEMENT DISORDERS,Ingrezza sprinkle capsule,"Valbenazine Capsule, Sprinkle (Ingrezza)",Preferred
+MOVEMENT DISORDERS,Ingrezza titration pack,Valbenazine Capsule Initiation Pack (Ingrezza),Preferred
+DIABETES,Insulin Glargine,"Insulin Glargine Pen, Vial (Generic; Lantus SoloStar; Lantus)",Preferred
+DIABETES,Insulin Lispro,Insulin Lispro (AG for Humalog Junior KwikPen),Preferred
+HIV-AIDS,Intelence,Etravirine Tablet (Generic; Intelence),Preferred
+ANTIPSYCHOTIC AGENTS,Invega ER,Paliperidone ER Tablet (Invega),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Invega Hafyera,Paliperidone Palmitate (Invega Hafyera/Sustenna/Trinza),Preferred
+ANTIPSYCHOTIC AGENTS,Invega Sustenna,Paliperidone Palmitate (Invega Hafyera/Sustenna/Trinza),Preferred
+ANTIPSYCHOTIC AGENTS,Invega Trinza,Paliperidone Palmitate (Invega Hafyera/Sustenna/Trinza),Preferred
+DIABETES,Invokamet,"Canagliflozin/Metformin ER Tablet, Tablet (Invokamet XR; Invokamet)",Non-Preferred
+DIABETES,Invokamet XR,"Canagliflozin/Metformin ER Tablet, Tablet (Invokamet XR; Invokamet)",Non-Preferred
+DIABETES,Invokana,Canagliflozin Tablet (Invokana),Non-Preferred
+OPHTHALMIC DISORDERS,Iopidine ophthalmic solution,Apraclonidine Solution 0.5% (Generic; Iopidine),Non-Preferred
+ASTHMA/COPD,Ipratropium/Albuterol nebulized solution,Ipratropium/Albuterol Sulfate Nebulizer Solution (Generic),Preferred
+DIGESTIVE DISORDERS,Iqirvo tablet,Elafibranor Tablet (Iqirvo),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Irbesartan,Irbesartan (Generic),Preferred
+ONCOLOGY,Iressa,Gefitinib Tablet (Generic; Iressa),Non-Preferred
+HIV-AIDS,Isentress,"Raltegravir Potassium Chewable, Powder Pack, Tablet (Isentress)",Preferred
+ONCOLOGY,Iwilfin,Eflornithine Tablet (Iwilfin),Non-Preferred
+HEMOPHILIA TREATMENT,Ixinity,Factor IX Human Recombinant (Ixinity),Non-Preferred
+ONCOLOGY,Jakafi,Ruxolitinib Phosphate Tablet (Jakafi),Preferred
+DIABETES,Janumet,Sitagliptin Phosphate/Metformin Tablet (Janumet),Preferred
+DIABETES,Januvia,Sitagliptin Phosphate Tablet (Januvia),Preferred
+DIABETES,Jardiance,Empagliflozin Tablet (Jardiance),Preferred
+DIABETES,Jentadueto,Linagliptin/Metformin Tablet (Jentadueto),Preferred
+HEMOPHILIA TREATMENT,Jivi,"Factor VIII, Recombinant, PEGylated-aucl (Jivi)",Preferred
+ADD/ADHD,Jornay PM,"Methylphenidate ER Capsule (Jornay PM, Ritalin LA)",Non-Preferred
+HIV-AIDS,Kaletra,"Lopinavir/Ritonavir Solution, Tablet (Generic; Kaletra)",Preferred
+"CYSTIC FIBROSIS, ORAL",Kalydeco,"Ivacaftor Packet, Tablet (Kalydeco)",Non-Preferred
+ANTICONVULSANTS,Keppra XR,Levetiracetam ER Tablet (Keppra XR),Non-Preferred
+ANTICONVULSANTS,Keppra oral solution,"Levetiracetam Solution, Tablet (Keppra)",Non-Preferred
+ANTICONVULSANTS,Keppra tablet,"Levetiracetam Solution, Tablet (Keppra)",Non-Preferred
+MULTIPLE SCLEROSIS,Kesimpta,Ofatumumab Pen (Kesimpta),Preferred
+ONCOLOGY,Kisqali,Ribociclib Succinate Tablet (Kisqali),Preferred
+INFECTIOUS DISORDERS,Kitabis Pak,Tobramycin Inhalation Solution Pak (AG; Kitabis Pak),Non-Preferred
+OPIATE DEPENDENCE AGENTS,Kloxxado,Naloxone Nasal Spray (Kloxxado),Preferred
+HEMOPHILIA TREATMENT,Kogenate FS,Factor VIII (Kogenate FS),Non-Preferred
+DIABETES,Kombiglyze XR,Saxagliptin/Metformin ER Tablet (Generic; Kombiglyze XR),Non-Preferred
+DIGESTIVE DISORDERS,Konvomep,Omeprazole/Sodium Bicarbonate for Oral Suspension (Konvomep),Non-Preferred
+ONCOLOGY,Koselugo,Selumetinib Capsule (Koselugo),Preferred
+HEMOPHILIA TREATMENT,Kovaltry,Factor VIII (Kovaltry),Preferred
+ONCOLOGY,Krazati,Adagrasib Tablet (Krazati),Non-Preferred
+GOUT AGENTS,Krystexxa,Pegloticase Intravenous (Krystexxa),Non-Preferred
+ANTICONVULSANTS,Lamictal ODT,Lamotrigine ODT (Generic; Lamictal),Non-Preferred
+ANTICONVULSANTS,Lamictal tablet,"Lamotrigine Dispersible Tablet, Tablet (Lamictal)",Non-Preferred
+ANTICONVULSANTS,Lamotrigine,"Lamotrigine Dispersible Tablet, ER Tablet, Tablet (Generic)",Preferred
+DIGESTIVE DISORDERS,Lansoprazole,"Lansoprazole Capsule, ODT (Generic)",Preferred
+H. PYLORI TREATMENT,Lansoprazole / Amoxicillin / Clarithromycin,Lansoprazole/Amoxicillin/Clarithromycin (Generic for Prevpac),Non-Preferred
+DIABETES,Lantus SoloStar,"Insulin Glargine Pen, Vial (Generic; Lantus SoloStar; Lantus)",Preferred
+DIABETES,Lantus vial,"Insulin Glargine Pen, Vial (Generic; Lantus SoloStar; Lantus)",Preferred
+ANTIPSYCHOTIC AGENTS,Latuda,Lurasidone Tablet (Latuda),Non-Preferred
+INFECTIOUS DISORDERS,Ledipasvir / Sofosbuvir,Ledipasvir/Sofosbuvir Tablet (AG; Harvoni),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Letairis,Ambrisentan Tablet (Letairis),Non-Preferred
+COLONY STIMULATING FACTORS,Leukine,Sargramostim Vial (Leukine),Non-Preferred
+ASTHMA/COPD,Levalbuterol Tartrate inhalation aerosol solution,Levalbuterol Nebulizer Solution (Generic),Non-Preferred
+DIABETES,Levemir FlexTouch,"Insulin Detemir Pen, Vial (Levemir)",Non-Preferred
+DIABETES,Levemir vial,"Insulin Detemir Pen, Vial (Levemir)",Non-Preferred
+HIV-AIDS,Lexiva,Fosamprenavir Tablet (Generic for Lexiva),Preferred
+ANTICONVULSANTS,Libervant buccal film,Diazepam Buccal Film (Libervant),Non-Preferred
+"GI MOTILITY, CHRONIC",Linzess,Linaclotide Capsule (Linzess),Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Lisinopril,Lisinopril (Generic),Preferred
+DIGESTIVE DISORDERS,Livdelzi capsule,Seladelpar Capsule (Livdelzi),Non-Preferred
+DIGESTIVE DISORDERS,Livmarli Alagille Syndrome (ALGS),Maralixibat Solution (Livmarli),Non-Preferred
+DIGESTIVE DISORDERS,Livmarli Progressive Familial Intrahepatic Cholestasis (PFIC),Maralixibat Solution (Livmarli),Non-Preferred
+POTASSIUM BINDERS,Lokelma,Sodium Zirconium Cyclosilicate Packet (Lokelma),Preferred
+ONCOLOGY,Lorbrena,Lorlatinib Tablet (Lorbrena),Non-Preferred
+PAIN MANAGEMENT,Lorzone,Chlorzoxazone Tablet (Generic; Lorzone),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Losartan,Losartan (Generic),Preferred
+OPIATE DEPENDENCE AGENTS,Lucemyra,Lofexidine Tablet (Generic; Lucemyra),Non-Preferred
+ONCOLOGY,Lumakras,Sotorasib Tablet (Lumakras),Non-Preferred
+OPHTHALMIC DISORDERS,Lumigan 2.5 mL,"Bimatoprost 0.01% Solution 2.5 mL, 5mL, 7.5mL (Lumigan)",Non-Preferred
+OPHTHALMIC DISORDERS,Lumigan 5 mL,"Bimatoprost 0.01% Solution 2.5 mL, 5mL, 7.5mL (Lumigan)",Non-Preferred
+OPHTHALMIC DISORDERS,Lumigan 7.5 mL,"Bimatoprost 0.01% Solution 2.5 mL, 5mL, 7.5mL (Lumigan)",Non-Preferred
+PITUITARY SUPPRESSIVE AGENTS,Lupron Depot-Ped 1-Month,Leuprolide Acetate (Lupron Depot-Ped Kit; Lupron Depot-Ped),Non-Preferred
+PITUITARY SUPPRESSIVE AGENTS,Lupron Depot-Ped 3-Month,Leuprolide Acetate (Lupron Depot-Ped Kit; Lupron Depot-Ped),Non-Preferred
+PITUITARY SUPPRESSIVE AGENTS,Lupron Depot-Ped 6-Month,Leuprolide Acetate (Lupron Depot-Ped Kit; Lupron Depot-Ped),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Lurasidone,Lurasidone Tablet (Generic),Preferred
+ANTIPSYCHOTIC AGENTS,Lybalvi,Olanzapine/Samidorphan Tablet (Lybalvi),Non-Preferred
+ONCOLOGY,Lynparza,"Olaparib Capsule, Tablet (Lynparza)",Non-Preferred
+PAIN MANAGEMENT,Lyrica,Pregabalin Capsule (Lyrica),Non-Preferred
+DIABETES,"Lyumjev KwikPen, U-100",Insulin Lispro-aabc Pen (Lyumjev KwikPen; Lyumjev Tempo Pen),Non-Preferred
+DIABETES,"Lyumjev KwikPen, U-200",Insulin Lispro-aabc Pen (Lyumjev KwikPen; Lyumjev Tempo Pen),Non-Preferred
+DIABETES,Lyumjev vial,Insulin Lispro-aabc Vial (Lyumjev),Non-Preferred
+PAIN MANAGEMENT,Lyvispah,Baclofen Granule Pack (Lyvispah),Non-Preferred
+INFECTIOUS DISORDERS,Mavyret,"Glecaprevir/Pibrentasvir Pellet Pack, Tablet (Mavyret)",Non-Preferred
+OPHTHALMIC DISORDERS,Maxidex ophthalmic suspension,Dexamethasone Suspension (Maxidex),Non-Preferred
+OPHTHALMIC DISORDERS,Maxitrol ophthalmic ointment,"Neomycin/Polymyxin B/Dexamethasone Ointment, Suspension (Maxitrol)",Non-Preferred
+OPHTHALMIC DISORDERS,Maxitrol ophthalmic suspension,"Neomycin/Polymyxin B/Dexamethasone Ointment, Suspension (Maxitrol)",Non-Preferred
+ALZHEIMER’S AGENTS,Memantine XR,Memantine ER Capsule (AG; Generic; Namenda XR),Non-Preferred
+ALZHEIMER’S AGENTS,Memantine oral solution,Memantine Solution (Generic),Non-Preferred
+ALZHEIMER’S AGENTS,Memantine tablet,Memantine Tablet (AG; Generic),Preferred
+PAIN MANAGEMENT,Metaxalone,Metaxalone Tablet (Generic),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Metoprolol Succinate ER tablet,Metoprolol Succinate ER Tablet (AG; Generic),Preferred
+INFECTIOUS DISORDERS,Metrogel 0.75%,Metronidazole Vaginal Gel (Generic for MetroGel-Vaginal),Preferred
+INFECTIOUS DISORDERS,Metronidazole 0.75% Gel,Metronidazole Vaginal Gel (Generic for MetroGel-Vaginal),Preferred
+OPHTHALMIC DISORDERS,Miebo,Perfluorohexyloctane/PF (Miebo),Non-Preferred
+ENZYME REPLACEMENTS,Miglustat capsule,Miglustat Capsule (AG; Generic; Zavesca),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Moexipril,Moexipril (Generic),Non-Preferred
+ANTICONVULSANTS,Motpoly XR,"Lacosamide ER Capsule, Tablet (Motpoly XR; Vimpat)",Non-Preferred
+DIABETES,Mounjaro,Tirzepatide Pen (Mounjaro),Non-Preferred
+THROMBOPOIESIS STIMULATING PROTEINS,Mulpleta,Lusutrombopag Tablet (Mulpleta),Non-Preferred
+UTERINE DISORDER TREATMENTS,Myfembree Endometriosis,Relugolix/Estradiol/Norethindrone Acetate (Myfembree),Preferred
+UTERINE DISORDER TREATMENTS,Myfembree Uterine Fibroids,Relugolix/Estradiol/Norethindrone Acetate (Myfembree),Preferred
+OPIATE DEPENDENCE AGENTS,Naloxone carpuject,"Naloxone Syringe, Vial (Generic)",Preferred
+OPIATE DEPENDENCE AGENTS,Naloxone nasal spray,Naloxone Nasal Spray Rx (AG; Generic),Preferred
+OPIATE DEPENDENCE AGENTS,Naloxone vial,"Naloxone Syringe, Vial (Generic)",Preferred
+ALZHEIMER’S AGENTS,Namenda XR,Memantine ER Capsule (AG; Generic; Namenda XR),Non-Preferred
+ALZHEIMER’S AGENTS,Namzaric,"Memantine/Donepezil ER Capsule (Namzaric, Namzaric Titration Pack)",Non-Preferred
+OPIATE DEPENDENCE AGENTS,Narcan,Naloxone Nasal Spray Rx (Narcan; Rextovy),Non-Preferred
+OPHTHALMIC DISORDERS,Natacyn (Natamycin) ophthalmic suspension,Natamycin Suspension (Natacyn),Non-Preferred
+DERMATOLOGY,Natroba,Spinosad Suspension (Natroba),Non-Preferred
+ANTICONVULSANTS,Nayzilam,Midazolam Nasal Spray (Nayzilam),Preferred
+"EPINEPHRINE, SELF-ADMINISTERED",Neffy nasal solution,Epinephrine Nasal Spray (Neffy),Non-Preferred
+COLONY STIMULATING FACTORS,Neulasta,"Pegfilgrastim Kit, Syringe (Neulasta)",Non-Preferred
+COLONY STIMULATING FACTORS,Neulasta Onpro,"Pegfilgrastim Kit, Syringe (Neulasta)",Non-Preferred
+COLONY STIMULATING FACTORS,Neupogen,"Filgrastim Syringe, Vial (Neupogen)",Preferred
+OPHTHALMIC DISORDERS,Nevanac ophthalmic suspension,Nepafenac 0.1% Suspension (Nevanac),Non-Preferred
+ONCOLOGY,Nexavar,Sorafenib Tosylate Tablet (Generic; Nexavar),Preferred
+DIGESTIVE DISORDERS,Nexium DR capsule,Esomeprazole Capsule (Generic; Nexium),Non-Preferred
+DIGESTIVE DISORDERS,Nexium DR packet for oral suspension,Esomeprazole Suspension (Nexium),Non-Preferred
+GROWTH DEFICIENCY,Ngenla,Somatrogon-ghla Pen (Ngenla),Non-Preferred
+ONCOLOGY,Ninlaro,Ixazomib Citrate Capsule (Ninlaro),Non-Preferred
+COLONY STIMULATING FACTORS,Nivestym,"Filgrastim-aafi Syringe, Vial (Nivestym)",Non-Preferred
+GROWTH DEFICIENCY,Norditropin,Somatropin Pen (Norditropin FlexPro),Preferred
+PAIN MANAGEMENT,Norgesic Forte,Orphenadrine/Aspirin/Caffeine (Generic; Norgesic Forte),Non-Preferred
+HIV-AIDS,Norvir,Ritonavir Powder Pack (Norvir),Preferred
+HEMOPHILIA TREATMENT,Novoeight,"Factor VIII, B-Domain-Truncated (Novoeight)",Preferred
+DIABETES,Novolin 70/30,"Insulin Isophane (NPH)/Insulin Regular Pen OTC, Vial OTC (Novolin 70/30)",Non-Preferred
+DIABETES,Novolin 70/30 Flexpen OTC,"Insulin Isophane (NPH)/Insulin Regular Pen OTC, Vial OTC (Novolin 70/30)",Non-Preferred
+DIABETES,Novolin N,"Insulin Human Pen OTC, Vial OTC (Novolin N; Novolin R)",Non-Preferred
+DIABETES,Novolin R,"Insulin Human Pen OTC, Vial OTC (Novolin N; Novolin R)",Non-Preferred
+DIABETES,Novolog,"Insulin Aspart Cartridge, Pen, Vial (Novolog)",Non-Preferred
+DIABETES,Novolog 70/30,"Insulin Aspart Protamine/Aspart Pen, Vial (Novolog Mix 70/30)",Non-Preferred
+DIABETES,Novolog 70/30 FlexPen,"Insulin Aspart Protamine/Aspart Pen, Vial (Novolog Mix 70/30)",Non-Preferred
+DIABETES,Novolog FlexPen,"Insulin Aspart Cartridge, Pen, Vial (Novolog)",Non-Preferred
+DIABETES,Novolog cartridge,"Insulin Aspart Cartridge, Pen, Vial (Novolog)",Non-Preferred
+HEMOPHILIA TREATMENT,Novoseven RT,"Factor VIIa, Recombinant (NovoSeven RT)",Preferred
+THROMBOPOIESIS STIMULATING PROTEINS,Nplate,Romiplostim Vial (Nplate),Non-Preferred
+ONCOLOGY,Nubeqa,Darolutamide Tablet (Nubeqa),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Nuplazid,"Pimavanserin Capsule, Tablet (Nuplazid)",Non-Preferred
+PAIN MANAGEMENT,Nurtec ODT Acute Treatment,Rimegepant Disintegrating Tablet (Nurtec ODT),Non-Preferred
+PAIN MANAGEMENT,Nurtec ODT Migraine Prophylaxis,Rimegepant Disintegrating Tablet (Nurtec ODT),Non-Preferred
+GROWTH DEFICIENCY,Nutropin AQ,Somatropin Pen (Nutropin AQ NuSpin),Non-Preferred
+INFECTIOUS DISORDERS,Nuvessa,Metronidazole Vaginal Gel (Nuvessa),Preferred
+HEMOPHILIA TREATMENT,Nuwiq,"Factor VIII, HEK B-Domain-Deleted (Nuwiq)",Preferred
+COLONY STIMULATING FACTORS,Nyvepria,Pegfilgrastim-apgf Syringe (Nyvepria),Non-Preferred
+MULTIPLE SCLEROSIS,Ocrevus,Ocrelizumab Vial (Ocrevus),Non-Preferred
+MULTIPLE SCLEROSIS,Ocrevus Zunovo subcutaneous vial,Ocrelizumab Vial (Ocrevus),Non-Preferred
+"ANTI-ALLERGENS, ORAL",Odactra,House Dust Mite Allergen Extract Sublingual Tablet (Odactra),Non-Preferred
+HIV-AIDS,Odefsey,Emtricitabine/Rilpivirine/Tenofovir AF Tablet (Odefsey),Preferred
+IDIOPATHIC PULMONARY FIBROSIS,Ofev,Nintedanib Capsule (Ofev),Preferred
+ONCOLOGY,Ogsiveo,Nirogacestat Tablet (Ogsiveo),Non-Preferred
+ONCOLOGY,Ojemda,"Tovorafenib Suspension, Tablet (Ojemda)",Non-Preferred
+ANTIPSYCHOTIC AGENTS,Olanzapine And Fluoxetine,Olanzapine/Fluoxetine Capsule (Generic; Symbyax),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Olanzapine ODT,"Olanzapine ODT, Tablet (Generic)",Preferred
+ANTIPSYCHOTIC AGENTS,Olanzapine tablet,"Olanzapine ODT, Tablet (Generic)",Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Olmesartan,Olmesartan (AG; Generic),Preferred
+UREA CYCLE DISORDERS,Olpruva,Sodium Phenylbutyrate Pellet for Oral Suspension (Olpruva),Non-Preferred
+H. PYLORI TREATMENT,Omeclamox-Pak,Omeprazole/Clarithromycin/Amoxicillin (Omeclamox-Pak),Non-Preferred
+DIGESTIVE DISORDERS,Omeprazole capsule,Omeprazole Capsule Rx (Generic),Preferred
+GROWTH DEFICIENCY,Omnitrope,"Somatropin Cartridge, Vial (Omnitrope)",Non-Preferred
+ANTICONVULSANTS,Onfi oral suspension,"Clobazam Suspension, Tablet (Onfi)",Non-Preferred
+ANTICONVULSANTS,Onfi tablet,"Clobazam Suspension, Tablet (Onfi)",Non-Preferred
+DIABETES,Onglyza,Saxagliptin Tablet (Generic; Onglyza),Non-Preferred
+ONCOLOGY,Onureg,Azacitidine Tablet (Onureg),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Opsumit,Macitentan Tablet (Opsumit),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Opsynvi tablet,Macitentan and Tadalafil Tablet (Opsynvi),Non-Preferred
+OPIATE DEPENDENCE AGENTS,Opvee (Nalmefene),Nalmefene Nasal Spray (Opvee),Non-Preferred
+DERMATOLOGY,"Opzelura cream, Atopic Dermatitis",Ruxolitinib Cream (Opzelura),Preferred
+DERMATOLOGY,"Opzelura cream, Nonsegmental Vitiligo",Ruxolitinib Cream (Opzelura),Preferred
+"ANTI-ALLERGENS, ORAL",Oralair,Mixed Grass Allergen Extracts Sublingual Tablet (Oralair),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Orenitram ER,"Treprostinil ER Tablet, Titration Kit (Orenitram ER; Orenitram Month 1/2/3)",Non-Preferred
+UTERINE DISORDER TREATMENTS,Oriahnn,Elagolix/Estradiol/Norethindrone Capsule (Oriahnn),Preferred
+UTERINE DISORDER TREATMENTS,Orilissa,Elagolix Tablet (Orilissa),Preferred
+HEREDITARY ANGIOEDEMA,Orladeyo,Berotralstat Hydrochloride Capsule (Orladeyo),Non-Preferred
+PAIN MANAGEMENT,Orphenadrine ER,Orphenadrine ER Tablet (Generic),Non-Preferred
+"ANTIVIRALS, ORAL",Oseltamivir,"Oseltamivir Capsule, Suspension (Generic)",Preferred
+DIABETES,Ozempic,Semaglutide Pen (Ozempic),Preferred
+OPHTHALMIC DISORDERS,Ozurdex,Dexamethasone Intravitreal Implant (Ozurdex),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Paliperidone ER,Paliperidone ER Tablet (AG; Generic),Preferred
+DIGESTIVE DISORDERS,Pantoprazole DR packet for oral suspension,Pantoprazole Suspension (Generic; Protonix),Non-Preferred
+DIGESTIVE DISORDERS,Pantoprazole tablet,Pantoprazole Tablet (Generic),Preferred
+DEPRESSION,"Paroxetine 7.5 mg, IR capsule",Paroxetine Mesylate Capsule (AG; Generic for Brisdelle),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Perindopril,Perindopril (Generic),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Perseris,Risperidone ER Suspension (SQ) (Perseris; Uzedy),Preferred
+UREA CYCLE DISORDERS,Pheburane,Sodium Phenylbutyrate Pellet (Pheburane),Preferred
+MULTIPLE SCLEROSIS,Ponvory starter pack,"Ponesimod Starter Pack, Tablet (Ponvory)",Non-Preferred
+MULTIPLE SCLEROSIS,Ponvory tablet,"Ponesimod Starter Pack, Tablet (Ponvory)",Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Pradaxa,"Dabigatran Capsule, Pellet Pack (Pradaxa)",Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Praluent,Alirocumab Subcutaneous Pen (Praluent),Non-Preferred
+DIGESTIVE DISORDERS,Prevacid SoluTab,Lansoprazole ODT (Prevacid SoluTab),Non-Preferred
+DIGESTIVE DISORDERS,Prevacid capsule,Lansoprazole Capsule (Prevacid),Non-Preferred
+HIV-AIDS,Prezcobix,Darunavir/Cobicistat Tablet (Prezcobix),Preferred
+HIV-AIDS,Prezista oral suspension,Darunavir Ethanolate Suspension (Prezista),Preferred
+HIV-AIDS,Prezista tablet,Darunavir Ethanolate Tablet (Generic; Prezista),Preferred
+DIGESTIVE DISORDERS,Prilosec DR packet for oral suspension,Omeprazole Granules for Suspension (Prilosec),Non-Preferred
+ASTHMA/COPD,Proair Digihaler,Albuterol Sulfate Inhalation Powder (ProAir Digihaler),Non-Preferred
+ASTHMA/COPD,Proair Respiclick,Albuterol Sulfate Inhalation Powder (ProAir RespiClick),Non-Preferred
+"HEMATOLOGIC AGENTS, HEMATOPOIETIC AGENTS",Procrit,Epoetin alfa Vial (Procrit),Non-Preferred
+"IMMUNOSUPPRESSIVES, ORAL",Prograf capsule,"Tacrolimus Capsule, Granule Packet (Prograf)",Non-Preferred
+"IMMUNOSUPPRESSIVES, ORAL",Prograf packet for oral suspension,"Tacrolimus Capsule, Granule Packet (Prograf)",Non-Preferred
+THROMBOPOIESIS STIMULATING PROTEINS,Promacta oral suspension,Eltrombopag Olamine Suspension Packet (Promacta),Non-Preferred
+THROMBOPOIESIS STIMULATING PROTEINS,Promacta tablet,Eltrombopag Olamine Tablet (Promacta),Preferred
+DIGESTIVE DISORDERS,Protonix DR packet oral suspension,Pantoprazole Suspension (Generic; Protonix),Non-Preferred
+DIGESTIVE DISORDERS,Protonix DR tablet,Pantoprazole Tablet (Protonix),Non-Preferred
+ASTHMA/COPD,Pulmicort Flexhaler,Budesonide DPI (Pulmicort Flexhaler),Non-Preferred
+ASTHMA/COPD,Pulmicort Respules 0.25 mg,"Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Pulmicort Respules)",Non-Preferred
+ASTHMA/COPD,Pulmicort Respules 0.5 mg,"Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Pulmicort Respules)",Non-Preferred
+ASTHMA/COPD,Pulmicort Respules 1 mg,"Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Pulmicort Respules)",Non-Preferred
+H. PYLORI TREATMENT,Pylera,Bismuth Subcitrate /Metronidazole/Tetracycline (Pylera),Non-Preferred
+ADD/ADHD,Qelbree,Viloxazine ER Capsule (Qelbree),Non-Preferred
+DIABETES,Qtern,Saxagliptin/Dapagliflozin Tablet (Qtern) (See SGLT2 Criteria),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Quetiapine,Quetiapine Tablet (Generic),Preferred
+ANTIPSYCHOTIC AGENTS,Quetiapine ER,Quetiapine ER Tablet (Generic),Preferred
+ADD/ADHD,Quillichew XR,"Methylphenidate ER Chewable, ER Suspension (QuilliChew ER; Quillivant XR)",Non-Preferred
+ADD/ADHD,Quillivant XR,"Methylphenidate ER Chewable, ER Suspension (QuilliChew ER; Quillivant XR)",Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Quinapril,Quinapril (Generic; Accupril),Non-Preferred
+PAIN MANAGEMENT,Qulipta,Atogepant Tablet (Qulipta),Preferred
+ASTHMA/COPD,Qvar,Beclomethasone Breath-Actuated HFA (QVAR RediHaler),Preferred
+DIGESTIVE DISORDERS,Rabeprazole tablet,Rabeprazole Tablet (Generic for AcipHex),Non-Preferred
+"ANTI-ALLERGENS, ORAL",Ragwitek,Ragweed Pollen Allergen Extract Sublingual Tablet (Ragwitek),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Ramipril,Ramipril (Generic),Preferred
+UREA CYCLE DISORDERS,Ravicti,Glycerol Phenylbutyrate (Ravicti),Non-Preferred
+MULTIPLE SCLEROSIS,Rebif (Interferon Beta-1a) prefilled syringe,"Interferon β-1a Syringe, Titration Pack (Rebif)",Non-Preferred
+HEMOPHILIA TREATMENT,Rebinyn,"Factor IX Human Recombinant, GlycoPEGylated (Rebinyn)",Preferred
+"HEMATOLOGIC AGENTS, HEMATOPOIETIC AGENTS",Reblozyl (Luspatercept-Aamt) vial,Luspatercept-aamt Vial (Reblozyl),Non-Preferred
+COLONY STIMULATING FACTORS,Releuko,"Filgrastim-ayow Syringe, Vial (Releuko)",Non-Preferred
+HEMODIALYSIS,Renvela,Sevelamer Carbonate Tablet (Renvela),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Repatha,Evolocumab Prefilled Syringe (Repatha),Preferred
+OPHTHALMIC DISORDERS,Restasis,"Cyclosporine 0.05% Emulsion (Restasis, Restasis Multidose)",Non-Preferred
+OPHTHALMIC DISORDERS,Restasis MultiDose,"Cyclosporine 0.05% Emulsion (Restasis, Restasis Multidose)",Non-Preferred
+ONCOLOGY,Retevmo,Selpercatinib Capsule (Retevmo),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Revatio oral suspension,"Sildenafil Suspension, Tablet (Revatio)",Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Revatio tablet,"Sildenafil Suspension, Tablet (Revatio)",Non-Preferred
+ONCOLOGY,Revlimid,Lenalidomide Capsule (Generic; Revlimid),Preferred
+ANTIPSYCHOTIC AGENTS,Rexulti Adjunct Treatment of Major Depressive Disorder,Brexpiprazole Tablet (Rexulti),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Rexulti Schizophrenia,Brexpiprazole Tablet (Rexulti),Non-Preferred
+HIV-AIDS,Reyataz,"Atazanavir Capsule, Powder Pack (Reyataz)",Preferred
+PAIN MANAGEMENT,Reyvow,Lasmiditan Tablet (Reyvow),Non-Preferred
+ONCOLOGY,Rezlidhia,Olutasidenib Capsule (Rezlidhia),Non-Preferred
+"IMMUNOSUPPRESSIVES, ORAL",Rezurock,Belumosudil Tablet (Rezurock),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Risperdal Consta,Risperidone ER Suspension (IM) (Generic; Risperdal Consta),Preferred
+ANTIPSYCHOTIC AGENTS,Risperdal oral solution,"Risperidone Solution, Tablet (Risperdal)",Non-Preferred
+ANTIPSYCHOTIC AGENTS,Risperdal tablet,"Risperidone Solution, Tablet (Risperdal)",Non-Preferred
+ANTIPSYCHOTIC AGENTS,Risperidone ODT,Risperidone ODT (Generic),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Risperidone oral solution,"Risperidone Solution, Tablet (Generic)",Preferred
+ANTIPSYCHOTIC AGENTS,Risperidone tablet,"Risperidone Solution, Tablet (Generic)",Preferred
+ALZHEIMER’S AGENTS,Rivastigmine capsule,Rivastigmine Capsule (Generic),Preferred
+ALZHEIMER’S AGENTS,Rivastigmine patch,Rivastigmine Transdermal Patch (AG; Generic),Preferred
+HEMOPHILIA TREATMENT,Rixubis,Factor IX Recombinant (Rixubis),Non-Preferred
+HEMOPHILIA TREATMENT,Roctavian,Valoctocogene Roxaparvovec-rvox (Roctavian),Non-Preferred
+COLONY STIMULATING FACTORS,Rolvedon prefilled syringe,Eflapegrastim-xnst Syringe (Rolvedon),Non-Preferred
+ONCOLOGY,Rozlytrek (Entrectinib) capsule,"Entrectinib Capsule, Pellet Pack (Rozlytrek)",Non-Preferred
+ONCOLOGY,Rozlytrek (Entrectinib) pellet packet,"Entrectinib Capsule, Pellet Pack (Rozlytrek)",Non-Preferred
+ONCOLOGY,Rubraca,Rucaparib Camsylate Tablet (Rubraca),Non-Preferred
+HEREDITARY ANGIOEDEMA,Ruconest,"C1 Esterase Inhibitor, Recombinant Intravenous Vial (Ruconest)",Non-Preferred
+DIABETES,Rybelsus,Semaglutide Tablet (Rybelsus),Preferred
+ONCOLOGY,Rydapt,Midostaurin Capsule (Rydapt),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Rykindo,Risperidone ER Suspension (Intramuscular) (Rykindo),Non-Preferred
+ANTICONVULSANTS,Sabril packet for oral solution,"Vigabatrin Powder Pack, Tablet (Sabril)",Non-Preferred
+ANTICONVULSANTS,Sabril tablet,"Vigabatrin Powder Pack, Tablet (Sabril)",Non-Preferred
+LUPUS IMMUNOMODULATORS,Saphnelo,Anifrolumab-fnia Vial (Saphnelo),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Saphris,Asenapine Sublingual Tablet (AG; Generic; Saphris),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Savaysa,Edoxaban Tablet (Savaysa),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Secuado,Asenapine Transdermal Patch (Secuado),Non-Preferred
+DIABETES,Segluromet,Ertugliflozin/Metformin Tablet (Segluromet),Non-Preferred
+PRENATAL VITAMINS,Select-Ob + Dha,PNV 33/Iron/FA/DHA (Select-OB + DHA),Preferred
+PRENATAL VITAMINS,Select-Ob Tab Chew,PNV 13/Iron PS/Folate 1 Chew (Select-OB),Non-Preferred
+HIV-AIDS,Selzentry,Maraviroc Tablet (Generic; Selzentry),Preferred
+DIABETES,Semglee,"Insulin Glargine-yfgn Pen, Vial (Generic; Semglee)",Non-Preferred
+ANTIPSYCHOTIC AGENTS,Seroquel,"Quetiapine ER Tablet, Tablet (Seroquel XR; Seroquel)",Non-Preferred
+ANTIPSYCHOTIC AGENTS,Seroquel XR,"Quetiapine ER Tablet, Tablet (Seroquel XR; Seroquel)",Non-Preferred
+HEMODIALYSIS,Sevelamer carbonate tablets,Sevelamer Carbonate Tablet (AG; Generic),Preferred
+HEMODIALYSIS,Sevelamer hydrochloride tablets,Sevelamer HCl Tablet (AG; Generic for RenaGel),Non-Preferred
+HEMOPHILIA TREATMENT,SevenFACT,"Factor VIIa, (Recombinant)-jncw (Sevenfact)",Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Sildenafil 20 mg,"Sildenafil Oral Suspension, Tablet (Generic for Revatio)",Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Sildenafil oral suspension,"Sildenafil Oral Suspension, Tablet (Generic for Revatio)",Preferred
+GROWTH DEFICIENCY,Skytrofa,Lonapegsomatropin-tcgd Cartridge (Skytrofa),Non-Preferred
+UREA CYCLE DISORDERS,Sodium Phenylbutyrate powder,"Sodium Phenylbutyrate Powder, Tablet (Generic; Buphenyl)",Non-Preferred
+UREA CYCLE DISORDERS,Sodium Phenylbutyrate tablet,"Sodium Phenylbutyrate Powder, Tablet (Generic; Buphenyl)",Non-Preferred
+POTASSIUM BINDERS,Sodium Polystyrene Sulfonate,Sodium Polystyrene Sulfonate Powder (Generic),Preferred
+INFECTIOUS DISORDERS,Sofosbuvir / Velpatasvir,Sofosbuvir/Velpatasvir Tablet (AG for Epclusa),Preferred
+GROWTH DEFICIENCY,Sogroya,Somapacitan-beco Pen (Sogroya),Non-Preferred
+DIABETES,Soliqua,Lixisenatide/ Insulin Glargine (Soliqua) (See Insulins & Related Agents Criteria),Non-Preferred
+INFECTIOUS DISORDERS,Solosec,Secnidazole Oral Granules (SolosecTM),Non-Preferred
+PAIN MANAGEMENT,Soma,"Carisoprodol Tablet 250 mg, 350 mg (Generic; Soma)",Non-Preferred
+ONCOLOGY,Sorafenib,Sorafenib Tosylate Tablet (Generic; Nexavar),Preferred
+INFECTIOUS DISORDERS,Sovaldi,"Sofosbuvir Pellet Pack, Tablet (Sovaldi)",Non-Preferred
+DERMATOLOGY,Spinosad topical suspension,Spinosad Suspension (AG for Natroba),Preferred
+SPINAL MUSCULAR ATROPHY,Spinraza,Nusinersen (Spinraza),Non-Preferred
+ASTHMA/COPD,Spiriva Handihaler inhalation capsule,"Tiotropium Bromide Inhalation Powder, Spray (Spiriva HandiHaler/Respimat)",Non-Preferred
+ASTHMA/COPD,Spiriva Respimat inhalation aerosol solution,"Tiotropium Bromide Inhalation Powder, Spray (Spiriva HandiHaler/Respimat)",Non-Preferred
+DEPRESSION,Spravato,Esketamine Nasal Spray (Spravato),Non-Preferred
+DIABETES,Steglatro,Ertugliflozin Tablet (Steglatro),Non-Preferred
+DIABETES,Steglujan,Sitagliptin Phosphate/Ertugliflozin Tablet (Steglujan) (See SGLT2 Criteria),Non-Preferred
+COLONY STIMULATING FACTORS,Stimufend prefilled syringe,Pegfilgrastim-fpgk Syringe (Stimufend),Non-Preferred
+ASTHMA/COPD,Stiolto Respimat,Tiotropium/Olodaterol (Stiolto Respimat),Preferred
+ONCOLOGY,Stivarga,Regorafenib Tablet (Stivarga),Non-Preferred
+HIV-AIDS,Stribild,Elvitegravir/Cobicistat/Emtricitabine/Tenofovir DF (Stribild),Preferred
+OPIATE DEPENDENCE AGENTS,Sublocade,Buprenorphine Syringe (Sublocade; Brixadi),Preferred
+OPIATE DEPENDENCE AGENTS,Suboxone,Buprenorphine/Naloxone Sublingual Film (Suboxone),Non-Preferred
+PAIN MANAGEMENT,Sumatriptan / Naproxen sodium tablet,Sumatriptan/Naproxen (Generic for Treximet),Non-Preferred
+ADD/ADHD,Sunosi,Solriamfetol HCl Tablet (Sunosi),Non-Preferred
+PITUITARY SUPPRESSIVE AGENTS,Supprelin LA,Histrelin Implant Kit (Supprelin LA),Non-Preferred
+ASTHMA/COPD,Symbicort,Budesonide/Formoterol MDI (Symbicort),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Symbyax,Olanzapine/Fluoxetine Capsule (Generic; Symbyax),Non-Preferred
+"EPINEPHRINE, SELF-INJECTED",Symjepi 0.15 mg,Epinephrine Syringe (Symjepi),Non-Preferred
+"EPINEPHRINE, SELF-INJECTED",Symjepi 0.3 mg,Epinephrine Syringe (Symjepi),Non-Preferred
+ANTICONVULSANTS,Sympazan oral film,Clobazam Film (Sympazan),Non-Preferred
+HIV-AIDS,Symtuza,Darunavir/Cobicistat/Emtricitabine/Tenofovir AF (Symtuza),Preferred
+PITUITARY SUPPRESSIVE AGENTS,Synarel,Nafarelin Acetate Nasal Solution (Synarel),Preferred
+DIABETES,Synjardy,Empagliflozin/Metformin Tablet (Synjardy),Preferred
+DIABETES,Synjardy XR,Empagliflozin/Metformin ER Tablet (Synjardy XR),Non-Preferred
+ONCOLOGY,Tabrecta,Capmatinib Tablet (Tabrecta),Non-Preferred
+"IMMUNOSUPPRESSIVES, ORAL",Tacrolimus capsule,Tacrolimus Capsule (Generic),Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Tadalafil,Tadalafil Tablet (Generic for Adcirca),Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Tadliq,Tadalafil Suspension (Tadliq),Non-Preferred
+ONCOLOGY,Tagrisso,Osimertinib Mesylate Tablet (Tagrisso),Preferred
+HEREDITARY ANGIOEDEMA,Takhzyro prefilled syringe,"Lanadelumab-flyo Subcutaneous Syringe, Vial (Takhzyro)",Non-Preferred
+HEREDITARY ANGIOEDEMA,Takhzyro vial,"Lanadelumab-flyo Subcutaneous Syringe, Vial (Takhzyro)",Non-Preferred
+H. PYLORI TREATMENT,Talicia,Omeprazole/Amoxicillin/Rifabutin (Talicia),Preferred
+ONCOLOGY,Talzenna,Talazoparib Capsule (Talzenna),Non-Preferred
+"ANTIVIRALS, ORAL",Tamiflu,"Oseltamivir Capsule, Suspension (Tamiflu)",Non-Preferred
+ONCOLOGY,Tarceva,Erlotinib HCl Tablet (Generic; Tarceva),Non-Preferred
+"GLUCOCORTICOIDS, ORAL",Tarpeyo,Budesonide DR Capsule (Tarpeyo),Non-Preferred
+THROMBOPOIESIS STIMULATING PROTEINS,Tavalisse,Fostamatinib Disodium Hexahydrate Tablet (Tavalisse),Non-Preferred
+"IMMUNOSUPPRESSIVES, ORAL",Tavneos,Avacopan Capsule (Tavneos),Non-Preferred
+ONCOLOGY,Tazverik,Tazemetostat Tablet (Tazverik),Non-Preferred
+MULTIPLE SCLEROSIS,Tecfidera (Dimethyl Fumarate) DR capsule,"Dimethyl Fumarate Capsule, Starter Pack (Tecfidera)",Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Telmisartan,Telmisartan (Generic; Micardis),Non-Preferred
+MULTIPLE SCLEROSIS,Teriflunomide,Teriflunomide Tablet (Generic),Preferred
+OSTEOPOROSIS,Teriparatide,Teriparatide Pen (Generic; Forteo),Non-Preferred
+MOVEMENT DISORDERS,Tetrabenazine,Tetrabenazine Tablet (Generic),Preferred
+ONCOLOGY,Tibsovo,Ivosidenib Tablet (Tibsovo),Non-Preferred
+HIV-AIDS,Tivicay,"Dolutegravir Sodium Suspension, Tablet (Tivicay PD; Tivicay)",Preferred
+INFECTIOUS DISORDERS,Tobi,Tobramycin Solution (Tobi),Non-Preferred
+INFECTIOUS DISORDERS,Tobi Podhaler,Tobramycin Capsule (Tobi Podhaler),Preferred
+OPHTHALMIC DISORDERS,Tobradex ST ophthalmic suspension,Tobramycin/Dexamethasone ST (TobraDex ST),Non-Preferred
+OPHTHALMIC DISORDERS,Tobramycin,Tobramycin Solution (Generic),Preferred
+INFECTIOUS DISORDERS,Tobramycin generic Bethkis,Tobramycin Solution (AG; Generic; Bethkis),Non-Preferred
+ANTICONVULSANTS,Topamax Sprinkle,"Topiramate Sprinkle, Tablet (Topamax)",Non-Preferred
+ANTICONVULSANTS,Topiramate tablet,Topiramate Tablet (Generic; Topiragen),Preferred
+DIABETES,Toujeo Max Solostar,"Insulin Glargine Pen (Generic; Toujeo Solostar, Toujeo Max Solostar)",Non-Preferred
+DIABETES,Toujeo Solostar,"Insulin Glargine Pen (Generic; Toujeo Solostar, Toujeo Max Solostar)",Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Tracleer,"Bosentan Suspension, Tablet (Tracleer)",Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Tracleer tablet for oral suspension,"Bosentan Suspension, Tablet (Tracleer)",Non-Preferred
+DIABETES,Tradjenta,Linagliptin Tablet (Tradjenta),Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Trandolapril,Trandolapril (Generic),Non-Preferred
+ASTHMA/COPD,Trelegy Ellipta,Fluticasone/Umeclidinium/Vilanterol (Trelegy Ellipta),Preferred
+DIABETES,"Tresiba FlexTouch, U-100","Insulin Degludec Pen, Vial (Generic; Tresiba FlexTouch; Tresiba)",Non-Preferred
+DIABETES,"Tresiba FlexTouch, U-200","Insulin Degludec Pen, Vial (Generic; Tresiba FlexTouch; Tresiba)",Non-Preferred
+DIABETES,Tresiba vial,"Insulin Degludec Pen, Vial (Generic; Tresiba FlexTouch; Tresiba)",Non-Preferred
+HEMOPHILIA TREATMENT,Tretten,"Factor XIII A-Subunit, Recombinant (Tretten)",Non-Preferred
+DEPRESSION,Trintellix,Vortioxetine Tablet (Trintellix),Non-Preferred
+PITUITARY SUPPRESSIVE AGENTS,Triptodur,Triptorelin Pamoate Kit (Triptodur),Non-Preferred
+HIV-AIDS,Triumeq,Abacavir/Dolutegravir/Lamivudine (Triumeq; Triumeq PD),Preferred
+ANTICONVULSANTS,Trokendi XR ER capsule,Topiramate ER Capsule (Trokendi XR),Non-Preferred
+DIABETES,Trulicity,Dulaglutide Pen (Trulicity),Preferred
+ONCOLOGY,Truqap,Capivasertib Tablet (Truqap),Non-Preferred
+HIV-AIDS,Truvada,Emtricitabine/Tenofovir DF Tablet (Generic; Truvada),Preferred
+ASTHMA/COPD,Tudorza Pressair,Aclidinium Bromide Inhalation Powder (Tudorza Pressair),Non-Preferred
+HIV-AIDS,Tybost,Cobicistat Tablet (Tybost),Preferred
+OPHTHALMIC DISORDERS,Tyrvaya nasal solution,Varenicline Nasal Spray (Tyrvaya),Non-Preferred
+MULTIPLE SCLEROSIS,Tysabri,Natalizumab Vial (Tysabri),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Tyvaso DPI,"Treprostinil Inhalation Powder, Inhalation Solution (Tyvaso DPI; Tyvaso)",Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Tyvaso inhalation solution,"Treprostinil Inhalation Powder, Inhalation Solution (Tyvaso DPI; Tyvaso)",Non-Preferred
+PAIN MANAGEMENT,Ubrelvy,Ubrogepant Tablet (Ubrelvy),Preferred
+COLONY STIMULATING FACTORS,Udenyca,"Pegfilgrastim-cbqv Autoinjector, On-Body, Syringe (Udenyca)",Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Uptravi tablet,"Selexipag Tablet, Dose Pack (Uptravi)",Non-Preferred
+ANTIPSYCHOTIC AGENTS,Uzedy,Risperidone ER Suspension (SQ) (Perseris; Uzedy),Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Valsartan,Valsartan (Generic),Preferred
+ANTICONVULSANTS,Valtoco,Diazepam Nasal Spray (Valtoco),Preferred
+INFECTIOUS DISORDERS,Vandazole,Metronidazole Vaginal Gel (Vandazole),Non-Preferred
+ONCOLOGY,Vanflyta,Quizartinib Dihydrochloride (Vanflyta),Non-Preferred
+POTASSIUM BINDERS,Veltassa,Patiromer Sorbitex Calcium Powder Packet (Veltassa),Non-Preferred
+INFECTIOUS DISORDERS,Vemlidy,Tenofovir Alafenamide Tablet (Vemlidy),Preferred
+ONCOLOGY,Venclexta,Venetoclax Tablet (Venclexta),Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Ventavis,Iloprost Inhalation Solution (Ventavis),Non-Preferred
+ASTHMA/COPD,Ventolin HFA,Albuterol Sulfate MDI (Ventolin HFA),Non-Preferred
+OPHTHALMIC DISORDERS,Verkazia,Cyclosporine 0.1% Emulsion (Verkazia),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Versacloz,Clozapine Suspension (Versacloz),Non-Preferred
+ONCOLOGY,Verzenio,Abemaciclib Tablet (Verzenio),Non-Preferred
+OPHTHALMIC DISORDERS,Vevye ophthalmic solution,Cyclosporine 0.1% Solution (Vevye),Non-Preferred
+"GI MOTILITY, CHRONIC",Viberzi,Eluxadoline Tablet (Viberzi),Non-Preferred
+DIABETES,Victoza,Liraglutide Pen (AG; Generic; Victoza),Non-Preferred
+ANTICONVULSANTS,Vigabatrin packet for oral solution,"Vigabatrin Powder Pack (Generic; Vigadrone, Vigpoder)",Preferred
+ANTICONVULSANTS,Vigabatrin tablet,Vigabatrin Tablet (Generic; Vigadrone),Preferred
+ANTICONVULSANTS,Vigafyde oral solution,Vigabatrin Solution (Vigafyde),Non-Preferred
+ANTICONVULSANTS,Vigpoder,"Vigabatrin Powder Pack (Generic; Vigadrone, Vigpoder)",Preferred
+DEPRESSION,Viibryd,Vilazodone Tablet (AG; Generic; Viibryd),Non-Preferred
+ANTICONVULSANTS,Vimpat oral solution,Lacosamide Solution Unit Dose (Generic; Vimpat),Non-Preferred
+ANTICONVULSANTS,Vimpat tablet,"Lacosamide ER Capsule, Tablet (Motpoly XR; Vimpat)",Non-Preferred
+HIV-AIDS,Viracept,Nelfinavir Mesylate Tablet (Viracept),Preferred
+HIV-AIDS,Viread,"Tenofovir Disoproxil Fumarate Powder, Tablet (Viread)",Preferred
+PRENATAL VITAMINS,Vitafol Fe+,PNV 102/Iron/Folate/DHA (Vitafol FE+),Preferred
+PRENATAL VITAMINS,Vitafol Tab Chew,PNV 112/Iron/FA/Omega 3/DHA/EPA Chew Gummies (Vitafol),Preferred
+PRENATAL VITAMINS,Vitafol Ultra,PNV 67/Iron PS/Folate No.1/DHA (Vitafol Ultra),Preferred
+PRENATAL VITAMINS,Vitafol-Ob,PNV 10/Iron Fumarate/FA (Vitafol-OB),Preferred
+PRENATAL VITAMINS,Vitafol-One,PNV 26/Iron PS/FA/DHA (Vitafol-One),Preferred
+ONCOLOGY,Vitrakvi capsule,"Larotrectinib Capsule, Solution (Vitrakvi)",Non-Preferred
+ONCOLOGY,Vitrakvi oral solution,"Larotrectinib Capsule, Solution (Vitrakvi)",Non-Preferred
+OPIATE DEPENDENCE AGENTS,Vivitrol,Naltrexone Extended-Release Suspension Vial (Vivitrol),Preferred
+ONCOLOGY,Vizimpro,Dacomitinib Tablet (Vizimpro),Non-Preferred
+H. PYLORI TREATMENT,Voquezna,Vonoprazan Tablet (Voquezna),Non-Preferred
+H. PYLORI TREATMENT,Voquezna Dual Pak,Vonoprazan/Amoxicillin (Voquezna DualPak),Non-Preferred
+H. PYLORI TREATMENT,Voquezna Triple Pak,Vonoprazan/Amoxicillin/Clarithromycin (Voquezna TriplePak),Non-Preferred
+INFECTIOUS DISORDERS,Vosevi,Sofosbuvir/Velpatasvir/Voxilaprevir Tablet (Vosevi),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Vraylar Adjunct Treatment of Major Depressive Disorder,Cariprazine Capsule (Vraylar),Preferred
+ANTIPSYCHOTIC AGENTS,Vraylar Bipolar I Disorder,Cariprazine Capsule (Vraylar),Preferred
+ANTIPSYCHOTIC AGENTS,Vraylar Schizophrenia,Cariprazine Capsule (Vraylar),Preferred
+DERMATOLOGY,Vtama Atopic Dermatitis,Tapinarof Cream (Vtama),Non-Preferred
+DERMATOLOGY,Vtama Plaque Psoriasis,Tapinarof Cream (Vtama),Non-Preferred
+PAIN MANAGEMENT,Vyepti,Eptinezumab-jjmr Vial (Vyepti),Non-Preferred
+ADD/ADHD,Vyvanse capsule,Lisdexamfetamine Capsule (Generic; Vyvanse),Preferred
+ADD/ADHD,Vyvanse chewable tablet,Lisdexamfetamine Chewable Tablet (Vyvanse),Non-Preferred
+ADD/ADHD,Wakix,Pitolisant HCl Tablet (Wakix),Non-Preferred
+ONCOLOGY,Welireg,Belzutifan Tablet (Welireg ),Non-Preferred
+"ACNE AGENTS, TOPICAL",Winlevi,Clascoterone Cream (Winlevi),Non-Preferred
+ASTHMA/COPD,Wixela,Fluticasone/Salmeterol DPI (Wixela Inhub),Preferred
+INFECTIOUS DISORDERS,Xaciato,Clindamycin Vaginal Gel (Xaciato),Non-Preferred
+ONCOLOGY,Xalkori capsule,Crizotinib Capsule (Xalkori),Preferred
+ONCOLOGY,Xalkori sprinkle capsule,Crizotinib Pellet (Xalkori),Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Xarelto,"Rivaroxaban Suspension, Tablet (Xarelto)",Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Xarelto 2.5 mg,"Rivaroxaban Suspension, Tablet (Xarelto)",Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Xarelto oral suspension,"Rivaroxaban Suspension, Tablet (Xarelto)",Non-Preferred
+"HEART DISEASE, HYPERLIPIDEMIA",Xarelto starter pack,Rivaroxaban Dose Pack (Xarelto Starter Pack),Preferred
+ANTICONVULSANTS,Xcopri,"Cenobamate Daily Dose Pack, Tablet, Titration Pack (Xcopri)",Preferred
+MOVEMENT DISORDERS,Xenazine,Tetrabenazine Tablet (Xenazine),Non-Preferred
+BOTULINUM TOXINS,Xeomin,IncobotulinumtoxinA (Xeomin),Non-Preferred
+DIABETES,Xigduo XR,Dapagliflozin/Metformin ER Tablet (Xigduo XR),Non-Preferred
+OPHTHALMIC DISORDERS,Xiidra ophthalmic solution,Lifitegrast Solution (Xiidra),Preferred
+"ANTIVIRALS, ORAL",Xofluza,Baloxavir Marboxil Tablet (Xofluza),Non-Preferred
+ASTHMA/COPD,Xopenex HFA,Levalbuterol MDI (AG; Xopenex HFA),Non-Preferred
+ONCOLOGY,Xtandi,"Enzalutamide Capsule, Tablet (Xtandi)",Preferred
+DIABETES,Xultophy,Liraglutide/Insulin Degludec (Xultophy) (See Insulins & Related Agents Criteria),Non-Preferred
+HEMOPHILIA TREATMENT,Xyntha,"Factor VIII, B-Domain-Deleted (Xyntha Kit)",Preferred
+ONCOLOGY,Yonsa tablet,Abiraterone Acetate Submicronized Tablet (Yonsa),Non-Preferred
+ASTHMA/COPD,Yupelri inhalation solution,Revefenacin Inhalation Solution (Yupelri),Non-Preferred
+PAIN MANAGEMENT,Zanaflex capsule,Tizanidine Capsule (Generic; Zanaflex),Non-Preferred
+PAIN MANAGEMENT,Zanaflex tablet,Tizanidine Tablet (Zanaflex),Non-Preferred
+COLONY STIMULATING FACTORS,Zarxio,Filgrastim-sndz Syringe (Zarxio),Non-Preferred
+ENZYME REPLACEMENTS,Zavesca,Miglustat Capsule (AG; Generic; Zavesca),Non-Preferred
+PAIN MANAGEMENT,Zavzpret,Zavegepant Nasal (Zavzpret),Non-Preferred
+DIGESTIVE DISORDERS,Zegerid,"Omeprazole/Sodium Bicarbonate Rx Capsule, Packet (Generic; Zegerid)",Non-Preferred
+ONCOLOGY,Zejula Tablet,Niraparib Tosylate Tablet (Zejula),Non-Preferred
+INFECTIOUS DISORDERS,Zepatier,Elbasvir/Grazoprevir Tablet (Zepatier),Non-Preferred
+OPHTHALMIC DISORDERS,Zerviate (Cetirizine) ophthalmic solution,Cetirizine Solution (Zerviate),Non-Preferred
+HIV-AIDS,Ziagen,Abacavir Solution (Generic; Ziagen),Preferred
+COLONY STIMULATING FACTORS,Ziextenzo,Pegfilgrastim-bmez Syringe (Ziextenzo),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Ziprasidone,Ziprasidone Capsule (AG; Generic),Preferred
+SPINAL MUSCULAR ATROPHY,Zolgensma,Onasemnogene Abeparvovec-xioi (Zolgensma),Preferred
+SEDATIVE/HYPNOTICS,Zolpidem,Zolpidem Tablet (Generic),Preferred
+SEDATIVE/HYPNOTICS,Zolpidem CR,Zolpidem Tartrate ER Tablet (Generic),Preferred
+ANTICONVULSANTS,Zonisade,Zonisamide Suspension (Zonisade),Non-Preferred
+ANTICONVULSANTS,Ztalmy,Ganaxolone Suspension (Ztalmy),Non-Preferred
+DEPRESSION,Zurzuvae,Zuranolone Capsule (Zurzuvae),Non-Preferred
+ONCOLOGY,Zydelig,Idelalisib Tablet (Zydelig),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Zyprexa,"Olanzapine Tablet, ODT (Zyprexa; Zyprexa Zydis)",Non-Preferred
+ANTIPSYCHOTIC AGENTS,Zyprexa Relprevv,Olanzapine Suspension (Zyprexa Relprevv),Non-Preferred
+ANTIPSYCHOTIC AGENTS,Zyprexa Zydis,"Olanzapine Tablet, ODT (Zyprexa; Zyprexa Zydis)",Non-Preferred
+ONCOLOGY,Zytiga,Abiraterone Acetate Tablet (Zytiga),Non-Preferred

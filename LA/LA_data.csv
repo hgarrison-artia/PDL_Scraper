@@ -1,53 +1,1075 @@
 therapeutic_class,capsule_name,pdl_name
+ANTIPSYCHOTIC AGENTS,Abilify Asimtufii,Aripiprazole Suspension ER (Abilify Asimtufii/Maintena)
+ANTIPSYCHOTIC AGENTS,Abilify Maintena,Aripiprazole Suspension ER (Abilify Asimtufii/Maintena)
 ANTIPSYCHOTIC AGENTS,Abilify MyCite,"Aripiprazole Tablet, Tablet with Sensor (Abilify; Abilify Mycite)"
+ANTIPSYCHOTIC AGENTS,Abilify tablet,"Aripiprazole Tablet, Tablet with Sensor (Abilify; Abilify Mycite)"
+PAIN MANAGEMENT,Abrilada Ankylosing Spondylitis,"Adalimumab-afzb Kit, Pen Kit (Abrilada)"
+PAIN MANAGEMENT,Abrilada Crohn's Disease (pediatric),"Adalimumab-afzb Kit, Pen Kit (Abrilada)"
+PAIN MANAGEMENT,Abrilada Crohn’s Disease (adult),"Adalimumab-afzb Kit, Pen Kit (Abrilada)"
+PAIN MANAGEMENT,Abrilada Hidradenitis Suppurativa,"Adalimumab-afzb Kit, Pen Kit (Abrilada)"
+PAIN MANAGEMENT,Abrilada Plaque Psoriasis (adult),"Adalimumab-afzb Kit, Pen Kit (Abrilada)"
+PAIN MANAGEMENT,Abrilada Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-afzb Kit, Pen Kit (Abrilada)"
+PAIN MANAGEMENT,Abrilada Psoriatic Arthritis (adult),"Adalimumab-afzb Kit, Pen Kit (Abrilada)"
+PAIN MANAGEMENT,Abrilada Rheumatoid Arthritis,"Adalimumab-afzb Kit, Pen Kit (Abrilada)"
+PAIN MANAGEMENT,Abrilada Ulcerative Colitis (adult),"Adalimumab-afzb Kit, Pen Kit (Abrilada)"
+PAIN MANAGEMENT,Abrilada Uveitis (adult),"Adalimumab-afzb Kit, Pen Kit (Abrilada)"
+PAIN MANAGEMENT,"Actemra ACTPen, Giant Cell Arteritis","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra ACTPen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra ACTPen, Rheumatoid Arthritis","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra prefilled syringe, Giant Cell Arteritis","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra prefilled syringe, Rheumatoid Arthritis","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra vial, Coronavirus Disease 2019","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra vial, Cytokine Release Syndrome","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra vial, Giant Cell Arteritis","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra vial, Rheumatoid Arthritis","Tocilizumab Pen, Syringe, Vial (Actemra)"
+PAIN MANAGEMENT,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)"
+SICKLE CELL ANEMIA,Adakveo,Crizanlizumab-tmca Infusion (Adakveo)
+PAIN MANAGEMENT,Adalimumab-adaz Ankylosing Spondylitis,"Adalimumab-adaz Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-adaz Crohn’s Disease (adult),"Adalimumab-adaz Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-adaz Crohn’s Disease (pediatric),"Adalimumab-adaz Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-adaz Hidradenitis Suppurativa,"Adalimumab-adaz Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-adaz Plaque Psoriasis (adult),"Adalimumab-adaz Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-adaz Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-adaz Psoriatic Arthritis (adult),"Adalimumab-adaz Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-adaz Rheumatoid Arthritis,"Adalimumab-adaz Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-adaz Ulcerative Colitis (adult),"Adalimumab-adaz Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-adaz Uveitis (adult),"Adalimumab-adaz Kit, Pen Kit"
+PAIN MANAGEMENT,"Adalimumab-adbm Ankylosing Spondylitis, Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
+PAIN MANAGEMENT,"Adalimumab-adbm Ankylosing Spondylitis, Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
+PAIN MANAGEMENT,"Adalimumab-adbm Crohn’s Disease (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
+PAIN MANAGEMENT,"Adalimumab-adbm Crohn’s Disease (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
+PAIN MANAGEMENT,"Adalimumab-adbm Crohn’s Disease (pediatric), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
+PAIN MANAGEMENT,"Adalimumab-adbm Crohn’s Disease (pediatric), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
+PAIN MANAGEMENT,"Adalimumab-adbm Hidradenitis Suppurativa, Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
+PAIN MANAGEMENT,"Adalimumab-adbm Hidradenitis Suppurativa, Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
+PAIN MANAGEMENT,"Adalimumab-adbm Plaque Psoriasis (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
+PAIN MANAGEMENT,"Adalimumab-adbm Plaque Psoriasis (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
+PAIN MANAGEMENT,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
+PAIN MANAGEMENT,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
+PAIN MANAGEMENT,"Adalimumab-adbm Psoriatic Arthritis (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
+PAIN MANAGEMENT,"Adalimumab-adbm Psoriatic Arthritis (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
+PAIN MANAGEMENT,"Adalimumab-adbm Rheumatoid Arthritis, Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
+PAIN MANAGEMENT,"Adalimumab-adbm Rheumatoid Arthritis, Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
+PAIN MANAGEMENT,"Adalimumab-adbm Ulcerative Colitis (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
+PAIN MANAGEMENT,"Adalimumab-adbm Ulcerative Colitis (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
+PAIN MANAGEMENT,"Adalimumab-adbm Uveitis (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
+PAIN MANAGEMENT,"Adalimumab-adbm Uveitis (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
+PAIN MANAGEMENT,Adalimumab-fkjp Ankylosing Spondylitis,"Adalimumab-fkjp Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-fkjp Crohn’s Disease (adult),"Adalimumab-fkjp Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-fkjp Crohn’s Disease (pediatric),"Adalimumab-fkjp Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-fkjp Hidradenitis Suppurativa,"Adalimumab-fkjp Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-fkjp Plaque Psoriasis (adult),"Adalimumab-fkjp Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-fkjp Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-fkjp Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-fkjp Psoriatic Arthritis (adult),"Adalimumab-fkjp Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-fkjp Rheumatoid Arthritis,"Adalimumab-fkjp Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-fkjp Ulcerative Colitis (adult),"Adalimumab-fkjp Kit, Pen Kit"
+PAIN MANAGEMENT,Adalimumab-fkjp Uveitis (adult),"Adalimumab-fkjp Kit, Pen Kit"
+DERMATOLOGY,Adbry,"Tralokinumab-ldrm Autoinjector, Syringe (Adbry)"
+"HEART DISEASE, HYPERLIPIDEMIA",Adcirca,Tadalafil Tablet (Adcirca)
 ADD/ADHD,Adderall XR ER capsule,Amphetamine Salt Combo ER Capsule(Adderall XR)
+"HEART DISEASE, HYPERLIPIDEMIA",Adempas,Riociguat Tablet (Adempas)
+DIABETES,Admelog,"Insulin Lispro Pen, Vial (Admelog SoloStar; Admelog)"
 DIABETES,Admelog SoloStar,"Insulin Lispro Pen, Vial (Admelog SoloStar; Admelog)"
+ASTHMA/COPD,Advair Diskus,"Fluticasone/Salmeterol DPI, MDI (Advair Diskus; Advair HFA)"
+ASTHMA/COPD,Advair HFA,"Fluticasone/Salmeterol DPI, MDI (Advair Diskus; Advair HFA)"
+HEMOPHILIA TREATMENT,Advate,"Factor VIII, Full-Length (Advate)"
+HEMOPHILIA TREATMENT,Adynovate,"Factor VIII, Full-Length PEGylated (Adynovate)"
+ONCOLOGY,Afinitor Disperz,Everolimus Tablet for Oral Suspension (Generic; Afinitor Disperz)
+ONCOLOGY,Afinitor tablet,Everolimus Tablet (Afinitor; Torpenz)
+HEMOPHILIA TREATMENT,Afstyla,"Factor VIII, Single-Chain, B-Domain Truncated (Afstyla)"
+PAIN MANAGEMENT,Aimovig,Erenumab-aooe Autoinjector (Aimovig)
+ASTHMA/COPD,Airduo Digihaler,Fluticasone/Salmeterol Inhalation Powder (AirDuo Digihaler)
+ASTHMA/COPD,Airduo Respiclick,Fluticasone/Salmeterol Inhalation Powder (AG; AirDuo RespiClick)
+ASTHMA/COPD,Airsupra HFA,Albuterol/Budesonide (AirSupra HFA)
+PAIN MANAGEMENT,Ajovy,"Fremanezumab-vfrm Autoinjector, 3-Pack, Syringe (Ajovy)"
+ONCOLOGY,Akeega,Niraparib/Abiraterone Tablet (Akeega)
 ASTHMA/COPD,Albuterol HFA generic PROAIR,Albuterol Sulfate MDI (AG; Generic for ProAir HFA)
+ONCOLOGY,Alecensa,Alectinib HCl Capsule (Alecensa)
 OPHTHALMIC DISORDERS,Alphagan P 0.001,Brimonidine 0.1% Solution (Generic; Alphagan P)
+HEMOPHILIA TREATMENT,Alprolix,"Factor IX Recombinant, Fc Fusion Protein (Alprolix)"
+HEMOPHILIA TREATMENT,Altuviiio,"Factor VIII, Recombinant Fc-VWF-XTEN Fusion Protein-ehtl (Altuviiio)"
+ONCOLOGY,Alunbrig,Brigatinib Tablet (Alunbrig)
+ASTHMA/COPD,Alvesco,Ciclesonide MDI (Alvesco)
+SEDATIVE/HYPNOTICS,Ambien,Zolpidem Tartrate Tablet (Ambien)
+SEDATIVE/HYPNOTICS,Ambien CR,Zolpidem Tartrate ER Tablet (Ambien CR)
+"HEART DISEASE, HYPERLIPIDEMIA",Ambrisentan,Ambrisentan Tablet (Generic)
+PAIN MANAGEMENT,Amjevita Ankylosing Spondylitis,"Adalimumab-atto Kit, Pen Kit (Amjevita)"
+PAIN MANAGEMENT,Amjevita Crohn’s Disease (adult),"Adalimumab-atto Kit, Pen Kit (Amjevita)"
+PAIN MANAGEMENT,Amjevita Crohn’s Disease (pediatric),"Adalimumab-atto Kit, Pen Kit (Amjevita)"
+PAIN MANAGEMENT,Amjevita Hidradenitis Suppurativa,"Adalimumab-atto Kit, Pen Kit (Amjevita)"
+PAIN MANAGEMENT,Amjevita Plaque Psoriasis (adult),"Adalimumab-atto Kit, Pen Kit (Amjevita)"
+PAIN MANAGEMENT,Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-atto Kit, Pen Kit (Amjevita)"
+PAIN MANAGEMENT,Amjevita Psoriatic Arthritis (adult),"Adalimumab-atto Kit, Pen Kit (Amjevita)"
+PAIN MANAGEMENT,Amjevita Rheumatoid Arthritis,"Adalimumab-atto Kit, Pen Kit (Amjevita)"
+PAIN MANAGEMENT,Amjevita Ulcerative Colitis (adult),"Adalimumab-atto Kit, Pen Kit (Amjevita)"
+PAIN MANAGEMENT,Amjevita Uveitis (adult),"Adalimumab-atto Kit, Pen Kit (Amjevita)"
+"HEART DISEASE, HYPERLIPIDEMIA",Amlodipine tablet,Amlodipine Tablet (Generic)
+PAIN MANAGEMENT,Amrix,Cyclobenzaprine ER Capsule (AG; Generic; Amrix)
+ASTHMA/COPD,Anoro Ellipta,Umeclidinium/Vilanterol Inhalation Powder (Anoro Ellipta)
+DIABETES,Apidra,"Insulin Glulisine Pen, Vial (Apidra SoloStar; Apidra)"
 DIABETES,Apidra SoloStar,"Insulin Glulisine Pen, Vial (Apidra SoloStar; Apidra)"
+DEPRESSION,Aplenzin,Bupropion HBr ER 24-Hour Tablet (Aplenzin)
+ANTICONVULSANTS,Aptiom,Eslicarbazepine Acetate Tablet (Aptiom)
+HIV-AIDS,Aptivus,Tipranavir Capsule (Aptivus)
+"HEMATOLOGIC AGENTS, HEMATOPOIETIC AGENTS",Aranesp,Darbepoetin Vial (Aranesp)
+PAIN MANAGEMENT,Arcalyst Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),Rilonacept Vial (Arcalyst)
+PAIN MANAGEMENT,Arcalyst Deficiency of Interleukin-1 Receptor Antagonist (DIRA),Rilonacept Vial (Arcalyst)
+PAIN MANAGEMENT,Arcalyst Recurrent Pericarditis (RP),Rilonacept Vial (Arcalyst)
+ALZHEIMER’S AGENTS,Aricept,Donepezil Tablet (Aricept)
+INFECTIOUS DISORDERS,Arikayce,Amikacin Inhalation Suspension (Arikayce)
 ANTIPSYCHOTIC AGENTS,Aripiprazole ODT,"Aripiprazole ODT, Solution (Generic)"
 ANTIPSYCHOTIC AGENTS,Aripiprazole oral solution,"Aripiprazole ODT, Solution (Generic)"
 ANTIPSYCHOTIC AGENTS,Aripiprazole tablet,Aripiprazole Tablet (Generic)
+ANTIPSYCHOTIC AGENTS,Aristada,Aripiprazole Lauroxil (Aristada; Aristada Initio)
 ANTIPSYCHOTIC AGENTS,Aristada Initio,Aripiprazole Lauroxil (Aristada; Aristada Initio)
+ASTHMA/COPD,Armonair Digihaler,Fluticasone Propionate Inhalation Powder (Armonair Digihaler)
+ASTHMA/COPD,Arnuity Ellipta,Fluticasone Furoate Inhalation Powder (Arnuity Ellipta)
+DIGESTIVE DISORDERS,Asacol HD,Mesalamine DR Tablet (Generic for Asacol HD)
+ANTIPSYCHOTIC AGENTS,Asenapine,Asenapine Sublingual Tablet (AG; Generic; Saphris)
+ASTHMA/COPD,Asmanex HFA,Mometasone Furoate MDI (Asmanex HFA)
+ASTHMA/COPD,Asmanex Twisthaler,Mometasone Inhalation Powder (Asmanex Twisthaler)
+"HEART DISEASE, HYPERLIPIDEMIA",Aspirin / Dipyridamole,Aspirin/Dipyridamole ER Capsule (Generic)
+"IMMUNOSUPPRESSIVES, ORAL",Astagraf XL ER capsule,Tacrolimus ER Capsule (Astagraf XL)
 MULTIPLE SCLEROSIS,Aubagio tablet,Teriflunomide Tablet (Aubagio)
 ONCOLOGY,Augtyro capsule,Repotrectinib Capsule (Augtyro)
+HEMODIALYSIS,Auryxia,Ferric Citrate Tablet (Auryxia)
+MOVEMENT DISORDERS,Austedo,Deutetrabenazine Tablet (Austedo; Austedo XR)
+MOVEMENT DISORDERS,Austedo XR,Deutetrabenazine Tablet (Austedo; Austedo XR)
 MOVEMENT DISORDERS,Austedo XR titration pack,Deutetrabenazine Tablet (Austedo; Austedo XR)
+DEPRESSION,Auvelity,Dextromethorphan/Bupropion Tablet (Auvelity)
 "EPINEPHRINE, SELF-INJECTED",Auvi-Q 0.1 mg,"Epinephrine 0.1 mg, 0.15mg, 0.3mg Auto-Injector (Auvi-Q)"
 "EPINEPHRINE, SELF-INJECTED",Auvi-Q 0.15 mg,"Epinephrine 0.1 mg, 0.15mg, 0.3mg Auto-Injector (Auvi-Q)"
 "EPINEPHRINE, SELF-INJECTED",Auvi-Q 0.3 mg,"Epinephrine 0.1 mg, 0.15mg, 0.3mg Auto-Injector (Auvi-Q)"
 MULTIPLE SCLEROSIS,Avonex auto-injector,Interferon β-1a Pen Kit (Avonex Pen)
 MULTIPLE SCLEROSIS,Avonex prefilled syringe,"Interferon β-1a Syringe, Syringe Kit (Avonex)"
+ADD/ADHD,Azstarys,Serdexmethylphenidate/Dexmethylphenidate Capsule (Azstarys)
+PAIN MANAGEMENT,Baclofen oral solution,Baclofen Solution (AG 5mg/5ml; Generic for Ozobax DS 10mg/5ml)
 PAIN MANAGEMENT,Baclofen tablet,Baclofen Tablet (Generic)
+MULTIPLE SCLEROSIS,Bafiertam,Monomethyl Fumarate Capsule DR (Bafiertam)
+ONCOLOGY,Balversa,Erdafitinib Tablet (Balversa)
 ANTICONVULSANTS,Banzel oral suspension,"Rufinamide Suspension, Tablet (Banzel)"
 ANTICONVULSANTS,Banzel tablet,"Rufinamide Suspension, Tablet (Banzel)"
+INFECTIOUS DISORDERS,Baraclude,"Entecavir Solution, Tablet (Baraclude)"
+DIABETES,Basaglar Kwikpen,Insulin Glargine U-100 (Basaglar KwikPen; Basaglar Tempo Pen)
+"HEART DISEASE, HYPERLIPIDEMIA",Benazepril,Benazepril (Generic)
+HEMOPHILIA TREATMENT,Benefix,Factor IX Human Recombinant (BeneFIX Kit)
+LUPUS IMMUNOMODULATORS,Benlysta,"Belimumab Auto-Injector, IV, Syringe, Vial (Benlysta)"
+INFECTIOUS DISORDERS,Bethkis,Tobramycin Solution (AG; Generic; Bethkis)
+ASTHMA/COPD,Bevespi Aerosphere,Glycopyrrolate/Formoterol Fumarate (Bevespi Aerosphere)
+HIV-AIDS,Biktarvy,Bictegravir/Emtricitabine/Tenofovir AF Tablet (Biktarvy)
+PAIN MANAGEMENT,Bimzelx Ankylosing Spondylitis,"Bimekizumab-bkzx Pen, Syringe (Bimzelx)"
+PAIN MANAGEMENT,Bimzelx Hidradenitis Suppurativa,"Bimekizumab-bkzx Pen, Syringe (Bimzelx)"
+PAIN MANAGEMENT,Bimzelx Non-Radiographic Axial Spondyloarthritis,"Bimekizumab-bkzx Pen, Syringe (Bimzelx)"
+PAIN MANAGEMENT,Bimzelx Plaque Psoriasis (adult),"Bimekizumab-bkzx Pen, Syringe (Bimzelx)"
+PAIN MANAGEMENT,Bimzelx Psoriatic Arthritis (adult),"Bimekizumab-bkzx Pen, Syringe (Bimzelx)"
+"HEART DISEASE, HYPERLIPIDEMIA",Bosentan,Bosentan Tablet (Generic)
+BOTULINUM TOXINS,Botox,OnabotulinumtoxinA (Botox)
+ASTHMA/COPD,Breo Ellipta,Fluticasone/Vilanterol Inhalation Powder (AG; Breo Ellipta)
+ASTHMA/COPD,Breztri Aerosphere,Budesonide/Glycopyrrolate/Formoterol Inhalation (Breztri Aerosphere)
+"HEART DISEASE, HYPERLIPIDEMIA",Brilinta,Ticagrelor Tablet (Brilinta)
+MULTIPLE SCLEROSIS,Briumvi,Ublituximab-xiiy Vial (Briumvi)
+ANTICONVULSANTS,Briviact,"Brivaracetam Solution, Tablet (Briviact)"
+ONCOLOGY,Brukinsa,Zanubrutinib Capsule (Brukinsa)
 ASTHMA/COPD,Budesonide / Formoterol authorized generic Symbicort,Budesonide/Formoterol MDI (AG; Generic)
+ASTHMA/COPD,"Budesonide respules (inhalation suspension), 0.25 mg","Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Generic)"
+ASTHMA/COPD,"Budesonide respules (inhalation suspension), 0.5 mg","Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Generic)"
+ASTHMA/COPD,"Budesonide respules (inhalation suspension), 1 mg","Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Generic)"
 UREA CYCLE DISORDERS,Buphenyl powder,"Sodium Phenylbutyrate Powder, Tablet (Generic; Buphenyl)"
 UREA CYCLE DISORDERS,Buphenyl tablet,"Sodium Phenylbutyrate Powder, Tablet (Generic; Buphenyl)"
+DIABETES,Bydureon Bcise,Exenatide Microspheres ER Auto-Injector (Bydureon BCise)
+DIGESTIVE DISORDERS,Bylvay Alagille Syndrome (ALGS),"Odevixibat Capsule, Pellet (Bylvay)"
+DIGESTIVE DISORDERS,Bylvay Progressive Familial Intrahepatic Cholestatis (PFIC),"Odevixibat Capsule, Pellet (Bylvay)"
+ONCOLOGY,Calquence,"Acalabrutinib Capsule, Tablet (Calquence)"
+"HEART DISEASE, HYPERLIPIDEMIA",Candesartan,Candesartan (AG; Generic; Atacand)
+ANTIPSYCHOTIC AGENTS,Caplyta,Lumateperone Capsule (Caplyta)
+ONCOLOGY,Caprelsa,Vandetanib Tablet (Caprelsa)
+"HEART DISEASE, HYPERLIPIDEMIA",Captopril,Captopril (Generic)
+SICKLE CELL ANEMIA,Casgevy intravenous suspension,Exagamglogene autotemcel (Casgevy)
+INFECTIOUS DISORDERS,Cayston,Aztreonam Solution (Cayston)
+OPHTHALMIC DISORDERS,Cequa,Cyclosporine 0.09% Solution (Cequa)
+ENZYME REPLACEMENTS,Cerdelga,Eliglustat Capsule (Cerdelga)
+ENZYME REPLACEMENTS,Cerezyme 400 Units,Imiglucerase 400-unit Vial (Cerezyme)
+DIGESTIVE DISORDERS,Chenodal tablet,Chenodiol Tablet (Chenodal)
+DIGESTIVE DISORDERS,Cholbam capsule,Cholic Acid Capsule (Cholbam)
+PAIN MANAGEMENT,Cibinqo Atopic Dermatitis (adult),Abrocitinib Tablet (Cibinqo)
+PAIN MANAGEMENT,Cimzia Ankylosing Spondylitis,"Certolizumab Pegol Kit, Syringe Kit (Cimzia)"
+PAIN MANAGEMENT,Cimzia Crohn’s Disease (adult),"Certolizumab Pegol Kit, Syringe Kit (Cimzia)"
+PAIN MANAGEMENT,Cimzia Non-Radiographic Axial Spondyloarthritis,"Certolizumab Pegol Kit, Syringe Kit (Cimzia)"
+PAIN MANAGEMENT,Cimzia Plaque Psoriasis (adult),"Certolizumab Pegol Kit, Syringe Kit (Cimzia)"
+PAIN MANAGEMENT,Cimzia Psoriatic Arthritis (adult),"Certolizumab Pegol Kit, Syringe Kit (Cimzia)"
+PAIN MANAGEMENT,Cimzia Rheumatoid Arthritis,"Certolizumab Pegol Kit, Syringe Kit (Cimzia)"
+ASTHMA/COPD,Cinqair Asthma (adult),Reslizumab Vial (Cinqair)
 INFECTIOUS DISORDERS,Cleocin 2% cream,Clindamycin Vaginal Cream (Cleocin)
 INFECTIOUS DISORDERS,Cleocin Ovules / vaginal suppository,Clindamycin Vaginal Ovules (Cleocin)
+INFECTIOUS DISORDERS,Cleocin ovules / vaginal suppository,Clindamycin Vaginal Ovules (Cleocin)
+INFECTIOUS DISORDERS,Clindamycin 2% Cream,Clindamycin Vaginal Cream (Generic for Cleocin)
 INFECTIOUS DISORDERS,Clindesse 2% prefilled applicator cream,Clindamycin Vaginal Cream (Clindesse)
 ANTICONVULSANTS,Clobazam oral suspension,"Clobazam Suspension, Tablet (Generic)"
 ANTICONVULSANTS,Clobazam tablet,"Clobazam Suspension, Tablet (Generic)"
 ANTIPSYCHOTIC AGENTS,Clozapine ODT,Clozapine ODT (Generic)
 ANTIPSYCHOTIC AGENTS,Clozapine tablet,Clozapine Tablet (Generic)
+ANTIPSYCHOTIC AGENTS,Clozaril,Clozapine Tablet (Clozaril)
+ANTIPSYCHOTIC AGENTS,Cobenfy capsule,"Xanomeline and Trospium Chloride Capsule, Starter Pack (Cobenfy)"
+OPHTHALMIC DISORDERS,Combigan,Brimonidine/Timolol Solution (Combigan)
+ASTHMA/COPD,Combivent Respimat inhalation aerosol solution,Ipratropium/Albuterol Sulfate (Combivent Respimat)
+HIV-AIDS,Complera,Emtricitabine/Rilpivirine/Tenofovir DF Tablet (Complera)
+ADD/ADHD,Concerta ER,Methylphenidate ER Tablet (Concerta)
+MULTIPLE SCLEROSIS,Copaxone 20 mg,"Glatiramer Acetate Syringe 20mg, 40mg (Copaxone)"
+MULTIPLE SCLEROSIS,Copaxone 40 mg,"Glatiramer Acetate Syringe 20mg, 40mg (Copaxone)"
+PAIN MANAGEMENT,Cosentyx Ankylosing Spondylitis,"Secukinumab Pen, Syringe, Vial (Cosentyx)"
+PAIN MANAGEMENT,Cosentyx Enthesitis-Related Arthritis (pediatric),"Secukinumab Pen, Syringe, Vial (Cosentyx)"
+PAIN MANAGEMENT,Cosentyx Hidradenitis Suppurativa,"Secukinumab Pen, Syringe, Vial (Cosentyx)"
+PAIN MANAGEMENT,Cosentyx Non-Radiographic Axial Spondyloarthritis,"Secukinumab Pen, Syringe, Vial (Cosentyx)"
+PAIN MANAGEMENT,Cosentyx Plaque Psoriasis (adult),"Secukinumab Pen, Syringe, Vial (Cosentyx)"
+PAIN MANAGEMENT,Cosentyx Plaque Psoriasis (pediatric),"Secukinumab Pen, Syringe, Vial (Cosentyx)"
+PAIN MANAGEMENT,Cosentyx Psoriatic Arthritis (adult),"Secukinumab Pen, Syringe, Vial (Cosentyx)"
+PAIN MANAGEMENT,Cosentyx Psoriatic Arthritis (pediatric),"Secukinumab Pen, Syringe, Vial (Cosentyx)"
+DIGESTIVE DISORDERS,Creon,Pancrelipase (Creon)
+IMMUNE GLOBULINS (IG),Cuvitru,IG Subcutaneous [(Human) Cuvitru]
+OPHTHALMIC DISORDERS,Cyclosporine ophthalmic emulsion,Cyclosporine 0.05% Emulsion (AG; Generic)
+PAIN MANAGEMENT,Cyltezo Ankylosing Spondylitis,"Adalimumab-adbm Kit, Pen Kit (Cyltezo)"
+PAIN MANAGEMENT,Cyltezo Crohn’s Disease (adult),"Adalimumab-adbm Kit, Pen Kit (Cyltezo)"
+PAIN MANAGEMENT,Cyltezo Crohn’s Disease (pediatric),"Adalimumab-adbm Kit, Pen Kit (Cyltezo)"
+PAIN MANAGEMENT,Cyltezo Hidradenitis Suppurativa,"Adalimumab-adbm Kit, Pen Kit (Cyltezo)"
+PAIN MANAGEMENT,Cyltezo Plaque Psoriasis (adult),"Adalimumab-adbm Kit, Pen Kit (Cyltezo)"
+PAIN MANAGEMENT,Cyltezo Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-adbm Kit, Pen Kit (Cyltezo)"
+PAIN MANAGEMENT,Cyltezo Psoriatic Arthritis (adult),"Adalimumab-adbm Kit, Pen Kit (Cyltezo)"
+PAIN MANAGEMENT,Cyltezo Rheumatoid Arthritis,"Adalimumab-adbm Kit, Pen Kit (Cyltezo)"
+PAIN MANAGEMENT,Cyltezo Ulcerative Colitis (adult),"Adalimumab-adbm Kit, Pen Kit (Cyltezo)"
+PAIN MANAGEMENT,Cyltezo Uveitis (adult),"Adalimumab-adbm Kit, Pen Kit (Cyltezo)"
+ASTHMA/COPD,Daliresp,Roflumilast Tablet (Daliresp)
+PAIN MANAGEMEN,Dantrium,Dantrolene Sodium Capsule (AG; Generic; Dantrium)
+DIABETES,Dapagliflozin,Dapagliflozin Tablet (AG)
+ANTICONVULSANTS,Depakote,"Divalproex Sodium DR Tablet, ER Tablet (Depakote; Depakote ER)"
+HIV-AIDS,Descovy,Emtricitabine/Tenofovir AF Tablet (Descovy)
 ANTICONVULSANTS,Diacomit capsule,"Stiripentol Capsule, Powder Pack (Diacomit)"
 ANTICONVULSANTS,Diacomit packet for oral suspension,"Stiripentol Capsule, Powder Pack (Diacomit)"
+MULTIPLE SCLEROSIS,Dimethyl Fumarate,Dimethyl Fumarate DR Capsule (Generic)
 ALZHEIMER’S AGENTS,Donepezil ODT,"Donepezil ODT, Tablet (Generic)"
+ALZHEIMER’S AGENTS,"Donepezil tablet, 10 mg","Donepezil ODT, Tablet (Generic)"
+ALZHEIMER’S AGENTS,"Donepezil tablet, 23 mg","Donepezil 23 mg Tablet (Generic, Aricept)"
+ALZHEIMER’S AGENTS,"Donepezil tablet, 5 mg","Donepezil ODT, Tablet (Generic)"
+THROMBOPOIESIS STIMULATING PROTEINS,Doptelet,Avatrombopag Tablet (Doptelet)
+ASTHMA/COPD,Duaklir Pressair,Aclidinium Bromide/Formoterol Fumarate (Duaklir Pressair)
+ASTHMA/COPD,Dulera,Mometasone/Formoterol MDI (Dulera)
+PAIN MANAGEMENT,Duloxetine generic Cymbalta,Duloxetine Capsule (Generic for Cymbalta)
+DERMATOLOGY,Dupixent Asthma (adult),Dupilumab Syringe (Dupixent)
+DERMATOLOGY,Dupixent Asthma (pediatric),Dupilumab Syringe (Dupixent)
+DERMATOLOGY,Dupixent Atopic Dermatitis (adult),Dupilumab Syringe (Dupixent)
+DERMATOLOGY,Dupixent Atopic Dermatitis (pediatric),Dupilumab Syringe (Dupixent)
+DERMATOLOGY,Dupixent Chronic Obstructive Pulmonary Disease (COPD),Dupilumab Syringe (Dupixent)
+DERMATOLOGY,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,Dupilumab Syringe (Dupixent)
+DERMATOLOGY,Dupixent Eosinophilic Esophagitis,Dupilumab Syringe (Dupixent)
+DERMATOLOGY,Dupixent Prurigo Nodularis,Dupilumab Syringe (Dupixent)
+OPHTHALMIC DISORDERS,Durysta,Bimatoprost Implant (Durysta)
+ADD/ADHD,Dyanavel XR,"Amphetamine Suspension, Tablet (Dyanavel XR)"
+BOTULINUM TOXINS,Dysport,AbobotulinumtoxinA (Dysport)
+DERMATOLOGY,Ebglyss Atopic Dermatitis (adult),"Lebrikizumab-lbkz Pen, Syringe (Ebglyss)"
+DERMATOLOGY,Ebglyss Atopic Dermatitis (pediatric),"Lebrikizumab-lbkz Pen, Syringe (Ebglyss)"
+"HEART DISEASE, HYPERLIPIDEMIA",Edarbi,Azilsartan Medoxomil (Edarbi)
+"HEART DISEASE, HYPERLIPIDEMIA",Edarbyclor,Azilsartan/Chlorthalidone (Edarbyclor)
+HIV-AIDS,Edurant,Rilpivirine HCl Tablet (Edurant)
+ENZYME REPLACEMENTS,Elelyso,Taliglucerase alfa Vial (Elelyso)
+"HEART DISEASE, HYPERLIPIDEMIA",Eliquis,"Apixaban Dose Pack, Tablet (Eliquis)"
+HEMOPHILIA TREATMENT,Eloctate,"Factor VIII, Recombinant, Fc Fusion (Eloctate)"
 "GLUCOCORTICOIDS, ORAL",Emflaza oral suspension,"Deflazacort Suspension, Tablet (Emflaza)"
 "GLUCOCORTICOIDS, ORAL",Emflaza tablet,"Deflazacort Suspension, Tablet (Emflaza)"
 PAIN MANAGEMENT,Emgality 100 mg,Galcanezumab-gnlm 100 mg Syringe (Emgality)
 PAIN MANAGEMENT,Emgality 120 mg,"Galcanezumab-gnlm Pen, 120 mg Syringe (Emgality)"
 HIV-AIDS,Emtriva capsule,Emtricitabine Capsule (Generic; Emtriva)
 HIV-AIDS,Emtriva oral solution,Emtricitabine Solution (Emtriva)
+"HEART DISEASE, HYPERLIPIDEMIA",Enalapril,Enalapril Tablet (Generic)
+PAIN MANAGEMENT,Enbrel Ankylosing Spondylitis,Etanercept Vial (Enbrel)
+PAIN MANAGEMENT,Enbrel Plaque Psoriasis (adult),Etanercept Vial (Enbrel)
+PAIN MANAGEMENT,Enbrel Plaque Psoriasis (pediatric),Etanercept Vial (Enbrel)
+PAIN MANAGEMENT,Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA),Etanercept Vial (Enbrel)
+PAIN MANAGEMENT,Enbrel Psoriatic Arthritis (adult),Etanercept Vial (Enbrel)
+PAIN MANAGEMENT,Enbrel Psoriatic Arthritis (pediatric),Etanercept Vial (Enbrel)
+PAIN MANAGEMENT,Enbrel Rheumatoid Arthritis,Etanercept Vial (Enbrel)
+SICKLE CELL ANEMIA,Endari,L-glutamine Powder Pack (Generic; Endari)
+PAIN MANAGEMENT,Enspryng Neuromyelitis Optica Spectrum Disorder (NMOSD),Satralizumab-mwge Syringe (Enspryng)
+INFECTIOUS DISORDERS,Entecavir,Entecavir Tablet (Generic)
+PAIN MANAGEMENT,"Entyvio Crohn’s Disease (adult), vial","Vedolizumab Pen, Vial (Entyvio)"
+PAIN MANAGEMENT,"Entyvio Ulcerative Colitis (adult), vial","Vedolizumab Pen, Vial (Entyvio)"
+"IMMUNOSUPPRESSIVES, ORAL",Envarsus XR,Tacrolimus ER Tablet (Envarsus XR)
+"GLUCOCORTICOIDS, ORAL",Eohilia oral suspension,Budesonide Suspension Packet (Eohilia)
+INFECTIOUS DISORDERS,Epclusa,"Sofosbuvir/Velpatasvir Pellet Pack, Tablet (Epclusa)"
+ANTICONVULSANTS,Epidiolex,Cannabidiol Solution (Epidiolex)
+"EPINEPHRINE, SELF-INJECTED",Epinephrine (Generic Adrenaclick) 0.15mg,"Epinephrine 0.15 mg, 0.3 mg Auto-Injector (AG for Adrenaclick)"
+"EPINEPHRINE, SELF-INJECTED",Epinephrine (Generic Adrenaclick) 0.3mg,"Epinephrine 0.15 mg, 0.3 mg Auto-Injector (AG for Adrenaclick)"
 "EPINEPHRINE, SELF-INJECTED",Epinephrine (Mylan Ag Epipen And Jr) 0.15mg Mylan's EpiPen Jr AG,Epinephrine 0.15 mg Auto-Injector (AG; Generic; EpiPen Jr)
+"EPINEPHRINE, SELF-INJECTED",Epinephrine (Mylan Ag Epipen And Jr) 0.3mg Mylan's EpiPen AG,Epinephrine 0.3 mg Auto-Injector (AG; Generic; EpiPen)
+"EPINEPHRINE, SELF-INJECTED",Epipen,Epinephrine 0.3 mg Auto-Injector (AG; Generic; EpiPen)
 "EPINEPHRINE, SELF-INJECTED",Epipen Jr.,Epinephrine 0.15 mg Auto-Injector (AG; Generic; EpiPen Jr)
+HIV-AIDS,Epivir,"Lamivudine Solution, Tablet (Generic; Epivir)"
 HIV-AIDS,Epivir HBV oral solution,"Lamivudine Solution, Tablet (Generic; Epivir)"
 HIV-AIDS,Epivir HBV tablet,"Lamivudine Solution, Tablet (Generic; Epivir)"
+"HEMATOLOGIC AGENTS, HEMATOPOIETIC AGENTS",Epogen,Epoetin alfa Vial (Epogen)
+ANTICONVULSANTS,Eprontia,Topiramate Solution (Eprontia)
+"HEART DISEASE, HYPERLIPIDEMIA",Eprosartan,Eprosartan (Generic)
+HIV-AIDS,Epzicom,Abacavir/Lamivudine Tablet (Generic; Epzicom)
+ANTICONVULSANTS,Equetro,"Carbamazepine ER Capsule (Carbatrol, Equetro)"
+ONCOLOGY,Erleada,Apalutamide Tablet (Erleada)
+ONCOLOGY,Erlotinib,Erlotinib HCl Tablet (Generic; Tarceva)
+ANTIPSYCHOTIC AGENTS,Erzofri prefilled syringe,Paliperidone Palmitate (Erzofri)
+IDIOPATHIC PULMONARY FIBROSIS,Esbriet,"Pirfenidone Capsule, Tablet (Esbriet)"
+DIGESTIVE DISORDERS,Esomeprazole,Esomeprazole Capsule (Generic; Nexium)
+HEMOPHILIA TREATMENT,Esperoct,"Factor VIII, Recombinant Glycopegylated-exei (Esperoct)"
+DERMATOLOGY,Eucrisa,Crisaborole Ointment (Eucrisa)
+OSTEOPOROSIS,Evenity,Romosozumab-aqqg Syringe (Evenity)
+"HEART DISEASE, HYPERLIPIDEMIA",Evkeeza,Evinacumab-dgnb Vial (Evkeeza)
+HIV-AIDS,Evotaz,Atazanavir Sulfate/Cobicistat Tablet (Evotaz)
+SPINAL MUSCULAR ATROPHY,Evrysdi,Risdiplam (Evrysdi)
+ALZHEIMER’S AGENTS,Exelon,Rivastigmine Transdermal Patch (Exelon)
+OPHTHALMIC DISORDERS,Eysuvis ophthalmic suspension,Loteprednol Etabonate Suspension (Eysuvis)
+ANTIPSYCHOTIC AGENTS,Fanapt,"Iloperidone Tablet, Titration Pack (Fanapt)"
+DIABETES,Farxiga,Dapagliflozin Tablet (Farxiga)
+ASTHMA/COPD,Fasenra Asthma (adult),Benralizumab Syringe (Fasenra)
+ASTHMA/COPD,Fasenra Asthma (pediatric),Benralizumab Syringe (Fasenra)
+ASTHMA/COPD,Fasenra Eosinophilic Granulomatosis with Polyangitis (EGPA),Benralizumab Syringe (Fasenra)
 ANTICONVULSANTS,Felbatol oral suspension,Felbamate Tablet (Generic; Felbatol)
 ANTICONVULSANTS,Felbatol tablet,Felbamate Tablet (Generic; Felbatol)
+PITUITARY SUPPRESSIVE AGENTS,Fensolvi,Leuprolide Acetate Syringe Kit (Fensolvi)
+DEPRESSION,Fetzima,"Levomilnacipran ER Capsule, Titration Pack (Fetzima)"
+PAIN MANAGEMENT,Fexmid,Cyclobenzaprine Tablet (Fexmid)
+DIABETES,Fiasp,"Insulin Aspart Cartridge, Pen, Vial (Fiasp Penfill/PumpCart/FlexTouch; Fiasp)"
 DIABETES,Fiasp FlexTouch,"Insulin Aspart Cartridge, Pen, Vial (Fiasp Penfill/PumpCart/FlexTouch; Fiasp)"
 MULTIPLE SCLEROSIS,Fingolimod capsule,Fingolimod Capsule (Generic for Gilenya)
+ANTICONVULSANTS,Fintepla,Fenfluramine Solution (Fintepla)
 OPHTHALMIC DISORDERS,Flarex ophthalmic suspension,Fluorometholone Acetate 0.1% Suspension (Flarex)
+PAIN MANAGEMENT,Fleqsuvy,Baclofen Suspension (AG; Generic; Fleqsuvy)
+ASTHMA/COPD,Flovent Diskus,Fluticasone Propionate Inhalation Powder (AG; Flovent Diskus)
+ASTHMA/COPD,Flovent HFA,Fluticasone MDI (AG; Flovent HFA)
+ASTHMA/COPD,Fluticasone / Salmeterol generic Advair Diskus,Fluticasone/Salmeterol DPI (AG; Generic for Advair Diskus)
+ASTHMA/COPD,Fluticasone / Salmeterol generic Advair HFA,Fluticasone/Salmeterol MDI (AG for Advair HFA)
+OSTEOPOROSIS,Forteo,Teriparatide Pen (Generic; Forteo)
+"HEART DISEASE, HYPERLIPIDEMIA",Fosinopril,Fosinopril (Generic)
+ONCOLOGY,Fruzaqla,Fruquintinib Capsule (Fruzaqla)
+COLONY STIMULATING FACTORS,Fulphila,Pegfilgrastim-jmdb Syringe (Fulphila)
+HIV-AIDS,Fuzeon,Enfuvirtide Vial (Fuzeon)
+COLONY STIMULATING FACTORS,Fylnetra,Pegfilgrastim-pbbk Syringe (Fylnetra)
+ALZHEIMER’S AGENTS,Galantamine ER,"Galantamine ER Capsule, Solution, Tablet (Generic)"
 ALZHEIMER’S AGENTS,Galantamine oral solution,"Galantamine ER Capsule, Solution, Tablet (Generic)"
 ALZHEIMER’S AGENTS,Galantamine tablet,"Galantamine ER Capsule, Solution, Tablet (Generic)"
+IMMUNE GLOBULINS (IG),Gammagard,IG Intravenous [(Human) Gammagard Liquid]
+ONCOLOGY,Gavreto,Pralsetinib Capsule (Gavreto)
+GROWTH DEFICIENCY,Genotropin,"Somatropin Cartridge, Syringe (Genotropin)"
+HIV-AIDS,Genvoya,Elvitegravir/Cobicistat/Emtricitabine/Tenofovir AF (Genvoya)
+ANTIPSYCHOTIC AGENTS,Geodon IM injection,Ziprasidone Vial (Geodon)
+ANTIPSYCHOTIC AGENTS,Geodon capsule,Ziprasidone Capsule (Geodon)
 MULTIPLE SCLEROSIS,Gilenya capsule,Fingolimod Capsule (Gilenya)
+ONCOLOGY,Gilotrif,Afatinib Dimaleate Tablet (Gilotrif)
+MULTIPLE SCLEROSIS,"Glatiramer Acetate prefilled syringe, 20 mg/ml","Glatiramer Acetate Syringe 20mg, 40mg (Generic)"
+MULTIPLE SCLEROSIS,"Glatiramer Acetate prefilled syringe, 40 mg/ml","Glatiramer Acetate Syringe 20mg, 40mg (Generic)"
+ONCOLOGY,Gleevec,Imatinib Mesylate Tablet (Gleevec)
+DIABETES,Glyxambi,Linagliptin/Empagliflozin (Glyxambi) (See SGLT2 Criteria)
+ONCOLOGY,Gomekli capsule,"Mirdametinib Capsule, Tablet for Suspension (Gomekli)"
+ONCOLOGY,Gomekli soluble tablet,"Mirdametinib Capsule, Tablet for Suspension (Gomekli)"
+PAIN MANAGEMENT,Gralise,Gabapentin ER Tablet (Generic; Gralise)
+COLONY STIMULATING FACTORS,Granix,"Tbo-Filgrastim Injection Syringe, Vial (Granix)"
+"ANTI-ALLERGENS, ORAL",Grastek,Grass Pollen Allergen Extract [Timothy Grass] Sublingual Tablet (Grastek)
+PAIN MANAGEMENT,Hadlima Ankylosing Spondylitis,"Adalimumab-bwwd Kit, Pen Kit (Hadlima)"
+PAIN MANAGEMENT,Hadlima Crohn’s Disease (adult),"Adalimumab-bwwd Kit, Pen Kit (Hadlima)"
+PAIN MANAGEMENT,Hadlima Crohn’s Disease (pediatric),"Adalimumab-bwwd Kit, Pen Kit (Hadlima)"
+PAIN MANAGEMENT,Hadlima Hidradenitis Suppurativa,"Adalimumab-bwwd Kit, Pen Kit (Hadlima)"
+PAIN MANAGEMENT,Hadlima Plaque Psoriasis (adult),"Adalimumab-bwwd Kit, Pen Kit (Hadlima)"
+PAIN MANAGEMENT,Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-bwwd Kit, Pen Kit (Hadlima)"
+PAIN MANAGEMENT,Hadlima Psoriatic Arthritis (adult),"Adalimumab-bwwd Kit, Pen Kit (Hadlima)"
+PAIN MANAGEMENT,Hadlima Rheumatoid Arthritis,"Adalimumab-bwwd Kit, Pen Kit (Hadlima)"
+PAIN MANAGEMENT,Hadlima Ulcerative Colitis (adult),"Adalimumab-bwwd Kit, Pen Kit (Hadlima)"
+PAIN MANAGEMENT,Hadlima Uveitis (adult),"Adalimumab-bwwd Kit, Pen Kit (Hadlima)"
+INFECTIOUS DISORDERS,Harvoni,Ledipasvir/Sofosbuvir Tablet (AG; Harvoni)
+"HEART DISEASE, HYPERLIPIDEMIA",Hemangeol,Propranolol Oral Solution (Hemangeol)
+HEMOPHILIA TREATMENT,Hemgenix,Etranacogene Dezaparvovec-drlb (Hemgenix)
+HEMOPHILIA TREATMENT,Hemlibra,Emicizumab-kxwh (Hemlibra)
+PAIN MANAGEMENT,Horizant,Gabapentin Enacarbil Tablet (Horizant)
+PAIN MANAGEMENT,Hulio Ankylosing Spondylitis,"Adalimumab-fkjp Kit, Pen Kit (Hulio)"
+PAIN MANAGEMENT,Hulio Crohn’s Disease (adult),"Adalimumab-fkjp Kit, Pen Kit (Hulio)"
+PAIN MANAGEMENT,Hulio Crohn’s Disease (pediatric),"Adalimumab-fkjp Kit, Pen Kit (Hulio)"
+PAIN MANAGEMENT,Hulio Hidradenitis Suppurativa,"Adalimumab-fkjp Kit, Pen Kit (Hulio)"
+PAIN MANAGEMENT,Hulio Plaque Psoriasis (adult),"Adalimumab-fkjp Kit, Pen Kit (Hulio)"
+PAIN MANAGEMENT,Hulio Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-fkjp Kit, Pen Kit (Hulio)"
+PAIN MANAGEMENT,Hulio Psoriatic Arthritis (adult),"Adalimumab-fkjp Kit, Pen Kit (Hulio)"
+PAIN MANAGEMENT,Hulio Rheumatoid Arthritis,"Adalimumab-fkjp Kit, Pen Kit (Hulio)"
+PAIN MANAGEMENT,Hulio Ulcerative Colitis (adult),"Adalimumab-fkjp Kit, Pen Kit (Hulio)"
+PAIN MANAGEMENT,Hulio Uveitis (adult),"Adalimumab-fkjp Kit, Pen Kit (Hulio)"
+DIABETES,Humalog Junior KwikPen,Insulin Lispro Pen (Humalog Junior KwikPen/KwikPen/Tempo Pen U-100)
+DIABETES,"Humalog KwikPen, U-100",Insulin Lispro Pen (Humalog Junior KwikPen/KwikPen/Tempo Pen U-100)
+DIABETES,Humalog vial,"Insulin Lispro Cartridge, Vial (Humalog)"
+GROWTH DEFICIENCY,Humatrope,Somatropin Cartridge (Humatrope)
+PAIN MANAGEMENT,Humira Ankylosing Spondylitis,"Adalimumab Pen Kit, Syringe Kit (Humira)"
+PAIN MANAGEMENT,Humira Crohn's Disease (adult),"Adalimumab Pen Kit, Syringe Kit (Humira)"
+PAIN MANAGEMENT,Humira Crohn's Disease (pediatric),"Adalimumab Pen Kit, Syringe Kit (Humira)"
+PAIN MANAGEMENT,Humira Hidradenitis Suppurativa,"Adalimumab Pen Kit, Syringe Kit (Humira)"
+PAIN MANAGEMENT,Humira Plaque Psoriasis (adult),"Adalimumab Pen Kit, Syringe Kit (Humira)"
+PAIN MANAGEMENT,Humira Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab Pen Kit, Syringe Kit (Humira)"
+PAIN MANAGEMENT,Humira Psoriatic Arthritis (adult),"Adalimumab Pen Kit, Syringe Kit (Humira)"
+PAIN MANAGEMENT,Humira Rheumatoid Arthritis,"Adalimumab Pen Kit, Syringe Kit (Humira)"
+PAIN MANAGEMENT,Humira Ulcerative Colitis (adult),"Adalimumab Pen Kit, Syringe Kit (Humira)"
+PAIN MANAGEMENT,Humira Ulcerative Colitis (pediatric),"Adalimumab Pen Kit, Syringe Kit (Humira)"
+PAIN MANAGEMENT,Humira Uveitis (adult),"Adalimumab Pen Kit, Syringe Kit (Humira)"
+PAIN MANAGEMENT,Humira Uveitis (pediatric),"Adalimumab Pen Kit, Syringe Kit (Humira)"
+ONCOLOGY,Hycamtin capsule,Topotecan HCl Capsule (Hycamtin)
+ONCOLOGY,Hycamtin vial,Topotecan HCl Capsule (Hycamtin)
+HEMOPHILIA TREATMENT,Hympavzi auto-injector,Marstacimab-hncq (Hympavzi)
+PAIN MANAGEMENT,Hyrimoz Ankylosing Spondylitis,"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)"
+PAIN MANAGEMENT,Hyrimoz Crohn’s Disease (adult),"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)"
+PAIN MANAGEMENT,Hyrimoz Crohn’s Disease (pediatric),"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)"
+PAIN MANAGEMENT,Hyrimoz Hidradenitis Suppurativa,"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)"
+PAIN MANAGEMENT,Hyrimoz Plaque Psoriasis (adult),"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)"
+PAIN MANAGEMENT,Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)"
+PAIN MANAGEMENT,Hyrimoz Psoriatic Arthritis (adult),"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)"
+PAIN MANAGEMENT,Hyrimoz Rheumatoid Arthritis,"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)"
+PAIN MANAGEMENT,Hyrimoz Ulcerative Colitis (adult),"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)"
+PAIN MANAGEMENT,Hyrimoz Uveitis (adult),"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)"
+ONCOLOGY,Ibrance,"Palbociclib Capsule, Tablet (Ibrance)"
+ONCOLOGY,Iclusig,Ponatinib HCl Tablet (Iclusig)
+PAIN MANAGEMENT,Idacio Ankylosing Spondylitis,"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)"
+PAIN MANAGEMENT,Idacio Crohn’s Disease (adult),"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)"
+PAIN MANAGEMENT,Idacio Crohn’s Disease (pediatric),"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)"
+PAIN MANAGEMENT,Idacio Hidradenitis Suppurativa,"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)"
+PAIN MANAGEMENT,Idacio Plaque Psoriasis (adult),"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)"
+PAIN MANAGEMENT,Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)"
+PAIN MANAGEMENT,Idacio Psoriatic Arthritis (adult),"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)"
+PAIN MANAGEMENT,Idacio Rheumatoid Arthritis,"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)"
+PAIN MANAGEMENT,Idacio Ulcerative Colitis (adult),"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)"
+PAIN MANAGEMENT,Idacio Uveitis (adult),"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)"
+HEMOPHILIA TREATMENT,Idelvion,"Factor IX Recombinant, Albumin Fusion (Idelvion)"
+ONCOLOGY,Idhifa,Enasidenib Mesylate Tablet (Idhifa)
+PAIN MANAGEMENT,Ilaris Adult-Onset Still’s Disease,Canakinumab/PF Vial (Ilaris)
+PAIN MANAGEMENT,Ilaris Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),Canakinumab/PF Vial (Ilaris)
+PAIN MANAGEMENT,Ilaris Familial Mediterranean Fever (FMF),Canakinumab/PF Vial (Ilaris)
+PAIN MANAGEMENT,Ilaris Gout Flares,Canakinumab/PF Vial (Ilaris)
+PAIN MANAGEMENT,Ilaris Hyperimmunoglobulin D Syndrome (HIDS)/Mevalonate Kinase Deficiency (MKD),Canakinumab/PF Vial (Ilaris)
+PAIN MANAGEMENT,Ilaris Systemic-Onset Juvenile Idiopathic Arthritis (SJIA),Canakinumab/PF Vial (Ilaris)
+PAIN MANAGEMENT,Ilaris Tumor Necrosis Factor Receptor Associated Periodic Syndrome (TRAPS),Canakinumab/PF Vial (Ilaris)
+OPHTHALMIC DISORDERS,Ilevro ophthalmic suspension,Nepafenac 0.3% Suspension (Ilevro)
+PAIN MANAGEMENT,Ilumya Plaque Psoriasis (adult),Tildrakizumab-asmn Syringe (Ilumya)
+ONCOLOGY,Imatinib,Imatinib Mesylate Tablet (Generic)
+ONCOLOGY,Imbruvica,Ibrutinib Tablet (Imbruvica)
+ASTHMA/COPD,Incruse Ellipta,Umeclidinium Inhalation Powder (Incruse Ellipta)
+PAIN MANAGEMENT,Inflectra,"Infliximab-dyyb Syringe, Pen, Vial (Zymfentra; Inflectra)"
+MOVEMENT DISORDERS,Ingrezza,"Valbenazine Capsule, Sprinkle (Ingrezza)"
+MOVEMENT DISORDERS,Ingrezza sprinkle capsule,"Valbenazine Capsule, Sprinkle (Ingrezza)"
+MOVEMENT DISORDERS,Ingrezza titration pack,Valbenazine Capsule Initiation Pack (Ingrezza)
+DIABETES,Insulin Glargine,"Insulin Glargine Pen, Vial (Generic; Lantus SoloStar; Lantus)"
+DIABETES,Insulin Lispro,Insulin Lispro (AG for Humalog Junior KwikPen)
+HIV-AIDS,Intelence,Etravirine Tablet (Generic; Intelence)
+ANTIPSYCHOTIC AGENTS,Invega ER,Paliperidone ER Tablet (Invega)
+ANTIPSYCHOTIC AGENTS,Invega Hafyera,Paliperidone Palmitate (Invega Hafyera/Sustenna/Trinza)
+ANTIPSYCHOTIC AGENTS,Invega Sustenna,Paliperidone Palmitate (Invega Hafyera/Sustenna/Trinza)
+ANTIPSYCHOTIC AGENTS,Invega Trinza,Paliperidone Palmitate (Invega Hafyera/Sustenna/Trinza)
+DIABETES,Invokamet,"Canagliflozin/Metformin ER Tablet, Tablet (Invokamet XR; Invokamet)"
+DIABETES,Invokamet XR,"Canagliflozin/Metformin ER Tablet, Tablet (Invokamet XR; Invokamet)"
+DIABETES,Invokana,Canagliflozin Tablet (Invokana)
+OPHTHALMIC DISORDERS,Iopidine ophthalmic solution,Apraclonidine Solution 0.5% (Generic; Iopidine)
+ASTHMA/COPD,Ipratropium/Albuterol nebulized solution,Ipratropium/Albuterol Sulfate Nebulizer Solution (Generic)
+DIGESTIVE DISORDERS,Iqirvo tablet,Elafibranor Tablet (Iqirvo)
+"HEART DISEASE, HYPERLIPIDEMIA",Irbesartan,Irbesartan (Generic)
+ONCOLOGY,Iressa,Gefitinib Tablet (Generic; Iressa)
+HIV-AIDS,Isentress,"Raltegravir Potassium Chewable, Powder Pack, Tablet (Isentress)"
+ONCOLOGY,Iwilfin,Eflornithine Tablet (Iwilfin)
+HEMOPHILIA TREATMENT,Ixinity,Factor IX Human Recombinant (Ixinity)
+ONCOLOGY,Jakafi,Ruxolitinib Phosphate Tablet (Jakafi)
+DIABETES,Janumet,Sitagliptin Phosphate/Metformin Tablet (Janumet)
+DIABETES,Januvia,Sitagliptin Phosphate Tablet (Januvia)
+DIABETES,Jardiance,Empagliflozin Tablet (Jardiance)
+DIABETES,Jentadueto,Linagliptin/Metformin Tablet (Jentadueto)
+HEMOPHILIA TREATMENT,Jivi,"Factor VIII, Recombinant, PEGylated-aucl (Jivi)"
+ADD/ADHD,Jornay PM,"Methylphenidate ER Capsule (Jornay PM, Ritalin LA)"
+HIV-AIDS,Kaletra,"Lopinavir/Ritonavir Solution, Tablet (Generic; Kaletra)"
+"CYSTIC FIBROSIS, ORAL",Kalydeco,"Ivacaftor Packet, Tablet (Kalydeco)"
+ANTICONVULSANTS,Keppra XR,Levetiracetam ER Tablet (Keppra XR)
+ANTICONVULSANTS,Keppra oral solution,"Levetiracetam Solution, Tablet (Keppra)"
+ANTICONVULSANTS,Keppra tablet,"Levetiracetam Solution, Tablet (Keppra)"
+MULTIPLE SCLEROSIS,Kesimpta,Ofatumumab Pen (Kesimpta)
+PAIN MANAGEMENT,Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Sarilumab Pen, Syringe (Kevzara)"
+PAIN MANAGEMENT,Kevzara Polymyalgia Rheumatica (PMR),"Sarilumab Pen, Syringe (Kevzara)"
+PAIN MANAGEMENT,Kevzara Rheumatoid Arthritis,"Sarilumab Pen, Syringe (Kevzara)"
+PAIN MANAGEMENT,Kineret,Anakinra Syringe (Kineret)
+ONCOLOGY,Kisqali,Ribociclib Succinate Tablet (Kisqali)
+INFECTIOUS DISORDERS,Kitabis Pak,Tobramycin Inhalation Solution Pak (AG; Kitabis Pak)
+OPIATE DEPENDENCE AGENTS,Kloxxado,Naloxone Nasal Spray (Kloxxado)
+HEMOPHILIA TREATMENT,Kogenate FS,Factor VIII (Kogenate FS)
+DIABETES,Kombiglyze XR,Saxagliptin/Metformin ER Tablet (Generic; Kombiglyze XR)
+DIGESTIVE DISORDERS,Konvomep,Omeprazole/Sodium Bicarbonate for Oral Suspension (Konvomep)
+ONCOLOGY,Koselugo,Selumetinib Capsule (Koselugo)
+HEMOPHILIA TREATMENT,Kovaltry,Factor VIII (Kovaltry)
+ONCOLOGY,Krazati,Adagrasib Tablet (Krazati)
+GOUT AGENTS,Krystexxa,Pegloticase Intravenous (Krystexxa)
+ANTICONVULSANTS,Lamictal ODT,Lamotrigine ODT (Generic; Lamictal)
+ANTICONVULSANTS,Lamictal tablet,"Lamotrigine Dispersible Tablet, Tablet (Lamictal)"
+ANTICONVULSANTS,Lamotrigine,"Lamotrigine Dispersible Tablet, ER Tablet, Tablet (Generic)"
+DIGESTIVE DISORDERS,Lansoprazole,"Lansoprazole Capsule, ODT (Generic)"
+H. PYLORI TREATMENT,Lansoprazole / Amoxicillin / Clarithromycin,Lansoprazole/Amoxicillin/Clarithromycin (Generic for Prevpac)
+DIABETES,Lantus SoloStar,"Insulin Glargine Pen, Vial (Generic; Lantus SoloStar; Lantus)"
+DIABETES,Lantus vial,"Insulin Glargine Pen, Vial (Generic; Lantus SoloStar; Lantus)"
+ANTIPSYCHOTIC AGENTS,Latuda,Lurasidone Tablet (Latuda)
+INFECTIOUS DISORDERS,Ledipasvir / Sofosbuvir,Ledipasvir/Sofosbuvir Tablet (AG; Harvoni)
+"HEART DISEASE, HYPERLIPIDEMIA",Letairis,Ambrisentan Tablet (Letairis)
+COLONY STIMULATING FACTORS,Leukine,Sargramostim Vial (Leukine)
+ASTHMA/COPD,Levalbuterol Tartrate inhalation aerosol solution,Levalbuterol Nebulizer Solution (Generic)
+DIABETES,Levemir FlexTouch,"Insulin Detemir Pen, Vial (Levemir)"
+DIABETES,Levemir vial,"Insulin Detemir Pen, Vial (Levemir)"
+HIV-AIDS,Lexiva,Fosamprenavir Tablet (Generic for Lexiva)
+ANTICONVULSANTS,Libervant buccal film,Diazepam Buccal Film (Libervant)
+"GI MOTILITY, CHRONIC",Linzess,Linaclotide Capsule (Linzess)
+"HEART DISEASE, HYPERLIPIDEMIA",Lisinopril,Lisinopril (Generic)
+PAIN MANAGEMENT,Litfulo Alopecia Areata,Ritlecitinib Capsule (Litfulo)
+DIGESTIVE DISORDERS,Livdelzi capsule,Seladelpar Capsule (Livdelzi)
+DIGESTIVE DISORDERS,Livmarli Alagille Syndrome (ALGS),Maralixibat Solution (Livmarli)
+DIGESTIVE DISORDERS,Livmarli Progressive Familial Intrahepatic Cholestasis (PFIC),Maralixibat Solution (Livmarli)
+POTASSIUM BINDERS,Lokelma,Sodium Zirconium Cyclosilicate Packet (Lokelma)
+ONCOLOGY,Lorbrena,Lorlatinib Tablet (Lorbrena)
+PAIN MANAGEMENT,Lorzone,Chlorzoxazone Tablet (Generic; Lorzone)
+"HEART DISEASE, HYPERLIPIDEMIA",Losartan,Losartan (Generic)
+OPIATE DEPENDENCE AGENTS,Lucemyra,Lofexidine Tablet (Generic; Lucemyra)
+ONCOLOGY,Lumakras,Sotorasib Tablet (Lumakras)
+OPHTHALMIC DISORDERS,Lumigan 2.5 mL,"Bimatoprost 0.01% Solution 2.5 mL, 5mL, 7.5mL (Lumigan)"
+OPHTHALMIC DISORDERS,Lumigan 5 mL,"Bimatoprost 0.01% Solution 2.5 mL, 5mL, 7.5mL (Lumigan)"
+OPHTHALMIC DISORDERS,Lumigan 7.5 mL,"Bimatoprost 0.01% Solution 2.5 mL, 5mL, 7.5mL (Lumigan)"
+LUPUS IMMUNOMODULATORS,Lupkynis,Voclosporin Capsule (Lupkynis)
+PITUITARY SUPPRESSIVE AGENTS,Lupron Depot-Ped 1-Month,Leuprolide Acetate (Lupron Depot-Ped Kit; Lupron Depot-Ped)
+PITUITARY SUPPRESSIVE AGENTS,Lupron Depot-Ped 3-Month,Leuprolide Acetate (Lupron Depot-Ped Kit; Lupron Depot-Ped)
+PITUITARY SUPPRESSIVE AGENTS,Lupron Depot-Ped 6-Month,Leuprolide Acetate (Lupron Depot-Ped Kit; Lupron Depot-Ped)
+ANTIPSYCHOTIC AGENTS,Lurasidone,Lurasidone Tablet (Generic)
+ANTIPSYCHOTIC AGENTS,Lybalvi,Olanzapine/Samidorphan Tablet (Lybalvi)
+ONCOLOGY,Lynparza,"Olaparib Capsule, Tablet (Lynparza)"
+PAIN MANAGEMENT,Lyrica,Pregabalin Capsule (Lyrica)
+DIABETES,"Lyumjev KwikPen, U-100",Insulin Lispro-aabc Pen (Lyumjev KwikPen; Lyumjev Tempo Pen)
+DIABETES,"Lyumjev KwikPen, U-200",Insulin Lispro-aabc Pen (Lyumjev KwikPen; Lyumjev Tempo Pen)
+DIABETES,Lyumjev vial,Insulin Lispro-aabc Vial (Lyumjev)
+PAIN MANAGEMENT,Lyvispah,Baclofen Granule Pack (Lyvispah)
+INFECTIOUS DISORDERS,Mavyret,"Glecaprevir/Pibrentasvir Pellet Pack, Tablet (Mavyret)"
+OPHTHALMIC DISORDERS,Maxidex ophthalmic suspension,Dexamethasone Suspension (Maxidex)
+OPHTHALMIC DISORDERS,Maxitrol ophthalmic ointment,"Neomycin/Polymyxin B/Dexamethasone Ointment, Suspension (Maxitrol)"
+OPHTHALMIC DISORDERS,Maxitrol ophthalmic suspension,"Neomycin/Polymyxin B/Dexamethasone Ointment, Suspension (Maxitrol)"
+ALZHEIMER’S AGENTS,Memantine XR,Memantine ER Capsule (AG; Generic; Namenda XR)
+ALZHEIMER’S AGENTS,Memantine oral solution,Memantine Solution (Generic)
+ALZHEIMER’S AGENTS,Memantine tablet,Memantine Tablet (AG; Generic)
+PAIN MANAGEMENT,Metaxalone,Metaxalone Tablet (Generic)
+"HEART DISEASE, HYPERLIPIDEMIA",Metoprolol Succinate ER tablet,Metoprolol Succinate ER Tablet (AG; Generic)
+INFECTIOUS DISORDERS,Metrogel 0.75%,Metronidazole Vaginal Gel (Generic for MetroGel-Vaginal)
+INFECTIOUS DISORDERS,Metronidazole 0.75% Gel,Metronidazole Vaginal Gel (Generic for MetroGel-Vaginal)
+OPHTHALMIC DISORDERS,Miebo,Perfluorohexyloctane/PF (Miebo)
+ENZYME REPLACEMENTS,Miglustat capsule,Miglustat Capsule (AG; Generic; Zavesca)
+"HEART DISEASE, HYPERLIPIDEMIA",Moexipril,Moexipril (Generic)
+ANTICONVULSANTS,Motpoly XR,"Lacosamide ER Capsule, Tablet (Motpoly XR; Vimpat)"
+DIABETES,Mounjaro,Tirzepatide Pen (Mounjaro)
+THROMBOPOIESIS STIMULATING PROTEINS,Mulpleta,Lusutrombopag Tablet (Mulpleta)
+UTERINE DISORDER TREATMENTS,Myfembree Endometriosis,Relugolix/Estradiol/Norethindrone Acetate (Myfembree)
+UTERINE DISORDER TREATMENTS,Myfembree Uterine Fibroids,Relugolix/Estradiol/Norethindrone Acetate (Myfembree)
+OPIATE DEPENDENCE AGENTS,Naloxone carpuject,"Naloxone Syringe, Vial (Generic)"
+OPIATE DEPENDENCE AGENTS,Naloxone nasal spray,Naloxone Nasal Spray Rx (AG; Generic)
+OPIATE DEPENDENCE AGENTS,Naloxone vial,"Naloxone Syringe, Vial (Generic)"
+ALZHEIMER’S AGENTS,Namenda XR,Memantine ER Capsule (AG; Generic; Namenda XR)
+ALZHEIMER’S AGENTS,Namzaric,"Memantine/Donepezil ER Capsule (Namzaric, Namzaric Titration Pack)"
+OPIATE DEPENDENCE AGENTS,Narcan,Naloxone Nasal Spray Rx (Narcan; Rextovy)
+OPHTHALMIC DISORDERS,Natacyn (Natamycin) ophthalmic suspension,Natamycin Suspension (Natacyn)
+DERMATOLOGY,Natroba,Spinosad Suspension (Natroba)
+ANTICONVULSANTS,Nayzilam,Midazolam Nasal Spray (Nayzilam)
+"EPINEPHRINE, SELF-ADMINISTERED",Neffy nasal solution,Epinephrine Nasal Spray (Neffy)
+DERMATOLOGY,"Nemluvio auto-injector, Atopic Dermatitis (adult)",Nemolizumab-ilto Pen (Nemluvio)
+DERMATOLOGY,"Nemluvio auto-injector, Atopic Dermatitis (pediatric)",Nemolizumab-ilto Pen (Nemluvio)
+DERMATOLOGY,"Nemluvio auto-injector, Prurigo Nodularis",Nemolizumab-ilto Pen (Nemluvio)
+COLONY STIMULATING FACTORS,Neulasta,"Pegfilgrastim Kit, Syringe (Neulasta)"
+COLONY STIMULATING FACTORS,Neulasta Onpro,"Pegfilgrastim Kit, Syringe (Neulasta)"
+COLONY STIMULATING FACTORS,Neupogen,"Filgrastim Syringe, Vial (Neupogen)"
+OPHTHALMIC DISORDERS,Nevanac ophthalmic suspension,Nepafenac 0.1% Suspension (Nevanac)
+ONCOLOGY,Nexavar,Sorafenib Tosylate Tablet (Generic; Nexavar)
+DIGESTIVE DISORDERS,Nexium DR capsule,Esomeprazole Capsule (Generic; Nexium)
+DIGESTIVE DISORDERS,Nexium DR packet for oral suspension,Esomeprazole Suspension (Nexium)
+GROWTH DEFICIENCY,Ngenla,Somatrogon-ghla Pen (Ngenla)
+ONCOLOGY,Ninlaro,Ixazomib Citrate Capsule (Ninlaro)
+COLONY STIMULATING FACTORS,Nivestym,"Filgrastim-aafi Syringe, Vial (Nivestym)"
+GROWTH DEFICIENCY,Norditropin,Somatropin Pen (Norditropin FlexPro)
+PAIN MANAGEMENT,Norgesic Forte,Orphenadrine/Aspirin/Caffeine (Generic; Norgesic Forte)
+HIV-AIDS,Norvir,Ritonavir Powder Pack (Norvir)
+HEMOPHILIA TREATMENT,Novoeight,"Factor VIII, B-Domain-Truncated (Novoeight)"
+DIABETES,Novolin 70/30,"Insulin Isophane (NPH)/Insulin Regular Pen OTC, Vial OTC (Novolin 70/30)"
+DIABETES,Novolin 70/30 Flexpen OTC,"Insulin Isophane (NPH)/Insulin Regular Pen OTC, Vial OTC (Novolin 70/30)"
+DIABETES,Novolin N,"Insulin Human Pen OTC, Vial OTC (Novolin N; Novolin R)"
+DIABETES,Novolin R,"Insulin Human Pen OTC, Vial OTC (Novolin N; Novolin R)"
+DIABETES,Novolog,"Insulin Aspart Cartridge, Pen, Vial (Novolog)"
+DIABETES,Novolog 70/30,"Insulin Aspart Protamine/Aspart Pen, Vial (Novolog Mix 70/30)"
+DIABETES,Novolog 70/30 FlexPen,"Insulin Aspart Protamine/Aspart Pen, Vial (Novolog Mix 70/30)"
+DIABETES,Novolog FlexPen,"Insulin Aspart Cartridge, Pen, Vial (Novolog)"
+DIABETES,Novolog cartridge,"Insulin Aspart Cartridge, Pen, Vial (Novolog)"
+HEMOPHILIA TREATMENT,Novoseven RT,"Factor VIIa, Recombinant (NovoSeven RT)"
+THROMBOPOIESIS STIMULATING PROTEINS,Nplate,Romiplostim Vial (Nplate)
+ONCOLOGY,Nubeqa,Darolutamide Tablet (Nubeqa)
+ASTHMA/COPD,Nucala Asthma (adult),Mepolizumab Vial (Nucala)
+ASTHMA/COPD,Nucala Asthma (pediatric),Mepolizumab Vial (Nucala)
+ASTHMA/COPD,Nucala Chronic Rhinosinusitis with Nasal Polyposis,Mepolizumab Vial (Nucala)
+ASTHMA/COPD,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),Mepolizumab Vial (Nucala)
+ASTHMA/COPD,Nucala Hypereosinophilic Syndrome (HES),Mepolizumab Vial (Nucala)
+ANTIPSYCHOTIC AGENTS,Nuplazid,"Pimavanserin Capsule, Tablet (Nuplazid)"
+PAIN MANAGEMENT,Nurtec ODT Acute Treatment,Rimegepant Disintegrating Tablet (Nurtec ODT)
+PAIN MANAGEMENT,Nurtec ODT Migraine Prophylaxis,Rimegepant Disintegrating Tablet (Nurtec ODT)
+GROWTH DEFICIENCY,Nutropin AQ,Somatropin Pen (Nutropin AQ NuSpin)
+INFECTIOUS DISORDERS,Nuvessa,Metronidazole Vaginal Gel (Nuvessa)
+HEMOPHILIA TREATMENT,Nuwiq,"Factor VIII, HEK B-Domain-Deleted (Nuwiq)"
+COLONY STIMULATING FACTORS,Nyvepria,Pegfilgrastim-apgf Syringe (Nyvepria)
+MULTIPLE SCLEROSIS,Ocrevus,Ocrelizumab Vial (Ocrevus)
+MULTIPLE SCLEROSIS,Ocrevus Zunovo subcutaneous vial,Ocrelizumab Vial (Ocrevus)
+"ANTI-ALLERGENS, ORAL",Odactra,House Dust Mite Allergen Extract Sublingual Tablet (Odactra)
+HIV-AIDS,Odefsey,Emtricitabine/Rilpivirine/Tenofovir AF Tablet (Odefsey)
+IDIOPATHIC PULMONARY FIBROSIS,Ofev,Nintedanib Capsule (Ofev)
+ONCOLOGY,Ogsiveo,Nirogacestat Tablet (Ogsiveo)
+ONCOLOGY,Ojemda,"Tovorafenib Suspension, Tablet (Ojemda)"
+ANTIPSYCHOTIC AGENTS,Olanzapine And Fluoxetine,Olanzapine/Fluoxetine Capsule (Generic; Symbyax)
+ANTIPSYCHOTIC AGENTS,Olanzapine ODT,"Olanzapine ODT, Tablet (Generic)"
+ANTIPSYCHOTIC AGENTS,Olanzapine tablet,"Olanzapine ODT, Tablet (Generic)"
+"HEART DISEASE, HYPERLIPIDEMIA",Olmesartan,Olmesartan (AG; Generic)
+UREA CYCLE DISORDERS,Olpruva,Sodium Phenylbutyrate Pellet for Oral Suspension (Olpruva)
+PAIN MANAGEMENT,Olumiant Alopecia Areata,Baricitinib Tablet (Olumiant)
+PAIN MANAGEMENT,Olumiant Coronavirus Disease 2019,Baricitinib Tablet (Olumiant)
+PAIN MANAGEMENT,Olumiant Rheumatoid Arthritis,Baricitinib Tablet (Olumiant)
+H. PYLORI TREATMENT,Omeclamox-Pak,Omeprazole/Clarithromycin/Amoxicillin (Omeclamox-Pak)
+DIGESTIVE DISORDERS,Omeprazole capsule,Omeprazole Capsule Rx (Generic)
+GROWTH DEFICIENCY,Omnitrope,"Somatropin Cartridge, Vial (Omnitrope)"
+ANTICONVULSANTS,Onfi oral suspension,"Clobazam Suspension, Tablet (Onfi)"
+ANTICONVULSANTS,Onfi tablet,"Clobazam Suspension, Tablet (Onfi)"
+DIABETES,Onglyza,Saxagliptin Tablet (Generic; Onglyza)
+ONCOLOGY,Onureg,Azacitidine Tablet (Onureg)
+"HEART DISEASE, HYPERLIPIDEMIA",Opsumit,Macitentan Tablet (Opsumit)
+"HEART DISEASE, HYPERLIPIDEMIA",Opsynvi tablet,Macitentan and Tadalafil Tablet (Opsynvi)
+OPIATE DEPENDENCE AGENTS,Opvee (Nalmefene),Nalmefene Nasal Spray (Opvee)
+DERMATOLOGY,"Opzelura cream, Atopic Dermatitis",Ruxolitinib Cream (Opzelura)
+DERMATOLOGY,"Opzelura cream, Nonsegmental Vitiligo",Ruxolitinib Cream (Opzelura)
+"ANTI-ALLERGENS, ORAL",Oralair,Mixed Grass Allergen Extracts Sublingual Tablet (Oralair)
+PAIN MANAGEMENT,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
+PAIN MANAGEMENT,"Orencia ClickJect, Psoriatic Arthritis (adult)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
+PAIN MANAGEMENT,"Orencia ClickJect, Psoriatic Arthritis (pediatric)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
+PAIN MANAGEMENT,"Orencia ClickJect, Rheumatoid Arthritis","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
+PAIN MANAGEMENT,"Orencia prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
+PAIN MANAGEMENT,"Orencia prefilled syringe, Psoriatic Arthritis (adult)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
+PAIN MANAGEMENT,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
+PAIN MANAGEMENT,"Orencia prefilled syringe, Rheumatoid Arthritis","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
+PAIN MANAGEMENT,"Orencia vial, Acute Graft Versus Host Disease (aGVHD)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
+PAIN MANAGEMENT,"Orencia vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
+PAIN MANAGEMENT,"Orencia vial, Psoriatic Arthritis (adult)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
+PAIN MANAGEMENT,"Orencia vial, Rheumatoid Arthritis","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
+"HEART DISEASE, HYPERLIPIDEMIA",Orenitram ER,"Treprostinil ER Tablet, Titration Kit (Orenitram ER; Orenitram Month 1/2/3)"
+UTERINE DISORDER TREATMENTS,Oriahnn,Elagolix/Estradiol/Norethindrone Capsule (Oriahnn)
+UTERINE DISORDER TREATMENTS,Orilissa,Elagolix Tablet (Orilissa)
+HEREDITARY ANGIOEDEMA,Orladeyo,Berotralstat Hydrochloride Capsule (Orladeyo)
+PAIN MANAGEMENT,Orphenadrine ER,Orphenadrine ER Tablet (Generic)
+"ANTIVIRALS, ORAL",Oseltamivir,"Oseltamivir Capsule, Suspension (Generic)"
+PAIN MANAGEMENT,Otezla Behcet’s Disease,Apremilast Tablet (Otezla)
+PAIN MANAGEMENT,Otezla Plaque Psoriasis (adult),Apremilast Tablet (Otezla)
+PAIN MANAGEMENT,Otezla Plaque Psoriasis (pediatric),Apremilast Tablet (Otezla)
+PAIN MANAGEMENT,Otezla Psoriatic Arthritis (adult),Apremilast Tablet (Otezla)
+DIABETES,Ozempic,Semaglutide Pen (Ozempic)
+OPHTHALMIC DISORDERS,Ozurdex,Dexamethasone Intravitreal Implant (Ozurdex)
+ANTIPSYCHOTIC AGENTS,Paliperidone ER,Paliperidone ER Tablet (AG; Generic)
+DIGESTIVE DISORDERS,Pantoprazole DR packet for oral suspension,Pantoprazole Suspension (Generic; Protonix)
+DIGESTIVE DISORDERS,Pantoprazole tablet,Pantoprazole Tablet (Generic)
+DEPRESSION,"Paroxetine 7.5 mg, IR capsule",Paroxetine Mesylate Capsule (AG; Generic for Brisdelle)
+"HEART DISEASE, HYPERLIPIDEMIA",Perindopril,Perindopril (Generic)
+ANTIPSYCHOTIC AGENTS,Perseris,Risperidone ER Suspension (SQ) (Perseris; Uzedy)
+UREA CYCLE DISORDERS,Pheburane,Sodium Phenylbutyrate Pellet (Pheburane)
+MULTIPLE SCLEROSIS,Ponvory starter pack,"Ponesimod Starter Pack, Tablet (Ponvory)"
+MULTIPLE SCLEROSIS,Ponvory tablet,"Ponesimod Starter Pack, Tablet (Ponvory)"
+"HEART DISEASE, HYPERLIPIDEMIA",Pradaxa,"Dabigatran Capsule, Pellet Pack (Pradaxa)"
+"HEART DISEASE, HYPERLIPIDEMIA",Praluent,Alirocumab Subcutaneous Pen (Praluent)
+DIGESTIVE DISORDERS,Prevacid SoluTab,Lansoprazole ODT (Prevacid SoluTab)
+DIGESTIVE DISORDERS,Prevacid capsule,Lansoprazole Capsule (Prevacid)
+HIV-AIDS,Prezcobix,Darunavir/Cobicistat Tablet (Prezcobix)
+HIV-AIDS,Prezista oral suspension,Darunavir Ethanolate Suspension (Prezista)
+HIV-AIDS,Prezista tablet,Darunavir Ethanolate Tablet (Generic; Prezista)
+DIGESTIVE DISORDERS,Prilosec DR packet for oral suspension,Omeprazole Granules for Suspension (Prilosec)
+ASTHMA/COPD,Proair Digihaler,Albuterol Sulfate Inhalation Powder (ProAir Digihaler)
+ASTHMA/COPD,Proair Respiclick,Albuterol Sulfate Inhalation Powder (ProAir RespiClick)
+"HEMATOLOGIC AGENTS, HEMATOPOIETIC AGENTS",Procrit,Epoetin alfa Vial (Procrit)
+"IMMUNOSUPPRESSIVES, ORAL",Prograf capsule,"Tacrolimus Capsule, Granule Packet (Prograf)"
+"IMMUNOSUPPRESSIVES, ORAL",Prograf packet for oral suspension,"Tacrolimus Capsule, Granule Packet (Prograf)"
+THROMBOPOIESIS STIMULATING PROTEINS,Promacta oral suspension,Eltrombopag Olamine Suspension Packet (Promacta)
+THROMBOPOIESIS STIMULATING PROTEINS,Promacta tablet,Eltrombopag Olamine Tablet (Promacta)
+DIGESTIVE DISORDERS,Protonix DR packet oral suspension,Pantoprazole Suspension (Generic; Protonix)
+DIGESTIVE DISORDERS,Protonix DR tablet,Pantoprazole Tablet (Protonix)
+ASTHMA/COPD,Pulmicort Flexhaler,Budesonide DPI (Pulmicort Flexhaler)
+ASTHMA/COPD,Pulmicort Respules 0.25 mg,"Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Pulmicort Respules)"
+ASTHMA/COPD,Pulmicort Respules 0.5 mg,"Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Pulmicort Respules)"
+ASTHMA/COPD,Pulmicort Respules 1 mg,"Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Pulmicort Respules)"
+H. PYLORI TREATMENT,Pylera,Bismuth Subcitrate /Metronidazole/Tetracycline (Pylera)
+ADD/ADHD,Qelbree,Viloxazine ER Capsule (Qelbree)
+DIABETES,Qtern,Saxagliptin/Dapagliflozin Tablet (Qtern) (See SGLT2 Criteria)
+ANTIPSYCHOTIC AGENTS,Quetiapine,Quetiapine Tablet (Generic)
+ANTIPSYCHOTIC AGENTS,Quetiapine ER,Quetiapine ER Tablet (Generic)
+ADD/ADHD,Quillichew XR,"Methylphenidate ER Chewable, ER Suspension (QuilliChew ER; Quillivant XR)"
+ADD/ADHD,Quillivant XR,"Methylphenidate ER Chewable, ER Suspension (QuilliChew ER; Quillivant XR)"
+"HEART DISEASE, HYPERLIPIDEMIA",Quinapril,Quinapril (Generic; Accupril)
+PAIN MANAGEMENT,Qulipta,Atogepant Tablet (Qulipta)
+ASTHMA/COPD,Qvar,Beclomethasone Breath-Actuated HFA (QVAR RediHaler)
+DIGESTIVE DISORDERS,Rabeprazole tablet,Rabeprazole Tablet (Generic for AcipHex)
+"ANTI-ALLERGENS, ORAL",Ragwitek,Ragweed Pollen Allergen Extract Sublingual Tablet (Ragwitek)
+"HEART DISEASE, HYPERLIPIDEMIA",Ramipril,Ramipril (Generic)
+UREA CYCLE DISORDERS,Ravicti,Glycerol Phenylbutyrate (Ravicti)
+MULTIPLE SCLEROSIS,Rebif (Interferon Beta-1a) prefilled syringe,"Interferon β-1a Syringe, Titration Pack (Rebif)"
+HEMOPHILIA TREATMENT,Rebinyn,"Factor IX Human Recombinant, GlycoPEGylated (Rebinyn)"
+"HEMATOLOGIC AGENTS, HEMATOPOIETIC AGENTS",Reblozyl (Luspatercept-Aamt) vial,Luspatercept-aamt Vial (Reblozyl)
+COLONY STIMULATING FACTORS,Releuko,"Filgrastim-ayow Syringe, Vial (Releuko)"
+PAIN MANAGEMENT,Remicade,Infliximab Vial (Remicade)
+PAIN MANAGEMENT,Renflexis,Infliximab-abda Vial (Renflexis)
+HEMODIALYSIS,Renvela,Sevelamer Carbonate Tablet (Renvela)
+"HEART DISEASE, HYPERLIPIDEMIA",Repatha,Evolocumab Prefilled Syringe (Repatha)
+OPHTHALMIC DISORDERS,Restasis,"Cyclosporine 0.05% Emulsion (Restasis, Restasis Multidose)"
+OPHTHALMIC DISORDERS,Restasis MultiDose,"Cyclosporine 0.05% Emulsion (Restasis, Restasis Multidose)"
+ONCOLOGY,Retevmo,Selpercatinib Capsule (Retevmo)
+"HEART DISEASE, HYPERLIPIDEMIA",Revatio oral suspension,"Sildenafil Suspension, Tablet (Revatio)"
+"HEART DISEASE, HYPERLIPIDEMIA",Revatio tablet,"Sildenafil Suspension, Tablet (Revatio)"
+ONCOLOGY,Revlimid,Lenalidomide Capsule (Generic; Revlimid)
+ANTIPSYCHOTIC AGENTS,Rexulti Adjunct Treatment of Major Depressive Disorder,Brexpiprazole Tablet (Rexulti)
+ANTIPSYCHOTIC AGENTS,Rexulti Schizophrenia,Brexpiprazole Tablet (Rexulti)
+HIV-AIDS,Reyataz,"Atazanavir Capsule, Powder Pack (Reyataz)"
+PAIN MANAGEMENT,Reyvow,Lasmiditan Tablet (Reyvow)
+ONCOLOGY,Rezlidhia,Olutasidenib Capsule (Rezlidhia)
+"IMMUNOSUPPRESSIVES, ORAL",Rezurock,Belumosudil Tablet (Rezurock)
+PAIN MANAGEMENT,Rinvoq Ankylosing Spondylitis,"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)"
+PAIN MANAGEMENT,Rinvoq Atopic Dermatitis (adult),"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)"
+PAIN MANAGEMENT,Rinvoq Crohn's Disease (adult),"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)"
+PAIN MANAGEMENT,Rinvoq Non-Radiographic Axial Spondyloarthritis,"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)"
+PAIN MANAGEMENT,Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)"
+PAIN MANAGEMENT,Rinvoq Psoriatic Arthritis (adult),"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)"
+PAIN MANAGEMENT,Rinvoq Psoriatic Arthritis (pediatric),"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)"
+PAIN MANAGEMENT,Rinvoq Rheumatoid Arthritis,"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)"
+PAIN MANAGEMENT,Rinvoq Ulcerative Colitis (adult),"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)"
+ANTIPSYCHOTIC AGENTS,Risperdal Consta,Risperidone ER Suspension (IM) (Generic; Risperdal Consta)
+ANTIPSYCHOTIC AGENTS,Risperdal oral solution,"Risperidone Solution, Tablet (Risperdal)"
+ANTIPSYCHOTIC AGENTS,Risperdal tablet,"Risperidone Solution, Tablet (Risperdal)"
+ANTIPSYCHOTIC AGENTS,Risperidone ODT,Risperidone ODT (Generic)
+ANTIPSYCHOTIC AGENTS,Risperidone oral solution,"Risperidone Solution, Tablet (Generic)"
+ANTIPSYCHOTIC AGENTS,Risperidone tablet,"Risperidone Solution, Tablet (Generic)"
+ALZHEIMER’S AGENTS,Rivastigmine capsule,Rivastigmine Capsule (Generic)
+ALZHEIMER’S AGENTS,Rivastigmine patch,Rivastigmine Transdermal Patch (AG; Generic)
+HEMOPHILIA TREATMENT,Rixubis,Factor IX Recombinant (Rixubis)
+HEMOPHILIA TREATMENT,Roctavian,Valoctocogene Roxaparvovec-rvox (Roctavian)
+COLONY STIMULATING FACTORS,Rolvedon prefilled syringe,Eflapegrastim-xnst Syringe (Rolvedon)
+ONCOLOGY,Rozlytrek (Entrectinib) capsule,"Entrectinib Capsule, Pellet Pack (Rozlytrek)"
+ONCOLOGY,Rozlytrek (Entrectinib) pellet packet,"Entrectinib Capsule, Pellet Pack (Rozlytrek)"
+ONCOLOGY,Rubraca,Rucaparib Camsylate Tablet (Rubraca)
+HEREDITARY ANGIOEDEMA,Ruconest,"C1 Esterase Inhibitor, Recombinant Intravenous Vial (Ruconest)"
+DIABETES,Rybelsus,Semaglutide Tablet (Rybelsus)
+ONCOLOGY,Rydapt,Midostaurin Capsule (Rydapt)
+ANTIPSYCHOTIC AGENTS,Rykindo,Risperidone ER Suspension (Intramuscular) (Rykindo)
+ANTICONVULSANTS,Sabril packet for oral solution,"Vigabatrin Powder Pack, Tablet (Sabril)"
+ANTICONVULSANTS,Sabril tablet,"Vigabatrin Powder Pack, Tablet (Sabril)"
+LUPUS IMMUNOMODULATORS,Saphnelo,Anifrolumab-fnia Vial (Saphnelo)
+ANTIPSYCHOTIC AGENTS,Saphris,Asenapine Sublingual Tablet (AG; Generic; Saphris)
+"HEART DISEASE, HYPERLIPIDEMIA",Savaysa,Edoxaban Tablet (Savaysa)
+ANTIPSYCHOTIC AGENTS,Secuado,Asenapine Transdermal Patch (Secuado)
+DIABETES,Segluromet,Ertugliflozin/Metformin Tablet (Segluromet)
+PAIN MANAGEMENT,"Selarsdi Crohn's Disease (adult), intravenous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
+PAIN MANAGEMENT,"Selarsdi Crohn's Disease (adult), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
+PAIN MANAGEMENT,"Selarsdi Crohn's Disease (adult), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
+PAIN MANAGEMENT,"Selarsdi Plaque Psoriasis (adult), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
+PAIN MANAGEMENT,"Selarsdi Plaque Psoriasis (adult), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
+PAIN MANAGEMENT,"Selarsdi Plaque Psoriasis (pediatric), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
+PAIN MANAGEMENT,"Selarsdi Plaque Psoriasis (pediatric), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
+PAIN MANAGEMENT,"Selarsdi Psoriatic Arthritis (adult), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
+PAIN MANAGEMENT,"Selarsdi Psoriatic Arthritis (adult), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
+PAIN MANAGEMENT,"Selarsdi Psoriatic Arthritis (pediatric), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
+PAIN MANAGEMENT,"Selarsdi Psoriatic Arthritis (pediatric), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
+PAIN MANAGEMENT,"Selarsdi Ulcerative Colitis (adult), intravenous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
+PAIN MANAGEMENT,"Selarsdi Ulcerative Colitis (adult), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
+PAIN MANAGEMENT,"Selarsdi Ulcerative Colitis (adult), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
+PRENATAL VITAMINS,Select-Ob + Dha,PNV 33/Iron/FA/DHA (Select-OB + DHA)
+PRENATAL VITAMINS,Select-Ob Tab Chew,PNV 13/Iron PS/Folate 1 Chew (Select-OB)
+HIV-AIDS,Selzentry,Maraviroc Tablet (Generic; Selzentry)
+DIABETES,Semglee,"Insulin Glargine-yfgn Pen, Vial (Generic; Semglee)"
+ANTIPSYCHOTIC AGENTS,Seroquel,"Quetiapine ER Tablet, Tablet (Seroquel XR; Seroquel)"
+ANTIPSYCHOTIC AGENTS,Seroquel XR,"Quetiapine ER Tablet, Tablet (Seroquel XR; Seroquel)"
+HEMODIALYSIS,Sevelamer carbonate tablets,Sevelamer Carbonate Tablet (AG; Generic)
+HEMODIALYSIS,Sevelamer hydrochloride tablets,Sevelamer HCl Tablet (AG; Generic for RenaGel)
+HEMOPHILIA TREATMENT,SevenFACT,"Factor VIIa, (Recombinant)-jncw (Sevenfact)"
+"HEART DISEASE, HYPERLIPIDEMIA",Sildenafil 20 mg,"Sildenafil Oral Suspension, Tablet (Generic for Revatio)"
+"HEART DISEASE, HYPERLIPIDEMIA",Sildenafil oral suspension,"Sildenafil Oral Suspension, Tablet (Generic for Revatio)"
+PAIN MANAGEMENT,Siliq,Brodalumab Syringe (Siliq)
+PAIN MANAGEMENT,Simlandi Ankylosing Spondylitis,Adalimbumab-ryvk Kit (Simlandi)
+PAIN MANAGEMENT,Simlandi Crohn’s Disease (adult),Adalimbumab-ryvk Kit (Simlandi)
+PAIN MANAGEMENT,Simlandi Crohn’s Disease (pediatric),Adalimbumab-ryvk Kit (Simlandi)
+PAIN MANAGEMENT,Simlandi Hidradenitis Suppurativa,Adalimbumab-ryvk Kit (Simlandi)
+PAIN MANAGEMENT,Simlandi Plaque Psoriasis (adult),Adalimbumab-ryvk Kit (Simlandi)
+PAIN MANAGEMENT,Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA),Adalimbumab-ryvk Kit (Simlandi)
+PAIN MANAGEMENT,Simlandi Psoriatic Arthritis (adult),Adalimbumab-ryvk Kit (Simlandi)
+PAIN MANAGEMENT,Simlandi Rheumatoid Arthritis,Adalimbumab-ryvk Kit (Simlandi)
+PAIN MANAGEMENT,Simlandi Ulcerative Colitis (adult),Adalimbumab-ryvk Kit (Simlandi)
+PAIN MANAGEMENT,Simlandi Uveitis (adult),Adalimbumab-ryvk Kit (Simlandi)
+PAIN MANAGEMENT,"Simponi Ankylosing Spondylitis, Aria",Golimumab Vial (Simponi Aria)
+PAIN MANAGEMENT,"Simponi Ankylosing Spondylitis, prefilled syringe","Golimumab Pen, Syringe (Simponi)"
+PAIN MANAGEMENT,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Golimumab Vial (Simponi Aria)
+PAIN MANAGEMENT,"Simponi Aria, Psoriatic Arthritis (pediatric)",Golimumab Vial (Simponi Aria)
+PAIN MANAGEMENT,"Simponi Psoriatic Arthritis (adult), Aria",Golimumab Vial (Simponi Aria)
+PAIN MANAGEMENT,"Simponi Psoriatic Arthritis (adult), prefilled syringe","Golimumab Pen, Syringe (Simponi)"
+PAIN MANAGEMENT,"Simponi Rheumatoid Arthritis, Aria",Golimumab Vial (Simponi Aria)
+PAIN MANAGEMENT,"Simponi Rheumatoid Arthritis, prefilled syringe","Golimumab Pen, Syringe (Simponi)"
+PAIN MANAGEMENT,"Simponi Ulcerative Colitis (adult), prefilled syringe","Golimumab Pen, Syringe (Simponi)"
+PAIN MANAGEMENT,"Skyrizi Crohn’s Disease (adult), prefilled cartridge","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
+PAIN MANAGEMENT,"Skyrizi Crohn’s Disease (adult), prefilled pen","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
+PAIN MANAGEMENT,"Skyrizi Crohn’s Disease (adult), vial","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
+PAIN MANAGEMENT,"Skyrizi Plaque Psoriasis (adult), prefilled cartridge","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
+PAIN MANAGEMENT,"Skyrizi Plaque Psoriasis (adult), prefilled pen","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
+PAIN MANAGEMENT,"Skyrizi Plaque Psoriasis (adult), vial","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
+PAIN MANAGEMENT,"Skyrizi Psoriatic Arthritis (adult), prefilled cartridge","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
+PAIN MANAGEMENT,"Skyrizi Psoriatic Arthritis (adult), prefilled pen","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
+PAIN MANAGEMENT,"Skyrizi Psoriatic Arthritis (adult), vial","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
+PAIN MANAGEMENT,"Skyrizi Ulcerative Colitis (adult), prefilled cartridge","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
+PAIN MANAGEMENT,"Skyrizi Ulcerative Colitis (adult), prefilled pen","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
+PAIN MANAGEMENT,"Skyrizi Ulcerative Colitis (adult), vial","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
+GROWTH DEFICIENCY,Skytrofa,Lonapegsomatropin-tcgd Cartridge (Skytrofa)
+UREA CYCLE DISORDERS,Sodium Phenylbutyrate powder,"Sodium Phenylbutyrate Powder, Tablet (Generic; Buphenyl)"
+UREA CYCLE DISORDERS,Sodium Phenylbutyrate tablet,"Sodium Phenylbutyrate Powder, Tablet (Generic; Buphenyl)"
+POTASSIUM BINDERS,Sodium Polystyrene Sulfonate,Sodium Polystyrene Sulfonate Powder (Generic)
+INFECTIOUS DISORDERS,Sofosbuvir / Velpatasvir,Sofosbuvir/Velpatasvir Tablet (AG for Epclusa)
+GROWTH DEFICIENCY,Sogroya,Somapacitan-beco Pen (Sogroya)
+DIABETES,Soliqua,Lixisenatide/ Insulin Glargine (Soliqua) (See Insulins & Related Agents Criteria)
+INFECTIOUS DISORDERS,Solosec,Secnidazole Oral Granules (SolosecTM)
+PAIN MANAGEMENT,Soma,"Carisoprodol Tablet 250 mg, 350 mg (Generic; Soma)"
+ONCOLOGY,Sorafenib,Sorafenib Tosylate Tablet (Generic; Nexavar)
+PAIN MANAGEMENT,Sotyktu Plaque Psoriasis (adult),Deucravacitinib Tablet (Sotyktu)
+INFECTIOUS DISORDERS,Sovaldi,"Sofosbuvir Pellet Pack, Tablet (Sovaldi)"
+DERMATOLOGY,Spinosad topical suspension,Spinosad Suspension (AG for Natroba)
+SPINAL MUSCULAR ATROPHY,Spinraza,Nusinersen (Spinraza)
+ASTHMA/COPD,Spiriva Handihaler inhalation capsule,"Tiotropium Bromide Inhalation Powder, Spray (Spiriva HandiHaler/Respimat)"
+ASTHMA/COPD,Spiriva Respimat inhalation aerosol solution,"Tiotropium Bromide Inhalation Powder, Spray (Spiriva HandiHaler/Respimat)"
+DEPRESSION,Spravato,Esketamine Nasal Spray (Spravato)
+DIABETES,Steglatro,Ertugliflozin Tablet (Steglatro)
+DIABETES,Steglujan,Sitagliptin Phosphate/Ertugliflozin Tablet (Steglujan) (See SGLT2 Criteria)
+PAIN MANAGEMENT,"Stelara Crohn’s Disease (adult), intravenous vial","Ustekinumab Syringe, Vial (Stelara)"
+PAIN MANAGEMENT,"Stelara Crohn’s Disease (adult), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)"
+PAIN MANAGEMENT,"Stelara Crohn’s Disease (adult), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)"
+PAIN MANAGEMENT,"Stelara Plaque Psoriasis (adult), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)"
+PAIN MANAGEMENT,"Stelara Plaque Psoriasis (adult), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)"
+PAIN MANAGEMENT,"Stelara Plaque Psoriasis (pediatric), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)"
+PAIN MANAGEMENT,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)"
+PAIN MANAGEMENT,"Stelara Psoriatic Arthritis (adult), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)"
+PAIN MANAGEMENT,"Stelara Psoriatic Arthritis (adult), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)"
+PAIN MANAGEMENT,"Stelara Psoriatic Arthritis (pediatric), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)"
+PAIN MANAGEMENT,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)"
+PAIN MANAGEMENT,"Stelara Ulcerative Colitis (adult), intravenous vial","Ustekinumab Syringe, Vial (Stelara)"
+PAIN MANAGEMENT,"Stelara Ulcerative Colitis (adult), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)"
+PAIN MANAGEMENT,"Stelara Ulcerative Colitis (adult), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)"
+COLONY STIMULATING FACTORS,Stimufend prefilled syringe,Pegfilgrastim-fpgk Syringe (Stimufend)
+ASTHMA/COPD,Stiolto Respimat,Tiotropium/Olodaterol (Stiolto Respimat)
+ONCOLOGY,Stivarga,Regorafenib Tablet (Stivarga)
+HIV-AIDS,Stribild,Elvitegravir/Cobicistat/Emtricitabine/Tenofovir DF (Stribild)
+OPIATE DEPENDENCE AGENTS,Sublocade,Buprenorphine Syringe (Sublocade; Brixadi)
+OPIATE DEPENDENCE AGENTS,Suboxone,Buprenorphine/Naloxone Sublingual Film (Suboxone)
+PAIN MANAGEMENT,Sumatriptan / Naproxen sodium tablet,Sumatriptan/Naproxen (Generic for Treximet)
+ADD/ADHD,Sunosi,Solriamfetol HCl Tablet (Sunosi)
+PITUITARY SUPPRESSIVE AGENTS,Supprelin LA,Histrelin Implant Kit (Supprelin LA)
+ASTHMA/COPD,Symbicort,Budesonide/Formoterol MDI (Symbicort)
+ANTIPSYCHOTIC AGENTS,Symbyax,Olanzapine/Fluoxetine Capsule (Generic; Symbyax)
+"EPINEPHRINE, SELF-INJECTED",Symjepi 0.15 mg,Epinephrine Syringe (Symjepi)
+"EPINEPHRINE, SELF-INJECTED",Symjepi 0.3 mg,Epinephrine Syringe (Symjepi)
+ANTICONVULSANTS,Sympazan oral film,Clobazam Film (Sympazan)
+HIV-AIDS,Symtuza,Darunavir/Cobicistat/Emtricitabine/Tenofovir AF (Symtuza)
+PITUITARY SUPPRESSIVE AGENTS,Synarel,Nafarelin Acetate Nasal Solution (Synarel)
+DIABETES,Synjardy,Empagliflozin/Metformin Tablet (Synjardy)
+DIABETES,Synjardy XR,Empagliflozin/Metformin ER Tablet (Synjardy XR)
+ONCOLOGY,Tabrecta,Capmatinib Tablet (Tabrecta)
+"IMMUNOSUPPRESSIVES, ORAL",Tacrolimus capsule,Tacrolimus Capsule (Generic)
+"HEART DISEASE, HYPERLIPIDEMIA",Tadalafil,Tadalafil Tablet (Generic for Adcirca)
+"HEART DISEASE, HYPERLIPIDEMIA",Tadliq,Tadalafil Suspension (Tadliq)
+ONCOLOGY,Tagrisso,Osimertinib Mesylate Tablet (Tagrisso)
+HEREDITARY ANGIOEDEMA,Takhzyro prefilled syringe,"Lanadelumab-flyo Subcutaneous Syringe, Vial (Takhzyro)"
+HEREDITARY ANGIOEDEMA,Takhzyro vial,"Lanadelumab-flyo Subcutaneous Syringe, Vial (Takhzyro)"
+H. PYLORI TREATMENT,Talicia,Omeprazole/Amoxicillin/Rifabutin (Talicia)
+PAIN MANAGEMENT,Taltz,"Ixekizumab Autoinjector, Syringe (Taltz)"
+ONCOLOGY,Talzenna,Talazoparib Capsule (Talzenna)
+"ANTIVIRALS, ORAL",Tamiflu,"Oseltamivir Capsule, Suspension (Tamiflu)"
+ONCOLOGY,Tarceva,Erlotinib HCl Tablet (Generic; Tarceva)
+"GLUCOCORTICOIDS, ORAL",Tarpeyo,Budesonide DR Capsule (Tarpeyo)
+THROMBOPOIESIS STIMULATING PROTEINS,Tavalisse,Fostamatinib Disodium Hexahydrate Tablet (Tavalisse)
+"IMMUNOSUPPRESSIVES, ORAL",Tavneos,Avacopan Capsule (Tavneos)
+ONCOLOGY,Tazverik,Tazemetostat Tablet (Tazverik)
+MULTIPLE SCLEROSIS,Tecfidera (Dimethyl Fumarate) DR capsule,"Dimethyl Fumarate Capsule, Starter Pack (Tecfidera)"
+"HEART DISEASE, HYPERLIPIDEMIA",Telmisartan,Telmisartan (Generic; Micardis)
+MULTIPLE SCLEROSIS,Teriflunomide,Teriflunomide Tablet (Generic)
+OSTEOPOROSIS,Teriparatide,Teriparatide Pen (Generic; Forteo)
+MOVEMENT DISORDERS,Tetrabenazine,Tetrabenazine Tablet (Generic)
+ASTHMA/COPD,Tezspire Asthma (adult),"Tezepelumab-ekko Syringe, Pen (Tezspire)"
+ONCOLOGY,Tibsovo,Ivosidenib Tablet (Tibsovo)
+HIV-AIDS,Tivicay,"Dolutegravir Sodium Suspension, Tablet (Tivicay PD; Tivicay)"
+INFECTIOUS DISORDERS,Tobi,Tobramycin Solution (Tobi)
+INFECTIOUS DISORDERS,Tobi Podhaler,Tobramycin Capsule (Tobi Podhaler)
+OPHTHALMIC DISORDERS,Tobradex ST ophthalmic suspension,Tobramycin/Dexamethasone ST (TobraDex ST)
+OPHTHALMIC DISORDERS,Tobramycin,Tobramycin Solution (Generic)
+INFECTIOUS DISORDERS,Tobramycin generic Bethkis,Tobramycin Solution (AG; Generic; Bethkis)
+ANTICONVULSANTS,Topamax Sprinkle,"Topiramate Sprinkle, Tablet (Topamax)"
+ANTICONVULSANTS,Topiramate tablet,Topiramate Tablet (Generic; Topiragen)
+DIABETES,Toujeo Max Solostar,"Insulin Glargine Pen (Generic; Toujeo Solostar, Toujeo Max Solostar)"
+DIABETES,Toujeo Solostar,"Insulin Glargine Pen (Generic; Toujeo Solostar, Toujeo Max Solostar)"
+"HEART DISEASE, HYPERLIPIDEMIA",Tracleer,"Bosentan Suspension, Tablet (Tracleer)"
+"HEART DISEASE, HYPERLIPIDEMIA",Tracleer tablet for oral suspension,"Bosentan Suspension, Tablet (Tracleer)"
+DIABETES,Tradjenta,Linagliptin Tablet (Tradjenta)
+"HEART DISEASE, HYPERLIPIDEMIA",Trandolapril,Trandolapril (Generic)
+ASTHMA/COPD,Trelegy Ellipta,Fluticasone/Umeclidinium/Vilanterol (Trelegy Ellipta)
+PAIN MANAGEMEN,Tremfya,"Guselkumab Autoinjector, Pen, Syringe, Vial (Tremfya)"
+DIABETES,"Tresiba FlexTouch, U-100","Insulin Degludec Pen, Vial (Generic; Tresiba FlexTouch; Tresiba)"
+DIABETES,"Tresiba FlexTouch, U-200","Insulin Degludec Pen, Vial (Generic; Tresiba FlexTouch; Tresiba)"
+DIABETES,Tresiba vial,"Insulin Degludec Pen, Vial (Generic; Tresiba FlexTouch; Tresiba)"
+HEMOPHILIA TREATMENT,Tretten,"Factor XIII A-Subunit, Recombinant (Tretten)"
+DEPRESSION,Trintellix,Vortioxetine Tablet (Trintellix)
+PITUITARY SUPPRESSIVE AGENTS,Triptodur,Triptorelin Pamoate Kit (Triptodur)
+HIV-AIDS,Triumeq,Abacavir/Dolutegravir/Lamivudine (Triumeq; Triumeq PD)
+ANTICONVULSANTS,Trokendi XR ER capsule,Topiramate ER Capsule (Trokendi XR)
+DIABETES,Trulicity,Dulaglutide Pen (Trulicity)
+ONCOLOGY,Truqap,Capivasertib Tablet (Truqap)
+HIV-AIDS,Truvada,Emtricitabine/Tenofovir DF Tablet (Generic; Truvada)
+ASTHMA/COPD,Tudorza Pressair,Aclidinium Bromide Inhalation Powder (Tudorza Pressair)
+HIV-AIDS,Tybost,Cobicistat Tablet (Tybost)
+OPHTHALMIC DISORDERS,Tyrvaya nasal solution,Varenicline Nasal Spray (Tyrvaya)
+MULTIPLE SCLEROSIS,Tysabri,Natalizumab Vial (Tysabri)
+"HEART DISEASE, HYPERLIPIDEMIA",Tyvaso DPI,"Treprostinil Inhalation Powder, Inhalation Solution (Tyvaso DPI; Tyvaso)"
+"HEART DISEASE, HYPERLIPIDEMIA",Tyvaso inhalation solution,"Treprostinil Inhalation Powder, Inhalation Solution (Tyvaso DPI; Tyvaso)"
+PAIN MANAGEMENT,Ubrelvy,Ubrogepant Tablet (Ubrelvy)
+COLONY STIMULATING FACTORS,Udenyca,"Pegfilgrastim-cbqv Autoinjector, On-Body, Syringe (Udenyca)"
+PAIN MANAGEMENT,Uplizna Neuromyelitis Optica Spectrum Disorder (NMOSD),Inebilizumab-cdon Vial (Uplizna)
+"HEART DISEASE, HYPERLIPIDEMIA",Uptravi tablet,"Selexipag Tablet, Dose Pack (Uptravi)"
+ANTIPSYCHOTIC AGENTS,Uzedy,Risperidone ER Suspension (SQ) (Perseris; Uzedy)
+"HEART DISEASE, HYPERLIPIDEMIA",Valsartan,Valsartan (Generic)
+ANTICONVULSANTS,Valtoco,Diazepam Nasal Spray (Valtoco)
+INFECTIOUS DISORDERS,Vandazole,Metronidazole Vaginal Gel (Vandazole)
+ONCOLOGY,Vanflyta,Quizartinib Dihydrochloride (Vanflyta)
+PAIN MANAGEMENT,Velsipity Ulcerative Colitis (adult),Etrasimod Tablet (Velsipity)
+POTASSIUM BINDERS,Veltassa,Patiromer Sorbitex Calcium Powder Packet (Veltassa)
+INFECTIOUS DISORDERS,Vemlidy,Tenofovir Alafenamide Tablet (Vemlidy)
+ONCOLOGY,Venclexta,Venetoclax Tablet (Venclexta)
+"HEART DISEASE, HYPERLIPIDEMIA",Ventavis,Iloprost Inhalation Solution (Ventavis)
+ASTHMA/COPD,Ventolin HFA,Albuterol Sulfate MDI (Ventolin HFA)
+OPHTHALMIC DISORDERS,Verkazia,Cyclosporine 0.1% Emulsion (Verkazia)
+ANTIPSYCHOTIC AGENTS,Versacloz,Clozapine Suspension (Versacloz)
+ONCOLOGY,Verzenio,Abemaciclib Tablet (Verzenio)
+OPHTHALMIC DISORDERS,Vevye ophthalmic solution,Cyclosporine 0.1% Solution (Vevye)
+"GI MOTILITY, CHRONIC",Viberzi,Eluxadoline Tablet (Viberzi)
+DIABETES,Victoza,Liraglutide Pen (AG; Generic; Victoza)
+ANTICONVULSANTS,Vigabatrin packet for oral solution,"Vigabatrin Powder Pack (Generic; Vigadrone, Vigpoder)"
+ANTICONVULSANTS,Vigabatrin tablet,Vigabatrin Tablet (Generic; Vigadrone)
+ANTICONVULSANTS,Vigafyde oral solution,Vigabatrin Solution (Vigafyde)
+ANTICONVULSANTS,Vigpoder,"Vigabatrin Powder Pack (Generic; Vigadrone, Vigpoder)"
+DEPRESSION,Viibryd,Vilazodone Tablet (AG; Generic; Viibryd)
+ANTICONVULSANTS,Vimpat oral solution,Lacosamide Solution Unit Dose (Generic; Vimpat)
+ANTICONVULSANTS,Vimpat tablet,"Lacosamide ER Capsule, Tablet (Motpoly XR; Vimpat)"
+HIV-AIDS,Viracept,Nelfinavir Mesylate Tablet (Viracept)
+HIV-AIDS,Viread,"Tenofovir Disoproxil Fumarate Powder, Tablet (Viread)"
+PRENATAL VITAMINS,Vitafol Fe+,PNV 102/Iron/Folate/DHA (Vitafol FE+)
+PRENATAL VITAMINS,Vitafol Tab Chew,PNV 112/Iron/FA/Omega 3/DHA/EPA Chew Gummies (Vitafol)
+PRENATAL VITAMINS,Vitafol Ultra,PNV 67/Iron PS/Folate No.1/DHA (Vitafol Ultra)
+PRENATAL VITAMINS,Vitafol-Ob,PNV 10/Iron Fumarate/FA (Vitafol-OB)
+PRENATAL VITAMINS,Vitafol-One,PNV 26/Iron PS/FA/DHA (Vitafol-One)
+ONCOLOGY,Vitrakvi capsule,"Larotrectinib Capsule, Solution (Vitrakvi)"
+ONCOLOGY,Vitrakvi oral solution,"Larotrectinib Capsule, Solution (Vitrakvi)"
+OPIATE DEPENDENCE AGENTS,Vivitrol,Naltrexone Extended-Release Suspension Vial (Vivitrol)
+ONCOLOGY,Vizimpro,Dacomitinib Tablet (Vizimpro)
+H. PYLORI TREATMENT,Voquezna,Vonoprazan Tablet (Voquezna)
+H. PYLORI TREATMENT,Voquezna Dual Pak,Vonoprazan/Amoxicillin (Voquezna DualPak)
+H. PYLORI TREATMENT,Voquezna Triple Pak,Vonoprazan/Amoxicillin/Clarithromycin (Voquezna TriplePak)
+INFECTIOUS DISORDERS,Vosevi,Sofosbuvir/Velpatasvir/Voxilaprevir Tablet (Vosevi)
+ANTIPSYCHOTIC AGENTS,Vraylar Adjunct Treatment of Major Depressive Disorder,Cariprazine Capsule (Vraylar)
+ANTIPSYCHOTIC AGENTS,Vraylar Bipolar I Disorder,Cariprazine Capsule (Vraylar)
+ANTIPSYCHOTIC AGENTS,Vraylar Schizophrenia,Cariprazine Capsule (Vraylar)
+DERMATOLOGY,Vtama Atopic Dermatitis,Tapinarof Cream (Vtama)
+DERMATOLOGY,Vtama Plaque Psoriasis,Tapinarof Cream (Vtama)
+PAIN MANAGEMENT,Vyepti,Eptinezumab-jjmr Vial (Vyepti)
+ADD/ADHD,Vyvanse capsule,Lisdexamfetamine Capsule (Generic; Vyvanse)
+ADD/ADHD,Vyvanse chewable tablet,Lisdexamfetamine Chewable Tablet (Vyvanse)
+ADD/ADHD,Wakix,Pitolisant HCl Tablet (Wakix)
+ONCOLOGY,Welireg,Belzutifan Tablet (Welireg )
+"ACNE AGENTS, TOPICAL",Winlevi,Clascoterone Cream (Winlevi)
+ASTHMA/COPD,Wixela,Fluticasone/Salmeterol DPI (Wixela Inhub)
+INFECTIOUS DISORDERS,Xaciato,Clindamycin Vaginal Gel (Xaciato)
+ONCOLOGY,Xalkori capsule,Crizotinib Capsule (Xalkori)
+ONCOLOGY,Xalkori sprinkle capsule,Crizotinib Pellet (Xalkori)
+"HEART DISEASE, HYPERLIPIDEMIA",Xarelto,"Rivaroxaban Suspension, Tablet (Xarelto)"
+"HEART DISEASE, HYPERLIPIDEMIA",Xarelto 2.5 mg,"Rivaroxaban Suspension, Tablet (Xarelto)"
+"HEART DISEASE, HYPERLIPIDEMIA",Xarelto oral suspension,"Rivaroxaban Suspension, Tablet (Xarelto)"
+"HEART DISEASE, HYPERLIPIDEMIA",Xarelto starter pack,Rivaroxaban Dose Pack (Xarelto Starter Pack)
+ANTICONVULSANTS,Xcopri,"Cenobamate Daily Dose Pack, Tablet, Titration Pack (Xcopri)"
+PAIN MANAGEMENT,"Xeljanz Ankylosing Spondylitis, IR tablet",Tofacitinib Citrate Tablet (Xeljanz)
+PAIN MANAGEMENT,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), IR tablet",Tofacitinib Citrate Tablet (Xeljanz)
+PAIN MANAGEMENT,"Xeljanz Psoriatic Arthritis (adult), IR tablet",Tofacitinib Citrate Tablet (Xeljanz)
+PAIN MANAGEMENT,"Xeljanz Rheumatoid Arthritis, IR tablet",Tofacitinib Citrate Tablet (Xeljanz)
+PAIN MANAGEMENT,"Xeljanz Ulcerative Colitis (adult), IR tablet",Tofacitinib Citrate Tablet (Xeljanz)
+MOVEMENT DISORDERS,Xenazine,Tetrabenazine Tablet (Xenazine)
+BOTULINUM TOXINS,Xeomin,IncobotulinumtoxinA (Xeomin)
+DIABETES,Xigduo XR,Dapagliflozin/Metformin ER Tablet (Xigduo XR)
+OPHTHALMIC DISORDERS,Xiidra ophthalmic solution,Lifitegrast Solution (Xiidra)
+"ANTIVIRALS, ORAL",Xofluza,Baloxavir Marboxil Tablet (Xofluza)
+ASTHMA/COPD,Xolair Asthma (adult),Omalizumab Vial (Xolair)
+ASTHMA/COPD,Xolair Asthma (pediatric),Omalizumab Vial (Xolair)
+ASTHMA/COPD,Xolair Chronic Rhinosinusitis with Nasal Polyposis,Omalizumab Vial (Xolair)
+ASTHMA/COPD,Xolair Chronic Spontaneous Urticaria (CSU),Omalizumab Vial (Xolair)
+ASTHMA/COPD,Xolair IgE-Mediated Food Allergy,Omalizumab Vial (Xolair)
+ASTHMA/COPD,Xopenex HFA,Levalbuterol MDI (AG; Xopenex HFA)
+ONCOLOGY,Xtandi,"Enzalutamide Capsule, Tablet (Xtandi)"
+DIABETES,Xultophy,Liraglutide/Insulin Degludec (Xultophy) (See Insulins & Related Agents Criteria)
+HEMOPHILIA TREATMENT,Xyntha,"Factor VIII, B-Domain-Deleted (Xyntha Kit)"
+PAIN MANAGEMENT,"Yesintek intravenous vial, Crohn’s Disease (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
+PAIN MANAGEMENT,"Yesintek intravenous vial, Ulcerative Colitis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
+PAIN MANAGEMENT,"Yesintek prefilled syringe, Crohn’s Disease (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
+PAIN MANAGEMENT,"Yesintek prefilled syringe, Plaque Psoriasis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
+PAIN MANAGEMENT,"Yesintek prefilled syringe, Plaque Psoriasis (pediatric)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
+PAIN MANAGEMENT,"Yesintek prefilled syringe, Psoriatic Arthritis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
+PAIN MANAGEMENT,"Yesintek prefilled syringe, Psoriatic Arthritis (pediatric)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
+PAIN MANAGEMENT,"Yesintek prefilled syringe, Ulcerative Colitis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
+PAIN MANAGEMENT,"Yesintek subcutaneous vial, Crohn’s Disease (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
+PAIN MANAGEMENT,"Yesintek subcutaneous vial, Plaque Psoriasis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
+PAIN MANAGEMENT,"Yesintek subcutaneous vial, Plaque Psoriasis (pediatric)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
+PAIN MANAGEMENT,"Yesintek subcutaneous vial, Psoriatic Arthritis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
+PAIN MANAGEMENT,"Yesintek subcutaneous vial, Psoriatic Arthritis (pediatric)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
+PAIN MANAGEMENT,"Yesintek subcutaneous vial, Ulcerative Colitis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
+ONCOLOGY,Yonsa tablet,Abiraterone Acetate Submicronized Tablet (Yonsa)
+PAIN MANAGEMENT,Yuflyma Ankylosing Spondylitis,"Adalimumab-aaty Kit, Pen Kit (Yuflyma)"
+PAIN MANAGEMENT,Yuflyma Crohn’s Disease (adult),"Adalimumab-aaty Kit, Pen Kit (Yuflyma)"
+PAIN MANAGEMENT,Yuflyma Crohn’s Disease (pediatric),"Adalimumab-aaty Kit, Pen Kit (Yuflyma)"
+PAIN MANAGEMENT,Yuflyma Hidradenitis Suppurativa,"Adalimumab-aaty Kit, Pen Kit (Yuflyma)"
+PAIN MANAGEMENT,Yuflyma Plaque Psoriasis (adult),"Adalimumab-aaty Kit, Pen Kit (Yuflyma)"
+PAIN MANAGEMENT,Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-aaty Kit, Pen Kit (Yuflyma)"
+PAIN MANAGEMENT,Yuflyma Psoriatic Arthritis (adult),"Adalimumab-aaty Kit, Pen Kit (Yuflyma)"
+PAIN MANAGEMENT,Yuflyma Rheumatoid Arthritis,"Adalimumab-aaty Kit, Pen Kit (Yuflyma)"
+PAIN MANAGEMENT,Yuflyma Ulcerative Colitis (adult),"Adalimumab-aaty Kit, Pen Kit (Yuflyma)"
+PAIN MANAGEMENT,Yuflyma Uveitis (adult),"Adalimumab-aaty Kit, Pen Kit (Yuflyma)"
+ASTHMA/COPD,Yupelri inhalation solution,Revefenacin Inhalation Solution (Yupelri)
+PAIN MANAGEMENT,Yusimry Ankylosing Spondylitis,Adalimumab-aqvh Pen Kit (Yusimry)
+PAIN MANAGEMENT,Yusimry Crohn’s Disease (adult),Adalimumab-aqvh Pen Kit (Yusimry)
+PAIN MANAGEMENT,Yusimry Crohn’s Disease (pediatric),Adalimumab-aqvh Pen Kit (Yusimry)
+PAIN MANAGEMENT,Yusimry Hidradenitis Suppurativa,Adalimumab-aqvh Pen Kit (Yusimry)
+PAIN MANAGEMENT,Yusimry Plaque Psoriasis (adult),Adalimumab-aqvh Pen Kit (Yusimry)
+PAIN MANAGEMENT,Yusimry Polyarticular Juvenile Idiopathic Arthritis (PJIA),Adalimumab-aqvh Pen Kit (Yusimry)
+PAIN MANAGEMENT,Yusimry Psoriatic Arthritis (adult),Adalimumab-aqvh Pen Kit (Yusimry)
+PAIN MANAGEMENT,Yusimry Rheumatoid Arthritis,Adalimumab-aqvh Pen Kit (Yusimry)
+PAIN MANAGEMENT,Yusimry Ulcerative Colitis (adult),Adalimumab-aqvh Pen Kit (Yusimry)
+PAIN MANAGEMENT,Yusimry Uveitis (adult),Adalimumab-aqvh Pen Kit (Yusimry)
+PAIN MANAGEMENT,Zanaflex capsule,Tizanidine Capsule (Generic; Zanaflex)
+PAIN MANAGEMENT,Zanaflex tablet,Tizanidine Tablet (Zanaflex)
+COLONY STIMULATING FACTORS,Zarxio,Filgrastim-sndz Syringe (Zarxio)
+ENZYME REPLACEMENTS,Zavesca,Miglustat Capsule (AG; Generic; Zavesca)
+PAIN MANAGEMENT,Zavzpret,Zavegepant Nasal (Zavzpret)
+DIGESTIVE DISORDERS,Zegerid,"Omeprazole/Sodium Bicarbonate Rx Capsule, Packet (Generic; Zegerid)"
+ONCOLOGY,Zejula Tablet,Niraparib Tosylate Tablet (Zejula)
+INFECTIOUS DISORDERS,Zepatier,Elbasvir/Grazoprevir Tablet (Zepatier)
+OPHTHALMIC DISORDERS,Zerviate (Cetirizine) ophthalmic solution,Cetirizine Solution (Zerviate)
+HIV-AIDS,Ziagen,Abacavir Solution (Generic; Ziagen)
+COLONY STIMULATING FACTORS,Ziextenzo,Pegfilgrastim-bmez Syringe (Ziextenzo)
+ANTIPSYCHOTIC AGENTS,Ziprasidone,Ziprasidone Capsule (AG; Generic)
+SPINAL MUSCULAR ATROPHY,Zolgensma,Onasemnogene Abeparvovec-xioi (Zolgensma)
+SEDATIVE/HYPNOTICS,Zolpidem,Zolpidem Tablet (Generic)
+SEDATIVE/HYPNOTICS,Zolpidem CR,Zolpidem Tartrate ER Tablet (Generic)
+ANTICONVULSANTS,Zonisade,Zonisamide Suspension (Zonisade)
+DERMATOLOGY,"Zoryve cream, 0.15%, Atopic Dermatitis","Roflumilast 0.15% Cream, 0.3% Foam (Zoryve)"
+DERMATOLOGY,"Zoryve cream, 0.3%, Plaque Psoriasis",Roflumilast 0.3% Cream (Zoryve)
+ANTICONVULSANTS,Ztalmy,Ganaxolone Suspension (Ztalmy)
+DEPRESSION,Zurzuvae,Zuranolone Capsule (Zurzuvae)
+ONCOLOGY,Zydelig,Idelalisib Tablet (Zydelig)
+ANTIPSYCHOTIC AGENTS,Zyprexa,"Olanzapine Tablet, ODT (Zyprexa; Zyprexa Zydis)"
+ANTIPSYCHOTIC AGENTS,Zyprexa Relprevv,Olanzapine Suspension (Zyprexa Relprevv)
+ANTIPSYCHOTIC AGENTS,Zyprexa Zydis,"Olanzapine Tablet, ODT (Zyprexa; Zyprexa Zydis)"
+ONCOLOGY,Zytiga,Abiraterone Acetate Tablet (Zytiga)

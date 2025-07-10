@@ -16,8 +16,5 @@ df['therapeutic_class'] = df['therapeutic_class'].str.lstrip()
 df = df.dropna(subset=['pdl_name'])
 df = df.sort_values('therapeutic_class').reset_index(drop=True)
 
-df['pdl_name'] = (df['pdl_name'].str.replace(r'\s+', ' ', regex=True).str.strip()                            )
-
-
 df.to_csv('ME_PDL.csv', index=False)
 

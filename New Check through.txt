@@ -19,3 +19,47 @@ Initial GUI:
 - IA (pharmacy & clinical)
 - NC
 
+Permanently Skip rerun:
+
+AK
+- N/A
+
+AL
+- Vitafol Tab Chew (clinical)
+
+CT
+- N/A
+
+FL
+- N/A
+
+GA
+- N/A
+
+IA
+- N/A
+
+IL
+- N/A
+
+MS
+- N/A
+
+TN
+- N/A
+
+NC
+- N/A
+
+UT
+- N/A
+
+LA
+- 
+
+
+
+
+
+
+

@@ -1,0 +1,354 @@
+therapeutic_class,capsule_name,pdl_name,status
+PAIN MANAGEMENT,Abrilada Ankylosing Spondylitis,"Adalimumab-afzb Kit, Pen Kit (Abrilada)",Non-Preferred
+PAIN MANAGEMENT,Abrilada Crohn's Disease (pediatric),"Adalimumab-afzb Kit, Pen Kit (Abrilada)",Non-Preferred
+PAIN MANAGEMENT,Abrilada Crohn’s Disease (adult),"Adalimumab-afzb Kit, Pen Kit (Abrilada)",Non-Preferred
+PAIN MANAGEMENT,Abrilada Hidradenitis Suppurativa,"Adalimumab-afzb Kit, Pen Kit (Abrilada)",Non-Preferred
+PAIN MANAGEMENT,Abrilada Plaque Psoriasis (adult),"Adalimumab-afzb Kit, Pen Kit (Abrilada)",Non-Preferred
+PAIN MANAGEMENT,Abrilada Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-afzb Kit, Pen Kit (Abrilada)",Non-Preferred
+PAIN MANAGEMENT,Abrilada Psoriatic Arthritis (adult),"Adalimumab-afzb Kit, Pen Kit (Abrilada)",Non-Preferred
+PAIN MANAGEMENT,Abrilada Rheumatoid Arthritis,"Adalimumab-afzb Kit, Pen Kit (Abrilada)",Non-Preferred
+PAIN MANAGEMENT,Abrilada Ulcerative Colitis (adult),"Adalimumab-afzb Kit, Pen Kit (Abrilada)",Non-Preferred
+PAIN MANAGEMENT,Abrilada Uveitis (adult),"Adalimumab-afzb Kit, Pen Kit (Abrilada)",Non-Preferred
+PAIN MANAGEMENT,"Actemra ACTPen, Giant Cell Arteritis","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra ACTPen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra ACTPen, Rheumatoid Arthritis","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra prefilled syringe, Giant Cell Arteritis","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra prefilled syringe, Rheumatoid Arthritis","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra vial, Coronavirus Disease 2019","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra vial, Cytokine Release Syndrome","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra vial, Giant Cell Arteritis","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra vial, Rheumatoid Arthritis","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)",Non-Preferred
+PAIN MANAGEMENT,Adalimumab-adaz Ankylosing Spondylitis,"Adalimumab-adaz Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,Adalimumab-adaz Crohn’s Disease (adult),"Adalimumab-adaz Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,Adalimumab-adaz Crohn’s Disease (pediatric),"Adalimumab-adaz Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,Adalimumab-adaz Hidradenitis Suppurativa,"Adalimumab-adaz Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,Adalimumab-adaz Plaque Psoriasis (adult),"Adalimumab-adaz Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-adaz Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,Adalimumab-adaz Psoriatic Arthritis (adult),"Adalimumab-adaz Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,Adalimumab-adaz Rheumatoid Arthritis,"Adalimumab-adaz Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,Adalimumab-adaz Ulcerative Colitis (adult),"Adalimumab-adaz Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,Adalimumab-adaz Uveitis (adult),"Adalimumab-adaz Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Ankylosing Spondylitis, Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Ankylosing Spondylitis, Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]",Non-Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Crohn’s Disease (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Crohn’s Disease (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]",Non-Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Crohn’s Disease (pediatric), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Crohn’s Disease (pediatric), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]",Non-Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Hidradenitis Suppurativa, Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Hidradenitis Suppurativa, Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]",Non-Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Plaque Psoriasis (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Plaque Psoriasis (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]",Non-Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]",Non-Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Psoriatic Arthritis (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Psoriatic Arthritis (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]",Non-Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Rheumatoid Arthritis, Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Rheumatoid Arthritis, Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]",Non-Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Ulcerative Colitis (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Ulcerative Colitis (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]",Non-Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Uveitis (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit",Preferred
+PAIN MANAGEMENT,"Adalimumab-adbm Uveitis (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]",Non-Preferred
+PAIN MANAGEMENT,Adalimumab-fkjp Ankylosing Spondylitis,"Adalimumab-fkjp Kit, Pen Kit",Non-Preferred
+PAIN MANAGEMENT,Adalimumab-fkjp Crohn’s Disease (adult),"Adalimumab-fkjp Kit, Pen Kit",Non-Preferred
+PAIN MANAGEMENT,Adalimumab-fkjp Crohn’s Disease (pediatric),"Adalimumab-fkjp Kit, Pen Kit",Non-Preferred
+PAIN MANAGEMENT,Adalimumab-fkjp Hidradenitis Suppurativa,"Adalimumab-fkjp Kit, Pen Kit",Non-Preferred
+PAIN MANAGEMENT,Adalimumab-fkjp Plaque Psoriasis (adult),"Adalimumab-fkjp Kit, Pen Kit",Non-Preferred
+PAIN MANAGEMENT,Adalimumab-fkjp Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-fkjp Kit, Pen Kit",Non-Preferred
+PAIN MANAGEMENT,Adalimumab-fkjp Psoriatic Arthritis (adult),"Adalimumab-fkjp Kit, Pen Kit",Non-Preferred
+PAIN MANAGEMENT,Adalimumab-fkjp Rheumatoid Arthritis,"Adalimumab-fkjp Kit, Pen Kit",Non-Preferred
+PAIN MANAGEMENT,Adalimumab-fkjp Ulcerative Colitis (adult),"Adalimumab-fkjp Kit, Pen Kit",Non-Preferred
+PAIN MANAGEMENT,Adalimumab-fkjp Uveitis (adult),"Adalimumab-fkjp Kit, Pen Kit",Non-Preferred
+DERMATOLOGY,Adbry,"Tralokinumab-ldrm Autoinjector, Syringe (Adbry)",Preferred
+PAIN MANAGEMENT,Amjevita Ankylosing Spondylitis,"Adalimumab-atto Kit, Pen Kit (Amjevita)",Non-Preferred
+PAIN MANAGEMENT,Amjevita Crohn’s Disease (adult),"Adalimumab-atto Kit, Pen Kit (Amjevita)",Non-Preferred
+PAIN MANAGEMENT,Amjevita Crohn’s Disease (pediatric),"Adalimumab-atto Kit, Pen Kit (Amjevita)",Non-Preferred
+PAIN MANAGEMENT,Amjevita Hidradenitis Suppurativa,"Adalimumab-atto Kit, Pen Kit (Amjevita)",Non-Preferred
+PAIN MANAGEMENT,Amjevita Plaque Psoriasis (adult),"Adalimumab-atto Kit, Pen Kit (Amjevita)",Non-Preferred
+PAIN MANAGEMENT,Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-atto Kit, Pen Kit (Amjevita)",Non-Preferred
+PAIN MANAGEMENT,Amjevita Psoriatic Arthritis (adult),"Adalimumab-atto Kit, Pen Kit (Amjevita)",Non-Preferred
+PAIN MANAGEMENT,Amjevita Rheumatoid Arthritis,"Adalimumab-atto Kit, Pen Kit (Amjevita)",Non-Preferred
+PAIN MANAGEMENT,Amjevita Ulcerative Colitis (adult),"Adalimumab-atto Kit, Pen Kit (Amjevita)",Non-Preferred
+PAIN MANAGEMENT,Amjevita Uveitis (adult),"Adalimumab-atto Kit, Pen Kit (Amjevita)",Non-Preferred
+PAIN MANAGEMENT,Arcalyst Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),Rilonacept Vial (Arcalyst),Non-Preferred
+PAIN MANAGEMENT,Arcalyst Deficiency of Interleukin-1 Receptor Antagonist (DIRA),Rilonacept Vial (Arcalyst),Non-Preferred
+PAIN MANAGEMENT,Arcalyst Recurrent Pericarditis (RP),Rilonacept Vial (Arcalyst),Non-Preferred
+LUPUS IMMUNOMODULATORS,Benlysta,"Belimumab Auto-Injector, IV, Syringe, Vial (Benlysta)",Non-Preferred
+PAIN MANAGEMENT,Bimzelx Ankylosing Spondylitis,"Bimekizumab-bkzx Pen, Syringe (Bimzelx)",Non-Preferred
+PAIN MANAGEMENT,Bimzelx Hidradenitis Suppurativa,"Bimekizumab-bkzx Pen, Syringe (Bimzelx)",Non-Preferred
+PAIN MANAGEMENT,Bimzelx Non-Radiographic Axial Spondyloarthritis,"Bimekizumab-bkzx Pen, Syringe (Bimzelx)",Non-Preferred
+PAIN MANAGEMENT,Bimzelx Plaque Psoriasis (adult),"Bimekizumab-bkzx Pen, Syringe (Bimzelx)",Non-Preferred
+PAIN MANAGEMENT,Bimzelx Psoriatic Arthritis (adult),"Bimekizumab-bkzx Pen, Syringe (Bimzelx)",Non-Preferred
+PAIN MANAGEMENT,Cibinqo Atopic Dermatitis (adult),Abrocitinib Tablet (Cibinqo),Non-Preferred
+PAIN MANAGEMENT,Cimzia Ankylosing Spondylitis,"Certolizumab Pegol Kit, Syringe Kit (Cimzia)",Non-Preferred
+PAIN MANAGEMENT,Cimzia Crohn’s Disease (adult),"Certolizumab Pegol Kit, Syringe Kit (Cimzia)",Non-Preferred
+PAIN MANAGEMENT,Cimzia Non-Radiographic Axial Spondyloarthritis,"Certolizumab Pegol Kit, Syringe Kit (Cimzia)",Non-Preferred
+PAIN MANAGEMENT,Cimzia Plaque Psoriasis (adult),"Certolizumab Pegol Kit, Syringe Kit (Cimzia)",Non-Preferred
+PAIN MANAGEMENT,Cimzia Psoriatic Arthritis (adult),"Certolizumab Pegol Kit, Syringe Kit (Cimzia)",Non-Preferred
+PAIN MANAGEMENT,Cimzia Rheumatoid Arthritis,"Certolizumab Pegol Kit, Syringe Kit (Cimzia)",Non-Preferred
+ASTHMA/COPD,Cinqair Asthma (adult),Reslizumab Vial (Cinqair),Non-Preferred
+PAIN MANAGEMENT,Cosentyx Ankylosing Spondylitis,"Secukinumab Pen, Syringe, Vial (Cosentyx)",Non-Preferred
+PAIN MANAGEMENT,Cosentyx Enthesitis-Related Arthritis (pediatric),"Secukinumab Pen, Syringe, Vial (Cosentyx)",Non-Preferred
+PAIN MANAGEMENT,Cosentyx Hidradenitis Suppurativa,"Secukinumab Pen, Syringe, Vial (Cosentyx)",Non-Preferred
+PAIN MANAGEMENT,Cosentyx Non-Radiographic Axial Spondyloarthritis,"Secukinumab Pen, Syringe, Vial (Cosentyx)",Non-Preferred
+PAIN MANAGEMENT,Cosentyx Plaque Psoriasis (adult),"Secukinumab Pen, Syringe, Vial (Cosentyx)",Non-Preferred
+PAIN MANAGEMENT,Cosentyx Plaque Psoriasis (pediatric),"Secukinumab Pen, Syringe, Vial (Cosentyx)",Non-Preferred
+PAIN MANAGEMENT,Cosentyx Psoriatic Arthritis (adult),"Secukinumab Pen, Syringe, Vial (Cosentyx)",Non-Preferred
+PAIN MANAGEMENT,Cosentyx Psoriatic Arthritis (pediatric),"Secukinumab Pen, Syringe, Vial (Cosentyx)",Non-Preferred
+PAIN MANAGEMENT,Cyltezo Ankylosing Spondylitis,"Adalimumab-adbm Kit, Pen Kit (Cyltezo)",Preferred
+PAIN MANAGEMENT,Cyltezo Crohn’s Disease (adult),"Adalimumab-adbm Kit, Pen Kit (Cyltezo)",Preferred
+PAIN MANAGEMENT,Cyltezo Crohn’s Disease (pediatric),"Adalimumab-adbm Kit, Pen Kit (Cyltezo)",Preferred
+PAIN MANAGEMENT,Cyltezo Hidradenitis Suppurativa,"Adalimumab-adbm Kit, Pen Kit (Cyltezo)",Preferred
+PAIN MANAGEMENT,Cyltezo Plaque Psoriasis (adult),"Adalimumab-adbm Kit, Pen Kit (Cyltezo)",Preferred
+PAIN MANAGEMENT,Cyltezo Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-adbm Kit, Pen Kit (Cyltezo)",Preferred
+PAIN MANAGEMENT,Cyltezo Psoriatic Arthritis (adult),"Adalimumab-adbm Kit, Pen Kit (Cyltezo)",Preferred
+PAIN MANAGEMENT,Cyltezo Rheumatoid Arthritis,"Adalimumab-adbm Kit, Pen Kit (Cyltezo)",Preferred
+PAIN MANAGEMENT,Cyltezo Ulcerative Colitis (adult),"Adalimumab-adbm Kit, Pen Kit (Cyltezo)",Preferred
+PAIN MANAGEMENT,Cyltezo Uveitis (adult),"Adalimumab-adbm Kit, Pen Kit (Cyltezo)",Preferred
+DERMATOLOGY,Dupixent Asthma (adult),Dupilumab Syringe (Dupixent),Preferred
+DERMATOLOGY,Dupixent Asthma (pediatric),Dupilumab Syringe (Dupixent),Preferred
+DERMATOLOGY,Dupixent Atopic Dermatitis (adult),Dupilumab Syringe (Dupixent),Preferred
+DERMATOLOGY,Dupixent Atopic Dermatitis (pediatric),Dupilumab Syringe (Dupixent),Preferred
+DERMATOLOGY,Dupixent Chronic Obstructive Pulmonary Disease (COPD),Dupilumab Syringe (Dupixent),Preferred
+DERMATOLOGY,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,Dupilumab Syringe (Dupixent),Preferred
+DERMATOLOGY,Dupixent Eosinophilic Esophagitis,Dupilumab Syringe (Dupixent),Preferred
+DERMATOLOGY,Dupixent Prurigo Nodularis,Dupilumab Syringe (Dupixent),Preferred
+DERMATOLOGY,Ebglyss Atopic Dermatitis (adult),"Lebrikizumab-lbkz Pen, Syringe (Ebglyss)",Non-Preferred
+DERMATOLOGY,Ebglyss Atopic Dermatitis (pediatric),"Lebrikizumab-lbkz Pen, Syringe (Ebglyss)",Non-Preferred
+PAIN MANAGEMENT,Enbrel Ankylosing Spondylitis,Etanercept Vial (Enbrel),Preferred
+PAIN MANAGEMENT,Enbrel Plaque Psoriasis (adult),Etanercept Vial (Enbrel),Preferred
+PAIN MANAGEMENT,Enbrel Plaque Psoriasis (pediatric),Etanercept Vial (Enbrel),Preferred
+PAIN MANAGEMENT,Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA),Etanercept Vial (Enbrel),Preferred
+PAIN MANAGEMENT,Enbrel Psoriatic Arthritis (adult),Etanercept Vial (Enbrel),Preferred
+PAIN MANAGEMENT,Enbrel Psoriatic Arthritis (pediatric),Etanercept Vial (Enbrel),Preferred
+PAIN MANAGEMENT,Enbrel Rheumatoid Arthritis,Etanercept Vial (Enbrel),Preferred
+PAIN MANAGEMENT,Enspryng Neuromyelitis Optica Spectrum Disorder (NMOSD),Satralizumab-mwge Syringe (Enspryng),Non-Preferred
+PAIN MANAGEMENT,"Entyvio Crohn’s Disease (adult), vial","Vedolizumab Pen, Vial (Entyvio)",Non-Preferred
+PAIN MANAGEMENT,"Entyvio Ulcerative Colitis (adult), vial","Vedolizumab Pen, Vial (Entyvio)",Non-Preferred
+DERMATOLOGY,Eucrisa,Crisaborole Ointment (Eucrisa),Preferred
+ASTHMA/COPD,Fasenra Asthma (adult),Benralizumab Syringe (Fasenra),Preferred
+ASTHMA/COPD,Fasenra Asthma (pediatric),Benralizumab Syringe (Fasenra),Preferred
+ASTHMA/COPD,Fasenra Eosinophilic Granulomatosis with Polyangitis (EGPA),Benralizumab Syringe (Fasenra),Preferred
+PAIN MANAGEMENT,Hadlima Ankylosing Spondylitis,"Adalimumab-bwwd Kit, Pen Kit (Hadlima)",Preferred
+PAIN MANAGEMENT,Hadlima Crohn’s Disease (adult),"Adalimumab-bwwd Kit, Pen Kit (Hadlima)",Preferred
+PAIN MANAGEMENT,Hadlima Crohn’s Disease (pediatric),"Adalimumab-bwwd Kit, Pen Kit (Hadlima)",Preferred
+PAIN MANAGEMENT,Hadlima Hidradenitis Suppurativa,"Adalimumab-bwwd Kit, Pen Kit (Hadlima)",Preferred
+PAIN MANAGEMENT,Hadlima Plaque Psoriasis (adult),"Adalimumab-bwwd Kit, Pen Kit (Hadlima)",Preferred
+PAIN MANAGEMENT,Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-bwwd Kit, Pen Kit (Hadlima)",Preferred
+PAIN MANAGEMENT,Hadlima Psoriatic Arthritis (adult),"Adalimumab-bwwd Kit, Pen Kit (Hadlima)",Preferred
+PAIN MANAGEMENT,Hadlima Rheumatoid Arthritis,"Adalimumab-bwwd Kit, Pen Kit (Hadlima)",Preferred
+PAIN MANAGEMENT,Hadlima Ulcerative Colitis (adult),"Adalimumab-bwwd Kit, Pen Kit (Hadlima)",Preferred
+PAIN MANAGEMENT,Hadlima Uveitis (adult),"Adalimumab-bwwd Kit, Pen Kit (Hadlima)",Preferred
+PAIN MANAGEMENT,Hulio Ankylosing Spondylitis,"Adalimumab-fkjp Kit, Pen Kit (Hulio)",Non-Preferred
+PAIN MANAGEMENT,Hulio Crohn’s Disease (adult),"Adalimumab-fkjp Kit, Pen Kit (Hulio)",Non-Preferred
+PAIN MANAGEMENT,Hulio Crohn’s Disease (pediatric),"Adalimumab-fkjp Kit, Pen Kit (Hulio)",Non-Preferred
+PAIN MANAGEMENT,Hulio Hidradenitis Suppurativa,"Adalimumab-fkjp Kit, Pen Kit (Hulio)",Non-Preferred
+PAIN MANAGEMENT,Hulio Plaque Psoriasis (adult),"Adalimumab-fkjp Kit, Pen Kit (Hulio)",Non-Preferred
+PAIN MANAGEMENT,Hulio Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-fkjp Kit, Pen Kit (Hulio)",Non-Preferred
+PAIN MANAGEMENT,Hulio Psoriatic Arthritis (adult),"Adalimumab-fkjp Kit, Pen Kit (Hulio)",Non-Preferred
+PAIN MANAGEMENT,Hulio Rheumatoid Arthritis,"Adalimumab-fkjp Kit, Pen Kit (Hulio)",Non-Preferred
+PAIN MANAGEMENT,Hulio Ulcerative Colitis (adult),"Adalimumab-fkjp Kit, Pen Kit (Hulio)",Non-Preferred
+PAIN MANAGEMENT,Hulio Uveitis (adult),"Adalimumab-fkjp Kit, Pen Kit (Hulio)",Non-Preferred
+PAIN MANAGEMENT,Humira Ankylosing Spondylitis,"Adalimumab Pen Kit, Syringe Kit (Humira)",Preferred
+PAIN MANAGEMENT,Humira Crohn's Disease (adult),"Adalimumab Pen Kit, Syringe Kit (Humira)",Preferred
+PAIN MANAGEMENT,Humira Crohn's Disease (pediatric),"Adalimumab Pen Kit, Syringe Kit (Humira)",Preferred
+PAIN MANAGEMENT,Humira Hidradenitis Suppurativa,"Adalimumab Pen Kit, Syringe Kit (Humira)",Preferred
+PAIN MANAGEMENT,Humira Plaque Psoriasis (adult),"Adalimumab Pen Kit, Syringe Kit (Humira)",Preferred
+PAIN MANAGEMENT,Humira Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab Pen Kit, Syringe Kit (Humira)",Preferred
+PAIN MANAGEMENT,Humira Psoriatic Arthritis (adult),"Adalimumab Pen Kit, Syringe Kit (Humira)",Preferred
+PAIN MANAGEMENT,Humira Rheumatoid Arthritis,"Adalimumab Pen Kit, Syringe Kit (Humira)",Preferred
+PAIN MANAGEMENT,Humira Ulcerative Colitis (adult),"Adalimumab Pen Kit, Syringe Kit (Humira)",Preferred
+PAIN MANAGEMENT,Humira Ulcerative Colitis (pediatric),"Adalimumab Pen Kit, Syringe Kit (Humira)",Preferred
+PAIN MANAGEMENT,Humira Uveitis (adult),"Adalimumab Pen Kit, Syringe Kit (Humira)",Preferred
+PAIN MANAGEMENT,Humira Uveitis (pediatric),"Adalimumab Pen Kit, Syringe Kit (Humira)",Preferred
+PAIN MANAGEMENT,Hyrimoz Ankylosing Spondylitis,"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)",Non-Preferred
+PAIN MANAGEMENT,Hyrimoz Crohn’s Disease (adult),"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)",Non-Preferred
+PAIN MANAGEMENT,Hyrimoz Crohn’s Disease (pediatric),"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)",Non-Preferred
+PAIN MANAGEMENT,Hyrimoz Hidradenitis Suppurativa,"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)",Non-Preferred
+PAIN MANAGEMENT,Hyrimoz Plaque Psoriasis (adult),"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)",Non-Preferred
+PAIN MANAGEMENT,Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)",Non-Preferred
+PAIN MANAGEMENT,Hyrimoz Psoriatic Arthritis (adult),"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)",Non-Preferred
+PAIN MANAGEMENT,Hyrimoz Rheumatoid Arthritis,"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)",Non-Preferred
+PAIN MANAGEMENT,Hyrimoz Ulcerative Colitis (adult),"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)",Non-Preferred
+PAIN MANAGEMENT,Hyrimoz Uveitis (adult),"Adalimumab-adaz Kit, Pen Kit (Hyrimoz)",Non-Preferred
+PAIN MANAGEMENT,Idacio Ankylosing Spondylitis,"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)",Non-Preferred
+PAIN MANAGEMENT,Idacio Crohn’s Disease (adult),"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)",Non-Preferred
+PAIN MANAGEMENT,Idacio Crohn’s Disease (pediatric),"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)",Non-Preferred
+PAIN MANAGEMENT,Idacio Hidradenitis Suppurativa,"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)",Non-Preferred
+PAIN MANAGEMENT,Idacio Plaque Psoriasis (adult),"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)",Non-Preferred
+PAIN MANAGEMENT,Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)",Non-Preferred
+PAIN MANAGEMENT,Idacio Psoriatic Arthritis (adult),"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)",Non-Preferred
+PAIN MANAGEMENT,Idacio Rheumatoid Arthritis,"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)",Non-Preferred
+PAIN MANAGEMENT,Idacio Ulcerative Colitis (adult),"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)",Non-Preferred
+PAIN MANAGEMENT,Idacio Uveitis (adult),"Adalimumab-aacf Autoinjector Kit, Pen Kit (Idacio)",Non-Preferred
+PAIN MANAGEMENT,Ilaris Adult-Onset Still’s Disease,Canakinumab/PF Vial (Ilaris),Non-Preferred
+PAIN MANAGEMENT,Ilaris Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),Canakinumab/PF Vial (Ilaris),Non-Preferred
+PAIN MANAGEMENT,Ilaris Familial Mediterranean Fever (FMF),Canakinumab/PF Vial (Ilaris),Non-Preferred
+PAIN MANAGEMENT,Ilaris Gout Flares,Canakinumab/PF Vial (Ilaris),Non-Preferred
+PAIN MANAGEMENT,Ilaris Hyperimmunoglobulin D Syndrome (HIDS)/Mevalonate Kinase Deficiency (MKD),Canakinumab/PF Vial (Ilaris),Non-Preferred
+PAIN MANAGEMENT,Ilaris Systemic-Onset Juvenile Idiopathic Arthritis (SJIA),Canakinumab/PF Vial (Ilaris),Non-Preferred
+PAIN MANAGEMENT,Ilaris Tumor Necrosis Factor Receptor Associated Periodic Syndrome (TRAPS),Canakinumab/PF Vial (Ilaris),Non-Preferred
+PAIN MANAGEMENT,Ilumya Plaque Psoriasis (adult),Tildrakizumab-asmn Syringe (Ilumya),Non-Preferred
+PAIN MANAGEMENT,Inflectra,"Infliximab-dyyb Syringe, Pen, Vial (Zymfentra; Inflectra)",Non-Preferred
+PAIN MANAGEMENT,Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Sarilumab Pen, Syringe (Kevzara)",Non-Preferred
+PAIN MANAGEMENT,Kevzara Polymyalgia Rheumatica (PMR),"Sarilumab Pen, Syringe (Kevzara)",Non-Preferred
+PAIN MANAGEMENT,Kevzara Rheumatoid Arthritis,"Sarilumab Pen, Syringe (Kevzara)",Non-Preferred
+PAIN MANAGEMENT,Kineret,Anakinra Syringe (Kineret),Non-Preferred
+PAIN MANAGEMENT,Litfulo Alopecia Areata,Ritlecitinib Capsule (Litfulo),Non-Preferred
+LUPUS IMMUNOMODULATORS,Lupkynis,Voclosporin Capsule (Lupkynis),Non-Preferred
+DERMATOLOGY,"Nemluvio auto-injector, Atopic Dermatitis (adult)",Nemolizumab-ilto Pen (Nemluvio),Non-Preferred
+DERMATOLOGY,"Nemluvio auto-injector, Atopic Dermatitis (pediatric)",Nemolizumab-ilto Pen (Nemluvio),Non-Preferred
+DERMATOLOGY,"Nemluvio auto-injector, Prurigo Nodularis",Nemolizumab-ilto Pen (Nemluvio),Non-Preferred
+ASTHMA/COPD,Nucala Asthma (adult),Mepolizumab Vial (Nucala),Non-Preferred
+ASTHMA/COPD,Nucala Asthma (pediatric),Mepolizumab Vial (Nucala),Non-Preferred
+ASTHMA/COPD,Nucala Chronic Rhinosinusitis with Nasal Polyposis,Mepolizumab Vial (Nucala),Non-Preferred
+ASTHMA/COPD,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),Mepolizumab Vial (Nucala),Non-Preferred
+ASTHMA/COPD,Nucala Hypereosinophilic Syndrome (HES),Mepolizumab Vial (Nucala),Non-Preferred
+PAIN MANAGEMENT,Olumiant Alopecia Areata,Baricitinib Tablet (Olumiant),Non-Preferred
+PAIN MANAGEMENT,Olumiant Coronavirus Disease 2019,Baricitinib Tablet (Olumiant),Non-Preferred
+PAIN MANAGEMENT,Olumiant Rheumatoid Arthritis,Baricitinib Tablet (Olumiant),Non-Preferred
+PAIN MANAGEMENT,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Abatacept Injection Clickject, Syringe, Vial (Orencia)",Non-Preferred
+PAIN MANAGEMENT,"Orencia ClickJect, Psoriatic Arthritis (adult)","Abatacept Injection Clickject, Syringe, Vial (Orencia)",Non-Preferred
+PAIN MANAGEMENT,"Orencia ClickJect, Psoriatic Arthritis (pediatric)","Abatacept Injection Clickject, Syringe, Vial (Orencia)",Non-Preferred
+PAIN MANAGEMENT,"Orencia ClickJect, Rheumatoid Arthritis","Abatacept Injection Clickject, Syringe, Vial (Orencia)",Non-Preferred
+PAIN MANAGEMENT,"Orencia prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Abatacept Injection Clickject, Syringe, Vial (Orencia)",Non-Preferred
+PAIN MANAGEMENT,"Orencia prefilled syringe, Psoriatic Arthritis (adult)","Abatacept Injection Clickject, Syringe, Vial (Orencia)",Non-Preferred
+PAIN MANAGEMENT,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)","Abatacept Injection Clickject, Syringe, Vial (Orencia)",Non-Preferred
+PAIN MANAGEMENT,"Orencia prefilled syringe, Rheumatoid Arthritis","Abatacept Injection Clickject, Syringe, Vial (Orencia)",Non-Preferred
+PAIN MANAGEMENT,"Orencia vial, Acute Graft Versus Host Disease (aGVHD)","Abatacept Injection Clickject, Syringe, Vial (Orencia)",Non-Preferred
+PAIN MANAGEMENT,"Orencia vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Abatacept Injection Clickject, Syringe, Vial (Orencia)",Non-Preferred
+PAIN MANAGEMENT,"Orencia vial, Psoriatic Arthritis (adult)","Abatacept Injection Clickject, Syringe, Vial (Orencia)",Non-Preferred
+PAIN MANAGEMENT,"Orencia vial, Rheumatoid Arthritis","Abatacept Injection Clickject, Syringe, Vial (Orencia)",Non-Preferred
+PAIN MANAGEMENT,Otezla Behcet’s Disease,Apremilast Tablet (Otezla),Preferred
+PAIN MANAGEMENT,Otezla Plaque Psoriasis (adult),Apremilast Tablet (Otezla),Preferred
+PAIN MANAGEMENT,Otezla Plaque Psoriasis (pediatric),Apremilast Tablet (Otezla),Preferred
+PAIN MANAGEMENT,Otezla Psoriatic Arthritis (adult),Apremilast Tablet (Otezla),Preferred
+PAIN MANAGEMENT,Remicade,Infliximab Vial (Remicade),Non-Preferred
+PAIN MANAGEMENT,Renflexis,Infliximab-abda Vial (Renflexis),Non-Preferred
+PAIN MANAGEMENT,Rinvoq Ankylosing Spondylitis,"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)",Non-Preferred
+PAIN MANAGEMENT,Rinvoq Atopic Dermatitis (adult),"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)",Non-Preferred
+PAIN MANAGEMENT,Rinvoq Crohn's Disease (adult),"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)",Non-Preferred
+PAIN MANAGEMENT,Rinvoq Non-Radiographic Axial Spondyloarthritis,"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)",Non-Preferred
+PAIN MANAGEMENT,Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)",Non-Preferred
+PAIN MANAGEMENT,Rinvoq Psoriatic Arthritis (adult),"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)",Non-Preferred
+PAIN MANAGEMENT,Rinvoq Psoriatic Arthritis (pediatric),"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)",Non-Preferred
+PAIN MANAGEMENT,Rinvoq Rheumatoid Arthritis,"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)",Non-Preferred
+PAIN MANAGEMENT,Rinvoq Ulcerative Colitis (adult),"Upadacitinib ER Tablet, Solution (Rinvoq, Rinvoq LQ)",Non-Preferred
+PAIN MANAGEMENT,"Selarsdi Crohn's Disease (adult), intravenous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)",Non-Preferred
+PAIN MANAGEMENT,"Selarsdi Crohn's Disease (adult), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)",Non-Preferred
+PAIN MANAGEMENT,"Selarsdi Crohn's Disease (adult), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)",Non-Preferred
+PAIN MANAGEMENT,"Selarsdi Plaque Psoriasis (adult), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)",Non-Preferred
+PAIN MANAGEMENT,"Selarsdi Plaque Psoriasis (adult), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)",Non-Preferred
+PAIN MANAGEMENT,"Selarsdi Plaque Psoriasis (pediatric), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)",Non-Preferred
+PAIN MANAGEMENT,"Selarsdi Plaque Psoriasis (pediatric), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)",Non-Preferred
+PAIN MANAGEMENT,"Selarsdi Psoriatic Arthritis (adult), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)",Non-Preferred
+PAIN MANAGEMENT,"Selarsdi Psoriatic Arthritis (adult), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)",Non-Preferred
+PAIN MANAGEMENT,"Selarsdi Psoriatic Arthritis (pediatric), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)",Non-Preferred
+PAIN MANAGEMENT,"Selarsdi Psoriatic Arthritis (pediatric), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)",Non-Preferred
+PAIN MANAGEMENT,"Selarsdi Ulcerative Colitis (adult), intravenous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)",Non-Preferred
+PAIN MANAGEMENT,"Selarsdi Ulcerative Colitis (adult), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)",Non-Preferred
+PAIN MANAGEMENT,"Selarsdi Ulcerative Colitis (adult), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)",Non-Preferred
+PAIN MANAGEMENT,Siliq,Brodalumab Syringe (Siliq),Non-Preferred
+PAIN MANAGEMENT,Simlandi Ankylosing Spondylitis,Adalimbumab-ryvk Kit (Simlandi),Non-Preferred
+PAIN MANAGEMENT,Simlandi Crohn’s Disease (adult),Adalimbumab-ryvk Kit (Simlandi),Non-Preferred
+PAIN MANAGEMENT,Simlandi Crohn’s Disease (pediatric),Adalimbumab-ryvk Kit (Simlandi),Non-Preferred
+PAIN MANAGEMENT,Simlandi Hidradenitis Suppurativa,Adalimbumab-ryvk Kit (Simlandi),Non-Preferred
+PAIN MANAGEMENT,Simlandi Plaque Psoriasis (adult),Adalimbumab-ryvk Kit (Simlandi),Non-Preferred
+PAIN MANAGEMENT,Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA),Adalimbumab-ryvk Kit (Simlandi),Non-Preferred
+PAIN MANAGEMENT,Simlandi Psoriatic Arthritis (adult),Adalimbumab-ryvk Kit (Simlandi),Non-Preferred
+PAIN MANAGEMENT,Simlandi Rheumatoid Arthritis,Adalimbumab-ryvk Kit (Simlandi),Non-Preferred
+PAIN MANAGEMENT,Simlandi Ulcerative Colitis (adult),Adalimbumab-ryvk Kit (Simlandi),Non-Preferred
+PAIN MANAGEMENT,Simlandi Uveitis (adult),Adalimbumab-ryvk Kit (Simlandi),Non-Preferred
+PAIN MANAGEMENT,"Simponi Ankylosing Spondylitis, Aria",Golimumab Vial (Simponi Aria),Non-Preferred
+PAIN MANAGEMENT,"Simponi Ankylosing Spondylitis, prefilled syringe","Golimumab Pen, Syringe (Simponi)",Non-Preferred
+PAIN MANAGEMENT,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Golimumab Vial (Simponi Aria),Non-Preferred
+PAIN MANAGEMENT,"Simponi Aria, Psoriatic Arthritis (pediatric)",Golimumab Vial (Simponi Aria),Non-Preferred
+PAIN MANAGEMENT,"Simponi Psoriatic Arthritis (adult), Aria",Golimumab Vial (Simponi Aria),Non-Preferred
+PAIN MANAGEMENT,"Simponi Psoriatic Arthritis (adult), prefilled syringe","Golimumab Pen, Syringe (Simponi)",Non-Preferred
+PAIN MANAGEMENT,"Simponi Rheumatoid Arthritis, Aria",Golimumab Vial (Simponi Aria),Non-Preferred
+PAIN MANAGEMENT,"Simponi Rheumatoid Arthritis, prefilled syringe","Golimumab Pen, Syringe (Simponi)",Non-Preferred
+PAIN MANAGEMENT,"Simponi Ulcerative Colitis (adult), prefilled syringe","Golimumab Pen, Syringe (Simponi)",Non-Preferred
+PAIN MANAGEMENT,"Skyrizi Crohn’s Disease (adult), prefilled cartridge","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)",Non-Preferred
+PAIN MANAGEMENT,"Skyrizi Crohn’s Disease (adult), prefilled pen","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)",Non-Preferred
+PAIN MANAGEMENT,"Skyrizi Crohn’s Disease (adult), vial","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)",Non-Preferred
+PAIN MANAGEMENT,"Skyrizi Plaque Psoriasis (adult), prefilled cartridge","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)",Non-Preferred
+PAIN MANAGEMENT,"Skyrizi Plaque Psoriasis (adult), prefilled pen","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)",Non-Preferred
+PAIN MANAGEMENT,"Skyrizi Plaque Psoriasis (adult), vial","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)",Non-Preferred
+PAIN MANAGEMENT,"Skyrizi Psoriatic Arthritis (adult), prefilled cartridge","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)",Non-Preferred
+PAIN MANAGEMENT,"Skyrizi Psoriatic Arthritis (adult), prefilled pen","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)",Non-Preferred
+PAIN MANAGEMENT,"Skyrizi Psoriatic Arthritis (adult), vial","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)",Non-Preferred
+PAIN MANAGEMENT,"Skyrizi Ulcerative Colitis (adult), prefilled cartridge","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)",Non-Preferred
+PAIN MANAGEMENT,"Skyrizi Ulcerative Colitis (adult), prefilled pen","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)",Non-Preferred
+PAIN MANAGEMENT,"Skyrizi Ulcerative Colitis (adult), vial","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)",Non-Preferred
+PAIN MANAGEMENT,Sotyktu Plaque Psoriasis (adult),Deucravacitinib Tablet (Sotyktu),Non-Preferred
+PAIN MANAGEMENT,"Stelara Crohn’s Disease (adult), intravenous vial","Ustekinumab Syringe, Vial (Stelara)",Non-Preferred
+PAIN MANAGEMENT,"Stelara Crohn’s Disease (adult), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)",Non-Preferred
+PAIN MANAGEMENT,"Stelara Crohn’s Disease (adult), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)",Non-Preferred
+PAIN MANAGEMENT,"Stelara Plaque Psoriasis (adult), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)",Non-Preferred
+PAIN MANAGEMENT,"Stelara Plaque Psoriasis (adult), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)",Non-Preferred
+PAIN MANAGEMENT,"Stelara Plaque Psoriasis (pediatric), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)",Non-Preferred
+PAIN MANAGEMENT,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)",Non-Preferred
+PAIN MANAGEMENT,"Stelara Psoriatic Arthritis (adult), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)",Non-Preferred
+PAIN MANAGEMENT,"Stelara Psoriatic Arthritis (adult), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)",Non-Preferred
+PAIN MANAGEMENT,"Stelara Psoriatic Arthritis (pediatric), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)",Non-Preferred
+PAIN MANAGEMENT,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)",Non-Preferred
+PAIN MANAGEMENT,"Stelara Ulcerative Colitis (adult), intravenous vial","Ustekinumab Syringe, Vial (Stelara)",Non-Preferred
+PAIN MANAGEMENT,"Stelara Ulcerative Colitis (adult), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)",Non-Preferred
+PAIN MANAGEMENT,"Stelara Ulcerative Colitis (adult), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)",Non-Preferred
+PAIN MANAGEMENT,Taltz,"Ixekizumab Autoinjector, Syringe (Taltz)",Non-Preferred
+ASTHMA/COPD,Tezspire Asthma (adult),"Tezepelumab-ekko Syringe, Pen (Tezspire)",Non-Preferred
+PAIN MANAGEMEN,Tremfya,"Guselkumab Autoinjector, Pen, Syringe, Vial (Tremfya)",Non-Preferred
+PAIN MANAGEMENT,Uplizna Neuromyelitis Optica Spectrum Disorder (NMOSD),Inebilizumab-cdon Vial (Uplizna),Non-Preferred
+PAIN MANAGEMENT,Velsipity Ulcerative Colitis (adult),Etrasimod Tablet (Velsipity),Non-Preferred
+PAIN MANAGEMENT,"Xeljanz Ankylosing Spondylitis, IR tablet",Tofacitinib Citrate Tablet (Xeljanz),Preferred
+PAIN MANAGEMENT,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), IR tablet",Tofacitinib Citrate Tablet (Xeljanz),Preferred
+PAIN MANAGEMENT,"Xeljanz Psoriatic Arthritis (adult), IR tablet",Tofacitinib Citrate Tablet (Xeljanz),Preferred
+PAIN MANAGEMENT,"Xeljanz Rheumatoid Arthritis, IR tablet",Tofacitinib Citrate Tablet (Xeljanz),Preferred
+PAIN MANAGEMENT,"Xeljanz Ulcerative Colitis (adult), IR tablet",Tofacitinib Citrate Tablet (Xeljanz),Preferred
+ASTHMA/COPD,Xolair Asthma (adult),Omalizumab Vial (Xolair),Preferred
+ASTHMA/COPD,Xolair Asthma (pediatric),Omalizumab Vial (Xolair),Preferred
+ASTHMA/COPD,Xolair Chronic Rhinosinusitis with Nasal Polyposis,Omalizumab Vial (Xolair),Preferred
+ASTHMA/COPD,Xolair Chronic Spontaneous Urticaria (CSU),Omalizumab Vial (Xolair),Preferred
+ASTHMA/COPD,Xolair IgE-Mediated Food Allergy,Omalizumab Vial (Xolair),Preferred
+PAIN MANAGEMENT,"Yesintek intravenous vial, Crohn’s Disease (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)",Non-Preferred
+PAIN MANAGEMENT,"Yesintek intravenous vial, Ulcerative Colitis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)",Non-Preferred
+PAIN MANAGEMENT,"Yesintek prefilled syringe, Crohn’s Disease (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)",Non-Preferred
+PAIN MANAGEMENT,"Yesintek prefilled syringe, Plaque Psoriasis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)",Non-Preferred
+PAIN MANAGEMENT,"Yesintek prefilled syringe, Plaque Psoriasis (pediatric)","Ustekinumab-kfce Syringe, Vial (Yesintek)",Non-Preferred
+PAIN MANAGEMENT,"Yesintek prefilled syringe, Psoriatic Arthritis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)",Non-Preferred
+PAIN MANAGEMENT,"Yesintek prefilled syringe, Psoriatic Arthritis (pediatric)","Ustekinumab-kfce Syringe, Vial (Yesintek)",Non-Preferred
+PAIN MANAGEMENT,"Yesintek prefilled syringe, Ulcerative Colitis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)",Non-Preferred
+PAIN MANAGEMENT,"Yesintek subcutaneous vial, Crohn’s Disease (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)",Non-Preferred
+PAIN MANAGEMENT,"Yesintek subcutaneous vial, Plaque Psoriasis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)",Non-Preferred
+PAIN MANAGEMENT,"Yesintek subcutaneous vial, Plaque Psoriasis (pediatric)","Ustekinumab-kfce Syringe, Vial (Yesintek)",Non-Preferred
+PAIN MANAGEMENT,"Yesintek subcutaneous vial, Psoriatic Arthritis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)",Non-Preferred
+PAIN MANAGEMENT,"Yesintek subcutaneous vial, Psoriatic Arthritis (pediatric)","Ustekinumab-kfce Syringe, Vial (Yesintek)",Non-Preferred
+PAIN MANAGEMENT,"Yesintek subcutaneous vial, Ulcerative Colitis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)",Non-Preferred
+PAIN MANAGEMENT,Yuflyma Ankylosing Spondylitis,"Adalimumab-aaty Kit, Pen Kit (Yuflyma)",Non-Preferred
+PAIN MANAGEMENT,Yuflyma Crohn’s Disease (adult),"Adalimumab-aaty Kit, Pen Kit (Yuflyma)",Non-Preferred
+PAIN MANAGEMENT,Yuflyma Crohn’s Disease (pediatric),"Adalimumab-aaty Kit, Pen Kit (Yuflyma)",Non-Preferred
+PAIN MANAGEMENT,Yuflyma Hidradenitis Suppurativa,"Adalimumab-aaty Kit, Pen Kit (Yuflyma)",Non-Preferred
+PAIN MANAGEMENT,Yuflyma Plaque Psoriasis (adult),"Adalimumab-aaty Kit, Pen Kit (Yuflyma)",Non-Preferred
+PAIN MANAGEMENT,Yuflyma Polyarticular Juvenile Idiopathic Arthritis (PJIA),"Adalimumab-aaty Kit, Pen Kit (Yuflyma)",Non-Preferred
+PAIN MANAGEMENT,Yuflyma Psoriatic Arthritis (adult),"Adalimumab-aaty Kit, Pen Kit (Yuflyma)",Non-Preferred
+PAIN MANAGEMENT,Yuflyma Rheumatoid Arthritis,"Adalimumab-aaty Kit, Pen Kit (Yuflyma)",Non-Preferred
+PAIN MANAGEMENT,Yuflyma Ulcerative Colitis (adult),"Adalimumab-aaty Kit, Pen Kit (Yuflyma)",Non-Preferred
+PAIN MANAGEMENT,Yuflyma Uveitis (adult),"Adalimumab-aaty Kit, Pen Kit (Yuflyma)",Non-Preferred
+PAIN MANAGEMENT,Yusimry Ankylosing Spondylitis,Adalimumab-aqvh Pen Kit (Yusimry),Preferred
+PAIN MANAGEMENT,Yusimry Crohn’s Disease (adult),Adalimumab-aqvh Pen Kit (Yusimry),Preferred
+PAIN MANAGEMENT,Yusimry Crohn’s Disease (pediatric),Adalimumab-aqvh Pen Kit (Yusimry),Preferred
+PAIN MANAGEMENT,Yusimry Hidradenitis Suppurativa,Adalimumab-aqvh Pen Kit (Yusimry),Preferred
+PAIN MANAGEMENT,Yusimry Plaque Psoriasis (adult),Adalimumab-aqvh Pen Kit (Yusimry),Preferred
+PAIN MANAGEMENT,Yusimry Polyarticular Juvenile Idiopathic Arthritis (PJIA),Adalimumab-aqvh Pen Kit (Yusimry),Preferred
+PAIN MANAGEMENT,Yusimry Psoriatic Arthritis (adult),Adalimumab-aqvh Pen Kit (Yusimry),Preferred
+PAIN MANAGEMENT,Yusimry Rheumatoid Arthritis,Adalimumab-aqvh Pen Kit (Yusimry),Preferred
+PAIN MANAGEMENT,Yusimry Ulcerative Colitis (adult),Adalimumab-aqvh Pen Kit (Yusimry),Preferred
+PAIN MANAGEMENT,Yusimry Uveitis (adult),Adalimumab-aqvh Pen Kit (Yusimry),Preferred
+DERMATOLOGY,"Zoryve cream, 0.15%, Atopic Dermatitis","Roflumilast 0.15% Cream, 0.3% Foam (Zoryve)",Non-Preferred
+DERMATOLOGY,"Zoryve cream, 0.3%, Plaque Psoriasis",Roflumilast 0.3% Cream (Zoryve),Non-Preferred
