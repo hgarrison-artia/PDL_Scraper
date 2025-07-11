@@ -3,6 +3,20 @@ import openpyxl
 import docx
 from docx.oxml.ns import qn
 
+
+def get_cell_text_without_superscripts(cell):
+    """Return cell text while ignoring superscripted runs."""
+    lines = []
+    for paragraph in cell.paragraphs:
+        parts = []
+        for run in paragraph.runs:
+            if run.element.xpath('.//w:vertAlign'):
+                # Skip text that is formatted as superscript (e.g. "PA")
+                continue
+            parts.append(run.text)
+        lines.append("".join(parts))
+    return "\n".join(lines).strip()
+
 doc_path = 'OH.docx' 
 doc = docx.Document(doc_path)
 
@@ -18,7 +32,7 @@ for table_idx, table in enumerate(doc.tables):
     Class = None
     Subclass = None
     for row in table.rows:
-        row_values = [cell.text.strip() for cell in row.cells if cell.text.strip()]
+        row_values = [get_cell_text_without_superscripts(cell) for cell in row.cells if get_cell_text_without_superscripts(cell)]
         row_class = None
         # Only combine if not all cell values are identical
         if row_values and not all(val == row_values[0] for val in row_values):
@@ -39,7 +53,7 @@ for table_idx, table in enumerate(doc.tables):
             Class = row_class
             Subclass = None  # Optionally reset Subclass when a new Class is found
         for idx, cell in enumerate(row.cells):
-            value = cell.text.strip()
+            value = get_cell_text_without_superscripts(cell)
             shd = cell._tc.xpath('.//w:shd')
             fill = shd[0].get(qn('w:fill')) if shd else None
             if fill == subclass_color and value:
