@@ -1,4 +1,9 @@
 therapeutic_class,capsule_name,pdl_name
+ANTIPSYCHOTICS - ATYPICALS,Abilify Asimtufii,ABILIFY ASIMTUFII
+ANTIPSYCHOTICS - ATYPICALS,Abilify Maintena,ABILIFY MAINTENA
+ANTIPSYCHOTICS - ATYPICALS,Abilify tablet,ABILIFY TABS
+"ISOTRETINION, ACNE",Absorica LD capsule,ABSORICA LD
+GI - PROTON PUMP INHIBITOR,Aciphex,ACIPHEX TBEC
 RHEUMATOID ARTHRITIS,"Actemra prefilled syringe, Giant Cell Arteritis",ACTEMRA SYRINGES
 RHEUMATOID ARTHRITIS,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA SYRINGES
 RHEUMATOID ARTHRITIS,"Actemra prefilled syringe, Rheumatoid Arthritis",ACTEMRA SYRINGES
@@ -10,6 +15,7 @@ RHEUMATOID ARTHRITIS,"Actemra vial, Giant Cell Arteritis",ACTEMRA VIALS
 RHEUMATOID ARTHRITIS,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA VIALS
 RHEUMATOID ARTHRITIS,"Actemra vial, Rheumatoid Arthritis",ACTEMRA VIALS
 RHEUMATOID ARTHRITIS,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA VIALS
+SICKLE CELL DISEASE,Adakveo,ADAKVEO
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Ankylosing Spondylitis,ADALIMUMAB-FKJP
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Crohn’s Disease (adult),ADALIMUMAB-FKJP
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Crohn’s Disease (pediatric),ADALIMUMAB-FKJP
@@ -21,6 +27,23 @@ PSORIASIS BIOLOGICALS,Adalimumab-fkjp Rheumatoid Arthritis,ADALIMUMAB-FKJP
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Ulcerative Colitis (adult),ADALIMUMAB-FKJP
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Uveitis (adult),ADALIMUMAB-FKJP
 TOPICAL- ATOPIC DERMATITIS,Adbry Atopic Dermatitis (adult),ADBRY
+PULMONARY ANTI-HYPERTENSIVES,Adcirca,ADCIRCA
+STIMULANT - LONG ACTING AMPHETAMINES SALT,Adderall XR ER capsule,ADDERALL XR CP24
+PULMONARY ANTI-HYPERTENSIVES,Adempas,ADEMPAS
+INCRETIN MIMETIC,Adlyxin,ADLYXIN
+DIABETIC - INSULIN,Admelog,ADMELOG
+DIABETIC - INSULIN,Admelog SoloStar,ADMELOG
+ANTIASTHMATIC - ADRENERGIC COMBINATIONS,Advair Diskus,ADVAIR DISKUS
+ANTIASTHMATIC - ADRENERGIC COMBINATIONS,Advair HFA,ADVAIR HFA
+ANTIHEMOPHILIC AGENTS,Advate,ADVATE
+ANTIHEMOPHILIC AGENTS,Adynovate,ADYNOVATE VIAL
+ANTIHEMOPHILIC AGENTS,Afstyla,AFSTYLA
+MIGRAINE -  PREVENTATIVE TREATMENT,Aimovig,AIMOVIG
+ANTIASTHMATIC - ADRENERGIC COMBINATIONS,Airduo Digihaler,AIRDUO DIGIHALER
+ANTIASTHMATIC - ADRENERGIC COMBINATIONS,Airduo Respiclick,AIRDUO RESPICLICK
+ANTIASTHMATIC - ADRENERGIC COMBINATIONS,Airsupra HFA,AIRSUPRA
+MIGRAINE -  PREVENTATIVE TREATMENT,Ajovy,AJOVY
+CANCER,Akeega,AKEEGA
 PSORIASIS BIOLOGICALS,Amjevita Ankylosing Spondylitis,AMJEVITA
 PSORIASIS BIOLOGICALS,Amjevita Crohn’s Disease (adult),AMJEVITA
 PSORIASIS BIOLOGICALS,Amjevita Crohn’s Disease (pediatric),AMJEVITA
@@ -77,4 +100,95 @@ PSORIASIS BIOLOGICALS,Enbrel Psoriatic Arthritis (pediatric),ENBREL
 PSORIASIS BIOLOGICALS,Enbrel Rheumatoid Arthritis,ENBREL
 MONOCLONAL ANTIBODY,Enspryng Neuromyelitis Optica Spectrum Disorder (NMOSD),ENSPRYNG
 TOPICAL- ATOPIC DERMATITIS,Eucrisa,EUCRISA
-ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,"Fasenra auto-injector, Asthma (adult)",FASENRA2 AUTO INJCT
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,"Fasenra auto-injector, Asthma (adult)",FASENRA AUTO INJCT
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,"Fasenra auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",FASENRA AUTO INJCT
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,"Fasenra prefilled syringe, Asthma (adult)",FASENRA
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,"Fasenra prefilled syringe, Asthma (pediatric)",FASENRA
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,"Fasenra prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",FASENRA
+PSORIASIS BIOLOGICALS,Hadlima Ankylosing Spondylitis,HADLIMA
+PSORIASIS BIOLOGICALS,Hadlima Crohn’s Disease (adult),HADLIMA
+PSORIASIS BIOLOGICALS,Hadlima Crohn’s Disease (pediatric),HADLIMA
+PSORIASIS BIOLOGICALS,Hadlima Hidradenitis Suppurativa,HADLIMA
+PSORIASIS BIOLOGICALS,Hadlima Plaque Psoriasis (adult),HADLIMA
+PSORIASIS BIOLOGICALS,Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA),HADLIMA
+PSORIASIS BIOLOGICALS,Hadlima Psoriatic Arthritis (adult),HADLIMA
+PSORIASIS BIOLOGICALS,Hadlima Rheumatoid Arthritis,HADLIMA
+PSORIASIS BIOLOGICALS,Hadlima Ulcerative Colitis (adult),HADLIMA
+PSORIASIS BIOLOGICALS,Hadlima Uveitis (adult),HADLIMA
+PSORIASIS BIOLOGICALS,Hulio Ankylosing Spondylitis,HULIO
+PSORIASIS BIOLOGICALS,Hulio Crohn’s Disease (adult),HULIO
+PSORIASIS BIOLOGICALS,Hulio Crohn’s Disease (pediatric),HULIO
+PSORIASIS BIOLOGICALS,Hulio Hidradenitis Suppurativa,HULIO
+PSORIASIS BIOLOGICALS,Hulio Plaque Psoriasis (adult),HULIO
+PSORIASIS BIOLOGICALS,Hulio Polyarticular Juvenile Idiopathic Arthritis (PJIA),HULIO
+PSORIASIS BIOLOGICALS,Hulio Psoriatic Arthritis (adult),HULIO
+PSORIASIS BIOLOGICALS,Hulio Rheumatoid Arthritis,HULIO
+PSORIASIS BIOLOGICALS,Hulio Ulcerative Colitis (adult),HULIO
+PSORIASIS BIOLOGICALS,Hulio Uveitis (adult),HULIO
+PSORIASIS BIOLOGICALS,Humira Ankylosing Spondylitis,HUMIRA
+PSORIASIS BIOLOGICALS,Humira Crohn's Disease (adult),HUMIRA
+PSORIASIS BIOLOGICALS,Humira Crohn's Disease (pediatric),HUMIRA
+PSORIASIS BIOLOGICALS,Humira Hidradenitis Suppurativa,HUMIRA
+PSORIASIS BIOLOGICALS,Humira Plaque Psoriasis (adult),HUMIRA
+PSORIASIS BIOLOGICALS,Humira Polyarticular Juvenile Idiopathic Arthritis (PJIA),HUMIRA
+PSORIASIS BIOLOGICALS,Humira Psoriatic Arthritis (adult),HUMIRA
+PSORIASIS BIOLOGICALS,Humira Rheumatoid Arthritis,HUMIRA
+PSORIASIS BIOLOGICALS,Humira Ulcerative Colitis (adult),HUMIRA
+PSORIASIS BIOLOGICALS,Humira Ulcerative Colitis (pediatric),HUMIRA
+PSORIASIS BIOLOGICALS,Humira Uveitis (adult),HUMIRA
+PSORIASIS BIOLOGICALS,Humira Uveitis (pediatric),HUMIRA
+PSORIASIS BIOLOGICALS,Hyrimoz Ankylosing Spondylitis,HYRIMOZ
+PSORIASIS BIOLOGICALS,Hyrimoz Crohn’s Disease (adult),HYRIMOZ
+PSORIASIS BIOLOGICALS,Hyrimoz Crohn’s Disease (pediatric),HYRIMOZ
+PSORIASIS BIOLOGICALS,Hyrimoz Hidradenitis Suppurativa,HYRIMOZ
+PSORIASIS BIOLOGICALS,Hyrimoz Plaque Psoriasis (adult),HYRIMOZ
+PSORIASIS BIOLOGICALS,Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA),HYRIMOZ
+PSORIASIS BIOLOGICALS,Hyrimoz Psoriatic Arthritis (adult),HYRIMOZ
+PSORIASIS BIOLOGICALS,Hyrimoz Rheumatoid Arthritis,HYRIMOZ
+PSORIASIS BIOLOGICALS,Hyrimoz Ulcerative Colitis (adult),HYRIMOZ
+PSORIASIS BIOLOGICALS,Hyrimoz Uveitis (adult),HYRIMOZ
+PSORIASIS BIOLOGICALS,Idacio Ankylosing Spondylitis,IDACIO
+PSORIASIS BIOLOGICALS,Idacio Crohn’s Disease (adult),IDACIO
+PSORIASIS BIOLOGICALS,Idacio Crohn’s Disease (pediatric),IDACIO
+PSORIASIS BIOLOGICALS,Idacio Hidradenitis Suppurativa,IDACIO
+PSORIASIS BIOLOGICALS,Idacio Plaque Psoriasis (adult),IDACIO
+PSORIASIS BIOLOGICALS,Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA),IDACIO
+PSORIASIS BIOLOGICALS,Idacio Psoriatic Arthritis (adult),IDACIO
+PSORIASIS BIOLOGICALS,Idacio Rheumatoid Arthritis,IDACIO
+PSORIASIS BIOLOGICALS,Idacio Ulcerative Colitis (adult),IDACIO
+PSORIASIS BIOLOGICALS,Idacio Uveitis (adult),IDACIO
+RHEUMATOID ARTHRITIS,Inflectra,INFLECTRA
+RHEUMATOID ARTHRITIS,Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),KEVZARA
+RHEUMATOID ARTHRITIS,Kevzara Rheumatoid Arthritis,KEVZARA
+RHEUMATOID ARTHRITIS,Kineret,KINERET SOLN
+ALOPECIA AREATA AGENTS,Litfulo Alopecia Areata,LITFULO
+LUPUS-SLE  ,Lupkynis,LUPKYNIS
+TOPICAL- ATOPIC DERMATITIS,"Nemluvio auto-injector, Atopic Dermatitis (adult)",NEMLUVIO
+TOPICAL- ATOPIC DERMATITIS,"Nemluvio auto-injector, Atopic Dermatitis (pediatric)",NEMLUVIO
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Nucala Asthma (pediatric),NUCALA
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Nucala Chronic Rhinosinusitis with Nasal Polyposis,NUCALA
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),NUCALA
+ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Nucala Hypereosinophilic Syndrome (HES),NUCALA
+ALOPECIA AREATA AGENTS,Olumiant Alopecia Areata,OLUMIANT
+ALOPECIA AREATA AGENTS,Olumiant Rheumatoid Arthritis,OLUMIANT
+RHEUMATOID ARTHRITIS,"Orencia ClickJect, Rheumatoid Arthritis",ORENCIA
+RHEUMATOID ARTHRITIS,"Orencia prefilled syringe, Rheumatoid Arthritis",ORENCIA
+RHEUMATOID ARTHRITIS,"Orencia vial, Rheumatoid Arthritis",ORENCIA
+PSORIASIS BIOLOGICALS,Otezla Behcet’s Disease,OTEZLA
+PSORIASIS BIOLOGICALS,Otezla Plaque Psoriasis (adult),OTEZLA
+PSORIASIS BIOLOGICALS,Otezla Plaque Psoriasis (pediatric),OTEZLA
+PSORIASIS BIOLOGICALS,Otezla Psoriatic Arthritis (adult),OTEZLA
+RHEUMATOID ARTHRITIS,Remicade,REMICADE
+RHEUMATOID ARTHRITIS,Renflexis,RENFLEXIS
+RHEUMATOID ARTHRITIS,Rinvoq Rheumatoid Arthritis,RINVOQ
+PSORIASIS BIOLOGICALS,Siliq,SILIQ
+PSORIASIS BIOLOGICALS,Simlandi Ankylosing Spondylitis,SIMLANDI
+PSORIASIS BIOLOGICALS,Simlandi Crohn’s Disease (adult),SIMLANDI
+PSORIASIS BIOLOGICALS,Simlandi Crohn’s Disease (pediatric),SIMLANDI
+PSORIASIS BIOLOGICALS,Simlandi Hidradenitis Suppurativa,SIMLANDI
+PSORIASIS BIOLOGICALS,Simlandi Plaque Psoriasis (adult),SIMLANDI
+PSORIASIS BIOLOGICALS,Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA),SIMLANDI
+PSORIASIS BIOLOGICALS,Simlandi Psoriatic Arthritis (adult),SIMLANDI
+PSORIASIS BIOLOGICALS,Simlandi Rheumatoid Arthritis,SIMLANDI
+PSORIASIS BIOLOGICALS,Simlandi Ulcerative Colitis (adult),SIMLANDI
+PSORIASIS BIOLOGICALS,Simlandi Uveitis (adult),SIMLANDI
