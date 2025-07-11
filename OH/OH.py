@@ -17,6 +17,63 @@ def get_cell_text_without_superscripts(cell):
         lines.append("".join(parts))
     return "\n".join(lines).strip()
 
+
+def get_cell_lines_with_format(cell):
+    """Return list of dictionaries with text and font sizes for each paragraph,
+    ignoring superscripted runs."""
+    lines = []
+    for paragraph in cell.paragraphs:
+        texts = []
+        fonts = []
+        sizes = []
+        for run in paragraph.runs:
+            if run.element.xpath('.//w:vertAlign'):
+                # Skip superscripted text
+                continue
+            texts.append(run.text)
+            fonts.append(run.font.name)
+            sizes.append(run.font.size.pt if run.font.size else None)
+        text = "".join(texts).strip()
+        if text:
+            lines.append({
+                "text": text,
+                "fonts": fonts,
+                "sizes": sizes
+            })
+    return lines
+
+
+def is_strict_calibri_size(line, size_pt):
+    """Check if all runs in the line are Calibri with the given size."""
+    fonts = [f for f in line["fonts"] if f]
+    sizes = [s for s in line["sizes"] if s is not None]
+    if not fonts or not sizes:
+        return False
+    return all(f.lower() == "calibri" for f in fonts) and all(abs(s - size_pt) < 0.5 for s in sizes)
+
+
+def line_starts_11_ends_9(line):
+    """Return True if the line begins in 11pt and ends in 9pt."""
+    sizes = [s for s in line["sizes"] if s is not None]
+    if not sizes:
+        return False
+    start = sizes[0]
+    end = sizes[-1]
+    return abs(start - 11) < 0.5 and abs(end - 9) < 0.5
+
+
+def merge_overflow_lines(lines):
+    """Merge lines where a 9pt line continues text from a previous line."""
+    merged = []
+    for line in lines:
+        if merged and is_strict_calibri_size(line, 9) and line_starts_11_ends_9(merged[-1]):
+            merged[-1]["text"] += f" {line['text']}"
+            merged[-1]["fonts"].extend(line["fonts"])
+            merged[-1]["sizes"].extend(line["sizes"])
+        else:
+            merged.append(line)
+    return merged
+
 doc_path = 'OH.docx' 
 doc = docx.Document(doc_path)
 
@@ -58,10 +115,10 @@ for table_idx, table in enumerate(doc.tables):
             fill = shd[0].get(qn('w:fill')) if shd else None
             if fill == subclass_color and value:
                 Subclass = value
-            elif fill != class_color and fill != subclass_color and value and idx != len(row.cells) - 1:
-                # Split on \n and append each drug
-                for drug in value.split('\n'):
-                    drug = drug.strip()
+            elif fill != class_color and fill != subclass_color and idx != len(row.cells) - 1:
+                lines = merge_overflow_lines(get_cell_lines_with_format(cell))
+                for line in lines:
+                    drug = line['text'].strip()
                     if drug and Class and Class != 'Example Category' and fill != redrow_color:
                         status = "Preferred" if idx == 0 else "Non-Preferred"
                         table_data.append([Class, Subclass, drug, status])
