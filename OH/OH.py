@@ -69,5 +69,5 @@ for table_idx, table in enumerate(doc.tables):
 df = pd.DataFrame(table_data, columns=['therapeutic_class', 'Subclass', 'pdl_name', 'status'])
 df['therapeutic_class'] = df['therapeutic_class'].fillna('') + ': ' + df['Subclass'].fillna('')
 df = df.drop(['Subclass'], axis=1)
-
+df = df.drop_duplicates().reset_index(drop=True)
 df.to_csv('OH_PDL.csv', index=False)

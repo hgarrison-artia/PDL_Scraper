@@ -1,4 +1,7 @@
 therapeutic_class,capsule_name,pdl_name
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,Abilify Asimtufii,"ABILIFY ASIMTUFII, MAINTENA"
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,Abilify Maintena,"ABILIFY ASIMTUFII, MAINTENA"
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,Abilify MyCite,ABILIFY MYCITE
 Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Abrilada Ankylosing Spondylitis,ABRILADA (Bio of HUMIRA)
 Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Abrilada Crohn's Disease (pediatric),ABRILADA (Bio of HUMIRA)
 Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Abrilada Crohn’s Disease (adult),ABRILADA (Bio of HUMIRA)
@@ -9,6 +12,7 @@ Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Abrilada P
 Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Abrilada Rheumatoid Arthritis,ABRILADA (Bio of HUMIRA)
 Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Abrilada Ulcerative Colitis (adult),ABRILADA (Bio of HUMIRA)
 Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Abrilada Uveitis (adult),ABRILADA (Bio of HUMIRA)
+Dermatologic Agents: Oral Acne Products: ,Absorica LD capsule,ABSORICA LD
 Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Actemra ACTPen, Giant Cell Arteritis",ACTEMRA
 Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Actemra ACTPen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA
 Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Actemra ACTPen, Rheumatoid Arthritis",ACTEMRA
@@ -25,16 +29,16 @@ Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"
 Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA
 Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Actemra vial, Rheumatoid Arthritis",ACTEMRA
 Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Ankylosing Spondylitis,adalimumab-adaz PA (gen of HYRIMOZ)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Crohn’s Disease (adult),adalimumab-adaz PA (gen of HYRIMOZ)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Crohn’s Disease (pediatric),adalimumab-adaz PA (gen of HYRIMOZ)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Hidradenitis Suppurativa,adalimumab-adaz PA (gen of HYRIMOZ)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Plaque Psoriasis (adult),adalimumab-adaz PA (gen of HYRIMOZ)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA),adalimumab-adaz PA (gen of HYRIMOZ)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Psoriatic Arthritis (adult),adalimumab-adaz PA (gen of HYRIMOZ)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Rheumatoid Arthritis,adalimumab-adaz PA (gen of HYRIMOZ)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Ulcerative Colitis (adult),adalimumab-adaz PA (gen of HYRIMOZ)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Uveitis (adult),adalimumab-adaz PA (gen of HYRIMOZ)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Ankylosing Spondylitis,adalimumab-adaz  (gen of HYRIMOZ)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Crohn’s Disease (adult),adalimumab-adaz  (gen of HYRIMOZ)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Crohn’s Disease (pediatric),adalimumab-adaz  (gen of HYRIMOZ)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Hidradenitis Suppurativa,adalimumab-adaz  (gen of HYRIMOZ)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Plaque Psoriasis (adult),adalimumab-adaz  (gen of HYRIMOZ)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Polyarticular Juvenile Idiopathic Arthritis (PJIA),adalimumab-adaz  (gen of HYRIMOZ)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Psoriatic Arthritis (adult),adalimumab-adaz  (gen of HYRIMOZ)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Rheumatoid Arthritis,adalimumab-adaz  (gen of HYRIMOZ)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Ulcerative Colitis (adult),adalimumab-adaz  (gen of HYRIMOZ)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adaz Uveitis (adult),adalimumab-adaz  (gen of HYRIMOZ)
 Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adbm Ankylosing Spondylitis,adalimumab-adbm (gen of CYLTEZO)
 Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adbm Crohn’s Disease (adult),adalimumab-adbm (gen of CYLTEZO)
 Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adbm Crohn’s Disease (pediatric),adalimumab-adbm (gen of CYLTEZO)
@@ -45,15 +49,366 @@ Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab
 Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adbm Rheumatoid Arthritis,adalimumab-adbm (gen of CYLTEZO)
 Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adbm Ulcerative Colitis (adult),adalimumab-adbm (gen of CYLTEZO)
 Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-adbm Uveitis (adult),adalimumab-adbm (gen of CYLTEZO)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Ankylosing Spondylitis,adalimumab-fkjp PA (gen of HULIO)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Crohn’s Disease (adult),adalimumab-fkjp PA (gen of HULIO)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Crohn’s Disease (pediatric),adalimumab-fkjp PA (gen of HULIO)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Hidradenitis Suppurativa,adalimumab-fkjp PA (gen of HULIO)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Plaque Psoriasis (adult),adalimumab-fkjp PA (gen of HULIO)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Polyarticular Juvenile Idiopathic Arthritis (PJIA),adalimumab-fkjp PA (gen of HULIO)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Psoriatic Arthritis (adult),adalimumab-fkjp PA (gen of HULIO)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Rheumatoid Arthritis,adalimumab-fkjp PA (gen of HULIO)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Ulcerative Colitis (adult),adalimumab-fkjp PA (gen of HULIO)
-Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Uveitis (adult),adalimumab-fkjp PA (gen of HULIO)
-Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Adbry Atopic Dermatitis (adult),ADBRY PA
-Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Adbry Atopic Dermatitis (pediatric),ADBRY PA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Ankylosing Spondylitis,adalimumab-fkjp  (gen of HULIO)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Crohn’s Disease (adult),adalimumab-fkjp  (gen of HULIO)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Crohn’s Disease (pediatric),adalimumab-fkjp  (gen of HULIO)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Hidradenitis Suppurativa,adalimumab-fkjp  (gen of HULIO)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Plaque Psoriasis (adult),adalimumab-fkjp  (gen of HULIO)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Polyarticular Juvenile Idiopathic Arthritis (PJIA),adalimumab-fkjp  (gen of HULIO)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Psoriatic Arthritis (adult),adalimumab-fkjp  (gen of HULIO)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Rheumatoid Arthritis,adalimumab-fkjp  (gen of HULIO)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Ulcerative Colitis (adult),adalimumab-fkjp  (gen of HULIO)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Adalimumab-fkjp Uveitis (adult),adalimumab-fkjp  (gen of HULIO)
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Adbry Atopic Dermatitis (adult),ADBRY
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Adbry Atopic Dermatitis (pediatric),ADBRY
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: OTHER,Adempas,ADEMPAS
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,Admelog,ADMELOG
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,Admelog SoloStar,ADMELOG
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,Advair Diskus,ADVAIR DISKUS
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,Advair HFA,ADVAIR HFA
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",Advate,ADVATE
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",Adynovate,ADYNOVATE
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",Afstyla,AFSTYLA
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",Aimovig,AIMOVIG
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,Airduo Digihaler,AIRDUO DIGIHALER
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,Airsupra HFA,AIRSUPRA
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",Ajovy,AJOVY
+Respiratory Agents: Inhaled Agents: ADRENERGIC BRONCHODILATORS,Albuterol HFA generic PROAIR,albuterol HFA
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Acute: TRIPTANS/COMBINATIONS",Almotriptan,almotriptan
+Ophthalmic Agents: Glaucoma Agents: ALPHA-2 AGONISTS,Alphagan P 0.001,ALPHAGAN P 0.1%
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",Alprolix,ALPROLIX
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",Altuviiio,ALTUVIIIO
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: ENDOTHELIN RECEPTOR ANTAGONISTS,Ambrisentan,ambrisentan
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Ankylosing Spondylitis, 100 mg/mL",AMJEVITA  10/0.1ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Ankylosing Spondylitis, 50 mg/mL",AMJEVITA 10/0.2ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Crohn’s Disease (adult), 100 mg/mL",AMJEVITA  10/0.1ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Crohn’s Disease (adult), 50 mg/mL",AMJEVITA 10/0.2ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Crohn’s Disease (pediatric), 100 mg/mL",AMJEVITA  10/0.1ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Crohn’s Disease (pediatric), 50 mg/mL",AMJEVITA 10/0.2ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Hidradenitis Suppurativa, 100 mg/mL",AMJEVITA  10/0.1ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Hidradenitis Suppurativa, 50 mg/mL",AMJEVITA 10/0.2ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Plaque Psoriasis (adult), 100 mg/mL",AMJEVITA  10/0.1ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Plaque Psoriasis (adult), 50 mg/mL",AMJEVITA 10/0.2ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 100 mg/mL",AMJEVITA  10/0.1ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 50 mg/mL",AMJEVITA 10/0.2ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Psoriatic Arthritis (adult), 100 mg/mL",AMJEVITA  10/0.1ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Psoriatic Arthritis (adult), 50 mg/mL",AMJEVITA 10/0.2ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Rheumatoid Arthritis, 100 mg/mL",AMJEVITA  10/0.1ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Rheumatoid Arthritis, 50 mg/mL",AMJEVITA 10/0.2ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Ulcerative Colitis (adult), 100 mg/mL",AMJEVITA  10/0.1ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Ulcerative Colitis (adult), 50 mg/mL",AMJEVITA 10/0.2ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Uveitis (adult), 100 mg/mL",AMJEVITA  10/0.1ml (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Amjevita Uveitis (adult), 50 mg/mL",AMJEVITA 10/0.2ml (Bio of HUMIRA)
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,Anoro Ellipta,ANORO ELLIPTA
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,Apidra,APIDRA
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,Apidra SoloStar,APIDRA
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: NDRIs,Aplenzin,APLENZIN
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,Aptiom,APTIOM
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: PROTEASE INHIBITORS,Aptivus,APTIVUS
+"Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents: ",Aranesp,ARANESP
+Infectious Disease Agents: Antibiotics – Inhaled: ,Arikayce,ARIKAYCE
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,Aripiprazole ODT,"aripiprazole ODT, soln"
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,Aripiprazole oral solution,"aripiprazole ODT, soln"
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,Aripiprazole tablet,aripiprazole
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,Aristada,ARISTADA
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,Aristada Initio,ARISTADA INITIO
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,Asenapine,asenapine
+"Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet: ",Aspirin / Dipyridamole,aspirin/dipyridamole ER
+Genitourinary Agents: Electrolyte Depleter Agents: IRON BASED,Auryxia,AURYXIA
+Central Nervous System (CNS) Agents: Movement Disorders: ,Austedo,"AUSTEDO IR, XR"
+Central Nervous System (CNS) Agents: Movement Disorders: ,Austedo XR,"AUSTEDO IR, XR"
+Central Nervous System (CNS) Agents: Movement Disorders: ,Austedo XR titration pack,"AUSTEDO IR, XR"
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,Auvelity,AUVELITY
+Respiratory Agents: Epinephrine Auto-Injectors: ,Auvi-Q 0.1 mg,AUVI-Q
+Respiratory Agents: Epinephrine Auto-Injectors: ,Auvi-Q 0.15 mg,AUVI-Q
+Respiratory Agents: Epinephrine Auto-Injectors: ,Auvi-Q 0.3 mg,AUVI-Q
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,Avonex auto-injector,AVONEX
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,Avonex prefilled syringe,AVONEX
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,Azstarys,AZSTARYS
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",Baclofen oral solution,baclofen soln
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",Baclofen oral suspension,"baclofen susp , tab"
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",Baclofen tablet,"baclofen susp , tab"
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,Bafiertam,BAFIERTAM
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,Banzel tablet,BANZEL TAB
+Endocrine Agents: Diabetes – Insulin: LONG-ACTING,Basaglar Kwikpen,BASAGLAR
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",Benazepril,benazepril
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia B* LEGACY CATEGORY: ",Benefix,BENEFIX
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,Bevespi Aerosphere,BEVESPI AEROSPHERE
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Bimzelx Ankylosing Spondylitis,BIMZELX
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Bimzelx Non-Radiographic Axial Spondyloarthritis,BIMZELX
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Bimzelx Plaque Psoriasis (adult),BIMZELX
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Bimzelx Psoriatic Arthritis (adult),BIMZELX
+Cardiovascular Agents: Pulmonary Arterial Hypertension* LEGACY CATEGORY: ENDOTHELIN RECEPTOR ANTAGONISTS,Bosentan,bosentan
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,Breo Ellipta,BREO ELLIPTA
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,Breyna,BREYNA
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,Breztri Aerosphere,BREZTRI AEROSPHERE
+"Blood Formation, Coagulation, and Thrombosis Agents: Oral Antiplatelet: ",Brilinta,BRILINTA
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,Briviact oral solution,"BRIVIACT SOLN , TAB"
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,Briviact tablet,"BRIVIACT SOLN , TAB"
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,Budesonide / Formoterol authorized generic Symbicort,budesonide/formoterol
+Endocrine Agents: Diabetes – Non-Insulin: GLP-1 RECEPTOR AGONISTS/COMBINATIONS,Bydureon Bcise,BYDUREON BCISE
+Endocrine Agents: Diabetes – Non-Insulin: GLP-1 RECEPTOR AGONISTS/COMBINATIONS,Byetta,BYETTA
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",Candesartan,candesartan
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: OTHER,Caplyta,CAPLYTA
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",Captopril,captopril
+Infectious Disease Agents: Antibiotics – Inhaled: ,Cayston,CAYSTON
+Ophthalmic Agents: Dry Eye Treatments: ,Cequa,CEQUA
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Cibinqo Atopic Dermatitis (adult),CIBINQO
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Cimzia Ankylosing Spondylitis,CIMZIA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Cimzia Crohn’s Disease (adult),CIMZIA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Cimzia Non-Radiographic Axial Spondyloarthritis,CIMZIA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Cimzia Plaque Psoriasis (adult),CIMZIA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Cimzia Psoriatic Arthritis (adult),CIMZIA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Cimzia Rheumatoid Arthritis,CIMZIA
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Cinqair Asthma (adult),CINQAIR
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,Clobazam oral suspension,clobazam
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,Clobazam tablet,clobazam
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,Clozapine ODT,clozapine ODT
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,Clozapine tablet,clozapine
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,Cobenfy capsule,COBENFY
+Ophthalmic Agents: Glaucoma Agents: OTHER,Combigan,COMBIGAN
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,Combivent Respimat inhalation aerosol solution,COMBIVENT RESPIMAT
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,Concerta ER,CONCERTA
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,Copaxone 20 mg,COPAXONE
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,Copaxone 40 mg,COPAXONE
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Cosentyx Ankylosing Spondylitis,COSENTYX
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Cosentyx Enthesitis-Related Arthritis (pediatric),COSENTYX
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Cosentyx Hidradenitis Suppurativa,COSENTYX
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Cosentyx Non-Radiographic Axial Spondyloarthritis,COSENTYX
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Cosentyx Plaque Psoriasis (adult),COSENTYX
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Cosentyx Plaque Psoriasis (pediatric),COSENTYX
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Cosentyx Psoriatic Arthritis (adult),COSENTYX
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Cosentyx Psoriatic Arthritis (pediatric),COSENTYX
+Gastrointestinal Agents: Pancreatic Enzymes: ,Creon,CREON
+Ophthalmic Agents: Dry Eye Treatments: ,Cyclosporine ophthalmic emulsion,cyclosporine
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,Dapagliflozin,dapagliflozin
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,Diacomit capsule,DIACOMIT
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,Diacomit packet for oral suspension,DIACOMIT
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,Dimethyl Fumarate,dimethyl fumarate
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,Donepezil ODT,donepezil
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,"Donepezil tablet, 10 mg",donepezil
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,"Donepezil tablet, 23 mg",donepezil
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,"Donepezil tablet, 5 mg",donepezil
+Respiratory Agents: Inhaled Agents: ANTICHOLINERGIC BRONCHODILATORS/COMBINATIONS,Duaklir Pressair,DUAKLIR PRESSAIR
+Endocrine Agents: Estrogenic Agents: ORAL,Duavee tablet,DUAVEE
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,Dulera,DULERA
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SNRIs,"Duloxetine 20 mg, Major Depressive Disorder / Generalized Anxiety Disorder","duloxetine 20, 30, 60mg"
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SNRIs,"Duloxetine 30 mg, Major Depressive Disorder / Generalized Anxiety Disorder","duloxetine 20, 30, 60mg"
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SNRIs,"Duloxetine 40 mg, Major Depressive Disorder / Generalized Anxiety Disorder",duloxetine 40mg
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SNRIs,"Duloxetine 60 mg, Major Depressive Disorder / Generalized Anxiety Disorder","duloxetine 20, 30, 60mg"
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SNRIs,Duloxetine Neuropathic Pain,"duloxetine 20, 30, 60mg"
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Dupixent Asthma (adult),DUPIXENT
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Dupixent Asthma (pediatric),DUPIXENT
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Dupixent Atopic Dermatitis (adult),DUPIXENT
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Dupixent Atopic Dermatitis (pediatric),DUPIXENT
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,DUPIXENT
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Dupixent Eosinophilic Esophagitis,DUPIXENT
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Dupixent Prurigo Nodularis,DUPIXENT
+Central Nervous System (CNS) Agents: Attention Deficit Hyperactivity Disorder Agents: STIMULANTS,Dyanavel XR,DYANAVEL XR
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Ebglyss Atopic Dermatitis (adult),EBGLYSS
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Ebglyss Atopic Dermatitis (pediatric),EBGLYSS
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",Edarbi,EDARBI
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ARBs/DIURETICS/COMBINATIONS",Edarbyclor,EDARBYCLOR
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,Edurant,EDURANT
+"Blood Formation, Coagulation, and Thrombosis Agents: Oral Anticoagulants: ",Eliquis,ELIQUIS
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",Eloctate,ELOCTATE
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Cluster Headache: ",Emgality 100 mg,EMGALITY 100mg/ml
+"Central Nervous System (CNS) Agents: Anti-Migraine Agents, Prophylaxis: ",Emgality 120 mg,EMGALITY 120mg/ml
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",Enalapril,"enalapril soln, tab"
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Enbrel Ankylosing Spondylitis,ENBREL
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Enbrel Plaque Psoriasis (adult),ENBREL
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Enbrel Plaque Psoriasis (pediatric),ENBREL
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA),ENBREL
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Enbrel Psoriatic Arthritis (adult),ENBREL
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Enbrel Rheumatoid Arthritis,ENBREL
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS,Entecavir,entecavir
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,Epidiolex,EPIDIOLEX
+Respiratory Agents: Epinephrine Auto-Injectors: ,Epinephrine (Generic Adrenaclick) 0.15mg,epinephrine (labeler 49502)
+Respiratory Agents: Epinephrine Auto-Injectors: ,Epinephrine (Generic Adrenaclick) 0.3mg,epinephrine (labeler 49502)
+Respiratory Agents: Epinephrine Auto-Injectors: ,Epinephrine (Mylan Ag Epipen And Jr) 0.15mg Mylan's EpiPen Jr AG,epinephrine (labeler 49502)
+Respiratory Agents: Epinephrine Auto-Injectors: ,Epinephrine (Mylan Ag Epipen And Jr) 0.3mg Mylan's EpiPen AG,epinephrine (labeler 49502)
+Respiratory Agents: Epinephrine Auto-Injectors: ,Epipen,EPIPEN
+Respiratory Agents: Epinephrine Auto-Injectors: ,Epipen Jr.,EPIPEN JR
+"Blood Formation, Coagulation, and Thrombosis Agents: Hematopoietic Agents: ",Epogen,EPOGEN
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,Eprontia,EPRONTIA
+Gastrointestinal Agents: Proton Pump Inhibitors: ,Esomeprazole,esomeprazole
+Gastrointestinal Agents: Proton Pump Inhibitors: ,Esomeprazole Packet,esomeprazole granules
+"Blood Formation, Coagulation, and Thrombosis Agents: Hemophilia A, von Willebrand Disease, and Factor XIII Deficiency* LEGACY CATEGORY: ",Esperoct,ESPEROCT
+Topical Agents: Immunomodulators: ,Eucrisa,EUCRISA
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: OTHER BONE RESORPTION SUPPRESSION AND RELATED AGENTS,Evenity,EVENITY
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: PROTEASE INHIBITORS,Evotaz,EVOTAZ
+Ophthalmic Agents: Dry Eye Treatments: ,Eysuvis ophthalmic suspension,EYSUVIS
+Central Nervous System (CNS) Agents: Atypical Antipsychotics* LEGACY CATEGORY: ,Fanapt,FANAPT
+Endocrine Agents: Diabetes – Non-Insulin: SGLT2 INHIBITORS/COMBINATIONS,Farxiga,FARXIGA
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Fasenra Asthma (adult),FASENRA
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Fasenra Asthma (pediatric),FASENRA
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Fasenra Eosinophilic Granulomatosis with Polyangitis (EGPA),FASENRA
+Central Nervous System (CNS) Agents: Antidepressants* LEGACY CATEGORY: SNRIs,Fetzima,FETZIMA
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,Fiasp,FIASP
+Endocrine Agents: Diabetes – Insulin: RAPID-ACTING,Fiasp FlexTouch,FIASP
+Central Nervous System (CNS) Agents: Multiple Sclerosis* LEGACY CATEGORY: ,Fingolimod capsule,fingolimod
+Central Nervous System (CNS) Agents: Anticonvulsants* LEGACY CATEGORY: ,Fintepla,FINTEPLA
+Ophthalmic Agents: Ophthalmic Steroids: ,Flarex ophthalmic suspension,FLAREX
+"Central Nervous System (CNS) Agents: Skeletal Muscle Relaxants, Non-Benzodiazepine: ",Fleqsuvy,FLEQSUVY
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,Fluticasone / Salmeterol generic Advair Diskus,fluticasone/salmeterol
+Respiratory Agents: Inhaled Agents: BRONCHODILATOR/GLUCOCORTICOID COMBINATIONS,Fluticasone / Salmeterol generic Advair HFA,fluticasone/salmeterol
+Endocrine Agents: Osteoporosis – Bone Ossification Enhancers: OTHER BONE RESORPTION SUPPRESSION AND RELATED AGENTS,Forteo,FORTEO
+"Cardiovascular Agents: Angina, Hypertension and Heart Failure: ACE INHIBITORS/DIURETICS/COMBINATIONS",Fosinopril,fosinopril
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",Fulphila,FULPHILA
+Infectious Disease Agents: Antivirals – HIV* LEGACY CATEGORY: OTHER SINGLE INGREDIENT PRODUCTS,Fuzeon,FUZEON
+"Blood Formation, Coagulation, and Thrombosis Agents: Colony Stimulating Factors: ",Fylnetra,FYLNETRA
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,Galantamine ER,"galantamine IR tab, ER cap"
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,Galantamine oral solution,galantamine soln
+Central Nervous System (CNS) Agents: Alzheimer’s Agents* LEGACY CATEGORY: ,Galantamine tablet,"galantamine IR tab, ER cap"
+Gastrointestinal Agents: Unspecified GI: ,Gattex vial,GATTEX
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hadlima Ankylosing Spondylitis,HADLIMA (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hadlima Crohn’s Disease (adult),HADLIMA (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hadlima Crohn’s Disease (pediatric),HADLIMA (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hadlima Hidradenitis Suppurativa,HADLIMA (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hadlima Plaque Psoriasis (adult),HADLIMA (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hadlima Polyarticular Juvenile Idiopathic Arthritis (PJIA),HADLIMA (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hadlima Psoriatic Arthritis (adult),HADLIMA (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hadlima Rheumatoid Arthritis,HADLIMA (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hadlima Ulcerative Colitis (adult),HADLIMA (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hadlima Uveitis (adult),HADLIMA (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Humira Ankylosing Spondylitis,HUMIRA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Humira Crohn's Disease (adult),HUMIRA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Humira Crohn's Disease (pediatric),HUMIRA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Humira Hidradenitis Suppurativa,HUMIRA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Humira Plaque Psoriasis (adult),HUMIRA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Humira Polyarticular Juvenile Idiopathic Arthritis (PJIA),HUMIRA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Humira Psoriatic Arthritis (adult),HUMIRA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Humira Rheumatoid Arthritis,HUMIRA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Humira Ulcerative Colitis (adult),HUMIRA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Humira Ulcerative Colitis (pediatric),HUMIRA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Humira Uveitis (adult),HUMIRA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Humira Uveitis (pediatric),HUMIRA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hyrimoz Ankylosing Spondylitis,HYRIMOZ (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hyrimoz Crohn’s Disease (adult),HYRIMOZ (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hyrimoz Crohn’s Disease (pediatric),HYRIMOZ (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hyrimoz Hidradenitis Suppurativa,HYRIMOZ (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hyrimoz Plaque Psoriasis (adult),HYRIMOZ (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hyrimoz Polyarticular Juvenile Idiopathic Arthritis (PJIA),HYRIMOZ (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hyrimoz Psoriatic Arthritis (adult),HYRIMOZ (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hyrimoz Rheumatoid Arthritis,HYRIMOZ (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hyrimoz Ulcerative Colitis (adult),HYRIMOZ (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Hyrimoz Uveitis (adult),HYRIMOZ (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Ilumya Plaque Psoriasis (adult),ILUMYA
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Inflectra Ankylosing Spondylitis,INFLECTRA  (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Inflectra Crohn’s Disease (adult),INFLECTRA  (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Inflectra Crohn’s Disease (pediatric),INFLECTRA  (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Inflectra Plaque Psoriasis (adult),INFLECTRA  (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Inflectra Psoriatic Arthritis (adult),INFLECTRA  (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Inflectra Rheumatoid Arthritis,INFLECTRA  (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Inflectra Ulcerative Colitis (adult),INFLECTRA  (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Inflectra Ulcerative Colitis (pediatric),INFLECTRA  (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),KEVZARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Kevzara Polymyalgia Rheumatica (PMR),KEVZARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Kevzara Rheumatoid Arthritis,KEVZARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Kineret Deficiency of Interleukin-1 Receptor Antagonist (DIRA),KINERET
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Kineret Neonatal-Onset Multisystem Inflammatory Disease (NOMID),KINERET
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Kineret Rheumatoid Arthritis,KINERET
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Litfulo Alopecia Areata,LITFULO
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Nucala Asthma (adult),NUCALA
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Nucala Asthma (pediatric),NUCALA
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Nucala Chronic Rhinosinusitis with Nasal Polyposis,NUCALA
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),NUCALA
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Nucala Hypereosinophilic Syndrome (HES),NUCALA
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Olumiant Alopecia Areata,OLUMIANT
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Olumiant Coronavirus Disease 2019,OLUMIANT
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Olumiant Rheumatoid Arthritis,OLUMIANT
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Renflexis Ankylosing Spondylitis,RENFLEXIS (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Renflexis Crohn’s Disease (adult),RENFLEXIS (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Renflexis Crohn’s Disease (pediatric),RENFLEXIS (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Renflexis Plaque Psoriasis (adult),RENFLEXIS (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Renflexis Psoriatic Arthritis (adult),RENFLEXIS (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Renflexis Rheumatoid Arthritis,RENFLEXIS (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Renflexis Ulcerative Colitis (adult),RENFLEXIS (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Renflexis Ulcerative Colitis (pediatric),RENFLEXIS (Bio of REMICADE)
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Rinvoq Ankylosing Spondylitis,RINVOQ
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Rinvoq Atopic Dermatitis (adult),RINVOQ
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Rinvoq Crohn's Disease (adult),RINVOQ
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Rinvoq Non-Radiographic Axial Spondyloarthritis,RINVOQ
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA),RINVOQ
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Rinvoq Psoriatic Arthritis (adult),RINVOQ
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Rinvoq Psoriatic Arthritis (pediatric),RINVOQ
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Rinvoq Rheumatoid Arthritis,RINVOQ
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Rinvoq Ulcerative Colitis (adult),RINVOQ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Siliq Plaque Psoriasis (adult),SILIQ
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Simlandi Ankylosing Spondylitis,SIMLANDI   (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Simlandi Crohn’s Disease (adult),SIMLANDI   (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Simlandi Crohn’s Disease (pediatric),SIMLANDI   (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Simlandi Hidradenitis Suppurativa,SIMLANDI   (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Simlandi Plaque Psoriasis (adult),SIMLANDI   (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA),SIMLANDI   (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Simlandi Psoriatic Arthritis (adult),SIMLANDI   (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Simlandi Rheumatoid Arthritis,SIMLANDI   (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Simlandi Ulcerative Colitis (adult),SIMLANDI   (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Simlandi Uveitis (adult),SIMLANDI   (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Simponi Ankylosing Spondylitis, Aria",SIMPONI
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Simponi Ankylosing Spondylitis, prefilled syringe",SIMPONI
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",SIMPONI
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Simponi Aria, Psoriatic Arthritis (pediatric)",SIMPONI
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Simponi Psoriatic Arthritis (adult), Aria",SIMPONI
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Simponi Psoriatic Arthritis (adult), prefilled syringe",SIMPONI
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Simponi Rheumatoid Arthritis, Aria",SIMPONI
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Simponi Rheumatoid Arthritis, prefilled syringe",SIMPONI
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,"Simponi Ulcerative Colitis (adult), prefilled syringe",SIMPONI
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Skyrizi Crohn’s Disease (adult), prefilled cartridge",SKYRIZI INJ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Skyrizi Crohn’s Disease (adult), prefilled pen",SKYRIZI INJ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Skyrizi Crohn’s Disease (adult), prefilled syringe",SKYRIZI INJ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Skyrizi Crohn’s Disease (adult), vial",SKYRIZI INJ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Skyrizi Plaque Psoriasis (adult), prefilled pen",SKYRIZI INJ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Skyrizi Plaque Psoriasis (adult), prefilled syringe",SKYRIZI INJ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Skyrizi Psoriatic Arthritis (adult), prefilled pen",SKYRIZI INJ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Skyrizi Psoriatic Arthritis (adult), prefilled syringe",SKYRIZI INJ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Skyrizi Ulcerative Colitis (adult), prefilled cartridge",SKYRIZI INJ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Skyrizi Ulcerative Colitis (adult), prefilled pen",SKYRIZI INJ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Skyrizi Ulcerative Colitis (adult), prefilled syringe",SKYRIZI INJ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Skyrizi Ulcerative Colitis (adult), vial",SKYRIZI INJ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Stelara Crohn’s Disease (adult), intravenous vial",STELARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Stelara Crohn’s Disease (adult), prefilled syringe",STELARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Stelara Crohn’s Disease (adult), subcutaneous vial",STELARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Stelara Plaque Psoriasis (adult), prefilled syringe",STELARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Stelara Plaque Psoriasis (adult), subcutaneous vial",STELARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Stelara Plaque Psoriasis (pediatric), prefilled syringe",STELARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial",STELARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Stelara Psoriatic Arthritis (adult), prefilled syringe",STELARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Stelara Psoriatic Arthritis (adult), subcutaneous vial",STELARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Stelara Psoriatic Arthritis (pediatric), prefilled syringe",STELARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",STELARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Stelara Ulcerative Colitis (adult), intravenous vial",STELARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Stelara Ulcerative Colitis (adult), prefilled syringe",STELARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Stelara Ulcerative Colitis (adult), subcutaneous vial",STELARA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Taltz Ankylosing Spondylitis,TALTZ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Taltz Non-Radiographic Axial Spondyloarthritis,TALTZ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Taltz Plaque Psoriasis (adult),TALTZ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Taltz Plaque Psoriasis (pediatric),TALTZ
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,Taltz Psoriatic Arthritis (adult),TALTZ
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Tezspire Asthma (adult),TEZSPIRE
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Tremfya Plaque Psoriasis (adult), prefilled syringe",TREMFYA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Tremfya Psoriatic Arthritis (adult), prefilled syringe",TREMFYA
+Immunomodulator Agents: Systemic Inflammatory Disease: INTERLEUKIN ANTAGONISTS,"Tremfya prefilled syringe, Ulcerative Colitis (adult)",TREMFYA
+Gastrointestinal Agents: Ulcerative Colitis: ORAL,Velsipity Ulcerative Colitis (adult),VELSIPITY
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Xeljanz Ankylosing Spondylitis,XELJANZ IR
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA),XELJANZ IR
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Xeljanz Psoriatic Arthritis (adult),XELJANZ IR
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Xeljanz Rheumatoid Arthritis,XELJANZ IR
+Immunomodulator Agents: Systemic Inflammatory Disease: JAK INHIBITORS,Xeljanz Ulcerative Colitis (adult),XELJANZ IR
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Xolair Asthma (adult),XOLAIR
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Xolair Asthma (pediatric),XOLAIR
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Xolair Chronic Rhinosinusitis with Nasal Polyposis,XOLAIR
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Xolair Chronic Spontaneous Urticaria (CSU),XOLAIR
+Respiratory Agents: Monoclonal Antibodies-Anti-IL/Anti-IgE: ,Xolair IgE-Mediated Food Allergy,XOLAIR
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Yusimry Ankylosing Spondylitis,YUSIMRY (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Yusimry Crohn’s Disease (adult),YUSIMRY (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Yusimry Crohn’s Disease (pediatric),YUSIMRY (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Yusimry Hidradenitis Suppurativa,YUSIMRY (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Yusimry Plaque Psoriasis (adult),YUSIMRY (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Yusimry Polyarticular Juvenile Idiopathic Arthritis (PJIA),YUSIMRY (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Yusimry Psoriatic Arthritis (adult),YUSIMRY (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Yusimry Rheumatoid Arthritis,YUSIMRY (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Yusimry Ulcerative Colitis (adult),YUSIMRY (Bio of HUMIRA)
+Immunomodulator Agents: Systemic Inflammatory Disease: TNF INHIBITORS,Yusimry Uveitis (adult),YUSIMRY (Bio of HUMIRA)
+Topical Agents: Immunomodulators: ,"Zoryve cream, 0.15%, Atopic Dermatitis","ZORYVE CREAM, FOAM"
+Topical Agents: Immunomodulators: ,"Zoryve cream, 0.3%, Plaque Psoriasis","ZORYVE CREAM, FOAM"
