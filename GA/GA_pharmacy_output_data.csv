@@ -9,12 +9,6 @@ MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Polyarticular Juvenile I
 MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Rheumatoid Arthritis",ACTEMRA,Non-Preferred
 MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",ACTEMRA,Non-Preferred
 MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA,Non-Preferred
-MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Coronavirus Disease 2019",ACTEMRA,Non-Preferred
-MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Cytokine Release Syndrome",ACTEMRA,Non-Preferred
-MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Giant Cell Arteritis",ACTEMRA,Non-Preferred
-MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA,Non-Preferred
-MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Rheumatoid Arthritis",ACTEMRA,Non-Preferred
-MUSCULOSKELETAL MEDICATIONS,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Adbry Atopic Dermatitis (adult),ADBRY,Preferred
 IMMUNOSUPPRESSANT DRUGS,Adbry Atopic Dermatitis (pediatric),ADBRY,Preferred
 IMMUNOSUPPRESSANT DRUGS,Amjevita Ankylosing Spondylitis,AMJEVITA,Non-Preferred
@@ -115,9 +109,6 @@ IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Polyarticular Juvenile Idiop
 IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Psoriatic Arthritis (adult)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Rheumatoid Arthritis","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
-IMMUNOSUPPRESSANT DRUGS,"Orencia vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
-IMMUNOSUPPRESSANT DRUGS,"Orencia vial, Psoriatic Arthritis (adult)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
-IMMUNOSUPPRESSANT DRUGS,"Orencia vial, Rheumatoid Arthritis","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT",Non-Preferred
 MUSCULOSKELETAL MEDICATIONS,Otezla Behcet’s Disease,OTEZLA,Preferred
 MUSCULOSKELETAL MEDICATIONS,Otezla Plaque Psoriasis (adult),OTEZLA,Preferred
 MUSCULOSKELETAL MEDICATIONS,Otezla Psoriatic Arthritis (adult),OTEZLA,Preferred
@@ -156,7 +147,6 @@ IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), prefilled pen","SKY
 IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), prefilled syringe","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), vial","SKYRIZI CARTRIDGE, -PEN, -SYRINGE",Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Sotyktu Plaque Psoriasis (adult),SOTYKTU,Non-Preferred
-IMMUNOSUPPRESSANT DRUGS,"Stelara Crohn’s Disease (adult), intravenous vial",STELARA 90mg/ml,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,"Stelara Crohn’s Disease (adult), prefilled syringe",STELARA 90mg/ml,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,"Stelara Crohn’s Disease (adult), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,"Stelara Plaque Psoriasis (adult), prefilled syringe",STELARA 90mg/ml,Non-Preferred
@@ -167,7 +157,6 @@ IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (adult), prefilled syringe"
 IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (adult), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (pediatric), prefilled syringe",STELARA 90mg/ml,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
-IMMUNOSUPPRESSANT DRUGS,"Stelara Ulcerative Colitis (adult), intravenous vial",STELARA 90mg/ml,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,"Stelara Ulcerative Colitis (adult), prefilled syringe",STELARA 90mg/ml,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,"Stelara Ulcerative Colitis (adult), subcutaneous vial",STELARA 90mg/ml,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Taltz Ankylosing Spondylitis,TALTZ,Preferred
