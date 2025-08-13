@@ -57,5 +57,6 @@ for filename in os.listdir(docx_dir):
 output_df = pd.DataFrame(output_rows, columns=["therapeutic_class", "pdl_name", "status"])
 output_df = output_df.drop_duplicates(subset=["therapeutic_class", "pdl_name", "status"])
 output_df = output_df[output_df['status'].str.strip() != '']
+output_df['pdl_name'] = [name.replace('\n','') for name in output_df['pdl_name']]
 
-output_df.to_csv('PDLs_extracted_table.csv', index=False)
+output_df.to_csv('PR_PDL.csv', index=False)

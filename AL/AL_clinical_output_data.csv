@@ -1,7 +1,6 @@
 therapeutic_class,capsule_name,pdl_name,status
 Cerebral Stimulants/ Agents Used for ADHD (Long-Acting),Adderall XR ER capsule,Adderall XR,Preferred
 Insulins,Admelog,Admelog,Non-Preferred
-Insulins,Admelog SoloStar,Admelog,Non-Preferred
 Respiratory Corticosteroids,Advair Diskus,Advair Diskus,Preferred
 Respiratory Corticosteroids,Advair HFA,Advair HFA,Preferred
 Calcitonin Gene-related Peptide (CGRP) Antagonists,Aimovig,Aimovig,Preferred
@@ -101,7 +100,6 @@ Respiratory Corticosteroids,Fluticasone / Salmeterol generic Advair Diskus,fluti
 Respiratory Corticosteroids,Fluticasone / Salmeterol generic Advair HFA,fluticasone/salmeterol (HFA),Non-Preferred
 Respiratory Corticosteroids,Fluticasone / Vilanterol,fluticasone/vilanterol,Preferred
 ACE Inhibitors,Fosinopril,fosinopril,Preferred
-Alzheimer’s Agents,Galantamine ER,galantamine,Preferred
 Alzheimer’s Agents,Galantamine oral solution,galantamine,Preferred
 Alzheimer’s Agents,Galantamine tablet,galantamine,Preferred
 Growth Hormone Agents,Genotropin,Genotropin,Preferred
