@@ -18,17 +18,9 @@ IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra ACTPen, Polyarticular Juvenile 
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra ACTPen, Rheumatoid Arthritis",Actemra/ACTPen
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",Actemra/ACTPen
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Actemra/ACTPen
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Giant Cell Arteritis",Actemra/ACTPen
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Actemra/ACTPen
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Rheumatoid Arthritis",Actemra/ACTPen
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",Actemra/ACTPen
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Actemra/ACTPen
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Coronavirus Disease 2019",Actemra/ACTPen
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Cytokine Release Syndrome",Actemra/ACTPen
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Giant Cell Arteritis",Actemra/ACTPen
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Actemra/ACTPen
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Rheumatoid Arthritis",Actemra/ACTPen
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Actemra/ACTPen
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Ankylosing Spondylitis,adalimumab-adaz
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Crohn’s Disease (adult),adalimumab-adaz
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,Adalimumab-adaz Crohn’s Disease (pediatric),adalimumab-adaz
@@ -64,7 +56,6 @@ RESPIRATORY - INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Airduo Respicl
 RESPIRATORY - INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Airsupra HFA,Airsupra HFA
 CENTRAL NERVOUS SYSTEM - CALCITONIN GENE-RELATED PEPTIDE INHIBITORS - MIGRAINE AND CLUSTER HEADACHE PREVENTION,Ajovy,Ajovy
 RESPIRATORY - SHORT ACTING BETA ADRENERGICS AND COMBINATIONS - INHALERSNEBS,Albuterol HFA generic PROAIR,"albuterol sulfate HFA (generic for ProAir HFA, Proventil HFA, Ventolin HFA)"
-OPHTHALMICGLAUCOMA - ALPHA 2 ADRENERGIC AGENTS,Alphagan P 0.001,Alphagan P
 RESPIRATORY - INHALED CORTICOSTEROIDS,Alvesco,Alvesco
 BEHAVIORAL HEALTH - SEDATIVE HYPNOTICS,Ambien,Ambien/CR
 BEHAVIORAL HEALTH - SEDATIVE HYPNOTICS,Ambien CR,Ambien/CR
@@ -207,8 +198,6 @@ BEHAVIORAL HEALTH - ALZHEIMERS AGENTS,Donepezil tablet,donepezil/ODT/23 mg (gene
 RESPIRATORY - CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Duaklir Pressair,Duaklir Pressair
 RESPIRATORY - INHALED CORTICOSTEROIDS ADRENERGIC AND COMBINATIONS,Dulera,Dulera
 BEHAVIORAL HEALTH - NOVEL ANTIDEPRESSANTS,Duloxetine,"duloxetine (generic for Cymbalta, Irenka)"
-ATOPIC DERMATITIS TREATMENTS,Dupixent Asthma (adult),Dupixent
-ATOPIC DERMATITIS TREATMENTS,Dupixent Asthma (pediatric),Dupixent
 ATOPIC DERMATITIS TREATMENTS,Dupixent Atopic Dermatitis (adult),Dupixent
 ATOPIC DERMATITIS TREATMENTS,Dupixent Atopic Dermatitis (pediatric),Dupixent
 ATOPIC DERMATITIS TREATMENTS,Dupixent Chronic Obstructive Pulmonary Disease (COPD),Dupixent
@@ -254,8 +243,6 @@ DUCHENNE MUSCULAR DYSTROPHY TREATMENTS,Exondys 51,Exondys 51
 OPHTHALMIC - ANTIINFLAMMATORYIMMUNOMODULATORS,Eysuvis ophthalmic suspension,Eysuvis
 BEHAVIORAL HEALTH - ATYPICAL ANTIPSYCHOTICS AND COMBOS,Fanapt,Fanapt
 ENDOCRINOLOGY - SODIUM GLUCOSE CO-TRANSPORTER 2 INHIBITOR AND COMBINATIONS,Farxiga,Farxiga
-RESPIRATORY - ASTHMA IMMUNOMODULATORS,Fasenra Asthma (adult),Fasenra
-RESPIRATORY - ASTHMA IMMUNOMODULATORS,Fasenra Asthma (pediatric),Fasenra
 RESPIRATORY - ASTHMA IMMUNOMODULATORS,Fasenra Eosinophilic Granulomatosis with Polyangitis (EGPA),Fasenra
 ANTICONVULSANTS - FIRST GENERATION,Felbatol oral suspension,Felbatol
 ANTICONVULSANTS - FIRST GENERATION,Felbatol tablet,Felbatol
@@ -452,8 +439,6 @@ ENDOCRINOLOGY - INSULINS: PREMIXED COMBINATIONS,Novolog 70/30,Novolog Mix 70/30
 ENDOCRINOLOGY - INSULINS: PREMIXED COMBINATIONS,Novolog 70/30 FlexPen,Novolog Mix 70/30 FlexPen
 ENDOCRINOLOGY - INSULINS: RAPID ACTING,Novolog FlexPen,Novolog vial/cartridge/FlexPen
 ENDOCRINOLOGY - INSULINS: RAPID ACTING,Novolog cartridge,Novolog vial/cartridge/FlexPen
-RESPIRATORY - ASTHMA IMMUNOMODULATORS,Nucala Asthma (adult),Nucala
-RESPIRATORY - ASTHMA IMMUNOMODULATORS,Nucala Asthma (pediatric),Nucala
 RESPIRATORY - ASTHMA IMMUNOMODULATORS,Nucala Chronic Rhinosinusitis with Nasal Polyposis,Nucala
 RESPIRATORY - ASTHMA IMMUNOMODULATORS,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),Nucala
 RESPIRATORY - ASTHMA IMMUNOMODULATORS,Nucala Hypereosinophilic Syndrome (HES),Nucala
@@ -471,7 +456,6 @@ BEHAVIORAL HEALTH - ATYPICAL ANTIPSYCHOTICS AND COMBOS,Olanzapine tablet,olanzap
 CARDIOVASCULAR - ANGIOTENSIN II RECEPTOR BLOCKERS AND COMBINATIONS,Olmesartan,olmesartan (generic for Benicar)
 UREA CYCLE DISORDERS ORAL,Olpruva,Olpruva
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,Olumiant Alopecia Areata,Olumiant
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,Olumiant Coronavirus Disease 2019,Olumiant
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,Olumiant Rheumatoid Arthritis,Olumiant
 GASTROINTESTINAL - PROTON PUMP INHIBITORS AND COMBINATIONS,Omeprazole capsule,omeprazole (generic for Prilosec) (RX)
 GASTROINTESTINAL - PROTON PUMP INHIBITORS AND COMBINATIONS,Omeprazole tablet,omeprazole (generic for Prilosec) (RX)
@@ -482,20 +466,14 @@ ENDOCRINOLOGY - DIPEPTIDYL PEPTIDASE-4 DPP4 INHIBITORS AND COMBINATIONS,Onglyza,
 CARDIOVASCULAR - ORAL PULMONARY HYPERTENSION AGENTS,Opsumit,Opsumit
 CARDIOVASCULAR - ORAL PULMONARY HYPERTENSION AGENTS,Opsynvi tablet,Opsynvi
 OPIOID REVERSAL AGENTS,Opvee (Nalmefene),Opvee spray
-ATOPIC DERMATITIS TREATMENTS,"Opzelura cream, Atopic Dermatitis",Opzelura
 ATOPIC DERMATITIS TREATMENTS,"Opzelura cream, Nonsegmental Vitiligo",Opzelura
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Orencia ClickJect, Psoriatic Arthritis (adult)",Orencia
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Orencia ClickJect, Psoriatic Arthritis (pediatric)",Orencia
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Orencia ClickJect, Rheumatoid Arthritis",Orencia
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Orencia prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Orencia prefilled syringe, Psoriatic Arthritis (adult)",Orencia
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)",Orencia
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Orencia prefilled syringe, Rheumatoid Arthritis",Orencia
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Orencia vial, Acute Graft Versus Host Disease (aGVHD)",Orencia
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Orencia vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Orencia vial, Psoriatic Arthritis (adult)",Orencia
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Orencia vial, Rheumatoid Arthritis",Orencia
 CARDIOVASCULAR - ORAL PULMONARY HYPERTENSION AGENTS,Orenitram ER,Orenitram ER
 UTERINE DISORDER TREATMENTS,Oriahnn,Oriahnn
 UTERINE DISORDER TREATMENTS,Orilissa,Orilissa
@@ -604,20 +582,10 @@ IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Simponi Ankylosing Spondylitis, Aria",S
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Simponi Ankylosing Spondylitis, prefilled syringe",Simponi/Aria
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Simponi/Aria
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Simponi Aria, Psoriatic Arthritis (pediatric)",Simponi/Aria
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Simponi Psoriatic Arthritis (adult), Aria",Simponi/Aria
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Simponi Psoriatic Arthritis (adult), prefilled syringe",Simponi/Aria
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Simponi Rheumatoid Arthritis, Aria",Simponi/Aria
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Simponi Rheumatoid Arthritis, prefilled syringe",Simponi/Aria
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Simponi Ulcerative Colitis (adult), prefilled syringe",Simponi/Aria
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Skyrizi Crohn’s Disease (adult), prefilled cartridge",Skyrizi
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Skyrizi Crohn’s Disease (adult), prefilled syringe",Skyrizi
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Skyrizi Crohn’s Disease (adult), vial",Skyrizi
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Skyrizi Plaque Psoriasis (adult), prefilled pen",Skyrizi
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Skyrizi Plaque Psoriasis (adult), prefilled syringe",Skyrizi
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Skyrizi Psoriatic Arthritis (adult), prefilled pen",Skyrizi
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Skyrizi Psoriatic Arthritis (adult), prefilled syringe",Skyrizi
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Skyrizi Ulcerative Colitis (adult), prefilled cartridge",Skyrizi
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Skyrizi Ulcerative Colitis (adult), prefilled syringe",Skyrizi
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Skyrizi Ulcerative Colitis (adult), vial",Skyrizi
 ENDOCRINOLOGY - GROWTH HORMONE,Skytrofa,Skytrofa
 UREA CYCLE DISORDERS ORAL,Sodium Phenylbutyrate powder,sodium phenylbutyrate powder
@@ -641,13 +609,8 @@ IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Stelara Plaque Psoriasis (adult), prefi
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Stelara Plaque Psoriasis (adult), subcutaneous vial",Stelara
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Stelara Plaque Psoriasis (pediatric), prefilled syringe",Stelara
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial",Stelara
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Stelara Psoriatic Arthritis (adult), prefilled syringe",Stelara
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Stelara Psoriatic Arthritis (adult), subcutaneous vial",Stelara
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Stelara Psoriatic Arthritis (pediatric), prefilled syringe",Stelara
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",Stelara
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Stelara Ulcerative Colitis (adult), intravenous vial",Stelara
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Stelara Ulcerative Colitis (adult), prefilled syringe",Stelara
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Stelara Ulcerative Colitis (adult), subcutaneous vial",Stelara
 HEMATOLOGIC - COLONY STIMULATING FACTORS,Stimufend prefilled syringe,Stimufend
 RESPIRATORY - CHRONIC OBSTRUCTIVE PULMONARY DISEASE COPD,Stiolto Respimat,Stiolto Respimat
 BUPRENORPHINE - CONTAINING INJECTABLE,Sublocade,Sublocade
@@ -669,9 +632,7 @@ DISEASE MODIFYING THERAPY,Tecfidera (Dimethyl Fumarate) DR capsule,Tecfidera
 CARDIOVASCULAR - ANGIOTENSIN II RECEPTOR BLOCKERS AND COMBINATIONS,Telmisartan,telmisartan (generic for Micardis)
 DISEASE MODIFYING THERAPY,Teriflunomide,teriflunomide (generic for Aubagio)
 CENTRAL NERVOUS SYSTEM - MOVEMENT DISORDERS,Tetrabenazine,tetrabenazine (generic for Xenazine)
-RESPIRATORY - ASTHMA IMMUNOMODULATORS,Tezspire Asthma (adult),Tezspire
 RESPIRATORY - ASTHMA IMMUNOMODULATORS,Tezspire Asthma (pediatric),Tezspire
-ANTIBIOTICS - INHALED,Tobi,Tobi
 ANTIBIOTICS - INHALED,Tobi Podhaler,Tobi Podhaler
 ANTIBIOTICS - INHALED,Tobramycin,tobramycin (generic for Bethkis)
 ANTICONVULSANTS - SECOND GENERATION,Topamax Sprinkle,Topamax sprinkle
@@ -732,16 +693,10 @@ HEMATOLOGIC - ANTICOAGULANTS,Xarelto oral suspension,Xarelto suspension
 HEMATOLOGIC - ANTICOAGULANTS,Xarelto starter pack,Xarelto dose pack
 ANTICONVULSANTS - SECOND GENERATION,Xcopri,Xcopri
 IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Xeljanz Ankylosing Spondylitis, IR tablet",Xeljanz
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), IR tablet",Xeljanz
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Xeljanz Psoriatic Arthritis (adult), IR tablet",Xeljanz
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Xeljanz Rheumatoid Arthritis, IR tablet",Xeljanz
-IMMUNOLOGIC - SYSTEMIC IMMUNOMODULATORS,"Xeljanz Ulcerative Colitis (adult), IR tablet",Xeljanz
 CENTRAL NERVOUS SYSTEM - MOVEMENT DISORDERS,Xenazine,Xenazine
 ENDOCRINOLOGY - SODIUM GLUCOSE CO-TRANSPORTER 2 INHIBITOR AND COMBINATIONS,Xigduo XR,Xigduo XR
 OPHTHALMIC - ANTIINFLAMMATORYIMMUNOMODULATORS,Xiidra ophthalmic solution,Xiidra
 ANTIVIRALS - TREATMENTPROPHYLAXIS OF INFLUENZA,Xofluza,Xofluza
-RESPIRATORY - ASTHMA IMMUNOMODULATORS,Xolair Asthma (adult),Xolair
-RESPIRATORY - ASTHMA IMMUNOMODULATORS,Xolair Asthma (pediatric),Xolair
 RESPIRATORY - ASTHMA IMMUNOMODULATORS,Xolair Chronic Rhinosinusitis with Nasal Polyposis,Xolair
 RESPIRATORY - ASTHMA IMMUNOMODULATORS,Xolair Chronic Spontaneous Urticaria (CSU),Xolair
 RESPIRATORY - ASTHMA IMMUNOMODULATORS,Xolair IgE-Mediated Food Allergy,Xolair
@@ -779,7 +734,6 @@ BEHAVIORAL HEALTH - ATYPICAL ANTIPSYCHOTICS AND COMBOS,Ziprasidone,ziprasidone/I
 SPINAL MUSCULAR ATROPHY,Zolgensma,Zolgensma
 BEHAVIORAL HEALTH - SEDATIVE HYPNOTICS,Zolpidem,zolpidem capsule
 ANTICONVULSANTS - SECOND GENERATION,Zonisade,Zonisade
-TOPICAL - TOPICAL AGENTS FOR PSORIASIS,"Zoryve cream, 0.3%, Plaque Psoriasis",Zoryve 0.3% cream
 ANTICONVULSANTS - SECOND GENERATION,Ztalmy,Ztalmy
 BEHAVIORAL HEALTH - NOVEL ANTIDEPRESSANTS,Zurzuvae,Zurzuvae
 BEHAVIORAL HEALTH - ATYPICAL ANTIPSYCHOTICS AND COMBOS,Zyprexa,Zyprexa/IM/Relprevv/Zydis

@@ -9,8 +9,6 @@ MUSCULOSKELETAL MEDICATIONS,"Actemra ACTPen, Polyarticular Juvenile Idiopathic A
 MUSCULOSKELETAL MEDICATIONS,"Actemra ACTPen, Rheumatoid Arthritis",ACTEMRA
 MUSCULOSKELETAL MEDICATIONS,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",ACTEMRA
 MUSCULOSKELETAL MEDICATIONS,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA
-MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Giant Cell Arteritis",ACTEMRA
-MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA
 MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Rheumatoid Arthritis",ACTEMRA
 MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",ACTEMRA
 MUSCULOSKELETAL MEDICATIONS,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA
@@ -30,7 +28,6 @@ RESPIRATORY MEDICATIONS,Airsupra HFA,AIRSUPRA
 AUTONOMIC AND CNS MEDICATIONS,Ajovy,AJOVY
 IMMUNOSUPPRESSANT DRUGS,Akeega,AKEEGA
 IMMUNOSUPPRESSANT DRUGS,Alecensa,ALECENSA
-OPHTHALMIC MEDICATIONS,Alphagan P 0.001,ALPHAGAN-P 0.1%
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Alprolix,ALPROLIX
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Altuviiio,ALTUVIIIO
 IMMUNOSUPPRESSANT DRUGS,Alunbrig,ALUNBRIG
@@ -87,8 +84,6 @@ AUTONOMIC AND CNS MEDICATIONS,Avonex auto-injector,AVONEX
 AUTONOMIC AND CNS MEDICATIONS,Avonex prefilled syringe,AVONEX
 AUTONOMIC AND CNS MEDICATIONS,Azstarys,AZSTARYS
 MUSCULOSKELETAL MEDICATIONS,Baclofen oral solution,baclofen solution generic
-MUSCULOSKELETAL MEDICATIONS,"Baclofen tablet, 10 mg","baclofen 10mg, 20mg generic"
-MUSCULOSKELETAL MEDICATIONS,"Baclofen tablet, 20 mg","baclofen 10mg, 20mg generic"
 AUTONOMIC AND CNS MEDICATIONS,Bafiertam,BAFIERTAM
 IMMUNOSUPPRESSANT DRUGS,Balversa,BALVERSA
 AUTONOMIC AND CNS MEDICATIONS,Banzel oral suspension,BANZEL SUSPENSION
@@ -159,7 +154,6 @@ IMMUNOSUPPRESSANT DRUGS,Cosentyx Plaque Psoriasis (adult),"COSENTYX, -UNO"
 IMMUNOSUPPRESSANT DRUGS,Cosentyx Plaque Psoriasis (pediatric),"COSENTYX, -UNO"
 IMMUNOSUPPRESSANT DRUGS,Cosentyx Psoriatic Arthritis (adult),"COSENTYX, -UNO"
 IMMUNOSUPPRESSANT DRUGS,Cosentyx Psoriatic Arthritis (pediatric),"COSENTYX, -UNO"
-ENDOCRINE MEDICATIONS,Crysvita,CRYSVITA
 IMMUNOLOGICALS,Cuvitru,CUVITRU
 IMMUNOSUPPRESSANT DRUGS,Cyclosporine ophthalmic emulsion,cyclosporine generic
 ANTIINFECTIVES,Descovy,DESCOVY
@@ -168,7 +162,6 @@ AUTONOMIC AND CNS MEDICATIONS,Diacomit packet for oral suspension,DIACOMIT
 AUTONOMIC AND CNS MEDICATIONS,Dimethyl Fumarate,dimethyl fumarate generic
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Dojolvi,DOJOLVI
 AUTONOMIC AND CNS MEDICATIONS,Donepezil ODT,"donepezil, -ODT generic"
-AUTONOMIC AND CNS MEDICATIONS,"Donepezil tablet, 23 mg",donepezil 23mg generic
 IMMUNOLOGICALS,Doptelet,DOPTELET
 RESPIRATORY MEDICATIONS,Duaklir Pressair,DUAKLIR
 OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Duavee tablet,DUAVEE
@@ -178,8 +171,6 @@ AUTONOMIC AND CNS MEDICATIONS,Duloxetine 20 mg,"duloxetine 20mg, 30mg, 60mg gene
 AUTONOMIC AND CNS MEDICATIONS,Duloxetine 30 mg,"duloxetine 20mg, 30mg, 60mg generic"
 AUTONOMIC AND CNS MEDICATIONS,Duloxetine 40 mg,duloxetine 40mg generic
 AUTONOMIC AND CNS MEDICATIONS,Duloxetine 60 mg,"duloxetine 20mg, 30mg, 60mg generic"
-IMMUNOSUPPRESSANT DRUGS,Dupixent Asthma (adult),DUPIXENT
-IMMUNOSUPPRESSANT DRUGS,Dupixent Asthma (pediatric),DUPIXENT
 IMMUNOSUPPRESSANT DRUGS,Dupixent Atopic Dermatitis (adult),DUPIXENT
 IMMUNOSUPPRESSANT DRUGS,Dupixent Atopic Dermatitis (pediatric),DUPIXENT
 IMMUNOSUPPRESSANT DRUGS,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,DUPIXENT
@@ -214,9 +205,7 @@ IMMUNOSUPPRESSANT DRUGS,Enspryng Neuromyelitis Optica Spectrum Disorder (NMOSD),
 ANTIINFECTIVES,Entecavir,entecavir generic
 IMMUNOSUPPRESSANT DRUGS,"Entyvio Crohn’s Disease (adult), prefilled syringe",ENTYVIO
 IMMUNOSUPPRESSANT DRUGS,"Entyvio Crohn’s Disease (adult), vial",ENTYVIO
-IMMUNOSUPPRESSANT DRUGS,"Entyvio Ulcerative Colitis (adult), prefilled syringe",ENTYVIO
 IMMUNOSUPPRESSANT DRUGS,"Entyvio Ulcerative Colitis (adult), vial",ENTYVIO
-IMMUNOSUPPRESSANT DRUGS,"Entyvio prefilled pen, Crohn’s Disease (adult)",ENTYVIO
 IMMUNOSUPPRESSANT DRUGS,"Entyvio prefilled pen, Ulcerative Colitis (adult)",ENTYVIO
 IMMUNOSUPPRESSANT DRUGS,Envarsus XR,ENVARSUS XR
 GASTROINTESTINAL MEDICATIONS,Eohilia oral suspension,EOHILIA
@@ -238,8 +227,6 @@ OPHTHALMIC MEDICATIONS,Eysuvis ophthalmic suspension,EYSUVIS
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Fabhalta,FABHALTA
 AUTONOMIC AND CNS MEDICATIONS,Fanapt,FANAPT
 ENDOCRINE MEDICATIONS,Farxiga,FARXIGA
-RESPIRATORY MEDICATIONS,"Fasenra auto-injector, Asthma (adult)",FASENRA PEN
-RESPIRATORY MEDICATIONS,"Fasenra auto-injector, Asthma (pediatric)",FASENRA PEN
 AUTONOMIC AND CNS MEDICATIONS,Felbatol tablet,FELBATOL TABS
 OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Femlyv,FEMLYV
 IMMUNOSUPPRESSANT DRUGS,Fensolvi,FENSOLVI
@@ -413,7 +400,6 @@ AUTONOMIC AND CNS MEDICATIONS,Miplyffa capsule,MIPLYFFA
 CARDIOVASCULAR MEDICATIONS,Moexipril,moexipril generic
 AUTONOMIC AND CNS MEDICATIONS,Motpoly XR,MOTPOLY XR
 ENDOCRINE MEDICATIONS,Mounjaro,MOUNJARO
-GASTROINTESTINAL MEDICATIONS,Moviprep,MOVIPREP
 IMMUNOLOGICALS,Mozobil,MOZOBIL
 IMMUNOLOGICALS,Mulpleta,MULPLETA
 OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Myfembree Endometriosis,MYFEMBREE
@@ -452,8 +438,6 @@ ENDOCRINE MEDICATIONS,Novolog cartridge,NOVOLOG pens and cartridges
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Novoseven RT,NOVOSEVEN RT
 IMMUNOLOGICALS,Nplate,NPLATE
 IMMUNOSUPPRESSANT DRUGS,Nubeqa,NUBEQA
-RESPIRATORY MEDICATIONS,"Nucala auto-injector, Asthma (adult)",NUCALA AUTO-INJECTOR
-RESPIRATORY MEDICATIONS,"Nucala auto-injector, Asthma (pediatric)",NUCALA AUTO-INJECTOR
 RESPIRATORY MEDICATIONS,"Nucala auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",NUCALA AUTO-INJECTOR
 RESPIRATORY MEDICATIONS,"Nucala auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",NUCALA AUTO-INJECTOR
 RESPIRATORY MEDICATIONS,"Nucala auto-injector, Hypereosinophilic Syndrome (HES)",NUCALA AUTO-INJECTOR
@@ -478,7 +462,6 @@ AUTONOMIC AND CNS MEDICATIONS,Olanzapine tablet,"olanzapine, -odt generic"
 CARDIOVASCULAR MEDICATIONS,Olmesartan,olmesartan generic
 ENDOCRINE MEDICATIONS,Olpruva,OLPRUVA PAK
 MUSCULOSKELETAL MEDICATIONS,Olumiant Alopecia Areata,OLUMIANT
-MUSCULOSKELETAL MEDICATIONS,Olumiant Coronavirus Disease 2019,OLUMIANT
 MUSCULOSKELETAL MEDICATIONS,Olumiant Rheumatoid Arthritis,OLUMIANT
 GASTROINTESTINAL MEDICATIONS,Omeclamox-Pak,OMECLAMOX-PAK
 GASTROINTESTINAL MEDICATIONS,Omeprazole capsule,omeprazole generic
@@ -489,14 +472,12 @@ IMMUNOLOGICALS,Omnitrope,OMNITROPE
 IMMUNOSUPPRESSANT DRUGS,Onureg,ONUREG
 CARDIOVASCULAR MEDICATIONS,Opsumit,OPSUMIT
 AUTONOMIC AND CNS MEDICATIONS,Opvee (Nalmefene),OPVEE SPRAY
-DERMATOLOGICAL MEDICATIONS,"Opzelura cream, Atopic Dermatitis",OPZELURA
 DERMATOLOGICAL MEDICATIONS,"Opzelura cream, Nonsegmental Vitiligo",OPZELURA
 RESPIRATORY MEDICATIONS,Oralair,ORALAIR
 IMMUNOSUPPRESSANT DRUGS,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT"
 IMMUNOSUPPRESSANT DRUGS,"Orencia ClickJect, Psoriatic Arthritis (adult)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT"
 IMMUNOSUPPRESSANT DRUGS,"Orencia ClickJect, Psoriatic Arthritis (pediatric)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT"
 IMMUNOSUPPRESSANT DRUGS,"Orencia ClickJect, Rheumatoid Arthritis","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT"
-IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT"
 IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Psoriatic Arthritis (adult)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT"
 IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT"
 IMMUNOSUPPRESSANT DRUGS,"Orencia prefilled syringe, Rheumatoid Arthritis","ORENCIA 50mg/0.4ml, 87.5mg/0.7ml, 125MG/ML, CLICKJECT"
@@ -515,8 +496,6 @@ NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Palynziq prefilled syringe,PALYNZIQ
 GASTROINTESTINAL MEDICATIONS,Pantoprazole DR packet for oral suspension,pantoprazole generic
 GASTROINTESTINAL MEDICATIONS,Pantoprazole tablet,pantoprazole generic
 AUTONOMIC AND CNS MEDICATIONS,"Paroxetine 7.5 mg, IR capsule",paroxetine generic
-ANTIINFECTIVES,"Paxlovid tablet therapy pack, 150 mg / 100 mg",PAXLOVID
-ANTIINFECTIVES,"Paxlovid tablet therapy pack, 300 mg / 100 mg",PAXLOVID
 CARDIOVASCULAR MEDICATIONS,Perindopril,perindopril generic
 AUTONOMIC AND CNS MEDICATIONS,Perseris,PERSERIS
 ENDOCRINE MEDICATIONS,Pheburane,PHEBURANE
@@ -530,8 +509,6 @@ OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Premarin tablet,PREMARIN
 GASTROINTESTINAL MEDICATIONS,Prevacid SoluTab,PREVACID SOLUTAB
 ANTIINFECTIVES,Prezcobix,PREZCOBIX
 ANTIINFECTIVES,Prezista oral suspension,"PREZISTA 75mg, 150mg, suspension"
-ANTIINFECTIVES,"Prezista tablet, 150 mg","PREZISTA 75mg, 150mg, suspension"
-ANTIINFECTIVES,"Prezista tablet, 75 mg","PREZISTA 75mg, 150mg, suspension"
 GASTROINTESTINAL MEDICATIONS,Prilosec DR packet for oral suspension,PRILOSEC POWDER
 IMMUNOLOGICALS,Procrit,PROCRIT
 IMMUNOSUPPRESSANT DRUGS,Prograf packet for oral suspension,PROGRAF GRANULES
@@ -596,8 +573,6 @@ ENDOCRINE MEDICATIONS,Rybelsus,RYBELSUS
 IMMUNOSUPPRESSANT DRUGS,Rydapt,RYDAPT
 AUTONOMIC AND CNS MEDICATIONS,Rykindo,RYKINDO
 AUTONOMIC AND CNS MEDICATIONS,Rystiggo,RYSTIGGO
-AUTONOMIC AND CNS MEDICATIONS,Sabril Infantile spasms,SABRIL
-AUTONOMIC AND CNS MEDICATIONS,Sabril Refractory complex partial seizures,SABRIL
 IMMUNOLOGICALS,Saizen,SAIZEN
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Sapropterin dihydrochloride tablet,sapropterin tabs generic
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Savaysa,SAVAYSA
@@ -608,7 +583,6 @@ NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Select-Ob + Dha,SELECT-OB + DHA
 ANTIINFECTIVES,Selzentry,SELZENTRY
 ENDOCRINE MEDICATIONS,Semglee,SEMGLEE vials and pens
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Sevelamer carbonate tablets,sevelamer carbonate tabs generic
-NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,"Sevelamer hydrochloride tablets, 400mg",sevelamer 400mg generic
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,SevenFACT,SEVENFACT
 CARDIOVASCULAR MEDICATIONS,Sildenafil 20 mg,sildenafil tabs generic
 CARDIOVASCULAR MEDICATIONS,Sildenafil oral suspension,sildenafil suspension generic
@@ -617,26 +591,13 @@ IMMUNOSUPPRESSANT DRUGS,"Simponi Ankylosing Spondylitis, SmartJect",SIMPONI
 IMMUNOSUPPRESSANT DRUGS,"Simponi Ankylosing Spondylitis, prefilled syringe",SIMPONI
 IMMUNOSUPPRESSANT DRUGS,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",SIMPONI
 IMMUNOSUPPRESSANT DRUGS,"Simponi Aria, Psoriatic Arthritis (pediatric)",SIMPONI
-IMMUNOSUPPRESSANT DRUGS,"Simponi Psoriatic Arthritis (adult), Aria",SIMPONI
 IMMUNOSUPPRESSANT DRUGS,"Simponi Psoriatic Arthritis (adult), SmartJect",SIMPONI
-IMMUNOSUPPRESSANT DRUGS,"Simponi Psoriatic Arthritis (adult), prefilled syringe",SIMPONI
-IMMUNOSUPPRESSANT DRUGS,"Simponi Rheumatoid Arthritis, Aria",SIMPONI
 IMMUNOSUPPRESSANT DRUGS,"Simponi Rheumatoid Arthritis, SmartJect",SIMPONI
-IMMUNOSUPPRESSANT DRUGS,"Simponi Rheumatoid Arthritis, prefilled syringe",SIMPONI
-IMMUNOSUPPRESSANT DRUGS,"Simponi Ulcerative Colitis (adult), SmartJect",SIMPONI
-IMMUNOSUPPRESSANT DRUGS,"Simponi Ulcerative Colitis (adult), prefilled syringe",SIMPONI
 AUTONOMIC AND CNS MEDICATIONS,Skyclarys,SKYCLARYS
-IMMUNOSUPPRESSANT DRUGS,"Skyrizi Crohn’s Disease (adult), prefilled cartridge","SKYRIZI CARTRIDGE, -PEN, -SYRINGE"
-IMMUNOSUPPRESSANT DRUGS,"Skyrizi Crohn’s Disease (adult), prefilled pen","SKYRIZI CARTRIDGE, -PEN, -SYRINGE"
 IMMUNOSUPPRESSANT DRUGS,"Skyrizi Crohn’s Disease (adult), prefilled syringe","SKYRIZI CARTRIDGE, -PEN, -SYRINGE"
 IMMUNOSUPPRESSANT DRUGS,"Skyrizi Crohn’s Disease (adult), vial","SKYRIZI CARTRIDGE, -PEN, -SYRINGE"
 IMMUNOSUPPRESSANT DRUGS,"Skyrizi Plaque Psoriasis (adult), prefilled pen","SKYRIZI CARTRIDGE, -PEN, -SYRINGE"
 IMMUNOSUPPRESSANT DRUGS,"Skyrizi Plaque Psoriasis (adult), prefilled syringe","SKYRIZI CARTRIDGE, -PEN, -SYRINGE"
-IMMUNOSUPPRESSANT DRUGS,"Skyrizi Psoriatic Arthritis (adult), prefilled pen","SKYRIZI CARTRIDGE, -PEN, -SYRINGE"
-IMMUNOSUPPRESSANT DRUGS,"Skyrizi Psoriatic Arthritis (adult), prefilled syringe","SKYRIZI CARTRIDGE, -PEN, -SYRINGE"
-IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), prefilled cartridge","SKYRIZI CARTRIDGE, -PEN, -SYRINGE"
-IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), prefilled pen","SKYRIZI CARTRIDGE, -PEN, -SYRINGE"
-IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), prefilled syringe","SKYRIZI CARTRIDGE, -PEN, -SYRINGE"
 IMMUNOSUPPRESSANT DRUGS,"Skyrizi Ulcerative Colitis (adult), vial","SKYRIZI CARTRIDGE, -PEN, -SYRINGE"
 IMMUNOLOGICALS,Skytrofa,SKYTROFA
 OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Slynd,SLYND
@@ -661,12 +622,8 @@ IMMUNOSUPPRESSANT DRUGS,"Stelara Plaque Psoriasis (adult), prefilled syringe",ST
 IMMUNOSUPPRESSANT DRUGS,"Stelara Plaque Psoriasis (adult), subcutaneous vial",STELARA 90mg/ml
 IMMUNOSUPPRESSANT DRUGS,"Stelara Plaque Psoriasis (pediatric), prefilled syringe",STELARA 90mg/ml
 IMMUNOSUPPRESSANT DRUGS,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial",STELARA 90mg/ml
-IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (adult), prefilled syringe",STELARA 90mg/ml
 IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (adult), subcutaneous vial",STELARA 90mg/ml
-IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (pediatric), prefilled syringe",STELARA 90mg/ml
 IMMUNOSUPPRESSANT DRUGS,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",STELARA 90mg/ml
-IMMUNOSUPPRESSANT DRUGS,"Stelara Ulcerative Colitis (adult), prefilled syringe",STELARA 90mg/ml
-IMMUNOSUPPRESSANT DRUGS,"Stelara Ulcerative Colitis (adult), subcutaneous vial",STELARA 90mg/ml
 IMMUNOLOGICALS,Stimufend prefilled syringe,STIMUFEND
 RESPIRATORY MEDICATIONS,Stiolto Respimat,STIOLTO RESPIMAT
 IMMUNOSUPPRESSANT DRUGS,Stivarga,STIVARGA
@@ -705,22 +662,18 @@ IMMUNOSUPPRESSANT DRUGS,Tazverik,TAZVERIK
 CARDIOVASCULAR MEDICATIONS,Telmisartan,telmisartan generic
 AUTONOMIC AND CNS MEDICATIONS,Teriflunomide,teriflunomide generic
 AUTONOMIC AND CNS MEDICATIONS,Tetrabenazine,tetrabenazine generic
-RESPIRATORY MEDICATIONS,Tezspire Asthma (adult),TEZSPIRE PEN
 IMMUNOSUPPRESSANT DRUGS,Tibsovo,TIBSOVO
 ANTIINFECTIVES,Tivicay,TIVICAY
 ANTIINFECTIVES,Tobi Podhaler,TOBI PODHALER
 OPHTHALMIC MEDICATIONS,Tobradex ST ophthalmic suspension,TOBRADEX ST
-ANTIINFECTIVES,"Tobramycin nebulized solution, 300 mg/5 mL",tobramycin nebulizer 300mg/5ml generic
 AUTONOMIC AND CNS MEDICATIONS,Topiramate tablet,topiramate tabs generic
 ENDOCRINE MEDICATIONS,Toujeo Max Solostar,TOUJEO
 ENDOCRINE MEDICATIONS,Toujeo Solostar,TOUJEO
 CARDIOVASCULAR MEDICATIONS,Tracleer,TRACLEER
-CARDIOVASCULAR MEDICATIONS,"Tracleer tablet for oral suspension, 32 mg",TRACLEER 32mg TAB FOR ORAL SUSP
 ENDOCRINE MEDICATIONS,Tradjenta,TRADJENTA
 CARDIOVASCULAR MEDICATIONS,Trandolapril,trandolapril generic
 RESPIRATORY MEDICATIONS,Trelegy Ellipta,TRELEGY ELLIPTA
 IMMUNOSUPPRESSANT DRUGS,"Tremfya Plaque Psoriasis (adult), prefilled syringe",TREMFYA
-IMMUNOSUPPRESSANT DRUGS,"Tremfya Psoriatic Arthritis (adult), prefilled syringe",TREMFYA
 IMMUNOSUPPRESSANT DRUGS,"Tremfya prefilled syringe, Ulcerative Colitis (adult)",TREMFYA
 ENDOCRINE MEDICATIONS,"Tresiba FlexTouch, U-100","TRESIBA FLEX,  -INJ."
 ENDOCRINE MEDICATIONS,"Tresiba FlexTouch, U-200","TRESIBA FLEX,  -INJ."
@@ -770,9 +723,6 @@ NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vijoice tablet therapy pack,VIJOICE
 ENDOCRINE MEDICATIONS,Vimizim vial,VIMIZIM
 ANTIINFECTIVES,Viracept,VIRACEPT
 ANTIINFECTIVES,Viread powder,"VIREAD POWDER, 150mg, 200mg, 250mg TABS"
-ANTIINFECTIVES,"Viread tablet, 150 mg","VIREAD POWDER, 150mg, 200mg, 250mg TABS"
-ANTIINFECTIVES,"Viread tablet, 200 mg","VIREAD POWDER, 150mg, 200mg, 250mg TABS"
-ANTIINFECTIVES,"Viread tablet, 250 mg","VIREAD POWDER, 150mg, 200mg, 250mg TABS"
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol Fe+,VITAFOL FE+
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol Nano,VITAFOL NANO
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol Tab Chew,VITAFOL TAB CHEW
@@ -818,8 +768,6 @@ MUSCULOSKELETAL MEDICATIONS,Xeljanz Ulcerative Colitis (adult),"XELJANZ IR TAB (
 ENDOCRINE MEDICATIONS,Xigduo XR,XIGDUO XR
 OPHTHALMIC MEDICATIONS,Xiidra ophthalmic solution,XIIDRA
 ANTIINFECTIVES,Xofluza,XOFLUZA
-IMMUNOSUPPRESSANT DRUGS,"Xolair auto-injector, Asthma (adult)",XOLAIR auto-injector
-IMMUNOSUPPRESSANT DRUGS,"Xolair auto-injector, Asthma (pediatric)",XOLAIR auto-injector
 IMMUNOSUPPRESSANT DRUGS,"Xolair auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",XOLAIR auto-injector
 IMMUNOSUPPRESSANT DRUGS,"Xolair auto-injector, Chronic Spontaneous Urticaria (CSU)",XOLAIR auto-injector
 IMMUNOSUPPRESSANT DRUGS,"Xolair auto-injector, IgE-Mediated Food Allergy",XOLAIR auto-injector
@@ -851,8 +799,6 @@ AUTONOMIC AND CNS MEDICATIONS,Zolpidem CR,zolpidem er generic
 IMMUNOLOGICALS,Zomacton,ZOMACTON
 AUTONOMIC AND CNS MEDICATIONS,Zonisade,ZONISADE
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Zontivity,ZONTIVITY
-DERMATOLOGICAL MEDICATIONS,"Zoryve cream, 0.15%, Atopic Dermatitis",ZORYVE
-DERMATOLOGICAL MEDICATIONS,"Zoryve cream, 0.3%, Plaque Psoriasis",ZORYVE
 AUTONOMIC AND CNS MEDICATIONS,Ztalmy,ZTALMY
 AUTONOMIC AND CNS MEDICATIONS,Zurzuvae,ZURZUVAE
 IMMUNOSUPPRESSANT DRUGS,Zydelig,ZYDELIG

@@ -18,17 +18,9 @@ PAIN MANAGEMENT,"Actemra ACTPen, Polyarticular Juvenile Idiopathic Arthritis (PJ
 PAIN MANAGEMENT,"Actemra ACTPen, Rheumatoid Arthritis","Tocilizumab Pen, Syringe, Vial (Actemra)"
 PAIN MANAGEMENT,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)","Tocilizumab Pen, Syringe, Vial (Actemra)"
 PAIN MANAGEMENT,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)"
-PAIN MANAGEMENT,"Actemra prefilled syringe, Giant Cell Arteritis","Tocilizumab Pen, Syringe, Vial (Actemra)"
-PAIN MANAGEMENT,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)"
 PAIN MANAGEMENT,"Actemra prefilled syringe, Rheumatoid Arthritis","Tocilizumab Pen, Syringe, Vial (Actemra)"
 PAIN MANAGEMENT,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)","Tocilizumab Pen, Syringe, Vial (Actemra)"
 PAIN MANAGEMENT,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)"
-PAIN MANAGEMENT,"Actemra vial, Coronavirus Disease 2019","Tocilizumab Pen, Syringe, Vial (Actemra)"
-PAIN MANAGEMENT,"Actemra vial, Cytokine Release Syndrome","Tocilizumab Pen, Syringe, Vial (Actemra)"
-PAIN MANAGEMENT,"Actemra vial, Giant Cell Arteritis","Tocilizumab Pen, Syringe, Vial (Actemra)"
-PAIN MANAGEMENT,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)"
-PAIN MANAGEMENT,"Actemra vial, Rheumatoid Arthritis","Tocilizumab Pen, Syringe, Vial (Actemra)"
-PAIN MANAGEMENT,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)","Tocilizumab Pen, Syringe, Vial (Actemra)"
 SICKLE CELL ANEMIA,Adakveo,Crizanlizumab-tmca Infusion (Adakveo)
 PAIN MANAGEMENT,Adalimumab-adaz Ankylosing Spondylitis,"Adalimumab-adaz Kit, Pen Kit"
 PAIN MANAGEMENT,Adalimumab-adaz Crohn’s Disease (adult),"Adalimumab-adaz Kit, Pen Kit"
@@ -42,24 +34,12 @@ PAIN MANAGEMENT,Adalimumab-adaz Ulcerative Colitis (adult),"Adalimumab-adaz Kit,
 PAIN MANAGEMENT,Adalimumab-adaz Uveitis (adult),"Adalimumab-adaz Kit, Pen Kit"
 PAIN MANAGEMENT,"Adalimumab-adbm Ankylosing Spondylitis, Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
 PAIN MANAGEMENT,"Adalimumab-adbm Ankylosing Spondylitis, Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
-PAIN MANAGEMENT,"Adalimumab-adbm Crohn’s Disease (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
 PAIN MANAGEMENT,"Adalimumab-adbm Crohn’s Disease (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
-PAIN MANAGEMENT,"Adalimumab-adbm Crohn’s Disease (pediatric), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
 PAIN MANAGEMENT,"Adalimumab-adbm Crohn’s Disease (pediatric), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
-PAIN MANAGEMENT,"Adalimumab-adbm Hidradenitis Suppurativa, Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
 PAIN MANAGEMENT,"Adalimumab-adbm Hidradenitis Suppurativa, Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
-PAIN MANAGEMENT,"Adalimumab-adbm Plaque Psoriasis (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
 PAIN MANAGEMENT,"Adalimumab-adbm Plaque Psoriasis (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
-PAIN MANAGEMENT,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
 PAIN MANAGEMENT,"Adalimumab-adbm Polyarticular Juvenile Idiopathic Arthritis (PJIA), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
-PAIN MANAGEMENT,"Adalimumab-adbm Psoriatic Arthritis (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
 PAIN MANAGEMENT,"Adalimumab-adbm Psoriatic Arthritis (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
-PAIN MANAGEMENT,"Adalimumab-adbm Rheumatoid Arthritis, Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
-PAIN MANAGEMENT,"Adalimumab-adbm Rheumatoid Arthritis, Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
-PAIN MANAGEMENT,"Adalimumab-adbm Ulcerative Colitis (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
-PAIN MANAGEMENT,"Adalimumab-adbm Ulcerative Colitis (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
-PAIN MANAGEMENT,"Adalimumab-adbm Uveitis (adult), Boehringer 00597 labeler","Adalimumab-adbm Kit, Pen Kit"
-PAIN MANAGEMENT,"Adalimumab-adbm Uveitis (adult), Quallent 82009 labeler","Adalimumab-adbm Kit, Pen Kit [Quallent Pharmaceuticals]"
 PAIN MANAGEMENT,Adalimumab-fkjp Ankylosing Spondylitis,"Adalimumab-fkjp Kit, Pen Kit"
 PAIN MANAGEMENT,Adalimumab-fkjp Crohn’s Disease (adult),"Adalimumab-fkjp Kit, Pen Kit"
 PAIN MANAGEMENT,Adalimumab-fkjp Crohn’s Disease (pediatric),"Adalimumab-fkjp Kit, Pen Kit"
@@ -91,7 +71,6 @@ PAIN MANAGEMENT,Ajovy,"Fremanezumab-vfrm Autoinjector, 3-Pack, Syringe (Ajovy)"
 ONCOLOGY,Akeega,Niraparib/Abiraterone Tablet (Akeega)
 ASTHMA/COPD,Albuterol HFA generic PROAIR,Albuterol Sulfate MDI (AG; Generic for ProAir HFA)
 ONCOLOGY,Alecensa,Alectinib HCl Capsule (Alecensa)
-OPHTHALMIC DISORDERS,Alphagan P 0.001,Brimonidine 0.1% Solution (Generic; Alphagan P)
 HEMOPHILIA TREATMENT,Alprolix,"Factor IX Recombinant, Fc Fusion Protein (Alprolix)"
 HEMOPHILIA TREATMENT,Altuviiio,"Factor VIII, Recombinant Fc-VWF-XTEN Fusion Protein-ehtl (Altuviiio)"
 ONCOLOGY,Alunbrig,Brigatinib Tablet (Alunbrig)
@@ -168,7 +147,6 @@ PAIN MANAGEMENT,Bimzelx Hidradenitis Suppurativa,"Bimekizumab-bkzx Pen, Syringe 
 PAIN MANAGEMENT,Bimzelx Non-Radiographic Axial Spondyloarthritis,"Bimekizumab-bkzx Pen, Syringe (Bimzelx)"
 PAIN MANAGEMENT,Bimzelx Plaque Psoriasis (adult),"Bimekizumab-bkzx Pen, Syringe (Bimzelx)"
 PAIN MANAGEMENT,Bimzelx Psoriatic Arthritis (adult),"Bimekizumab-bkzx Pen, Syringe (Bimzelx)"
-"HEART DISEASE, HYPERLIPIDEMIA",Bosentan,Bosentan Tablet (Generic)
 BOTULINUM TOXINS,Botox,OnabotulinumtoxinA (Botox)
 ASTHMA/COPD,Breo Ellipta,Fluticasone/Vilanterol Inhalation Powder (AG; Breo Ellipta)
 ASTHMA/COPD,Breztri Aerosphere,Budesonide/Glycopyrrolate/Formoterol Inhalation (Breztri Aerosphere)
@@ -177,9 +155,6 @@ MULTIPLE SCLEROSIS,Briumvi,Ublituximab-xiiy Vial (Briumvi)
 ANTICONVULSANTS,Briviact,"Brivaracetam Solution, Tablet (Briviact)"
 ONCOLOGY,Brukinsa,Zanubrutinib Capsule (Brukinsa)
 ASTHMA/COPD,Budesonide / Formoterol authorized generic Symbicort,Budesonide/Formoterol MDI (AG; Generic)
-ASTHMA/COPD,"Budesonide respules (inhalation suspension), 0.25 mg","Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Generic)"
-ASTHMA/COPD,"Budesonide respules (inhalation suspension), 0.5 mg","Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Generic)"
-ASTHMA/COPD,"Budesonide respules (inhalation suspension), 1 mg","Budesonide Respules 0.25 mg, 0.5 mg, 1 mg (Generic)"
 UREA CYCLE DISORDERS,Buphenyl powder,"Sodium Phenylbutyrate Powder, Tablet (Generic; Buphenyl)"
 UREA CYCLE DISORDERS,Buphenyl tablet,"Sodium Phenylbutyrate Powder, Tablet (Generic; Buphenyl)"
 DIABETES,Bydureon Bcise,Exenatide Microspheres ER Auto-Injector (Bydureon BCise)
@@ -252,15 +227,10 @@ ANTICONVULSANTS,Diacomit capsule,"Stiripentol Capsule, Powder Pack (Diacomit)"
 ANTICONVULSANTS,Diacomit packet for oral suspension,"Stiripentol Capsule, Powder Pack (Diacomit)"
 MULTIPLE SCLEROSIS,Dimethyl Fumarate,Dimethyl Fumarate DR Capsule (Generic)
 ALZHEIMER’S AGENTS,Donepezil ODT,"Donepezil ODT, Tablet (Generic)"
-ALZHEIMER’S AGENTS,"Donepezil tablet, 10 mg","Donepezil ODT, Tablet (Generic)"
-ALZHEIMER’S AGENTS,"Donepezil tablet, 23 mg","Donepezil 23 mg Tablet (Generic, Aricept)"
-ALZHEIMER’S AGENTS,"Donepezil tablet, 5 mg","Donepezil ODT, Tablet (Generic)"
 THROMBOPOIESIS STIMULATING PROTEINS,Doptelet,Avatrombopag Tablet (Doptelet)
 ASTHMA/COPD,Duaklir Pressair,Aclidinium Bromide/Formoterol Fumarate (Duaklir Pressair)
 ASTHMA/COPD,Dulera,Mometasone/Formoterol MDI (Dulera)
 PAIN MANAGEMENT,Duloxetine generic Cymbalta,Duloxetine Capsule (Generic for Cymbalta)
-DERMATOLOGY,Dupixent Asthma (adult),Dupilumab Syringe (Dupixent)
-DERMATOLOGY,Dupixent Asthma (pediatric),Dupilumab Syringe (Dupixent)
 DERMATOLOGY,Dupixent Atopic Dermatitis (adult),Dupilumab Syringe (Dupixent)
 DERMATOLOGY,Dupixent Atopic Dermatitis (pediatric),Dupilumab Syringe (Dupixent)
 DERMATOLOGY,Dupixent Chronic Obstructive Pulmonary Disease (COPD),Dupilumab Syringe (Dupixent)
@@ -319,7 +289,6 @@ ONCOLOGY,Erleada,Apalutamide Tablet (Erleada)
 ONCOLOGY,Erlotinib,Erlotinib HCl Tablet (Generic; Tarceva)
 ANTIPSYCHOTIC AGENTS,Erzofri prefilled syringe,Paliperidone Palmitate (Erzofri)
 IDIOPATHIC PULMONARY FIBROSIS,Esbriet,"Pirfenidone Capsule, Tablet (Esbriet)"
-DIGESTIVE DISORDERS,Esomeprazole,Esomeprazole Capsule (Generic; Nexium)
 HEMOPHILIA TREATMENT,Esperoct,"Factor VIII, Recombinant Glycopegylated-exei (Esperoct)"
 DERMATOLOGY,Eucrisa,Crisaborole Ointment (Eucrisa)
 OSTEOPOROSIS,Evenity,Romosozumab-aqqg Syringe (Evenity)
@@ -330,8 +299,6 @@ ALZHEIMER’S AGENTS,Exelon,Rivastigmine Transdermal Patch (Exelon)
 OPHTHALMIC DISORDERS,Eysuvis ophthalmic suspension,Loteprednol Etabonate Suspension (Eysuvis)
 ANTIPSYCHOTIC AGENTS,Fanapt,"Iloperidone Tablet, Titration Pack (Fanapt)"
 DIABETES,Farxiga,Dapagliflozin Tablet (Farxiga)
-ASTHMA/COPD,Fasenra Asthma (adult),Benralizumab Syringe (Fasenra)
-ASTHMA/COPD,Fasenra Asthma (pediatric),Benralizumab Syringe (Fasenra)
 ASTHMA/COPD,Fasenra Eosinophilic Granulomatosis with Polyangitis (EGPA),Benralizumab Syringe (Fasenra)
 ANTICONVULSANTS,Felbatol oral suspension,Felbamate Tablet (Generic; Felbatol)
 ANTICONVULSANTS,Felbatol tablet,Felbamate Tablet (Generic; Felbatol)
@@ -365,8 +332,6 @@ ANTIPSYCHOTIC AGENTS,Geodon IM injection,Ziprasidone Vial (Geodon)
 ANTIPSYCHOTIC AGENTS,Geodon capsule,Ziprasidone Capsule (Geodon)
 MULTIPLE SCLEROSIS,Gilenya capsule,Fingolimod Capsule (Gilenya)
 ONCOLOGY,Gilotrif,Afatinib Dimaleate Tablet (Gilotrif)
-MULTIPLE SCLEROSIS,"Glatiramer Acetate prefilled syringe, 20 mg/ml","Glatiramer Acetate Syringe 20mg, 40mg (Generic)"
-MULTIPLE SCLEROSIS,"Glatiramer Acetate prefilled syringe, 40 mg/ml","Glatiramer Acetate Syringe 20mg, 40mg (Generic)"
 ONCOLOGY,Gleevec,Imatinib Mesylate Tablet (Gleevec)
 DIABETES,Glyxambi,Linagliptin/Empagliflozin (Glyxambi) (See SGLT2 Criteria)
 ONCOLOGY,Gomekli capsule,"Mirdametinib Capsule, Tablet for Suspension (Gomekli)"
@@ -511,7 +476,6 @@ H. PYLORI TREATMENT,Lansoprazole / Amoxicillin / Clarithromycin,Lansoprazole/Amo
 DIABETES,Lantus SoloStar,"Insulin Glargine Pen, Vial (Generic; Lantus SoloStar; Lantus)"
 DIABETES,Lantus vial,"Insulin Glargine Pen, Vial (Generic; Lantus SoloStar; Lantus)"
 ANTIPSYCHOTIC AGENTS,Latuda,Lurasidone Tablet (Latuda)
-INFECTIOUS DISORDERS,Ledipasvir / Sofosbuvir,Ledipasvir/Sofosbuvir Tablet (AG; Harvoni)
 "HEART DISEASE, HYPERLIPIDEMIA",Letairis,Ambrisentan Tablet (Letairis)
 COLONY STIMULATING FACTORS,Leukine,Sargramostim Vial (Leukine)
 ASTHMA/COPD,Levalbuterol Tartrate inhalation aerosol solution,Levalbuterol Nebulizer Solution (Generic)
@@ -575,8 +539,6 @@ OPHTHALMIC DISORDERS,Natacyn (Natamycin) ophthalmic suspension,Natamycin Suspens
 DERMATOLOGY,Natroba,Spinosad Suspension (Natroba)
 ANTICONVULSANTS,Nayzilam,Midazolam Nasal Spray (Nayzilam)
 "EPINEPHRINE, SELF-ADMINISTERED",Neffy nasal solution,Epinephrine Nasal Spray (Neffy)
-DERMATOLOGY,"Nemluvio auto-injector, Atopic Dermatitis (adult)",Nemolizumab-ilto Pen (Nemluvio)
-DERMATOLOGY,"Nemluvio auto-injector, Atopic Dermatitis (pediatric)",Nemolizumab-ilto Pen (Nemluvio)
 DERMATOLOGY,"Nemluvio auto-injector, Prurigo Nodularis",Nemolizumab-ilto Pen (Nemluvio)
 COLONY STIMULATING FACTORS,Neulasta,"Pegfilgrastim Kit, Syringe (Neulasta)"
 COLONY STIMULATING FACTORS,Neulasta Onpro,"Pegfilgrastim Kit, Syringe (Neulasta)"
@@ -604,8 +566,6 @@ DIABETES,Novolog cartridge,"Insulin Aspart Cartridge, Pen, Vial (Novolog)"
 HEMOPHILIA TREATMENT,Novoseven RT,"Factor VIIa, Recombinant (NovoSeven RT)"
 THROMBOPOIESIS STIMULATING PROTEINS,Nplate,Romiplostim Vial (Nplate)
 ONCOLOGY,Nubeqa,Darolutamide Tablet (Nubeqa)
-ASTHMA/COPD,Nucala Asthma (adult),Mepolizumab Vial (Nucala)
-ASTHMA/COPD,Nucala Asthma (pediatric),Mepolizumab Vial (Nucala)
 ASTHMA/COPD,Nucala Chronic Rhinosinusitis with Nasal Polyposis,Mepolizumab Vial (Nucala)
 ASTHMA/COPD,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),Mepolizumab Vial (Nucala)
 ASTHMA/COPD,Nucala Hypereosinophilic Syndrome (HES),Mepolizumab Vial (Nucala)
@@ -629,7 +589,6 @@ ANTIPSYCHOTIC AGENTS,Olanzapine tablet,"Olanzapine ODT, Tablet (Generic)"
 "HEART DISEASE, HYPERLIPIDEMIA",Olmesartan,Olmesartan (AG; Generic)
 UREA CYCLE DISORDERS,Olpruva,Sodium Phenylbutyrate Pellet for Oral Suspension (Olpruva)
 PAIN MANAGEMENT,Olumiant Alopecia Areata,Baricitinib Tablet (Olumiant)
-PAIN MANAGEMENT,Olumiant Coronavirus Disease 2019,Baricitinib Tablet (Olumiant)
 PAIN MANAGEMENT,Olumiant Rheumatoid Arthritis,Baricitinib Tablet (Olumiant)
 H. PYLORI TREATMENT,Omeclamox-Pak,Omeprazole/Clarithromycin/Amoxicillin (Omeclamox-Pak)
 DIGESTIVE DISORDERS,Omeprazole capsule,Omeprazole Capsule Rx (Generic)
@@ -641,21 +600,15 @@ ONCOLOGY,Onureg,Azacitidine Tablet (Onureg)
 "HEART DISEASE, HYPERLIPIDEMIA",Opsumit,Macitentan Tablet (Opsumit)
 "HEART DISEASE, HYPERLIPIDEMIA",Opsynvi tablet,Macitentan and Tadalafil Tablet (Opsynvi)
 OPIATE DEPENDENCE AGENTS,Opvee (Nalmefene),Nalmefene Nasal Spray (Opvee)
-DERMATOLOGY,"Opzelura cream, Atopic Dermatitis",Ruxolitinib Cream (Opzelura)
 DERMATOLOGY,"Opzelura cream, Nonsegmental Vitiligo",Ruxolitinib Cream (Opzelura)
 "ANTI-ALLERGENS, ORAL",Oralair,Mixed Grass Allergen Extracts Sublingual Tablet (Oralair)
 PAIN MANAGEMENT,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
 PAIN MANAGEMENT,"Orencia ClickJect, Psoriatic Arthritis (adult)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
 PAIN MANAGEMENT,"Orencia ClickJect, Psoriatic Arthritis (pediatric)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
 PAIN MANAGEMENT,"Orencia ClickJect, Rheumatoid Arthritis","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
-PAIN MANAGEMENT,"Orencia prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
 PAIN MANAGEMENT,"Orencia prefilled syringe, Psoriatic Arthritis (adult)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
 PAIN MANAGEMENT,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
 PAIN MANAGEMENT,"Orencia prefilled syringe, Rheumatoid Arthritis","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
-PAIN MANAGEMENT,"Orencia vial, Acute Graft Versus Host Disease (aGVHD)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
-PAIN MANAGEMENT,"Orencia vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
-PAIN MANAGEMENT,"Orencia vial, Psoriatic Arthritis (adult)","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
-PAIN MANAGEMENT,"Orencia vial, Rheumatoid Arthritis","Abatacept Injection Clickject, Syringe, Vial (Orencia)"
 "HEART DISEASE, HYPERLIPIDEMIA",Orenitram ER,"Treprostinil ER Tablet, Titration Kit (Orenitram ER; Orenitram Month 1/2/3)"
 UTERINE DISORDER TREATMENTS,Oriahnn,Elagolix/Estradiol/Norethindrone Capsule (Oriahnn)
 UTERINE DISORDER TREATMENTS,Orilissa,Elagolix Tablet (Orilissa)
@@ -773,13 +726,8 @@ PAIN MANAGEMENT,"Selarsdi Plaque Psoriasis (adult), prefilled syringe","Ustekinu
 PAIN MANAGEMENT,"Selarsdi Plaque Psoriasis (adult), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
 PAIN MANAGEMENT,"Selarsdi Plaque Psoriasis (pediatric), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
 PAIN MANAGEMENT,"Selarsdi Plaque Psoriasis (pediatric), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
-PAIN MANAGEMENT,"Selarsdi Psoriatic Arthritis (adult), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
 PAIN MANAGEMENT,"Selarsdi Psoriatic Arthritis (adult), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
-PAIN MANAGEMENT,"Selarsdi Psoriatic Arthritis (pediatric), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
 PAIN MANAGEMENT,"Selarsdi Psoriatic Arthritis (pediatric), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
-PAIN MANAGEMENT,"Selarsdi Ulcerative Colitis (adult), intravenous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
-PAIN MANAGEMENT,"Selarsdi Ulcerative Colitis (adult), prefilled syringe","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
-PAIN MANAGEMENT,"Selarsdi Ulcerative Colitis (adult), subcutaneous vial","Ustekinumab-aekn Syringe, Vial (Selarsdi)"
 PRENATAL VITAMINS,Select-Ob + Dha,PNV 33/Iron/FA/DHA (Select-OB + DHA)
 PRENATAL VITAMINS,Select-Ob Tab Chew,PNV 13/Iron PS/Folate 1 Chew (Select-OB)
 HIV-AIDS,Selzentry,Maraviroc Tablet (Generic; Selzentry)
@@ -806,22 +754,8 @@ PAIN MANAGEMENT,"Simponi Ankylosing Spondylitis, Aria",Golimumab Vial (Simponi A
 PAIN MANAGEMENT,"Simponi Ankylosing Spondylitis, prefilled syringe","Golimumab Pen, Syringe (Simponi)"
 PAIN MANAGEMENT,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Golimumab Vial (Simponi Aria)
 PAIN MANAGEMENT,"Simponi Aria, Psoriatic Arthritis (pediatric)",Golimumab Vial (Simponi Aria)
-PAIN MANAGEMENT,"Simponi Psoriatic Arthritis (adult), Aria",Golimumab Vial (Simponi Aria)
-PAIN MANAGEMENT,"Simponi Psoriatic Arthritis (adult), prefilled syringe","Golimumab Pen, Syringe (Simponi)"
-PAIN MANAGEMENT,"Simponi Rheumatoid Arthritis, Aria",Golimumab Vial (Simponi Aria)
-PAIN MANAGEMENT,"Simponi Rheumatoid Arthritis, prefilled syringe","Golimumab Pen, Syringe (Simponi)"
-PAIN MANAGEMENT,"Simponi Ulcerative Colitis (adult), prefilled syringe","Golimumab Pen, Syringe (Simponi)"
-PAIN MANAGEMENT,"Skyrizi Crohn’s Disease (adult), prefilled cartridge","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
-PAIN MANAGEMENT,"Skyrizi Crohn’s Disease (adult), prefilled pen","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
 PAIN MANAGEMENT,"Skyrizi Crohn’s Disease (adult), vial","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
-PAIN MANAGEMENT,"Skyrizi Plaque Psoriasis (adult), prefilled cartridge","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
 PAIN MANAGEMENT,"Skyrizi Plaque Psoriasis (adult), prefilled pen","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
-PAIN MANAGEMENT,"Skyrizi Plaque Psoriasis (adult), vial","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
-PAIN MANAGEMENT,"Skyrizi Psoriatic Arthritis (adult), prefilled cartridge","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
-PAIN MANAGEMENT,"Skyrizi Psoriatic Arthritis (adult), prefilled pen","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
-PAIN MANAGEMENT,"Skyrizi Psoriatic Arthritis (adult), vial","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
-PAIN MANAGEMENT,"Skyrizi Ulcerative Colitis (adult), prefilled cartridge","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
-PAIN MANAGEMENT,"Skyrizi Ulcerative Colitis (adult), prefilled pen","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
 PAIN MANAGEMENT,"Skyrizi Ulcerative Colitis (adult), vial","Risankizumab-rzaa On-Body Cartridge, Pen, Syringe, Vial (Skyrizi)"
 GROWTH DEFICIENCY,Skytrofa,Lonapegsomatropin-tcgd Cartridge (Skytrofa)
 UREA CYCLE DISORDERS,Sodium Phenylbutyrate powder,"Sodium Phenylbutyrate Powder, Tablet (Generic; Buphenyl)"
@@ -849,13 +783,8 @@ PAIN MANAGEMENT,"Stelara Plaque Psoriasis (adult), prefilled syringe","Ustekinum
 PAIN MANAGEMENT,"Stelara Plaque Psoriasis (adult), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)"
 PAIN MANAGEMENT,"Stelara Plaque Psoriasis (pediatric), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)"
 PAIN MANAGEMENT,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)"
-PAIN MANAGEMENT,"Stelara Psoriatic Arthritis (adult), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)"
 PAIN MANAGEMENT,"Stelara Psoriatic Arthritis (adult), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)"
-PAIN MANAGEMENT,"Stelara Psoriatic Arthritis (pediatric), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)"
 PAIN MANAGEMENT,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)"
-PAIN MANAGEMENT,"Stelara Ulcerative Colitis (adult), intravenous vial","Ustekinumab Syringe, Vial (Stelara)"
-PAIN MANAGEMENT,"Stelara Ulcerative Colitis (adult), prefilled syringe","Ustekinumab Syringe, Vial (Stelara)"
-PAIN MANAGEMENT,"Stelara Ulcerative Colitis (adult), subcutaneous vial","Ustekinumab Syringe, Vial (Stelara)"
 COLONY STIMULATING FACTORS,Stimufend prefilled syringe,Pegfilgrastim-fpgk Syringe (Stimufend)
 ASTHMA/COPD,Stiolto Respimat,Tiotropium/Olodaterol (Stiolto Respimat)
 ONCOLOGY,Stivarga,Regorafenib Tablet (Stivarga)
@@ -895,19 +824,15 @@ MULTIPLE SCLEROSIS,Tecfidera (Dimethyl Fumarate) DR capsule,"Dimethyl Fumarate C
 MULTIPLE SCLEROSIS,Teriflunomide,Teriflunomide Tablet (Generic)
 OSTEOPOROSIS,Teriparatide,Teriparatide Pen (Generic; Forteo)
 MOVEMENT DISORDERS,Tetrabenazine,Tetrabenazine Tablet (Generic)
-ASTHMA/COPD,Tezspire Asthma (adult),"Tezepelumab-ekko Syringe, Pen (Tezspire)"
 ONCOLOGY,Tibsovo,Ivosidenib Tablet (Tibsovo)
 HIV-AIDS,Tivicay,"Dolutegravir Sodium Suspension, Tablet (Tivicay PD; Tivicay)"
-INFECTIOUS DISORDERS,Tobi,Tobramycin Solution (Tobi)
 INFECTIOUS DISORDERS,Tobi Podhaler,Tobramycin Capsule (Tobi Podhaler)
 OPHTHALMIC DISORDERS,Tobradex ST ophthalmic suspension,Tobramycin/Dexamethasone ST (TobraDex ST)
-OPHTHALMIC DISORDERS,Tobramycin,Tobramycin Solution (Generic)
 INFECTIOUS DISORDERS,Tobramycin generic Bethkis,Tobramycin Solution (AG; Generic; Bethkis)
 ANTICONVULSANTS,Topamax Sprinkle,"Topiramate Sprinkle, Tablet (Topamax)"
 ANTICONVULSANTS,Topiramate tablet,Topiramate Tablet (Generic; Topiragen)
 DIABETES,Toujeo Max Solostar,"Insulin Glargine Pen (Generic; Toujeo Solostar, Toujeo Max Solostar)"
 DIABETES,Toujeo Solostar,"Insulin Glargine Pen (Generic; Toujeo Solostar, Toujeo Max Solostar)"
-"HEART DISEASE, HYPERLIPIDEMIA",Tracleer,"Bosentan Suspension, Tablet (Tracleer)"
 "HEART DISEASE, HYPERLIPIDEMIA",Tracleer tablet for oral suspension,"Bosentan Suspension, Tablet (Tracleer)"
 DIABETES,Tradjenta,Linagliptin Tablet (Tradjenta)
 "HEART DISEASE, HYPERLIPIDEMIA",Trandolapril,Trandolapril (Generic)
@@ -994,17 +919,11 @@ ONCOLOGY,Xalkori sprinkle capsule,Crizotinib Pellet (Xalkori)
 "HEART DISEASE, HYPERLIPIDEMIA",Xarelto starter pack,Rivaroxaban Dose Pack (Xarelto Starter Pack)
 ANTICONVULSANTS,Xcopri,"Cenobamate Daily Dose Pack, Tablet, Titration Pack (Xcopri)"
 PAIN MANAGEMENT,"Xeljanz Ankylosing Spondylitis, IR tablet",Tofacitinib Citrate Tablet (Xeljanz)
-PAIN MANAGEMENT,"Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA), IR tablet",Tofacitinib Citrate Tablet (Xeljanz)
-PAIN MANAGEMENT,"Xeljanz Psoriatic Arthritis (adult), IR tablet",Tofacitinib Citrate Tablet (Xeljanz)
-PAIN MANAGEMENT,"Xeljanz Rheumatoid Arthritis, IR tablet",Tofacitinib Citrate Tablet (Xeljanz)
-PAIN MANAGEMENT,"Xeljanz Ulcerative Colitis (adult), IR tablet",Tofacitinib Citrate Tablet (Xeljanz)
 MOVEMENT DISORDERS,Xenazine,Tetrabenazine Tablet (Xenazine)
 BOTULINUM TOXINS,Xeomin,IncobotulinumtoxinA (Xeomin)
 DIABETES,Xigduo XR,Dapagliflozin/Metformin ER Tablet (Xigduo XR)
 OPHTHALMIC DISORDERS,Xiidra ophthalmic solution,Lifitegrast Solution (Xiidra)
 "ANTIVIRALS, ORAL",Xofluza,Baloxavir Marboxil Tablet (Xofluza)
-ASTHMA/COPD,Xolair Asthma (adult),Omalizumab Vial (Xolair)
-ASTHMA/COPD,Xolair Asthma (pediatric),Omalizumab Vial (Xolair)
 ASTHMA/COPD,Xolair Chronic Rhinosinusitis with Nasal Polyposis,Omalizumab Vial (Xolair)
 ASTHMA/COPD,Xolair Chronic Spontaneous Urticaria (CSU),Omalizumab Vial (Xolair)
 ASTHMA/COPD,Xolair IgE-Mediated Food Allergy,Omalizumab Vial (Xolair)
@@ -1012,19 +931,10 @@ ASTHMA/COPD,Xopenex HFA,Levalbuterol MDI (AG; Xopenex HFA)
 ONCOLOGY,Xtandi,"Enzalutamide Capsule, Tablet (Xtandi)"
 DIABETES,Xultophy,Liraglutide/Insulin Degludec (Xultophy) (See Insulins & Related Agents Criteria)
 HEMOPHILIA TREATMENT,Xyntha,"Factor VIII, B-Domain-Deleted (Xyntha Kit)"
-PAIN MANAGEMENT,"Yesintek intravenous vial, Crohn’s Disease (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
 PAIN MANAGEMENT,"Yesintek intravenous vial, Ulcerative Colitis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
-PAIN MANAGEMENT,"Yesintek prefilled syringe, Crohn’s Disease (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
-PAIN MANAGEMENT,"Yesintek prefilled syringe, Plaque Psoriasis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
-PAIN MANAGEMENT,"Yesintek prefilled syringe, Plaque Psoriasis (pediatric)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
 PAIN MANAGEMENT,"Yesintek prefilled syringe, Psoriatic Arthritis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
 PAIN MANAGEMENT,"Yesintek prefilled syringe, Psoriatic Arthritis (pediatric)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
 PAIN MANAGEMENT,"Yesintek prefilled syringe, Ulcerative Colitis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
-PAIN MANAGEMENT,"Yesintek subcutaneous vial, Crohn’s Disease (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
-PAIN MANAGEMENT,"Yesintek subcutaneous vial, Plaque Psoriasis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
-PAIN MANAGEMENT,"Yesintek subcutaneous vial, Plaque Psoriasis (pediatric)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
-PAIN MANAGEMENT,"Yesintek subcutaneous vial, Psoriatic Arthritis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
-PAIN MANAGEMENT,"Yesintek subcutaneous vial, Psoriatic Arthritis (pediatric)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
 PAIN MANAGEMENT,"Yesintek subcutaneous vial, Ulcerative Colitis (adult)","Ustekinumab-kfce Syringe, Vial (Yesintek)"
 ONCOLOGY,Yonsa tablet,Abiraterone Acetate Submicronized Tablet (Yonsa)
 PAIN MANAGEMENT,Yuflyma Ankylosing Spondylitis,"Adalimumab-aaty Kit, Pen Kit (Yuflyma)"
@@ -1064,8 +974,6 @@ SPINAL MUSCULAR ATROPHY,Zolgensma,Onasemnogene Abeparvovec-xioi (Zolgensma)
 SEDATIVE/HYPNOTICS,Zolpidem,Zolpidem Tablet (Generic)
 SEDATIVE/HYPNOTICS,Zolpidem CR,Zolpidem Tartrate ER Tablet (Generic)
 ANTICONVULSANTS,Zonisade,Zonisamide Suspension (Zonisade)
-DERMATOLOGY,"Zoryve cream, 0.15%, Atopic Dermatitis","Roflumilast 0.15% Cream, 0.3% Foam (Zoryve)"
-DERMATOLOGY,"Zoryve cream, 0.3%, Plaque Psoriasis",Roflumilast 0.3% Cream (Zoryve)
 ANTICONVULSANTS,Ztalmy,Ganaxolone Suspension (Ztalmy)
 DEPRESSION,Zurzuvae,Zuranolone Capsule (Zurzuvae)
 ONCOLOGY,Zydelig,Idelalisib Tablet (Zydelig)

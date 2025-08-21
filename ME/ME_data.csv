@@ -4,17 +4,9 @@ ANTIPSYCHOTICS - ATYPICALS,Abilify Maintena,ABILIFY MAINTENA
 ANTIPSYCHOTICS - ATYPICALS,Abilify tablet,ABILIFY TABS
 "ISOTRETINION, ACNE",Absorica LD capsule,ABSORICA LD
 GI - PROTON PUMP INHIBITOR,Aciphex,ACIPHEX TBEC
-RHEUMATOID ARTHRITIS,"Actemra prefilled syringe, Giant Cell Arteritis",ACTEMRA SYRINGES
-RHEUMATOID ARTHRITIS,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA SYRINGES
 RHEUMATOID ARTHRITIS,"Actemra prefilled syringe, Rheumatoid Arthritis",ACTEMRA SYRINGES
 RHEUMATOID ARTHRITIS,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",ACTEMRA SYRINGES
 RHEUMATOID ARTHRITIS,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA SYRINGES
-RHEUMATOID ARTHRITIS,"Actemra vial, Coronavirus Disease 2019",ACTEMRA VIALS
-RHEUMATOID ARTHRITIS,"Actemra vial, Cytokine Release Syndrome",ACTEMRA VIALS
-RHEUMATOID ARTHRITIS,"Actemra vial, Giant Cell Arteritis",ACTEMRA VIALS
-RHEUMATOID ARTHRITIS,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA VIALS
-RHEUMATOID ARTHRITIS,"Actemra vial, Rheumatoid Arthritis",ACTEMRA VIALS
-RHEUMATOID ARTHRITIS,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA VIALS
 SICKLE CELL DISEASE,Adakveo,ADAKVEO
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Ankylosing Spondylitis,ADALIMUMAB-FKJP
 PSORIASIS BIOLOGICALS,Adalimumab-fkjp Crohn’s Disease (adult),ADALIMUMAB-FKJP
@@ -81,8 +73,6 @@ PSORIASIS BIOLOGICALS,Cyltezo Psoriatic Arthritis (adult),CYLTEZO
 PSORIASIS BIOLOGICALS,Cyltezo Rheumatoid Arthritis,CYLTEZO
 PSORIASIS BIOLOGICALS,Cyltezo Ulcerative Colitis (adult),CYLTEZO
 PSORIASIS BIOLOGICALS,Cyltezo Uveitis (adult),CYLTEZO
-ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Asthma (adult),DUPIXENT
-ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Asthma (pediatric),DUPIXENT
 ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Atopic Dermatitis (adult),DUPIXENT
 ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Atopic Dermatitis (pediatric),DUPIXENT
 ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Dupixent Chronic Obstructive Pulmonary Disease (COPD),DUPIXENT
@@ -100,11 +90,7 @@ PSORIASIS BIOLOGICALS,Enbrel Psoriatic Arthritis (pediatric),ENBREL
 PSORIASIS BIOLOGICALS,Enbrel Rheumatoid Arthritis,ENBREL
 MONOCLONAL ANTIBODY,Enspryng Neuromyelitis Optica Spectrum Disorder (NMOSD),ENSPRYNG
 TOPICAL- ATOPIC DERMATITIS,Eucrisa,EUCRISA
-ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,"Fasenra auto-injector, Asthma (adult)",FASENRA AUTO INJCT
 ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,"Fasenra auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",FASENRA AUTO INJCT
-ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,"Fasenra prefilled syringe, Asthma (adult)",FASENRA
-ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,"Fasenra prefilled syringe, Asthma (pediatric)",FASENRA
-ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,"Fasenra prefilled syringe, Eosinophilic Granulomatosis with Polyangitis (EGPA)",FASENRA
 PSORIASIS BIOLOGICALS,Hadlima Ankylosing Spondylitis,HADLIMA
 PSORIASIS BIOLOGICALS,Hadlima Crohn’s Disease (adult),HADLIMA
 PSORIASIS BIOLOGICALS,Hadlima Crohn’s Disease (pediatric),HADLIMA
@@ -163,9 +149,6 @@ RHEUMATOID ARTHRITIS,Kevzara Rheumatoid Arthritis,KEVZARA
 RHEUMATOID ARTHRITIS,Kineret,KINERET SOLN
 ALOPECIA AREATA AGENTS,Litfulo Alopecia Areata,LITFULO
 LUPUS-SLE  ,Lupkynis,LUPKYNIS
-TOPICAL- ATOPIC DERMATITIS,"Nemluvio auto-injector, Atopic Dermatitis (adult)",NEMLUVIO
-TOPICAL- ATOPIC DERMATITIS,"Nemluvio auto-injector, Atopic Dermatitis (pediatric)",NEMLUVIO
-ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Nucala Asthma (pediatric),NUCALA
 ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Nucala Chronic Rhinosinusitis with Nasal Polyposis,NUCALA
 ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),NUCALA
 ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Nucala Hypereosinophilic Syndrome (HES),NUCALA
@@ -173,7 +156,6 @@ ALOPECIA AREATA AGENTS,Olumiant Alopecia Areata,OLUMIANT
 ALOPECIA AREATA AGENTS,Olumiant Rheumatoid Arthritis,OLUMIANT
 RHEUMATOID ARTHRITIS,"Orencia ClickJect, Rheumatoid Arthritis",ORENCIA
 RHEUMATOID ARTHRITIS,"Orencia prefilled syringe, Rheumatoid Arthritis",ORENCIA
-RHEUMATOID ARTHRITIS,"Orencia vial, Rheumatoid Arthritis",ORENCIA
 PSORIASIS BIOLOGICALS,Otezla Behcet’s Disease,OTEZLA
 PSORIASIS BIOLOGICALS,Otezla Plaque Psoriasis (adult),OTEZLA
 PSORIASIS BIOLOGICALS,Otezla Plaque Psoriasis (pediatric),OTEZLA

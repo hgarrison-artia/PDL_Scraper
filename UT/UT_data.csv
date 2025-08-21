@@ -10,17 +10,9 @@ Cytokine Modulators: Immunomodulators,"Actemra ACTPen, Polyarticular Juvenile Id
 Cytokine Modulators: Immunomodulators,"Actemra ACTPen, Rheumatoid Arthritis",Actemra
 Cytokine Modulators: Immunomodulators,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",Actemra
 Cytokine Modulators: Immunomodulators,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Actemra
-Cytokine Modulators: Immunomodulators,"Actemra prefilled syringe, Giant Cell Arteritis",Actemra
-Cytokine Modulators: Immunomodulators,"Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Actemra
 Cytokine Modulators: Immunomodulators,"Actemra prefilled syringe, Rheumatoid Arthritis",Actemra
 Cytokine Modulators: Immunomodulators,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",Actemra
 Cytokine Modulators: Immunomodulators,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Actemra
-Cytokine Modulators: Immunomodulators,"Actemra vial, Coronavirus Disease 2019",Actemra
-Cytokine Modulators: Immunomodulators,"Actemra vial, Cytokine Release Syndrome",Actemra
-Cytokine Modulators: Immunomodulators,"Actemra vial, Giant Cell Arteritis",Actemra
-Cytokine Modulators: Immunomodulators,"Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Actemra
-Cytokine Modulators: Immunomodulators,"Actemra vial, Rheumatoid Arthritis",Actemra
-Cytokine Modulators: Immunomodulators,"Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Actemra
 Dermatological: Atopic Dermatitis (Non-Steroidal),Adbry Atopic Dermatitis (adult),Adbry
 Pulmonary Hypertension: Phosphodiesterase-5 Enzyme (PDE-5) Inhibitors,Adcirca,Adcirca
 Mental Health: Long Acting ADHD Stimulants,Adderall XR ER capsule,Adderall XR
@@ -38,7 +30,6 @@ Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Airsupra HFA,Airs
 Neurological: Migraine - Prophylactic Therapy,Ajovy,Ajovy
 Respiratory: Asthma & COPD - Short Acting Beta Agonists (SABA),Albuterol HFA generic PROAIR,albuterol HFA
 Neurological: Migraine - Abortive Therapy,Almotriptan,almotriptan
-Ophthalmics: Anti-Glaucoma - Alpha Adrenergics,Alphagan P 0.001,Alphagan P 0.1%
 Antihemophilia: Factor IX,Alprolix,Alprolix
 Antihemophilia: Factor VIII,Altuviiio,Altuviiio
 Respiratory: Asthma & COPD - Corticosteroids,Alvesco,Alvesco
@@ -168,13 +159,9 @@ Mental Health: Anticonvulsants,Diacomit packet for oral suspension,Diacomit
 Neurological: Migraine - Abortive Therapy,Dihydroergotamine Mesylate,dihydroergotamine
 Neurological: Multiple Sclerosis Agents,Dimethyl Fumarate,dimethyl fumarate
 Central Nervous System: Antidementia Agents - Oral,Donepezil ODT,donepezil ODT
-Central Nervous System: Antidementia Agents - Oral,Donepezil tablet,"donepezil 5, 10mg"
 Respiratory: Asthma & COPD - LABA/LAMA Combinations,Duaklir Pressair,Duaklir
 Estrogens: Oral Combination,Duavee tablet,Duavee
 Respiratory: Asthma & COPD - Combination Products,Dulera,Dulera
-Mental Health: Antidepressants - SSRI/SNRI,Duloxetine,"duloxetine 20, 30, 60mg"
-Dermatological: Atopic Dermatitis (Non-Steroidal),Dupixent Asthma (adult),Dupixent
-Dermatological: Atopic Dermatitis (Non-Steroidal),Dupixent Asthma (pediatric),Dupixent
 Dermatological: Atopic Dermatitis (Non-Steroidal),Dupixent Atopic Dermatitis (adult),Dupixent
 Dermatological: Atopic Dermatitis (Non-Steroidal),Dupixent Atopic Dermatitis (pediatric),Dupixent
 Dermatological: Atopic Dermatitis (Non-Steroidal),Dupixent Chronic Obstructive Pulmonary Disease (COPD),Dupixent
@@ -229,8 +216,6 @@ Central Nervous System: Antidementia Agents - Topical,Exelon,Exelon
 Ophthalmics: Ophthalmic - Anti-Inflammatory - Corticosteroids,Eysuvis ophthalmic suspension,Eysuvis
 Mental Health: Atypical Antipsychotics,Fanapt,Fanapt
 Antidiabetics: SGLT-2 Inhibitors,Farxiga,Farxiga
-Respiratory: Monoclonal Antibodies for Asthma,Fasenra Asthma (adult),Fasenra
-Respiratory: Monoclonal Antibodies for Asthma,Fasenra Asthma (pediatric),Fasenra
 Respiratory: Monoclonal Antibodies for Asthma,Fasenra Eosinophilic Granulomatosis with Polyangitis (EGPA),Fasenra
 Mental Health: Anticonvulsants,Felbatol oral suspension,Felbatol
 Mental Health: Anticonvulsants,Felbatol tablet,Felbatol
@@ -375,18 +360,14 @@ Central Nervous System: Antidementia Agents - Oral,Memantine tablet,memantine ta
 Muscle Relaxants: Antispasmodic Agents,Metaxalone,metaxalone
 Cardiovascular: Beta-Adrenergic Blocking Agents - Cardio Selective,Metoprolol Succinate ER tablet,metoprolol succinate
 Anti-infectives (NOS): Vaginal,Metronidazole 0.75% Gel,metronidazole vaginal
-Neurological: Migraine - Abortive Therapy,Migranal,Migranal spray
 Cardiovascular: Angiotensin Converting Enzyme (ACE) Inhibitors,Moexipril,moexipril
 Mental Health: Anticonvulsants,Motpoly XR,Motpoly XR
 Antidiabetics: GLP-1 Agonists,Mounjaro,Mounjaro
 Central Nervous System: Antidementia Agents - Oral,Namenda,Namenda tablet
 Central Nervous System: Antidementia Agents - Oral,Namenda XR,Namenda XR
 Central Nervous System: Antidementia Agents - Oral,Namzaric,Namzaric
-Neurological: Migraine - Abortive Therapy,Naratriptan,naratriptan
 Dermatological: Scabicides/Pediculicides,Natroba,Natroba
 Mental Health: Anticonvulsants,Nayzilam,Nayzilam
-Cytokine Modulators: Immunomodulators,"Nemluvio auto-injector, Atopic Dermatitis (adult)",Nemluvio
-Cytokine Modulators: Immunomodulators,"Nemluvio auto-injector, Atopic Dermatitis (pediatric)",Nemluvio
 Cytokine Modulators: Immunomodulators,"Nemluvio auto-injector, Prurigo Nodularis",Nemluvio
 Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Neulasta,Neulasta
 Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Neulasta Onpro,Neulasta
@@ -409,8 +390,6 @@ Antidiabetics: Insulin Mixtures,Novolog 70/30,Novolog 70/30
 Antidiabetics: Insulin Mixtures,Novolog 70/30 FlexPen,Novolog 70/30
 Antidiabetics: Short Acting Insulin,Novolog FlexPen,Novolog
 Antidiabetics: Short Acting Insulin,Novolog cartridge,Novolog
-Respiratory: Monoclonal Antibodies for Asthma,Nucala Asthma (adult),Nucala
-Respiratory: Monoclonal Antibodies for Asthma,Nucala Asthma (pediatric),Nucala
 Respiratory: Monoclonal Antibodies for Asthma,Nucala Chronic Obstructive Pulmonary Disease (COPD),Nucala
 Respiratory: Monoclonal Antibodies for Asthma,Nucala Chronic Rhinosinusitis with Nasal Polyposis,Nucala
 Respiratory: Monoclonal Antibodies for Asthma,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),Nucala
@@ -430,7 +409,6 @@ Mental Health: Atypical Antipsychotics,Olanzapine ODT,olanzapine ODT
 Mental Health: Atypical Antipsychotics,Olanzapine tablet,olanzapine
 Cardiovascular: Angiotensin Receptor Blockers (ARBs),Olmesartan,olmesartan
 Cytokine Modulators: Immunomodulators,Olumiant Alopecia Areata,Olumiant
-Cytokine Modulators: Immunomodulators,Olumiant Coronavirus Disease 2019,Olumiant
 Cytokine Modulators: Immunomodulators,Olumiant Rheumatoid Arthritis,Olumiant
 Gastrointestinal (GI): Proton Pump Inhibitors,Omeprazole capsule,omeprazole
 Gastrointestinal (GI): Proton Pump Inhibitors,Omeprazole tablet,omeprazole
@@ -439,20 +417,14 @@ Mental Health: Anticonvulsants,Onfi oral suspension,Onfi
 Mental Health: Anticonvulsants,Onfi tablet,Onfi
 Pulmonary Hypertension: Endothelin Antagonists,Opsumit,Opsumit
 Pulmonary Hypertension: Endothelin Antagonists,Opsynvi tablet,Opsynvi
-Dermatological: Atopic Dermatitis (Non-Steroidal),"Opzelura cream, Atopic Dermatitis",Opzelura
 Dermatological: Atopic Dermatitis (Non-Steroidal),"Opzelura cream, Nonsegmental Vitiligo",Opzelura
 Cytokine Modulators: Immunomodulators,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia
 Cytokine Modulators: Immunomodulators,"Orencia ClickJect, Psoriatic Arthritis (adult)",Orencia
 Cytokine Modulators: Immunomodulators,"Orencia ClickJect, Psoriatic Arthritis (pediatric)",Orencia
 Cytokine Modulators: Immunomodulators,"Orencia ClickJect, Rheumatoid Arthritis",Orencia
-Cytokine Modulators: Immunomodulators,"Orencia prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia
 Cytokine Modulators: Immunomodulators,"Orencia prefilled syringe, Psoriatic Arthritis (adult)",Orencia
 Cytokine Modulators: Immunomodulators,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)",Orencia
 Cytokine Modulators: Immunomodulators,"Orencia prefilled syringe, Rheumatoid Arthritis",Orencia
-Cytokine Modulators: Immunomodulators,"Orencia vial, Acute Graft Versus Host Disease (aGVHD)",Orencia
-Cytokine Modulators: Immunomodulators,"Orencia vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Orencia
-Cytokine Modulators: Immunomodulators,"Orencia vial, Psoriatic Arthritis (adult)",Orencia
-Cytokine Modulators: Immunomodulators,"Orencia vial, Rheumatoid Arthritis",Orencia
 Pulmonary Hypertension: Prostacyclins,Orenitram ER,Orenitram
 Muscle Relaxants: Antispasmodic Agents,Orphenadrine ER,orphenadrine
 Antivirals: Anti-Influenza - Oral,Oseltamivir,oseltamivir
@@ -543,10 +515,6 @@ Anticoagulants: Oral,Savaysa,Savaysa
 Mental Health: Atypical Antipsychotics,Secuado,Secuado
 Antidiabetics: SGLT-2 Inhibitor Combinations,Segluromet,Segluromet
 Prenatal Vitamins: Granulocyte Colony Stimulating Factors (G-CSFs),Select-Ob + Dha,Select-OB+DHA
-"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors","Selzentry tablet, 150 mg","Selzentry 150mg, 300mg tablet"
-"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors","Selzentry tablet, 25 mg","Selzentry 25mg, 75mg tablet"
-"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors","Selzentry tablet, 300 mg","Selzentry 150mg, 300mg tablet"
-"Antivirals: Antiretrovirals - Entry, Fusion Inhibitors","Selzentry tablet, 75 mg","Selzentry 25mg, 75mg tablet"
 Antidiabetics: Long Acting Insulin,Semglee,Semglee
 Mental Health: Atypical Antipsychotics,Seroquel,Seroquel
 Mental Health: Atypical Antipsychotics,Seroquel XR,Seroquel XR
@@ -559,20 +527,10 @@ Cytokine Modulators: Immunomodulators,"Simponi Ankylosing Spondylitis, Aria",Sim
 Cytokine Modulators: Immunomodulators,"Simponi Ankylosing Spondylitis, prefilled syringe",Simponi
 Cytokine Modulators: Immunomodulators,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Simponi
 Cytokine Modulators: Immunomodulators,"Simponi Aria, Psoriatic Arthritis (pediatric)",Simponi
-Cytokine Modulators: Immunomodulators,"Simponi Psoriatic Arthritis (adult), Aria",Simponi
-Cytokine Modulators: Immunomodulators,"Simponi Psoriatic Arthritis (adult), prefilled syringe",Simponi
-Cytokine Modulators: Immunomodulators,"Simponi Rheumatoid Arthritis, Aria",Simponi
-Cytokine Modulators: Immunomodulators,"Simponi Rheumatoid Arthritis, prefilled syringe",Simponi
-Cytokine Modulators: Immunomodulators,"Simponi Ulcerative Colitis (adult), prefilled syringe",Simponi
-Cytokine Modulators: Immunomodulators,"Skyrizi Crohn’s Disease (adult), prefilled cartridge",Skyrizi
 Cytokine Modulators: Immunomodulators,"Skyrizi Crohn’s Disease (adult), prefilled syringe",Skyrizi
 Cytokine Modulators: Immunomodulators,"Skyrizi Crohn’s Disease (adult), vial",Skyrizi
 Cytokine Modulators: Immunomodulators,"Skyrizi Plaque Psoriasis (adult), prefilled pen",Skyrizi
 Cytokine Modulators: Immunomodulators,"Skyrizi Plaque Psoriasis (adult), prefilled syringe",Skyrizi
-Cytokine Modulators: Immunomodulators,"Skyrizi Psoriatic Arthritis (adult), prefilled pen",Skyrizi
-Cytokine Modulators: Immunomodulators,"Skyrizi Psoriatic Arthritis (adult), prefilled syringe",Skyrizi
-Cytokine Modulators: Immunomodulators,"Skyrizi Ulcerative Colitis (adult), prefilled cartridge",Skyrizi
-Cytokine Modulators: Immunomodulators,"Skyrizi Ulcerative Colitis (adult), prefilled syringe",Skyrizi
 Cytokine Modulators: Immunomodulators,"Skyrizi Ulcerative Colitis (adult), vial",Skyrizi
 Growth Hormone: Chronic Gout,Skytrofa,Skytrofa
 Growth Hormone: Chronic Gout,Sogroya,Sogroya
@@ -594,13 +552,8 @@ Cytokine Modulators: Immunomodulators,"Stelara Plaque Psoriasis (adult), prefill
 Cytokine Modulators: Immunomodulators,"Stelara Plaque Psoriasis (adult), subcutaneous vial",Stelara
 Cytokine Modulators: Immunomodulators,"Stelara Plaque Psoriasis (pediatric), prefilled syringe",Stelara
 Cytokine Modulators: Immunomodulators,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial",Stelara
-Cytokine Modulators: Immunomodulators,"Stelara Psoriatic Arthritis (adult), prefilled syringe",Stelara
 Cytokine Modulators: Immunomodulators,"Stelara Psoriatic Arthritis (adult), subcutaneous vial",Stelara
-Cytokine Modulators: Immunomodulators,"Stelara Psoriatic Arthritis (pediatric), prefilled syringe",Stelara
 Cytokine Modulators: Immunomodulators,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",Stelara
-Cytokine Modulators: Immunomodulators,"Stelara Ulcerative Colitis (adult), intravenous vial",Stelara
-Cytokine Modulators: Immunomodulators,"Stelara Ulcerative Colitis (adult), prefilled syringe",Stelara
-Cytokine Modulators: Immunomodulators,"Stelara Ulcerative Colitis (adult), subcutaneous vial",Stelara
 Hematopoietics: Granulocyte Colony Stimulating Factors (G-CSFs),Stimufend prefilled syringe,Stimufend
 Respiratory: Asthma & COPD - LABA/LAMA Combinations,Stiolto Respimat,Stiolto
 Antivirals: Antiretrovirals- Combination Products,Stribild,Stribild
@@ -628,9 +581,7 @@ Cardiovascular: Angiotensin Receptor Blockers (ARBs),Telmisartan,telmisartan
 Neurological: Multiple Sclerosis Agents,Teriflunomide,teriflunomide
 Bone Density Regulators: Direct Acting Antivirals (DAAs),Teriparatide,teriparatide
 Neurological: Movement Disorder Treatments - VMAT-2 Inhibitors,Tetrabenazine,tetrabenazine
-Respiratory: Monoclonal Antibodies for Asthma,Tezspire Asthma (adult),Tezspire
 Antivirals: Antiretrovirals - Integrase Inhibitors,Tivicay,Tivicay
-Respiratory: Cystic Fibrosis: Inhaled Aminoglycosides,Tobi,Tobi  nebulizer
 Respiratory: Cystic Fibrosis: Inhaled Aminoglycosides,Tobi Podhaler,Tobi Podhaler capsule
 Ophthalmics: Ophthalmic - Anti-Inflammatory - Combinations,Tobradex ST ophthalmic suspension,Tobradex ST
 Ophthalmics: Ophthalmic - Antibiotics - Non Quinolones,Tobramycin,tobramycin drops
@@ -711,8 +662,6 @@ Cytokine Modulators: Immunomodulators,Xeljanz Ulcerative Colitis (adult),Xeljanz
 Neurological: Movement Disorder Treatments - VMAT-2 Inhibitors,Xenazine,Xenazine
 Antidiabetics: SGLT-2 Inhibitor Combinations,Xigduo XR,Xigduo XR
 Antivirals: Anti-Influenza - Oral,Xofluza,Xofluza
-Respiratory: Monoclonal Antibodies for Asthma,Xolair Asthma (adult),Xolair
-Respiratory: Monoclonal Antibodies for Asthma,Xolair Asthma (pediatric),Xolair
 Respiratory: Monoclonal Antibodies for Asthma,Xolair Chronic Rhinosinusitis with Nasal Polyposis,Xolair
 Respiratory: Monoclonal Antibodies for Asthma,Xolair Chronic Spontaneous Urticaria (CSU),Xolair
 Respiratory: Monoclonal Antibodies for Asthma,Xolair IgE-Mediated Food Allergy,Xolair
@@ -737,8 +686,6 @@ Neurological: Migraine - Abortive Therapy,Zolmitriptan,zolmitriptan
 "Central Nervous System: Hypnotics - Non Benzodiazepines, Non Barbiturates",Zolpidem CR,zolpidem CR tablet
 Mental Health: Anticonvulsants,Zonisade,Zonisade
 Cardiovascular: Platelet Aggregation Inhibitors,Zontivity,Zontivity
-Dermatological: Atopic Dermatitis (Non-Steroidal),"Zoryve cream, 0.15%, Atopic Dermatitis",Zoryve
-Dermatological: Atopic Dermatitis (Non-Steroidal),"Zoryve cream, 0.3%, Plaque Psoriasis",Zoryve
 Mental Health: Anticonvulsants,Ztalmy,Ztalmy
 Mental Health: Atypical Antipsychotics,Zyprexa,Zyprexa
 Mental Health: Atypical Antipsychotics,Zyprexa Relprevv,Zyprexa Relprevv

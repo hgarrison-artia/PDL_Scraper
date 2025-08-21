@@ -20,17 +20,9 @@ GI - PROTON PUMP INHIBITOR,Aciphex,ACIPHEX
 "ANTI-INFLAMMATORIES, NON-NSAID","Actemra ACTPen, Rheumatoid Arthritis",ACTEMRA
 "ANTI-INFLAMMATORIES, NON-NSAID","Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",ACTEMRA
 "ANTI-INFLAMMATORIES, NON-NSAID","Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA
-"ANTI-INFLAMMATORIES, NON-NSAID","Actemra prefilled syringe, Giant Cell Arteritis",ACTEMRA
-"ANTI-INFLAMMATORIES, NON-NSAID","Actemra prefilled syringe, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA
 "ANTI-INFLAMMATORIES, NON-NSAID","Actemra prefilled syringe, Rheumatoid Arthritis",ACTEMRA
 "ANTI-INFLAMMATORIES, NON-NSAID","Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",ACTEMRA
 "ANTI-INFLAMMATORIES, NON-NSAID","Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA
-"ANTI-INFLAMMATORIES, NON-NSAID","Actemra vial, Coronavirus Disease 2019",ACTEMRA
-"ANTI-INFLAMMATORIES, NON-NSAID","Actemra vial, Cytokine Release Syndrome",ACTEMRA
-"ANTI-INFLAMMATORIES, NON-NSAID","Actemra vial, Giant Cell Arteritis",ACTEMRA
-"ANTI-INFLAMMATORIES, NON-NSAID","Actemra vial, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ACTEMRA
-"ANTI-INFLAMMATORIES, NON-NSAID","Actemra vial, Rheumatoid Arthritis",ACTEMRA
-"ANTI-INFLAMMATORIES, NON-NSAID","Actemra vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",ACTEMRA
 ANTI-IGE & ANTI-INTERLEUKIN ANTIBODIES,Adbry Atopic Dermatitis (adult),Adbry
 ANTI-IGE & ANTI-INTERLEUKIN ANTIBODIES,Adbry Atopic Dermatitis (pediatric),Adbry
 PULMONARY ANTI-HYPERTENSIVES,Adcirca,ADCIRCA
@@ -54,7 +46,6 @@ ANTINEOPLASTICS - COMBINATIONS,Akeega,Akeega
 ANTIASTHMATIC - BETA - ADRENERGICS,Albuterol HFA generic PROAIR,Albuterol hfa
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Alecensa,Alecensa
 MIGRAINE - SELECTIVE SEROTONIN AGONISTS (5HT)--Tabs,Almotriptan,Almotriptan
-OP. SELECTIVE ALPHA ADRENERGIC AGONISTS,Alphagan P 0.001,ALPHAGAN P SOL 0.1%
 Antihemophilia Factor IX Agents,Alprolix,ALPROLIX
 Antihemophilia Factor VIII Agents,Altuviiio,Altuviiio
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Alunbrig,Alunbrig
@@ -62,66 +53,6 @@ ANTIASTHMATIC - STEROID INHALANTS,Alvesco,ALVESCO
 SEDATIVE/HYPNOTICS - Non-Benzodiazepines,Ambien,AMBIEN
 SEDATIVE/HYPNOTICS - Non-Benzodiazepines,Ambien CR,AMBIEN CR
 Pulmonary Anti-Hypertensives-Endothelin Receptor Antagonist,Ambrisentan,Ambrisentan
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Ankylosing Spondylitis, 10mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Ankylosing Spondylitis, 20mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Ankylosing Spondylitis, 20mg/0.4mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Ankylosing Spondylitis, 40mg/0.4mL",Amjevita 40mg/0.4mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Ankylosing Spondylitis, 40mg/0.8mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Ankylosing Spondylitis, 80mg/0.8mL",Amjevita 80mg/0.8mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Crohn’s Disease (adult), 10mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Crohn’s Disease (adult), 20mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Crohn’s Disease (adult), 20mg/0.4mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Crohn’s Disease (adult), 40mg/0.4mL",Amjevita 40mg/0.4mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Crohn’s Disease (adult), 40mg/0.8mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Crohn’s Disease (adult), 80mg/0.8mL",Amjevita 80mg/0.8mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Crohn’s Disease (pediatric), 10mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Crohn’s Disease (pediatric), 20mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Crohn’s Disease (pediatric), 20mg/0.4mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Crohn’s Disease (pediatric), 40mg/0.4mL",Amjevita 40mg/0.4mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Crohn’s Disease (pediatric), 40mg/0.8mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Crohn’s Disease (pediatric), 80mg/0.8mL",Amjevita 80mg/0.8mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Hidradenitis Suppurativa, 10mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Hidradenitis Suppurativa, 20mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Hidradenitis Suppurativa, 20mg/0.4mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Hidradenitis Suppurativa, 40mg/0.4mL",Amjevita 40mg/0.4mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Hidradenitis Suppurativa, 40mg/0.8mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Hidradenitis Suppurativa, 80mg/0.8mL",Amjevita 80mg/0.8mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Plaque Psoriasis (adult), 10mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Plaque Psoriasis (adult), 20mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Plaque Psoriasis (adult), 20mg/0.4mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Plaque Psoriasis (adult), 40mg/0.4mL",Amjevita 40mg/0.4mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Plaque Psoriasis (adult), 40mg/0.8mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Plaque Psoriasis (adult), 80mg/0.8mL",Amjevita 80mg/0.8mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 10mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 20mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 20mg/0.4mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 40mg/0.4mL",Amjevita 40mg/0.4mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 40mg/0.8mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Polyarticular Juvenile Idiopathic Arthritis (PJIA), 80mg/0.8mL",Amjevita 80mg/0.8mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Psoriatic Arthritis (adult), 10mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Psoriatic Arthritis (adult), 20mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Psoriatic Arthritis (adult), 20mg/0.4mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Psoriatic Arthritis (adult), 40mg/0.4mL",Amjevita 40mg/0.4mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Psoriatic Arthritis (adult), 40mg/0.8mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Psoriatic Arthritis (adult), 80mg/0.8mL",Amjevita 80mg/0.8mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Rheumatoid Arthritis, 10mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Rheumatoid Arthritis, 20mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Rheumatoid Arthritis, 20mg/0.4mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Rheumatoid Arthritis, 40mg/0.4mL",Amjevita 40mg/0.4mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Rheumatoid Arthritis, 40mg/0.8mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Rheumatoid Arthritis, 80mg/0.8mL",Amjevita 80mg/0.8mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Ulcerative Colitis (adult), 10mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Ulcerative Colitis (adult), 20mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Ulcerative Colitis (adult), 20mg/0.4mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Ulcerative Colitis (adult), 40mg/0.4mL",Amjevita 40mg/0.4mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Ulcerative Colitis (adult), 40mg/0.8mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Ulcerative Colitis (adult), 80mg/0.8mL",Amjevita 80mg/0.8mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Uveitis (adult), 10mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Uveitis (adult), 20mg/0.2mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Uveitis (adult), 20mg/0.4mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Uveitis (adult), 40mg/0.4mL",Amjevita 40mg/0.4mL
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Uveitis (adult), 40mg/0.8mL",Amjevita
-"ANTI-INFLAMMATORIES, NON-NSAID","Amjevita Uveitis (adult), 80mg/0.8mL",Amjevita 80mg/0.8mL
 CALCIUM CHANNEL BLOCKERS--Amlodipines,Amlodipine tablet,Amlodipine Besylate
 Muscle Relaxants,Amrix,AMRIX
 CONTRACEPTIVES - PATCHES/ VAGINAL PRODUCTS,Annovera,Annovera
@@ -210,7 +141,6 @@ Agents For Gaucher Disease,Cerezyme 400 Units,CEREZYME
 GI - MISC.,Cholbam capsule,CHOLBAM
 "ANTI-INFLAMMATORIES, NON-NSAID",Cibinqo Atopic Dermatitis (adult),Cibinqo
 "ANTI-INFLAMMATORIES, NON-NSAID",Cibinqo Atopic Dermatitis (pediatric),Cibinqo
-"ANTI-INFLAMMATORIES, NON-NSAID",Cimzia,CIMZIA
 Vaginal - Antibacterials,Cleocin 2% cream,CLEOCIN	CRE 2% VAG
 Vaginal - Antibacterials,Cleocin ovules / vaginal suppository,CLEOCIN	SUP 100MG
 Vaginal - Antibacterials,Clindamycin 2% Cream,Clindamycin Phosphate Vaginal
@@ -227,7 +157,6 @@ Antiretrovirals - Combinations,Complera,COMPLERA
 STIMULANTS - METHYLPHENIDATE - LONG ACTING,Concerta ER,CONCERTA
 Multiple Sclerosis Agents – Non-Interferons,Copaxone 20 mg,COPAXONE SOSY 20MG/ML
 Multiple Sclerosis Agents – Non-Interferons,Copaxone 40 mg,COPAXONE	INJ 40MG/ML
-"ANTI-INFLAMMATORIES, NON-NSAID",Cosentyx,COSENTYX
 Endocrine Metabolic Agents,Crenessity capsule,Crenessity
 Endocrine Metabolic Agents,Crenessity oral solution,Crenessity
 Gi - Digestive Enzymes,Creon,CREON
@@ -256,12 +185,10 @@ MULTIPLE SCLEROSIS AGENTS,Dimethyl Fumarate,Dimethyl fumarate
 ELECTROLYTES/ NUTRITIONALS,Dojolvi,Dojolvi
 Alzheimer - Cholinomimetics,Donepezil ODT,Donepezil ODT
 Alzheimer - Cholinomimetics,Donepezil tablet,Donepezil Hydrochloride
-Alzheimer - Cholinomimetics,"Donepezil tablet, 23 mg",Donepezil Hydrochloride TABS HCL 23MG
 ANTI-THROMBOCYTOPENICS,Doptelet,Doptelet
 Estrogens - Tabs,Duavee tablet,DUAVEE
 ANTIASTHMATIC - ADRENERGIC COMBOS,Dulera,DULERA
 Antidepressants – SNRI’s,Duloxetine,Duloxetine HCl
-ANTI-IGE & ANTI-INTERLEUKIN ANTIBODIES,Dupixent,Dupixent
 Muscular Dystrophy Agents,Duvyzat oral suspension,Duvyzat
 STIMULANTS,Dyanavel XR oral suspension,Dyanavel XR Suspension
 STIMULANTS,Dyanavel XR tablet,Dyanavel XR Chew Tablets
@@ -281,12 +208,8 @@ Complement Inhibitors,Empaveli,Empaveli
 Antiretrovirals - Rti - Nucleoside/Nucleotide Analogues,Emtriva capsule,EMTRIVA
 Antiretrovirals - Rti - Nucleoside/Nucleotide Analogues,Emtriva oral solution,EMTRIVA
 ACE Inhibitors,Enalapril,Enalapril Maleate
-"ANTI-INFLAMMATORIES, NON-NSAID",Enbrel,ENBREL
 ELECTROLYTES/ NUTRITIONALS,Endari,Endari
-IMMUNOSUPPRESSANTS,Enspryng,Enspryng
 Hepatitis B Only,Entecavir,Entecavir
-"ANTI-INFLAMMATORIES, NON-NSAID",Entyvio,Entyvio Pen Injector
-"ANTI-INFLAMMATORIES, NON-NSAID",Entyvio prefilled pen,Entyvio Pen Injector
 IMMUNOSUPPRESSANTS,Envarsus XR,Envarsus XR
 GLUCOCORTICOIDS - MINERALOCORTICOIDS,Eohilia oral suspension,Eohilia
 HEPATITIS C AGENTS,Epclusa,Epclusa
@@ -316,8 +239,6 @@ OP. ANTIINFLAMMATORY / STEROIDS OPHTH.,Eysuvis ophthalmic suspension,Eysuvis
 Complement Inhibitors,Fabhalta,Fabhalta
 ANTIPSYCHOTICS - ATYPICALS,Fanapt,FANAPT
 Diabetic- Sodium-Glucose Co-Transporter 2 (SGLT2) Inhibitors,Farxiga,FARXIGA
-ANTI-IGE & ANTI-INTERLEUKIN ANTIBODIES,Fasenra auto-injector,Fasenra
-ANTI-IGE & ANTI-INTERLEUKIN ANTIBODIES,Fasenra prefilled syringe,Fasenra
 ANTICONVULSANTS,Felbatol oral suspension,FELBATOL
 ANTICONVULSANTS,Felbatol tablet,FELBATOL
 Contraceptives - Monophasic Combination O/C'S,Femlyv,Femlyv
@@ -425,7 +346,6 @@ ANTINEOPLASTICS - MISC.,Iclusig,ICLUSIG
 "ANTI-INFLAMMATORIES, NON-NSAID",Idacio Uveitis (adult),Idacio
 Antihemophilia Factor IX Agents,Idelvion,Idelvion
 ANTINEOPLASTICS - MISC.,Idhifa,Idhifa
-"ANTI-INFLAMMATORIES, NON-NSAID",Ilaris,Ilaris
 Op. Nsaid'S,Ilevro ophthalmic suspension,ILEVRO
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Imatinib,Imatinib
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Imbruvica,IMBRUVICA
@@ -465,8 +385,6 @@ ANTICONVULSANTS,Keppra oral solution,KEPPRA
 ANTICONVULSANTS,Keppra tablet,KEPPRA
 MINERALOCORTICOID-RECEPTOR ANTAGONISTS,Kerendia,Kerendia
 MULTIPLE SCLEROSIS AGENTS,Kesimpta,Kesimpta
-"ANTI-INFLAMMATORIES, NON-NSAID",Kevzara prefilled pen,Kevzara
-"ANTI-INFLAMMATORIES, NON-NSAID",Kevzara prefilled syringe,Kevzara
 "ANTI-INFLAMMATORIES, NON-NSAID",Kineret,KINERET
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Kisqali,kisqali
 Amino Glycosides,Kitabis Pak,KITABIS PAK
@@ -482,7 +400,6 @@ Phenylketonuria,Kuvan tablet,KUVAN
 ANTICONVULSANTS,Lamictal ODT,LAMICTAL
 ANTICONVULSANTS,Lamictal tablet,LAMICTAL
 ANTICONVULSANTS,Lamotrigine,Lamotrigine
-ANTICONVULSANTS,"Lamotrigine tablet, ER",Lamotrigine Tablet ER 24HR
 GI - ULCER ANTI-INFECTIVE,Lansoprazole / Amoxicillin / Clarithromycin,Amoxicillin-Clarithromycin w/ Lansoprazole
 GI - PROTON PUMP INHIBITOR,Lansoprazole DR capsule,lansoprazole caps
 GI - PROTON PUMP INHIBITOR,Lansoprazole ODT,Lansoprazole odt
@@ -532,7 +449,6 @@ BETA BLOCKERS - CARDIO SELECTIVE,Metoprolol Succinate ER tablet,Metoprolol Succi
 Vaginal - Antibacterials,Metronidazole 0.75% Gel,Metronidazole Vaginal
 OP. MISC,Miebo,Miebo
 Agents For Gaucher Disease,Miglustat capsule,Miglustat
-MIGRAINE - ERGOTAMINE DERIVATIVES,Migranal,MIGRANAL
 NEUROLOGICS - MISC.,Miplyffa capsule,Miplyffa
 ACE Inhibitors,Moexipril,Moexipril HCl
 ANTICONVULSANTS,Motpoly XR,Motpoly XR
@@ -577,7 +493,6 @@ DIABETIC - INSULIN,Novolog cartridge,NOVOLOG
 Antihemophilia Factor VII Agents,Novoseven RT,NOVOSEVEN
 ANTI-THROMBOCYTOPENICS,Nplate,NPLATE
 Antineoplastics - Antiandrogens,Nubeqa,Nubeqa
-ANTI-IGE & ANTI-INTERLEUKIN ANTIBODIES,Nucala,Nucala Auto-Injector
 ANTIPSYCHOTICS - ATYPICALS,Nuplazid,Nuplazid
 CGRP INHIBITORS,Nurtec ODT Acute Treatment,Nurtec
 CGRP INHIBITORS,Nurtec ODT Migraine Prophylaxis,Nurtec
@@ -596,7 +511,6 @@ ANTIPSYCHOTICS - ATYPICALS,Olanzapine ODT,olanzapine tablet disperse
 ANTIPSYCHOTICS - ATYPICALS,Olanzapine tablet,olanzapine
 ARB'S,Olmesartan,Olmesartan
 UREA CYCLE DISORDER - AGENTS,Olpruva,Olpruva
-"ANTI-INFLAMMATORIES, NON-NSAID",Olumiant,Olumiant
 GI - PROTON PUMP INHIBITOR,Omeprazole capsule,Omeprazole
 GI - PROTON PUMP INHIBITOR,Omeprazole tablet,Omeprazole
 GROWTH HORMONE,Omnitrope,OMNITROPE
@@ -607,11 +521,8 @@ ANTINEOPLASTICS - ANTIMETABOLITES,Onureg,Onureg
 Pulmonary Anti-Hypertensives-Endothelin Receptor Antagonist,Opsumit,OPSUMIT
 PULMONARY ANTI-HYPERTENSIVES,Opsynvi tablet,Opsynvi
 NARCOTIC - ANTAGONISTS,Opvee (Nalmefene),Opvee
-Atopic Dermatitis,"Opzelura cream, Atopic Dermatitis",Opzelura
 Atopic Dermatitis,"Opzelura cream, Nonsegmental Vitiligo",Opzelura
 Allergenic Extracts,Oralair,ORALAIR
-"ANTI-INFLAMMATORIES, NON-NSAID",Orencia prefilled syringe,ORENCIA
-"ANTI-INFLAMMATORIES, NON-NSAID",Orencia vial,ORENCIA
 PULMONARY ANTI-HYPERTENSIVES,Orenitram ER,ORENITRAM
 Hereditary Tyrosinemia Type 1 (HT-1) Treatment - Agents,Orfadin,ORFADIN
 Hereditary Tyrosinemia Type 1 (HT-1) Treatment - Agents,Orfadin 20 mg,Orfadin 20mg
@@ -620,15 +531,12 @@ Endometriosis Agents,Orilissa,Orilissa
 Hereditary Angioedema Agents,Orladeyo,Orladeyo
 Muscle Relaxants,Orphenadrine ER,orphenadrine citrate er tab
 Influenza Agents,Oseltamivir,Oseltamivir
-"ANTI-INFLAMMATORIES, NON-NSAID",Otezla,OTEZLA
 Diabetic- GLP-1 Receptor Agonists,Ozempic,Ozempic
 ANTIPSYCHOTICS - ATYPICALS,Paliperidone ER,paliperidone er
 Phenylketonuria,Palynziq prefilled syringe,Palynziq
 GI - PROTON PUMP INHIBITOR,Pantoprazole DR packet for oral suspension,Pantoprazole oral packet
 GI - PROTON PUMP INHIBITOR,Pantoprazole tablet,Pantoprazole Sodium
 Antidepressants - Selected SSRI's,"Paroxetine 7.5 mg, IR capsule",Paroxetine HCl
-COVID-19 AGENTS,"Paxlovid tablet therapy pack, 150 mg / 100 mg",Paxlovid
-COVID-19 AGENTS,"Paxlovid tablet therapy pack, 300 mg / 100 mg",Paxlovid
 ACE Inhibitors,Perindopril,Perindopril Erbumine
 ANTIPSYCHOTICS - ATYPICALS,Perseris,Perseris
 UREA CYCLE DISORDER - AGENTS,Pheburane,Pheburane Pellet
@@ -676,7 +584,6 @@ UREA CYCLE DISORDER - AGENTS,Ravicti,RAVICTI
 Multiple Sclerosis Agents – Interferons,Rebif (Interferon Beta-1a) prefilled syringe,REBIF
 Antihemophilia Factor IX Agents,Rebinyn,Rebinyn
 GRANULOCYTE CSF,Releuko,Releuko
-MIGRAINE - SELECTIVE SEROTONIN AGONISTS (5HT)--Tabs,Relpax,RELPAX
 PHOSPHATE BINDERS,Renagel,Renagel
 PHOSPHATE BINDERS,Renvela,RENVELA
 ANTIHYPERLIPIDEMICS,Repatha,Repatha
@@ -693,7 +600,6 @@ MIGRAINE - SELECTIVE SEROTONIN AGONISTS (5HT)--Tabs,Reyvow,Reyvow
 Endocrine Metabolic Agents,Rezdiffra,Rezdiffra
 ANTINEOPLASTICS - MISC.,Rezlidhia,Rezlidhia
 IMMUNOSUPPRESSANTS,Rezurock,Rezurock
-"ANTI-INFLAMMATORIES, NON-NSAID",Rinvoq,Rinvoq
 ANTIPSYCHOTICS - ATYPICALS,Risperdal Consta,RISPERDAL CONSTA
 ANTIPSYCHOTICS - ATYPICALS,Risperdal oral solution,RISPERDAL
 ANTIPSYCHOTICS - ATYPICALS,Risperdal tablet,RISPERDAL
@@ -726,13 +632,8 @@ Diabetic- SGLT2 Inhibitor Combinations,Segluromet,Segluromet
 "ANTI-INFLAMMATORIES, NON-NSAID","Selarsdi Plaque Psoriasis (adult), subcutaneous vial",Selarsdi
 "ANTI-INFLAMMATORIES, NON-NSAID","Selarsdi Plaque Psoriasis (pediatric), prefilled syringe",Selarsdi
 "ANTI-INFLAMMATORIES, NON-NSAID","Selarsdi Plaque Psoriasis (pediatric), subcutaneous vial",Selarsdi
-"ANTI-INFLAMMATORIES, NON-NSAID","Selarsdi Psoriatic Arthritis (adult), prefilled syringe",Selarsdi
 "ANTI-INFLAMMATORIES, NON-NSAID","Selarsdi Psoriatic Arthritis (adult), subcutaneous vial",Selarsdi
-"ANTI-INFLAMMATORIES, NON-NSAID","Selarsdi Psoriatic Arthritis (pediatric), prefilled syringe",Selarsdi
 "ANTI-INFLAMMATORIES, NON-NSAID","Selarsdi Psoriatic Arthritis (pediatric), subcutaneous vial",Selarsdi
-"ANTI-INFLAMMATORIES, NON-NSAID","Selarsdi Ulcerative Colitis (adult), intravenous vial",Selarsdi
-"ANTI-INFLAMMATORIES, NON-NSAID","Selarsdi Ulcerative Colitis (adult), prefilled syringe",Selarsdi
-"ANTI-INFLAMMATORIES, NON-NSAID","Selarsdi Ulcerative Colitis (adult), subcutaneous vial",Selarsdi
 ANTIRETROVIRALS - ENTRY INHIBITORS,Selzentry,SELZENTRY
 DIABETIC - INSULIN,Semglee,Semglee
 ANTIPSYCHOTICS - ATYPICALS,Seroquel,SEROQUEL
@@ -754,9 +655,7 @@ PULMONARY ANTI-HYPERTENSIVES,Sildenafil oral suspension,Sildenafil oral suspensi
 "ANTI-INFLAMMATORIES, NON-NSAID",Simlandi Rheumatoid Arthritis,Simlandi
 "ANTI-INFLAMMATORIES, NON-NSAID",Simlandi Ulcerative Colitis (adult),Simlandi
 "ANTI-INFLAMMATORIES, NON-NSAID",Simlandi Uveitis (adult),Simlandi
-"ANTI-INFLAMMATORIES, NON-NSAID",Simponi,SIMPONI
 Central Nervous System Agents,Skyclarys,Skyclarys
-"ANTI-INFLAMMATORIES, NON-NSAID",Skyrizi,Skyrizi
 GROWTH HORMONE,Skytrofa,Skytrofa
 Contraceptives - Progestin Only,Slynd,Slynd
 UREA CYCLE DISORDER - AGENTS,Sodium Phenylbutyrate powder,Sodium phenylbutyrate
@@ -769,14 +668,12 @@ Diabetic Insulin Combinations,Soliqua,Soliqua
 ANTIBIOTICS - MISC.,Solosec,Solosec
 Muscle Relaxants,Soma,SOMA
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Sorafenib,Sorafenib
-ANTI-PSORIATICS - NON-BIOLOGICALS,Sotyktu tablet,Sotyktu
 HEPATITIS C AGENTS,Sovaldi,SOVALDI
 Topical - Scabicides And Pediculicides,Spinosad topical suspension,Spinosad
 ANTIASTHMATIC - ANTI-CHOLINERGICS,Spiriva Handihaler inhalation capsule,SPIRIVA HANDIHALER
 ANTIASTHMATIC - ANTI-CHOLINERGICS,Spiriva Respimat inhalation aerosol solution,SPIRIVA RESPIMAT
 Diabetic- Sodium-Glucose Co-Transporter 2 (SGLT2) Inhibitors,Steglatro,Steglatro
 Diabetic- SGLT2 Inhibitor Combinations,Steglujan,Steglujan
-"ANTI-INFLAMMATORIES, NON-NSAID",Stelara,STELARA
 GRANULOCYTE CSF,Stimufend prefilled syringe,Stimufend
 ANTIASTHMATIC - ADRENERGIC COMBOS,Stiolto Respimat,Stiolto respimat
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Stivarga,STIVARGA
@@ -816,10 +713,8 @@ ARB'S,Telmisartan,Telmisartan
 Multiple Sclerosis Agents – Non-Interferons,Teriflunomide,Teriflunomide
 OSTEOPOROSIS,Teriparatide,Teriparatide
 NEUROLOGICS - MISC.,Tetrabenazine,Tetrabenazine
-ANTIASTHMATIC - ANTIINFLAMMATORY AGENTS,Tezspire,Tezspire
 ANTINEOPLASTICS - MISC.,Tibsovo,Tibsovo
 Antiretrovirals - Integrase Inhibitors,Tivicay,TIVICAY
-Amino Glycosides,Tobi,TOBI
 Amino Glycosides,Tobi Podhaler,TOBI PODHALER
 OP. ANTIINFLAMMATORY / STEROIDS OPHTH.,Tobradex ST ophthalmic suspension,TOBRADEX ST
 Op. Antibiotics,Tobramycin,Tobramycin (Ophth)
@@ -885,7 +780,6 @@ ANTICONVULSANTS,Vimpat oral solution,Vimpat oral solution
 Antiretrovirals - Protease Inhibitors,Viracept,VIRACEPT
 Antiretrovirals - Rti - Non - Nucleoside Analogues,Viramune XR,VIRAMUNE XR
 Antiretrovirals - Rti - Nucleoside/Nucleotide Analogues,Viread 300 mg,Viread 300mg tablets
-Antiretrovirals - Rti - Nucleoside/Nucleotide Analogues,"Viread powder, 150 mg, 200 mg, 250 mg",VIREAD
 ANTINEOPLASTICS - MISC.,Vitrakvi capsule,Vitrakvi
 ANTINEOPLASTICS - MISC.,Vitrakvi oral solution,Vitrakvi
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Vizimpro,Vizimpro
@@ -917,7 +811,6 @@ ANTICOAGULANTS,Xarelto oral suspension,Xarelto Susp
 ANTICOAGULANTS,Xarelto starter pack,XARELTO
 ANTICONVULSANTS,Xcopri,Xcopri
 OP. MISC,Xdemvy,Xdemvy
-"ANTI-INFLAMMATORIES, NON-NSAID",Xeljanz,XELJANZ
 NEUROLOGICS - MISC.,Xenazine,Xenazine
 Diabetic- SGLT2 Inhibitor Combinations,Xigduo XR,XIGDUO XR
 OP. MISC,Xiidra ophthalmic solution,Xiidra
@@ -929,19 +822,10 @@ Diabetic Insulin Combinations,Xultophy,Xultophy
 Antihemophilia Factor VIII Agents,Xyntha,Xyntha
 ANTI-CATAPLECTIC AGENTS,Xyrem,XYREM
 ANTI-CATAPLECTIC AGENTS,Xywav,Xywav
-"ANTI-INFLAMMATORIES, NON-NSAID","Yesintek intravenous vial, Crohn’s Disease (adult)",Yesintek
 "ANTI-INFLAMMATORIES, NON-NSAID","Yesintek intravenous vial, Ulcerative Colitis (adult)",Yesintek
-"ANTI-INFLAMMATORIES, NON-NSAID","Yesintek prefilled syringe, Crohn’s Disease (adult)",Yesintek
-"ANTI-INFLAMMATORIES, NON-NSAID","Yesintek prefilled syringe, Plaque Psoriasis (adult)",Yesintek
-"ANTI-INFLAMMATORIES, NON-NSAID","Yesintek prefilled syringe, Plaque Psoriasis (pediatric)",Yesintek
 "ANTI-INFLAMMATORIES, NON-NSAID","Yesintek prefilled syringe, Psoriatic Arthritis (adult)",Yesintek
 "ANTI-INFLAMMATORIES, NON-NSAID","Yesintek prefilled syringe, Psoriatic Arthritis (pediatric)",Yesintek
 "ANTI-INFLAMMATORIES, NON-NSAID","Yesintek prefilled syringe, Ulcerative Colitis (adult)",Yesintek
-"ANTI-INFLAMMATORIES, NON-NSAID","Yesintek subcutaneous vial, Crohn’s Disease (adult)",Yesintek
-"ANTI-INFLAMMATORIES, NON-NSAID","Yesintek subcutaneous vial, Plaque Psoriasis (adult)",Yesintek
-"ANTI-INFLAMMATORIES, NON-NSAID","Yesintek subcutaneous vial, Plaque Psoriasis (pediatric)",Yesintek
-"ANTI-INFLAMMATORIES, NON-NSAID","Yesintek subcutaneous vial, Psoriatic Arthritis (adult)",Yesintek
-"ANTI-INFLAMMATORIES, NON-NSAID","Yesintek subcutaneous vial, Psoriatic Arthritis (pediatric)",Yesintek
 "ANTI-INFLAMMATORIES, NON-NSAID","Yesintek subcutaneous vial, Ulcerative Colitis (adult)",Yesintek
 Antineoplastics - Androgen Biosynthesis Inhibitor.,Yonsa tablet,Yonsa
 Hyperparathyroid Treatment - Vitamin D Analogs,Yorvipath,Yorvipath
@@ -985,8 +869,6 @@ Progeria Treatments,Zokinvy,Zokinvy
 SEDATIVE/HYPNOTICS - Non-Benzodiazepines,Zolpidem CR,Zolpidem Tartrate Tablet ER
 SEDATIVE/HYPNOTICS - Non-Benzodiazepines,Zolpidem capsule,Zolpidem Cap
 SEDATIVE/HYPNOTICS - Non-Benzodiazepines,Zolpidem tablet,Zolpidem Tartrate tabs
-ANTI-PSORIATICS - NON-BIOLOGICALS,"Zoryve cream, 0.15%, Atopic Dermatitis",Zoryve
-ANTI-PSORIATICS - NON-BIOLOGICALS,"Zoryve cream, 0.3%, Plaque Psoriasis",Zoryve
 ANTICONVULSANTS,Ztalmy,Ztalmy
 ANTIDEPRESSANTS- MISC,Zurzuvae,Zurzuvae
 ANTINEOPLASTICS - PROTEIN-TYROSINE KINASE INHIBITORS,Zydelig,ZYDELIG
