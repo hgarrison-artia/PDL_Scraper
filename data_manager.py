@@ -26,14 +26,17 @@ class DataManager:
             # Filter for Cytokine and CAM Antagonists or Immunomodulators
             filtered_drugs = self.capsule_df[
                 (self.capsule_df['Class'] == "Cytokine and CAM Antagonists") |
-                (self.capsule_df['Class'].str.contains('Immunomodulators', case=False, na=False))
+                (self.capsule_df['Class'].str.contains('Immunomodulator', case=False, na=False))
             ]['Drugs']
         else:  # Clinical
             # Filter for drugs NOT in Cytokine and CAM Antagonists or Immunomodulators
             filtered_drugs = self.capsule_df[
                 ~((self.capsule_df['Class'] == "Cytokine and CAM Antagonists") |
-                  (self.capsule_df['Class'].str.contains('Immunomodulators', case=False, na=False)))
+                  (self.capsule_df['Class'].str.contains('Immunomodulator', case=False, na=False)))
             ]['Drugs']
+
+        # Ensure we only process each drug once even if duplicates exist in drugs.csv
+        filtered_drugs = filtered_drugs.drop_duplicates()
         
         print(f"Processing {self.process_type} drugs for {self.state}. Found {len(filtered_drugs)} drugs to process.")
         

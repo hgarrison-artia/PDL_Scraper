@@ -99,7 +99,6 @@ AUTONOMIC AND CNS MEDICATIONS,Caplyta,CAPLYTA,Preferred
 IMMUNOSUPPRESSANT DRUGS,Caprelsa,CAPRELSA,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Captopril,captopril generic,Preferred
 ANTIINFECTIVES,Cayston,CAYSTON,Preferred
-OPHTHALMIC MEDICATIONS,Cequa,CEQUA,Non-Preferred
 ENDOCRINE MEDICATIONS,Cerdelga,CERDELGA,Preferred
 ENDOCRINE MEDICATIONS,Cerezyme 400 Units,CEREZYME,Preferred
 GASTROINTESTINAL MEDICATIONS,Chenodal tablet,CHENODAL,Non-Preferred
@@ -126,7 +125,6 @@ ENDOCRINE MEDICATIONS,Crenessity oral solution,CRENESSITY,Preferred
 ENDOCRINE MEDICATIONS,Crysvita Tumor Induced Osteomalacia  (TIO),CRYSVITA,Non-Preferred
 ENDOCRINE MEDICATIONS,Crysvita X-Linked Hypophosphatemia (XLH),CRYSVITA,Non-Preferred
 IMMUNOLOGICALS,Cuvitru,CUVITRU,Non-Preferred
-IMMUNOSUPPRESSANT DRUGS,Cyclosporine ophthalmic emulsion,cyclosporine generic,Preferred
 ANTIINFECTIVES,Descovy,DESCOVY,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Diacomit capsule,DIACOMIT,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Diacomit packet for oral suspension,DIACOMIT,Non-Preferred
@@ -182,7 +180,6 @@ AUTONOMIC AND CNS MEDICATIONS,Evrysdi,EVRYSDI,Preferred
 CARDIOVASCULAR MEDICATIONS,Exforge,EXFORGE HCT,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Exforge HCT,EXFORGE HCT,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Extavia,EXTAVIA,Non-Preferred
-OPHTHALMIC MEDICATIONS,Eysuvis ophthalmic suspension,EYSUVIS,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Ezallor Sprinkle sprinkle capsule,EZALLOR SPRINKLE,Non-Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),FABHALTA,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Fanapt,FANAPT,Preferred
@@ -334,7 +331,6 @@ AUTONOMIC AND CNS MEDICATIONS,Memantine oral solution,memantine soln. generic,No
 AUTONOMIC AND CNS MEDICATIONS,Memantine tablet,"memantine tabs, titration pak generic",Preferred
 MUSCULOSKELETAL MEDICATIONS,Metaxalone,metaxalone generic,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Metoprolol Succinate ER tablet,metoprolol succinate ER generic,Preferred
-OPHTHALMIC MEDICATIONS,Miebo,MIEBO,Non-Preferred
 ENDOCRINE MEDICATIONS,Miglustat capsule,miglustat (Patriot generic only),Preferred
 AUTONOMIC AND CNS MEDICATIONS,Miplyffa capsule,MIPLYFFA,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Moexipril,moexipril generic,Non-Preferred
@@ -402,8 +398,6 @@ GASTROINTESTINAL MEDICATIONS,Omeclamox-Pak,OMECLAMOX-PAK,Non-Preferred
 GASTROINTESTINAL MEDICATIONS,Omeprazole capsule,omeprazole generic,Preferred
 GASTROINTESTINAL MEDICATIONS,Omeprazole tablet,omeprazole generic,Preferred
 DIABETIC SUPPLIES,Omnipod 5,"OMNIPOD DASH, -5 (covered 2 - 21 yrs old)",Preferred
-DIABETIC SUPPLIES,Omnipod 5,"OMNIPOD DASH, -5 (covered 2 - 21 yrs old)",Preferred
-DIABETIC SUPPLIES,Omnipod Dash,"OMNIPOD DASH, -5 (covered 2 - 21 yrs old)",Preferred
 DIABETIC SUPPLIES,Omnipod Dash,"OMNIPOD DASH, -5 (covered 2 - 21 yrs old)",Preferred
 IMMUNOLOGICALS,Omnitrope,OMNITROPE,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Onureg,ONUREG,Preferred
@@ -471,8 +465,6 @@ NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Recombinate,RECOMBINATE,Non-Preferred
 IMMUNOLOGICALS,Releuko,RELEUKO,Non-Preferred
 MUSCULOSKELETAL MEDICATIONS,Relyvrio,RELYVRIO,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Repatha,REPATHA,Non-Preferred
-OPHTHALMIC MEDICATIONS,Restasis MultiDose,RESTASIS MULTIDOSE,Non-Preferred
-OPHTHALMIC MEDICATIONS,Restasis single dose,RESTASIS single dose vials,Preferred
 IMMUNOSUPPRESSANT DRUGS,Retevmo,RETEVMO,Preferred
 IMMUNOSUPPRESSANT DRUGS,Revlimid,REVLIMID,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Rexulti Adjunct Treatment of Major Depressive Disorder,REXULTI,Preferred
@@ -597,7 +589,6 @@ OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Twirla,TWIRLA,Non-Preferred
 OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Tyblume,TYBLUME,Non-Preferred
 ANTIINFECTIVES,Tybost,TYBOST,Preferred
 IMMUNOSUPPRESSANT DRUGS,Tykerb,TYKERB,Preferred
-OPHTHALMIC MEDICATIONS,Tyrvaya nasal solution,TYRVAYA,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Tyvaso DPI,"TYVASO, -DPI",Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Tyvaso inhalation solution,"TYVASO, -DPI",Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Ubrelvy,UBRELVY,Preferred
@@ -617,10 +608,8 @@ IMMUNOSUPPRESSANT DRUGS,Venclexta,VENCLEXTA,Preferred
 CARDIOVASCULAR MEDICATIONS,Ventavis,VENTAVIS,Preferred
 RESPIRATORY MEDICATIONS,Ventolin HFA,VENTOLIN HFA,Preferred
 OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Veozah tablet,VEOZAH,Non-Preferred
-OPHTHALMIC MEDICATIONS,Verkazia,VERKAZIA,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Versacloz,VERSACLOZ SUSPENSION,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Verzenio,VERZENIO,Preferred
-OPHTHALMIC MEDICATIONS,Vevye ophthalmic solution,VEVYE,Non-Preferred
 GASTROINTESTINAL MEDICATIONS,Viberzi,VIBERZI,Non-Preferred
 ENDOCRINE MEDICATIONS,Victoza,VICTOZA,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Vigafyde oral solution,VIGAFYDE,Non-Preferred
@@ -676,7 +665,6 @@ AUTONOMIC AND CNS MEDICATIONS,Xcopri,"XCOPRI TABS, PAK",Preferred
 OPHTHALMIC MEDICATIONS,Xdemvy,XDEMVY,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,"Xenical Adjunct Therapy for Hypercholesterolemia / Hyperlipidemia, capsule",XENICAL (covered 12 - 17 yrs old),Preferred
 ENDOCRINE MEDICATIONS,Xigduo XR,XIGDUO XR,Preferred
-OPHTHALMIC MEDICATIONS,Xiidra ophthalmic solution,XIIDRA,Preferred
 ANTIINFECTIVES,Xofluza,XOFLUZA,Non-Preferred
 RESPIRATORY MEDICATIONS,Xopenex HFA,XOPENEX HFA,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Xtandi capsule,XTANDI CAPS,Preferred
