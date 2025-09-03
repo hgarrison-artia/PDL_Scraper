@@ -282,7 +282,7 @@ AL,Eliquis,Anticoagulants
 AL,Elitek,Antihyperuricemics
 AL,Eloctate,Hemophilia Treatment
 AL,Emcyt,Oncology Oral Prostate
-AL,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+AL,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 AL,Empliciti,Oncology IV
 AL,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 AL,Emtriva capsule,HIV AIDS
@@ -315,7 +315,7 @@ AL,Exelon,Alzheimers Agents
 AL,Exkivity,Oncology Oral Lung
 AL,Exondys 51,Duchenne Muscular Dystrophy
 AL,Eylea,Macular Degeneration Agents
-AL,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+AL,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 AL,Fabrazyme,Enzyme Replacement Fabry Disease
 AL,Farxiga,Hypoglycemics SGLT2
 AL,Fazaclo,Antipsychotics
@@ -750,7 +750,7 @@ AL,Ziprasidone,Antipsychotics
 AL,Zokinvy,Progeria Treatments
 AL,Zolgensma,Spinal Muscular Atrophy
 AL,Zolpidem,Sedative Hypnotics
-AL,Zolpidem CR,Sedative Hypnotics
+AL,Zolpidem ER,Sedative Hypnotics
 AL,Zonisade,Anticonvulsants
 AL,Zontivity,Platelet Aggregation Inhibitors
 AL,Ztalmy,Anticonvulsants
@@ -1193,7 +1193,7 @@ AL,Talicia,H Pylori Treatment
 AL,Tzield,Immunomodulators Type 1 Diabetes
 AL,Fruzaqla,Oncology Oral Other
 AL,Dyanavel XR,Stimulants and Related Agents
-AL,Quillivant XR,Stimulants and Related Agents
+AL,Quillivant XR ER oral suspension,Stimulants and Related Agents
 AL,Quillichew XR,Stimulants and Related Agents
 AL,Xarelto,Anticoagulants
 AL,Roctavian,Hemophilia Treatment
@@ -1485,6 +1485,18 @@ AL,Ohtuvayre inhalation suspension,COPD Agents
 AL,Voranigo tablet,Oncology Oral Other
 AL,Zevaskyn topical cellular sheets,Gene Therapies
 AL,Vanrafia tablet,IgA Nephropathy (IgAN)
+AL,Lamzede IV solution,Enzyme Replacement Therapy
+AL,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+AL,Dupixent Chronic Spontaneous Urticaria (CSU),Immunomodulators Atopic Dermatitis
+AL,Nucala Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Asthma
+AL,Dupixent Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Atopic Dermatitis
+AL,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
+AL,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+AL,Bimzelx Hidradenitis Suppurativa,Cytokine and CAM Antagonists
+AL,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+AL,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+AL,Rinvoq Giant Cell Arteritis,Cytokine and CAM Antagonists
+AL,Clenpiq,Bowel Prep Agents
 AK,Aimovig,Antimigraine Agents Other
 AK,Ajovy,Antimigraine Agents Other
 AK,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -1696,7 +1708,7 @@ AK,Auryxia,Phosphate Binders
 AK,Auvelity,Antidepressants Other
 AK,Azilsartan,Angiotensin Modulators
 AK,Baclofen oral solution,Skeletal Muscle Relaxants
-AK,Baclofen tablet,Skeletal Muscle Relaxants
+AK,"Baclofen 10 mg, 15 mg, 20 mg, 5 mg, tablet",Skeletal Muscle Relaxants
 AK,Balversa,Oncology Oral Other
 AK,Baraclude,Hepatitis B Agents
 AK,Basaglar Kwikpen,Hypoglycemics Insulin and Related Agents
@@ -1775,7 +1787,7 @@ AK,Eliquis,Anticoagulants
 AK,Elitek,Antihyperuricemics
 AK,Eloctate,Hemophilia Treatment
 AK,Emcyt,Oncology Oral Prostate
-AK,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+AK,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 AK,Empliciti,Oncology IV
 AK,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 AK,Emtriva capsule,HIV AIDS
@@ -1808,7 +1820,7 @@ AK,Exelon,Alzheimers Agents
 AK,Exkivity,Oncology Oral Lung
 AK,Exondys 51,Duchenne Muscular Dystrophy
 AK,Eylea,Macular Degeneration Agents
-AK,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+AK,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 AK,Fabrazyme,Enzyme Replacement Fabry Disease
 AK,Farxiga,Hypoglycemics SGLT2
 AK,Fazaclo,Antipsychotics
@@ -2043,7 +2055,7 @@ AK,Retevmo,Oncology Oral Lung
 AK,Revatio oral suspension,PAH Agents Oral and Inhaled
 AK,Revatio tablet,PAH Agents Oral and Inhaled
 AK,Revlimid,Oncology Oral Hematologic
-AK,Reyataz,HIV AIDS
+AK,Reyataz powder packet,HIV AIDS
 AK,Rezdiffra,NASH
 AK,Rezurock,Immunosuppressives Oral
 AK,Riabni,Oncology IV
@@ -2241,8 +2253,8 @@ AK,Ziagen,HIV AIDS
 AK,Ziprasidone,Antipsychotics
 AK,Zokinvy,Progeria Treatments
 AK,Zolgensma,Spinal Muscular Atrophy
-AK,Zolpidem,Sedative Hypnotics
-AK,Zolpidem CR,Sedative Hypnotics
+AK,"Zolpidem 10 mg, 5 mg, tablet",Sedative Hypnotics
+AK,Zolpidem ER,Sedative Hypnotics
 AK,Zonisade,Anticonvulsants
 AK,Zontivity,Platelet Aggregation Inhibitors
 AK,Ztalmy,Anticonvulsants
@@ -2351,7 +2363,7 @@ AK,Talicia,H Pylori Treatment
 AK,Tzield,Immunomodulators Type 1 Diabetes
 AK,Fruzaqla,Oncology Oral Other
 AK,Dyanavel XR,Stimulants and Related Agents
-AK,Quillivant XR,Stimulants and Related Agents
+AK,Quillivant XR ER oral suspension,Stimulants and Related Agents
 AK,Quillichew XR,Stimulants and Related Agents
 AK,Botox Cervical dystonia,Botulinum Toxins
 AK,Botox Overactive bladder,Botulinum Toxins
@@ -2962,6 +2974,12 @@ AK,Ohtuvayre inhalation suspension,COPD Agents
 AK,Voranigo tablet,Oncology Oral Other
 AK,Zevaskyn topical cellular sheets,Gene Therapies
 AK,Vanrafia tablet,IgA Nephropathy (IgAN)
+AK,Zolpidem sublingual,Sedative Hypnotics
+AK,"Zolpidem 7.5 mg, capsule",Sedative Hypnotics
+AK,Reyataz capsule,HIV AIDS
+AK,Lamzede IV solution,Enzyme Replacement Therapy
+AK,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+AK,Clenpiq,Bowel Prep Agents
 AZ,Aimovig,Antimigraine Agents Other
 AZ,Ajovy,Antimigraine Agents Other
 AZ,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -3243,7 +3261,7 @@ AZ,Eliquis,Anticoagulants
 AZ,Elitek,Antihyperuricemics
 AZ,Eloctate,Hemophilia Treatment
 AZ,Emcyt,Oncology Oral Prostate
-AZ,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+AZ,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 AZ,Empliciti,Oncology IV
 AZ,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 AZ,Emtriva capsule,HIV AIDS
@@ -3276,7 +3294,7 @@ AZ,Exelon,Alzheimers Agents
 AZ,Exkivity,Oncology Oral Lung
 AZ,Exondys 51,Duchenne Muscular Dystrophy
 AZ,Eylea,Macular Degeneration Agents
-AZ,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+AZ,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 AZ,Fabrazyme,Enzyme Replacement Fabry Disease
 AZ,Farxiga,Hypoglycemics SGLT2
 AZ,Fazaclo,Antipsychotics
@@ -3621,7 +3639,7 @@ AZ,Tudorza Pressair,COPD Agents
 AZ,Twirla,Contraceptives Patches
 AZ,Tyblume,Contraceptives Oral
 AZ,Tybost,HIV AIDS
-AZ,Tysabri,Multiple Sclerosis Agents
+AZ,Tysabri Multiple Sclerosis,Multiple Sclerosis Agents
 AZ,Tyvaso inhalation solution,PAH Agents Oral and Inhaled
 AZ,Tyvaso DPI,PAH Agents Oral and Inhaled
 AZ,Ultomiris,Paroxysmal Nocturnal Hemoglobinuria
@@ -3697,14 +3715,14 @@ AZ,Zavesca,Enzyme Replacement Gauchers Disease
 AZ,Zegerid,Proton Pump Inhibitors
 AZ,Zejula,Oncology Oral Other
 AZ,Zepatier,Hepatitis C Agents
-AZ,Zeposia,Multiple Sclerosis Agents
+AZ,Zeposia Multiple Sclerosis,Multiple Sclerosis Agents
 AZ,Zepzelca,Oncology IV
 AZ,Ziagen,HIV AIDS
 AZ,Ziprasidone,Antipsychotics
 AZ,Zokinvy,Progeria Treatments
 AZ,Zolgensma,Spinal Muscular Atrophy
 AZ,Zolpidem,Sedative Hypnotics
-AZ,Zolpidem CR,Sedative Hypnotics
+AZ,Zolpidem ER,Sedative Hypnotics
 AZ,Zonisade,Anticonvulsants
 AZ,Zontivity,Platelet Aggregation Inhibitors
 AZ,Ztalmy,Anticonvulsants
@@ -3808,7 +3826,7 @@ AZ,Sunosi Obstructive Sleep Apnea,Stimulants and Related Agents
 AZ,Orilissa 150mg,Uterine Disorder Treatments
 AZ,Orilissa 200mg,Uterine Disorder Treatments
 AZ,Quillichew XR,Stimulants and Related Agents
-AZ,Quillivant XR,Stimulants and Related Agents
+AZ,Quillivant XR ER oral suspension,Stimulants and Related Agents
 AZ,Dyanavel XR,Stimulants and Related Agents
 AZ,Fruzaqla,Oncology Oral Other
 AZ,Tzield,Immunomodulators Type 1 Diabetes
@@ -4048,7 +4066,7 @@ AZ,"Taltz prefilled syringe, Psoriatic Arthritis (adult)",Cytokine and CAM Antag
 AZ,"Taltz Ankylosing Spondylitis, prefilled syringe",Cytokine and CAM Antagonists
 AZ,"Taltz Non-Radiographic Axial Spondyloarthritis, prefilled syringe",Cytokine and CAM Antagonists
 AZ,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
-AZ,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
+AZ,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), auto-injector",Immunomodulators Asthma
 AZ,"Tremfya Plaque Psoriasis (adult), prefilled syringe",Cytokine and CAM Antagonists
 AZ,"Tremfya prefilled syringe, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
 AZ,"Tremfya prefilled syringe, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
@@ -4535,6 +4553,11 @@ AZ,Ohtuvayre inhalation suspension,COPD Agents
 AZ,Voranigo tablet,Oncology Oral Other
 AZ,Zevaskyn topical cellular sheets,Gene Therapies
 AZ,Vanrafia tablet,IgA Nephropathy (IgAN)
+AZ,Tysabri Crohn's Disease,Multiple Sclerosis Agents
+AZ,Zeposia Ulcerative Colitis,Multiple Sclerosis Agents
+AZ,Lamzede IV solution,Enzyme Replacement Therapy
+AZ,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+AZ,Clenpiq,Bowel Prep Agents
 AR,Aimovig,Antimigraine Agents Other
 AR,Ajovy,Antimigraine Agents Other
 AR,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -4819,7 +4842,7 @@ AR,Eliquis,Anticoagulants
 AR,Elitek,Antihyperuricemics
 AR,Eloctate,Hemophilia Treatment
 AR,Emcyt,Oncology Oral Prostate
-AR,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+AR,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 AR,Empliciti,Oncology IV
 AR,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 AR,Emtriva capsule,HIV AIDS
@@ -4852,7 +4875,7 @@ AR,Exelon,Alzheimers Agents
 AR,Exkivity,Oncology Oral Lung
 AR,Exondys 51,Duchenne Muscular Dystrophy
 AR,Eylea,Macular Degeneration Agents
-AR,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+AR,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 AR,Fabrazyme,Enzyme Replacement Fabry Disease
 AR,Farxiga,Hypoglycemics SGLT2
 AR,Fazaclo,Antipsychotics
@@ -5289,7 +5312,7 @@ AR,Ziprasidone,Antipsychotics
 AR,Zokinvy,Progeria Treatments
 AR,Zolgensma,Spinal Muscular Atrophy
 AR,Zolpidem,Sedative Hypnotics
-AR,Zolpidem CR,Sedative Hypnotics
+AR,Zolpidem ER,Sedative Hypnotics
 AR,Zonisade,Anticonvulsants
 AR,Zontivity,Platelet Aggregation Inhibitors
 AR,Ztalmy,Anticonvulsants
@@ -5649,16 +5672,16 @@ AR,Olumiant Rheumatoid Arthritis,Cytokine and CAM Antagonists
 AR,"Orencia ClickJect, Rheumatoid Arthritis",Cytokine and CAM Antagonists
 AR,"Orencia prefilled syringe, Rheumatoid Arthritis",Cytokine and CAM Antagonists
 AR,Rinvoq Rheumatoid Arthritis,Cytokine and CAM Antagonists
-AR,Dyanavel XR oral suspension,Stimulants and Related Agents
+AR,Dyanavel XR ER oral suspension,Stimulants and Related Agents
 AR,Simlandi Rheumatoid Arthritis,Cytokine and CAM Antagonists
 AR,"Simponi prefilled syringe, Rheumatoid Arthritis",Cytokine and CAM Antagonists
 AR,"Simponi Aria, Rheumatoid Arthritis",Cytokine and CAM Antagonists
 AR,Xeljanz Rheumatoid Arthritis,Cytokine and CAM Antagonists
 AR,Yuflyma Rheumatoid Arthritis,Cytokine and CAM Antagonists
 AR,Yusimry Rheumatoid Arthritis,Cytokine and CAM Antagonists
-AR,Quillivant XR,Stimulants and Related Agents
+AR,Quillivant XR ER oral suspension,Stimulants and Related Agents
 AR,Quillichew XR,Stimulants and Related Agents
-AR,Dyanavel XR tablet,Stimulants and Related Agents
+AR,Dyanavel XR ER tablet,Stimulants and Related Agents
 AR,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Cytokine and CAM Antagonists
 AR,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Cytokine and CAM Antagonists
 AR,Ilaris Systemic-Onset Juvenile Idiopathic Arthritis (SJIA),Cytokine and CAM Antagonists
@@ -6033,6 +6056,9 @@ AR,Ohtuvayre inhalation suspension,COPD Agents
 AR,Voranigo tablet,Oncology Oral Other
 AR,Zevaskyn topical cellular sheets,Gene Therapies
 AR,Vanrafia tablet,IgA Nephropathy (IgAN)
+AR,Lamzede IV solution,Enzyme Replacement Therapy
+AR,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+AR,Clenpiq,Bowel Prep Agents
 CA,Aimovig,Antimigraine Agents Other
 CA,Ajovy,Antimigraine Agents Other
 CA,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -6316,7 +6342,7 @@ CA,Eliquis,Anticoagulants
 CA,Elitek,Antihyperuricemics
 CA,Eloctate,Hemophilia Treatment
 CA,Emcyt,Oncology Oral Prostate
-CA,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+CA,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 CA,Empliciti,Oncology IV
 CA,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 CA,Emtriva capsule,HIV AIDS
@@ -6349,7 +6375,7 @@ CA,Exelon,Alzheimers Agents
 CA,Exkivity,Oncology Oral Lung
 CA,Exondys 51,Duchenne Muscular Dystrophy
 CA,Eylea,Macular Degeneration Agents
-CA,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+CA,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 CA,Fabrazyme,Enzyme Replacement Fabry Disease
 CA,Farxiga,Hypoglycemics SGLT2
 CA,Fazaclo,Antipsychotics
@@ -6787,7 +6813,7 @@ CA,Ziprasidone,Antipsychotics
 CA,Zokinvy,Progeria Treatments
 CA,Zolgensma,Spinal Muscular Atrophy
 CA,Zolpidem,Sedative Hypnotics
-CA,Zolpidem CR,Sedative Hypnotics
+CA,Zolpidem ER,Sedative Hypnotics
 CA,Zonisade,Anticonvulsants
 CA,Zontivity,Platelet Aggregation Inhibitors
 CA,Ztalmy,Anticonvulsants
@@ -6884,9 +6910,9 @@ CA,Prevpac,H Pylori Treatment
 CA,Pylera,H Pylori Treatment
 CA,Talicia,H Pylori Treatment
 CA,Fruzaqla,Oncology Oral Other
-CA,Dyanavel XR oral suspension,Stimulants and Related Agents
-CA,Dyanavel XR tablet,Stimulants and Related Agents
-CA,Quillivant XR,Stimulants and Related Agents
+CA,Dyanavel XR ER oral suspension,Stimulants and Related Agents
+CA,Dyanavel XR ER tablet,Stimulants and Related Agents
+CA,Quillivant XR ER oral suspension,Stimulants and Related Agents
 CA,Quillichew XR,Stimulants and Related Agents
 CA,Tzield,Immunomodulators Type 1 Diabetes
 CA,Iwilfin,Oncology Oral Other
@@ -7523,6 +7549,9 @@ CA,"Skyrizi Crohn’s Disease (adult), prefilled syringe",Cytokine and CAM Antag
 CA,Voranigo tablet,Oncology Oral Other
 CA,Zevaskyn topical cellular sheets,Gene Therapies
 CA,Vanrafia tablet,IgA Nephropathy (IgAN)
+CA,Lamzede IV solution,Enzyme Replacement Therapy
+CA,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+CA,Clenpiq,Bowel Prep Agents
 CO,Aimovig,Antimigraine Agents Other
 CO,Ajovy,Antimigraine Agents Other
 CO,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -7807,7 +7836,7 @@ CO,Eliquis,Anticoagulants
 CO,Elitek,Antihyperuricemics
 CO,Eloctate,Hemophilia Treatment
 CO,Emcyt,Oncology Oral Prostate
-CO,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+CO,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 CO,Empliciti,Oncology IV
 CO,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 CO,Emtriva capsule,HIV AIDS
@@ -7838,7 +7867,7 @@ CO,Exelon,Alzheimers Agents
 CO,Exkivity,Oncology Oral Lung
 CO,Exondys 51,Duchenne Muscular Dystrophy
 CO,Eylea,Macular Degeneration Agents
-CO,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+CO,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 CO,Fabrazyme,Enzyme Replacement Fabry Disease
 CO,Farxiga,Hypoglycemics SGLT2
 CO,Fazaclo,Antipsychotics
@@ -8264,7 +8293,7 @@ CO,Ziprasidone,Antipsychotics
 CO,Zokinvy,Progeria Treatments
 CO,Zolgensma,Spinal Muscular Atrophy
 CO,Zolpidem,Sedative Hypnotics
-CO,Zolpidem CR,Sedative Hypnotics
+CO,Zolpidem ER,Sedative Hypnotics
 CO,Zonisade,Anticonvulsants
 CO,Zontivity,Platelet Aggregation Inhibitors
 CO,Ztalmy,Anticonvulsants
@@ -8587,16 +8616,16 @@ CO,Hulio Rheumatoid Arthritis,Cytokine and CAM Antagonists
 CO,Hulio Ulcerative Colitis (adult),Cytokine and CAM Antagonists
 CO,Hulio Uveitis (adult),Cytokine and CAM Antagonists
 CO,Litfulo Alopecia Areata,Cytokine and CAM Antagonists
-CO,"Yuflyma Ankylosing Spondylitis, auto-injector",Cytokine and CAM Antagonists
-CO,"Yuflyma auto-injector, Crohn’s Disease (adult)",Cytokine and CAM Antagonists
-CO,"Yuflyma auto-injector, Crohn’s Disease (pediatric)",Cytokine and CAM Antagonists
+CO,Yuflyma Ankylosing Spondylitis,Cytokine and CAM Antagonists
+CO,Yuflyma Crohn’s Disease (adult),Cytokine and CAM Antagonists
+CO,Yuflyma Crohn’s Disease (pediatric),Cytokine and CAM Antagonists
 CO,"Yuflyma auto-injector, Hidradenitis Suppurativa",Cytokine and CAM Antagonists
 CO,"Yuflyma auto-injector, Plaque Psoriasis (adult)",Cytokine and CAM Antagonists
 CO,"Yuflyma auto-injector, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
 CO,"Yuflyma auto-injector, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
 CO,"Yuflyma auto-injector, Rheumatoid Arthritis",Cytokine and CAM Antagonists
-CO,"Yuflyma auto-injector, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
-CO,"Yuflyma auto-injector, Uveitis (adult)",Cytokine and CAM Antagonists
+CO,Yuflyma Ulcerative Colitis (adult),Cytokine and CAM Antagonists
+CO,Yuflyma Uveitis (adult),Cytokine and CAM Antagonists
 CO,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
 CO,"Orencia Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Cytokine and CAM Antagonists
 CO,"Orencia ClickJect, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
@@ -8677,7 +8706,7 @@ CO,Tzield,Immunomodulators Type 1 Diabetes
 CO,Fruzaqla,Oncology Oral Other
 CO,Dyanavel XR,Stimulants and Related Agents
 CO,Quillichew XR,Stimulants and Related Agents
-CO,Quillivant XR,Stimulants and Related Agents
+CO,Quillivant XR ER oral suspension,Stimulants and Related Agents
 CO,"Nucala Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
 CO,"Nucala Asthma (Pediatrics 6 years to 11 years of age), prefilled syringe",Immunomodulators Asthma
 CO,"Nucala Chronic Rhinosinusitis with Nasal Polyposis, prefilled syringe",Immunomodulators Asthma
@@ -8689,7 +8718,6 @@ CO,"Nucala Chronic Rhinosinusitis with Nasal Polyposis, vial",Immunomodulators A
 CO,"Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA), vial",Immunomodulators Asthma
 CO,"Nucala Hypereosinophilic Syndrome (HES), vial",Immunomodulators Asthma
 CO,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
-CO,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
 CO,"Xolair Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
 CO,"Xolair Asthma (Pediatrics 6 years to 11 years of age), vial",Immunomodulators Asthma
 CO,"Xolair Chronic Rhinosinusitis with Nasal Polyposis, vial",Immunomodulators Asthma
@@ -9087,6 +9115,9 @@ CO,Ohtuvayre inhalation suspension,COPD Agents
 CO,Voranigo tablet,Oncology Oral Other
 CO,Zevaskyn topical cellular sheets,Gene Therapies
 CO,Vanrafia tablet,IgA Nephropathy (IgAN)
+CO,Lamzede IV solution,Enzyme Replacement Therapy
+CO,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+CO,Clenpiq,Bowel Prep Agents
 CT,Aimovig,Antimigraine Agents Other
 CT,Ajovy,Antimigraine Agents Other
 CT,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -9368,7 +9399,7 @@ CT,Eliquis,Anticoagulants
 CT,Elitek,Antihyperuricemics
 CT,Eloctate,Hemophilia Treatment
 CT,Emcyt,Oncology Oral Prostate
-CT,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+CT,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 CT,Empliciti,Oncology IV
 CT,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 CT,Emtriva capsule,HIV AIDS
@@ -9399,7 +9430,7 @@ CT,Exelon,Alzheimers Agents
 CT,Exkivity,Oncology Oral Lung
 CT,Exondys 51,Duchenne Muscular Dystrophy
 CT,Eylea,Macular Degeneration Agents
-CT,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+CT,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 CT,Fabrazyme,Enzyme Replacement Fabry Disease
 CT,Farxiga,Hypoglycemics SGLT2
 CT,Fazaclo,Antipsychotics
@@ -9820,7 +9851,7 @@ CT,Ziagen,HIV AIDS
 CT,Ziprasidone,Antipsychotics
 CT,Zokinvy,Progeria Treatments
 CT,Zolgensma,Spinal Muscular Atrophy
-CT,Zolpidem CR,Sedative Hypnotics
+CT,Zolpidem ER,Sedative Hypnotics
 CT,Zonisade,Anticonvulsants
 CT,Zontivity,Platelet Aggregation Inhibitors
 CT,Ztalmy,Anticonvulsants
@@ -10584,6 +10615,10 @@ CT,Ohtuvayre inhalation suspension,COPD Agents
 CT,Voranigo tablet,Oncology Oral Other
 CT,Zevaskyn topical cellular sheets,Gene Therapies
 CT,Vanrafia tablet,IgA Nephropathy (IgAN)
+CT,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+CT,Lamzede IV solution,Enzyme Replacement Therapy
+CT,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+CT,Clenpiq,Bowel Prep Agents
 DE,Aimovig,Antimigraine Agents Other
 DE,Ajovy,Antimigraine Agents Other
 DE,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -10861,7 +10896,7 @@ DE,Eliquis,Anticoagulants
 DE,Elitek,Antihyperuricemics
 DE,Eloctate,Hemophilia Treatment
 DE,Emcyt,Oncology Oral Prostate
-DE,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+DE,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 DE,Empliciti,Oncology IV
 DE,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 DE,Emtriva capsule,HIV AIDS
@@ -10894,7 +10929,7 @@ DE,Exelon,Alzheimers Agents
 DE,Exkivity,Oncology Oral Lung
 DE,Exondys 51,Duchenne Muscular Dystrophy
 DE,Eylea,Macular Degeneration Agents
-DE,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+DE,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 DE,Fabrazyme,Enzyme Replacement Fabry Disease
 DE,Farxiga,Hypoglycemics SGLT2
 DE,Fazaclo,Antipsychotics
@@ -11323,7 +11358,7 @@ DE,Ziagen,HIV AIDS
 DE,Ziprasidone,Antipsychotics
 DE,Zokinvy,Progeria Treatments
 DE,Zolgensma,Spinal Muscular Atrophy
-DE,Zolpidem CR,Sedative Hypnotics
+DE,Zolpidem ER,Sedative Hypnotics
 DE,Zonisade,Anticonvulsants
 DE,Zontivity,Platelet Aggregation Inhibitors
 DE,Ztalmy,Anticonvulsants
@@ -11454,10 +11489,10 @@ DE,Prevpac,H Pylori Treatment
 DE,Pylera,H Pylori Treatment
 DE,Talicia,H Pylori Treatment
 DE,Tzield,Immunomodulators Type 1 Diabetes
-DE,Quillivant XR,Stimulants and Related Agents
+DE,Quillivant XR ER oral suspension,Stimulants and Related Agents
 DE,Quillichew XR,Stimulants and Related Agents
-DE,Dyanavel XR tablet,Stimulants and Related Agents
-DE,Dyanavel XR oral suspension,Stimulants and Related Agents
+DE,Dyanavel XR ER tablet,Stimulants and Related Agents
+DE,Dyanavel XR ER oral suspension,Stimulants and Related Agents
 DE,Abrilada Ankylosing Spondylitis,Cytokine and CAM Antagonists
 DE,Abrilada Crohn’s Disease (adult),Cytokine and CAM Antagonists
 DE,Abrilada Crohn's Disease (pediatric),Cytokine and CAM Antagonists
@@ -11851,7 +11886,6 @@ DE,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)",Cytokine and CAM
 DE,"Orencia prefilled syringe, Rheumatoid Arthritis",Cytokine and CAM Antagonists
 DE,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
 DE,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), auto-injector",Immunomodulators Asthma
-DE,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
 DE,"Entyvio Crohn’s Disease (adult), vial",Cytokine and CAM Antagonists
 DE,"Entyvio Ulcerative Colitis (adult), vial",Cytokine and CAM Antagonists
 DE,Tibsovo,Oncology Oral Hematologic
@@ -12138,6 +12172,10 @@ DE,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
 DE,Voranigo tablet,Oncology Oral Other
 DE,Zevaskyn topical cellular sheets,Gene Therapies
 DE,Vanrafia tablet,IgA Nephropathy (IgAN)
+DE,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+DE,Lamzede IV solution,Enzyme Replacement Therapy
+DE,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+DE,Clenpiq,Bowel Prep Agents
 DC,Aimovig,Antimigraine Agents Other
 DC,Ajovy,Antimigraine Agents Other
 DC,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -12423,7 +12461,7 @@ DC,Eliquis,Anticoagulants
 DC,Elitek,Antihyperuricemics
 DC,Eloctate,Hemophilia Treatment
 DC,Emcyt,Oncology Oral Prostate
-DC,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+DC,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 DC,Empliciti,Oncology IV
 DC,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 DC,Emtriva capsule,HIV AIDS
@@ -12456,7 +12494,7 @@ DC,Exelon,Alzheimers Agents
 DC,Exkivity,Oncology Oral Lung
 DC,Exondys 51,Duchenne Muscular Dystrophy
 DC,Eylea,Macular Degeneration Agents
-DC,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+DC,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 DC,Fabrazyme,Enzyme Replacement Fabry Disease
 DC,Farxiga,Hypoglycemics SGLT2
 DC,Fazaclo,Antipsychotics
@@ -12892,7 +12930,7 @@ DC,Ziprasidone,Antipsychotics
 DC,Zokinvy,Progeria Treatments
 DC,Zolgensma,Spinal Muscular Atrophy
 DC,Zolpidem,Sedative Hypnotics
-DC,Zolpidem CR,Sedative Hypnotics
+DC,Zolpidem ER,Sedative Hypnotics
 DC,Zonisade,Anticonvulsants
 DC,Zontivity,Platelet Aggregation Inhibitors
 DC,Ztalmy,Anticonvulsants
@@ -13339,7 +13377,7 @@ DC,Yusimry Rheumatoid Arthritis,Cytokine and CAM Antagonists
 DC,Yusimry Ulcerative Colitis (adult),Cytokine and CAM Antagonists
 DC,Yusimry Uveitis (adult),Cytokine and CAM Antagonists
 DC,Propranolol oral solution,Beta Blockers
-DC,Quillivant XR,Stimulants and Related Agents
+DC,Quillivant XR ER oral suspension,Stimulants and Related Agents
 DC,Quillichew XR,Stimulants and Related Agents
 DC,Dyanavel XR,Stimulants and Related Agents
 DC,Fruzaqla,Oncology Oral Other
@@ -13663,6 +13701,11 @@ DC,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
 DC,Voranigo tablet,Oncology Oral Other
 DC,Zevaskyn topical cellular sheets,Gene Therapies
 DC,Vanrafia tablet,IgA Nephropathy (IgAN)
+DC,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+DC,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+DC,Lamzede IV solution,Enzyme Replacement Therapy
+DC,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+DC,Clenpiq,Bowel Prep Agents
 FL,Aimovig,Antimigraine Agents Other
 FL,Ajovy,Antimigraine Agents Other
 FL,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -13941,7 +13984,7 @@ FL,Eliquis,Anticoagulants
 FL,Elitek,Antihyperuricemics
 FL,Eloctate,Hemophilia Treatment
 FL,Emcyt,Oncology Oral Prostate
-FL,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+FL,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 FL,Empliciti,Oncology IV
 FL,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 FL,Emtriva capsule,HIV AIDS
@@ -13972,7 +14015,7 @@ FL,Exelon,Alzheimers Agents
 FL,Exkivity,Oncology Oral Lung
 FL,Exondys 51,Duchenne Muscular Dystrophy
 FL,Eylea,Macular Degeneration Agents
-FL,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+FL,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 FL,Fabrazyme,Enzyme Replacement Fabry Disease
 FL,Farxiga,Hypoglycemics SGLT2
 FL,Fazaclo,Antipsychotics
@@ -14398,7 +14441,7 @@ FL,Ziprasidone,Antipsychotics
 FL,Zokinvy,Progeria Treatments
 FL,Zolgensma,Spinal Muscular Atrophy
 FL,Zolpidem,Sedative Hypnotics
-FL,Zolpidem CR,Sedative Hypnotics
+FL,Zolpidem ER,Sedative Hypnotics
 FL,Zonisade,Anticonvulsants
 FL,Zontivity,Platelet Aggregation Inhibitors
 FL,Ztalmy,Anticonvulsants
@@ -14924,7 +14967,7 @@ FL,Prevpac,H Pylori Treatment
 FL,Talicia,H Pylori Treatment
 FL,Tzield,Immunomodulators Type 1 Diabetes
 FL,Dyanavel XR,Stimulants and Related Agents
-FL,Quillivant XR,Stimulants and Related Agents
+FL,Quillivant XR ER oral suspension,Stimulants and Related Agents
 FL,Quillichew XR,Stimulants and Related Agents
 FL,Etonogestrel / Ethinyl Estradiol generic NuvaRing,Contraceptives Other
 FL,Almotriptan,Antimigraine Agents Triptans
@@ -15256,6 +15299,9 @@ FL,Ohtuvayre inhalation suspension,COPD Agents
 FL,Voranigo tablet,Oncology Oral Other
 FL,Zevaskyn topical cellular sheets,Gene Therapies
 FL,Vanrafia tablet,IgA Nephropathy (IgAN)
+FL,Lamzede IV solution,Enzyme Replacement Therapy
+FL,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+FL,Clenpiq,Bowel Prep Agents
 GA,Aimovig,Antimigraine Agents Other
 GA,Ajovy,Antimigraine Agents Other
 GA,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -15530,7 +15576,7 @@ GA,Eliquis,Anticoagulants
 GA,Elitek,Antihyperuricemics
 GA,Eloctate,Hemophilia Treatment
 GA,Emcyt,Oncology Oral Prostate
-GA,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+GA,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 GA,Empliciti,Oncology IV
 GA,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 GA,Emtriva capsule,HIV AIDS
@@ -15560,7 +15606,7 @@ GA,Exelon,Alzheimers Agents
 GA,Exkivity,Oncology Oral Lung
 GA,Exondys 51,Duchenne Muscular Dystrophy
 GA,Eylea,Macular Degeneration Agents
-GA,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+GA,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 GA,Fabrazyme,Enzyme Replacement Fabry Disease
 GA,Farxiga,Hypoglycemics SGLT2
 GA,Fazaclo,Antipsychotics
@@ -15970,7 +16016,7 @@ GA,Ziprasidone,Antipsychotics
 GA,Zokinvy,Progeria Treatments
 GA,Zolgensma,Spinal Muscular Atrophy
 GA,Zolpidem,Sedative Hypnotics
-GA,Zolpidem CR,Sedative Hypnotics
+GA,Zolpidem ER,Sedative Hypnotics
 GA,Zonisade,Anticonvulsants
 GA,Zontivity,Platelet Aggregation Inhibitors
 GA,Ztalmy,Anticonvulsants
@@ -16423,7 +16469,7 @@ GA,"Stelara prefilled syringe, Psoriatic Arthritis (pediatric)",Cytokine and CAM
 GA,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",Cytokine and CAM Antagonists
 GA,"Stelara prefilled syringe, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
 GA,"Stelara subcutaneous vial, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
-GA,Quillivant XR,Stimulants and Related Agents
+GA,Quillivant XR ER oral suspension,Stimulants and Related Agents
 GA,Quillichew XR,Stimulants and Related Agents
 GA,Dyanavel XR,Stimulants and Related Agents
 GA,Fruzaqla,Oncology Oral Other
@@ -16511,8 +16557,13 @@ GA,Gavilyte-C,Bowel Prep Agents
 GA,Gavilyte-G,Bowel Prep Agents
 GA,Gavilyte-N,Bowel Prep Agents
 GA,Golytely,Bowel Prep Agents
+GA,Moviprep,Bowel Prep Agents
 GA,Healthylax,Bowel Prep Agents
+GA,Peg 3350,Bowel Prep Agents
+GA,Peg 3350 - Flavored,Bowel Prep Agents
 GA,Sutab,Bowel Prep Agents
+GA,Nutrilyte,Bowel Prep Agents
+GA,Trilyte,Bowel Prep Agents
 GA,Adderall XR ER capsule,Stimulants and Related Agents
 GA,Glatiramer Acetate 20 mg/ml,Multiple Sclerosis Agents
 GA,Valsartan oral solution,Angiotensin Modulators
@@ -16792,6 +16843,8 @@ GA,Ohtuvayre inhalation suspension,COPD Agents
 GA,Voranigo tablet,Oncology Oral Other
 GA,Zevaskyn topical cellular sheets,Gene Therapies
 GA,Vanrafia tablet,IgA Nephropathy (IgAN)
+GA,Lamzede IV solution,Enzyme Replacement Therapy
+GA,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
 HI,Aimovig,Antimigraine Agents Other
 HI,Ajovy,Antimigraine Agents Other
 HI,Nurtec ODT,Antimigraine Agents Acute Treatment
@@ -17092,7 +17145,7 @@ HI,Eliquis,Anticoagulants
 HI,Elitek,Antihyperuricemics
 HI,Eloctate,Hemophilia Treatment
 HI,Emcyt,Oncology Oral Prostate
-HI,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+HI,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 HI,Empliciti,Oncology IV
 HI,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 HI,Emtriva capsule,HIV AIDS
@@ -17125,7 +17178,7 @@ HI,Exelon,Alzheimers Agents
 HI,Exkivity,Oncology Oral Lung
 HI,Exondys 51,Duchenne Muscular Dystrophy
 HI,Eylea,Macular Degeneration Agents
-HI,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+HI,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 HI,Fabrazyme,Enzyme Replacement Fabry Disease
 HI,Farxiga,Hypoglycemics SGLT2
 HI,Fazaclo,Antipsychotics
@@ -17566,7 +17619,7 @@ HI,Ziprasidone,Antipsychotics
 HI,Zokinvy,Progeria Treatments
 HI,Zolgensma,Spinal Muscular Atrophy
 HI,Zolpidem,Sedative Hypnotics
-HI,Zolpidem CR,Sedative Hypnotics
+HI,Zolpidem ER,Sedative Hypnotics
 HI,Zonisade,Anticonvulsants
 HI,Zontivity,Platelet Aggregation Inhibitors
 HI,Ztalmy,Anticonvulsants
@@ -17609,7 +17662,7 @@ HI,Talicia,H Pylori Treatment
 HI,Tzield,Immunomodulators Type 1 Diabetes
 HI,Fruzaqla,Oncology Oral Other
 HI,Dyanavel XR,Stimulants and Related Agents
-HI,Quillivant XR,Stimulants and Related Agents
+HI,Quillivant XR ER oral suspension,Stimulants and Related Agents
 HI,Quillichew XR,Stimulants and Related Agents
 HI,Tibsovo,Oncology Oral Hematologic
 HI,Yorvipath,Hypoparathyroid Agents
@@ -17889,8 +17942,6 @@ HI,Metoprolol Succinate ER,Beta Blockers
 HI,Rezlidhia,Oncology Oral Hematologic
 HI,Vidaza (Azacitidine),Oncology IV
 HI,Nplate,Thrombopoiesis Stimulating Proteins
-HI,Clenpiq,Bowel Prep Agents
-HI,Sutab,Bowel Prep Agents
 HI,Adderall XR ER capsule,Stimulants and Related Agents
 HI,Zynteglo,Beta Thalassemia
 HI,Vyvanse,Stimulants and Related Agents
@@ -17910,14 +17961,14 @@ HI,Vevye,Ophthalmics Antiinflammatory Immunomodulator
 HI,Zerviate (Cetirizine),Ophthalmic Antihistamines
 HI,Levalbuterol Tartrate,Bronchodilators Beta Agonist
 HI,Cobenfy,Antipsychotics
-HI,Chenodal,Bile Salts
+HI,Chenodal tablet,Bile Salts
 HI,Cholbam,Bile Salts
 HI,Miplyffa,Niemann-Pick Disease
 HI,Duvyzat,Duchenne Muscular Dystrophy
 HI,Kuvan,Phenylketonuria
 HI,Vijoice,"Enzyme Inhibitors, Systemic"
 HI,Pyrukynd,Pyruvate Kinase Deficiency
-HI,Elevidys,Duchenne Muscular Dystrophy
+HI,Elevidys intravenous infusion kit,Duchenne Muscular Dystrophy
 HI,Brineura,Batten Disease
 HI,Naglazyme,Mucopolysaccharidosis
 HI,Palynziq,Phenylketonuria
@@ -18217,6 +18268,11 @@ HI,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
 HI,Voranigo tablet,Oncology Oral Other
 HI,Zevaskyn topical cellular sheets,Gene Therapies
 HI,Vanrafia tablet,IgA Nephropathy (IgAN)
+HI,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+HI,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+HI,Lamzede IV solution,Enzyme Replacement Therapy
+HI,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+HI,Clenpiq,Bowel Prep Agents
 ID,Aimovig,Antimigraine Agents Other
 ID,Ajovy,Antimigraine Agents Other
 ID,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -18495,7 +18551,7 @@ ID,Eliquis,Anticoagulants
 ID,Elitek,Antihyperuricemics
 ID,Eloctate,Hemophilia Treatment
 ID,Emcyt,Oncology Oral Prostate
-ID,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+ID,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 ID,Empliciti,Oncology IV
 ID,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 ID,Emtriva capsule,HIV AIDS
@@ -18527,7 +18583,7 @@ ID,Exelon,Alzheimers Agents
 ID,Exkivity,Oncology Oral Lung
 ID,Exondys 51,Duchenne Muscular Dystrophy
 ID,Eylea,Macular Degeneration Agents
-ID,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+ID,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 ID,Fabrazyme,Enzyme Replacement Fabry Disease
 ID,Farxiga,Hypoglycemics SGLT2
 ID,Fazaclo,Antipsychotics
@@ -18962,7 +19018,7 @@ ID,Ziprasidone,Antipsychotics
 ID,Zokinvy,Progeria Treatments
 ID,Zolgensma,Spinal Muscular Atrophy
 ID,Zolpidem,Sedative Hypnotics
-ID,Zolpidem CR,Sedative Hypnotics
+ID,Zolpidem ER,Sedative Hypnotics
 ID,Zonisade,Anticonvulsants
 ID,Zontivity,Platelet Aggregation Inhibitors
 ID,Ztalmy,Anticonvulsants
@@ -19098,9 +19154,8 @@ ID,Pylera,H Pylori Treatment
 ID,Prevpac,H Pylori Treatment
 ID,Tzield,Immunomodulators Type 1 Diabetes
 ID,Dyanavel XR,Stimulants and Related Agents
-ID,Quillivant XR,Stimulants and Related Agents
+ID,Quillivant XR ER oral suspension,Stimulants and Related Agents
 ID,Quillichew XR,Stimulants and Related Agents
-ID,"Epidiolex Dravet Syndrome, Lennox-Gastaut Syndrome, Tuberous Sclerosis Complex (TSC)",Anticonvulsants
 ID,Epidiolex Refractory Epilepsy,Anticonvulsants
 ID,Abrilada Ankylosing Spondylitis,Cytokine and CAM Antagonists
 ID,Abrilada Crohn’s Disease (adult),Cytokine and CAM Antagonists
@@ -19269,7 +19324,6 @@ ID,"Nucala auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",I
 ID,"Nucala auto-injector, Hypereosinophilic Syndrome (HES)",Immunomodulators Asthma
 ID,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), auto-injector",Immunomodulators Asthma
 ID,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
-ID,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
 ID,Xolair Asthma (Adults and Adolescents 12 years of age and older),Immunomodulators Asthma
 ID,Xolair Asthma (Pediatrics 6 years to 11 years of age),Immunomodulators Asthma
 ID,Xolair Chronic Rhinosinusitis with Nasal Polyposis,Immunomodulators Asthma
@@ -19385,14 +19439,14 @@ ID,"Orencia Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syring
 ID,"Orencia prefilled syringe, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
 ID,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
 ID,"Orencia prefilled syringe, Rheumatoid Arthritis",Cytokine and CAM Antagonists
-ID,"Cosentyx Ankylosing Spondylitis, prefilled syringe",Cytokine and CAM Antagonists
-ID,"Cosentyx Enthesitis-Related Arthritis (pediatric), prefilled syringe",Cytokine and CAM Antagonists
-ID,"Cosentyx Hidradenitis Suppurativa, prefilled syringe",Cytokine and CAM Antagonists
-ID,"Cosentyx Non-Radiographic Axial Spondyloarthritis, prefilled syringe",Cytokine and CAM Antagonists
-ID,"Cosentyx Plaque Psoriasis (adult), prefilled syringe",Cytokine and CAM Antagonists
-ID,"Cosentyx Plaque Psoriasis (pediatric), prefilled syringe",Cytokine and CAM Antagonists
-ID,"Cosentyx prefilled syringe, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
-ID,"Cosentyx prefilled syringe, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
+ID,Cosentyx Ankylosing Spondylitis,Cytokine and CAM Antagonists
+ID,Cosentyx Enthesitis-Related Arthritis (pediatric),Cytokine and CAM Antagonists
+ID,Cosentyx Hidradenitis Suppurativa,Cytokine and CAM Antagonists
+ID,Cosentyx Non-Radiographic Axial Spondyloarthritis,Cytokine and CAM Antagonists
+ID,Cosentyx Plaque Psoriasis (adult),Cytokine and CAM Antagonists
+ID,Cosentyx Plaque Psoriasis (pediatric),Cytokine and CAM Antagonists
+ID,Cosentyx Psoriatic Arthritis (adult),Cytokine and CAM Antagonists
+ID,Cosentyx Psoriatic Arthritis (pediatric),Cytokine and CAM Antagonists
 ID,Humira Ankylosing Spondylitis,Cytokine and CAM Antagonists
 ID,Humira Crohn's Disease (adult),Cytokine and CAM Antagonists
 ID,Humira Crohn's Disease (pediatric),Cytokine and CAM Antagonists
@@ -19411,39 +19465,18 @@ ID,"Stelara Plaque Psoriasis (pediatric), prefilled syringe",Cytokine and CAM An
 ID,"Stelara prefilled syringe, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
 ID,"Stelara prefilled syringe, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
 ID,"Stelara prefilled syringe, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
-ID,"Enbrel Ankylosing Spondylitis, Mini cartridge",Cytokine and CAM Antagonists
-ID,"Enbrel Ankylosing Spondylitis, prefilled syringe",Cytokine and CAM Antagonists
-ID,"Enbrel Ankylosing Spondylitis, SureClick",Cytokine and CAM Antagonists
-ID,"Enbrel Mini cartridge, Plaque Psoriasis (adult)",Cytokine and CAM Antagonists
-ID,"Enbrel Plaque Psoriasis (adult), prefilled syringe",Cytokine and CAM Antagonists
-ID,"Enbrel Plaque Psoriasis (adult), SureClick",Cytokine and CAM Antagonists
-ID,"Enbrel Mini cartridge, Plaque Psoriasis (pediatric)",Cytokine and CAM Antagonists
-ID,"Enbrel Plaque Psoriasis (pediatric), prefilled syringe",Cytokine and CAM Antagonists
-ID,"Enbrel Plaque Psoriasis (pediatric), SureClick",Cytokine and CAM Antagonists
-ID,"Enbrel Mini cartridge, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
-ID,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Cytokine and CAM Antagonists
-ID,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), SureClick",Cytokine and CAM Antagonists
-ID,"Enbrel Mini cartridge, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
-ID,"Enbrel prefilled syringe, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
-ID,"Enbrel Psoriatic Arthritis (adult), SureClick",Cytokine and CAM Antagonists
-ID,"Enbrel Mini cartridge, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
-ID,"Enbrel prefilled syringe, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
-ID,"Enbrel Psoriatic Arthritis (pediatric), SureClick",Cytokine and CAM Antagonists
-ID,"Enbrel Mini cartridge, Rheumatoid Arthritis",Cytokine and CAM Antagonists
-ID,"Enbrel prefilled syringe, Rheumatoid Arthritis",Cytokine and CAM Antagonists
-ID,"Enbrel Rheumatoid Arthritis, SureClick",Cytokine and CAM Antagonists
+ID,Enbrel Ankylosing Spondylitis,Cytokine and CAM Antagonists
+ID,Enbrel Plaque Psoriasis (adult),Cytokine and CAM Antagonists
+ID,Enbrel Plaque Psoriasis (pediatric),Cytokine and CAM Antagonists
+ID,Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+ID,Enbrel Psoriatic Arthritis (adult),Cytokine and CAM Antagonists
+ID,Enbrel Psoriatic Arthritis (pediatric),Cytokine and CAM Antagonists
+ID,Enbrel Rheumatoid Arthritis,Cytokine and CAM Antagonists
 ID,"Actemra Cytokine Release Syndrome, vial",Cytokine and CAM Antagonists
 ID,"Actemra Giant Cell Arteritis, vial",Cytokine and CAM Antagonists
 ID,"Actemra Polyarticular Juvenile Idiopathic Arthritis (PJIA), vial",Cytokine and CAM Antagonists
 ID,"Actemra Rheumatoid Arthritis, vial",Cytokine and CAM Antagonists
 ID,"Actemra Systemic-Onset Juvenile Idiopathic Arthritis (SJIA), vial",Cytokine and CAM Antagonists
-ID,"Enbrel Ankylosing Spondylitis, vial",Cytokine and CAM Antagonists
-ID,"Enbrel Plaque Psoriasis (adult), vial",Cytokine and CAM Antagonists
-ID,"Enbrel Plaque Psoriasis (pediatric), vial",Cytokine and CAM Antagonists
-ID,"Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA), vial",Cytokine and CAM Antagonists
-ID,"Enbrel Psoriatic Arthritis (adult), vial",Cytokine and CAM Antagonists
-ID,"Enbrel Psoriatic Arthritis (pediatric), vial",Cytokine and CAM Antagonists
-ID,"Enbrel Rheumatoid Arthritis, vial",Cytokine and CAM Antagonists
 ID,"Entyvio Crohn’s Disease (adult), vial",Cytokine and CAM Antagonists
 ID,"Entyvio Ulcerative Colitis (adult), vial",Cytokine and CAM Antagonists
 ID,Olumiant Alopecia Areata,Cytokine and CAM Antagonists
@@ -19754,6 +19787,32 @@ ID,Ohtuvayre inhalation suspension,COPD Agents
 ID,Voranigo tablet,Oncology Oral Other
 ID,Zevaskyn topical cellular sheets,Gene Therapies
 ID,Vanrafia tablet,IgA Nephropathy (IgAN)
+ID,Epidiolex Dravet Syndrome,Anticonvulsants
+ID,Epidiolex Lennox-Gastaut Syndrome,Anticonvulsants
+ID,Epidiolex Tuberous Sclerosis Complex (TSC),Anticonvulsants
+ID,Lamzede IV solution,Enzyme Replacement Therapy
+ID,"Nucala auto-injector, Chronic Obstructive Pulmonary Disease (COPD)",Immunomodulators Asthma
+ID,"Nucala Chronic Obstructive Pulmonary Disease (COPD), prefilled syringe",Immunomodulators Asthma
+ID,"Nucala Chronic Obstructive Pulmonary Disease (COPD), vial",Immunomodulators Asthma
+ID,"Dupixent Bullous Pemphigoid, pen",Immunomodulators Atopic Dermatitis
+ID,"Dupixent Bullous Pemphigoid, prefilled syringe",Immunomodulators Atopic Dermatitis
+ID,"Dupixent Chronic Spontaneous Urticaria (CSU), pen",Immunomodulators Atopic Dermatitis
+ID,"Dupixent Chronic Spontaneous Urticaria (CSU), prefilled syringe",Immunomodulators Atopic Dermatitis
+ID,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+ID,Bimzelx Hidradenitis Suppurativa,Cytokine and CAM Antagonists
+ID,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+ID,"Rinvoq ER tablet, Giant Cell Arteritis",Cytokine and CAM Antagonists
+ID,"Rinvoq LQ, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
+ID,"Rinvoq LQ, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
+ID,"Stelara Crohn’s Disease (adult), subcutaneous vial",Cytokine and CAM Antagonists
+ID,"Stelara Plaque Psoriasis (adult), subcutaneous vial",Cytokine and CAM Antagonists
+ID,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial",Cytokine and CAM Antagonists
+ID,"Stelara Psoriatic Arthritis (adult), subcutaneous vial",Cytokine and CAM Antagonists
+ID,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",Cytokine and CAM Antagonists
+ID,"Stelara subcutaneous vial, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
+ID,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+ID,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+ID,Clenpiq,Bowel Prep Agents
 IL,Aimovig,Antimigraine Agents Other
 IL,Ajovy,Antimigraine Agents Other
 IL,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -20045,7 +20104,7 @@ IL,Eliquis,Anticoagulants
 IL,Elitek,Antihyperuricemics
 IL,Eloctate,Hemophilia Treatment
 IL,Emcyt,Oncology Oral Prostate
-IL,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+IL,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 IL,Empliciti,Oncology IV
 IL,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 IL,Emtriva capsule,HIV AIDS
@@ -20078,7 +20137,7 @@ IL,Exelon,Alzheimers Agents
 IL,Exkivity,Oncology Oral Lung
 IL,Exondys 51,Duchenne Muscular Dystrophy
 IL,Eylea,Macular Degeneration Agents
-IL,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+IL,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 IL,Fabrazyme,Enzyme Replacement Fabry Disease
 IL,Farxiga,Hypoglycemics SGLT2
 IL,Fazaclo,Antipsychotics
@@ -20515,7 +20574,7 @@ IL,Ziprasidone,Antipsychotics
 IL,Zokinvy,Progeria Treatments
 IL,Zolgensma,Spinal Muscular Atrophy
 IL,Zolpidem capsule,Sedative Hypnotics
-IL,Zolpidem CR,Sedative Hypnotics
+IL,Zolpidem ER,Sedative Hypnotics
 IL,Zonisade,Anticonvulsants
 IL,Zontivity,Platelet Aggregation Inhibitors
 IL,Ztalmy,Anticonvulsants
@@ -20603,9 +20662,9 @@ IL,Cobenfy capsule,Antipsychotics
 IL,Chenodal tablet,Bile Salts
 IL,Cholbam capsule,Bile Salts
 IL,Miplyffa capsule,Niemann-Pick Disease
-IL,Dyanavel XR oral suspension,Stimulants and Related Agents
-IL,Dyanavel XR tablet,Stimulants and Related Agents
-IL,Quillivant XR,Stimulants and Related Agents
+IL,Dyanavel XR ER oral suspension,Stimulants and Related Agents
+IL,Dyanavel XR ER tablet,Stimulants and Related Agents
+IL,Quillivant XR ER oral suspension,Stimulants and Related Agents
 IL,Quillichew XR,Stimulants and Related Agents
 IL,Fruzaqla,Oncology Oral Other
 IL,Iwilfin,Oncology Oral Other
@@ -21246,6 +21305,9 @@ IL,Ohtuvayre inhalation suspension,COPD Agents
 IL,Voranigo tablet,Oncology Oral Other
 IL,Zevaskyn topical cellular sheets,Gene Therapies
 IL,Vanrafia tablet,IgA Nephropathy (IgAN)
+IL,Lamzede IV solution,Enzyme Replacement Therapy
+IL,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+IL,Clenpiq,Bowel Prep Agents
 IN,Aimovig,Antimigraine Agents Other
 IN,Ajovy,Antimigraine Agents Other
 IN,Reyvow,Antimigraine Agents Triptans
@@ -21271,7 +21333,6 @@ IN,Zyprexa Zydis,Antipsychotics
 IN,Olanzapine And Fluoxetine,Antipsychotics
 IN,Paliperidone ER,Antipsychotics
 IN,Quetiapine ER,Antipsychotics
-IN,Enspryng,Cytokine and CAM Antagonists
 IN,Ilumya Plaque Psoriasis (adult),Cytokine and CAM Antagonists
 IN,Inflectra,Cytokine and CAM Antagonists
 IN,Kineret,Cytokine and CAM Antagonists
@@ -21535,7 +21596,7 @@ IN,Eliquis,Anticoagulants
 IN,Elitek,Antihyperuricemics
 IN,Eloctate,Hemophilia Treatment
 IN,Emcyt,Oncology Oral Prostate
-IN,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+IN,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 IN,Empliciti,Oncology IV
 IN,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 IN,Emtriva capsule,HIV AIDS
@@ -21567,7 +21628,7 @@ IN,Exelon,Alzheimers Agents
 IN,Exkivity,Oncology Oral Lung
 IN,Exondys 51,Duchenne Muscular Dystrophy
 IN,Eylea,Macular Degeneration Agents
-IN,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+IN,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 IN,Fabrazyme,Enzyme Replacement Fabry Disease
 IN,Farxiga,Hypoglycemics SGLT2
 IN,Fazaclo,Antipsychotics
@@ -21920,7 +21981,6 @@ IN,Tysabri,Multiple Sclerosis Agents
 IN,Tyvaso inhalation solution,PAH Agents Oral and Inhaled
 IN,Tyvaso DPI,PAH Agents Oral and Inhaled
 IN,Ultomiris,Paroxysmal Nocturnal Hemoglobinuria
-IN,Uplizna,Cytokine and CAM Antagonists
 IN,Uptravi tablet,PAH Agents Oral and Inhaled
 IN,Uptravi vial,PAH Agents Oral and Inhaled
 IN,Vabysmo,Macular Degeneration Agents
@@ -22001,7 +22061,7 @@ IN,Ziprasidone,Antipsychotics
 IN,Zokinvy,Progeria Treatments
 IN,Zolgensma,Spinal Muscular Atrophy
 IN,Zolpidem,Sedative Hypnotics
-IN,Zolpidem CR,Sedative Hypnotics
+IN,Zolpidem ER,Sedative Hypnotics
 IN,Zonisade,Anticonvulsants
 IN,Zontivity,Platelet Aggregation Inhibitors
 IN,Ztalmy,Anticonvulsants
@@ -22105,7 +22165,7 @@ IN,Talicia,H Pylori Treatment
 IN,Prevpac,H Pylori Treatment
 IN,Omeclamox-Pak,H Pylori Treatment
 IN,Tzield,Immunomodulators Type 1 Diabetes
-IN,Quillivant XR,Stimulants and Related Agents
+IN,Quillivant XR ER oral suspension,Stimulants and Related Agents
 IN,Quillichew XR,Stimulants and Related Agents
 IN,Dyanavel XR,Stimulants and Related Agents
 IN,Enalapril oral solution,ACE Inhibitors
@@ -22488,7 +22548,6 @@ IN,Dupixent Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
 IN,Dupixent Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Atopic Dermatitis
 IN,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,Immunomodulators Atopic Dermatitis
 IN,Dupixent Eosinophilic Esophagitis,Immunomodulators Atopic Dermatitis
-IN,Dupixent Eosinophilic or Corticosteroid-Dependent Asthma,Immunomodulators Atopic Dermatitis
 IN,Dupixent Prurigo Nodularis,Immunomodulators Atopic Dermatitis
 IN,Fasenra Asthma (Adults and Adolescents 12 years of age and older),Immunomodulators Asthma
 IN,Fasenra Asthma (Pediatrics 6 years to 11 years of age),Immunomodulators Asthma
@@ -22708,6 +22767,16 @@ IN,Ohtuvayre inhalation suspension,COPD Agents
 IN,Voranigo tablet,Oncology Oral Other
 IN,Zevaskyn topical cellular sheets,Gene Therapies
 IN,Vanrafia tablet,IgA Nephropathy (IgAN)
+IN,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
+IN,Dupixent Chronic Spontaneous Urticaria (CSU),Immunomodulators Atopic Dermatitis
+IN,Nucala Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Asthma
+IN,Rinvoq Giant Cell Arteritis,Cytokine and CAM Antagonists
+IN,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+IN,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+IN,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+IN,Lamzede IV solution,Enzyme Replacement Therapy
+IN,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+IN,Clenpiq,Bowel Prep Agents
 IA,Aimovig,Antimigraine Agents Other
 IA,Ajovy,Antimigraine Agents Other
 IA,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -22997,7 +23066,7 @@ IA,Eliquis,Anticoagulants
 IA,Elitek,Antihyperuricemics
 IA,Eloctate,Hemophilia Treatment
 IA,Emcyt,Oncology Oral Prostate
-IA,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+IA,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 IA,Empliciti,Oncology IV
 IA,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 IA,Emtriva capsule,HIV AIDS
@@ -23030,7 +23099,7 @@ IA,Exelon,Alzheimers Agents
 IA,Exkivity,Oncology Oral Lung
 IA,Exondys 51,Duchenne Muscular Dystrophy
 IA,Eylea,Macular Degeneration Agents
-IA,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+IA,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 IA,Fabrazyme,Enzyme Replacement Fabry Disease
 IA,Farxiga,Hypoglycemics SGLT2
 IA,Fazaclo,Antipsychotics
@@ -23466,7 +23535,7 @@ IA,Ziprasidone Oral,Antipsychotics
 IA,Zokinvy,Progeria Treatments
 IA,Zolgensma,Spinal Muscular Atrophy
 IA,Zolpidem tablet,Sedative Hypnotics
-IA,Zolpidem CR,Sedative Hypnotics
+IA,Zolpidem ER,Sedative Hypnotics
 IA,Zonisade,Anticonvulsants
 IA,Zontivity,Platelet Aggregation Inhibitors
 IA,Ztalmy,Anticonvulsants
@@ -23561,9 +23630,9 @@ IA,Cholbam capsule,Bile Salts
 IA,Miplyffa capsule,Niemann-Pick Disease
 IA,Linzess 72 mcg,GI Motility Chronic
 IA,Linzess 145 mcg,GI Motility Chronic
-IA,Dyanavel XR oral suspension,Stimulants and Related Agents
-IA,Dyanavel XR tablet,Stimulants and Related Agents
-IA,Quillivant XR,Stimulants and Related Agents
+IA,Dyanavel XR ER oral suspension,Stimulants and Related Agents
+IA,Dyanavel XR ER tablet,Stimulants and Related Agents
+IA,Quillivant XR ER oral suspension,Stimulants and Related Agents
 IA,Quillichew XR,Stimulants and Related Agents
 IA,Fruzaqla,Oncology Oral Other
 IA,Iwilfin,Oncology Oral Other
@@ -24053,7 +24122,6 @@ IA,Dupixent Prurigo Nodularis,Immunomodulators Atopic Dermatitis
 IA,Cinqair Asthma (adult),Immunomodulators Asthma
 IA,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), auto-injector",Immunomodulators Asthma
 IA,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
-IA,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
 IA,"Xolair Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
 IA,"Xolair Asthma (Pediatrics 6 years to 11 years of age), vial",Immunomodulators Asthma
 IA,"Xolair Chronic Rhinosinusitis with Nasal Polyposis, vial",Immunomodulators Asthma
@@ -24072,8 +24140,8 @@ IA,"Xolair IgE-Mediated Food Allergy, prefilled syringe",Immunomodulators Asthma
 IA,Fasenra Asthma (Adults and Adolescents 12 years of age and older),Immunomodulators Asthma
 IA,Fasenra Asthma (Pediatrics 6 years to 11 years of age),Immunomodulators Asthma
 IA,"Nucala Asthma (Adults and Adolescents 12 years of age and older), auto-injector",Immunomodulators Asthma
-IA,"Nucala 100 mg, Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
-IA,"Nucala 40 mg, Asthma (Pediatrics 6 years to 11 years of age), prefilled syringe",Immunomodulators Asthma
+IA,"Nucala Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
+IA,"Nucala Asthma (Pediatrics 6 years to 11 years of age), prefilled syringe",Immunomodulators Asthma
 IA,Fasenra Eosinophilic Granulomatosis with Polyangitis (EGPA),Immunomodulators Asthma
 IA,"Nucala auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Immunomodulators Asthma
 IA,"Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA), prefilled syringe",Immunomodulators Asthma
@@ -24083,7 +24151,7 @@ IA,"Nucala auto-injector, Hypereosinophilic Syndrome (HES)",Immunomodulators Ast
 IA,"Nucala Hypereosinophilic Syndrome (HES), prefilled syringe",Immunomodulators Asthma
 IA,"Nucala auto-injector, Chronic Obstructive Pulmonary Disease (COPD)",Immunomodulators Asthma
 IA,"Nucala Chronic Obstructive Pulmonary Disease (COPD), prefilled syringe",Immunomodulators Asthma
-IA,Rinvoq Atopic Dermatitis (adult),Cytokine and CAM Antagonists
+IA,"Rinvoq Atopic Dermatitis (adult), ER tablet",Cytokine and CAM Antagonists
 IA,Enspryng Neuromyelitis Optica Spectrum Disorder (NMOSD),Cytokine and CAM Antagonists
 IA,"Entyvio Crohn’s Disease (adult), vial",Cytokine and CAM Antagonists
 IA,"Entyvio Ulcerative Colitis (adult), vial",Cytokine and CAM Antagonists
@@ -24111,14 +24179,13 @@ IA,Entresto sprinkle capsule,Angiotensin Modulator Combinations
 IA,Cimzia Ankylosing Spondylitis,Cytokine and CAM Antagonists
 IA,Cosentyx Ankylosing Spondylitis,Cytokine and CAM Antagonists
 IA,Enbrel Ankylosing Spondylitis,Cytokine and CAM Antagonists
-IA,Rinvoq Ankylosing Spondylitis,Cytokine and CAM Antagonists
+IA,"Rinvoq Ankylosing Spondylitis, ER tablet",Cytokine and CAM Antagonists
 IA,"Simponi Ankylosing Spondylitis, prefilled syringe",Cytokine and CAM Antagonists
 IA,"Simponi Ankylosing Spondylitis, Aria",Cytokine and CAM Antagonists
 IA,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
 IA,"Simponi Aria, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
 IA,"Simponi Aria, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
 IA,"Simponi Aria, Rheumatoid Arthritis",Cytokine and CAM Antagonists
-IA,"Xeljanz Ankylosing Spondylitis, oral solution",Cytokine and CAM Antagonists
 IA,"Xeljanz Ankylosing Spondylitis, IR tablet",Cytokine and CAM Antagonists
 IA,Otezla Behcet’s Disease,Cytokine and CAM Antagonists
 IA,Otezla Plaque Psoriasis (adult),Cytokine and CAM Antagonists
@@ -24131,12 +24198,12 @@ IA,"Stelara Crohn’s Disease (adult), subcutaneous vial",Cytokine and CAM Antag
 IA,"Skyrizi Crohn’s Disease (adult), vial",Cytokine and CAM Antagonists
 IA,"Skyrizi Crohn’s Disease (adult), prefilled cartridge (On-Body Injector)",Cytokine and CAM Antagonists
 IA,"Skyrizi Crohn’s Disease (adult), prefilled syringe",Cytokine and CAM Antagonists
-IA,Rinvoq Crohn's Disease (adult),Cytokine and CAM Antagonists
+IA,"Rinvoq Crohn's Disease (adult), ER tablet",Cytokine and CAM Antagonists
 IA,Cosentyx Enthesitis-Related Arthritis (pediatric),Cytokine and CAM Antagonists
 IA,Cosentyx Hidradenitis Suppurativa,Cytokine and CAM Antagonists
 IA,Cimzia Non-Radiographic Axial Spondyloarthritis,Cytokine and CAM Antagonists
 IA,Cosentyx Non-Radiographic Axial Spondyloarthritis,Cytokine and CAM Antagonists
-IA,Rinvoq Non-Radiographic Axial Spondyloarthritis,Cytokine and CAM Antagonists
+IA,"Rinvoq ER tablet, Non-Radiographic Axial Spondyloarthritis",Cytokine and CAM Antagonists
 IA,Litfulo Alopecia Areata,Cytokine and CAM Antagonists
 IA,Olumiant Alopecia Areata,Cytokine and CAM Antagonists
 IA,Cimzia Plaque Psoriasis (adult),Cytokine and CAM Antagonists
@@ -24156,7 +24223,7 @@ IA,Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM A
 IA,"Orencia Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Cytokine and CAM Antagonists
 IA,Enbrel Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
 IA,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
-IA,Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+IA,"Rinvoq ER tablet, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
 IA,"Xeljanz IR tablet, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
 IA,"Xeljanz oral solution, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
 IA,Cimzia Psoriatic Arthritis (adult),Cytokine and CAM Antagonists
@@ -24175,10 +24242,9 @@ IA,"Orencia ClickJect, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagon
 IA,"Simponi prefilled syringe, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
 IA,"Skyrizi prefilled pen, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
 IA,"Skyrizi prefilled syringe, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
-IA,Rinvoq Psoriatic Arthritis (adult),Cytokine and CAM Antagonists
-IA,Rinvoq Psoriatic Arthritis (pediatric),Cytokine and CAM Antagonists
+IA,"Rinvoq ER tablet, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
+IA,"Rinvoq ER tablet, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
 IA,"Xeljanz IR tablet, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
-IA,"Xeljanz oral solution, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
 IA,Cimzia Rheumatoid Arthritis,Cytokine and CAM Antagonists
 IA,Kevzara Rheumatoid Arthritis,Cytokine and CAM Antagonists
 IA,"Orencia prefilled syringe, Rheumatoid Arthritis",Cytokine and CAM Antagonists
@@ -24186,8 +24252,7 @@ IA,Enbrel Rheumatoid Arthritis,Cytokine and CAM Antagonists
 IA,"Orencia ClickJect, Rheumatoid Arthritis",Cytokine and CAM Antagonists
 IA,"Simponi prefilled syringe, Rheumatoid Arthritis",Cytokine and CAM Antagonists
 IA,Olumiant Rheumatoid Arthritis,Cytokine and CAM Antagonists
-IA,"Xeljanz oral solution, Rheumatoid Arthritis",Cytokine and CAM Antagonists
-IA,Rinvoq Rheumatoid Arthritis,Cytokine and CAM Antagonists
+IA,"Rinvoq ER tablet, Rheumatoid Arthritis",Cytokine and CAM Antagonists
 IA,"Xeljanz IR tablet, Rheumatoid Arthritis",Cytokine and CAM Antagonists
 IA,"Stelara intravenous vial, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
 IA,"Skyrizi Ulcerative Colitis (adult), vial",Cytokine and CAM Antagonists
@@ -24197,9 +24262,8 @@ IA,Velsipity Ulcerative Colitis (adult),Cytokine and CAM Antagonists
 IA,"Simponi prefilled syringe, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
 IA,"Skyrizi prefilled cartridge (On-Body Injector), Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
 IA,"Skyrizi prefilled syringe, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
-IA,Rinvoq Ulcerative Colitis (adult),Cytokine and CAM Antagonists
+IA,"Rinvoq ER tablet, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
 IA,"Xeljanz IR tablet, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
-IA,"Xeljanz oral solution, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
 IA,Lescol XL,Lipotropics Statins
 IA,Alhemo,Hemophilia Treatment
 IA,Corifact,Hemophilia Treatment
@@ -24253,6 +24317,16 @@ IA,Ohtuvayre inhalation suspension,COPD Agents
 IA,Voranigo tablet,Oncology Oral Other
 IA,Zevaskyn topical cellular sheets,Gene Therapies
 IA,Vanrafia tablet,IgA Nephropathy (IgAN)
+IA,Lamzede IV solution,Enzyme Replacement Therapy
+IA,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+IA,"Rinvoq ER tablet, Giant Cell Arteritis",Cytokine and CAM Antagonists
+IA,"Rinvoq LQ, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
+IA,"Rinvoq LQ, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
+IA,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+IA,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
+IA,Dupixent Chronic Spontaneous Urticaria (CSU),Immunomodulators Atopic Dermatitis
+IA,"Nucala Asthma (Pediatrics 6 years to 11 years of age), auto-injector",Immunomodulators Asthma
+IA,Clenpiq,Bowel Prep Agents
 KS,Aimovig,Antimigraine Agents Other
 KS,Ajovy,Antimigraine Agents Other
 KS,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -24486,7 +24560,7 @@ KS,Breyna,Glucocorticoids Combo Inhaled
 KS,Breztri Aerosphere,COPD Agents
 KS,Brilinta,Platelet Aggregation Inhibitors
 KS,Briumvi,Multiple Sclerosis Agents
-KS,Briviact,Anticonvulsants
+KS,Briviact tablet,Anticonvulsants
 KS,Brukinsa,Oncology Oral Other
 KS,Budesonide respules (inhalation suspension),Glucocorticoids Inhaled
 KS,Buphenyl powder,Urea Cycle Disorder
@@ -24545,7 +24619,7 @@ KS,Eliquis,Anticoagulants
 KS,Elitek,Antihyperuricemics
 KS,Eloctate,Hemophilia Treatment
 KS,Emcyt,Oncology Oral Prostate
-KS,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+KS,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 KS,Empliciti,Oncology IV
 KS,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 KS,Emtriva capsule,HIV AIDS
@@ -24578,7 +24652,7 @@ KS,Exelon,Alzheimers Agents
 KS,Exkivity,Oncology Oral Lung
 KS,Exondys 51,Duchenne Muscular Dystrophy
 KS,Eylea,Macular Degeneration Agents
-KS,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+KS,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 KS,Fabrazyme,Enzyme Replacement Fabry Disease
 KS,Farxiga,Hypoglycemics SGLT2
 KS,Fazaclo,Antipsychotics
@@ -24665,7 +24739,7 @@ KS,Kyleena,Contraceptives Other
 KS,Kyprolis,Oncology IV
 KS,Lamictal ODT,Anticonvulsants
 KS,Lamictal tablet,Anticonvulsants
-KS,Lamotrigine,Anticonvulsants
+KS,Lamotrigine tablet,Anticonvulsants
 KS,Lansoprazole,Proton Pump Inhibitors
 KS,Lantus SoloStar,Hypoglycemics Insulin and Related Agents
 KS,Lantus vial,Hypoglycemics Insulin and Related Agents
@@ -24909,7 +24983,7 @@ KS,Topiramate tablet,Anticonvulsants
 KS,Topotecan,Oncology IV
 KS,Toujeo Max Solostar,Hypoglycemics Insulin and Related Agents
 KS,Toujeo Solostar,Hypoglycemics Insulin and Related Agents
-KS,Tracleer,PAH Agents Oral and Inhaled
+KS,Tracleer tablet,PAH Agents Oral and Inhaled
 KS,Tracleer tablet for oral suspension,PAH Agents Oral and Inhaled
 KS,Tradjenta,Hypoglycemics Incretin Mimetics Enhancers
 KS,Trandolapril,ACE Inhibitors
@@ -24932,7 +25006,7 @@ KS,Tybost,HIV AIDS
 KS,Tysabri,Multiple Sclerosis Agents
 KS,Tyvaso inhalation solution,PAH Agents Oral and Inhaled
 KS,Tyvaso DPI,PAH Agents Oral and Inhaled
-KS,Ultomiris,Paroxysmal Nocturnal Hemoglobinuria
+KS,Ultomiris Generalized Myasthenia Gravis (gMG),Paroxysmal Nocturnal Hemoglobinuria
 KS,Uptravi tablet,PAH Agents Oral and Inhaled
 KS,Uptravi vial,PAH Agents Oral and Inhaled
 KS,Vabysmo,Macular Degeneration Agents
@@ -24951,7 +25025,7 @@ KS,Vigabatrin tablet,Anticonvulsants
 KS,Vigpoder,Anticonvulsants
 KS,Viibryd,Antidepressants Other
 KS,Viltepso,Duchenne Muscular Dystrophy
-KS,Vimpat,Anticonvulsants
+KS,Vimpat tablet,Anticonvulsants
 KS,Viracept,HIV AIDS
 KS,Viramune XR,HIV AIDS
 KS,Viread,HIV AIDS
@@ -25014,7 +25088,7 @@ KS,Ziprasidone,Antipsychotics
 KS,Zokinvy,Progeria Treatments
 KS,Zolgensma,Spinal Muscular Atrophy
 KS,Zolpidem,Sedative Hypnotics
-KS,Zolpidem CR,Sedative Hypnotics
+KS,Zolpidem ER,Sedative Hypnotics
 KS,Zonisade,Anticonvulsants
 KS,Zontivity,Platelet Aggregation Inhibitors
 KS,Ztalmy,Anticonvulsants
@@ -25038,7 +25112,7 @@ KS,Libervant buccal film,Anticonvulsants
 KS,Vigafyde oral solution,Anticonvulsants
 KS,Soliris Generalized Myasthenia Gravis (gMG),Paroxysmal Nocturnal Hemoglobinuria
 KS,Soliris Neuromyelitis Optica Spectrum Disorder (NMOSD),Paroxysmal Nocturnal Hemoglobinuria
-KS,Ultomiris Generalized Myasthenia Gravis (gMG),Paroxysmal Nocturnal Hemoglobinuria
+KS,Ultomiris Neuromyelitis Optica Spectrum Disorder (NMOSD),Paroxysmal Nocturnal Hemoglobinuria
 KS,Austedo XR,Movement Disorders
 KS,Reblozyl (Luspatercept-Aamt) vial,Erythropoiesis Stimulating Proteins
 KS,Opdualag (Nivolumab/Relatlimab-Rmbw) vial,Oncology IV
@@ -25119,7 +25193,7 @@ KS,Talicia,H Pylori Treatment
 KS,Tzield,Immunomodulators Type 1 Diabetes
 KS,Dyanavel XR,Stimulants and Related Agents
 KS,Quillichew XR,Stimulants and Related Agents
-KS,Quillivant XR,Stimulants and Related Agents
+KS,Quillivant XR ER oral suspension,Stimulants and Related Agents
 KS,Aqneursa oral suspension,Niemann-Pick Disease
 KS,Astagraf XL ER capsule,Immunosuppressives Oral
 KS,Brineura vial,Batten Disease
@@ -25725,6 +25799,17 @@ KS,Ohtuvayre inhalation suspension,COPD Agents
 KS,Voranigo tablet,Oncology Oral Other
 KS,Zevaskyn topical cellular sheets,Gene Therapies
 KS,Vanrafia tablet,IgA Nephropathy (IgAN)
+KS,Briviact oral solution,Anticonvulsants
+KS,Briviact vial,Anticonvulsants
+KS,Lamotrigine dispersible tablet,Anticonvulsants
+KS,Topiramate sprinkle capsule,Anticonvulsants
+KS,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+KS,Lamzede IV solution,Enzyme Replacement Therapy
+KS,Nucala Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Asthma
+KS,Rinvoq Giant Cell Arteritis,Cytokine and CAM Antagonists
+KS,Zepbound Weight Loss,Hypoglycemics Incretin Mimetics Enhancers
+KS,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+KS,Clenpiq,Bowel Prep Agents
 KY,Aimovig,Antimigraine Agents Other
 KY,Ajovy,Antimigraine Agents Other
 KY,Reyvow,Antimigraine Agents Triptans
@@ -26007,7 +26092,7 @@ KY,Eliquis,Anticoagulants
 KY,Elitek,Antihyperuricemics
 KY,Eloctate,Hemophilia Treatment
 KY,Emcyt,Oncology Oral Prostate
-KY,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+KY,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 KY,Empliciti,Oncology IV
 KY,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 KY,Emtriva capsule,HIV AIDS
@@ -26039,7 +26124,7 @@ KY,Exelon,Alzheimers Agents
 KY,Exkivity,Oncology Oral Lung
 KY,Exondys 51,Duchenne Muscular Dystrophy
 KY,Eylea,Macular Degeneration Agents
-KY,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+KY,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 KY,Fabrazyme,Enzyme Replacement Fabry Disease
 KY,Farxiga,Hypoglycemics SGLT2
 KY,Fazaclo,Antipsychotics
@@ -26366,7 +26451,7 @@ KY,Topiramate tablet,Anticonvulsants
 KY,Topotecan,Oncology IV
 KY,Toujeo Max Solostar,Hypoglycemics Insulin and Related Agents
 KY,Toujeo Solostar,Hypoglycemics Insulin and Related Agents
-KY,Tracleer,PAH Agents Oral and Inhaled
+KY,Tracleer tablet,PAH Agents Oral and Inhaled
 KY,Tracleer tablet for oral suspension,PAH Agents Oral and Inhaled
 KY,Tradjenta,Hypoglycemics Incretin Mimetics Enhancers
 KY,Trandolapril,ACE Inhibitors
@@ -26467,7 +26552,7 @@ KY,Ziagen,HIV AIDS
 KY,Ziprasidone,Antipsychotics
 KY,Zokinvy,Progeria Treatments
 KY,Zolgensma,Spinal Muscular Atrophy
-KY,Zolpidem CR,Sedative Hypnotics
+KY,Zolpidem ER,Sedative Hypnotics
 KY,Zonisade,Anticonvulsants
 KY,Zontivity,Platelet Aggregation Inhibitors
 KY,Ztalmy,Anticonvulsants
@@ -27184,8 +27269,8 @@ KY,Kazano tablet,Hypoglycemics Incretin Mimetics Enhancers
 KY,Janumet XR ER tablet,Hypoglycemics Incretin Mimetics Enhancers
 KY,Zituvio tablet,Hypoglycemics Incretin Mimetics Enhancers
 KY,Rinvoq Giant Cell Arteritis,Cytokine and CAM Antagonists
-KY,Dyanavel XR tablet,Stimulants and Related Agents
-KY,Dyanavel XR oral suspension,Stimulants and Related Agents
+KY,Dyanavel XR ER tablet,Stimulants and Related Agents
+KY,Dyanavel XR ER oral suspension,Stimulants and Related Agents
 KY,Quillichew XR,Stimulants and Related Agents
 KY,Quillivant XR ER oral suspension,Stimulants and Related Agents
 KY,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
@@ -27201,6 +27286,13 @@ KY,Ohtuvayre inhalation suspension,COPD Agents
 KY,Voranigo tablet,Oncology Oral Other
 KY,Zevaskyn topical cellular sheets,Gene Therapies
 KY,Vanrafia tablet,IgA Nephropathy (IgAN)
+KY,Nucala Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Asthma
+KY,Bimzelx Hidradenitis Suppurativa,Cytokine and CAM Antagonists
+KY,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+KY,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+KY,Lamzede IV solution,Enzyme Replacement Therapy
+KY,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+KY,Clenpiq,Bowel Prep Agents
 LA,Aimovig,Antimigraine Agents Other
 LA,Ajovy,Antimigraine Agents Other
 LA,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -27491,7 +27583,7 @@ LA,Eliquis,Anticoagulants
 LA,Elitek,Antihyperuricemics
 LA,Eloctate,Hemophilia Treatment
 LA,Emcyt,Oncology Oral Prostate
-LA,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+LA,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 LA,Empliciti,Oncology IV
 LA,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 LA,Emtriva capsule,HIV AIDS
@@ -27523,7 +27615,7 @@ LA,Exelon,Alzheimers Agents
 LA,Exkivity,Oncology Oral Lung
 LA,Exondys 51,Duchenne Muscular Dystrophy
 LA,Eylea,Macular Degeneration Agents
-LA,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+LA,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 LA,Fabrazyme,Enzyme Replacement Fabry Disease
 LA,Farxiga,Hypoglycemics SGLT2
 LA,Fazaclo,Antipsychotics
@@ -27956,7 +28048,7 @@ LA,Ziprasidone,Antipsychotics
 LA,Zokinvy,Progeria Treatments
 LA,Zolgensma,Spinal Muscular Atrophy
 LA,Zolpidem,Sedative Hypnotics
-LA,Zolpidem CR,Sedative Hypnotics
+LA,Zolpidem ER,Sedative Hypnotics
 LA,Zonisade,Anticonvulsants
 LA,Zontivity,Platelet Aggregation Inhibitors
 LA,Ztalmy,Anticonvulsants
@@ -28054,7 +28146,7 @@ LA,Chenodal tablet,Bile Salts
 LA,Cholbam capsule,Bile Salts
 LA,Miplyffa capsule,Niemann-Pick Disease
 LA,"Donepezil 23 mg, tablet",Alzheimers Agents
-LA,Quillivant XR,Stimulants and Related Agents
+LA,Quillivant XR ER oral suspension,Stimulants and Related Agents
 LA,Quillichew XR,Stimulants and Related Agents
 LA,Dyanavel XR,Stimulants and Related Agents
 LA,Fruzaqla,Oncology Oral Other
@@ -28669,6 +28761,9 @@ LA,Ohtuvayre inhalation suspension,COPD Agents
 LA,Voranigo tablet,Oncology Oral Other
 LA,Zevaskyn topical cellular sheets,Gene Therapies
 LA,Vanrafia tablet,IgA Nephropathy (IgAN)
+LA,Lamzede IV solution,Enzyme Replacement Therapy
+LA,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+LA,Clenpiq,Bowel Prep Agents
 ME,Aimovig,Antimigraine Agents Other
 ME,Ajovy,Antimigraine Agents Other
 ME,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -28959,7 +29054,7 @@ ME,Eliquis,Anticoagulants
 ME,Elitek,Antihyperuricemics
 ME,Eloctate,Hemophilia Treatment
 ME,Emcyt,Oncology Oral Prostate
-ME,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+ME,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 ME,Empliciti,Oncology IV
 ME,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 ME,Emtriva capsule,HIV AIDS
@@ -28992,7 +29087,7 @@ ME,Exelon,Alzheimers Agents
 ME,Exkivity,Oncology Oral Lung
 ME,Exondys 51,Duchenne Muscular Dystrophy
 ME,Eylea,Macular Degeneration Agents
-ME,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+ME,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 ME,Fabrazyme,Enzyme Replacement Fabry Disease
 ME,Farxiga,Hypoglycemics SGLT2
 ME,Fazaclo,Antipsychotics
@@ -29427,7 +29522,7 @@ ME,Ziprasidone,Antipsychotics
 ME,Zokinvy,Progeria Treatments
 ME,Zolgensma,Spinal Muscular Atrophy
 ME,Zolpidem,Sedative Hypnotics
-ME,Zolpidem CR,Sedative Hypnotics
+ME,Zolpidem ER,Sedative Hypnotics
 ME,Zonisade,Anticonvulsants
 ME,Zontivity,Platelet Aggregation Inhibitors
 ME,Ztalmy,Anticonvulsants
@@ -29532,9 +29627,9 @@ ME,Prevpac,H Pylori Treatment
 ME,Pylera,H Pylori Treatment
 ME,Talicia,H Pylori Treatment
 ME,Tzield,Immunomodulators Type 1 Diabetes
-ME,Dyanavel XR oral suspension,Stimulants and Related Agents
-ME,Dyanavel XR tablet,Stimulants and Related Agents
-ME,Quillivant XR,Stimulants and Related Agents
+ME,Dyanavel XR ER oral suspension,Stimulants and Related Agents
+ME,Dyanavel XR ER tablet,Stimulants and Related Agents
+ME,Quillivant XR ER oral suspension,Stimulants and Related Agents
 ME,Quillichew XR,Stimulants and Related Agents
 ME,Linzess 145 mcg,GI Motility Chronic
 ME,Linzess 72 mcg,GI Motility Chronic
@@ -30133,6 +30228,9 @@ ME,Ohtuvayre inhalation suspension,COPD Agents
 ME,Voranigo tablet,Oncology Oral Other
 ME,Zevaskyn topical cellular sheets,Gene Therapies
 ME,Vanrafia tablet,IgA Nephropathy (IgAN)
+ME,Lamzede IV solution,Enzyme Replacement Therapy
+ME,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+ME,Clenpiq,Bowel Prep Agents
 MD,Aimovig,Antimigraine Agents Other
 MD,Ajovy,Antimigraine Agents Other
 MD,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -30425,7 +30523,7 @@ MD,Eliphos,Phosphate Binders
 MD,Elitek,Antihyperuricemics
 MD,Eloctate,Hemophilia Treatment
 MD,Emcyt,Oncology Oral Prostate
-MD,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+MD,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 MD,Empliciti,Oncology IV
 MD,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 MD,Emtriva capsule,HIV AIDS
@@ -30457,7 +30555,7 @@ MD,Exelon,Alzheimers Agents
 MD,Exkivity,Oncology Oral Lung
 MD,Exondys 51,Duchenne Muscular Dystrophy
 MD,Eylea,Macular Degeneration Agents
-MD,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+MD,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 MD,Fabrazyme,Enzyme Replacement Fabry Disease
 MD,Farxiga,Hypoglycemics SGLT2
 MD,Fazaclo,Antipsychotics
@@ -30887,7 +30985,7 @@ MD,Ziprasidone,Antipsychotics
 MD,Zokinvy,Progeria Treatments
 MD,Zolgensma,Spinal Muscular Atrophy
 MD,Zolpidem,Sedative Hypnotics
-MD,Zolpidem CR,Sedative Hypnotics
+MD,Zolpidem ER,Sedative Hypnotics
 MD,Zonisade,Anticonvulsants
 MD,Zontivity,Platelet Aggregation Inhibitors
 MD,Ztalmy,Anticonvulsants
@@ -30990,7 +31088,7 @@ MD,Cobenfy capsule,Antipsychotics
 MD,Chenodal tablet,Bile Salts
 MD,Cholbam capsule,Bile Salts
 MD,Miplyffa capsule,Niemann-Pick Disease
-MD,Quillivant XR,Stimulants and Related Agents
+MD,Quillivant XR ER oral suspension,Stimulants and Related Agents
 MD,Quillichew XR,Stimulants and Related Agents
 MD,Dyanavel XR,Stimulants and Related Agents
 MD,Fruzaqla,Oncology Oral Other
@@ -31609,6 +31707,16 @@ MD,Ohtuvayre inhalation suspension,COPD Agents
 MD,Voranigo tablet,Oncology Oral Other
 MD,Zevaskyn topical cellular sheets,Gene Therapies
 MD,Vanrafia tablet,IgA Nephropathy (IgAN)
+MD,Lamzede IV solution,Enzyme Replacement Therapy
+MD,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+MD,Nucala Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Asthma
+MD,Adbry Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+MD,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+MD,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
+MD,Dupixent Chronic Spontaneous Urticaria (CSU),Immunomodulators Atopic Dermatitis
+MD,Rinvoq Giant Cell Arteritis,Cytokine and CAM Antagonists
+MD,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+MD,Clenpiq,Bowel Prep Agents
 MA,Aimovig,Antimigraine Agents Other
 MA,Ajovy,Antimigraine Agents Other
 MA,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -31888,7 +31996,7 @@ MA,Eliquis,Anticoagulants
 MA,Elitek,Antihyperuricemics
 MA,Eloctate,Hemophilia Treatment
 MA,Emcyt,Oncology Oral Prostate
-MA,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+MA,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 MA,Empliciti,Oncology IV
 MA,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 MA,Emtriva capsule,HIV AIDS
@@ -31917,7 +32025,7 @@ MA,Exelon,Alzheimers Agents
 MA,Exkivity,Oncology Oral Lung
 MA,Exondys 51,Duchenne Muscular Dystrophy
 MA,Eylea,Macular Degeneration Agents
-MA,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+MA,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 MA,Fabrazyme,Enzyme Replacement Fabry Disease
 MA,Farxiga,Hypoglycemics SGLT2
 MA,Fazaclo,Antipsychotics
@@ -32342,7 +32450,7 @@ MA,Ziagen,HIV AIDS
 MA,Ziprasidone,Antipsychotics
 MA,Zokinvy,Progeria Treatments
 MA,Zolgensma,Spinal Muscular Atrophy
-MA,Zolpidem CR,Sedative Hypnotics
+MA,Zolpidem ER,Sedative Hypnotics
 MA,Zonisade,Anticonvulsants
 MA,Zontivity,Platelet Aggregation Inhibitors
 MA,Ztalmy,Anticonvulsants
@@ -32502,7 +32610,7 @@ MA,Lansoprazole / Amoxicillin / Clarithromycin,H Pylori Treatment
 MA,Talicia,H Pylori Treatment
 MA,Omeclamox-Pak,H Pylori Treatment
 MA,Tzield,Immunomodulators Type 1 Diabetes
-MA,Quillivant XR,Stimulants and Related Agents
+MA,Quillivant XR ER oral suspension,Stimulants and Related Agents
 MA,Quillichew XR,Stimulants and Related Agents
 MA,Dyanavel XR,Stimulants and Related Agents
 MA,Aqneursa oral suspension,Niemann-Pick Disease
@@ -33162,6 +33270,9 @@ MA,Byetta Prediabetes,Hypoglycemics Incretin Mimetics Enhancers
 MA,Byetta Type II Diabetes,Hypoglycemics Incretin Mimetics Enhancers
 MA,Trulicity Type 2 Diabetes Mellitus,Hypoglycemics Incretin Mimetics Enhancers
 MA,Victoza Type 2 Diabetes Mellitus,Hypoglycemics Incretin Mimetics Enhancers
+MA,Lamzede IV solution,Enzyme Replacement Therapy
+MA,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+MA,Clenpiq,Bowel Prep Agents
 MI,Aimovig,Antimigraine Agents Other
 MI,Ajovy,Antimigraine Agents Other
 MI,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -33446,7 +33557,7 @@ MI,Eliquis,Anticoagulants
 MI,Elitek,Antihyperuricemics
 MI,Eloctate,Hemophilia Treatment
 MI,Emcyt,Oncology Oral Prostate
-MI,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+MI,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 MI,Empliciti,Oncology IV
 MI,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 MI,Emtriva capsule,HIV AIDS
@@ -33479,7 +33590,7 @@ MI,Exelon,Alzheimers Agents
 MI,Exkivity,Oncology Oral Lung
 MI,Exondys 51,Duchenne Muscular Dystrophy
 MI,Eylea,Macular Degeneration Agents
-MI,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+MI,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 MI,Fabrazyme,Enzyme Replacement Fabry Disease
 MI,Farxiga,Hypoglycemics SGLT2
 MI,Fazaclo,Antipsychotics
@@ -33914,7 +34025,7 @@ MI,Ziagen,HIV AIDS
 MI,Ziprasidone,Antipsychotics
 MI,Zokinvy,Progeria Treatments
 MI,Zolgensma,Spinal Muscular Atrophy
-MI,Zolpidem CR,Sedative Hypnotics
+MI,Zolpidem ER,Sedative Hypnotics
 MI,Zonisade,Anticonvulsants
 MI,Zontivity,Platelet Aggregation Inhibitors
 MI,Ztalmy,Anticonvulsants
@@ -34376,7 +34487,7 @@ MI,Talicia,H Pylori Treatment
 MI,Prevpac,H Pylori Treatment
 MI,Helidac,H Pylori Treatment
 MI,Dyanavel XR,Stimulants and Related Agents
-MI,Quillivant XR,Stimulants and Related Agents
+MI,Quillivant XR ER oral suspension,Stimulants and Related Agents
 MI,Quillichew XR,Stimulants and Related Agents
 MI,Aqneursa oral suspension,Niemann-Pick Disease
 MI,Astagraf XL ER capsule,Immunosuppressives Oral
@@ -34682,6 +34793,10 @@ MI,Dupixent Chronic Spontaneous Urticaria (CSU),Immunomodulators Atopic Dermatit
 MI,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
 MI,Dupixent Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Atopic Dermatitis
 MI,Pradaxa packet,Anticoagulants
+MI,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+MI,Lamzede IV solution,Enzyme Replacement Therapy
+MI,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+MI,Clenpiq,Bowel Prep Agents
 MN,Aimovig,Antimigraine Agents Other
 MN,Ajovy,Antimigraine Agents Other
 MN,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -34972,7 +35087,7 @@ MN,Eliquis,Anticoagulants
 MN,Elitek,Antihyperuricemics
 MN,Eloctate,Hemophilia Treatment
 MN,Emcyt,Oncology Oral Prostate
-MN,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+MN,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 MN,Empliciti,Oncology IV
 MN,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 MN,Emtriva capsule,HIV AIDS
@@ -35005,7 +35120,7 @@ MN,Exelon,Alzheimers Agents
 MN,Exkivity,Oncology Oral Lung
 MN,Exondys 51,Duchenne Muscular Dystrophy
 MN,Eylea,Macular Degeneration Agents
-MN,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+MN,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 MN,Fabrazyme,Enzyme Replacement Fabry Disease
 MN,Farxiga,Hypoglycemics SGLT2
 MN,Fazaclo,Antipsychotics
@@ -35441,7 +35556,7 @@ MN,Ziprasidone Oral,Antipsychotics
 MN,Zokinvy,Progeria Treatments
 MN,Zolgensma,Spinal Muscular Atrophy
 MN,Zolpidem,Sedative Hypnotics
-MN,Zolpidem CR,Sedative Hypnotics
+MN,Zolpidem ER,Sedative Hypnotics
 MN,Zonisade,Anticonvulsants
 MN,Zontivity,Platelet Aggregation Inhibitors
 MN,Ztalmy,Anticonvulsants
@@ -35557,7 +35672,7 @@ MN,Talicia,H Pylori Treatment
 MN,Tzield,Immunomodulators Type 1 Diabetes
 MN,Dyanavel XR,Stimulants and Related Agents
 MN,Quillichew XR,Stimulants and Related Agents
-MN,Quillivant XR,Stimulants and Related Agents
+MN,Quillivant XR ER oral suspension,Stimulants and Related Agents
 MN,Aqneursa oral suspension,Niemann-Pick Disease
 MN,Astagraf XL ER capsule,Immunosuppressives Oral
 MN,Brineura vial,Batten Disease
@@ -36153,6 +36268,9 @@ MN,Ohtuvayre inhalation suspension,COPD Agents
 MN,Voranigo tablet,Oncology Oral Other
 MN,Zevaskyn topical cellular sheets,Gene Therapies
 MN,Vanrafia tablet,IgA Nephropathy (IgAN)
+MN,Lamzede IV solution,Enzyme Replacement Therapy
+MN,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+MN,Clenpiq,Bowel Prep Agents
 MS,Aimovig,Antimigraine Agents Other
 MS,Ajovy,Antimigraine Agents Other
 MS,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -36443,7 +36561,7 @@ MS,Eliquis,Anticoagulants
 MS,Elitek,Antihyperuricemics
 MS,Eloctate,Hemophilia Treatment
 MS,Emcyt,Oncology Oral Prostate
-MS,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+MS,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 MS,Empliciti,Oncology IV
 MS,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 MS,Emtriva capsule,HIV AIDS
@@ -36475,7 +36593,7 @@ MS,Exelon,Alzheimers Agents
 MS,Exkivity,Oncology Oral Lung
 MS,Exondys 51,Duchenne Muscular Dystrophy
 MS,Eylea,Macular Degeneration Agents
-MS,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+MS,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 MS,Fabrazyme,Enzyme Replacement Fabry Disease
 MS,Farxiga,Hypoglycemics SGLT2
 MS,Fazaclo,Antipsychotics
@@ -36912,7 +37030,7 @@ MS,Ziprasidone Oral,Antipsychotics
 MS,Zokinvy,Progeria Treatments
 MS,Zolgensma,Spinal Muscular Atrophy
 MS,Zolpidem tablet,Sedative Hypnotics
-MS,Zolpidem CR,Sedative Hypnotics
+MS,Zolpidem ER,Sedative Hypnotics
 MS,Zonisade,Anticonvulsants
 MS,Zontivity,Platelet Aggregation Inhibitors
 MS,Ztalmy,Anticonvulsants
@@ -37002,10 +37120,10 @@ MS,Cobenfy capsule,Antipsychotics
 MS,Chenodal tablet,Bile Salts
 MS,Cholbam capsule,Bile Salts
 MS,Miplyffa capsule,Niemann-Pick Disease
-MS,Dyanavel XR oral suspension,Stimulants and Related Agents
-MS,Dyanavel XR tablet,Stimulants and Related Agents
+MS,Dyanavel XR ER oral suspension,Stimulants and Related Agents
+MS,Dyanavel XR ER tablet,Stimulants and Related Agents
 MS,Quillichew XR,Stimulants and Related Agents
-MS,Quillivant XR,Stimulants and Related Agents
+MS,Quillivant XR ER oral suspension,Stimulants and Related Agents
 MS,Fruzaqla,Oncology Oral Other
 MS,Verzenio,Oncology Oral Breast
 MS,Ibrance,Oncology Oral Breast
@@ -37634,6 +37752,10 @@ MS,Rinvoq Giant Cell Arteritis,Cytokine and CAM Antagonists
 MS,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",Cytokine and CAM Antagonists
 MS,Bimzelx Hidradenitis Suppurativa,Cytokine and CAM Antagonists
 MS,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+MS,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+MS,Lamzede IV solution,Enzyme Replacement Therapy
+MS,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+MS,Clenpiq,Bowel Prep Agents
 MO,Aimovig,Antimigraine Agents Other
 MO,Ajovy,Antimigraine Agents Other
 MO,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -37915,7 +38037,7 @@ MO,Eliquis,Anticoagulants
 MO,Elitek,Antihyperuricemics
 MO,Eloctate,Hemophilia Treatment
 MO,Emcyt,Oncology Oral Prostate
-MO,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+MO,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 MO,Empliciti,Oncology IV
 MO,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 MO,Emtriva capsule,HIV AIDS
@@ -37947,7 +38069,7 @@ MO,Exelon,Alzheimers Agents
 MO,Exkivity,Oncology Oral Lung
 MO,Exondys 51,Duchenne Muscular Dystrophy
 MO,Eylea,Macular Degeneration Agents
-MO,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+MO,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 MO,Fabrazyme,Enzyme Replacement Fabry Disease
 MO,Farxiga,Hypoglycemics SGLT2
 MO,Fazaclo,Antipsychotics
@@ -38363,7 +38485,7 @@ MO,Ziagen,HIV AIDS
 MO,Ziprasidone,Antipsychotics
 MO,Zokinvy,Progeria Treatments
 MO,Zolgensma,Spinal Muscular Atrophy
-MO,Zolpidem CR,Sedative Hypnotics
+MO,Zolpidem ER,Sedative Hypnotics
 MO,Zonisade,Anticonvulsants
 MO,Zontivity,Platelet Aggregation Inhibitors
 MO,Ztalmy,Anticonvulsants
@@ -38516,7 +38638,7 @@ MO,Pylera,H Pylori Treatment
 MO,Talicia,H Pylori Treatment
 MO,Tzield,Immunomodulators Type 1 Diabetes
 MO,Dyanavel XR,Stimulants and Related Agents
-MO,Quillivant XR,Stimulants and Related Agents
+MO,Quillivant XR ER oral suspension,Stimulants and Related Agents
 MO,Quillichew XR,Stimulants and Related Agents
 MO,Ingrezza Huntington's Disease,Movement Disorders
 MO,Ingrezza Tardive Dyskinesia,Movement Disorders
@@ -38812,7 +38934,7 @@ MO,"Stelara prefilled syringe, Psoriatic Arthritis (pediatric)",Cytokine and CAM
 MO,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",Cytokine and CAM Antagonists
 MO,Uplizna Neuromyelitis Optica Spectrum Disorder (NMOSD),Cytokine and CAM Antagonists
 MO,Velsipity Ulcerative Colitis (adult),Cytokine and CAM Antagonists
-MO,"Xeljanz Ankylosing Spondylitis, IR tablet",Cytokine and CAM Antagonists
+MO,Xeljanz Ankylosing Spondylitis,Cytokine and CAM Antagonists
 MO,Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
 MO,Xeljanz Psoriatic Arthritis (adult),Cytokine and CAM Antagonists
 MO,Xeljanz Ulcerative Colitis (adult),Cytokine and CAM Antagonists
@@ -39153,6 +39275,10 @@ MO,Ohtuvayre inhalation suspension,COPD Agents
 MO,Voranigo tablet,Oncology Oral Other
 MO,Zevaskyn topical cellular sheets,Gene Therapies
 MO,Vanrafia tablet,IgA Nephropathy (IgAN)
+MO,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+MO,Lamzede IV solution,Enzyme Replacement Therapy
+MO,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+MO,Clenpiq,Bowel Prep Agents
 MT,Aimovig,Antimigraine Agents Other
 MT,Ajovy,Antimigraine Agents Other
 MT,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -39447,7 +39573,7 @@ MT,Eliquis,Anticoagulants
 MT,Elitek,Antihyperuricemics
 MT,Eloctate,Hemophilia Treatment
 MT,Emcyt,Oncology Oral Prostate
-MT,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+MT,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 MT,Empliciti,Oncology IV
 MT,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 MT,Emtriva capsule,HIV AIDS
@@ -39480,7 +39606,7 @@ MT,Exelon,Alzheimers Agents
 MT,Exkivity,Oncology Oral Lung
 MT,Exondys 51,Duchenne Muscular Dystrophy
 MT,Eylea,Macular Degeneration Agents
-MT,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+MT,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 MT,Fabrazyme,Enzyme Replacement Fabry Disease
 MT,Farxiga,Hypoglycemics SGLT2
 MT,Fazaclo,Antipsychotics
@@ -39917,7 +40043,7 @@ MT,Ziprasidone,Antipsychotics
 MT,Zokinvy,Progeria Treatments
 MT,Zolgensma,Spinal Muscular Atrophy
 MT,Zolpidem IR tablet,Sedative Hypnotics
-MT,Zolpidem CR,Sedative Hypnotics
+MT,Zolpidem ER,Sedative Hypnotics
 MT,Zonisade,Anticonvulsants
 MT,Zontivity,Platelet Aggregation Inhibitors
 MT,Ztalmy,Anticonvulsants
@@ -40018,7 +40144,7 @@ MT,Onureg,Oncology Oral Hematologic
 MT,Propranolol oral solution,Beta Blockers
 MT,Dyanavel XR,Stimulants and Related Agents
 MT,Quillichew XR,Stimulants and Related Agents
-MT,Quillivant XR,Stimulants and Related Agents
+MT,Quillivant XR ER oral suspension,Stimulants and Related Agents
 MT,Fruzaqla,Oncology Oral Other
 MT,Tzield,Immunomodulators Type 1 Diabetes
 MT,Iwilfin,Oncology Oral Other
@@ -40544,8 +40670,6 @@ MT,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), auto-inj
 MT,"Tezspire Asthma (pediatric), auto-injector",Immunomodulators Asthma
 MT,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
 MT,"Tezspire Asthma (pediatric), prefilled syringe",Immunomodulators Asthma
-MT,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
-MT,"Tezspire Asthma (pediatric), vial",Immunomodulators Asthma
 MT,Xolair Asthma (Adults and Adolescents 12 years of age and older),Immunomodulators Asthma
 MT,Xolair Asthma (Pediatrics 6 years to 11 years of age),Immunomodulators Asthma
 MT,Xolair Chronic Rhinosinusitis with Nasal Polyposis,Immunomodulators Asthma
@@ -40660,6 +40784,9 @@ MT,Rinvoq Giant Cell Arteritis,Cytokine and CAM Antagonists
 MT,Voranigo tablet,Oncology Oral Other
 MT,Zevaskyn topical cellular sheets,Gene Therapies
 MT,Vanrafia tablet,IgA Nephropathy (IgAN)
+MT,Lamzede IV solution,Enzyme Replacement Therapy
+MT,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+MT,Clenpiq,Bowel Prep Agents
 NE,Aimovig,Antimigraine Agents Other
 NE,Ajovy,Antimigraine Agents Other
 NE,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -40708,7 +40835,7 @@ NE,Norditropin,Growth Hormone
 NE,Omnitrope,Growth Hormone
 NE,Saizen,Growth Hormone
 NE,Skytrofa,Growth Hormone
-NE,Cinqair,Immunomodulators Asthma
+NE,Cinqair Asthma (adult),Immunomodulators Asthma
 NE,Lokelma,Potassium Binders
 NE,Veltassa,Potassium Binders
 NE,Sodium Polystyrene Sulfonate,Potassium Binders
@@ -40944,7 +41071,7 @@ NE,Eliquis,Anticoagulants
 NE,Elitek,Antihyperuricemics
 NE,Eloctate,Hemophilia Treatment
 NE,Emcyt,Oncology Oral Prostate
-NE,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+NE,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 NE,Empliciti,Oncology IV
 NE,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 NE,Emtriva capsule,HIV AIDS
@@ -40976,7 +41103,7 @@ NE,Exelon,Alzheimers Agents
 NE,Exkivity,Oncology Oral Lung
 NE,Exondys 51,Duchenne Muscular Dystrophy
 NE,Eylea,Macular Degeneration Agents
-NE,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+NE,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 NE,Fabrazyme,Enzyme Replacement Fabry Disease
 NE,Farxiga,Hypoglycemics SGLT2
 NE,Fazaclo,Antipsychotics
@@ -41245,7 +41372,7 @@ NE,Semglee,Hypoglycemics Insulin and Related Agents
 NE,Seroquel,Antipsychotics
 NE,Sevelamer carbonate tablets,Phosphate Binders
 NE,Sevelamer hydrochloride tablets,Phosphate Binders
-NE,Sildenafil 20 mg,PAH Agents Oral and Inhaled
+NE,Sildenafil tablet,PAH Agents Oral and Inhaled
 NE,Sildenafil oral suspension,PAH Agents Oral and Inhaled
 NE,Skelaxin,Skeletal Muscle Relaxants
 NE,Skyclarys,Friedreich ataxia
@@ -41412,7 +41539,7 @@ NE,Ziprasidone,Antipsychotics
 NE,Zokinvy,Progeria Treatments
 NE,Zolgensma,Spinal Muscular Atrophy
 NE,Zolpidem,Sedative Hypnotics
-NE,Zolpidem CR,Sedative Hypnotics
+NE,Zolpidem ER,Sedative Hypnotics
 NE,Zonisade,Anticonvulsants
 NE,Zontivity,Platelet Aggregation Inhibitors
 NE,Ztalmy,Anticonvulsants
@@ -41846,7 +41973,7 @@ NE,"Xolair auto-injector, IgE-Mediated Food Allergy",Immunomodulators Asthma
 NE,"Xolair IgE-Mediated Food Allergy, prefilled syringe",Immunomodulators Asthma
 NE,Dyanavel XR,Stimulants and Related Agents
 NE,Quillichew XR,Stimulants and Related Agents
-NE,Quillivant XR,Stimulants and Related Agents
+NE,Quillivant XR ER oral suspension,Stimulants and Related Agents
 NE,Femlyv ODT,Contraceptives Oral
 NE,Iwilfin,Oncology Oral Other
 NE,Fruzaqla,Oncology Oral Other
@@ -42188,6 +42315,13 @@ NE,Ohtuvayre inhalation suspension,COPD Agents
 NE,Voranigo tablet,Oncology Oral Other
 NE,Zevaskyn topical cellular sheets,Gene Therapies
 NE,Vanrafia tablet,IgA Nephropathy (IgAN)
+NE,Donepezil 23 mg,Alzheimers Agents
+NE,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+NE,Bimzelx Hidradenitis Suppurativa,Cytokine and CAM Antagonists
+NE,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+NE,Lamzede IV solution,Enzyme Replacement Therapy
+NE,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+NE,Clenpiq,Bowel Prep Agents
 NV,Aimovig,Antimigraine Agents Other
 NV,Ajovy,Antimigraine Agents Other
 NV,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -42481,7 +42615,7 @@ NV,Eliquis,Anticoagulants
 NV,Elitek,Antihyperuricemics
 NV,Eloctate,Hemophilia Treatment
 NV,Emcyt,Oncology Oral Prostate
-NV,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+NV,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 NV,Empliciti,Oncology IV
 NV,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 NV,Emtriva capsule,HIV AIDS
@@ -42514,7 +42648,7 @@ NV,Exelon,Alzheimers Agents
 NV,Exkivity,Oncology Oral Lung
 NV,Exondys 51,Duchenne Muscular Dystrophy
 NV,Eylea,Macular Degeneration Agents
-NV,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+NV,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 NV,Fabrazyme,Enzyme Replacement Fabry Disease
 NV,Farxiga,Hypoglycemics SGLT2
 NV,Fazaclo,Antipsychotics
@@ -42951,7 +43085,7 @@ NV,Ziprasidone,Antipsychotics
 NV,Zokinvy,Progeria Treatments
 NV,Zolgensma,Spinal Muscular Atrophy
 NV,Zolpidem,Sedative Hypnotics
-NV,Zolpidem CR,Sedative Hypnotics
+NV,Zolpidem ER,Sedative Hypnotics
 NV,Zonisade,Anticonvulsants
 NV,Zontivity,Platelet Aggregation Inhibitors
 NV,Ztalmy,Anticonvulsants
@@ -43047,7 +43181,7 @@ NV,Onureg,Oncology Oral Hematologic
 NV,Propranolol oral solution,Beta Blockers
 NV,Dyanavel XR,Stimulants and Related Agents
 NV,Quillichew XR,Stimulants and Related Agents
-NV,Quillivant XR,Stimulants and Related Agents
+NV,Quillivant XR ER oral suspension,Stimulants and Related Agents
 NV,Helidac,H Pylori Treatment
 NV,Pylera,H Pylori Treatment
 NV,Prevpac,H Pylori Treatment
@@ -43659,6 +43793,9 @@ NV,Ohtuvayre inhalation suspension,COPD Agents
 NV,Voranigo tablet,Oncology Oral Other
 NV,Zevaskyn topical cellular sheets,Gene Therapies
 NV,Vanrafia tablet,IgA Nephropathy (IgAN)
+NV,Lamzede IV solution,Enzyme Replacement Therapy
+NV,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+NV,Clenpiq,Bowel Prep Agents
 NH,Aimovig,Antimigraine Agents Other
 NH,Ajovy,Antimigraine Agents Other
 NH,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -43952,7 +44089,7 @@ NH,Eliquis,Anticoagulants
 NH,Elitek,Antihyperuricemics
 NH,Eloctate,Hemophilia Treatment
 NH,Emcyt,Oncology Oral Prostate
-NH,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+NH,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 NH,Empliciti,Oncology IV
 NH,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 NH,Emtriva capsule,HIV AIDS
@@ -43985,7 +44122,7 @@ NH,Exelon,Alzheimers Agents
 NH,Exkivity,Oncology Oral Lung
 NH,Exondys 51,Duchenne Muscular Dystrophy
 NH,Eylea,Macular Degeneration Agents
-NH,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+NH,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 NH,Fabrazyme,Enzyme Replacement Fabry Disease
 NH,Farxiga,Hypoglycemics SGLT2
 NH,Fazaclo,Antipsychotics
@@ -44422,7 +44559,7 @@ NH,Ziprasidone,Antipsychotics
 NH,Zokinvy,Progeria Treatments
 NH,Zolgensma,Spinal Muscular Atrophy
 NH,Zolpidem,Sedative Hypnotics
-NH,Zolpidem CR,Sedative Hypnotics
+NH,Zolpidem ER,Sedative Hypnotics
 NH,Zonisade,Anticonvulsants
 NH,Zontivity,Platelet Aggregation Inhibitors
 NH,Ztalmy,Anticonvulsants
@@ -44517,7 +44654,7 @@ NH,Propranolol oral solution,Beta Blockers
 NH,Femlyv,Contraceptives Oral
 NH,Dyanavel XR,Stimulants and Related Agents
 NH,Quillichew XR,Stimulants and Related Agents
-NH,Quillivant XR,Stimulants and Related Agents
+NH,Quillivant XR ER oral suspension,Stimulants and Related Agents
 NH,Fruzaqla,Oncology Oral Other
 NH,Iwilfin,Oncology Oral Other
 NH,Ibrance,Oncology Oral Breast
@@ -45112,6 +45249,9 @@ NH,Ohtuvayre inhalation suspension,COPD Agents
 NH,Voranigo tablet,Oncology Oral Other
 NH,Zevaskyn topical cellular sheets,Gene Therapies
 NH,Vanrafia tablet,IgA Nephropathy (IgAN)
+NH,Lamzede IV solution,Enzyme Replacement Therapy
+NH,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+NH,Clenpiq,Bowel Prep Agents
 NJ,Aimovig,Antimigraine Agents Other
 NJ,Ajovy,Antimigraine Agents Other
 NJ,Nurtec ODT,Antimigraine Agents Acute Treatment
@@ -45412,7 +45552,7 @@ NJ,Eliquis,Anticoagulants
 NJ,Elitek,Antihyperuricemics
 NJ,Eloctate,Hemophilia Treatment
 NJ,Emcyt,Oncology Oral Prostate
-NJ,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+NJ,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 NJ,Empliciti,Oncology IV
 NJ,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 NJ,Emtriva capsule,HIV AIDS
@@ -45445,7 +45585,7 @@ NJ,Exelon,Alzheimers Agents
 NJ,Exkivity,Oncology Oral Lung
 NJ,Exondys 51,Duchenne Muscular Dystrophy
 NJ,Eylea,Macular Degeneration Agents
-NJ,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+NJ,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 NJ,Fabrazyme,Enzyme Replacement Fabry Disease
 NJ,Farxiga,Hypoglycemics SGLT2
 NJ,Fazaclo,Antipsychotics
@@ -45886,7 +46026,7 @@ NJ,Ziprasidone,Antipsychotics
 NJ,Zokinvy,Progeria Treatments
 NJ,Zolgensma,Spinal Muscular Atrophy
 NJ,Zolpidem,Sedative Hypnotics
-NJ,Zolpidem CR,Sedative Hypnotics
+NJ,Zolpidem ER,Sedative Hypnotics
 NJ,Zonisade,Anticonvulsants
 NJ,Zontivity,Platelet Aggregation Inhibitors
 NJ,Ztalmy,Anticonvulsants
@@ -46162,12 +46302,10 @@ NJ,Rezlidhia,Oncology Oral Hematologic
 NJ,Tibsovo,Oncology Oral Hematologic
 NJ,Vidaza (Azacitidine),Oncology IV
 NJ,Nplate,Thrombopoiesis Stimulating Proteins
-NJ,Clenpiq,Bowel Prep Agents
-NJ,Sutab,Bowel Prep Agents
 NJ,Adderall XR ER capsule,Stimulants and Related Agents
 NJ,Dyanavel XR,Stimulants and Related Agents
 NJ,Quillichew XR,Stimulants and Related Agents
-NJ,Quillivant XR,Stimulants and Related Agents
+NJ,Quillivant XR ER oral suspension,Stimulants and Related Agents
 NJ,Vyvanse,Stimulants and Related Agents
 NJ,Tacrolimus,Immunosuppressives Oral
 NJ,Spinosad,Antiparasitics Topical
@@ -46217,7 +46355,7 @@ NJ,Vevye,Ophthalmics Antiinflammatory Immunomodulator
 NJ,Zerviate (Cetirizine),Ophthalmic Antihistamines
 NJ,Levalbuterol Tartrate,Bronchodilators Beta Agonist
 NJ,Cobenfy,Antipsychotics
-NJ,Chenodal,Bile Salts
+NJ,Chenodal tablet,Bile Salts
 NJ,Cholbam,Bile Salts
 NJ,Miplyffa,Niemann-Pick Disease
 NJ,Fruzaqla,Oncology Oral Other
@@ -46225,7 +46363,7 @@ NJ,Duvyzat,Duchenne Muscular Dystrophy
 NJ,Kuvan,Phenylketonuria
 NJ,Vijoice,"Enzyme Inhibitors, Systemic"
 NJ,Pyrukynd,Pyruvate Kinase Deficiency
-NJ,Elevidys,Duchenne Muscular Dystrophy
+NJ,Elevidys intravenous infusion kit,Duchenne Muscular Dystrophy
 NJ,Brineura,Batten Disease
 NJ,Naglazyme,Mucopolysaccharidosis
 NJ,Palynziq,Phenylketonuria
@@ -46536,6 +46674,11 @@ NJ,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
 NJ,Voranigo tablet,Oncology Oral Other
 NJ,Zevaskyn topical cellular sheets,Gene Therapies
 NJ,Vanrafia tablet,IgA Nephropathy (IgAN)
+NJ,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+NJ,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+NJ,Lamzede IV solution,Enzyme Replacement Therapy
+NJ,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+NJ,Clenpiq,Bowel Prep Agents
 NM,Aimovig,Antimigraine Agents Other
 NM,Ajovy,Antimigraine Agents Other
 NM,Nurtec ODT,Antimigraine Agents Acute Treatment
@@ -46836,7 +46979,7 @@ NM,Eliquis,Anticoagulants
 NM,Elitek,Antihyperuricemics
 NM,Eloctate,Hemophilia Treatment
 NM,Emcyt,Oncology Oral Prostate
-NM,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+NM,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 NM,Empliciti,Oncology IV
 NM,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 NM,Emtriva capsule,HIV AIDS
@@ -46869,7 +47012,7 @@ NM,Exelon,Alzheimers Agents
 NM,Exkivity,Oncology Oral Lung
 NM,Exondys 51,Duchenne Muscular Dystrophy
 NM,Eylea,Macular Degeneration Agents
-NM,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+NM,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 NM,Fabrazyme,Enzyme Replacement Fabry Disease
 NM,Farxiga,Hypoglycemics SGLT2
 NM,Fazaclo,Antipsychotics
@@ -47310,7 +47453,7 @@ NM,Ziprasidone,Antipsychotics
 NM,Zokinvy,Progeria Treatments
 NM,Zolgensma,Spinal Muscular Atrophy
 NM,Zolpidem,Sedative Hypnotics
-NM,Zolpidem CR,Sedative Hypnotics
+NM,Zolpidem ER,Sedative Hypnotics
 NM,Zonisade,Anticonvulsants
 NM,Zontivity,Platelet Aggregation Inhibitors
 NM,Ztalmy,Anticonvulsants
@@ -47586,12 +47729,10 @@ NM,Rezlidhia,Oncology Oral Hematologic
 NM,Tibsovo,Oncology Oral Hematologic
 NM,Vidaza (Azacitidine),Oncology IV
 NM,Nplate,Thrombopoiesis Stimulating Proteins
-NM,Clenpiq,Bowel Prep Agents
-NM,Sutab,Bowel Prep Agents
 NM,Adderall XR ER capsule,Stimulants and Related Agents
 NM,Dyanavel XR,Stimulants and Related Agents
 NM,Quillichew XR,Stimulants and Related Agents
-NM,Quillivant XR,Stimulants and Related Agents
+NM,Quillivant XR ER oral suspension,Stimulants and Related Agents
 NM,Vyvanse,Stimulants and Related Agents
 NM,Tacrolimus,Immunosuppressives Oral
 NM,Spinosad,Antiparasitics Topical
@@ -47641,7 +47782,7 @@ NM,Vevye,Ophthalmics Antiinflammatory Immunomodulator
 NM,Zerviate (Cetirizine),Ophthalmic Antihistamines
 NM,Levalbuterol Tartrate,Bronchodilators Beta Agonist
 NM,Cobenfy,Antipsychotics
-NM,Chenodal,Bile Salts
+NM,Chenodal tablet,Bile Salts
 NM,Cholbam,Bile Salts
 NM,Miplyffa,Niemann-Pick Disease
 NM,Fruzaqla,Oncology Oral Other
@@ -47649,7 +47790,7 @@ NM,Duvyzat,Duchenne Muscular Dystrophy
 NM,Kuvan,Phenylketonuria
 NM,Vijoice,"Enzyme Inhibitors, Systemic"
 NM,Pyrukynd,Pyruvate Kinase Deficiency
-NM,Elevidys,Duchenne Muscular Dystrophy
+NM,Elevidys intravenous infusion kit,Duchenne Muscular Dystrophy
 NM,Brineura,Batten Disease
 NM,Naglazyme,Mucopolysaccharidosis
 NM,Palynziq,Phenylketonuria
@@ -47960,6 +48101,11 @@ NM,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
 NM,Voranigo tablet,Oncology Oral Other
 NM,Zevaskyn topical cellular sheets,Gene Therapies
 NM,Vanrafia tablet,IgA Nephropathy (IgAN)
+NM,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+NM,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+NM,Lamzede IV solution,Enzyme Replacement Therapy
+NM,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+NM,Clenpiq,Bowel Prep Agents
 NY,Aimovig,Antimigraine Agents Other
 NY,Ajovy,Antimigraine Agents Other
 NY,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -48239,7 +48385,7 @@ NY,Eliquis,Anticoagulants
 NY,Elitek,Antihyperuricemics
 NY,Eloctate,Hemophilia Treatment
 NY,Emcyt,Oncology Oral Prostate
-NY,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+NY,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 NY,Empliciti,Oncology IV
 NY,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 NY,Emtriva capsule,HIV AIDS
@@ -48272,7 +48418,7 @@ NY,Exelon,Alzheimers Agents
 NY,Exkivity,Oncology Oral Lung
 NY,Exondys 51,Duchenne Muscular Dystrophy
 NY,Eylea,Macular Degeneration Agents
-NY,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+NY,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 NY,Fabrazyme,Enzyme Replacement Fabry Disease
 NY,Farxiga,Hypoglycemics SGLT2
 NY,Fazaclo,Antipsychotics
@@ -48705,7 +48851,7 @@ NY,Ziprasidone Oral,Antipsychotics
 NY,Zokinvy,Progeria Treatments
 NY,Zolgensma,Spinal Muscular Atrophy
 NY,Zolpidem,Sedative Hypnotics
-NY,Zolpidem CR,Sedative Hypnotics
+NY,Zolpidem ER,Sedative Hypnotics
 NY,Zonisade,Anticonvulsants
 NY,Zontivity,Platelet Aggregation Inhibitors
 NY,Ztalmy,Anticonvulsants
@@ -48804,7 +48950,7 @@ NY,Onureg,Oncology Oral Hematologic
 NY,Propranolol oral solution,Beta Blockers
 NY,Dyanavel XR,Stimulants and Related Agents
 NY,Quillichew XR,Stimulants and Related Agents
-NY,Quillivant XR,Stimulants and Related Agents
+NY,Quillivant XR ER oral suspension,Stimulants and Related Agents
 NY,Talicia,H Pylori Treatment
 NY,Prevpac,H Pylori Treatment
 NY,Pylera,H Pylori Treatment
@@ -49230,8 +49376,6 @@ NY,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), auto-inj
 NY,"Tezspire Asthma (pediatric), auto-injector",Immunomodulators Asthma
 NY,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
 NY,"Tezspire Asthma (pediatric), prefilled syringe",Immunomodulators Asthma
-NY,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
-NY,"Tezspire Asthma (pediatric), vial",Immunomodulators Asthma
 NY,Dupixent Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Atopic Dermatitis
 NY,Hympavzi auto-injector,Hemophilia Treatment
 NY,Ebglyss Atopic Dermatitis (adult),Immunomodulators Atopic Dermatitis
@@ -49453,6 +49597,9 @@ NY,Ohtuvayre inhalation suspension,COPD Agents
 NY,Voranigo tablet,Oncology Oral Other
 NY,Zevaskyn topical cellular sheets,Gene Therapies
 NY,Vanrafia tablet,IgA Nephropathy (IgAN)
+NY,Lamzede IV solution,Enzyme Replacement Therapy
+NY,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+NY,Clenpiq,Bowel Prep Agents
 NC,Aimovig,Antimigraine Agents Other
 NC,Ajovy,Antimigraine Agents Other
 NC,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -49735,7 +49882,7 @@ NC,Eliquis,Anticoagulants
 NC,Elitek,Antihyperuricemics
 NC,Eloctate,Hemophilia Treatment
 NC,Emcyt,Oncology Oral Prostate
-NC,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+NC,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 NC,Empliciti,Oncology IV
 NC,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 NC,Emtriva capsule,HIV AIDS
@@ -49768,7 +49915,7 @@ NC,Exelon,Alzheimers Agents
 NC,Exkivity,Oncology Oral Lung
 NC,Exondys 51,Duchenne Muscular Dystrophy
 NC,Eylea,Macular Degeneration Agents
-NC,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+NC,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 NC,Fabrazyme,Enzyme Replacement Fabry Disease
 NC,Farxiga,Hypoglycemics SGLT2
 NC,Fazaclo,Antipsychotics
@@ -50205,7 +50352,7 @@ NC,Ziprasidone,Antipsychotics
 NC,Zokinvy,Progeria Treatments
 NC,Zolgensma,Spinal Muscular Atrophy
 NC,Zolpidem,Sedative Hypnotics
-NC,Zolpidem CR,Sedative Hypnotics
+NC,Zolpidem ER,Sedative Hypnotics
 NC,Zonisade,Anticonvulsants
 NC,Zontivity,Platelet Aggregation Inhibitors
 NC,Ztalmy,Anticonvulsants
@@ -50304,8 +50451,8 @@ NC,Nplate,Thrombopoiesis Stimulating Proteins
 NC,Decitabine,Oncology IV
 NC,Onureg,Oncology Oral Hematologic
 NC,Propranolol oral solution,Beta Blockers
-NC,Dyanavel XR oral suspension,Stimulants and Related Agents
-NC,Dyanavel XR tablet,Stimulants and Related Agents
+NC,Dyanavel XR ER oral suspension,Stimulants and Related Agents
+NC,Dyanavel XR ER tablet,Stimulants and Related Agents
 NC,Quillivant XR ER oral suspension,Stimulants and Related Agents
 NC,Quillichew XR,Stimulants and Related Agents
 NC,Kisqali,Oncology Oral Breast
@@ -50548,10 +50695,10 @@ NC,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),Immunomodulators A
 NC,Nucala Hypereosinophilic Syndrome (HES),Immunomodulators Asthma
 NC,Olumiant Alopecia Areata,Cytokine and CAM Antagonists
 NC,Olumiant Rheumatoid Arthritis,Cytokine and CAM Antagonists
-NC,Orencia Acute Graft Versus Host Disease (aGVHD),Cytokine and CAM Antagonists
-NC,Orencia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
-NC,Orencia Psoriatic Arthritis (adult),Cytokine and CAM Antagonists
-NC,Orencia Rheumatoid Arthritis,Cytokine and CAM Antagonists
+NC,"Orencia Acute Graft Versus Host Disease (aGVHD), vial",Cytokine and CAM Antagonists
+NC,"Orencia Polyarticular Juvenile Idiopathic Arthritis (PJIA), vial",Cytokine and CAM Antagonists
+NC,"Orencia Psoriatic Arthritis (adult), vial",Cytokine and CAM Antagonists
+NC,"Orencia Rheumatoid Arthritis, vial",Cytokine and CAM Antagonists
 NC,Otezla Plaque Psoriasis (adult),Cytokine and CAM Antagonists
 NC,Otezla Plaque Psoriasis (pediatric),Cytokine and CAM Antagonists
 NC,Otezla Psoriatic Arthritis (adult),Cytokine and CAM Antagonists
@@ -50969,6 +51116,27 @@ NC,Enalapril oral solution,ACE Inhibitors
 NC,Voranigo tablet,Oncology Oral Other
 NC,Zevaskyn topical cellular sheets,Gene Therapies
 NC,Vanrafia tablet,IgA Nephropathy (IgAN)
+NC,Nucala Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Asthma
+NC,Dupixent Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Atopic Dermatitis
+NC,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
+NC,Dupixent Chronic Spontaneous Urticaria (CSU),Immunomodulators Atopic Dermatitis
+NC,"Adbry Atopic Dermatitis (pediatric), auto-injector",Immunomodulators Atopic Dermatitis
+NC,Bimzelx Hidradenitis Suppurativa,Cytokine and CAM Antagonists
+NC,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+NC,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
+NC,"Orencia Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Cytokine and CAM Antagonists
+NC,"Orencia ClickJect, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
+NC,"Orencia prefilled syringe, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
+NC,"Orencia ClickJect, Rheumatoid Arthritis",Cytokine and CAM Antagonists
+NC,"Orencia prefilled syringe, Rheumatoid Arthritis",Cytokine and CAM Antagonists
+NC,Rinvoq Giant Cell Arteritis,Cytokine and CAM Antagonists
+NC,"Orencia ClickJect, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
+NC,"Orencia prefilled syringe, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
+NC,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+NC,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+NC,Lamzede IV solution,Enzyme Replacement Therapy
+NC,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+NC,Clenpiq,Bowel Prep Agents
 ND,Aimovig,Antimigraine Agents Other
 ND,Ajovy,Antimigraine Agents Other
 ND,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -51255,7 +51423,7 @@ ND,Eliquis,Anticoagulants
 ND,Elitek,Antihyperuricemics
 ND,Eloctate,Hemophilia Treatment
 ND,Emcyt,Oncology Oral Prostate
-ND,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+ND,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 ND,Empliciti,Oncology IV
 ND,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 ND,Emtriva capsule,HIV AIDS
@@ -51288,7 +51456,7 @@ ND,Exelon,Alzheimers Agents
 ND,Exkivity,Oncology Oral Lung
 ND,Exondys 51,Duchenne Muscular Dystrophy
 ND,Eylea,Macular Degeneration Agents
-ND,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+ND,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 ND,Fabrazyme,Enzyme Replacement Fabry Disease
 ND,Farxiga,Hypoglycemics SGLT2
 ND,Fazaclo,Antipsychotics
@@ -51704,7 +51872,7 @@ ND,Ziagen,HIV AIDS
 ND,Ziprasidone,Antipsychotics
 ND,Zokinvy,Progeria Treatments
 ND,Zolgensma,Spinal Muscular Atrophy
-ND,Zolpidem CR,Sedative Hypnotics
+ND,Zolpidem ER,Sedative Hypnotics
 ND,Zonisade,Anticonvulsants
 ND,Zontivity,Platelet Aggregation Inhibitors
 ND,Ztalmy,Anticonvulsants
@@ -51874,10 +52042,10 @@ ND,Ibrance,Oncology Oral Breast
 ND,Kisqali,Oncology Oral Breast
 ND,Verzenio,Oncology Oral Breast
 ND,Fruzaqla,Oncology Oral Other
-ND,Dyanavel XR oral suspension,Stimulants and Related Agents
-ND,Dyanavel XR tablet,Stimulants and Related Agents
-ND,Quillivant XR,Stimulants and Related Agents
-ND,Quillivant XR,Stimulants and Related Agents
+ND,Dyanavel XR ER oral suspension,Stimulants and Related Agents
+ND,Dyanavel XR ER tablet,Stimulants and Related Agents
+ND,Quillivant XR ER oral suspension,Stimulants and Related Agents
+ND,Quillivant XR ER oral suspension,Stimulants and Related Agents
 ND,Helidac,H Pylori Treatment
 ND,Lansoprazole / Amoxicillin / Clarithromycin,H Pylori Treatment
 ND,Pylera,H Pylori Treatment
@@ -52412,7 +52580,6 @@ ND,"Nucala 40 mg, Asthma (Pediatrics 6 years to 11 years of age), prefilled syri
 ND,"Nucala 40 mg, Asthma (Pediatrics 6 years to 11 years of age), vial",Immunomodulators Asthma
 ND,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), auto-injector",Immunomodulators Asthma
 ND,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
-ND,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
 ND,"Xolair Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
 ND,"Xolair Asthma (Pediatrics 6 years to 11 years of age), vial",Immunomodulators Asthma
 ND,"Xolair Asthma (Adults and Adolescents 12 years of age and older), auto-injector",Immunomodulators Asthma
@@ -52522,6 +52689,9 @@ ND,Ohtuvayre inhalation suspension,COPD Agents
 ND,Voranigo tablet,Oncology Oral Other
 ND,Zevaskyn topical cellular sheets,Gene Therapies
 ND,Vanrafia tablet,IgA Nephropathy (IgAN)
+ND,Lamzede IV solution,Enzyme Replacement Therapy
+ND,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+ND,Clenpiq,Bowel Prep Agents
 OH,Aimovig,Antimigraine Agents Other
 OH,Ajovy,Antimigraine Agents Other
 OH,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -52805,7 +52975,7 @@ OH,Eliquis,Anticoagulants
 OH,Elitek,Antihyperuricemics
 OH,Eloctate,Hemophilia Treatment
 OH,Emcyt,Oncology Oral Prostate
-OH,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+OH,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 OH,Empliciti,Oncology IV
 OH,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 OH,Emtriva capsule,HIV AIDS
@@ -52838,7 +53008,7 @@ OH,Exelon,Alzheimers Agents
 OH,Exkivity,Oncology Oral Lung
 OH,Exondys 51,Duchenne Muscular Dystrophy
 OH,Eylea,Macular Degeneration Agents
-OH,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+OH,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 OH,Fabrazyme,Enzyme Replacement Fabry Disease
 OH,Farxiga,Hypoglycemics SGLT2
 OH,Fazaclo,Antipsychotics
@@ -53266,7 +53436,7 @@ OH,Ziagen,HIV AIDS
 OH,Ziprasidone,Antipsychotics
 OH,Zokinvy,Progeria Treatments
 OH,Zolgensma,Spinal Muscular Atrophy
-OH,Zolpidem CR,Sedative Hypnotics
+OH,Zolpidem ER,Sedative Hypnotics
 OH,Zonisade,Anticonvulsants
 OH,Zontivity,Platelet Aggregation Inhibitors
 OH,Ztalmy,Anticonvulsants
@@ -53677,7 +53847,7 @@ OH,Nurtec ODT Migraine Prophylaxis,Antimigraine Agents Acute Treatment
 OH,Nurtec ODT Acute Treatment,Antimigraine Agents Acute Treatment
 OH,Dyanavel XR,Stimulants and Related Agents
 OH,Quillichew XR,Stimulants and Related Agents
-OH,Quillivant XR,Stimulants and Related Agents
+OH,Quillivant XR ER oral suspension,Stimulants and Related Agents
 OH,Iwilfin,Oncology Oral Other
 OH,Fruzaqla,Oncology Oral Other
 OH,Ibrance,Oncology Oral Breast
@@ -54048,6 +54218,9 @@ OH,Ohtuvayre inhalation suspension,COPD Agents
 OH,Voranigo tablet,Oncology Oral Other
 OH,Zevaskyn topical cellular sheets,Gene Therapies
 OH,Vanrafia tablet,IgA Nephropathy (IgAN)
+OH,Lamzede IV solution,Enzyme Replacement Therapy
+OH,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+OH,Clenpiq,Bowel Prep Agents
 OK,Aimovig,Antimigraine Agents Other
 OK,Ajovy,Antimigraine Agents Other
 OK,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -54339,7 +54512,7 @@ OK,Eliquis,Anticoagulants
 OK,Elitek,Antihyperuricemics
 OK,Eloctate,Hemophilia Treatment
 OK,Emcyt,Oncology Oral Prostate
-OK,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+OK,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 OK,Empliciti,Oncology IV
 OK,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 OK,Emtriva capsule,HIV AIDS
@@ -54372,7 +54545,7 @@ OK,Exelon,Alzheimers Agents
 OK,Exkivity,Oncology Oral Lung
 OK,Exondys 51,Duchenne Muscular Dystrophy
 OK,Eylea,Macular Degeneration Agents
-OK,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+OK,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 OK,Fabrazyme,Enzyme Replacement Fabry Disease
 OK,Farxiga,Hypoglycemics SGLT2
 OK,Fazaclo,Antipsychotics
@@ -54808,7 +54981,7 @@ OK,Ziprasidone,Antipsychotics
 OK,Zokinvy,Progeria Treatments
 OK,Zolgensma,Spinal Muscular Atrophy
 OK,Zolpidem,Sedative Hypnotics
-OK,Zolpidem CR,Sedative Hypnotics
+OK,Zolpidem ER,Sedative Hypnotics
 OK,Zonisade,Anticonvulsants
 OK,Zontivity,Platelet Aggregation Inhibitors
 OK,Ztalmy,Anticonvulsants
@@ -54906,9 +55079,9 @@ OK,Fruzaqla,Oncology Oral Other
 OK,Ibrance,Oncology Oral Breast
 OK,Kisqali,Oncology Oral Breast
 OK,Verzenio,Oncology Oral Breast
-OK,Dyanavel XR tablet,Stimulants and Related Agents
-OK,Dyanavel XR oral suspension,Stimulants and Related Agents
-OK,Quillivant XR,Stimulants and Related Agents
+OK,Dyanavel XR ER tablet,Stimulants and Related Agents
+OK,Dyanavel XR ER oral suspension,Stimulants and Related Agents
+OK,Quillivant XR ER oral suspension,Stimulants and Related Agents
 OK,Quillichew XR,Stimulants and Related Agents
 OK,Pylera,H Pylori Treatment
 OK,Lansoprazole / Amoxicillin / Clarithromycin,H Pylori Treatment
@@ -55526,6 +55699,9 @@ OK,Ohtuvayre inhalation suspension,COPD Agents
 OK,Voranigo tablet,Oncology Oral Other
 OK,Zevaskyn topical cellular sheets,Gene Therapies
 OK,Vanrafia tablet,IgA Nephropathy (IgAN)
+OK,Lamzede IV solution,Enzyme Replacement Therapy
+OK,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+OK,Clenpiq,Bowel Prep Agents
 OR,Aimovig,Antimigraine Agents Other
 OR,Ajovy,Antimigraine Agents Other
 OR,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -55814,7 +55990,7 @@ OR,Eliquis,Anticoagulants
 OR,Elitek,Antihyperuricemics
 OR,Eloctate,Hemophilia Treatment
 OR,Emcyt,Oncology Oral Prostate
-OR,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+OR,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 OR,Empliciti,Oncology IV
 OR,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 OR,Emtriva capsule,HIV AIDS
@@ -55846,7 +56022,7 @@ OR,Exelon,Alzheimers Agents
 OR,Exkivity,Oncology Oral Lung
 OR,Exondys 51,Duchenne Muscular Dystrophy
 OR,Eylea,Macular Degeneration Agents
-OR,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+OR,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 OR,Fabrazyme,Enzyme Replacement Fabry Disease
 OR,Farxiga,Hypoglycemics SGLT2
 OR,Fazaclo,Antipsychotics
@@ -56276,7 +56452,7 @@ OR,Ziagen,HIV AIDS
 OR,Ziprasidone,Antipsychotics
 OR,Zokinvy,Progeria Treatments
 OR,Zolgensma,Spinal Muscular Atrophy
-OR,Zolpidem CR,Sedative Hypnotics
+OR,Zolpidem ER,Sedative Hypnotics
 OR,Zonisade,Anticonvulsants
 OR,Zontivity,Platelet Aggregation Inhibitors
 OR,Ztalmy,Anticonvulsants
@@ -56394,7 +56570,7 @@ OR,Pylera,H Pylori Treatment
 OR,Tzield,Immunomodulators Type 1 Diabetes
 OR,Dyanavel XR,Stimulants and Related Agents
 OR,Quillichew XR,Stimulants and Related Agents
-OR,Quillivant XR,Stimulants and Related Agents
+OR,Quillivant XR ER oral suspension,Stimulants and Related Agents
 OR,Aqneursa oral suspension,Niemann-Pick Disease
 OR,Astagraf XL ER capsule,Immunosuppressives Oral
 OR,Brineura vial,Batten Disease
@@ -57030,6 +57206,9 @@ OR,Ohtuvayre inhalation suspension,COPD Agents
 OR,Voranigo tablet,Oncology Oral Other
 OR,Zevaskyn topical cellular sheets,Gene Therapies
 OR,Vanrafia tablet,IgA Nephropathy (IgAN)
+OR,Lamzede IV solution,Enzyme Replacement Therapy
+OR,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+OR,Clenpiq,Bowel Prep Agents
 PA,Aimovig,Antimigraine Agents Other
 PA,Ajovy,Antimigraine Agents Other
 PA,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -57305,7 +57484,7 @@ PA,Eliquis,Anticoagulants
 PA,Elitek,Antihyperuricemics
 PA,Eloctate,Hemophilia Treatment
 PA,Emcyt,Oncology Oral Prostate
-PA,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+PA,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 PA,Empliciti,Oncology IV
 PA,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 PA,Emtriva capsule,HIV AIDS
@@ -57336,7 +57515,7 @@ PA,Exelon,Alzheimers Agents
 PA,Exkivity,Oncology Oral Lung
 PA,Exondys 51,Duchenne Muscular Dystrophy
 PA,Eylea,Macular Degeneration Agents
-PA,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+PA,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 PA,Fabrazyme,Enzyme Replacement Fabry Disease
 PA,Farxiga,Hypoglycemics SGLT2
 PA,Fazaclo,Antipsychotics
@@ -57756,7 +57935,7 @@ PA,Ziagen,HIV AIDS
 PA,Ziprasidone,Antipsychotics
 PA,Zokinvy,Progeria Treatments
 PA,Zolgensma,Spinal Muscular Atrophy
-PA,Zolpidem CR,Sedative Hypnotics
+PA,Zolpidem ER,Sedative Hypnotics
 PA,Zonisade,Anticonvulsants
 PA,Zontivity,Platelet Aggregation Inhibitors
 PA,Ztalmy,Anticonvulsants
@@ -58546,8 +58725,8 @@ PA,Oseni tablet,Hypoglycemics Incretin Mimetics Enhancers
 PA,Kazano tablet,Hypoglycemics Incretin Mimetics Enhancers
 PA,Janumet XR ER tablet,Hypoglycemics Incretin Mimetics Enhancers
 PA,Zituvio tablet,Hypoglycemics Incretin Mimetics Enhancers
-PA,Dyanavel XR oral suspension,Stimulants and Related Agents
-PA,Dyanavel XR tablet,Stimulants and Related Agents
+PA,Dyanavel XR ER oral suspension,Stimulants and Related Agents
+PA,Dyanavel XR ER tablet,Stimulants and Related Agents
 PA,Quillichew XR,Stimulants and Related Agents
 PA,Quillivant XR ER oral suspension,Stimulants and Related Agents
 PA,Arformoterol Tartrate inhalation nebulization solution,COPD Agents
@@ -58562,6 +58741,9 @@ PA,Ohtuvayre inhalation suspension,COPD Agents
 PA,Voranigo tablet,Oncology Oral Other
 PA,Zevaskyn topical cellular sheets,Gene Therapies
 PA,Vanrafia tablet,IgA Nephropathy (IgAN)
+PA,Lamzede IV solution,Enzyme Replacement Therapy
+PA,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+PA,Clenpiq,Bowel Prep Agents
 PR,Abrilada Ankylosing Spondylitis,Cytokine and CAM Antagonists
 PR,Abrilada Crohn’s Disease (adult),Cytokine and CAM Antagonists
 PR,Abrilada Crohn's Disease (pediatric),Cytokine and CAM Antagonists
@@ -58705,8 +58887,8 @@ PR,Humira Ulcerative Colitis (pediatric),Cytokine and CAM Antagonists
 PR,Humira Uveitis (adult),Cytokine and CAM Antagonists
 PR,Humira Uveitis (pediatric),Cytokine and CAM Antagonists
 PR,Ziihera,Oncology IV
-PR,Opzelura,Immunomodulators Atopic Dermatitis
-PR,Opzelura,Immunomodulators Atopic Dermatitis
+PR,"Opzelura Atopic Dermatitis, cream",Immunomodulators Atopic Dermatitis
+PR,"Opzelura cream, Nonsegmental Vitiligo",Immunomodulators Atopic Dermatitis
 PR,Yonsa tablet,Oncology Oral Prostate
 PR,Symbravo tablet,Antimigraine Agents Acute Treatment
 PR,Treximet tablet,Antimigraine Agents Acute Treatment
@@ -59283,7 +59465,7 @@ PR,Zarxio,Colony Stimulating Factors
 PR,Fanapt,Antipsychotics
 PR,Iwilfin,Oncology Oral Other
 PR,Bethkis,Antibiotics Inhaled
-PR,Quillivant XR,Stimulants and Related Agents
+PR,Quillivant XR ER oral suspension,Stimulants and Related Agents
 PR,Liletta,Contraceptives Other
 PR,Nexium DR capsule,Proton Pump Inhibitors
 PR,Nexium DR packet for oral suspension,Proton Pump Inhibitors
@@ -59292,7 +59474,7 @@ PR,"Sotyktu Plaque Psoriasis (adult), tablet",Cytokine and CAM Antagonists
 PR,Arikayce,Antibiotics Inhaled
 PR,Tibsovo,Oncology Oral Hematologic
 PR,Yervoy,Oncology IV
-PR,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+PR,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 PR,Imfinzi,Oncology IV
 PR,Joenja,APDS
 PR,Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
@@ -59392,7 +59574,7 @@ PR,"Yesintek Psoriatic Arthritis (pediatric), subcutaneous vial",Cytokine and CA
 PR,"Yesintek subcutaneous vial, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
 PR,"Yesintek Crohn’s Disease (adult), intravenous vial",Cytokine and CAM Antagonists
 PR,"Yesintek intravenous vial, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
-PR,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+PR,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 PR,Nurtec ODT Acute Treatment,Antimigraine Agents Acute Treatment
 PR,Nurtec ODT Migraine Prophylaxis,Antimigraine Agents Acute Treatment
 PR,Vevye ophthalmic solution,Ophthalmics Antiinflammatory Immunomodulator
@@ -59527,7 +59709,7 @@ PR,Rituxan,Oncology IV
 PR,Ramipril,ACE Inhibitors
 PR,Nextstellis,Contraceptives Oral
 PR,Roctavian,Hemophilia Treatment
-PR,Zolpidem CR,Sedative Hypnotics
+PR,Zolpidem ER,Sedative Hypnotics
 PR,Vidaza (Azacitidine) vial,Oncology IV
 PR,Emtriva capsule,HIV AIDS
 PR,Emtriva oral solution,HIV AIDS
@@ -59912,6 +60094,10 @@ PR,Concerta ER,Stimulants and Related Agents
 PR,Voranigo tablet,Oncology Oral Other
 PR,Zevaskyn topical cellular sheets,Gene Therapies
 PR,Vanrafia tablet,IgA Nephropathy (IgAN)
+PR,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+PR,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+PR,Lamzede IV solution,Enzyme Replacement Therapy
+PR,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
 RI,Aimovig,Antimigraine Agents Other
 RI,Ajovy,Antimigraine Agents Other
 RI,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -60205,7 +60391,7 @@ RI,Eliquis,Anticoagulants
 RI,Elitek,Antihyperuricemics
 RI,Eloctate,Hemophilia Treatment
 RI,Emcyt,Oncology Oral Prostate
-RI,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+RI,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 RI,Empliciti,Oncology IV
 RI,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 RI,Emtriva capsule,HIV AIDS
@@ -60238,7 +60424,7 @@ RI,Exelon,Alzheimers Agents
 RI,Exkivity,Oncology Oral Lung
 RI,Exondys 51,Duchenne Muscular Dystrophy
 RI,Eylea,Macular Degeneration Agents
-RI,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+RI,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 RI,Fabrazyme,Enzyme Replacement Fabry Disease
 RI,Farxiga,Hypoglycemics SGLT2
 RI,Fazaclo,Antipsychotics
@@ -60675,7 +60861,7 @@ RI,Ziprasidone,Antipsychotics
 RI,Zokinvy,Progeria Treatments
 RI,Zolgensma,Spinal Muscular Atrophy
 RI,Zolpidem,Sedative Hypnotics
-RI,Zolpidem CR,Sedative Hypnotics
+RI,Zolpidem ER,Sedative Hypnotics
 RI,Zonisade,Anticonvulsants
 RI,Zontivity,Platelet Aggregation Inhibitors
 RI,Ztalmy,Anticonvulsants
@@ -60783,7 +60969,7 @@ RI,Talicia,H Pylori Treatment
 RI,Prevpac,H Pylori Treatment
 RI,Dyanavel XR,Stimulants and Related Agents
 RI,Quillichew XR,Stimulants and Related Agents
-RI,Quillivant XR,Stimulants and Related Agents
+RI,Quillivant XR ER oral suspension,Stimulants and Related Agents
 RI,Aqneursa oral suspension,Niemann-Pick Disease
 RI,Astagraf XL ER capsule,Immunosuppressives Oral
 RI,Brineura vial,Batten Disease
@@ -61149,19 +61335,14 @@ RI,"Actemra Rheumatoid Arthritis, vial",Cytokine and CAM Antagonists
 RI,"Actemra Systemic-Onset Juvenile Idiopathic Arthritis (SJIA), vial",Cytokine and CAM Antagonists
 RI,"Actemra ACTPen, Giant Cell Arteritis",Cytokine and CAM Antagonists
 RI,"Actemra Giant Cell Arteritis, prefilled syringe",Cytokine and CAM Antagonists
-RI,"Actemra Giant Cell Arteritis, syringe/vial",Cytokine and CAM Antagonists
 RI,"Actemra ACTPen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
 RI,"Actemra Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Cytokine and CAM Antagonists
-RI,"Actemra Polyarticular Juvenile Idiopathic Arthritis (PJIA), syringe/vial",Cytokine and CAM Antagonists
 RI,"Actemra ACTPen, Rheumatoid Arthritis",Cytokine and CAM Antagonists
 RI,"Actemra prefilled syringe, Rheumatoid Arthritis",Cytokine and CAM Antagonists
-RI,"Actemra Rheumatoid Arthritis, syringe/vial",Cytokine and CAM Antagonists
 RI,"Actemra ACTPen, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Cytokine and CAM Antagonists
 RI,"Actemra prefilled syringe, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Cytokine and CAM Antagonists
-RI,"Actemra syringe/vial, Systemic-Onset Juvenile Idiopathic Arthritis (SJIA)",Cytokine and CAM Antagonists
 RI,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",Cytokine and CAM Antagonists
 RI,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",Cytokine and CAM Antagonists
-RI,"Actemra syringe/vial, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",Cytokine and CAM Antagonists
 RI,Arcalyst Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),Cytokine and CAM Antagonists
 RI,Arcalyst Deficiency of Interleukin-1 Receptor Antagonist (DIRA),Cytokine and CAM Antagonists
 RI,Arcalyst Recurrent Pericarditis (RP),Cytokine and CAM Antagonists
@@ -61366,6 +61547,17 @@ RI,Ohtuvayre inhalation suspension,COPD Agents
 RI,Voranigo tablet,Oncology Oral Other
 RI,Zevaskyn topical cellular sheets,Gene Therapies
 RI,Vanrafia tablet,IgA Nephropathy (IgAN)
+RI,Adbry Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+RI,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+RI,Nucala Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Asthma
+RI,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
+RI,Dupixent Chronic Spontaneous Urticaria (CSU),Immunomodulators Atopic Dermatitis
+RI,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+RI,Rinvoq Giant Cell Arteritis,Cytokine and CAM Antagonists
+RI,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+RI,Lamzede IV solution,Enzyme Replacement Therapy
+RI,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+RI,Clenpiq,Bowel Prep Agents
 SC,Aimovig,Antimigraine Agents Other
 SC,Ajovy,Antimigraine Agents Other
 SC,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -61517,7 +61709,7 @@ SC,Adakveo,Sickle Cell Disease
 SC,Adcirca,PAH Agents Oral and Inhaled
 SC,Adempas,PAH Agents Oral and Inhaled
 SC,Adlyxin,Hypoglycemics Incretin Mimetics Enhancers
-SC,Admelog,Hypoglycemics Insulin and Related Agents
+SC,Admelog vial,Hypoglycemics Insulin and Related Agents
 SC,Admelog SoloStar,Hypoglycemics Insulin and Related Agents
 SC,Adstiladrin,Oncology IV
 SC,Adthyza,Thyroid Hormones
@@ -61545,7 +61737,7 @@ SC,Amondys 45,Duchenne Muscular Dystrophy
 SC,Amrix,Skeletal Muscle Relaxants
 SC,Amvuttra,hATTR Amyloidosis
 SC,Anoro Ellipta,COPD Agents
-SC,Apidra,Hypoglycemics Insulin and Related Agents
+SC,Apidra vial,Hypoglycemics Insulin and Related Agents
 SC,Apidra SoloStar,Hypoglycemics Insulin and Related Agents
 SC,Aplenzin,Antidepressants Other
 SC,Aptiom,Anticonvulsants
@@ -61634,11 +61826,11 @@ SC,Dexcom G6 Transmitter,Continuous Glucose Monitoring
 SC,DexCom G7 Sensor,Continuous Glucose Monitoring
 SC,Dojolvi,Fatty Acid Oxidation Disorder
 SC,Donepezil ODT,Alzheimers Agents
-SC,Donepezil tablet,Alzheimers Agents
+SC,"Donepezil 10 mg, 5 mg, tablet",Alzheimers Agents
 SC,Doxil,Oncology IV
 SC,Duaklir Pressair,COPD Agents
 SC,Dulera,Glucocorticoids Combo Inhaled
-SC,Duloxetine,Antidepressants Other
+SC,Duloxetine generic Cymbalta,Antidepressants Other
 SC,Durysta,Ophthalmics Glaucoma Agents
 SC,Dysport,Botulinum Toxins
 SC,Edarbi,Angiotensin Modulators
@@ -61650,12 +61842,12 @@ SC,Eliquis,Anticoagulants
 SC,Elitek,Antihyperuricemics
 SC,Eloctate,Hemophilia Treatment
 SC,Emcyt,Oncology Oral Prostate
-SC,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+SC,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 SC,Empliciti,Oncology IV
 SC,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 SC,Emtriva capsule,HIV AIDS
 SC,Emtriva oral solution,HIV AIDS
-SC,Enalapril,ACE Inhibitors
+SC,Enalapril tablet,ACE Inhibitors
 SC,Endari,Sickle Cell Disease
 SC,Enhertu,Oncology IV
 SC,Enjaymo,Cold Agglutinin Disease Agents
@@ -61673,7 +61865,7 @@ SC,Equetro,Anticonvulsants
 SC,Erleada,Oncology Oral Prostate
 SC,Erlotinib,Oncology Oral Lung
 SC,Esbriet,Idiopathic Pulmonary Fibrosis
-SC,Esomeprazole,Proton Pump Inhibitors
+SC,Esomeprazole Capsule,Proton Pump Inhibitors
 SC,Esperoct,Hemophilia Treatment
 SC,Etonogestrel / Ethinyl Estradiol,Contraceptives Other
 SC,Evkeeza,Lipotropics Other
@@ -61683,7 +61875,7 @@ SC,Exelon,Alzheimers Agents
 SC,Exkivity,Oncology Oral Lung
 SC,Exondys 51,Duchenne Muscular Dystrophy
 SC,Eylea,Macular Degeneration Agents
-SC,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+SC,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 SC,Fabrazyme,Enzyme Replacement Fabry Disease
 SC,Farxiga,Hypoglycemics SGLT2
 SC,Fazaclo,Antipsychotics
@@ -61770,8 +61962,8 @@ SC,Kyleena,Contraceptives Other
 SC,Kyprolis,Oncology IV
 SC,Lamictal ODT,Anticonvulsants
 SC,Lamictal tablet,Anticonvulsants
-SC,Lamotrigine,Anticonvulsants
-SC,Lansoprazole,Proton Pump Inhibitors
+SC,Lamotrigine chewable tablet,Anticonvulsants
+SC,Lansoprazole DR capsule,Proton Pump Inhibitors
 SC,Lantus SoloStar,Hypoglycemics Insulin and Related Agents
 SC,Lantus vial,Hypoglycemics Insulin and Related Agents
 SC,Lastacaft,Ophthalmics for Allergic Conjunctivitis
@@ -61837,7 +62029,7 @@ SC,Novolin 70/30 Flexpen OTC,Hypoglycemics Insulin and Related Agents
 SC,Novolin N,Hypoglycemics Insulin and Related Agents
 SC,Novolin R,Hypoglycemics Insulin and Related Agents
 SC,Novolog,Hypoglycemics Insulin and Related Agents
-SC,Novolog 70/30,Hypoglycemics Insulin and Related Agents
+SC,Novolog 70/30 vial,Hypoglycemics Insulin and Related Agents
 SC,Novolog 70/30 FlexPen,Hypoglycemics Insulin and Related Agents
 SC,Novolog cartridge,Hypoglycemics Insulin and Related Agents
 SC,Novolog FlexPen,Hypoglycemics Insulin and Related Agents
@@ -61880,7 +62072,7 @@ SC,Phexxi,Contraceptives Other
 SC,Polivy,Oncology IV
 SC,Ponvory tablet,Multiple Sclerosis Agents
 SC,Ponvory starter pack,Multiple Sclerosis Agents
-SC,Pradaxa,Anticoagulants
+SC,Pradaxa capsule,Anticoagulants
 SC,Praluent,Lipotropics Other
 SC,Pred-G Drops/Susp,Ophthalmics Antibiotic Steroid Combinations
 SC,Prevacid capsule,Proton Pump Inhibitors
@@ -61913,7 +62105,7 @@ SC,Rebinyn,Hemophilia Treatment
 SC,Rebyota,Microbiota Suspension Enema
 SC,Relyvrio,Amyotrophic Lateral Sclerosis Agents
 SC,Renagel,Phosphate Binders
-SC,Renvela,Phosphate Binders
+SC,Renvela packet for oral suspension,Phosphate Binders
 SC,Repatha,Lipotropics Other
 SC,Retevmo,Oncology Oral Lung
 SC,Revatio oral suspension,PAH Agents Oral and Inhaled
@@ -62044,7 +62236,7 @@ SC,Uptravi tablet,PAH Agents Oral and Inhaled
 SC,Uptravi vial,PAH Agents Oral and Inhaled
 SC,Vabysmo,Macular Degeneration Agents
 SC,Valchlor,Antineoplastic Topical
-SC,Valsartan,Angiotensin Modulators
+SC,Valsartan oral solution,Angiotensin Modulators
 SC,Vanflyta,Oncology Oral Hematologic
 SC,Velcade,Oncology IV
 SC,Veletri,PAH Agents Injectable
@@ -62119,8 +62311,8 @@ SC,Ziagen,HIV AIDS
 SC,Ziprasidone,Antipsychotics
 SC,Zokinvy,Progeria Treatments
 SC,Zolgensma,Spinal Muscular Atrophy
-SC,Zolpidem,Sedative Hypnotics
-SC,Zolpidem CR,Sedative Hypnotics
+SC,Zolpidem tablet,Sedative Hypnotics
+SC,Zolpidem ER,Sedative Hypnotics
 SC,Zonisade,Anticonvulsants
 SC,Zontivity,Platelet Aggregation Inhibitors
 SC,Ztalmy,Anticonvulsants
@@ -62391,10 +62583,10 @@ SC,"Rinvoq ER tablet, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
 SC,"Tremfya Plaque Psoriasis (adult), prefilled syringe",Cytokine and CAM Antagonists
 SC,"Tremfya prefilled syringe, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
 SC,"Tremfya prefilled syringe, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
-SC,Dyanavel XR oral suspension,Stimulants and Related Agents
-SC,Dyanavel XR tablet,Stimulants and Related Agents
+SC,Dyanavel XR ER oral suspension,Stimulants and Related Agents
+SC,Dyanavel XR ER tablet,Stimulants and Related Agents
 SC,Quillichew XR,Stimulants and Related Agents
-SC,Quillivant XR,Stimulants and Related Agents
+SC,Quillivant XR ER oral suspension,Stimulants and Related Agents
 SC,Iwilfin,Oncology Oral Other
 SC,Fruzaqla,Oncology Oral Other
 SC,Ibrance,Oncology Oral Breast
@@ -62865,6 +63057,24 @@ SC,Ohtuvayre inhalation suspension,COPD Agents
 SC,Voranigo tablet,Oncology Oral Other
 SC,Zevaskyn topical cellular sheets,Gene Therapies
 SC,Vanrafia tablet,IgA Nephropathy (IgAN)
+SC,Enalapril oral solution,ACE Inhibitors
+SC,Valsartan tablet,Angiotensin Modulators
+SC,Pradaxa packet,Anticoagulants
+SC,Lamotrigine dispersible tablet,Anticonvulsants
+SC,Lamotrigine tablet,Anticonvulsants
+SC,"Lamotrigine ER, tablet",Anticonvulsants
+SC,Lamotrigine ODT,Anticonvulsants
+SC,Lamotrigine starter pak,Anticonvulsants
+SC,Topiramate sprinkle capsule,Anticonvulsants
+SC,Duloxetine generic Irenka,Antidepressants Other
+SC,Lamzede IV solution,Enzyme Replacement Therapy
+SC,Zolpidem capsule,Sedative Hypnotics
+SC,Esomeprazole Packet,Proton Pump Inhibitors
+SC,Lansoprazole ODT,Proton Pump Inhibitors
+SC,Renvela tablet,Phosphate Binders
+SC,Austedo titration pack,Movement Disorders
+SC,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+SC,Clenpiq,Bowel Prep Agents
 SD,Aimovig,Antimigraine Agents Other
 SD,Ajovy,Antimigraine Agents Other
 SD,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -63156,7 +63366,7 @@ SD,Eliquis,Anticoagulants
 SD,Elitek,Antihyperuricemics
 SD,Eloctate,Hemophilia Treatment
 SD,Emcyt,Oncology Oral Prostate
-SD,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+SD,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 SD,Empliciti,Oncology IV
 SD,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 SD,Emtriva capsule,HIV AIDS
@@ -63189,7 +63399,7 @@ SD,Exelon,Alzheimers Agents
 SD,Exkivity,Oncology Oral Lung
 SD,Exondys 51,Duchenne Muscular Dystrophy
 SD,Eylea,Macular Degeneration Agents
-SD,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+SD,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 SD,Fabrazyme,Enzyme Replacement Fabry Disease
 SD,Farxiga,Hypoglycemics SGLT2
 SD,Fazaclo,Antipsychotics
@@ -63626,7 +63836,7 @@ SD,Ziprasidone,Antipsychotics
 SD,Zokinvy,Progeria Treatments
 SD,Zolgensma,Spinal Muscular Atrophy
 SD,Zolpidem,Sedative Hypnotics
-SD,Zolpidem CR,Sedative Hypnotics
+SD,Zolpidem ER,Sedative Hypnotics
 SD,Zonisade,Anticonvulsants
 SD,Zontivity,Platelet Aggregation Inhibitors
 SD,Ztalmy,Anticonvulsants
@@ -63713,7 +63923,7 @@ SD,Chenodal tablet,Bile Salts
 SD,Cholbam capsule,Bile Salts
 SD,Miplyffa capsule,Niemann-Pick Disease
 SD,Dyanavel XR,Stimulants and Related Agents
-SD,Quillivant XR,Stimulants and Related Agents
+SD,Quillivant XR ER oral suspension,Stimulants and Related Agents
 SD,Quillichew XR,Stimulants and Related Agents
 SD,Iwilfin,Oncology Oral Other
 SD,Fruzaqla,Oncology Oral Other
@@ -64329,6 +64539,9 @@ SD,Ohtuvayre inhalation suspension,COPD Agents
 SD,Voranigo tablet,Oncology Oral Other
 SD,Zevaskyn topical cellular sheets,Gene Therapies
 SD,Vanrafia tablet,IgA Nephropathy (IgAN)
+SD,Lamzede IV solution,Enzyme Replacement Therapy
+SD,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+SD,Clenpiq,Bowel Prep Agents
 TN,Aimovig,Antimigraine Agents Other
 TN,Ajovy,Antimigraine Agents Other
 TN,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -64609,7 +64822,7 @@ TN,Eliquis,Anticoagulants
 TN,Elitek,Antihyperuricemics
 TN,Eloctate,Hemophilia Treatment
 TN,Emcyt,Oncology Oral Prostate
-TN,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+TN,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 TN,Empliciti,Oncology IV
 TN,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 TN,Emtriva capsule,HIV AIDS
@@ -64642,7 +64855,7 @@ TN,Exelon,Alzheimers Agents
 TN,Exkivity,Oncology Oral Lung
 TN,Exondys 51,Duchenne Muscular Dystrophy
 TN,Eylea,Macular Degeneration Agents
-TN,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+TN,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 TN,Fabrazyme,Enzyme Replacement Fabry Disease
 TN,Farxiga,Hypoglycemics SGLT2
 TN,Fazaclo,Antipsychotics
@@ -65072,7 +65285,7 @@ TN,Ziprasidone,Antipsychotics
 TN,Zokinvy,Progeria Treatments
 TN,Zolgensma,Spinal Muscular Atrophy
 TN,Zolpidem,Sedative Hypnotics
-TN,Zolpidem CR,Sedative Hypnotics
+TN,Zolpidem ER,Sedative Hypnotics
 TN,Zonisade,Anticonvulsants
 TN,Zontivity,Platelet Aggregation Inhibitors
 TN,Ztalmy,Anticonvulsants
@@ -65535,7 +65748,7 @@ TN,Lansoprazole / Amoxicillin / Clarithromycin,H Pylori Treatment
 TN,Omeclamox-Pak,H Pylori Treatment
 TN,Prevpac,H Pylori Treatment
 TN,Dyanavel XR,Stimulants and Related Agents
-TN,Quillivant XR,Stimulants and Related Agents
+TN,Quillivant XR ER oral suspension,Stimulants and Related Agents
 TN,Quillichew XR,Stimulants and Related Agents
 TN,Baclofen oral suspension,Skeletal Muscle Relaxants
 TN,Hadlima Ankylosing Spondylitis,Cytokine and CAM Antagonists
@@ -65864,6 +66077,10 @@ TN,Ohtuvayre inhalation suspension,COPD Agents
 TN,Voranigo tablet,Oncology Oral Other
 TN,Zevaskyn topical cellular sheets,Gene Therapies
 TN,Vanrafia tablet,IgA Nephropathy (IgAN)
+TN,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+TN,Lamzede IV solution,Enzyme Replacement Therapy
+TN,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+TN,Clenpiq,Bowel Prep Agents
 TX,Aimovig,Antimigraine Agents Other
 TX,Ajovy,Antimigraine Agents Other
 TX,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -66137,7 +66354,7 @@ TX,Eliquis,Anticoagulants
 TX,Elitek,Antihyperuricemics
 TX,Eloctate,Hemophilia Treatment
 TX,Emcyt,Oncology Oral Prostate
-TX,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+TX,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 TX,Empliciti,Oncology IV
 TX,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 TX,Emtriva capsule,HIV AIDS
@@ -66170,7 +66387,7 @@ TX,Exelon,Alzheimers Agents
 TX,Exkivity,Oncology Oral Lung
 TX,Exondys 51,Duchenne Muscular Dystrophy
 TX,Eylea,Macular Degeneration Agents
-TX,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+TX,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 TX,Fabrazyme,Enzyme Replacement Fabry Disease
 TX,Farxiga,Hypoglycemics SGLT2
 TX,Fazaclo,Antipsychotics
@@ -66597,7 +66814,7 @@ TX,Ziprasidone,Antipsychotics
 TX,Zokinvy,Progeria Treatments
 TX,Zolgensma,Spinal Muscular Atrophy
 TX,Zolpidem,Sedative Hypnotics
-TX,Zolpidem CR,Sedative Hypnotics
+TX,Zolpidem ER,Sedative Hypnotics
 TX,Zonisade,Anticonvulsants
 TX,Zontivity,Platelet Aggregation Inhibitors
 TX,Ztalmy,Anticonvulsants
@@ -66722,7 +66939,7 @@ TX,Prevpac,H Pylori Treatment
 TX,Pylera,H Pylori Treatment
 TX,Talicia,H Pylori Treatment
 TX,Dyanavel XR,Stimulants and Related Agents
-TX,Quillivant XR,Stimulants and Related Agents
+TX,Quillivant XR ER oral suspension,Stimulants and Related Agents
 TX,Quillichew XR,Stimulants and Related Agents
 TX,Almotriptan,Antimigraine Agents Triptans
 TX,Cafergot,Antimigraine Agents Other
@@ -67021,7 +67238,6 @@ TX,"Taltz Plaque Psoriasis (pediatric), prefilled syringe",Cytokine and CAM Anta
 TX,"Taltz prefilled syringe, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
 TX,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), auto-injector",Immunomodulators Asthma
 TX,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
-TX,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
 TX,"Tremfya Plaque Psoriasis (adult), prefilled syringe",Cytokine and CAM Antagonists
 TX,Uplizna Neuromyelitis Optica Spectrum Disorder (NMOSD),Cytokine and CAM Antagonists
 TX,Velsipity Ulcerative Colitis (adult),Cytokine and CAM Antagonists
@@ -67333,7 +67549,7 @@ TX,Bijuva capsule,Vaginal Estrogen Preparations
 TX,Veozah tablet,Vaginal Estrogen Preparations
 TX,Premarin tablet,Vaginal Estrogen Preparations
 TX,Duavee tablet,Vaginal Estrogen Preparations
-TX,"Paroxetine 7.5 mg, IR capsule",Antidepressants SSRIs
+TX,Paroxetine generic Paxil,Antidepressants SSRIs
 TX,Cyclosporine ophthalmic emulsion,Ophthalmics Antiinflammatory Immunomodulator
 TX,Eysuvis ophthalmic suspension,Ophthalmics Antiinflammatory Immunomodulator
 TX,Restasis MultiDose,Ophthalmics Antiinflammatory Immunomodulator
@@ -67413,6 +67629,12 @@ TX,Ohtuvayre inhalation suspension,COPD Agents
 TX,Voranigo tablet,Oncology Oral Other
 TX,Zevaskyn topical cellular sheets,Gene Therapies
 TX,Vanrafia tablet,IgA Nephropathy (IgAN)
+TX,Paroxetine generic Brisdelle,Antidepressants SSRIs
+TX,Paroxetine CR Tablet,Antidepressants SSRIs
+TX,Fluticasone / Salmeterol generic AirDuo,Glucocorticoids Combo Inhaled
+TX,Lamzede IV solution,Enzyme Replacement Therapy
+TX,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+TX,Clenpiq,Bowel Prep Agents
 UT,Aimovig,Antimigraine Agents Other
 UT,Ajovy,Antimigraine Agents Other
 UT,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -67705,7 +67927,7 @@ UT,Eliquis,Anticoagulants
 UT,Elitek,Antihyperuricemics
 UT,Eloctate,Hemophilia Treatment
 UT,Emcyt,Oncology Oral Prostate
-UT,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+UT,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 UT,Empliciti,Oncology IV
 UT,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 UT,Emtriva capsule,HIV AIDS
@@ -67738,7 +67960,7 @@ UT,Exelon,Alzheimers Agents
 UT,Exkivity,Oncology Oral Lung
 UT,Exondys 51,Duchenne Muscular Dystrophy
 UT,Eylea,Macular Degeneration Agents
-UT,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+UT,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 UT,Fabrazyme,Enzyme Replacement Fabry Disease
 UT,Farxiga,Hypoglycemics SGLT2
 UT,Fazaclo,Antipsychotics
@@ -68175,7 +68397,7 @@ UT,Ziprasidone,Antipsychotics
 UT,Zokinvy,Progeria Treatments
 UT,Zolgensma,Spinal Muscular Atrophy
 UT,Zolpidem,Sedative Hypnotics
-UT,Zolpidem CR,Sedative Hypnotics
+UT,Zolpidem ER,Sedative Hypnotics
 UT,Zonisade,Anticonvulsants
 UT,Zontivity,Platelet Aggregation Inhibitors
 UT,Ztalmy,Anticonvulsants
@@ -68284,10 +68506,10 @@ UT,Prevpac,H Pylori Treatment
 UT,Pylera,H Pylori Treatment
 UT,Talicia,H Pylori Treatment
 UT,Tzield,Immunomodulators Type 1 Diabetes
-UT,Dyanavel XR oral suspension,Stimulants and Related Agents
-UT,Dyanavel XR tablet,Stimulants and Related Agents
+UT,Dyanavel XR ER oral suspension,Stimulants and Related Agents
+UT,Dyanavel XR ER tablet,Stimulants and Related Agents
 UT,Quillichew XR,Stimulants and Related Agents
-UT,Quillivant XR,Stimulants and Related Agents
+UT,Quillivant XR ER oral suspension,Stimulants and Related Agents
 UT,Aqneursa oral suspension,Niemann-Pick Disease
 UT,Astagraf XL ER capsule,Immunosuppressives Oral
 UT,Brineura vial,Batten Disease
@@ -68884,6 +69106,9 @@ UT,Duloxetine 40 mg,Antidepressants Other
 UT,Voranigo tablet,Oncology Oral Other
 UT,Zevaskyn topical cellular sheets,Gene Therapies
 UT,Vanrafia tablet,IgA Nephropathy (IgAN)
+UT,Lamzede IV solution,Enzyme Replacement Therapy
+UT,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+UT,Clenpiq,Bowel Prep Agents
 VT,Aimovig,Antimigraine Agents Other
 VT,Ajovy,Antimigraine Agents Other
 VT,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -69176,7 +69401,7 @@ VT,Eliquis,Anticoagulants
 VT,Elitek,Antihyperuricemics
 VT,Eloctate,Hemophilia Treatment
 VT,Emcyt,Oncology Oral Prostate
-VT,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+VT,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 VT,Empliciti,Oncology IV
 VT,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 VT,Emtriva capsule,HIV AIDS
@@ -69209,7 +69434,7 @@ VT,Exelon,Alzheimers Agents
 VT,Exkivity,Oncology Oral Lung
 VT,Exondys 51,Duchenne Muscular Dystrophy
 VT,Eylea,Macular Degeneration Agents
-VT,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+VT,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 VT,Fabrazyme,Enzyme Replacement Fabry Disease
 VT,Farxiga,Hypoglycemics SGLT2
 VT,Fazaclo,Antipsychotics
@@ -69645,7 +69870,7 @@ VT,Ziprasidone,Antipsychotics
 VT,Zokinvy,Progeria Treatments
 VT,Zolgensma,Spinal Muscular Atrophy
 VT,Zolpidem,Sedative Hypnotics
-VT,Zolpidem CR,Sedative Hypnotics
+VT,Zolpidem ER,Sedative Hypnotics
 VT,Zonisade,Anticonvulsants
 VT,Zontivity,Platelet Aggregation Inhibitors
 VT,Ztalmy,Anticonvulsants
@@ -69741,9 +69966,9 @@ VT,Cobenfy capsule,Antipsychotics
 VT,Chenodal tablet,Bile Salts
 VT,Cholbam capsule,Bile Salts
 VT,Miplyffa capsule,Niemann-Pick Disease
-VT,Dyanavel XR tablet,Stimulants and Related Agents
-VT,Dyanavel XR oral suspension,Stimulants and Related Agents
-VT,Quillivant XR,Stimulants and Related Agents
+VT,Dyanavel XR ER tablet,Stimulants and Related Agents
+VT,Dyanavel XR ER oral suspension,Stimulants and Related Agents
+VT,Quillivant XR ER oral suspension,Stimulants and Related Agents
 VT,Quillichew XR,Stimulants and Related Agents
 VT,Femlyv,Contraceptives Oral
 VT,Iwilfin,Oncology Oral Other
@@ -70363,6 +70588,10 @@ VT,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
 VT,Voranigo tablet,Oncology Oral Other
 VT,Zevaskyn topical cellular sheets,Gene Therapies
 VT,Vanrafia tablet,IgA Nephropathy (IgAN)
+VT,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+VT,Lamzede IV solution,Enzyme Replacement Therapy
+VT,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+VT,Clenpiq,Bowel Prep Agents
 VA,Aimovig,Antimigraine Agents Other
 VA,Ajovy,Antimigraine Agents Other
 VA,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -70656,7 +70885,7 @@ VA,Eliquis,Anticoagulants
 VA,Elitek,Antihyperuricemics
 VA,Eloctate,Hemophilia Treatment
 VA,Emcyt,Oncology Oral Prostate
-VA,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+VA,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 VA,Empliciti,Oncology IV
 VA,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 VA,Emtriva capsule,HIV AIDS
@@ -70689,7 +70918,7 @@ VA,Exelon,Alzheimers Agents
 VA,Exkivity,Oncology Oral Lung
 VA,Exondys 51,Duchenne Muscular Dystrophy
 VA,Eylea,Macular Degeneration Agents
-VA,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+VA,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 VA,Fabrazyme,Enzyme Replacement Fabry Disease
 VA,Farxiga,Hypoglycemics SGLT2
 VA,Fazaclo,Antipsychotics
@@ -71127,7 +71356,7 @@ VA,Ziprasidone,Antipsychotics
 VA,Zokinvy,Progeria Treatments
 VA,Zolgensma,Spinal Muscular Atrophy
 VA,Zolpidem,Sedative Hypnotics
-VA,Zolpidem CR,Sedative Hypnotics
+VA,Zolpidem ER,Sedative Hypnotics
 VA,Zonisade,Anticonvulsants
 VA,Zontivity,Platelet Aggregation Inhibitors
 VA,Ztalmy,Anticonvulsants
@@ -71796,8 +72025,8 @@ VA,Oseni tablet,Hypoglycemics Incretin Mimetics Enhancers
 VA,Kazano tablet,Hypoglycemics Incretin Mimetics Enhancers
 VA,Janumet XR ER tablet,Hypoglycemics Incretin Mimetics Enhancers
 VA,Zituvio tablet,Hypoglycemics Incretin Mimetics Enhancers
-VA,Dyanavel XR oral suspension,Stimulants and Related Agents
-VA,Dyanavel XR tablet,Stimulants and Related Agents
+VA,Dyanavel XR ER oral suspension,Stimulants and Related Agents
+VA,Dyanavel XR ER tablet,Stimulants and Related Agents
 VA,Quillichew XR,Stimulants and Related Agents
 VA,Quillivant XR ER oral suspension,Stimulants and Related Agents
 VA,"Arformoterol Tartrate authorized generic Brovana, inhalation nebulization solution",COPD Agents
@@ -71812,6 +72041,9 @@ VA,Ohtuvayre inhalation suspension,COPD Agents
 VA,Voranigo tablet,Oncology Oral Other
 VA,Zevaskyn topical cellular sheets,Gene Therapies
 VA,Vanrafia tablet,IgA Nephropathy (IgAN)
+VA,Lamzede IV solution,Enzyme Replacement Therapy
+VA,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+VA,Clenpiq,Bowel Prep Agents
 WA,Aimovig,Antimigraine Agents Other
 WA,Ajovy,Antimigraine Agents Other
 WA,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -72055,7 +72287,7 @@ WA,Bydureon Pen,Hypoglycemics Incretin Mimetics Enhancers
 WA,Byetta,Hypoglycemics Incretin Mimetics Enhancers
 WA,Bylvay,Bile Salts
 WA,Byooviz,Macular Degeneration Agents
-WA,Cablivi,aTTP Agents
+WA,"Cablivi kit, injection",aTTP Agents
 WA,Calquence,Oncology Oral Hematologic
 WA,Camzyos,Cardiovascular Other
 WA,Candesartan,Angiotensin Modulators
@@ -72089,7 +72321,7 @@ WA,Dexcom G6 Transmitter,Continuous Glucose Monitoring
 WA,DexCom G7 Sensor,Continuous Glucose Monitoring
 WA,Dojolvi,Fatty Acid Oxidation Disorder
 WA,Donepezil ODT,Alzheimers Agents
-WA,Donepezil tablet,Alzheimers Agents
+WA,"Donepezil 5 mg, tablet",Alzheimers Agents
 WA,Doxil,Oncology IV
 WA,Duaklir Pressair,COPD Agents
 WA,Dulera,Glucocorticoids Combo Inhaled
@@ -72105,7 +72337,7 @@ WA,Eliquis,Anticoagulants
 WA,Elitek,Antihyperuricemics
 WA,Eloctate,Hemophilia Treatment
 WA,Emcyt,Oncology Oral Prostate
-WA,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+WA,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 WA,Empliciti,Oncology IV
 WA,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 WA,Emtriva capsule,HIV AIDS
@@ -72137,7 +72369,7 @@ WA,Exelon,Alzheimers Agents
 WA,Exkivity,Oncology Oral Lung
 WA,Exondys 51,Duchenne Muscular Dystrophy
 WA,Eylea,Macular Degeneration Agents
-WA,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+WA,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 WA,Fabrazyme,Enzyme Replacement Fabry Disease
 WA,Farxiga,Hypoglycemics SGLT2
 WA,Fazaclo,Antipsychotics
@@ -72305,7 +72537,7 @@ WA,Ogsiveo,Oncology Oral Other
 WA,Olanzapine ODT,Antipsychotics
 WA,Olanzapine tablet,Antipsychotics
 WA,Olmesartan,Angiotensin Modulators
-WA,Omeprazole capsule,Proton Pump Inhibitors
+WA,"Omeprazole 20 mg, capsule",Proton Pump Inhibitors
 WA,Omeprazole tablet,Proton Pump Inhibitors
 WA,Onglyza,Hypoglycemics Incretin Mimetics Enhancers
 WA,Opdivo,Oncology IV
@@ -72563,7 +72795,7 @@ WA,Ziprasidone,Antipsychotics
 WA,Zokinvy,Progeria Treatments
 WA,Zolgensma,Spinal Muscular Atrophy
 WA,Zolpidem,Sedative Hypnotics
-WA,Zolpidem CR,Sedative Hypnotics
+WA,Zolpidem ER,Sedative Hypnotics
 WA,Zonisade,Anticonvulsants
 WA,Zontivity,Platelet Aggregation Inhibitors
 WA,Ztalmy,Anticonvulsants
@@ -72672,7 +72904,7 @@ WA,Prevpac,H Pylori Treatment
 WA,Pylera,H Pylori Treatment
 WA,Talicia,H Pylori Treatment
 WA,Tzield,Immunomodulators Type 1 Diabetes
-WA,Quillivant XR,Stimulants and Related Agents
+WA,Quillivant XR ER oral suspension,Stimulants and Related Agents
 WA,Quillichew XR,Stimulants and Related Agents
 WA,Dyanavel XR,Stimulants and Related Agents
 WA,"Prezista 150 mg, tablet",HIV AIDS
@@ -72739,7 +72971,7 @@ WA,Arcalyst Recurrent Pericarditis (RP),Cytokine and CAM Antagonists
 WA,"Actemra ACTPen, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",Cytokine and CAM Antagonists
 WA,"Actemra prefilled syringe, Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD)",Cytokine and CAM Antagonists
 WA,Abrilada Ankylosing Spondylitis,Cytokine and CAM Antagonists
-WA,"Adalimumab-adaz 40mg/0.4mL, Ankylosing Spondylitis, auto-injector",Cytokine and CAM Antagonists
+WA,Adalimumab-adaz Ankylosing Spondylitis,Cytokine and CAM Antagonists
 WA,Adalimumab-fkjp Ankylosing Spondylitis,Cytokine and CAM Antagonists
 WA,Amjevita Ankylosing Spondylitis,Cytokine and CAM Antagonists
 WA,Bimzelx Ankylosing Spondylitis,Cytokine and CAM Antagonists
@@ -72762,7 +72994,7 @@ WA,Xeljanz Ankylosing Spondylitis,Cytokine and CAM Antagonists
 WA,Yuflyma Ankylosing Spondylitis,Cytokine and CAM Antagonists
 WA,Yusimry Ankylosing Spondylitis,Cytokine and CAM Antagonists
 WA,Abrilada Crohn’s Disease (adult),Cytokine and CAM Antagonists
-WA,"Adalimumab-adaz 40mg/0.4mL, auto-injector, Crohn’s Disease (adult)",Cytokine and CAM Antagonists
+WA,Adalimumab-adaz Crohn’s Disease (adult),Cytokine and CAM Antagonists
 WA,Adalimumab-fkjp Crohn’s Disease (adult),Cytokine and CAM Antagonists
 WA,Amjevita Crohn’s Disease (adult),Cytokine and CAM Antagonists
 WA,Cyltezo Crohn’s Disease (adult),Cytokine and CAM Antagonists
@@ -72783,7 +73015,7 @@ WA,"Stelara Crohn’s Disease (adult), subcutaneous vial",Cytokine and CAM Antag
 WA,Yuflyma Crohn’s Disease (adult),Cytokine and CAM Antagonists
 WA,Yusimry Crohn’s Disease (adult),Cytokine and CAM Antagonists
 WA,Abrilada Crohn's Disease (pediatric),Cytokine and CAM Antagonists
-WA,"Adalimumab-adaz 20mg/0.2mL, Crohn’s Disease (pediatric)",Cytokine and CAM Antagonists
+WA,Adalimumab-adaz Crohn’s Disease (pediatric),Cytokine and CAM Antagonists
 WA,Adalimumab-fkjp Crohn’s Disease (pediatric),Cytokine and CAM Antagonists
 WA,Amjevita Crohn’s Disease (pediatric),Cytokine and CAM Antagonists
 WA,Cyltezo Crohn’s Disease (pediatric),Cytokine and CAM Antagonists
@@ -73310,13 +73542,6 @@ WA,"Lonhala Magnair inhalation solution, Starter Kit",COPD Agents
 WA,"Lonhala Magnair inhalation solution, Refill Kit",COPD Agents
 WA,Ohtuvayre inhalation suspension,COPD Agents
 WA,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
-WA,"Adalimumab-adaz 80mg/0.8mL, Ankylosing Spondylitis",Cytokine and CAM Antagonists
-WA,"Adalimumab-adaz 40mg/0.4mL, Ankylosing Spondylitis, prefilled syringe",Cytokine and CAM Antagonists
-WA,"Adalimumab-adaz 80mg/0.8mL, Crohn’s Disease (adult)",Cytokine and CAM Antagonists
-WA,"Adalimumab-adaz 40mg/0.4mL, auto-injector, Crohn’s Disease (pediatric)",Cytokine and CAM Antagonists
-WA,"Adalimumab-adaz 80mg/0.8mL, Crohn’s Disease (pediatric)",Cytokine and CAM Antagonists
-WA,"Adalimumab-adaz 40mg/0.4mL, Crohn’s Disease (adult), prefilled syringe",Cytokine and CAM Antagonists
-WA,"Adalimumab-adaz 10mg/0.1mL, Crohn’s Disease (pediatric)",Cytokine and CAM Antagonists
 WA,Rinvoq Giant Cell Arteritis,Cytokine and CAM Antagonists
 WA,Forteo Male Osteoporosis,Bone Resorption Suppression and Related Agents
 WA,Forteo Glucocorticoid Induced Osteoporosis,Bone Resorption Suppression and Related Agents
@@ -73333,6 +73558,16 @@ WA,Norditropin Pediatric use,Growth Hormone
 WA,Nutropin AQ Pediatric use,Growth Hormone
 WA,Omnitrope Pediatric use,Growth Hormone
 WA,Saizen Pediatric use,Growth Hormone
+WA,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+WA,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
+WA,Dupixent Chronic Spontaneous Urticaria (CSU),Immunomodulators Atopic Dermatitis
+WA,Lamzede IV solution,Enzyme Replacement Therapy
+WA,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+WA,"Omeprazole 40 mg, capsule",Proton Pump Inhibitors
+WA,"Donepezil 10 mg, tablet",Alzheimers Agents
+WA,"Donepezil 23 mg, tablet",Alzheimers Agents
+WA,Cablivi vial,aTTP Agents
+WA,Clenpiq,Bowel Prep Agents
 WV,Aimovig,Antimigraine Agents Other
 WV,Ajovy,Antimigraine Agents Other
 WV,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -73623,7 +73858,7 @@ WV,Eliquis,Anticoagulants
 WV,Elitek,Antihyperuricemics
 WV,Eloctate,Hemophilia Treatment
 WV,Emcyt,Oncology Oral Prostate
-WV,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+WV,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 WV,Empliciti,Oncology IV
 WV,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 WV,Emtriva capsule,HIV AIDS
@@ -73656,7 +73891,7 @@ WV,Exelon,Alzheimers Agents
 WV,Exkivity,Oncology Oral Lung
 WV,Exondys 51,Duchenne Muscular Dystrophy
 WV,Eylea,Macular Degeneration Agents
-WV,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+WV,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 WV,Fabrazyme,Enzyme Replacement Fabry Disease
 WV,Farxiga,Hypoglycemics SGLT2
 WV,Fazaclo,Antipsychotics
@@ -74092,7 +74327,7 @@ WV,Ziprasidone,Antipsychotics
 WV,Zokinvy,Progeria Treatments
 WV,Zolgensma,Spinal Muscular Atrophy
 WV,Zolpidem,Sedative Hypnotics
-WV,Zolpidem CR,Sedative Hypnotics
+WV,Zolpidem ER,Sedative Hypnotics
 WV,Zonisade,Anticonvulsants
 WV,Zontivity,Platelet Aggregation Inhibitors
 WV,Ztalmy,Anticonvulsants
@@ -74183,10 +74418,10 @@ WV,"Budesonide 0.5 mg, respules (inhalation suspension)",Glucocorticoids Inhaled
 WV,"Budesonide 1 mg, respules (inhalation suspension)",Glucocorticoids Inhaled
 WV,Miplyffa capsule,Niemann-Pick Disease
 WV,Tracleer tablet,PAH Agents Oral and Inhaled
-WV,Dyanavel XR oral suspension,Stimulants and Related Agents
-WV,Quillivant XR,Stimulants and Related Agents
+WV,Dyanavel XR ER oral suspension,Stimulants and Related Agents
+WV,Quillivant XR ER oral suspension,Stimulants and Related Agents
 WV,Quillichew XR,Stimulants and Related Agents
-WV,Dyanavel XR tablet,Stimulants and Related Agents
+WV,Dyanavel XR ER tablet,Stimulants and Related Agents
 WV,Femlyv,Contraceptives Oral
 WV,Iwilfin,Oncology Oral Other
 WV,Fruzaqla,Oncology Oral Other
@@ -74813,6 +75048,9 @@ WV,Ohtuvayre inhalation suspension,COPD Agents
 WV,Voranigo tablet,Oncology Oral Other
 WV,Zevaskyn topical cellular sheets,Gene Therapies
 WV,Vanrafia tablet,IgA Nephropathy (IgAN)
+WV,Lamzede IV solution,Enzyme Replacement Therapy
+WV,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+WV,Clenpiq,Bowel Prep Agents
 WI,Aimovig,Antimigraine Agents Other
 WI,Ajovy,Antimigraine Agents Other
 WI,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -75105,7 +75343,7 @@ WI,Eliquis,Anticoagulants
 WI,Elitek,Antihyperuricemics
 WI,Eloctate,Hemophilia Treatment
 WI,Emcyt,Oncology Oral Prostate
-WI,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+WI,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 WI,Empliciti,Oncology IV
 WI,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 WI,Emtriva capsule,HIV AIDS
@@ -75137,7 +75375,7 @@ WI,Exelon,Alzheimers Agents
 WI,Exkivity,Oncology Oral Lung
 WI,Exondys 51,Duchenne Muscular Dystrophy
 WI,Eylea,Macular Degeneration Agents
-WI,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+WI,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 WI,Fabrazyme,Enzyme Replacement Fabry Disease
 WI,Farxiga,Hypoglycemics SGLT2
 WI,Fazaclo,Antipsychotics
@@ -75407,7 +75645,7 @@ WI,Semglee,Hypoglycemics Insulin and Related Agents
 WI,Seroquel,Antipsychotics
 WI,Sevelamer carbonate tablets,Phosphate Binders
 WI,Sevelamer hydrochloride tablets,Phosphate Binders
-WI,Sildenafil 20 mg,PAH Agents Oral and Inhaled
+WI,Sildenafil tablet,PAH Agents Oral and Inhaled
 WI,Sildenafil oral suspension,PAH Agents Oral and Inhaled
 WI,Skelaxin,Skeletal Muscle Relaxants
 WI,Skyclarys,Friedreich ataxia
@@ -75462,7 +75700,7 @@ WI,Tetrabenazine,Movement Disorders
 WI,Thymoglobulin,Immune Globulins
 WI,Tivdak,Oncology IV
 WI,Tivicay,HIV AIDS
-WI,Tobramycin,Antibiotics Inhaled
+WI,Tobramycin generic Tobi,Antibiotics Inhaled
 WI,Topamax Sprinkle,Anticonvulsants
 WI,Topiramate tablet,Anticonvulsants
 WI,Topotecan,Oncology IV
@@ -75573,7 +75811,7 @@ WI,Ziprasidone,Antipsychotics
 WI,Zokinvy,Progeria Treatments
 WI,Zolgensma,Spinal Muscular Atrophy
 WI,Zolpidem,Sedative Hypnotics
-WI,Zolpidem CR,Sedative Hypnotics
+WI,Zolpidem ER,Sedative Hypnotics
 WI,Zonisade,Anticonvulsants
 WI,Zontivity,Platelet Aggregation Inhibitors
 WI,Ztalmy,Anticonvulsants
@@ -75634,7 +75872,7 @@ WI,Combivent Respimat inhalation aerosol solution,COPD Agents
 WI,Copaxone 20 mg,Multiple Sclerosis Agents
 WI,Copaxone 40 mg,Multiple Sclerosis Agents
 WI,Fingolimod capsule,Multiple Sclerosis Agents
-WI,Gilenya capsule,Multiple Sclerosis Agents
+WI,"Gilenya 0.25 mg, capsule",Multiple Sclerosis Agents
 WI,Glatiramer Acetate prefilled syringe,Multiple Sclerosis Agents
 WI,Glatopa (Glatiramer Acetate) prefilled syringe,Multiple Sclerosis Agents
 WI,Rebif (Interferon Beta-1a) prefilled syringe,Multiple Sclerosis Agents
@@ -75686,7 +75924,7 @@ WI,Prevpac,H Pylori Treatment
 WI,Pylera,H Pylori Treatment
 WI,Talicia,H Pylori Treatment
 WI,Dyanavel XR,Stimulants and Related Agents
-WI,Quillivant XR,Stimulants and Related Agents
+WI,Quillivant XR ER oral suspension,Stimulants and Related Agents
 WI,Quillichew XR,Stimulants and Related Agents
 WI,Etonogestrel / Ethinyl Estradiol generic NuvaRing,Contraceptives Other
 WI,Aqneursa oral suspension,Niemann-Pick Disease
@@ -76069,7 +76307,6 @@ WI,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),Immunomodulators A
 WI,Nucala Hypereosinophilic Syndrome (HES),Immunomodulators Asthma
 WI,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), auto-injector",Immunomodulators Asthma
 WI,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
-WI,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
 WI,Hympavzi auto-injector,Hemophilia Treatment
 WI,Spinosad topical suspension,Antiparasitics Topical
 WI,Erzofri prefilled syringe,Antipsychotics
@@ -76283,6 +76520,9 @@ WI,Ohtuvayre inhalation suspension,COPD Agents
 WI,Voranigo tablet,Oncology Oral Other
 WI,Zevaskyn topical cellular sheets,Gene Therapies
 WI,Vanrafia tablet,IgA Nephropathy (IgAN)
+WI,Lamzede IV solution,Enzyme Replacement Therapy
+WI,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+WI,Clenpiq,Bowel Prep Agents
 WY,Aimovig,Antimigraine Agents Other
 WY,Ajovy,Antimigraine Agents Other
 WY,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -76576,7 +76816,7 @@ WY,Eliquis,Anticoagulants
 WY,Elitek,Antihyperuricemics
 WY,Eloctate,Hemophilia Treatment
 WY,Emcyt,Oncology Oral Prostate
-WY,Empaveli,Paroxysmal Nocturnal Hemoglobinuria
+WY,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 WY,Empliciti,Oncology IV
 WY,Emtricitabine-Tenofovir Disoproxil Fumarate,HIV AIDS
 WY,Emtriva capsule,HIV AIDS
@@ -76609,7 +76849,7 @@ WY,Exelon,Alzheimers Agents
 WY,Exkivity,Oncology Oral Lung
 WY,Exondys 51,Duchenne Muscular Dystrophy
 WY,Eylea,Macular Degeneration Agents
-WY,Fabhalta,Paroxysmal Nocturnal Hemoglobinuria
+WY,Fabhalta Paroxysmal Nocturnal Hemoglobinuria (PNH),Complement Inhibitor
 WY,Fabrazyme,Enzyme Replacement Fabry Disease
 WY,Farxiga,Hypoglycemics SGLT2
 WY,Fazaclo,Antipsychotics
@@ -77043,7 +77283,7 @@ WY,Ziprasidone,Antipsychotics
 WY,Zokinvy,Progeria Treatments
 WY,Zolgensma,Spinal Muscular Atrophy
 WY,Zolpidem,Sedative Hypnotics
-WY,Zolpidem CR,Sedative Hypnotics
+WY,Zolpidem ER,Sedative Hypnotics
 WY,Zonisade,Anticonvulsants
 WY,Zontivity,Platelet Aggregation Inhibitors
 WY,Ztalmy,Anticonvulsants
@@ -77145,7 +77385,7 @@ WY,Prevpac,H Pylori Treatment
 WY,Pylera,H Pylori Treatment
 WY,Talicia,H Pylori Treatment
 WY,Dyanavel XR,Stimulants and Related Agents
-WY,Quillivant XR,Stimulants and Related Agents
+WY,Quillivant XR ER oral suspension,Stimulants and Related Agents
 WY,Quillichew XR,Stimulants and Related Agents
 WY,Tzield,Immunomodulators Type 1 Diabetes
 WY,Aqneursa oral suspension,Niemann-Pick Disease
@@ -77738,3 +77978,6 @@ WY,Ohtuvayre inhalation suspension,COPD Agents
 WY,Voranigo tablet,Oncology Oral Other
 WY,Zevaskyn topical cellular sheets,Gene Therapies
 WY,Vanrafia tablet,IgA Nephropathy (IgAN)
+WY,Lamzede IV solution,Enzyme Replacement Therapy
+WY,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
+WY,Clenpiq,Bowel Prep Agents
