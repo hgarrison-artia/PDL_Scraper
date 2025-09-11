@@ -155,6 +155,7 @@ ENDOCRINE MEDICATIONS,Emflaza tablet,EMFLAZA,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Emgality 100 mg,EMGALITY 100mg/ml,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Emgality 120 mg,EMGALITY 120mg/ml,Non-Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Empaveli Paroxysmal Nocturnal Hemoglobinuria (PNH),EMPAVELI,Non-Preferred
+ANTIINFECTIVES,Emtricitabine-Tenofovir Disoproxil Fumarate,emtricitabine/tenofovir disoproxil fumarate generic,Preferred
 ANTIINFECTIVES,Emtriva capsule,EMTRIVA,Preferred
 ANTIINFECTIVES,Emtriva oral solution,EMTRIVA,Preferred
 CARDIOVASCULAR MEDICATIONS,Enalapril,enalapril generic,Preferred
@@ -227,6 +228,8 @@ IMMUNOSUPPRESSANT DRUGS,Gilotrif,GILOTRIF,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Glatopa (Glatiramer Acetate) prefilled syringe,GLATOPA,Non-Preferred
 ENDOCRINE MEDICATIONS,Glyxambi,GLYXAMBI,Non-Preferred
 GASTROINTESTINAL MEDICATIONS,Golytely,GOLYTELY,Preferred
+IMMUNOSUPPRESSANT DRUGS,Gomekli capsule,GOMEKLI,Preferred
+IMMUNOSUPPRESSANT DRUGS,Gomekli soluble tablet,GOMEKLI,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Gralise,GRALISE,Non-Preferred
 IMMUNOLOGICALS,Granix,"GRANIX 300mcg/0.5ml, 480mcg/0.8ml syringes (non needle guard)",Non-Preferred
 RESPIRATORY MEDICATIONS,Grastek,GRASTEK,Non-Preferred
@@ -261,6 +264,7 @@ ENDOCRINE MEDICATIONS,Invokamet,INVOKAMET,Non-Preferred
 ENDOCRINE MEDICATIONS,Invokamet XR,INVOKAMET XR,Non-Preferred
 ENDOCRINE MEDICATIONS,Invokana,INVOKANA,Non-Preferred
 OPHTHALMIC MEDICATIONS,Iopidine ophthalmic solution,IOPIDINE 1%,Preferred
+RESPIRATORY MEDICATIONS,Ipratropium/Albuterol nebulized solution,albuterol/ipratropium neb soln generic,Preferred
 GASTROINTESTINAL MEDICATIONS,Iqirvo tablet,IQIRVO,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Irbesartan,irbesartan generic,Preferred
 IMMUNOSUPPRESSANT DRUGS,Iressa,IRESSA,Preferred
@@ -367,6 +371,7 @@ IMMUNOLOGICALS,Nivestym,NIVESTYM,Non-Preferred
 IMMUNOLOGICALS,Norditropin,NORDITROPIN,Preferred
 MUSCULOSKELETAL MEDICATIONS,Norgesic Forte,NORGESIC FORTE,Non-Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Novoeight,NOVOEIGHT,Preferred
+ENDOCRINE MEDICATIONS,Novolin 70/30,NOVOLIN 70/30 FLEXPEN,Non-Preferred
 ENDOCRINE MEDICATIONS,Novolin 70/30 Flexpen OTC,NOVOLIN 70/30 FLEXPEN,Non-Preferred
 ENDOCRINE MEDICATIONS,Novolin N FlexPen,"NOVOLIN N, -R FLEXPEN",Preferred
 ENDOCRINE MEDICATIONS,Novolin R FlexPen,"NOVOLIN N, -R FLEXPEN",Preferred
@@ -505,7 +510,7 @@ RESPIRATORY MEDICATIONS,Serevent Diskus aerosol inhalation powder,SEREVENT DISKU
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,"Sevelamer 400mg, hydrochloride tablets",sevelamer 400mg generic,Non-Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Sevelamer carbonate tablets,sevelamer carbonate tabs generic,Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,SevenFACT,SEVENFACT,Non-Preferred
-CARDIOVASCULAR MEDICATIONS,Sildenafil 20 mg,sildenafil tabs generic,Preferred
+CARDIOVASCULAR MEDICATIONS,Sildenafil,sildenafil tabs generic,Preferred
 CARDIOVASCULAR MEDICATIONS,Sildenafil oral suspension,sildenafil suspension generic,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Skyclarys,SKYCLARYS,Non-Preferred
 IMMUNOLOGICALS,Skytrofa,SKYTROFA,Non-Preferred
@@ -627,6 +632,7 @@ NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol Nano,VITAFOL NANO,Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol Tab Chew,VITAFOL TAB CHEW,Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol Ultra,VITAFOL ULTRA,Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol-Ob,VITAFOL-OB,Preferred
+NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol-Ob+Dha,VITAFOL-OB+DHA,Preferred
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Vitafol-One,VITAFOL-ONE,Preferred
 IMMUNOSUPPRESSANT DRUGS,Vitrakvi capsule,VITRAKVI,Preferred
 IMMUNOSUPPRESSANT DRUGS,Vitrakvi oral solution,VITRAKVI,Preferred
@@ -703,3 +709,5 @@ AUTONOMIC AND CNS MEDICATIONS,Zurzuvae,ZURZUVAE,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Zydelig,ZYDELIG,Preferred
 IMMUNOSUPPRESSANT DRUGS,Zykadia tablet,ZYKADIA,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Zyprexa Relprevv,ZYPREXA RELPREVV,Preferred
+IMMUNOSUPPRESSANT DRUGS,Zytiga 250 mg,ZYTIGA 250mg,Preferred
+IMMUNOSUPPRESSANT DRUGS,Zytiga 500 mg,ZYTIGA 500mg,Non-Preferred
