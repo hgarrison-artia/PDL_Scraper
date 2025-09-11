@@ -26,9 +26,9 @@ class DrugMatcherApp:
         if index < len(self.not_in_data):
             drug = self.not_in_data[index]
             # Find matches using the first word of the drug name (case-insensitive)
-            first_word = drug.split()[0].lower()
+            first_word = drug.split()[0].split('-')[0].split('/')[0].lower()
             matches = self.data_manager.pdl_df[
-                self.data_manager.pdl_df['pdl_name'].str.lower().str.contains(first_word, na=False)
+                self.data_manager.pdl_df['pdl_name'].str.lower().str.contains(first_word, na=False, regex=False)
             ]
             if matches.empty:
                 self.data_manager.add_skipped_drug(drug)
@@ -43,7 +43,7 @@ class DrugMatcherApp:
     def save_to_all_matching_drugs(self, selected_pdl_name):
         # Get the current drug's first word
         current_drug = self.not_in_data[self.current_index]
-        first_word = current_drug.split()[0].lower()
+        first_word = current_drug.split()[0].split('-')[0].split('/')[0].lower()
         
         # Get the selected PDL drug's details
         selected_row = self.data_manager.pdl_df.loc[
@@ -56,7 +56,7 @@ class DrugMatcherApp:
         remaining_drugs = []
         for i in range(self.current_index, len(self.not_in_data)):
             drug = self.not_in_data[i]
-            if drug.split()[0].lower() == first_word:
+            if drug.split()[0].split('-')[0].split('/')[0].lower() == first_word:
                 remaining_drugs.append(drug)
         
         # Save all matching drugs
@@ -131,7 +131,7 @@ class DrugMatcherApp:
                     last_pairing['drug'],
                     self.data_manager.pdl_df[
                         self.data_manager.pdl_df['pdl_name'].str.lower().str.contains(
-                            last_pairing['drug'].split()[0].lower(), na=False
+                            last_pairing['drug'].split()[0].split('-')[0].split('/')[0].lower(), na=False, regex=False
                         )
                     ]
                 )
