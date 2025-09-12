@@ -1,12 +1,14 @@
 SELECT
-    s.name AS "State",
+    sc.id AS "id",
     s.code AS "ST",
     d.name AS "Product",
+    sc.pdl_status AS "PDL Status",
+    sc.pdl_status_date as "PDL Status Date",
 	c.name AS "Class",
     COALESCE(
         string_agg(DISTINCT ct.name, ', ' ORDER BY ct.name),
         ''
-    ) AS "Coverage Tag"
+    ) AS "Coverage Tag(s)"
 FROM state_coverages AS sc
 JOIN states AS s
   ON s.id = sc.state_id

@@ -122,6 +122,7 @@ MULTIPLE SCLEROSIS AGENTS,Avonex auto-injector,AVONEX (interferon beta-1a)
 MULTIPLE SCLEROSIS AGENTS,Avonex prefilled syringe,AVONEX (interferon beta-1a)
 STIMULANTS AND RELATED AGENTS (continued),Azstarys,"AZSTARYS 
 (serdexmethylphenidate/dexmethylphenidate)"
+SKELETAL MUSCLE RELAXANTS,"Baclofen 5mg, 10mg, 20mg, tablet","baclofen 5 mg, 10 mg, 20 mg tablet"
 SKELETAL MUSCLE RELAXANTS,Baclofen oral solution,baclofen suspension
 MULTIPLE SCLEROSIS AGENTS,Bafiertam,BAFIERTAM (monomethyl fumarate)
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Balversa,BALVERSA (erdafitinib)
@@ -148,6 +149,8 @@ MULTIPLE SCLEROSIS AGENTS,Briumvi,BRIUMVI (ublituximab-xiiy)
 ANTICONVULSANTS : ADJUVANTS,Briviact,BRIVIACT (brivaracetam)
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Brukinsa,BRUKINSA (zanubrutinib)
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Budesonide / Formoterol authorized generic Symbicort,budesonide/formoterol
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,"Budesonide 0.25 mg, respules (inhalation suspension)",budesonide 0.25 mg and 0.5 mg
+GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,"Budesonide 1 mg, respules (inhalation suspension)",budesonide 1 mg
 UREA CYCLE DISORDER AGENTS,Buphenyl powder,BUPHENYL (sodium phenylbutyrate)
 UREA CYCLE DISORDER AGENTS,Buphenyl tablet,BUPHENYL (sodium phenylbutyrate)
 "HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Bydureon Bcise,BYDUREON (exenatide)
@@ -160,7 +163,7 @@ MISCELLANEOUS BRAND/GENERIC (continued),Camzyos,CAMZYOS (mavacamten)
 ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Candesartan,candesartan
 ANTIPSYCHOTICS (continued): ORAL,Caplyta,CAPLYTA (lumateperone)
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Captopril,captopril
-SICKLE CELL AGENTS,Casgevy intravenous suspension,CASGEVY (exagamglogene autotemcel)
+SICKLE CELL AGENTS,"Casgevy Beta Thalassemia, intravenous suspension",CASGEVY (exagamglogene autotemcel)
 CYSTIC FIBROSIS AGENTS,Cayston,CAYSTON (aztreonam)
 BILE SALTS,Chenodal tablet,CHENODAL (chenodiol)
 CYTOKINE & CAM ANTAGONISTS,Cimzia Ankylosing Spondylitis,CIMZIA (certolizumab)
@@ -218,6 +221,8 @@ ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Donepezil ODT,"donepezil 5 mg, 
 BRONCHODILATORS & COPD AGENTS: ANTICHOLINERGIC-BETA AGONIST COMBINATIONS,Duaklir Pressair,DUAKLIR PRESSAIR (aclidinium/formoterol)
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOID/BRONCHODILATOR COMBINATIONS,Dulera,DULERA (mometasone/formoterol)
 MUSCULAR DYSTROPHY AGENTS,Duvyzat oral suspension,DUVYZAT (givinostat)
+STIMULANTS AND RELATED AGENTS (continued),Dyanavel XR ER oral suspension,DYANAVEL XR (amphetamine) suspension
+STIMULANTS AND RELATED AGENTS (continued),Dyanavel XR ER tablet,DYANAVEL XR (amphetamine) tablets
 ATOPIC DERMATITIS,Ebglyss Atopic Dermatitis (adult),EBGLYSS Pen (lebrikizumab-lbkz)
 ATOPIC DERMATITIS,Ebglyss Atopic Dermatitis (pediatric),EBGLYSS Pen (lebrikizumab-lbkz)
 ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Edarbi,EDARBI (azilsartan)
@@ -232,6 +237,7 @@ MUSCULAR DYSTROPHY AGENTS,Emflaza tablet,EMFLAZA (deflazacort)
 "ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES","Emgality 100 mg/ml (300 mg total dose), syringe",EMGALITY Syringe (galcanezumab-gnlm) 300 mg/mL
 "ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES","Emgality 120 mg, pen",EMGALITY Pen (galcanezumab-gnlm) DUR+
 "ANTIMIGRAINE AGENTS, PROPHYLAXIS: INJECTABLES","Emgality 120 mg, syringe",EMGALITY Syringe (galcanezumab-gnlm) 120 mg/mL DUR+
+ANTIRETROVIRALS : COMBINATION PRODUCTS – NUCLEOSIDE AND NUCLEOTIDE ANALOG RTIs,Emtricitabine-Tenofovir Disoproxil Fumarate,emtricitabine/tenofovir
 ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Emtriva capsule,EMTRIVA (emtricitabine)
 ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Emtriva oral solution,EMTRIVA (emtricitabine)
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Enalapril,enalapril
@@ -306,7 +312,7 @@ ANTIRETROVIRALS (continued): SINGLE PRODUCT REGIMENS,Genvoya,GENVOYA (elvitegrav
 MULTIPLE SCLEROSIS AGENTS,Gilenya capsule,GILENYA (fingolimod)
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Gilotrif,GILOTRIF (afatinib)
 MULTIPLE SCLEROSIS AGENTS,Glatiramer Acetate prefilled syringe,glatiramer
-MULTIPLE SCLEROSIS AGENTS,Glatopa (Glatiramer Acetate) prefilled syringe,GLATOPA (glatiramer)
+MULTIPLE SCLEROSIS AGENTS,Glatopa prefilled syringe,GLATOPA (glatiramer)
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Gleevec,GLEEVEC (imatinib)
 "HYPOGLYCEMICS, SODIUM GLUCOSE COTRANSPORTER-2 (SGLT-2) INHIBITORS : SGLT-2 INHIBITOR COMBINATIONS",Glyxambi,GLYXAMBI (empagliflozin/linagliptin)
 COLONY STIMULATING FACTORS,Granix,GRANIX (tbo-filgrastim)
@@ -517,6 +523,8 @@ ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Olmesartan,olme
 UREA CYCLE DISORDER AGENTS,Olpruva,OLPRUVA (sodium phenylbutyrate)
 CYTOKINE & CAM ANTAGONISTS,Olumiant Alopecia Areata,OLUMIANT (baricitinib)
 CYTOKINE & CAM ANTAGONISTS,Olumiant Rheumatoid Arthritis,OLUMIANT (baricitinib)
+H. PYLORI COMBINATION TREATMENTS,Omeclamox-Pak,"OMECLAMOX 
+(omeprazole/clarithromycin/amoxicillin)"
 GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Omeprazole capsule,esomeprazole capsule
 GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Omeprazole tablet,omeprazole
 GROWTH HORMONES,Omnitrope,OMNITROPE (somatropin)
@@ -525,7 +533,7 @@ ANTICONVULSANTS (continued): SELECTED BENZODIAZEPINES,Onfi tablet,ONFI (clobazam
 "HYPOGLYCEMICS, BIGUANIDES",Onglyza,ONGLYZA (saxagliptin)
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Onureg,ONUREG (azacitidine)
 PULMONARY ANTIHYPERTENSIVE AGENTS: ENDOTHELIN RECEPTOR ANTAGONISTS,Opsumit,OPSUMIT (macitentan)
-OPIATE DEPENDENCE TREATMENTS (continued),Opvee (Nalmefene),OPVEE (nalmefene)
+OPIATE DEPENDENCE TREATMENTS (continued),Opvee,OPVEE (nalmefene)
 ATOPIC DERMATITIS,"Opzelura cream, Nonsegmental Vitiligo",OPZELURA (ruxolitinib)
 MISCELLANEOUS BRAND/GENERIC,Oralair,ORALAIR
 CYTOKINE & CAM ANTAGONISTS (continued),"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",ORENCIA (abatacept)
@@ -579,6 +587,7 @@ STIMULANTS AND RELATED AGENTS (continued): NON-STIMULANTS,Qelbree,QELBREE (vilox
 ANTIPSYCHOTICS (continued): ORAL,Quetiapine,quetiapine
 ANTIPSYCHOTICS (continued): ORAL,Quetiapine ER,quetiapine ER
 STIMULANTS AND RELATED AGENTS (continued),Quillichew XR,QUILLICHEW ER (methylphenidate)
+STIMULANTS AND RELATED AGENTS (continued),Quillivant XR ER oral suspension,QUILLIVANT XR (methylphenidate)
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Quinapril,quinapril
 "ANTIMIGRAINE AGENTS, PROPHYLAXIS: ORAL",Qulipta,QULIPTA (atogepant)
 GLUCOCORTICOIDS (INHALED): GLUCOCORTICOIDS,Qvar,QVAR REDIHALER (beclomethasone)
@@ -586,7 +595,7 @@ GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Rabeprazole,rabeprazole
 MISCELLANEOUS BRAND/GENERIC,Ragwitek,RAGWITEK
 ANGIOTENSIN MODULATORS : ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS,Ramipril,ramipril
 UREA CYCLE DISORDER AGENTS,Ravicti,RAVICTI (glycerol phenylbutyrate)
-MULTIPLE SCLEROSIS AGENTS,Rebif (Interferon Beta-1a) prefilled syringe,REBIF (interferon beta-1b)
+MULTIPLE SCLEROSIS AGENTS,Rebif prefilled syringe,REBIF (interferon beta-1b)
 ANTIBIOTICS (GI) & RELATED AGENTS,Rebyota,"REBYOTA (fecal microbiota, live-jslm)"
 COLONY STIMULATING FACTORS (continued),Releuko,RELEUKO (filgrastim-ayow)
 CYTOKINE & CAM ANTAGONISTS,Remicade,REMICADE (infliximab)
@@ -621,8 +630,8 @@ ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Rivastigmine capsule,rivastigmi
 ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Rivastigmine oral solution,rivastigmine
 ALZHEIMER’S AGENTS : CHOLINESTERASE INHIBITORS,Rivastigmine patch,rivastigmine
 COLONY STIMULATING FACTORS (continued),Rolvedon prefilled syringe,ROLVEDON (eflapegrastim-xnst)
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Rozlytrek (Entrectinib) capsule,ROZLYTREK (entrectinib)
-*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS,Rozlytrek (Entrectinib) pellet packet,ROZLYTREK (entrectinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Rozlytrek capsule,ROZLYTREK (entrectinib)
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Rozlytrek pellet packet,ROZLYTREK (entrectinib)
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Rubraca,RUBRACA (rucaparib)
 "HYPOGLYCEMICS, INCRETIN MIMETICS/ENHANCERS",Rybelsus,RYBELSUS (semaglutide)
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Rydapt,RYDAPT (midostaurin)
@@ -701,7 +710,7 @@ CYTOKINE & CAM ANTAGONISTS,Taltz,TALTZ (ixekizumab)
 SELECT CONTRACEPTIVE PRODUCTS: ORAL CONTRACEPTIVES,Taytulla,TAYTULLA (norethindrone/ethinyl estradiol/iron)
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Tazverik,TAZVERIK (tazemetostat)
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Tecentriq,TECENTRIQ HYBREZA (atezolizumab/hyaluronidase-tqjs)
-MULTIPLE SCLEROSIS AGENTS,Tecfidera (Dimethyl Fumarate) DR capsule,TECFIDERA (dimethyl fumarate)
+MULTIPLE SCLEROSIS AGENTS (continued),Tecfidera DR capsule,TECFIDERA (dimethyl fumarate)
 ANGIOTENSIN MODULATORS : ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs),Telmisartan,telmisartan
 MULTIPLE SCLEROSIS AGENTS,Teriflunomide,teriflunomide
 BONE RESORPTION SUPPRESSION AND RELATED AGENTS : OTHERS,Teriparatide,teriparatide
@@ -709,6 +718,7 @@ MOVEMENT DISORDER AGENTS,Tetrabenazine,tetrabenazine
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Tibsovo,TIBSOVO (ivosidenib)
 ANTIRETROVIRALS (continued): INTEGRASE STRAND TRANSFER INHIBITORS,Tivicay,"TIVICAY, TIVICAY PD (dolutegravir)"
 CYSTIC FIBROSIS AGENTS,Tobi Podhaler,TOBI PODHALER (tobramycin)
+CYSTIC FIBROSIS AGENTS,Tobi nebulized solution,TOBI (tobramycin)
 CYSTIC FIBROSIS AGENTS,Tobramycin generic Bethkis,tobramycin (generic BETHKIS & KITABIS)
 CYSTIC FIBROSIS AGENTS,Tobramycin generic Kitabis,tobramycin (generic BETHKIS & KITABIS)
 CYSTIC FIBROSIS AGENTS,Tobramycin generic Tobi,tobramycin (generic TOBI)
@@ -773,6 +783,8 @@ H. PYLORI COMBINATION TREATMENTS,Voquezna Dual Pak,"VOQUEZNA DUAL PAK
 (vonoprazan/amoxicillin)"
 H. PYLORI COMBINATION TREATMENTS,Voquezna Triple Pak,"VOQUEZNA TRIPLE PAK 
 (vonoprazan/amoxicillin/clarithromycin)"
+*ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Votrient,VOTRIENT (pazopanib)
+GROWTH HORMONES,Voxzogo,VOXZOGO (vosoritide)
 ANTIPSYCHOTICS (continued): ORAL,Vraylar Adjunct Treatment of Major Depressive Disorder,VRAYLAR (cariprazine)
 ANTIPSYCHOTICS (continued): ORAL,Vraylar Bipolar I Disorder,VRAYLAR (cariprazine)
 ANTIPSYCHOTICS (continued): ORAL,Vraylar Schizophrenia,VRAYLAR (cariprazine)
@@ -834,10 +846,12 @@ COLONY STIMULATING FACTORS (continued),Zarxio,ZARXIO (filgrastim-sndz)
 GI ULCER THERAPIES: PROTON PUMP INHIBITORS,Zegerid,ZEGERID (omeprazole/sodium bicarbonate)
 *ANTINEOPLASTICS – SELECTED SYSTEMIC ENZYME INHIBITORS (continued),Zejula,ZEJULA (niraparib)
 "ANTIMIGRAINE AGENTS, ACUTE TREATMENT (continued): INJECTABLES",Zembrace SymTouch,ZEMBRACE SYMTOUCH (sumatriptan)
+MULTIPLE SCLEROSIS AGENTS (continued),Zeposia,ZEPOSIA (ozanimod)
 ANTIRETROVIRALS (continued): NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBTORS (NRTI),Ziagen,ZIAGEN (abacavir)
 COLONY STIMULATING FACTORS (continued),Ziextenzo,ZIEXTENZO (pegfilgrastim-bmez)
 "ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Ziprasidone Injectable,ziprasidone
-"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Ziprasidone Oral,ziprasidone
+"ANTIPSYCHOTICS : INJECTABLE, ATYPICALS",Ziprasidone capsule,ziprasidone
+SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,Zolpidem ER,zolpidem ER
 SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,"Zolpidem capsule, sublingual",zolpidem capsule
 SEDATIVE HYPNOTIC AGENTS (continued): OTHERS,Zolpidem tablet,zolpidem tablet
 ANTICONVULSANTS (continued): ADJUVANTS (continued),Zonisade,ZONISADE (zonisamide) suspension
