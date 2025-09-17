@@ -29,7 +29,6 @@ RESPIRATORY MEDICATIONS,Budesonide / Formoterol authorized generic Symbicort,bud
 ENDOCRINE MEDICATIONS,Bydureon Pen,BYDUREON BCISE
 ANTIINFECTIVES,Cleocin 2% cream,CLEOCIN 75MG CAPS
 OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,Cleocin 2% cream,CLEOCIN SUPPOSITORY
-ANTIINFECTIVES,Clindamycin 2% Cream,clindamycin caps generic
 ANTIINFECTIVES,Clindamycin 2% Cream,clindamycin for oral solution generic
 ANTIINFECTIVES,Clindamycin 2% Cream,clindamycin in D5W injection generic
 ANTIINFECTIVES,Clindamycin 2% Cream,clindamycin in NaCl 0.9% injection generic
@@ -2734,3 +2733,111 @@ DIABETIC SUPPLIES,V-Go 40,"OMNIPOD DASH, -5 (covered 2 - 21 yrs old)"
 VACCINES,V-Go 40,"For a complete list of covered vaccines, please refer to www.mmis.georgia.gov → Pharmacy → Pharmacy Notices"
 AUTONOMIC AND CNS MEDICATIONS,iDose TR,"REBIF, REBIDOSE"
 OPHTHALMIC MEDICATIONS,iDose TR,RESTASIS MULTIDOSE
+DERMATOLOGICAL MEDICATIONS,Clindamycin 2% Cream,"clindamycin-benzoyl peroxide gel 1-5% (generic for 
+Benzaclin)"
+DERMATOLOGICAL MEDICATIONS,Clindamycin 2% Cream,"clindamycin-benzoyl peroxide gel 1.2-5% (generic for 
+Duac)"
+ENDOCRINE MEDICATIONS,Humalog vial,HUMALOG MIX 50/50 KWIKPEN
+ENDOCRINE MEDICATIONS,Humalog Junior KwikPen,HUMALOG MIX 50/50 KWIKPEN
+ENDOCRINE MEDICATIONS,"Humalog KwikPen, U-100",HUMALOG MIX 50/50 KWIKPEN
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra 2 System,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+DERMATOLOGICAL MEDICATIONS,One Touch Ultra 2 System,dapsone gel generic
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+DERMATOLOGICAL MEDICATIONS,One Touch Verio,dapsone gel generic
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra Test Strips 100 ct,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+DERMATOLOGICAL MEDICATIONS,One Touch Ultra Test Strips 100 ct,dapsone gel generic
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra Test Strips 25 ct,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+DERMATOLOGICAL MEDICATIONS,One Touch Ultra Test Strips 25 ct,dapsone gel generic
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra Test Strips 50 ct,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+DERMATOLOGICAL MEDICATIONS,One Touch Ultra Test Strips 50 ct,dapsone gel generic
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio Test Strips 100 ct,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+DERMATOLOGICAL MEDICATIONS,One Touch Verio Test Strips 100 ct,dapsone gel generic
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio Test Strips 25 ct,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+DERMATOLOGICAL MEDICATIONS,One Touch Verio Test Strips 25 ct,dapsone gel generic
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio Test Strips 50 ct,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+DERMATOLOGICAL MEDICATIONS,One Touch Verio Test Strips 50 ct,dapsone gel generic
+GASTROINTESTINAL MEDICATIONS,Sodium Polystyrene Sulfonate,"sodium/potassium/magnesium sulfate oral soln. 
+generic"
+ANTIINFECTIVES,Clindamycin 2% Cream,clindamycin caps generic
+DERMATOLOGICAL MEDICATIONS,Clindamycin 2% Cream,"clindamycin-benzoyl peroxide gel 1-5% (generic for 
+Benzaclin)"
+DERMATOLOGICAL MEDICATIONS,Clindamycin 2% Cream,"clindamycin-benzoyl peroxide gel 1.2-5% (generic for 
+Duac)"
+RESPIRATORY MEDICATIONS,Albuterol HFA generic PROAIR,"albuterol for nebulization generic 0.63mg/3ml, 
+1.25mg/3ml"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra 2 System,"hydrocodone-APAP 7.5mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra 2 System,"hydrocodone-APAP 10mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra 2 System,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio,"hydrocodone-APAP 7.5mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio,"hydrocodone-APAP 10mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+CARDIOVASCULAR MEDICATIONS,V-Go 20,"verapamil er caps 100mg, 200mg, 300mg (generic 
+Verelan PM)"
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,V-Go 20,"levonorgestrel/ethinyl estradiol (generic 
+Seasonique/LoSeasonique)"
+OPHTHALMIC MEDICATIONS,V-Go 20,"moxifloxacin ophthalmic soln. 0.5% (generic for 
+Vigamox)"
+CARDIOVASCULAR MEDICATIONS,V-Go 30,"verapamil er caps 100mg, 200mg, 300mg (generic 
+Verelan PM)"
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,V-Go 30,"levonorgestrel/ethinyl estradiol (generic 
+Seasonique/LoSeasonique)"
+OPHTHALMIC MEDICATIONS,V-Go 30,"moxifloxacin ophthalmic soln. 0.5% (generic for 
+Vigamox)"
+CARDIOVASCULAR MEDICATIONS,V-Go 40,"verapamil er caps 100mg, 200mg, 300mg (generic 
+Verelan PM)"
+OBSTETRICAL & GYNECOLOGICAL MEDICATIONS,V-Go 40,"levonorgestrel/ethinyl estradiol (generic 
+Seasonique/LoSeasonique)"
+OPHTHALMIC MEDICATIONS,V-Go 40,"moxifloxacin ophthalmic soln. 0.5% (generic for 
+Vigamox)"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra Test Strips 100 ct,"hydrocodone-APAP 7.5mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra Test Strips 100 ct,"hydrocodone-APAP 10mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra Test Strips 100 ct,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra Test Strips 25 ct,"hydrocodone-APAP 7.5mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra Test Strips 25 ct,"hydrocodone-APAP 10mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra Test Strips 25 ct,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra Test Strips 50 ct,"hydrocodone-APAP 7.5mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra Test Strips 50 ct,"hydrocodone-APAP 10mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Ultra Test Strips 50 ct,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio Test Strips 100 ct,"hydrocodone-APAP 7.5mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio Test Strips 100 ct,"hydrocodone-APAP 10mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio Test Strips 100 ct,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio Test Strips 25 ct,"hydrocodone-APAP 7.5mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio Test Strips 25 ct,"hydrocodone-APAP 10mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio Test Strips 25 ct,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio Test Strips 50 ct,"hydrocodone-APAP 7.5mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio Test Strips 50 ct,"hydrocodone-APAP 10mg/325mg/15mL soln. 
+generic"
+AUTONOMIC AND CNS MEDICATIONS,One Touch Verio Test Strips 50 ct,"hydrocodone/ibuprofen 2.5-200mg, 5-200mg, 10-
+200mg generic"
+RESPIRATORY MEDICATIONS,Levalbuterol Tartrate inhalation aerosol solution,levalbuterol neb generic
+CARDIOVASCULAR MEDICATIONS,Exforge,EXFORGE HCT

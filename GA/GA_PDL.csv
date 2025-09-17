@@ -1141,7 +1141,7 @@ OPVEE SPRAY,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 pimozide generic,Preferred,AUTONOMIC AND CNS MEDICATIONS
 pyridostigmine generic,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 REXTOVY,Preferred,AUTONOMIC AND CNS MEDICATIONS
-RYSTIGGO,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
+RYSTIGGO,Unknown,AUTONOMIC AND CNS MEDICATIONS
 SUBOXONE,Preferred,AUTONOMIC AND CNS MEDICATIONS
 TEGSEDI,Non-Preferred,AUTONOMIC AND CNS MEDICATIONS
 VIVITROL,Preferred,AUTONOMIC AND CNS MEDICATIONS
@@ -2314,7 +2314,7 @@ solifenacin generic,Preferred,UROLOGICAL/RENAL MEDICATIONS
 THIOLA EC,Preferred,UROLOGICAL/RENAL MEDICATIONS
 tiopronin generic,Preferred,UROLOGICAL/RENAL MEDICATIONS
 tolterodine generic,Non-Preferred,UROLOGICAL/RENAL MEDICATIONS
-tolterodine er generic,Non-Preferred,UROLOGICAL/RENAL MEDICATIONS
+tolterodine er generic,Unknown,UROLOGICAL/RENAL MEDICATIONS
 trospium generic,Non-Preferred,UROLOGICAL/RENAL MEDICATIONS
 trospium er generic,Non-Preferred,UROLOGICAL/RENAL MEDICATIONS
 UROGESIC BLUE,Non-Preferred,UROLOGICAL/RENAL MEDICATIONS
@@ -2330,4 +2330,4 @@ RAPAFLO,Non-Preferred,UROLOGICAL/RENAL MEDICATIONS
 tamsulosin generic,Preferred,UROLOGICAL/RENAL MEDICATIONS
 "FREESTYLE LIBRE, -2, -2 Plus, -3, -3 Plus",Preferred,DIABETIC SUPPLIES
 "OMNIPOD DASH, -5 (covered 2 - 21 yrs old)",Preferred,DIABETIC SUPPLIES
-"For a complete list of covered vaccines, please refer to www.mmis.georgia.gov → Pharmacy → Pharmacy Notices",Non-Preferred,VACCINES
+"For a complete list of covered vaccines, please refer to www.mmis.georgia.gov → Pharmacy → Pharmacy Notices",Unknown,VACCINES

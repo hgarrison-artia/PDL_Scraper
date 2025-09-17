@@ -53,7 +53,13 @@ for table in doc.tables:
             cells = [cell.text.strip() for cell in row.cells]
             pdl_name = cells[0]
             preferred_value = cells[1] if len(cells) > 1 else ""
-            status = "Preferred" if preferred_value == "P" else "Non-Preferred"
+            nonpreferred_value = cells[2] if len(cells) > 1 else ""
+            if preferred_value == "P":
+                status = "Preferred"
+            elif nonpreferred_value == "NP":
+                status = "Non-Preferred"
+            else:
+                status = "Unknown"
             # Append the row with pdl_name, status, and the current therapeutic class.
             rows_list.append([pdl_name, status, current_therapeutic_class])
 

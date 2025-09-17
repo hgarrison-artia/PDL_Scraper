@@ -178,7 +178,6 @@ GASTROINTESTINAL MEDICATIONS,Esomeprazole,esomeprazole inj. generic,Non-Preferre
 NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Esperoct,ESPEROCT,Non-Preferred
 ANTIINFECTIVES,Evotaz,EVOTAZ,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Evrysdi,EVRYSDI,Preferred
-CARDIOVASCULAR MEDICATIONS,Exforge,EXFORGE HCT,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Exforge HCT,EXFORGE HCT,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Extavia,EXTAVIA,Non-Preferred
 CARDIOVASCULAR MEDICATIONS,Ezallor Sprinkle sprinkle capsule,EZALLOR SPRINKLE,Non-Preferred
@@ -301,7 +300,6 @@ ENDOCRINE MEDICATIONS,Lantus vial,LANTUS,Preferred
 OPHTHALMIC MEDICATIONS,Lastacaft,LASTACAFT,Non-Preferred
 ANTIINFECTIVES,Ledipasvir / Sofosbuvir,ledipasvir-sofosbuvir tab generic,Non-Preferred
 IMMUNOLOGICALS,Leukine,LEUKINE,Preferred
-RESPIRATORY MEDICATIONS,Levalbuterol Tartrate inhalation aerosol solution,levalbuterol neb generic,Non-Preferred
 ANTIINFECTIVES,Lexiva,LEXIVA,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,Libervant buccal film,LIBERVANT,Non-Preferred
 GASTROINTESTINAL MEDICATIONS,Linzess,LINZESS,Preferred
@@ -319,6 +317,8 @@ OPHTHALMIC MEDICATIONS,Lumigan 5 mL,LUMIGAN,Preferred
 OPHTHALMIC MEDICATIONS,Lumigan 7.5 mL,LUMIGAN,Preferred
 IMMUNOSUPPRESSANT DRUGS,Lupron Depot-Ped 1-Month,"LUPRON DEPOT PEDIATRIC 7.5MG, 15MG",Preferred
 IMMUNOSUPPRESSANT DRUGS,Lupron Depot-Ped 3-Month,"LUPRON DEPOT PEDIATRIC 11.25MG, 30MG",Non-Preferred
+IMMUNOSUPPRESSANT DRUGS,Lupron Depot-Ped 6-Month,"LUPRON DEPOT 3.75MG, 7.5MG, 11.25MG, 
+22.5MG, 30MG",Preferred
 AUTONOMIC AND CNS MEDICATIONS,Lurasidone,lurasidone generic,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Lybalvi,LYBALVI,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Lynparza,LYNPARZA,Preferred
@@ -494,7 +494,7 @@ NUTRITION / BLOOD MODIFIERS / ELECTROLYTES,Ruconest,RUCONEST,Non-Preferred
 ENDOCRINE MEDICATIONS,Rybelsus,RYBELSUS,Non-Preferred
 IMMUNOSUPPRESSANT DRUGS,Rydapt,RYDAPT,Preferred
 AUTONOMIC AND CNS MEDICATIONS,Rykindo,RYKINDO,Preferred
-AUTONOMIC AND CNS MEDICATIONS,Rystiggo,RYSTIGGO,Non-Preferred
+AUTONOMIC AND CNS MEDICATIONS,Rystiggo,RYSTIGGO,Unknown
 AUTONOMIC AND CNS MEDICATIONS,"Sabril 500 mg, Infantile spasms, packet for oral solution, tablet",SABRIL,Non-Preferred
 AUTONOMIC AND CNS MEDICATIONS,"Sabril 500 mg, packet for oral solution, Refractory complex partial seizures, tablet",SABRIL,Non-Preferred
 IMMUNOLOGICALS,Saizen,SAIZEN,Non-Preferred
