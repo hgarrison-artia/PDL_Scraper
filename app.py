@@ -25,11 +25,8 @@ class DrugMatcherApp:
     def process_next(self, index):
         if index < len(self.not_in_data):
             drug = self.not_in_data[index]
-            # Find matches using the first word of the drug name (case-insensitive)
-            first_word = drug.split()[0].split('-')[0].split('/')[0].lower()
-            matches = self.data_manager.pdl_df[
-                self.data_manager.pdl_df['pdl_name'].str.lower().str.contains(first_word, na=False, regex=False)
-            ]
+            # Find matches and filter out banned pdl_names for this capsule
+            matches = self.data_manager.get_filtered_matches(drug)
             if matches.empty:
                 self.data_manager.add_skipped_drug(drug)
                 self.current_index += 1
@@ -59,8 +56,18 @@ class DrugMatcherApp:
             if drug.split()[0].split('-')[0].split('/')[0].lower() == first_word:
                 remaining_drugs.append(drug)
         
+        # Respect per-capsule bans: only apply to drugs where this pdl_name is not banned
+        eligible_drugs = []
+        if self.data_manager.banned_data is not None and not self.data_manager.banned_data.empty:
+            banned_map = self.data_manager.banned_data.groupby('capsule_name')['pdl_name'].apply(set).to_dict()
+            for drug in remaining_drugs:
+                if selected_pdl_name not in banned_map.get(drug, set()):
+                    eligible_drugs.append(drug)
+        else:
+            eligible_drugs = remaining_drugs
+        
         # Save all matching drugs
-        for drug in remaining_drugs:
+        for drug in eligible_drugs:
             self.data_manager.add_status(therapeutic_class, drug, selected_pdl_name, status)
             self.data_manager.update_state_data(therapeutic_class, drug, selected_pdl_name)
             # Add to pairing history
@@ -72,7 +79,7 @@ class DrugMatcherApp:
             })
         
         # Update current index to skip all processed drugs
-        self.current_index += len(remaining_drugs)
+        self.current_index += len(eligible_drugs)
         self.process_next(self.current_index)
 
     def open_gui_for_drug(self, drug, matches):
@@ -129,11 +136,7 @@ class DrugMatcherApp:
                 # Process the drug again
                 self.open_gui_for_drug(
                     last_pairing['drug'],
-                    self.data_manager.pdl_df[
-                        self.data_manager.pdl_df['pdl_name'].str.lower().str.contains(
-                            last_pairing['drug'].split()[0].split('-')[0].split('/')[0].lower(), na=False, regex=False
-                        )
-                    ]
+                    self.data_manager.get_filtered_matches(last_pairing['drug'])
                 )
 
         def permanent_skip_callback():
