@@ -1,4 +1,7 @@
 import pandas as pd
+from sqlalchemy import create_engine
+from sqlalchemy.engine import URL
+import numpy as np
 import os
 
 class DataManager:
@@ -7,6 +10,7 @@ class DataManager:
         self.process_type = process_type
         self.pdl_df = pd.read_csv(f'{state}/{state}_PDL.csv')
         self.capsule_df = pd.read_csv('drugs.csv')
+        self.capsule_df = self.capsule_drugs()
         # Filter capsule_df to only include drugs for the selected state
         self.capsule_df = self.capsule_df[self.capsule_df['ST'] == state]
         self.state_data = pd.read_csv(f'{state}/{state}_data.csv')
@@ -19,6 +23,35 @@ class DataManager:
             self.banned_data = pd.read_csv(banned_file)
         else:
             self.banned_data = pd.DataFrame(columns=['therapeutic_class', 'capsule_name', 'pdl_name'])
+
+
+    def capsule_drugs(self):
+        username = "artia_readonly"
+        password = 'ap3ljax#!0frack'
+        host = "artia-dashboard-psql.postgres.database.azure.com"
+        port = "5432"              
+        database = "artia_dashboard"
+
+        url = URL.create(
+            "postgresql+psycopg2",
+            username=username,
+            password=password,
+            host=host,
+            port=port,
+            database=database,
+        )
+
+        engine = create_engine(url)
+        with open('coverage_data.sql', 'r') as f:
+            sql_query = f.read()
+    
+        drug_df = pd.read_sql(sql_query, engine)
+        drug_df['capsule_name'] = [product + ' ' + tag if tag != '' else product for product, tag in zip(drug_df['Product'], drug_df['Coverage Tag(s)'])]
+        drug_df = drug_df[['ST', 'capsule_name', 'Class']]
+        drug_df.columns = ['ST','Drugs','Class']
+        drug_df = drug_df.drop_duplicates().reset_index(drop=True)
+        drug_df.to_csv('drugs.csv', index=False)
+        return drug_df
         
     def build_initial_data(self):
         # Filter drugs based on process type
@@ -52,9 +85,7 @@ class DataManager:
                     })
             else:
                 self.not_in_data.append(drug)
-
-        # Remove any drugs that have been permanently skipped
-        self.filter_banned_drugs()
+        # Do not remove capsules based on banned data; bans apply to PDL options only
                 
     def process_existing_data(self):
         # Process drugs already in data to set statuses
@@ -71,6 +102,7 @@ class DataManager:
                         'pdl_name': entry['pdl_name'],
                         'status': 'Preferred'
                     })
+                    
                 else:
                     self.statuses.append({
                         'therapeutic_class': entry['therapeutic_class'],
@@ -88,9 +120,7 @@ class DataManager:
                 )
                 self.state_data = self.state_data[mask]
                 self.not_in_data.append(entry['capsule_name'])
-
-        # Remove any banned drugs that may have been added back
-        self.filter_banned_drugs()
+        # Do not filter capsules out based on bans; handled when presenting matches
                 
     def add_status(self, therapeutic_class, capsule_name, pdl_name, status):
         self.statuses.append({
@@ -113,6 +143,31 @@ class DataManager:
         new_row_df = pd.DataFrame([new_row])
         self.state_data = pd.concat([self.state_data, new_row_df], ignore_index=True)
         
+    def get_filtered_matches(self, capsule_name):
+        """Return PDL matches for a capsule, excluding banned pdl_names for that capsule.
+
+        Matching heuristic: use the first word (split on space, '-', '/') of the capsule name
+        to find candidate rows in the PDL by `pdl_name` substring match (case-insensitive),
+        then drop any pdl_names that are listed in the banned file for this capsule.
+        """
+        # Identify candidate rows using the same heuristic used previously
+        first_word = capsule_name.split()[0].split('-')[0].split('/')[0].lower()
+        candidates = self.pdl_df[
+            self.pdl_df['pdl_name'].str.lower().str.contains(first_word, na=False, regex=False)
+        ]
+        if candidates.empty:
+            return candidates
+        # Exclude banned pdl_names for this capsule
+        if self.banned_data is not None and not self.banned_data.empty:
+            banned_for_capsule = set(
+                self.banned_data.loc[
+                    self.banned_data['capsule_name'] == capsule_name, 'pdl_name'
+                ].dropna()
+            )
+            if banned_for_capsule:
+                candidates = candidates[~candidates['pdl_name'].isin(banned_for_capsule)]
+        return candidates
+
     def save_dataframes(self):
         output_df = pd.DataFrame(self.statuses)
         skipped_df = pd.DataFrame(self.skipped_drugs).drop_duplicates()
@@ -135,15 +190,8 @@ class DataManager:
         print(f"Dataframes saved successfully for {self.process_type} processing.")
 
     def filter_banned_drugs(self):
-        """Remove any drugs from not_in_data that are listed in banned_data."""
-        if not self.banned_data.empty:
-            banned_capsules = set(self.banned_data['capsule_name'])
-            self.not_in_data = [d for d in self.not_in_data if d not in banned_capsules]
-            # Ensure these banned capsules appear in the skipped list
-            existing = {d['capsule_name'] for d in self.skipped_drugs}
-            for capsule in banned_capsules:
-                if capsule not in existing:
-                    self.skipped_drugs.append({'capsule_name': capsule})
+        """Deprecated: bans now only suppress specific PDL options per capsule. No-op kept for compatibility."""
+        return
 
     def add_banned_pairings(self, capsule_name, matches_df):
         """Record all match options for a capsule drug as permanently skipped."""
