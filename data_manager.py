@@ -90,27 +90,7 @@ class DataManager:
     def process_existing_data(self):
         # Process drugs already in data to set statuses
         for entry in self.in_data:
-            if entry['pdl_name'] in list(self.pdl_df['pdl_name']):
-                status_array = self.pdl_df.loc[self.pdl_df['pdl_name'] == entry['pdl_name'], 'status'].unique()
-                if len(status_array) > 1:
-                    print(f"{entry['pdl_name']} listed on PDL with multiple different PDL statuses!!!")
-                    # You may choose to handle this situation differently
-                if 'Preferred' in status_array:
-                    self.statuses.append({
-                        'therapeutic_class': entry['therapeutic_class'],
-                        'capsule_name': entry['capsule_name'],
-                        'pdl_name': entry['pdl_name'],
-                        'status': 'Preferred'
-                    })
-                    
-                else:
-                    self.statuses.append({
-                        'therapeutic_class': entry['therapeutic_class'],
-                        'capsule_name': entry['capsule_name'],
-                        'pdl_name': entry['pdl_name'],
-                        'status': 'Non-Preferred'
-                    })
-            else:
+            if entry['pdl_name'] not in list(self.pdl_df['pdl_name']):
                 # If the pdl_name isn't found in the PDL dataframe, remove only
                 # rows with the same therapeutic_class and pdl_name combination
                 # from state_data. Other rows should remain unaffected.
@@ -120,8 +100,36 @@ class DataManager:
                 )
                 self.state_data = self.state_data[mask]
                 self.not_in_data.append(entry['capsule_name'])
+                continue
+
+            pdl_matches = self.pdl_df[self.pdl_df['pdl_name'] == entry['pdl_name']]
+            if 'therapeutic_class' in pdl_matches.columns:
+                pdl_matches = pdl_matches[pdl_matches['therapeutic_class'] == entry['therapeutic_class']]
+
+            if pdl_matches.empty:
+                # No matching therapeutic class for this pdl_name; treat as not found in data.
+                mask = ~(
+                    (self.state_data['therapeutic_class'] == entry['therapeutic_class']) &
+                    (self.state_data['pdl_name'] == entry['pdl_name'])
+                )
+                self.state_data = self.state_data[mask]
+                self.not_in_data.append(entry['capsule_name'])
+                continue
+
+            status_array = pdl_matches['status'].dropna().unique()
+            if len(status_array) > 1:
+                print(f"{entry['pdl_name']} listed on PDL with multiple different PDL statuses!!!")
+                # You may choose to handle this situation differently
+
+            for status in status_array:
+                self.statuses.append({
+                    'therapeutic_class': entry['therapeutic_class'],
+                    'capsule_name': entry['capsule_name'],
+                    'pdl_name': entry['pdl_name'],
+                    'status': status
+                })
         # Do not filter capsules out based on bans; handled when presenting matches
-                
+
     def add_status(self, therapeutic_class, capsule_name, pdl_name, status):
         self.statuses.append({
             'therapeutic_class': therapeutic_class,
