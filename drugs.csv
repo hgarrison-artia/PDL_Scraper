@@ -499,7 +499,7 @@ AL,Orilissa,Uterine Disorder Treatments
 AL,Orphenadrine ER,Skeletal Muscle Relaxants
 AL,Oseltamivir,Antivirals Oral
 AL,Oxbryta,Sickle Cell Disease
-AL,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+AL,Ozempic,Weight Loss
 AL,Ozobax,Skeletal Muscle Relaxants
 AL,Ozurdex,Ophthalmics Antiinflammatories
 AL,Padcev,Oncology IV
@@ -765,7 +765,7 @@ AL,Elfabrio,Enzyme Replacement Fabry Disease
 AL,Fuzeon,HIV AIDS
 AL,Galafold,Enzyme Replacement Fabry Disease
 AL,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-AL,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+AL,Mounjaro,Weight Loss
 AL,Pombiliti,Enzyme Replacement Pompe Disease
 AL,Teriflunomide,Multiple Sclerosis Agents
 AL,Vpriv,Enzyme Replacement Gauchers Disease
@@ -1443,7 +1443,7 @@ AL,Recombinate,Hemophilia Treatment
 AL,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 AL,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 AL,Zortress,Immunosuppressives Oral
-AL,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+AL,Zepbound,Weight Loss
 AL,Cinryze vial,HAE Treatments
 AL,Haegarda vial,HAE Treatments
 AL,Zomacton Adult use,Growth Hormone
@@ -1508,6 +1508,7 @@ AL,Nutrilyte,Bowel Prep Agents
 AL,Peg 3350,Bowel Prep Agents
 AL,Peg 3350 - Flavored,Bowel Prep Agents
 AL,Trilyte,Bowel Prep Agents
+AL,Rezlidhia,Oncology Oral Hematologic
 AK,Aimovig,Antimigraine Agents Other
 AK,Ajovy,Antimigraine Agents Other
 AK,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -2014,7 +2015,7 @@ AK,Orilissa,Uterine Disorder Treatments
 AK,Orphenadrine ER,Skeletal Muscle Relaxants
 AK,Oseltamivir,Antivirals Oral
 AK,Oxbryta,Sickle Cell Disease
-AK,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+AK,Ozempic,Weight Loss
 AK,Ozobax,Skeletal Muscle Relaxants
 AK,Ozurdex,Ophthalmics Antiinflammatories
 AK,Padcev,Oncology IV
@@ -2280,7 +2281,7 @@ AK,Elfabrio,Enzyme Replacement Fabry Disease
 AK,Fuzeon,HIV AIDS
 AK,Galafold,Enzyme Replacement Fabry Disease
 AK,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-AK,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+AK,Mounjaro,Weight Loss
 AK,Pombiliti,Enzyme Replacement Pompe Disease
 AK,Teriflunomide,Multiple Sclerosis Agents
 AK,Vpriv,Enzyme Replacement Gauchers Disease
@@ -2944,7 +2945,7 @@ AK,Recombinate,Hemophilia Treatment
 AK,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 AK,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 AK,Zortress,Immunosuppressives Oral
-AK,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+AK,Zepbound,Weight Loss
 AK,Cinryze vial,HAE Treatments
 AK,Haegarda vial,HAE Treatments
 AK,Zomacton,Growth Hormone
@@ -3495,7 +3496,7 @@ AZ,Oriahnn,Uterine Disorder Treatments
 AZ,Orphenadrine ER,Skeletal Muscle Relaxants
 AZ,Oseltamivir,Antivirals Oral
 AZ,Oxbryta,Sickle Cell Disease
-AZ,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+AZ,Ozempic,Weight Loss
 AZ,Ozobax,Skeletal Muscle Relaxants
 AZ,Ozurdex,Ophthalmics Antiinflammatories
 AZ,Padcev,Oncology IV
@@ -3759,7 +3760,7 @@ AZ,Elfabrio,Enzyme Replacement Fabry Disease
 AZ,Fuzeon,HIV AIDS
 AZ,Galafold,Enzyme Replacement Fabry Disease
 AZ,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-AZ,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+AZ,Mounjaro,Weight Loss
 AZ,Pombiliti,Enzyme Replacement Pompe Disease
 AZ,Teriflunomide,Multiple Sclerosis Agents
 AZ,Vpriv,Enzyme Replacement Gauchers Disease
@@ -4530,7 +4531,7 @@ AZ,Recombinate,Hemophilia Treatment
 AZ,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 AZ,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 AZ,Zortress,Immunosuppressives Oral
-AZ,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+AZ,Zepbound,Weight Loss
 AZ,Cinryze vial,HAE Treatments
 AZ,Haegarda vial,HAE Treatments
 AZ,Zomacton,Growth Hormone
@@ -5092,7 +5093,7 @@ AR,Orilissa,Uterine Disorder Treatments
 AR,Orphenadrine ER,Skeletal Muscle Relaxants
 AR,Oseltamivir,Antivirals Oral
 AR,Oxbryta,Sickle Cell Disease
-AR,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+AR,Ozempic,Weight Loss
 AR,Ozobax,Skeletal Muscle Relaxants
 AR,Ozurdex,Ophthalmics Antiinflammatories
 AR,Padcev,Oncology IV
@@ -5360,7 +5361,7 @@ AR,Elfabrio,Enzyme Replacement Fabry Disease
 AR,Fuzeon,HIV AIDS
 AR,Galafold,Enzyme Replacement Fabry Disease
 AR,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-AR,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+AR,Mounjaro,Weight Loss
 AR,Pombiliti,Enzyme Replacement Pompe Disease
 AR,Teriflunomide,Multiple Sclerosis Agents
 AR,Vpriv,Enzyme Replacement Gauchers Disease
@@ -5498,7 +5499,7 @@ AR,Hulio Ankylosing Spondylitis,Cytokine and CAM Antagonists
 AR,Humira Ankylosing Spondylitis,Cytokine and CAM Antagonists
 AR,Hyrimoz Ankylosing Spondylitis,Cytokine and CAM Antagonists
 AR,Idacio Ankylosing Spondylitis,Cytokine and CAM Antagonists
-AR,Rinvoq Ankylosing Spondylitis,Cytokine and CAM Antagonists
+AR,"Rinvoq Ankylosing Spondylitis, ER tablet",Cytokine and CAM Antagonists
 AR,Simlandi Ankylosing Spondylitis,Cytokine and CAM Antagonists
 AR,"Simponi Ankylosing Spondylitis, prefilled syringe",Cytokine and CAM Antagonists
 AR,"Simponi Ankylosing Spondylitis, Aria",Cytokine and CAM Antagonists
@@ -5519,7 +5520,7 @@ AR,Hulio Crohn’s Disease (adult),Cytokine and CAM Antagonists
 AR,Humira Crohn's Disease (adult),Cytokine and CAM Antagonists
 AR,Hyrimoz Crohn’s Disease (adult),Cytokine and CAM Antagonists
 AR,Idacio Crohn’s Disease (adult),Cytokine and CAM Antagonists
-AR,Rinvoq Crohn's Disease (adult),Cytokine and CAM Antagonists
+AR,"Rinvoq Crohn's Disease (adult), ER tablet",Cytokine and CAM Antagonists
 AR,Simlandi Crohn’s Disease (adult),Cytokine and CAM Antagonists
 AR,"Skyrizi Crohn’s Disease (adult), prefilled cartridge (On-Body Injector)",Cytokine and CAM Antagonists
 AR,"Skyrizi Crohn’s Disease (adult), prefilled syringe",Cytokine and CAM Antagonists
@@ -5572,7 +5573,7 @@ AR,Bimzelx Non-Radiographic Axial Spondyloarthritis,Cytokine and CAM Antagonists
 AR,Cimzia Non-Radiographic Axial Spondyloarthritis,Cytokine and CAM Antagonists
 AR,Cosentyx Non-Radiographic Axial Spondyloarthritis,Cytokine and CAM Antagonists
 AR,Taltz Non-Radiographic Axial Spondyloarthritis,Cytokine and CAM Antagonists
-AR,Rinvoq Non-Radiographic Axial Spondyloarthritis,Cytokine and CAM Antagonists
+AR,"Rinvoq ER tablet, Non-Radiographic Axial Spondyloarthritis",Cytokine and CAM Antagonists
 AR,Abrilada Plaque Psoriasis (adult),Cytokine and CAM Antagonists
 AR,Adalimumab-adaz Plaque Psoriasis (adult),Cytokine and CAM Antagonists
 AR,Adalimumab-adbm Plaque Psoriasis (adult),Cytokine and CAM Antagonists
@@ -5624,7 +5625,7 @@ AR,Idacio Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM An
 AR,Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
 AR,"Orencia ClickJect, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
 AR,"Orencia Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Cytokine and CAM Antagonists
-AR,Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+AR,"Rinvoq ER tablet, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
 AR,Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
 AR,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
 AR,Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
@@ -6048,7 +6049,7 @@ AR,Recombinate,Hemophilia Treatment
 AR,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 AR,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 AR,Zortress,Immunosuppressives Oral
-AR,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+AR,Zepbound,Weight Loss
 AR,Cinryze vial,HAE Treatments
 AR,Haegarda vial,HAE Treatments
 AR,Zomacton,Growth Hormone
@@ -6113,6 +6114,9 @@ AR,Dupixent Chronic Spontaneous Urticaria (CSU),Immunomodulators Atopic Dermatit
 AR,"Rinvoq ER tablet, Giant Cell Arteritis",Cytokine and CAM Antagonists
 AR,"Rinvoq LQ, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
 AR,"Rinvoq LQ, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
+AR,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+AR,Bimzelx Hidradenitis Suppurativa,Cytokine and CAM Antagonists
+AR,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
 CA,Aimovig,Antimigraine Agents Other
 CA,Ajovy,Antimigraine Agents Other
 CA,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -6613,7 +6617,7 @@ CA,Orilissa,Uterine Disorder Treatments
 CA,Orphenadrine ER,Skeletal Muscle Relaxants
 CA,Oseltamivir,Antivirals Oral
 CA,Oxbryta,Sickle Cell Disease
-CA,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+CA,Ozempic,Weight Loss
 CA,Ozobax,Skeletal Muscle Relaxants
 CA,Ozurdex,Ophthalmics Antiinflammatories
 CA,Padcev,Oncology IV
@@ -6882,7 +6886,7 @@ CA,Elfabrio,Enzyme Replacement Fabry Disease
 CA,Fuzeon,HIV AIDS
 CA,Galafold,Enzyme Replacement Fabry Disease
 CA,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-CA,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+CA,Mounjaro,Weight Loss
 CA,Pombiliti,Enzyme Replacement Pompe Disease
 CA,Teriflunomide,Multiple Sclerosis Agents
 CA,Vpriv,Enzyme Replacement Gauchers Disease
@@ -7560,7 +7564,7 @@ CA,Recombinate,Hemophilia Treatment
 CA,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 CA,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 CA,Zortress,Immunosuppressives Oral
-CA,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+CA,Zepbound,Weight Loss
 CA,Cinryze vial,HAE Treatments
 CA,Haegarda vial,HAE Treatments
 CA,Zomacton,Growth Hormone
@@ -8113,7 +8117,7 @@ CO,Orilissa,Uterine Disorder Treatments
 CO,Orphenadrine ER,Skeletal Muscle Relaxants
 CO,Oseltamivir,Antivirals Oral
 CO,Oxbryta,Sickle Cell Disease
-CO,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+CO,Ozempic,Weight Loss
 CO,Ozobax,Skeletal Muscle Relaxants
 CO,Ozurdex,Ophthalmics Antiinflammatories
 CO,Padcev,Oncology IV
@@ -8375,7 +8379,7 @@ CO,Elfabrio,Enzyme Replacement Fabry Disease
 CO,Fuzeon,HIV AIDS
 CO,Galafold,Enzyme Replacement Fabry Disease
 CO,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-CO,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+CO,Mounjaro,Weight Loss
 CO,Pombiliti,Enzyme Replacement Pompe Disease
 CO,Teriflunomide,Multiple Sclerosis Agents
 CO,Vpriv,Enzyme Replacement Gauchers Disease
@@ -9126,7 +9130,7 @@ CO,Recombinate,Hemophilia Treatment
 CO,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 CO,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 CO,Zortress,Immunosuppressives Oral
-CO,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+CO,Zepbound,Weight Loss
 CO,Cinryze vial,HAE Treatments
 CO,Haegarda vial,HAE Treatments
 CO,Zomacton,Growth Hormone
@@ -9677,7 +9681,7 @@ CT,Orilissa,Uterine Disorder Treatments
 CT,Orphenadrine ER,Skeletal Muscle Relaxants
 CT,Oseltamivir,Antivirals Oral
 CT,Oxbryta,Sickle Cell Disease
-CT,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+CT,Ozempic,Weight Loss
 CT,Ozobax,Skeletal Muscle Relaxants
 CT,Ozurdex,Ophthalmics Antiinflammatories
 CT,Padcev,Oncology IV
@@ -9938,7 +9942,7 @@ CT,Elfabrio,Enzyme Replacement Fabry Disease
 CT,Fuzeon,HIV AIDS
 CT,Galafold,Enzyme Replacement Fabry Disease
 CT,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-CT,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+CT,Mounjaro,Weight Loss
 CT,Pombiliti,Enzyme Replacement Pompe Disease
 CT,Teriflunomide,Multiple Sclerosis Agents
 CT,Vpriv,Enzyme Replacement Gauchers Disease
@@ -10638,7 +10642,7 @@ CT,Recombinate,Hemophilia Treatment
 CT,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 CT,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 CT,Zortress,Immunosuppressives Oral
-CT,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+CT,Zepbound,Weight Loss
 CT,Cinryze vial,HAE Treatments
 CT,Haegarda vial,HAE Treatments
 CT,Zomacton,Growth Hormone
@@ -11190,7 +11194,7 @@ DE,Orilissa,Uterine Disorder Treatments
 DE,Orphenadrine ER,Skeletal Muscle Relaxants
 DE,Oseltamivir,Antivirals Oral
 DE,Oxbryta,Sickle Cell Disease
-DE,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+DE,Ozempic,Weight Loss
 DE,Ozobax,Skeletal Muscle Relaxants
 DE,Ozurdex,Ophthalmics Antiinflammatories
 DE,Padcev,Oncology IV
@@ -11454,7 +11458,7 @@ DE,Elfabrio,Enzyme Replacement Fabry Disease
 DE,Fuzeon,HIV AIDS
 DE,Galafold,Enzyme Replacement Fabry Disease
 DE,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-DE,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+DE,Mounjaro,Weight Loss
 DE,Pombiliti,Enzyme Replacement Pompe Disease
 DE,Teriflunomide,Multiple Sclerosis Agents
 DE,Vpriv,Enzyme Replacement Gauchers Disease
@@ -12203,7 +12207,7 @@ DE,Recombinate,Hemophilia Treatment
 DE,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 DE,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 DE,Zortress,Immunosuppressives Oral
-DE,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+DE,Zepbound,Weight Loss
 DE,Cinryze vial,HAE Treatments
 DE,Haegarda vial,HAE Treatments
 DE,Zomacton,Growth Hormone
@@ -12766,7 +12770,7 @@ DC,Orilissa,Uterine Disorder Treatments
 DC,Orphenadrine ER,Skeletal Muscle Relaxants
 DC,Oseltamivir,Antivirals Oral
 DC,Oxbryta,Sickle Cell Disease
-DC,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+DC,Ozempic,Weight Loss
 DC,Ozobax,Skeletal Muscle Relaxants
 DC,Ozurdex,Ophthalmics Antiinflammatories
 DC,Padcev,Oncology IV
@@ -13034,7 +13038,7 @@ DC,Elfabrio,Enzyme Replacement Fabry Disease
 DC,Fuzeon,HIV AIDS
 DC,Galafold,Enzyme Replacement Fabry Disease
 DC,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-DC,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+DC,Mounjaro,Weight Loss
 DC,Pombiliti,Enzyme Replacement Pompe Disease
 DC,Teriflunomide,Multiple Sclerosis Agents
 DC,Vpriv,Enzyme Replacement Gauchers Disease
@@ -13732,7 +13736,7 @@ DC,Recombinate,Hemophilia Treatment
 DC,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 DC,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 DC,Zortress,Immunosuppressives Oral
-DC,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+DC,Zepbound,Weight Loss
 DC,Cinryze vial,HAE Treatments
 DC,Haegarda vial,HAE Treatments
 DC,Zomacton,Growth Hormone
@@ -14296,7 +14300,7 @@ FL,Orilissa,Uterine Disorder Treatments
 FL,Orphenadrine ER,Skeletal Muscle Relaxants
 FL,Oseltamivir,Antivirals Oral
 FL,Oxbryta,Sickle Cell Disease
-FL,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+FL,Ozempic,Weight Loss
 FL,Ozobax,Skeletal Muscle Relaxants
 FL,Ozurdex,Ophthalmics Antiinflammatories
 FL,Padcev,Oncology IV
@@ -14559,7 +14563,7 @@ FL,Elfabrio,Enzyme Replacement Fabry Disease
 FL,Fuzeon,HIV AIDS
 FL,Galafold,Enzyme Replacement Fabry Disease
 FL,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-FL,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+FL,Mounjaro,Weight Loss
 FL,Pombiliti,Enzyme Replacement Pompe Disease
 FL,Teriflunomide,Multiple Sclerosis Agents
 FL,Vpriv,Enzyme Replacement Gauchers Disease
@@ -14864,21 +14868,13 @@ FL,Adalimumab-adaz Ulcerative Colitis (adult),Cytokine and CAM Antagonists
 FL,Adalimumab-adaz Uveitis (adult),Cytokine and CAM Antagonists
 FL,Cibinqo Atopic Dermatitis (adult),Immunomodulators Atopic Dermatitis
 FL,Cinqair Asthma (adult),Immunomodulators Asthma
-FL,"Dupixent Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Atopic Dermatitis
-FL,"Dupixent Asthma (Pediatrics 6 years to 11 years of age), prefilled syringe",Immunomodulators Atopic Dermatitis
-FL,"Dupixent Atopic Dermatitis (adult), prefilled syringe",Immunomodulators Atopic Dermatitis
-FL,"Dupixent Atopic Dermatitis (pediatric), prefilled syringe",Immunomodulators Atopic Dermatitis
-FL,"Dupixent Chronic Rhinosinusitis with Nasal Polyposis, prefilled syringe",Immunomodulators Atopic Dermatitis
-FL,"Dupixent Eosinophilic Esophagitis, prefilled syringe",Immunomodulators Atopic Dermatitis
-FL,"Dupixent Eosinophilic or Corticosteroid-Dependent Asthma, prefilled syringe",Immunomodulators Atopic Dermatitis
-FL,"Dupixent prefilled syringe, Prurigo Nodularis",Immunomodulators Atopic Dermatitis
-FL,"Dupixent Asthma (Adults and Adolescents 12 years of age and older), pen",Immunomodulators Atopic Dermatitis
-FL,"Dupixent Asthma (Pediatrics 6 years to 11 years of age), pen",Immunomodulators Atopic Dermatitis
-FL,"Dupixent Atopic Dermatitis (adult), pen",Immunomodulators Atopic Dermatitis
-FL,"Dupixent Atopic Dermatitis (pediatric), pen",Immunomodulators Atopic Dermatitis
-FL,"Dupixent Chronic Rhinosinusitis with Nasal Polyposis, pen",Immunomodulators Atopic Dermatitis
-FL,"Dupixent Eosinophilic Esophagitis, pen",Immunomodulators Atopic Dermatitis
-FL,"Dupixent pen, Prurigo Nodularis",Immunomodulators Atopic Dermatitis
+FL,Dupixent Asthma (Adults and Adolescents 12 years of age and older),Immunomodulators Atopic Dermatitis
+FL,Dupixent Asthma (Pediatrics 6 years to 11 years of age),Immunomodulators Atopic Dermatitis
+FL,Dupixent Atopic Dermatitis (adult),Immunomodulators Atopic Dermatitis
+FL,Dupixent Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+FL,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,Immunomodulators Atopic Dermatitis
+FL,Dupixent Eosinophilic Esophagitis,Immunomodulators Atopic Dermatitis
+FL,Dupixent Prurigo Nodularis,Immunomodulators Atopic Dermatitis
 FL,"Actemra ACTPen, Giant Cell Arteritis",Cytokine and CAM Antagonists
 FL,"Actemra ACTPen, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
 FL,"Actemra ACTPen, Rheumatoid Arthritis",Cytokine and CAM Antagonists
@@ -14896,10 +14892,8 @@ FL,"Actemra Rheumatoid Arthritis, vial",Cytokine and CAM Antagonists
 FL,"Actemra Systemic-Onset Juvenile Idiopathic Arthritis (SJIA), vial",Cytokine and CAM Antagonists
 FL,"Entyvio Crohn’s Disease (adult), vial",Cytokine and CAM Antagonists
 FL,"Entyvio Ulcerative Colitis (adult), vial",Cytokine and CAM Antagonists
-FL,"Fasenra Asthma (Adults and Adolescents 12 years of age and older), auto-injector",Immunomodulators Asthma
-FL,"Fasenra Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
-FL,"Fasenra Asthma (Pediatrics 6 years to 11 years of age), auto-injector",Immunomodulators Asthma
-FL,"Fasenra Asthma (Pediatrics 6 years to 11 years of age), prefilled syringe",Immunomodulators Asthma
+FL,Fasenra Asthma (Adults and Adolescents 12 years of age and older),Immunomodulators Asthma
+FL,Fasenra Asthma (Pediatrics 6 years to 11 years of age),Immunomodulators Asthma
 FL,"Simponi Ankylosing Spondylitis, Aria",Cytokine and CAM Antagonists
 FL,"Simponi Aria, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
 FL,"Simponi Aria, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
@@ -14907,10 +14901,8 @@ FL,"Simponi Aria, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
 FL,"Simponi Aria, Rheumatoid Arthritis",Cytokine and CAM Antagonists
 FL,"Skyrizi Crohn’s Disease (adult), vial",Cytokine and CAM Antagonists
 FL,"Skyrizi Ulcerative Colitis (adult), vial",Cytokine and CAM Antagonists
-FL,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), auto-injector",Immunomodulators Asthma
-FL,"Tezspire Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
-FL,"Fasenra auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Immunomodulators Asthma
-FL,"Fasenra Eosinophilic Granulomatosis with Polyangitis (EGPA), prefilled syringe",Immunomodulators Asthma
+FL,Tezspire Asthma (Adults and Adolescents 12 years of age and older),Immunomodulators Asthma
+FL,Fasenra Eosinophilic Granulomatosis with Polyangitis (EGPA),Immunomodulators Asthma
 FL,"Xolair Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
 FL,"Xolair Asthma (Pediatrics 6 years to 11 years of age), vial",Immunomodulators Asthma
 FL,"Xolair Asthma (Adults and Adolescents 12 years of age and older), auto-injector",Immunomodulators Asthma
@@ -14990,21 +14982,11 @@ FL,"Skyrizi Crohn’s Disease (adult), prefilled syringe",Cytokine and CAM Antag
 FL,"Skyrizi Plaque Psoriasis (adult), prefilled syringe",Cytokine and CAM Antagonists
 FL,"Skyrizi prefilled syringe, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
 FL,"Skyrizi prefilled syringe, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
-FL,"Nucala Asthma (Adults and Adolescents 12 years of age and older), auto-injector",Immunomodulators Asthma
-FL,"Nucala Asthma (Adults and Adolescents 12 years of age and older), prefilled syringe",Immunomodulators Asthma
-FL,"Nucala Asthma (Adults and Adolescents 12 years of age and older), vial",Immunomodulators Asthma
-FL,"Nucala Asthma (Pediatrics 6 years to 11 years of age), auto-injector",Immunomodulators Asthma
-FL,"Nucala Asthma (Pediatrics 6 years to 11 years of age), prefilled syringe",Immunomodulators Asthma
-FL,"Nucala Asthma (Pediatrics 6 years to 11 years of age), vial",Immunomodulators Asthma
-FL,"Nucala auto-injector, Chronic Rhinosinusitis with Nasal Polyposis",Immunomodulators Asthma
-FL,"Nucala Chronic Rhinosinusitis with Nasal Polyposis, prefilled syringe",Immunomodulators Asthma
-FL,"Nucala Chronic Rhinosinusitis with Nasal Polyposis, vial",Immunomodulators Asthma
-FL,"Nucala auto-injector, Eosinophilic Granulomatosis with Polyangitis (EGPA)",Immunomodulators Asthma
-FL,"Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA), prefilled syringe",Immunomodulators Asthma
-FL,"Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA), vial",Immunomodulators Asthma
-FL,"Nucala auto-injector, Hypereosinophilic Syndrome (HES)",Immunomodulators Asthma
-FL,"Nucala Hypereosinophilic Syndrome (HES), prefilled syringe",Immunomodulators Asthma
-FL,"Nucala Hypereosinophilic Syndrome (HES), vial",Immunomodulators Asthma
+FL,Nucala Asthma (Adults and Adolescents 12 years of age and older),Immunomodulators Asthma
+FL,Nucala Asthma (Pediatrics 6 years to 11 years of age),Immunomodulators Asthma
+FL,Nucala Chronic Rhinosinusitis with Nasal Polyposis,Immunomodulators Asthma
+FL,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),Immunomodulators Asthma
+FL,Nucala Hypereosinophilic Syndrome (HES),Immunomodulators Asthma
 FL,Adalimumab-fkjp Ankylosing Spondylitis,Cytokine and CAM Antagonists
 FL,Adalimumab-fkjp Crohn’s Disease (adult),Cytokine and CAM Antagonists
 FL,Adalimumab-fkjp Crohn’s Disease (pediatric),Cytokine and CAM Antagonists
@@ -15020,17 +15002,11 @@ FL,Otezla Plaque Psoriasis (adult),Cytokine and CAM Antagonists
 FL,Otezla Plaque Psoriasis (pediatric),Cytokine and CAM Antagonists
 FL,Otezla Psoriatic Arthritis (adult),Cytokine and CAM Antagonists
 FL,"Rinvoq LQ, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
-FL,"Xeljanz 5 mg, Ankylosing Spondylitis, IR tablet",Cytokine and CAM Antagonists
-FL,"Xeljanz 10 mg, Ankylosing Spondylitis, IR tablet",Cytokine and CAM Antagonists
-FL,"Xeljanz 5 mg, IR tablet, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
-FL,"Xeljanz 10 mg, IR tablet, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
-FL,"Xeljanz 5 mg, IR tablet, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
-FL,"Xeljanz 10 mg, IR tablet, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
-FL,"Xeljanz 5 mg, IR tablet, Rheumatoid Arthritis",Cytokine and CAM Antagonists
-FL,"Xeljanz 10 mg, IR tablet, Rheumatoid Arthritis",Cytokine and CAM Antagonists
-FL,"Xeljanz 5 mg, IR tablet, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
-FL,"Xeljanz 10 mg, IR tablet, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
-FL,"Dupixent Eosinophilic or Corticosteroid-Dependent Asthma, pen",Immunomodulators Atopic Dermatitis
+FL,Xeljanz Ankylosing Spondylitis,Cytokine and CAM Antagonists
+FL,Xeljanz Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+FL,Xeljanz Psoriatic Arthritis (adult),Cytokine and CAM Antagonists
+FL,Xeljanz Rheumatoid Arthritis,Cytokine and CAM Antagonists
+FL,Xeljanz Ulcerative Colitis (adult),Cytokine and CAM Antagonists
 FL,Femlyv,Contraceptives Oral
 FL,Iwilfin,Oncology Oral Other
 FL,Fruzaqla,Oncology Oral Other
@@ -15100,8 +15076,7 @@ FL,Adderall XR ER capsule,Stimulants and Related Agents
 FL,Forteo,Bone Resorption Suppression and Related Agents
 FL,Teriparatide,Bone Resorption Suppression and Related Agents
 FL,Yorvipath,Hypoparathyroid Agents
-FL,"Dupixent Chronic Obstructive Pulmonary Disease (COPD), pen",Immunomodulators Atopic Dermatitis
-FL,"Dupixent Chronic Obstructive Pulmonary Disease (COPD), prefilled syringe",Immunomodulators Atopic Dermatitis
+FL,Dupixent Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Atopic Dermatitis
 FL,Lybalvi Bipolar I Disorder,Antipsychotics
 FL,Lybalvi Schizophrenia,Antipsychotics
 FL,Vtama Atopic Dermatitis,"Antipsoriatics, Topical"
@@ -15334,7 +15309,7 @@ FL,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 FL,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 FL,Zortress Kidney Transplant,Immunosuppressives Oral
 FL,Zortress Liver Transplant,Immunosuppressives Oral
-FL,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+FL,Zepbound,Weight Loss
 FL,Cinryze vial,HAE Treatments
 FL,Haegarda vial,HAE Treatments
 FL,Zomacton Pediatric use,Growth Hormone
@@ -15391,6 +15366,13 @@ FL,Peg 3350,Bowel Prep Agents
 FL,Peg 3350 - Flavored,Bowel Prep Agents
 FL,Trilyte,Bowel Prep Agents
 FL,Enbrel Psoriatic Arthritis (pediatric),Cytokine and CAM Antagonists
+FL,"Rinvoq ER tablet, Giant Cell Arteritis",Cytokine and CAM Antagonists
+FL,Bimzelx Hidradenitis Suppurativa,Cytokine and CAM Antagonists
+FL,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+FL,Kevzara Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+FL,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
+FL,Dupixent Chronic Spontaneous Urticaria (CSU),Immunomodulators Atopic Dermatitis
+FL,Nucala Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Asthma
 GA,Aimovig,Antimigraine Agents Other
 GA,Ajovy,Antimigraine Agents Other
 GA,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -15872,7 +15854,7 @@ GA,Orilissa,Uterine Disorder Treatments
 GA,Orphenadrine ER,Skeletal Muscle Relaxants
 GA,Oseltamivir,Antivirals Oral
 GA,Oxbryta,Sickle Cell Disease
-GA,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+GA,Ozempic,Weight Loss
 GA,Ozobax,Skeletal Muscle Relaxants
 GA,Ozurdex,Ophthalmics Antiinflammatories
 GA,Padcev,Oncology IV
@@ -16120,7 +16102,7 @@ GA,Elfabrio,Enzyme Replacement Fabry Disease
 GA,Fuzeon,HIV AIDS
 GA,Galafold,Enzyme Replacement Fabry Disease
 GA,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-GA,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+GA,Mounjaro,Weight Loss
 GA,Pombiliti,Enzyme Replacement Pompe Disease
 GA,Teriflunomide,Multiple Sclerosis Agents
 GA,Vpriv,Enzyme Replacement Gauchers Disease
@@ -16888,7 +16870,7 @@ GA,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 GA,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 GA,Zortress Kidney Transplant,Immunosuppressives Oral
 GA,Zortress Liver Transplant,Immunosuppressives Oral
-GA,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+GA,Zepbound,Weight Loss
 GA,"Cinryze Acute Treatment, Ages 6-11 years, vial",HAE Treatments
 GA,"Cinryze Acute Treatment, Ages 12 years and above, vial",HAE Treatments
 GA,"Cinryze Ages 6-11 years, Prophylactic Treatment, vial",HAE Treatments
@@ -17450,7 +17432,7 @@ HI,Orilissa,Uterine Disorder Treatments
 HI,Orphenadrine ER,Skeletal Muscle Relaxants
 HI,Oseltamivir,Antivirals Oral
 HI,Oxbryta,Sickle Cell Disease
-HI,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+HI,Ozempic,Weight Loss
 HI,Ozobax,Skeletal Muscle Relaxants
 HI,Ozurdex,Ophthalmics Antiinflammatories
 HI,Padcev,Oncology IV
@@ -17721,7 +17703,7 @@ HI,Elfabrio,Enzyme Replacement Fabry Disease
 HI,Fuzeon,HIV AIDS
 HI,Galafold,Enzyme Replacement Fabry Disease
 HI,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-HI,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+HI,Mounjaro,Weight Loss
 HI,Pombiliti,Enzyme Replacement Pompe Disease
 HI,Teriflunomide,Multiple Sclerosis Agents
 HI,Vpriv,Enzyme Replacement Gauchers Disease
@@ -18312,7 +18294,7 @@ HI,Recombinate,Hemophilia Treatment
 HI,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 HI,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 HI,Zortress,Immunosuppressives Oral
-HI,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+HI,Zepbound,Weight Loss
 HI,Cinryze vial,HAE Treatments
 HI,Haegarda vial,HAE Treatments
 HI,Zomacton,Growth Hormone
@@ -18865,7 +18847,7 @@ ID,Orilissa,Uterine Disorder Treatments
 ID,Orphenadrine ER,Skeletal Muscle Relaxants
 ID,Oseltamivir,Antivirals Oral
 ID,Oxbryta,Sickle Cell Disease
-ID,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+ID,Ozempic,Weight Loss
 ID,Ozobax,Skeletal Muscle Relaxants
 ID,Ozurdex,Ophthalmics Antiinflammatories
 ID,Padcev,Oncology IV
@@ -19133,7 +19115,7 @@ ID,Elfabrio,Enzyme Replacement Fabry Disease
 ID,Fuzeon,HIV AIDS
 ID,Galafold,Enzyme Replacement Fabry Disease
 ID,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-ID,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+ID,Mounjaro,Weight Loss
 ID,Pombiliti,Enzyme Replacement Pompe Disease
 ID,Teriflunomide,Multiple Sclerosis Agents
 ID,Vpriv,Enzyme Replacement Gauchers Disease
@@ -19844,8 +19826,8 @@ ID,Recombinate,Hemophilia Treatment
 ID,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 ID,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 ID,Zortress,Immunosuppressives Oral
-ID,Zepbound Type II Diabetes,Hypoglycemics Incretin Mimetics Enhancers
-ID,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Hypoglycemics Incretin Mimetics Enhancers
+ID,Zepbound Type II Diabetes,Weight Loss
+ID,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Weight Loss
 ID,Cinryze vial,HAE Treatments
 ID,Haegarda vial,HAE Treatments
 ID,Zomacton,Growth Hormone
@@ -20431,7 +20413,7 @@ IL,Orilissa,Uterine Disorder Treatments
 IL,Orphenadrine ER,Skeletal Muscle Relaxants
 IL,Oseltamivir,Antivirals Oral
 IL,Oxbryta,Sickle Cell Disease
-IL,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+IL,Ozempic,Weight Loss
 IL,Ozobax,Skeletal Muscle Relaxants
 IL,Ozurdex,Ophthalmics Antiinflammatories
 IL,Padcev,Oncology IV
@@ -20700,7 +20682,7 @@ IL,Elfabrio,Enzyme Replacement Fabry Disease
 IL,Fuzeon,HIV AIDS
 IL,Galafold,Enzyme Replacement Fabry Disease
 IL,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-IL,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+IL,Mounjaro,Weight Loss
 IL,Pombiliti,Enzyme Replacement Pompe Disease
 IL,Teriflunomide,Multiple Sclerosis Agents
 IL,Vpriv,Enzyme Replacement Gauchers Disease
@@ -21365,7 +21347,7 @@ IL,Recombinate,Hemophilia Treatment
 IL,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 IL,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 IL,Zortress,Immunosuppressives Oral
-IL,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+IL,Zepbound,Weight Loss
 IL,Cinryze vial,HAE Treatments
 IL,Haegarda vial,HAE Treatments
 IL,Zomacton,Growth Hormone
@@ -21930,7 +21912,7 @@ IN,Orilissa,Uterine Disorder Treatments
 IN,Orphenadrine ER,Skeletal Muscle Relaxants
 IN,Oseltamivir,Antivirals Oral
 IN,Oxbryta,Sickle Cell Disease
-IN,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+IN,Ozempic,Weight Loss
 IN,Ozobax,Skeletal Muscle Relaxants
 IN,Ozurdex,Ophthalmics Antiinflammatories
 IN,Padcev,Oncology IV
@@ -22194,7 +22176,7 @@ IN,Elfabrio,Enzyme Replacement Fabry Disease
 IN,Fuzeon,HIV AIDS
 IN,Galafold,Enzyme Replacement Fabry Disease
 IN,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-IN,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+IN,Mounjaro,Weight Loss
 IN,Pombiliti,Enzyme Replacement Pompe Disease
 IN,Teriflunomide,Multiple Sclerosis Agents
 IN,Vpriv,Enzyme Replacement Gauchers Disease
@@ -22840,7 +22822,7 @@ IN,Recombinate,Hemophilia Treatment
 IN,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 IN,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 IN,Zortress,Immunosuppressives Oral
-IN,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Hypoglycemics Incretin Mimetics Enhancers
+IN,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Weight Loss
 IN,Cinryze vial,HAE Treatments
 IN,Haegarda vial,HAE Treatments
 IN,Zomacton Pediatric use,Growth Hormone
@@ -23410,7 +23392,7 @@ IA,Orilissa,Uterine Disorder Treatments
 IA,Orphenadrine ER,Skeletal Muscle Relaxants
 IA,Oseltamivir,Antivirals Oral
 IA,Oxbryta,Sickle Cell Disease
-IA,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+IA,Ozempic,Weight Loss
 IA,Ozobax,Skeletal Muscle Relaxants
 IA,Ozurdex,Ophthalmics Antiinflammatories
 IA,Padcev,Oncology IV
@@ -23679,7 +23661,7 @@ IA,Elfabrio,Enzyme Replacement Fabry Disease
 IA,Fuzeon,HIV AIDS
 IA,Galafold,Enzyme Replacement Fabry Disease
 IA,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-IA,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+IA,Mounjaro,Weight Loss
 IA,Pombiliti,Enzyme Replacement Pompe Disease
 IA,Teriflunomide,Multiple Sclerosis Agents
 IA,Vpriv,Enzyme Replacement Gauchers Disease
@@ -24401,7 +24383,7 @@ IA,Recombinate,Hemophilia Treatment
 IA,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 IA,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 IA,Zortress,Immunosuppressives Oral
-IA,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+IA,Zepbound,Weight Loss
 IA,Cinryze vial,HAE Treatments
 IA,Haegarda vial,HAE Treatments
 IA,Crysvita Tumor Induced Osteomalacia  (TIO),Hypophosphatemia
@@ -24976,7 +24958,7 @@ KS,Orilissa,Uterine Disorder Treatments
 KS,Orphenadrine ER,Skeletal Muscle Relaxants
 KS,Oseltamivir,Antivirals Oral
 KS,Oxbryta,Sickle Cell Disease
-KS,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+KS,Ozempic,Weight Loss
 KS,Ozobax,Skeletal Muscle Relaxants
 KS,Ozurdex,Ophthalmics Antiinflammatories
 KS,Padcev,Oncology IV
@@ -25243,7 +25225,7 @@ KS,Elfabrio,Enzyme Replacement Fabry Disease
 KS,Fuzeon,HIV AIDS
 KS,Galafold,Enzyme Replacement Fabry Disease
 KS,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-KS,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+KS,Mounjaro,Weight Loss
 KS,Pombiliti,Enzyme Replacement Pompe Disease
 KS,Teriflunomide,Multiple Sclerosis Agents
 KS,Vpriv,Enzyme Replacement Gauchers Disease
@@ -25896,7 +25878,7 @@ KS,Recombinate,Hemophilia Treatment
 KS,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 KS,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 KS,Zortress,Immunosuppressives Oral
-KS,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Hypoglycemics Incretin Mimetics Enhancers
+KS,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Weight Loss
 KS,Cinryze vial,HAE Treatments
 KS,Haegarda vial,HAE Treatments
 KS,Zomacton Pediatric use,Growth Hormone
@@ -25946,7 +25928,7 @@ KS,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM An
 KS,Lamzede IV solution,Enzyme Replacement Therapy
 KS,Nucala Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Asthma
 KS,Rinvoq Giant Cell Arteritis,Cytokine and CAM Antagonists
-KS,Zepbound Weight Loss,Hypoglycemics Incretin Mimetics Enhancers
+KS,Zepbound Weight Loss,Weight Loss
 KS,"Leqselvi Alopecia Areata, tablet",Cytokine and CAM Antagonists
 KS,Clenpiq,Bowel Prep Agents
 KS,Sutab,Bowel Prep Agents
@@ -26457,7 +26439,7 @@ KY,Orilissa,Uterine Disorder Treatments
 KY,Orphenadrine ER,Skeletal Muscle Relaxants
 KY,Oseltamivir,Antivirals Oral
 KY,Oxbryta,Sickle Cell Disease
-KY,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+KY,Ozempic,Weight Loss
 KY,Ozobax,Skeletal Muscle Relaxants
 KY,Ozurdex,Ophthalmics Antiinflammatories
 KY,Padcev,Oncology IV
@@ -26719,7 +26701,7 @@ KY,Elfabrio,Enzyme Replacement Fabry Disease
 KY,Fuzeon,HIV AIDS
 KY,Galafold,Enzyme Replacement Fabry Disease
 KY,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-KY,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+KY,Mounjaro,Weight Loss
 KY,Pombiliti,Enzyme Replacement Pompe Disease
 KY,Teriflunomide,Multiple Sclerosis Agents
 KY,Vpriv,Enzyme Replacement Gauchers Disease
@@ -27382,7 +27364,7 @@ KY,Recombinate,Hemophilia Treatment
 KY,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 KY,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 KY,Zortress,Immunosuppressives Oral
-KY,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+KY,Zepbound,Weight Loss
 KY,Cinryze vial,HAE Treatments
 KY,Haegarda vial,HAE Treatments
 KY,Renvela tablet,Phosphate Binders
@@ -27391,7 +27373,7 @@ KY,Solosec Trichomoniasis,Antibiotics Vaginal
 KY,Trelegy Ellipta Asthma,COPD Agents
 KY,Zomacton,Growth Hormone
 KY,Lodoco tablet,Antigout Agent
-KY,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Hypoglycemics Incretin Mimetics Enhancers
+KY,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Weight Loss
 KY,Alogliptin Benzoate tablet,Hypoglycemics Incretin Mimetics Enhancers
 KY,Alogliptin / Metformin tablet,Hypoglycemics Incretin Mimetics Enhancers
 KY,Alogliptin / Pioglitazone tablet,Hypoglycemics Incretin Mimetics Enhancers
@@ -27959,7 +27941,7 @@ LA,Orilissa,Uterine Disorder Treatments
 LA,Orphenadrine ER,Skeletal Muscle Relaxants
 LA,Oseltamivir,Antivirals Oral
 LA,Oxbryta,Sickle Cell Disease
-LA,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+LA,Ozempic,Weight Loss
 LA,Ozobax,Skeletal Muscle Relaxants
 LA,Ozurdex,Ophthalmics Antiinflammatories
 LA,Padcev,Oncology IV
@@ -28227,7 +28209,7 @@ LA,Elfabrio,Enzyme Replacement Fabry Disease
 LA,Fuzeon,HIV AIDS
 LA,Galafold,Enzyme Replacement Fabry Disease
 LA,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-LA,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+LA,Mounjaro,Weight Loss
 LA,Pombiliti,Enzyme Replacement Pompe Disease
 LA,Teriflunomide,Multiple Sclerosis Agents
 LA,Vpriv,Enzyme Replacement Gauchers Disease
@@ -28881,7 +28863,7 @@ LA,Recombinate,Hemophilia Treatment
 LA,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 LA,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 LA,Zortress,Immunosuppressives Oral
-LA,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+LA,Zepbound,Weight Loss
 LA,Cinryze vial,HAE Treatments
 LA,Haegarda vial,HAE Treatments
 LA,Zomacton,Growth Hormone
@@ -29442,7 +29424,7 @@ ME,Orilissa,Uterine Disorder Treatments
 ME,Orphenadrine ER,Skeletal Muscle Relaxants
 ME,Oseltamivir,Antivirals Oral
 ME,Oxbryta,Sickle Cell Disease
-ME,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+ME,Ozempic,Weight Loss
 ME,Ozobax,Skeletal Muscle Relaxants
 ME,Ozurdex,Ophthalmics Antiinflammatories
 ME,Padcev,Oncology IV
@@ -29709,7 +29691,7 @@ ME,Elfabrio,Enzyme Replacement Fabry Disease
 ME,Fuzeon,HIV AIDS
 ME,Galafold,Enzyme Replacement Fabry Disease
 ME,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-ME,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+ME,Mounjaro,Weight Loss
 ME,Pombiliti,Enzyme Replacement Pompe Disease
 ME,Teriflunomide,Multiple Sclerosis Agents
 ME,Vpriv,Enzyme Replacement Gauchers Disease
@@ -30110,8 +30092,8 @@ ME,Cosentyx Psoriatic Arthritis (pediatric),Cytokine and CAM Antagonists
 ME,Cosentyx Enthesitis-Related Arthritis (pediatric),Cytokine and CAM Antagonists
 ME,Cosentyx Plaque Psoriasis (adult),Cytokine and CAM Antagonists
 ME,Cosentyx Plaque Psoriasis (pediatric),Cytokine and CAM Antagonists
-ME,Entyvio Crohn’s Disease (adult),Cytokine and CAM Antagonists
-ME,Entyvio Ulcerative Colitis (adult),Cytokine and CAM Antagonists
+ME,"Entyvio Crohn’s Disease (adult), vial",Cytokine and CAM Antagonists
+ME,"Entyvio Ulcerative Colitis (adult), vial",Cytokine and CAM Antagonists
 ME,Ilaris Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),Cytokine and CAM Antagonists
 ME,Ilaris Adult-Onset Still’s Disease,Cytokine and CAM Antagonists
 ME,Ilaris Familial Mediterranean Fever (FMF),Cytokine and CAM Antagonists
@@ -30358,7 +30340,7 @@ ME,Recombinate,Hemophilia Treatment
 ME,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 ME,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 ME,Zortress,Immunosuppressives Oral
-ME,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+ME,Zepbound,Weight Loss
 ME,"Cinryze Prophylactic Treatment, vial",HAE Treatments
 ME,Haegarda vial,HAE Treatments
 ME,Zomacton Adult use,Growth Hormone
@@ -30925,7 +30907,7 @@ MD,Orilissa,Uterine Disorder Treatments
 MD,Orphenadrine ER,Skeletal Muscle Relaxants
 MD,Oseltamivir,Antivirals Oral
 MD,Oxbryta,Sickle Cell Disease
-MD,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+MD,Ozempic,Weight Loss
 MD,Ozobax,Skeletal Muscle Relaxants
 MD,Ozurdex,Ophthalmics Antiinflammatories
 MD,Padcev,Oncology IV
@@ -31187,7 +31169,7 @@ MD,Elfabrio,Enzyme Replacement Fabry Disease
 MD,Fuzeon,HIV AIDS
 MD,Galafold,Enzyme Replacement Fabry Disease
 MD,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-MD,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+MD,Mounjaro,Weight Loss
 MD,Pombiliti,Enzyme Replacement Pompe Disease
 MD,Teriflunomide,Multiple Sclerosis Agents
 MD,Vpriv,Enzyme Replacement Gauchers Disease
@@ -31852,7 +31834,7 @@ MD,Recombinate,Hemophilia Treatment
 MD,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 MD,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 MD,Zortress,Immunosuppressives Oral
-MD,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+MD,Zepbound,Weight Loss
 MD,Cinryze vial,HAE Treatments
 MD,Haegarda vial,HAE Treatments
 MD,Zomacton Pediatric use,Growth Hormone
@@ -32402,7 +32384,7 @@ MA,Orilissa,Uterine Disorder Treatments
 MA,Orphenadrine ER,Skeletal Muscle Relaxants
 MA,Oseltamivir,Antivirals Oral
 MA,Oxbryta,Sickle Cell Disease
-MA,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+MA,Ozempic,Weight Loss
 MA,Ozobax,Skeletal Muscle Relaxants
 MA,Ozurdex,Ophthalmics Antiinflammatories
 MA,Padcev,Oncology IV
@@ -32674,7 +32656,7 @@ MA,Bylvay Alagille Syndrome (ALGS),Bile Salts
 MA,Fuzeon,HIV AIDS
 MA,Galafold,Enzyme Replacement Fabry Disease
 MA,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-MA,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+MA,Mounjaro,Weight Loss
 MA,Pombiliti,Enzyme Replacement Pompe Disease
 MA,Teriflunomide,Multiple Sclerosis Agents
 MA,Vpriv,Enzyme Replacement Gauchers Disease
@@ -33419,7 +33401,7 @@ MA,Recombinate,Hemophilia Treatment
 MA,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 MA,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 MA,Zortress,Immunosuppressives Oral
-MA,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+MA,Zepbound,Weight Loss
 MA,Cinryze vial,HAE Treatments
 MA,Haegarda vial,HAE Treatments
 MA,"Paxlovid 300/150-100 mg, tablet therapy pack",Antivirals Oral
@@ -33982,7 +33964,7 @@ MI,Orilissa,Uterine Disorder Treatments
 MI,Orphenadrine ER,Skeletal Muscle Relaxants
 MI,Oseltamivir,Antivirals Oral
 MI,Oxbryta,Sickle Cell Disease
-MI,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+MI,Ozempic,Weight Loss
 MI,Ozobax,Skeletal Muscle Relaxants
 MI,Ozurdex,Ophthalmics Antiinflammatories
 MI,Padcev,Oncology IV
@@ -34249,7 +34231,7 @@ MI,Elfabrio,Enzyme Replacement Fabry Disease
 MI,Fuzeon,HIV AIDS
 MI,Galafold,Enzyme Replacement Fabry Disease
 MI,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-MI,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+MI,Mounjaro,Weight Loss
 MI,Pombiliti,Enzyme Replacement Pompe Disease
 MI,Teriflunomide,Multiple Sclerosis Agents
 MI,Vpriv,Enzyme Replacement Gauchers Disease
@@ -34951,7 +34933,7 @@ MI,Recombinate,Hemophilia Treatment
 MI,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 MI,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 MI,Zortress,Immunosuppressives Oral
-MI,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+MI,Zepbound,Weight Loss
 MI,Cinryze vial,HAE Treatments
 MI,Haegarda vial,HAE Treatments
 MI,Zomacton,Growth Hormone
@@ -35524,7 +35506,7 @@ MN,Orilissa,Uterine Disorder Treatments
 MN,Orphenadrine ER,Skeletal Muscle Relaxants
 MN,Oseltamivir,Antivirals Oral
 MN,Oxbryta,Sickle Cell Disease
-MN,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+MN,Ozempic,Weight Loss
 MN,Ozobax,Skeletal Muscle Relaxants
 MN,Ozurdex,Ophthalmics Antiinflammatories
 MN,Padcev,Oncology IV
@@ -35792,7 +35774,7 @@ MN,Elfabrio,Enzyme Replacement Fabry Disease
 MN,Fuzeon,HIV AIDS
 MN,Galafold,Enzyme Replacement Fabry Disease
 MN,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-MN,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+MN,Mounjaro,Weight Loss
 MN,Pombiliti,Enzyme Replacement Pompe Disease
 MN,Teriflunomide,Multiple Sclerosis Agents
 MN,Vpriv,Enzyme Replacement Gauchers Disease
@@ -36445,7 +36427,7 @@ MN,Recombinate,Hemophilia Treatment
 MN,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 MN,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 MN,Zortress,Immunosuppressives Oral
-MN,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+MN,Zepbound,Weight Loss
 MN,Cinryze vial,HAE Treatments
 MN,Haegarda vial,HAE Treatments
 MN,Zomacton Pediatric use,Growth Hormone
@@ -37009,7 +36991,7 @@ MS,Orilissa,Uterine Disorder Treatments
 MS,Orphenadrine ER,Skeletal Muscle Relaxants
 MS,Oseltamivir,Antivirals Oral
 MS,Oxbryta,Sickle Cell Disease
-MS,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+MS,Ozempic,Weight Loss
 MS,Ozobax,Skeletal Muscle Relaxants
 MS,Ozurdex,Ophthalmics Antiinflammatories
 MS,Padcev,Oncology IV
@@ -37277,7 +37259,7 @@ MS,Elfabrio,Enzyme Replacement Fabry Disease
 MS,Fuzeon,HIV AIDS
 MS,Galafold,Enzyme Replacement Fabry Disease
 MS,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-MS,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+MS,Mounjaro,Weight Loss
 MS,Pombiliti,Enzyme Replacement Pompe Disease
 MS,Teriflunomide,Multiple Sclerosis Agents
 MS,Vpriv,Enzyme Replacement Gauchers Disease
@@ -37933,8 +37915,8 @@ MS,Recombinate,Hemophilia Treatment
 MS,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 MS,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 MS,Zortress,Immunosuppressives Oral
-MS,Zepbound Type II Diabetes,Hypoglycemics Incretin Mimetics Enhancers
-MS,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Hypoglycemics Incretin Mimetics Enhancers
+MS,Zepbound Type II Diabetes,Weight Loss
+MS,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Weight Loss
 MS,Cinryze vial,HAE Treatments
 MS,Haegarda vial,HAE Treatments
 MS,Zomacton Pediatric use,Growth Hormone
@@ -38488,7 +38470,7 @@ MO,Orilissa,Uterine Disorder Treatments
 MO,Orphenadrine ER,Skeletal Muscle Relaxants
 MO,Oseltamivir,Antivirals Oral
 MO,Oxbryta,Sickle Cell Disease
-MO,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+MO,Ozempic,Weight Loss
 MO,Ozobax,Skeletal Muscle Relaxants
 MO,Ozurdex,Ophthalmics Antiinflammatories
 MO,Padcev,Oncology IV
@@ -38743,7 +38725,7 @@ MO,Elelyso,Enzyme Replacement Gauchers Disease
 MO,Elfabrio,Enzyme Replacement Fabry Disease
 MO,Fuzeon,HIV AIDS
 MO,Galafold,Enzyme Replacement Fabry Disease
-MO,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+MO,Mounjaro,Weight Loss
 MO,Pombiliti,Enzyme Replacement Pompe Disease
 MO,Teriflunomide,Multiple Sclerosis Agents
 MO,Vpriv,Enzyme Replacement Gauchers Disease
@@ -39460,14 +39442,14 @@ MO,Recombinate,Hemophilia Treatment
 MO,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 MO,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 MO,Zortress,Immunosuppressives Oral
-MO,"Zepbound 5mg/0.5mL, vial",Hypoglycemics Incretin Mimetics Enhancers
-MO,"Zepbound 2.5mg/0.5mL, vial",Hypoglycemics Incretin Mimetics Enhancers
-MO,"Zepbound 7.5mg/0.5mL, pen",Hypoglycemics Incretin Mimetics Enhancers
-MO,"Zepbound 5mg/0.5mL, pen",Hypoglycemics Incretin Mimetics Enhancers
-MO,"Zepbound 2.5mg/0.5mL, pen",Hypoglycemics Incretin Mimetics Enhancers
-MO,"Zepbound 15mg/0.5mL, pen",Hypoglycemics Incretin Mimetics Enhancers
-MO,"Zepbound 12.5mg/0.5mL, pen",Hypoglycemics Incretin Mimetics Enhancers
-MO,"Zepbound 10mg/0.5mL, pen",Hypoglycemics Incretin Mimetics Enhancers
+MO,"Zepbound 5mg/0.5mL, vial",Weight Loss
+MO,"Zepbound 2.5mg/0.5mL, vial",Weight Loss
+MO,"Zepbound 7.5mg/0.5mL, pen",Weight Loss
+MO,"Zepbound 5mg/0.5mL, pen",Weight Loss
+MO,"Zepbound 2.5mg/0.5mL, pen",Weight Loss
+MO,"Zepbound 15mg/0.5mL, pen",Weight Loss
+MO,"Zepbound 12.5mg/0.5mL, pen",Weight Loss
+MO,"Zepbound 10mg/0.5mL, pen",Weight Loss
 MO,Cinryze vial,HAE Treatments
 MO,Haegarda vial,HAE Treatments
 MO,Zomacton Pediatric use,Growth Hormone
@@ -40042,7 +40024,7 @@ MT,Orilissa,Uterine Disorder Treatments
 MT,Orphenadrine ER,Skeletal Muscle Relaxants
 MT,Oseltamivir,Antivirals Oral
 MT,Oxbryta,Sickle Cell Disease
-MT,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+MT,Ozempic,Weight Loss
 MT,Ozobax,Skeletal Muscle Relaxants
 MT,Ozurdex,Ophthalmics Antiinflammatories
 MT,Padcev,Oncology IV
@@ -40311,7 +40293,7 @@ MT,Elfabrio,Enzyme Replacement Fabry Disease
 MT,Fuzeon,HIV AIDS
 MT,Galafold,Enzyme Replacement Fabry Disease
 MT,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-MT,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+MT,Mounjaro,Weight Loss
 MT,Pombiliti,Enzyme Replacement Pompe Disease
 MT,Teriflunomide,Multiple Sclerosis Agents
 MT,Vpriv,Enzyme Replacement Gauchers Disease
@@ -40963,7 +40945,7 @@ MT,Recombinate,Hemophilia Treatment
 MT,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 MT,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 MT,Zortress,Immunosuppressives Oral
-MT,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Hypoglycemics Incretin Mimetics Enhancers
+MT,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Weight Loss
 MT,Cinryze vial,HAE Treatments
 MT,Haegarda vial,HAE Treatments
 MT,"Actemra Cytokine Release Syndrome, vial",Cytokine and CAM Antagonists
@@ -41549,7 +41531,7 @@ NE,Orilissa,Uterine Disorder Treatments
 NE,Orphenadrine ER,Skeletal Muscle Relaxants
 NE,Oseltamivir,Antivirals Oral
 NE,Oxbryta,Sickle Cell Disease
-NE,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+NE,Ozempic,Weight Loss
 NE,Ozobax,Skeletal Muscle Relaxants
 NE,Ozurdex,Ophthalmics Antiinflammatories
 NE,Padcev,Oncology IV
@@ -41818,7 +41800,7 @@ NE,Elfabrio,Enzyme Replacement Fabry Disease
 NE,Fuzeon,HIV AIDS
 NE,Galafold,Enzyme Replacement Fabry Disease
 NE,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-NE,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+NE,Mounjaro,Weight Loss
 NE,Pombiliti,Enzyme Replacement Pompe Disease
 NE,Teriflunomide,Multiple Sclerosis Agents
 NE,Vpriv,Enzyme Replacement Gauchers Disease
@@ -42528,7 +42510,7 @@ NE,Recombinate,Hemophilia Treatment
 NE,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 NE,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 NE,Zortress,Immunosuppressives Oral
-NE,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+NE,Zepbound,Weight Loss
 NE,Cinryze vial,HAE Treatments
 NE,Haegarda vial,HAE Treatments
 NE,Zomacton Pediatric use,Growth Hormone
@@ -43108,7 +43090,7 @@ NV,Orilissa,Uterine Disorder Treatments
 NV,Orphenadrine ER,Skeletal Muscle Relaxants
 NV,Oseltamivir,Antivirals Oral
 NV,Oxbryta,Sickle Cell Disease
-NV,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+NV,Ozempic,Weight Loss
 NV,Ozobax,Skeletal Muscle Relaxants
 NV,Ozurdex,Ophthalmics Antiinflammatories
 NV,Padcev,Oncology IV
@@ -43376,7 +43358,7 @@ NV,Elfabrio,Enzyme Replacement Fabry Disease
 NV,Fuzeon,HIV AIDS
 NV,Galafold,Enzyme Replacement Fabry Disease
 NV,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-NV,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+NV,Mounjaro,Weight Loss
 NV,Pombiliti,Enzyme Replacement Pompe Disease
 NV,Teriflunomide,Multiple Sclerosis Agents
 NV,Vpriv,Enzyme Replacement Gauchers Disease
@@ -44026,7 +44008,7 @@ NV,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 NV,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 NV,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 NV,Zortress,Immunosuppressives Oral
-NV,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+NV,Zepbound,Weight Loss
 NV,Cinryze vial,HAE Treatments
 NV,Haegarda vial,HAE Treatments
 NV,Zomacton,Growth Hormone
@@ -44083,7 +44065,7 @@ NV,Nutrilyte,Bowel Prep Agents
 NV,Peg 3350,Bowel Prep Agents
 NV,Peg 3350 - Flavored,Bowel Prep Agents
 NV,Trilyte,Bowel Prep Agents
-NV,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Hypoglycemics Incretin Mimetics Enhancers
+NV,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Weight Loss
 NH,Aimovig,Antimigraine Agents Other
 NH,Ajovy,Antimigraine Agents Other
 NH,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -44593,7 +44575,7 @@ NH,Orilissa,Uterine Disorder Treatments
 NH,Orphenadrine ER,Skeletal Muscle Relaxants
 NH,Oseltamivir,Antivirals Oral
 NH,Oxbryta,Sickle Cell Disease
-NH,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+NH,Ozempic,Weight Loss
 NH,Ozobax,Skeletal Muscle Relaxants
 NH,Ozurdex,Ophthalmics Antiinflammatories
 NH,Padcev,Oncology IV
@@ -44862,7 +44844,7 @@ NH,Elfabrio,Enzyme Replacement Fabry Disease
 NH,Fuzeon,HIV AIDS
 NH,Galafold,Enzyme Replacement Fabry Disease
 NH,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-NH,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+NH,Mounjaro,Weight Loss
 NH,Pombiliti,Enzyme Replacement Pompe Disease
 NH,Teriflunomide,Multiple Sclerosis Agents
 NH,Vpriv,Enzyme Replacement Gauchers Disease
@@ -45196,14 +45178,14 @@ NH,Otezla Behcet’s Disease,Cytokine and CAM Antagonists
 NH,Otezla Plaque Psoriasis (adult),Cytokine and CAM Antagonists
 NH,Otezla Plaque Psoriasis (pediatric),Cytokine and CAM Antagonists
 NH,Otezla Psoriatic Arthritis (adult),Cytokine and CAM Antagonists
-NH,Rinvoq Ankylosing Spondylitis,Cytokine and CAM Antagonists
-NH,Rinvoq Crohn's Disease (adult),Cytokine and CAM Antagonists
-NH,Rinvoq Non-Radiographic Axial Spondyloarthritis,Cytokine and CAM Antagonists
-NH,Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
-NH,Rinvoq Psoriatic Arthritis (adult),Cytokine and CAM Antagonists
-NH,Rinvoq Psoriatic Arthritis (pediatric),Cytokine and CAM Antagonists
-NH,Rinvoq Rheumatoid Arthritis,Cytokine and CAM Antagonists
-NH,Rinvoq Ulcerative Colitis (adult),Cytokine and CAM Antagonists
+NH,"Rinvoq Ankylosing Spondylitis, ER tablet",Cytokine and CAM Antagonists
+NH,"Rinvoq Crohn's Disease (adult), ER tablet",Cytokine and CAM Antagonists
+NH,"Rinvoq ER tablet, Non-Radiographic Axial Spondyloarthritis",Cytokine and CAM Antagonists
+NH,"Rinvoq ER tablet, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
+NH,"Rinvoq ER tablet, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
+NH,"Rinvoq ER tablet, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
+NH,"Rinvoq ER tablet, Rheumatoid Arthritis",Cytokine and CAM Antagonists
+NH,"Rinvoq ER tablet, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
 NH,"Xeljanz Ankylosing Spondylitis, IR tablet",Cytokine and CAM Antagonists
 NH,"Xeljanz IR tablet, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
 NH,"Xeljanz IR tablet, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
@@ -45401,7 +45383,7 @@ NH,Nucala Asthma (Pediatrics 6 years to 11 years of age),Immunomodulators Asthma
 NH,Nucala Chronic Rhinosinusitis with Nasal Polyposis,Immunomodulators Asthma
 NH,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),Immunomodulators Asthma
 NH,Nucala Hypereosinophilic Syndrome (HES),Immunomodulators Asthma
-NH,Rinvoq Atopic Dermatitis (adult),Cytokine and CAM Antagonists
+NH,"Rinvoq Atopic Dermatitis (adult), ER tablet",Cytokine and CAM Antagonists
 NH,Tezspire Asthma (Adults and Adolescents 12 years of age and older),Immunomodulators Asthma
 NH,Tezspire Asthma (pediatric),Immunomodulators Asthma
 NH,Xolair Asthma (Adults and Adolescents 12 years of age and older),Immunomodulators Asthma
@@ -45495,7 +45477,7 @@ NH,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 NH,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 NH,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 NH,Zortress,Immunosuppressives Oral
-NH,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+NH,Zepbound,Weight Loss
 NH,Cinryze vial,HAE Treatments
 NH,Haegarda vial,HAE Treatments
 NH,Zomacton Adult use,Growth Hormone
@@ -45551,6 +45533,10 @@ NH,Nutrilyte,Bowel Prep Agents
 NH,Peg 3350,Bowel Prep Agents
 NH,Peg 3350 - Flavored,Bowel Prep Agents
 NH,Trilyte,Bowel Prep Agents
+NH,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
+NH,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
+NH,"Rinvoq LQ, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
+NH,"Rinvoq LQ, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
 NJ,Aimovig,Antimigraine Agents Other
 NJ,Ajovy,Antimigraine Agents Other
 NJ,Nurtec ODT,Antimigraine Agents Acute Treatment
@@ -46069,7 +46055,7 @@ NJ,Orilissa,Uterine Disorder Treatments
 NJ,Orphenadrine ER,Skeletal Muscle Relaxants
 NJ,Oseltamivir,Antivirals Oral
 NJ,Oxbryta,Sickle Cell Disease
-NJ,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+NJ,Ozempic,Weight Loss
 NJ,Ozobax,Skeletal Muscle Relaxants
 NJ,Ozurdex,Ophthalmics Antiinflammatories
 NJ,Padcev,Oncology IV
@@ -46340,7 +46326,7 @@ NJ,Elfabrio,Enzyme Replacement Fabry Disease
 NJ,Fuzeon,HIV AIDS
 NJ,Galafold,Enzyme Replacement Fabry Disease
 NJ,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-NJ,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+NJ,Mounjaro,Weight Loss
 NJ,Pombiliti,Enzyme Replacement Pompe Disease
 NJ,Teriflunomide,Multiple Sclerosis Agents
 NJ,Vpriv,Enzyme Replacement Gauchers Disease
@@ -46930,7 +46916,7 @@ NJ,Recombinate,Hemophilia Treatment
 NJ,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 NJ,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 NJ,Zortress,Immunosuppressives Oral
-NJ,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+NJ,Zepbound,Weight Loss
 NJ,Cinryze vial,HAE Treatments
 NJ,Haegarda vial,HAE Treatments
 NJ,Zomacton,Growth Hormone
@@ -47508,7 +47494,7 @@ NM,Orilissa,Uterine Disorder Treatments
 NM,Orphenadrine ER,Skeletal Muscle Relaxants
 NM,Oseltamivir,Antivirals Oral
 NM,Oxbryta,Sickle Cell Disease
-NM,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+NM,Ozempic,Weight Loss
 NM,Ozobax,Skeletal Muscle Relaxants
 NM,Ozurdex,Ophthalmics Antiinflammatories
 NM,Padcev,Oncology IV
@@ -47779,7 +47765,7 @@ NM,Elfabrio,Enzyme Replacement Fabry Disease
 NM,Fuzeon,HIV AIDS
 NM,Galafold,Enzyme Replacement Fabry Disease
 NM,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-NM,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+NM,Mounjaro,Weight Loss
 NM,Pombiliti,Enzyme Replacement Pompe Disease
 NM,Teriflunomide,Multiple Sclerosis Agents
 NM,Vpriv,Enzyme Replacement Gauchers Disease
@@ -48369,7 +48355,7 @@ NM,Recombinate,Hemophilia Treatment
 NM,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 NM,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 NM,Zortress,Immunosuppressives Oral
-NM,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+NM,Zepbound,Weight Loss
 NM,Cinryze vial,HAE Treatments
 NM,Haegarda vial,HAE Treatments
 NM,Zomacton,Growth Hormone
@@ -48923,7 +48909,7 @@ NY,Orilissa,Uterine Disorder Treatments
 NY,Orphenadrine ER,Skeletal Muscle Relaxants
 NY,Oseltamivir,Antivirals Oral
 NY,Oxbryta,Sickle Cell Disease
-NY,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+NY,Ozempic,Weight Loss
 NY,Ozobax,Skeletal Muscle Relaxants
 NY,Ozurdex,Ophthalmics Antiinflammatories
 NY,Padcev,Oncology IV
@@ -49189,7 +49175,7 @@ NY,Elfabrio,Enzyme Replacement Fabry Disease
 NY,Fuzeon,HIV AIDS
 NY,Galafold,Enzyme Replacement Fabry Disease
 NY,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-NY,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+NY,Mounjaro,Weight Loss
 NY,Pombiliti,Enzyme Replacement Pompe Disease
 NY,Teriflunomide,Multiple Sclerosis Agents
 NY,Vpriv,Enzyme Replacement Gauchers Disease
@@ -49878,7 +49864,7 @@ NY,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 NY,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 NY,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 NY,Zortress,Immunosuppressives Oral
-NY,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+NY,Zepbound,Weight Loss
 NY,Cinryze vial,HAE Treatments
 NY,Haegarda vial,HAE Treatments
 NY,Tamiflu Capsule,Antivirals Oral
@@ -49941,6 +49927,7 @@ NY,"Rinvoq LQ, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and 
 NY,"Rinvoq LQ, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
 NY,Bimzelx Hidradenitis Suppurativa,Cytokine and CAM Antagonists
 NY,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+NY,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
 NC,Aimovig,Antimigraine Agents Other
 NC,Ajovy,Antimigraine Agents Other
 NC,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -50440,7 +50427,7 @@ NC,Orilissa,Uterine Disorder Treatments
 NC,Orphenadrine ER,Skeletal Muscle Relaxants
 NC,Oseltamivir,Antivirals Oral
 NC,Oxbryta,Sickle Cell Disease
-NC,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+NC,Ozempic,Weight Loss
 NC,Ozobax,Skeletal Muscle Relaxants
 NC,Ozurdex,Ophthalmics Antiinflammatories
 NC,Padcev,Oncology IV
@@ -50708,7 +50695,7 @@ NC,Elfabrio,Enzyme Replacement Fabry Disease
 NC,Fuzeon,HIV AIDS
 NC,Galafold,Enzyme Replacement Fabry Disease
 NC,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-NC,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+NC,Mounjaro,Weight Loss
 NC,Pombiliti,Enzyme Replacement Pompe Disease
 NC,Teriflunomide,Multiple Sclerosis Agents
 NC,Vpriv,Enzyme Replacement Gauchers Disease
@@ -51400,7 +51387,7 @@ NC,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 NC,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 NC,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 NC,Zortress,Immunosuppressives Oral
-NC,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+NC,Zepbound,Weight Loss
 NC,Cinryze vial,HAE Treatments
 NC,Haegarda vial,HAE Treatments
 NC,"Cosentyx Ankylosing Spondylitis, Sensoready",Cytokine and CAM Antagonists
@@ -51981,7 +51968,7 @@ ND,Orilissa,Uterine Disorder Treatments
 ND,Orphenadrine ER,Skeletal Muscle Relaxants
 ND,Oseltamivir,Antivirals Oral
 ND,Oxbryta,Sickle Cell Disease
-ND,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+ND,Ozempic,Weight Loss
 ND,Ozobax,Skeletal Muscle Relaxants
 ND,Ozurdex,Ophthalmics Antiinflammatories
 ND,Padcev,Oncology IV
@@ -52240,7 +52227,7 @@ ND,Elfabrio,Enzyme Replacement Fabry Disease
 ND,Fuzeon,HIV AIDS
 ND,Galafold,Enzyme Replacement Fabry Disease
 ND,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-ND,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+ND,Mounjaro,Weight Loss
 ND,Pombiliti,Enzyme Replacement Pompe Disease
 ND,Teriflunomide,Multiple Sclerosis Agents
 ND,Vpriv,Enzyme Replacement Gauchers Disease
@@ -52994,7 +52981,7 @@ ND,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 ND,Crysvita Tumor Induced Osteomalacia  (TIO),Hypophosphatemia
 ND,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 ND,Zortress,Immunosuppressives Oral
-ND,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Hypoglycemics Incretin Mimetics Enhancers
+ND,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Weight Loss
 ND,Cinryze vial,HAE Treatments
 ND,Haegarda vial,HAE Treatments
 ND,Alhemo Hemophilia A,Hemophilia Treatment
@@ -53555,7 +53542,7 @@ OH,Orilissa,Uterine Disorder Treatments
 OH,Orphenadrine ER,Skeletal Muscle Relaxants
 OH,Oseltamivir,Antivirals Oral
 OH,Oxbryta,Sickle Cell Disease
-OH,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+OH,Ozempic,Weight Loss
 OH,Ozobax,Skeletal Muscle Relaxants
 OH,Ozurdex,Ophthalmics Antiinflammatories
 OH,Padcev,Oncology IV
@@ -53819,7 +53806,7 @@ OH,Elfabrio,Enzyme Replacement Fabry Disease
 OH,Fuzeon,HIV AIDS
 OH,Galafold,Enzyme Replacement Fabry Disease
 OH,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-OH,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+OH,Mounjaro,Weight Loss
 OH,Pombiliti,Enzyme Replacement Pompe Disease
 OH,Teriflunomide,Multiple Sclerosis Agents
 OH,Vpriv,Enzyme Replacement Gauchers Disease
@@ -54531,7 +54518,7 @@ OH,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 OH,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 OH,"Zortress 0.25 mg, 0.5 mg, 0.75 mg",Immunosuppressives Oral
 OH,Zortress 1 mg,Immunosuppressives Oral
-OH,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+OH,Zepbound,Weight Loss
 OH,Cinryze vial,HAE Treatments
 OH,Haegarda vial,HAE Treatments
 OH,Zomacton Pediatric use,Growth Hormone
@@ -55106,7 +55093,7 @@ OK,Orilissa,Uterine Disorder Treatments
 OK,Orphenadrine ER,Skeletal Muscle Relaxants
 OK,Oseltamivir,Antivirals Oral
 OK,Oxbryta,Sickle Cell Disease
-OK,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+OK,Ozempic,Weight Loss
 OK,Ozobax,Skeletal Muscle Relaxants
 OK,Ozurdex,Ophthalmics Antiinflammatories
 OK,Padcev,Oncology IV
@@ -55375,7 +55362,7 @@ OK,Elfabrio,Enzyme Replacement Fabry Disease
 OK,Fuzeon,HIV AIDS
 OK,Galafold,Enzyme Replacement Fabry Disease
 OK,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-OK,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+OK,Mounjaro,Weight Loss
 OK,Pombiliti,Enzyme Replacement Pompe Disease
 OK,Teriflunomide,Multiple Sclerosis Agents
 OK,Vpriv,Enzyme Replacement Gauchers Disease
@@ -56023,7 +56010,7 @@ OK,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 OK,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 OK,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 OK,Zortress,Immunosuppressives Oral
-OK,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+OK,Zepbound,Weight Loss
 OK,Cinryze vial,HAE Treatments
 OK,Haegarda vial,HAE Treatments
 OK,Feiba Hemophilia A,Hemophilia Treatment
@@ -56592,7 +56579,7 @@ OR,Orilissa,Uterine Disorder Treatments
 OR,Orphenadrine ER,Skeletal Muscle Relaxants
 OR,Oseltamivir,Antivirals Oral
 OR,Oxbryta,Sickle Cell Disease
-OR,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+OR,Ozempic,Weight Loss
 OR,Ozobax,Skeletal Muscle Relaxants
 OR,Ozurdex,Ophthalmics Antiinflammatories
 OR,Padcev,Oncology IV
@@ -56856,7 +56843,7 @@ OR,Elfabrio,Enzyme Replacement Fabry Disease
 OR,Fuzeon,HIV AIDS
 OR,Galafold,Enzyme Replacement Fabry Disease
 OR,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-OR,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+OR,Mounjaro,Weight Loss
 OR,Pombiliti,Enzyme Replacement Pompe Disease
 OR,Teriflunomide,Multiple Sclerosis Agents
 OR,Vpriv,Enzyme Replacement Gauchers Disease
@@ -57539,7 +57526,7 @@ OR,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 OR,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 OR,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 OR,Zortress,Immunosuppressives Oral
-OR,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Hypoglycemics Incretin Mimetics Enhancers
+OR,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Weight Loss
 OR,Cinryze vial,HAE Treatments
 OR,Haegarda vial,HAE Treatments
 OR,Zomacton,Growth Hormone
@@ -58091,7 +58078,7 @@ PA,Orilissa,Uterine Disorder Treatments
 PA,Orphenadrine ER,Skeletal Muscle Relaxants
 PA,Oseltamivir,Antivirals Oral
 PA,Oxbryta,Sickle Cell Disease
-PA,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+PA,Ozempic,Weight Loss
 PA,Ozobax,Skeletal Muscle Relaxants
 PA,Ozurdex,Ophthalmics Antiinflammatories
 PA,Padcev,Oncology IV
@@ -58351,7 +58338,7 @@ PA,Elfabrio,Enzyme Replacement Fabry Disease
 PA,Fuzeon,HIV AIDS
 PA,Galafold,Enzyme Replacement Fabry Disease
 PA,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-PA,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+PA,Mounjaro,Weight Loss
 PA,Pombiliti,Enzyme Replacement Pompe Disease
 PA,Teriflunomide,Multiple Sclerosis Agents
 PA,Vpriv,Enzyme Replacement Gauchers Disease
@@ -59095,7 +59082,7 @@ PA,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 PA,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 PA,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 PA,Zortress,Immunosuppressives Oral
-PA,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+PA,Zepbound,Weight Loss
 PA,Cinryze vial,HAE Treatments
 PA,Haegarda vial,HAE Treatments
 PA,Zomacton,Growth Hormone
@@ -59154,6 +59141,20 @@ PA,Nutrilyte,Bowel Prep Agents
 PA,Peg 3350,Bowel Prep Agents
 PA,Peg 3350 - Flavored,Bowel Prep Agents
 PA,Trilyte,Bowel Prep Agents
+PA,"Stelara Crohn’s Disease (adult), intravenous vial",Cytokine and CAM Antagonists
+PA,"Stelara Crohn’s Disease (adult), prefilled syringe",Cytokine and CAM Antagonists
+PA,"Stelara Crohn’s Disease (adult), subcutaneous vial",Cytokine and CAM Antagonists
+PA,"Stelara Plaque Psoriasis (adult), prefilled syringe",Cytokine and CAM Antagonists
+PA,"Stelara Plaque Psoriasis (adult), subcutaneous vial",Cytokine and CAM Antagonists
+PA,"Stelara Plaque Psoriasis (pediatric), prefilled syringe",Cytokine and CAM Antagonists
+PA,"Stelara Plaque Psoriasis (pediatric), subcutaneous vial",Cytokine and CAM Antagonists
+PA,"Stelara Psoriatic Arthritis (adult), subcutaneous vial",Cytokine and CAM Antagonists
+PA,"Stelara prefilled syringe, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
+PA,"Stelara prefilled syringe, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
+PA,"Stelara Psoriatic Arthritis (pediatric), subcutaneous vial",Cytokine and CAM Antagonists
+PA,"Stelara intravenous vial, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
+PA,"Stelara prefilled syringe, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
+PA,"Stelara subcutaneous vial, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
 PR,Abrilada Ankylosing Spondylitis,Cytokine and CAM Antagonists
 PR,Abrilada Crohn’s Disease (adult),Cytokine and CAM Antagonists
 PR,Abrilada Crohn's Disease (pediatric),Cytokine and CAM Antagonists
@@ -59738,7 +59739,7 @@ PR,Rybelsus,Hypoglycemics Incretin Mimetics Enhancers
 PR,Elevidys intravenous infusion kit,Duchenne Muscular Dystrophy
 PR,Xdemvy,XDEMVY
 PR,Olmesartan,Angiotensin Modulators
-PR,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+PR,Ozempic,Weight Loss
 PR,Dulera,Glucocorticoids Combo Inhaled
 PR,Tobramycin,Antibiotics Inhaled
 PR,Symbicort,Glucocorticoids Combo Inhaled
@@ -60111,7 +60112,7 @@ PR,Kuvan packet for oral solution,Phenylketonuria
 PR,Kuvan tablet,Phenylketonuria
 PR,Betapace AF,Beta Blockers
 PR,Reyvow,Antimigraine Agents Triptans
-PR,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+PR,Mounjaro,Weight Loss
 PR,Niktimvo intravenous vial,Colony Stimulating Factors
 PR,Voquezna Dual Pak,H Pylori Treatment
 PR,Rituxan,Oncology IV
@@ -60394,7 +60395,7 @@ PR,"Entyvio Ulcerative Colitis (adult), vial",Cytokine and CAM Antagonists
 PR,Fasenra Asthma (Adults and Adolescents 12 years of age and older),Immunomodulators Asthma
 PR,Crysvita Tumor Induced Osteomalacia  (TIO),Hypophosphatemia
 PR,Zortress,Immunosuppressives Oral
-PR,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+PR,Zepbound,Weight Loss
 PR,Cinryze vial,HAE Treatments
 PR,Haegarda vial,HAE Treatments
 PR,Ilaris Cryopyrin Associated Periodic Syndromes (CAPS) including Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS),Cytokine and CAM Antagonists
@@ -61027,7 +61028,7 @@ RI,Orilissa,Uterine Disorder Treatments
 RI,Orphenadrine ER,Skeletal Muscle Relaxants
 RI,Oseltamivir,Antivirals Oral
 RI,Oxbryta,Sickle Cell Disease
-RI,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+RI,Ozempic,Weight Loss
 RI,Ozobax,Skeletal Muscle Relaxants
 RI,Ozurdex,Ophthalmics Antiinflammatories
 RI,Padcev,Oncology IV
@@ -61296,7 +61297,7 @@ RI,Elfabrio,Enzyme Replacement Fabry Disease
 RI,Fuzeon,HIV AIDS
 RI,Galafold,Enzyme Replacement Fabry Disease
 RI,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-RI,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+RI,Mounjaro,Weight Loss
 RI,Pombiliti,Enzyme Replacement Pompe Disease
 RI,Teriflunomide,Multiple Sclerosis Agents
 RI,Vpriv,Enzyme Replacement Gauchers Disease
@@ -61926,7 +61927,7 @@ RI,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 RI,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 RI,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 RI,Zortress,Immunosuppressives Oral
-RI,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+RI,Zepbound,Weight Loss
 RI,Cinryze vial,HAE Treatments
 RI,Haegarda vial,HAE Treatments
 RI,Zomacton,Growth Hormone
@@ -62490,7 +62491,7 @@ SC,Orilissa,Uterine Disorder Treatments
 SC,Orphenadrine ER,Skeletal Muscle Relaxants
 SC,Oseltamivir,Antivirals Oral
 SC,Oxbryta,Sickle Cell Disease
-SC,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+SC,Ozempic,Weight Loss
 SC,Ozobax,Skeletal Muscle Relaxants
 SC,Ozurdex,Ophthalmics Antiinflammatories
 SC,Padcev,Oncology IV
@@ -62758,7 +62759,7 @@ SC,Elfabrio,Enzyme Replacement Fabry Disease
 SC,Fuzeon,HIV AIDS
 SC,Galafold,Enzyme Replacement Fabry Disease
 SC,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-SC,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+SC,Mounjaro,Weight Loss
 SC,Pombiliti,Enzyme Replacement Pompe Disease
 SC,Teriflunomide,Multiple Sclerosis Agents
 SC,Vpriv,Enzyme Replacement Gauchers Disease
@@ -63446,7 +63447,7 @@ SC,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 SC,Crysvita Tumor Induced Osteomalacia  (TIO),Hypophosphatemia
 SC,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 SC,Zortress,Immunosuppressives Oral
-SC,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+SC,Zepbound,Weight Loss
 SC,Cinryze vial,HAE Treatments
 SC,Haegarda vial,HAE Treatments
 SC,Zomacton Adult use,Growth Hormone
@@ -64024,7 +64025,7 @@ SD,Orilissa,Uterine Disorder Treatments
 SD,Orphenadrine ER,Skeletal Muscle Relaxants
 SD,Oseltamivir,Antivirals Oral
 SD,Oxbryta,Sickle Cell Disease
-SD,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+SD,Ozempic,Weight Loss
 SD,Ozobax,Skeletal Muscle Relaxants
 SD,Ozurdex,Ophthalmics Antiinflammatories
 SD,Padcev,Oncology IV
@@ -64293,7 +64294,7 @@ SD,Elfabrio,Enzyme Replacement Fabry Disease
 SD,Fuzeon,HIV AIDS
 SD,Galafold,Enzyme Replacement Fabry Disease
 SD,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-SD,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+SD,Mounjaro,Weight Loss
 SD,Pombiliti,Enzyme Replacement Pompe Disease
 SD,Teriflunomide,Multiple Sclerosis Agents
 SD,Vpriv,Enzyme Replacement Gauchers Disease
@@ -64939,7 +64940,7 @@ SD,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 SD,Crysvita Tumor Induced Osteomalacia  (TIO),Hypophosphatemia
 SD,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 SD,Zortress,Immunosuppressives Oral
-SD,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+SD,Zepbound,Weight Loss
 SD,Cinryze vial,HAE Treatments
 SD,Haegarda vial,HAE Treatments
 SD,Zomacton Adult use,Growth Hormone
@@ -65489,7 +65490,7 @@ TN,Orilissa,Uterine Disorder Treatments
 TN,Orphenadrine ER,Skeletal Muscle Relaxants
 TN,Oseltamivir,Antivirals Oral
 TN,Oxbryta,Sickle Cell Disease
-TN,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+TN,Ozempic,Weight Loss
 TN,Ozobax,Skeletal Muscle Relaxants
 TN,Ozurdex,Ophthalmics Antiinflammatories
 TN,Padcev,Oncology IV
@@ -65754,7 +65755,7 @@ TN,Elfabrio,Enzyme Replacement Fabry Disease
 TN,Fuzeon,HIV AIDS
 TN,Galafold,Enzyme Replacement Fabry Disease
 TN,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-TN,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+TN,Mounjaro,Weight Loss
 TN,Pombiliti,Enzyme Replacement Pompe Disease
 TN,Teriflunomide,Multiple Sclerosis Agents
 TN,Vpriv,Enzyme Replacement Gauchers Disease
@@ -66479,7 +66480,7 @@ TN,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 TN,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 TN,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 TN,Zortress,Immunosuppressives Oral
-TN,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+TN,Zepbound,Weight Loss
 TN,Cinryze vial,HAE Treatments
 TN,Haegarda vial,HAE Treatments
 TN,Zomacton,Growth Hormone
@@ -66551,6 +66552,7 @@ TN,"Abilify Major Depressive Disorder (MDD), MyCite",Antipsychotics
 TN,"Olanzapine Major Depressive Disorder (MDD), ODT",Antipsychotics
 TN,Quetiapine ER Major Depressive Disorder (MDD),Antipsychotics
 TN,Ziprasidone Injectable,Antipsychotics
+TN,Uplizna Immunoglobulin G4-Related Disease (IgG4-RD),Cytokine and CAM Antagonists
 TX,Aimovig,Antimigraine Agents Other
 TX,Ajovy,Antimigraine Agents Other
 TX,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -67035,7 +67037,7 @@ TX,Orilissa,Uterine Disorder Treatments
 TX,Orphenadrine ER,Skeletal Muscle Relaxants
 TX,Oseltamivir,Antivirals Oral
 TX,Oxbryta,Sickle Cell Disease
-TX,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+TX,Ozempic,Weight Loss
 TX,Ozobax,Skeletal Muscle Relaxants
 TX,Ozurdex,Ophthalmics Antiinflammatories
 TX,Padcev,Oncology IV
@@ -67299,7 +67301,7 @@ TX,Elfabrio,Enzyme Replacement Fabry Disease
 TX,Fuzeon,HIV AIDS
 TX,Galafold,Enzyme Replacement Fabry Disease
 TX,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-TX,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+TX,Mounjaro,Weight Loss
 TX,Pombiliti,Enzyme Replacement Pompe Disease
 TX,Teriflunomide,Multiple Sclerosis Agents
 TX,Vpriv,Enzyme Replacement Gauchers Disease
@@ -67766,26 +67768,16 @@ TX,Abrilada Psoriatic Arthritis (adult),Cytokine and CAM Antagonists
 TX,Abrilada Rheumatoid Arthritis,Cytokine and CAM Antagonists
 TX,Abrilada Ulcerative Colitis (adult),Cytokine and CAM Antagonists
 TX,Abrilada Uveitis (adult),Cytokine and CAM Antagonists
-TX,"Simlandi Ankylosing Spondylitis, auto-injector",Cytokine and CAM Antagonists
-TX,"Simlandi Ankylosing Spondylitis, prefilled syringe",Cytokine and CAM Antagonists
-TX,"Simlandi auto-injector, Crohn’s Disease (adult)",Cytokine and CAM Antagonists
-TX,"Simlandi Crohn’s Disease (adult), prefilled syringe",Cytokine and CAM Antagonists
-TX,"Simlandi auto-injector, Crohn’s Disease (pediatric)",Cytokine and CAM Antagonists
-TX,"Simlandi Crohn’s Disease (pediatric), prefilled syringe",Cytokine and CAM Antagonists
-TX,"Simlandi auto-injector, Hidradenitis Suppurativa",Cytokine and CAM Antagonists
-TX,"Simlandi Hidradenitis Suppurativa, prefilled syringe",Cytokine and CAM Antagonists
-TX,"Simlandi auto-injector, Plaque Psoriasis (adult)",Cytokine and CAM Antagonists
-TX,"Simlandi Plaque Psoriasis (adult), prefilled syringe",Cytokine and CAM Antagonists
-TX,"Simlandi auto-injector, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
-TX,"Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA), prefilled syringe",Cytokine and CAM Antagonists
-TX,"Simlandi auto-injector, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
-TX,"Simlandi prefilled syringe, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
-TX,"Simlandi auto-injector, Rheumatoid Arthritis",Cytokine and CAM Antagonists
-TX,"Simlandi prefilled syringe, Rheumatoid Arthritis",Cytokine and CAM Antagonists
-TX,"Simlandi auto-injector, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
-TX,"Simlandi prefilled syringe, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
-TX,"Simlandi auto-injector, Uveitis (adult)",Cytokine and CAM Antagonists
-TX,"Simlandi prefilled syringe, Uveitis (adult)",Cytokine and CAM Antagonists
+TX,Simlandi Ankylosing Spondylitis,Cytokine and CAM Antagonists
+TX,Simlandi Crohn’s Disease (adult),Cytokine and CAM Antagonists
+TX,Simlandi Crohn’s Disease (pediatric),Cytokine and CAM Antagonists
+TX,Simlandi Hidradenitis Suppurativa,Cytokine and CAM Antagonists
+TX,Simlandi Plaque Psoriasis (adult),Cytokine and CAM Antagonists
+TX,Simlandi Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
+TX,Simlandi Psoriatic Arthritis (adult),Cytokine and CAM Antagonists
+TX,Simlandi Rheumatoid Arthritis,Cytokine and CAM Antagonists
+TX,Simlandi Ulcerative Colitis (adult),Cytokine and CAM Antagonists
+TX,Simlandi Uveitis (adult),Cytokine and CAM Antagonists
 TX,"Bimzelx Ankylosing Spondylitis, auto-injector",Cytokine and CAM Antagonists
 TX,"Bimzelx Ankylosing Spondylitis, prefilled syringe",Cytokine and CAM Antagonists
 TX,"Bimzelx auto-injector, Non-Radiographic Axial Spondyloarthritis",Cytokine and CAM Antagonists
@@ -68056,7 +68048,7 @@ TX,Recombinate,Hemophilia Treatment
 TX,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 TX,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 TX,Zortress,Immunosuppressives Oral
-TX,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+TX,Zepbound,Weight Loss
 TX,Cinryze vial,HAE Treatments
 TX,Haegarda vial,HAE Treatments
 TX,Crysvita Tumor Induced Osteomalacia  (TIO),Hypophosphatemia
@@ -68625,7 +68617,7 @@ UT,Orilissa,Uterine Disorder Treatments
 UT,Orphenadrine ER,Skeletal Muscle Relaxants
 UT,Oseltamivir,Antivirals Oral
 UT,Oxbryta,Sickle Cell Disease
-UT,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+UT,Ozempic,Weight Loss
 UT,Ozobax,Skeletal Muscle Relaxants
 UT,Ozurdex,Ophthalmics Antiinflammatories
 UT,Padcev,Oncology IV
@@ -68893,7 +68885,7 @@ UT,Elfabrio,Enzyme Replacement Fabry Disease
 UT,Fuzeon,HIV AIDS
 UT,Galafold,Enzyme Replacement Fabry Disease
 UT,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-UT,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+UT,Mounjaro,Weight Loss
 UT,Pombiliti,Enzyme Replacement Pompe Disease
 UT,Teriflunomide,Multiple Sclerosis Agents
 UT,Vpriv,Enzyme Replacement Gauchers Disease
@@ -69542,10 +69534,10 @@ UT,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 UT,Crysvita Tumor Induced Osteomalacia  (TIO),Hypophosphatemia
 UT,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 UT,Zortress,Immunosuppressives Oral
-UT,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Hypoglycemics Incretin Mimetics Enhancers
+UT,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Weight Loss
 UT,Cinryze vial,HAE Treatments
 UT,Haegarda vial,HAE Treatments
-UT,Zepbound Weight Loss,Hypoglycemics Incretin Mimetics Enhancers
+UT,Zepbound Weight Loss,Weight Loss
 UT,Zomacton Pediatric use,Growth Hormone
 UT,Zomacton Adult use,Growth Hormone
 UT,Lodoco tablet,Antigout Agent
@@ -70121,7 +70113,7 @@ VT,Orilissa,Uterine Disorder Treatments
 VT,Orphenadrine ER,Skeletal Muscle Relaxants
 VT,Oseltamivir,Antivirals Oral
 VT,Oxbryta,Sickle Cell Disease
-VT,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+VT,Ozempic,Weight Loss
 VT,Ozobax,Skeletal Muscle Relaxants
 VT,Ozurdex,Ophthalmics Antiinflammatories
 VT,Padcev,Oncology IV
@@ -70388,7 +70380,7 @@ VT,Elfabrio,Enzyme Replacement Fabry Disease
 VT,Fuzeon,HIV AIDS
 VT,Galafold,Enzyme Replacement Fabry Disease
 VT,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-VT,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+VT,Mounjaro,Weight Loss
 VT,Pombiliti,Enzyme Replacement Pompe Disease
 VT,Teriflunomide,Multiple Sclerosis Agents
 VT,Vpriv,Enzyme Replacement Gauchers Disease
@@ -71042,7 +71034,7 @@ VT,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 VT,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 VT,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 VT,Zortress,Immunosuppressives Oral
-VT,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+VT,Zepbound,Weight Loss
 VT,Cinryze vial,HAE Treatments
 VT,Haegarda vial,HAE Treatments
 VT,"Nucala auto-injector, Chronic Obstructive Pulmonary Disease (COPD)",Immunomodulators Asthma
@@ -71616,7 +71608,7 @@ VA,Orilissa,Uterine Disorder Treatments
 VA,Orphenadrine ER,Skeletal Muscle Relaxants
 VA,Oseltamivir,Antivirals Oral
 VA,Oxbryta,Sickle Cell Disease
-VA,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+VA,Ozempic,Weight Loss
 VA,Ozobax,Skeletal Muscle Relaxants
 VA,Ozurdex,Ophthalmics Antiinflammatories
 VA,Padcev,Oncology IV
@@ -71885,7 +71877,7 @@ VA,Elfabrio,Enzyme Replacement Fabry Disease
 VA,Fuzeon,HIV AIDS
 VA,Galafold,Enzyme Replacement Fabry Disease
 VA,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-VA,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+VA,Mounjaro,Weight Loss
 VA,Pombiliti,Enzyme Replacement Pompe Disease
 VA,Teriflunomide,Multiple Sclerosis Agents
 VA,Vpriv,Enzyme Replacement Gauchers Disease
@@ -72218,14 +72210,14 @@ VA,Cosentyx Psoriatic Arthritis (pediatric),Cytokine and CAM Antagonists
 VA,Litfulo Alopecia Areata,Cytokine and CAM Antagonists
 VA,Olumiant Alopecia Areata,Cytokine and CAM Antagonists
 VA,Olumiant Rheumatoid Arthritis,Cytokine and CAM Antagonists
-VA,Rinvoq Ankylosing Spondylitis,Cytokine and CAM Antagonists
-VA,Rinvoq Crohn's Disease (adult),Cytokine and CAM Antagonists
-VA,Rinvoq Non-Radiographic Axial Spondyloarthritis,Cytokine and CAM Antagonists
-VA,Rinvoq Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
-VA,Rinvoq Psoriatic Arthritis (adult),Cytokine and CAM Antagonists
-VA,Rinvoq Psoriatic Arthritis (pediatric),Cytokine and CAM Antagonists
-VA,Rinvoq Rheumatoid Arthritis,Cytokine and CAM Antagonists
-VA,Rinvoq Ulcerative Colitis (adult),Cytokine and CAM Antagonists
+VA,"Rinvoq Ankylosing Spondylitis, ER tablet",Cytokine and CAM Antagonists
+VA,"Rinvoq Crohn's Disease (adult), ER tablet",Cytokine and CAM Antagonists
+VA,"Rinvoq ER tablet, Non-Radiographic Axial Spondyloarthritis",Cytokine and CAM Antagonists
+VA,"Rinvoq ER tablet, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
+VA,"Rinvoq ER tablet, Psoriatic Arthritis (adult)",Cytokine and CAM Antagonists
+VA,"Rinvoq ER tablet, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
+VA,"Rinvoq ER tablet, Rheumatoid Arthritis",Cytokine and CAM Antagonists
+VA,"Rinvoq ER tablet, Ulcerative Colitis (adult)",Cytokine and CAM Antagonists
 VA,Uplizna Neuromyelitis Optica Spectrum Disorder (NMOSD),Cytokine and CAM Antagonists
 VA,Velsipity Ulcerative Colitis (adult),Cytokine and CAM Antagonists
 VA,"Nemluvio Atopic Dermatitis (adult), auto-injector",Immunomodulators Atopic Dermatitis
@@ -72300,7 +72292,6 @@ VA,Dupixent Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
 VA,Dupixent Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Atopic Dermatitis
 VA,Dupixent Chronic Rhinosinusitis with Nasal Polyposis,Immunomodulators Atopic Dermatitis
 VA,Dupixent Eosinophilic Esophagitis,Immunomodulators Atopic Dermatitis
-VA,Dupixent Eosinophilic or Corticosteroid-Dependent Asthma,Immunomodulators Atopic Dermatitis
 VA,Dupixent Prurigo Nodularis,Immunomodulators Atopic Dermatitis
 VA,Fasenra Asthma (Adults and Adolescents 12 years of age and older),Immunomodulators Asthma
 VA,Fasenra Asthma (Pediatrics 6 years to 11 years of age),Immunomodulators Asthma
@@ -72310,7 +72301,7 @@ VA,Nucala Asthma (Pediatrics 6 years to 11 years of age),Immunomodulators Asthma
 VA,Nucala Chronic Rhinosinusitis with Nasal Polyposis,Immunomodulators Asthma
 VA,Nucala Eosinophilic Granulomatosis with Polyangitis (EGPA),Immunomodulators Asthma
 VA,Nucala Hypereosinophilic Syndrome (HES),Immunomodulators Asthma
-VA,Rinvoq Atopic Dermatitis (adult),Cytokine and CAM Antagonists
+VA,"Rinvoq Atopic Dermatitis (adult), ER tablet",Cytokine and CAM Antagonists
 VA,Tezspire Asthma (Adults and Adolescents 12 years of age and older),Immunomodulators Asthma
 VA,Xolair Asthma (Adults and Adolescents 12 years of age and older),Immunomodulators Asthma
 VA,Xolair Asthma (Pediatrics 6 years to 11 years of age),Immunomodulators Asthma
@@ -72509,7 +72500,7 @@ VA,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 VA,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 VA,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 VA,Zortress,Immunosuppressives Oral
-VA,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+VA,Zepbound,Weight Loss
 VA,Cinryze vial,HAE Treatments
 VA,Haegarda vial,HAE Treatments
 VA,Zomacton Pediatric use,Growth Hormone
@@ -72569,6 +72560,15 @@ VA,Nutrilyte,Bowel Prep Agents
 VA,Peg 3350,Bowel Prep Agents
 VA,Peg 3350 - Flavored,Bowel Prep Agents
 VA,Trilyte,Bowel Prep Agents
+VA,Nucala Chronic Obstructive Pulmonary Disease (COPD),Immunomodulators Asthma
+VA,Dupixent Bullous Pemphigoid,Immunomodulators Atopic Dermatitis
+VA,Cibinqo Atopic Dermatitis (pediatric),Immunomodulators Atopic Dermatitis
+VA,Dupixent Chronic Spontaneous Urticaria (CSU),Immunomodulators Atopic Dermatitis
+VA,"Rinvoq ER tablet, Giant Cell Arteritis",Cytokine and CAM Antagonists
+VA,"Rinvoq LQ, Polyarticular Juvenile Idiopathic Arthritis (PJIA)",Cytokine and CAM Antagonists
+VA,"Rinvoq LQ, Psoriatic Arthritis (pediatric)",Cytokine and CAM Antagonists
+VA,Bimzelx Hidradenitis Suppurativa,Cytokine and CAM Antagonists
+VA,Cimzia Polyarticular Juvenile Idiopathic Arthritis (PJIA),Cytokine and CAM Antagonists
 WA,Aimovig,Antimigraine Agents Other
 WA,Ajovy,Antimigraine Agents Other
 WA,Qulipta,Antimigraine Agents Prophylactic Treatment
@@ -73336,7 +73336,7 @@ WA,Elfabrio,Enzyme Replacement Fabry Disease
 WA,Fuzeon,HIV AIDS
 WA,Galafold,Enzyme Replacement Fabry Disease
 WA,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-WA,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+WA,Mounjaro,Weight Loss
 WA,Pombiliti,Enzyme Replacement Pompe Disease
 WA,Teriflunomide,Multiple Sclerosis Agents
 WA,Vpriv,Enzyme Replacement Gauchers Disease
@@ -74018,19 +74018,19 @@ WA,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 WA,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 WA,Crysvita Tumor Induced Osteomalacia  (TIO),Hypophosphatemia
 WA,Zortress,Immunosuppressives Oral
-WA,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+WA,Zepbound,Weight Loss
 WA,Cinryze vial,HAE Treatments
 WA,Haegarda vial,HAE Treatments
 WA,Zomacton Adult use,Growth Hormone
 WA,Zomacton Pediatric use,Growth Hormone
 WA,Lodoco tablet,Antigout Agent
 WA,Victoza Type 2 Diabetes Mellitus,Hypoglycemics Incretin Mimetics Enhancers
-WA,Ozempic Type 2 Diabetes Mellitus,Hypoglycemics Incretin Mimetics Enhancers
+WA,Ozempic Type 2 Diabetes Mellitus,Weight Loss
 WA,Trulicity Type 2 Diabetes Mellitus,Hypoglycemics Incretin Mimetics Enhancers
-WA,Ozempic T2DM & Cardiovascular Disease or Multiple Cardiovascular Risk Factors/Risk For Major Adverse CV Events,Hypoglycemics Incretin Mimetics Enhancers
+WA,Ozempic T2DM & Cardiovascular Disease or Multiple Cardiovascular Risk Factors/Risk For Major Adverse CV Events,Weight Loss
 WA,Trulicity T2DM & Cardiovascular Disease or Multiple Cardiovascular Risk Factors/Risk For Major Adverse CV Events,Hypoglycemics Incretin Mimetics Enhancers
 WA,Victoza T2DM & Cardiovascular Disease or Multiple Cardiovascular Risk Factors/Risk For Major Adverse CV Events,Hypoglycemics Incretin Mimetics Enhancers
-WA,"Ozempic Chronic kidney disease, to reduce the risk of sustained estimated GFR decline, end-stage kidney disease and cardiovascular death in patients with T2DM",Hypoglycemics Incretin Mimetics Enhancers
+WA,"Ozempic Chronic kidney disease, to reduce the risk of sustained estimated GFR decline, end-stage kidney disease and cardiovascular death in patients with T2DM",Weight Loss
 WA,Alogliptin Benzoate tablet,Hypoglycemics Incretin Mimetics Enhancers
 WA,Alogliptin / Metformin tablet,Hypoglycemics Incretin Mimetics Enhancers
 WA,Alogliptin / Pioglitazone tablet,Hypoglycemics Incretin Mimetics Enhancers
@@ -74610,7 +74610,7 @@ WV,Orilissa,Uterine Disorder Treatments
 WV,Orphenadrine ER,Skeletal Muscle Relaxants
 WV,Oseltamivir,Antivirals Oral
 WV,Oxbryta,Sickle Cell Disease
-WV,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+WV,Ozempic,Weight Loss
 WV,Ozobax,Skeletal Muscle Relaxants
 WV,Ozurdex,Ophthalmics Antiinflammatories
 WV,Padcev,Oncology IV
@@ -74877,7 +74877,7 @@ WV,Elfabrio,Enzyme Replacement Fabry Disease
 WV,Fuzeon,HIV AIDS
 WV,Galafold,Enzyme Replacement Fabry Disease
 WV,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-WV,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+WV,Mounjaro,Weight Loss
 WV,Pombiliti,Enzyme Replacement Pompe Disease
 WV,Teriflunomide,Multiple Sclerosis Agents
 WV,Vpriv,Enzyme Replacement Gauchers Disease
@@ -75541,7 +75541,7 @@ WV,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 WV,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 WV,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 WV,Zortress,Immunosuppressives Oral
-WV,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Hypoglycemics Incretin Mimetics Enhancers
+WV,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Weight Loss
 WV,Cinryze vial,HAE Treatments
 WV,Haegarda vial,HAE Treatments
 WV,Zomacton Pediatric use,Growth Hormone
@@ -76104,7 +76104,7 @@ WI,Orilissa,Uterine Disorder Treatments
 WI,Orphenadrine ER,Skeletal Muscle Relaxants
 WI,Oseltamivir,Antivirals Oral
 WI,Oxbryta,Sickle Cell Disease
-WI,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+WI,Ozempic,Weight Loss
 WI,Ozobax,Skeletal Muscle Relaxants
 WI,Ozurdex,Ophthalmics Antiinflammatories
 WI,Padcev,Oncology IV
@@ -76372,7 +76372,7 @@ WI,Elfabrio,Enzyme Replacement Fabry Disease
 WI,Fuzeon,HIV AIDS
 WI,Galafold,Enzyme Replacement Fabry Disease
 WI,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-WI,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+WI,Mounjaro,Weight Loss
 WI,Pombiliti,Enzyme Replacement Pompe Disease
 WI,Teriflunomide,Multiple Sclerosis Agents
 WI,Vpriv,Enzyme Replacement Gauchers Disease
@@ -77022,7 +77022,7 @@ WI,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 WI,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 WI,Crysvita X-Linked Hypophosphatemia (XLH),Hypophosphatemia
 WI,Zortress,Immunosuppressives Oral
-WI,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+WI,Zepbound,Weight Loss
 WI,Cinryze vial,HAE Treatments
 WI,Haegarda vial,HAE Treatments
 WI,Zomacton,Growth Hormone
@@ -77052,7 +77052,7 @@ WI,Teriparatide Generic Bonsity,Bone Resorption Suppression and Related Agents
 WI,Botox Chronic Migraines,Botulinum Toxins
 WI,Janumet XR ER tablet,Hypoglycemics Incretin Mimetics Enhancers
 WI,Zituvio tablet,Hypoglycemics Incretin Mimetics Enhancers
-WI,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Hypoglycemics Incretin Mimetics Enhancers
+WI,Zepbound Severe Obstructive Sleep Apnea/Hypopnea,Weight Loss
 WI,Arformoterol Tartrate inhalation nebulization solution,COPD Agents
 WI,Brovana inhalation nebulization solution,COPD Agents
 WI,Formoterol Fumarate inhalation nebulization solution,COPD Agents
@@ -77589,7 +77589,7 @@ WY,Orilissa,Uterine Disorder Treatments
 WY,Orphenadrine ER,Skeletal Muscle Relaxants
 WY,Oseltamivir,Antivirals Oral
 WY,Oxbryta,Sickle Cell Disease
-WY,Ozempic,Hypoglycemics Incretin Mimetics Enhancers
+WY,Ozempic,Weight Loss
 WY,Ozobax,Skeletal Muscle Relaxants
 WY,Ozurdex,Ophthalmics Antiinflammatories
 WY,Padcev,Oncology IV
@@ -77856,7 +77856,7 @@ WY,Elfabrio,Enzyme Replacement Fabry Disease
 WY,Fuzeon,HIV AIDS
 WY,Galafold,Enzyme Replacement Fabry Disease
 WY,Insulin Glargine,Hypoglycemics Insulin and Related Agents
-WY,Mounjaro,Hypoglycemics Incretin Mimetics Enhancers
+WY,Mounjaro,Weight Loss
 WY,Pombiliti,Enzyme Replacement Pompe Disease
 WY,Teriflunomide,Multiple Sclerosis Agents
 WY,Vpriv,Enzyme Replacement Gauchers Disease
@@ -78492,7 +78492,7 @@ WY,Oxlumo,Primary Hyperoxaluria type 1 - PH1
 WY,Rivfloza,Primary Hyperoxaluria type 1 - PH1
 WY,Crysvita Tumor Induced Osteomalacia  (TIO),Hypophosphatemia
 WY,Zortress,Immunosuppressives Oral
-WY,Zepbound,Hypoglycemics Incretin Mimetics Enhancers
+WY,Zepbound,Weight Loss
 WY,Cinryze vial,HAE Treatments
 WY,Haegarda vial,HAE Treatments
 WY,Zomacton,Growth Hormone
